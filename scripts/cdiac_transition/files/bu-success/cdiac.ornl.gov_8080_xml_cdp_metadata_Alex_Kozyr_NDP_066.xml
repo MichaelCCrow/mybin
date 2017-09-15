@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Johnson, K. M.]]></origin>
+        <origin><![CDATA[Schneider, B.]]></origin>
+        <origin><![CDATA[Mintrop, L.]]></origin>
+        <origin><![CDATA[Wallace, D. W. R.]]></origin>
+        <title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Meteor Cruise 22/5 in the South Atlantic Ocean (WOCE Section A10, December 1992-January 1993)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_066.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp066/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Meteor Cruise 22/5 in the South Atlantic Ocean (WOCE Section A10, December 1992-January 1993)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19921228]]></begdate>
+          <enddate><![CDATA[19930128]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-47.385]]></westbc>
+        <eastbc><![CDATA[14.999]]></eastbc>
+        <northbc><![CDATA[-25.645]]></northbc>
+        <southbc><![CDATA[-30.029]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[TALK]]></themekey>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[bottle oxygen]]></themekey>
+        <themekey><![CDATA[bottle salinity]]></themekey>
+        <themekey><![CDATA[chlorofluorocarbons (CFC-11 CFC-12)]]></themekey>
+        <themekey><![CDATA[nitrate]]></themekey>
+        <themekey><![CDATA[nitrite]]></themekey>
+        <themekey><![CDATA[phosphate]]></themekey>
+        <themekey><![CDATA[pressure]]></themekey>
+        <themekey><![CDATA[salinity measured by (CTD)]]></themekey>
+        <themekey><![CDATA[silicate]]></themekey>
+        <themekey><![CDATA[temperature]]></themekey>
+        <themekey><![CDATA[underway pCO2]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[hydrographic]]></themekey>
+        <themekey><![CDATA[chemical data ]]></themekey>
+        <themekey><![CDATA[R/V Meteor Cruise 22/5 ]]></themekey>
+        <themekey><![CDATA[South Atlantic Ocean ]]></themekey>
+        <themekey><![CDATA[WOCE Section A10]]></themekey>
+        <themekey><![CDATA[Kenneth Johnson]]></themekey>
+        <themekey><![CDATA[Brookhaven National Laboratory]]></themekey>
+        <themekey><![CDATA[Douglas W. R. Wallace]]></themekey>
+        <themekey><![CDATA[Institut fur Ostseeforschung]]></themekey>
+        <themekey><![CDATA[Bernd Schneider]]></themekey>
+        <themekey><![CDATA[Institut fur Meereskunde]]></themekey>
+        <themekey><![CDATA[Ludger Mintrop]]></themekey>
+        <themekey><![CDATA[NDP-066]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 123908</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 145752 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[TALK]]></Keywords>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[bottle oxygen]]></Keywords>
+    <Keywords><![CDATA[bottle salinity]]></Keywords>
+    <Keywords><![CDATA[chlorofluorocarbons (CFC-11 CFC-12)]]></Keywords>
+    <Keywords><![CDATA[nitrate]]></Keywords>
+    <Keywords><![CDATA[nitrite]]></Keywords>
+    <Keywords><![CDATA[phosphate]]></Keywords>
+    <Keywords><![CDATA[pressure]]></Keywords>
+    <Keywords><![CDATA[salinity measured by (CTD)]]></Keywords>
+    <Keywords><![CDATA[silicate]]></Keywords>
+    <Keywords><![CDATA[temperature]]></Keywords>
+    <Keywords><![CDATA[underway pCO2]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[hydrographic]]></Keywords>
+    <Keywords><![CDATA[chemical data ]]></Keywords>
+    <Keywords><![CDATA[R/V Meteor Cruise 22/5 ]]></Keywords>
+    <Keywords><![CDATA[South Atlantic Ocean ]]></Keywords>
+    <Keywords><![CDATA[WOCE Section A10]]></Keywords>
+    <Keywords><![CDATA[Kenneth Johnson]]></Keywords>
+    <Keywords><![CDATA[Brookhaven National Laboratory]]></Keywords>
+    <Keywords><![CDATA[Douglas W. R. Wallace]]></Keywords>
+    <Keywords><![CDATA[Institut fur Ostseeforschung]]></Keywords>
+    <Keywords><![CDATA[Bernd Schneider]]></Keywords>
+    <Keywords><![CDATA[Institut fur Meereskunde]]></Keywords>
+    <Keywords><![CDATA[Ludger Mintrop]]></Keywords>
+    <Keywords><![CDATA[NDP-066]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 145752 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_066.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp066]]></Product_number>
+      <Product_title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Meteor Cruise 22/5 in the South Atlantic Ocean (WOCE Section A10, December 1992-January 1993)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Johnson, K. M.]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schneider, B.]]></Name>
+        <Company><![CDATA[Institut fur Ostseeforschung]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mintrop, L.]]></Name>
+        <Company><![CDATA[Institut fur Meereskunde]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wallace, D. W. R.]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[South Atlantic Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_066/ndp066.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp066/a10dat.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp066/a10pco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp066/a10sta.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[airpco2]]></Variable>
+      <Variable><![CDATA[airpre]]></Variable>
+      <Variable><![CDATA[airxco2]]></Variable>
+      <Variable><![CDATA[bot]]></Variable>
+      <Variable><![CDATA[cast]]></Variable>
+      <Variable><![CDATA[cfc11]]></Variable>
+      <Variable><![CDATA[cfc12]]></Variable>
+      <Variable><![CDATA[ctdsal]]></Variable>
+      <Variable><![CDATA[ctdtmp]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[depth]]></Variable>
+      <Variable><![CDATA[expo]]></Variable>
+      <Variable><![CDATA[jday]]></Variable>
+      <Variable><![CDATA[latdcm]]></Variable>
+      <Variable><![CDATA[londcm]]></Variable>
+      <Variable><![CDATA[nitr]]></Variable>
+      <Variable><![CDATA[oxy]]></Variable>
+      <Variable><![CDATA[phspht]]></Variable>
+      <Variable><![CDATA[pre]]></Variable>
+      <Variable><![CDATA[qualt]]></Variable>
+      <Variable><![CDATA[sal]]></Variable>
+      <Variable><![CDATA[salt]]></Variable>
+      <Variable><![CDATA[sect]]></Variable>
+      <Variable><![CDATA[silca]]></Variable>
+      <Variable><![CDATA[som]]></Variable>
+      <Variable><![CDATA[sst]]></Variable>
+      <Variable><![CDATA[sta]]></Variable>
+      <Variable><![CDATA[stat]]></Variable>
+      <Variable><![CDATA[talk]]></Variable>
+      <Variable><![CDATA[tcarb]]></Variable>
+      <Variable><![CDATA[theta]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Variable><![CDATA[waterpco2]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_066/ndp066.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp066/ndp066.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp066/a10dat.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp066/a10pco2.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp066/stainv.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19981120]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19981120]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp066/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[944KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data documentation discusses the procedures and methods used to measure total carbon dioxide (TCO2) and total alkalinity (TALK) at hydrographic stations, as well as the underway partial pressure of CO2 (pCO2) during the R/V Meteor Cruise 22/5 in the South Atlantic Ocean (Section A10). Conducted as part of the World Ocean Circulation Experiment (WOCE), the cruise began in Rio de Janeiro on December 27, 1992, and ended after 36 days at sea in Capetown, South Africa, on January 31, 1993. Measurements made along WOCE Section A10 included pressure, temperature, and salinity [measured by conductivity, temperature, and depth (CTD) sensor], bottle salinity, bottle oxygen, phosphate, nitrate, nitrite, silicate, chlorofluorocarbons (CFC-11, CFC-12), TCO2, TALK, and underway pCO2.
+<br><br>
+ The TCO2 was measured by using two Single-Operator Multiparameter Metabolic Analyzers (SOMMAs) for extracting CO2 from seawater samples that were coupled to a coulometer for detection of the extracted CO2. The overall precision and accuracy of the analyses was +/- 1.9 micro-mol/kg. Samples collected for TALK were measured by potentiometric titration; precision was +/- 2.0 micro-mol/kg. Underway pCO2 was measured by infrared photometry with a precision of +/- 2.0 micro-atm. The work aboard the R/V Meteor was supported by the U.S. Department of Energy under contract DE-ACO2-76CH00016, and the Bundesministerium f'r Forschung und Technologie through grants 03F0545A and MFG-099/1.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

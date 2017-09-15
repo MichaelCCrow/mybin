@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Becker, R.]]></origin>
+        <origin><![CDATA[Horvath, E.]]></origin>
+        <title><![CDATA[The United Nations Energy Statistics Database]]></title>
+        <geoform><![CDATA[Other]]></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/United_Nat_Energy_Stats_DB.xml]]></onlink>
+        <onlink><![CDATA[/hoss/data2/tab/2014emis/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[The United Nations Energy Statistics Database]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19500101]]></begdate>
+          <enddate><![CDATA[20141231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Energy]]></themekey>
+        <themekey><![CDATA[Statistics]]></themekey>
+        <themekey><![CDATA[Database]]></themekey>
+        <themekey><![CDATA[United Nations]]></themekey>
+        <themekey><![CDATA[UNSTAT]]></themekey>
+        <themekey><![CDATA[Energy Production]]></themekey>
+        <themekey><![CDATA[Energy Trade]]></themekey>
+        <themekey><![CDATA[Energy Consumption]]></themekey>
+        <themekey><![CDATA[CO2 Emissions Fossil Fuel CO2 Emissions]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20170531 151543</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050810 083022 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Energy]]></Keywords>
+    <Keywords><![CDATA[Statistics]]></Keywords>
+    <Keywords><![CDATA[Database]]></Keywords>
+    <Keywords><![CDATA[United Nations]]></Keywords>
+    <Keywords><![CDATA[UNSTAT]]></Keywords>
+    <Keywords><![CDATA[Energy Production]]></Keywords>
+    <Keywords><![CDATA[Energy Trade]]></Keywords>
+    <Keywords><![CDATA[Energy Consumption]]></Keywords>
+    <Keywords><![CDATA[CO2 Emissions Fossil Fuel CO2 Emissions]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ UN
+ HomeDepartment
+ of Economic and Social Affairs Economic
+ and Social Development Home
+ Contact
+ us
+ &#160;&#160;
+ Energy
+ Statistics
+ Description
+ of Activities
+ Energy
+ Yearbook
+ Energy
+ Statistics Database 
+ Joint Organizations Data Initiative
+ (JODI)
+ Contact
+ us
+ The Energy Statistics Database contains basic statistics for more than 220 countries/territories. Currently, the database provides time series for the period 1950-2014 and is updated annually.
+ portal.
+ The database also contributes to various statistical publications of UNSD, such as the Statistical Yearbook. 
+- Population data  
+ The database can be ordered through the United Nations Publications (
+ Price for multiple users: US$2500 
+ Price for annual updates: 20% of the full price.
+ A 20% discount is available for academic and non-profit organizations (multiple users only).
+ Requests from Government institutions are considered on a case by case basis and should be sent to: energy_stat@un.org 
+- A description of the database 
+- A legend of the database codes
+- Standard and country-specific conversion factors
+ The designations employed and the presentation of material on this internet site do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitations of its frontiers or boundaries.
+ Where the designation &quot;country or area&quot; is used, it covers countries, territories or areas. 
+ The data of the Energy Statistics Database are copyrighted by the United Nations and are provided for your internal use only.
+ They may not be re-disseminated in any form without written permission of the United Nations Statistics Division. 
+ Statistics
+ Division HomeSite
+ Map
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ ga('create', 'UA-48267274-1', 'auto');
+ ga('send', 'pageview');]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050810 083022 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/United_Nat_Energy_Stats_DB.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[United_Nations_Energy_Statistics_DB]]></Product_number>
+      <Product_title><![CDATA[The United Nations Energy Statistics Database]]></Product_title>
+      <Author>
+        <Name><![CDATA[Becker, R.]]></Name>
+        <Company><![CDATA[United Nations Statistics Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Horvath, E.]]></Name>
+        <Company><![CDATA[United Nations Statistics Division]]></Company>
+        <Organization><![CDATA[Environment and Energy Statistics Branch]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Energy Statistics]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[The Database contains energy statistics on more than 215 countries]]></Site_name>
+        <Site_URL><![CDATA[http://unstats.un.org/unsd/energy/edbase.htm]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/2014emis/Edata_1950_2014.txt]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Country Code (e.g. Germany...276)]]></Variable>
+      <Variable><![CDATA[Commodity codes, Primary Solid Fuels (ex. Animal Wastes, AW)]]></Variable>
+      <Variable><![CDATA[Commodity codes, Secondary Solid Fuels (ex. Brown coal coke, BK)]]></Variable>
+      <Variable><![CDATA[Commodity codes, Primary Liquid Fuels (ex. Alcohol, AL)]]></Variable>
+      <Variable><![CDATA[Commodity codes, Secondary Liquid Fuels (ex. Aviation gasolene, AV)]]></Variable>
+      <Variable><![CDATA[Commodity codes, Primary Gaseous Fuels (ex. Natural Gas, NG)]]></Variable>
+      <Variable><![CDATA[Commodity codes, Secondary Gaseous Fuels (ex. Blast furnace gas, BG)]]></Variable>
+      <Variable><![CDATA[Commodity codes, Primary Electricity and Power (ex. Falling Water, WF)]]></Variable>
+      <Variable><![CDATA[Commodity codes, Secondary Electricity and Power (ex. Thermal, ET)]]></Variable>
+      <Variable><![CDATA[Transaction codes, Production:  Solid Fuels (ex. Gross, 01)]]></Variable>
+      <Variable><![CDATA[Transaction codes, Production:  Primary Gaseous Fuels (ex. Gross, 01)]]></Variable>
+      <Variable><![CDATA[Transaction codes, Production:  Secondary Gaseous Fuels (ex. Gross, 01)]]></Variable>
+      <Variable><![CDATA[Transaction codes, Production:  Primary Liquid Fuels (ex. Gross from offshore, 010)]]></Variable>
+      <Variable><![CDATA[Transaction codes, Production:  Secondary Liquid Fuels (ex. From refineries, 013)]]></Variable>
+      <Variable><![CDATA[Transaction codes, Production:   Electricity (ex. Public, 015)]]></Variable>
+      <Variable><![CDATA[Transaction codes, Production:  Steam and Hot Water (ex. from geothermal sources, 017)]]></Variable>
+      <Variable><![CDATA[Transaction codes, Capacity: Refinery, 131]]></Variable>
+      <Variable><![CDATA[Transaction codes, Capacity: Natural gas liquids (NGL) plants, 132]]></Variable>
+      <Variable><![CDATA[Transaction codes, Capacity: Electricity, 132]]></Variable>
+      <Variable><![CDATA[Transaction codes, Resources of solid fuels in place (total): Known, Recoverable, 1511]]></Variable>
+      <Variable><![CDATA[Quantity]]></Variable>
+      <Variable><![CDATA[Units (e.g. Cubic metres, billion (CSX))]]></Variable>
+      <Descriptive_file><![CDATA[http://unstats.un.org/unsd/energy/edbase.htm UN
+ HomeDepartment
+ of Economic and Social Affairs Economic
+ and Social Development Home
+ Contact
+ us
+ &#160;&#160;
+ Energy
+ Statistics
+ Description
+ of Activities
+ Energy
+ Yearbook
+ Energy
+ Statistics Database 
+ Joint Organizations Data Initiative
+ (JODI)
+ Contact
+ us
+ The Energy Statistics Database contains basic statistics for more than 220 countries/territories. Currently, the database provides time series for the period 1950-2014 and is updated annually.
+ portal.
+ The database also contributes to various statistical publications of UNSD, such as the Statistical Yearbook. 
+- Population data  
+ The database can be ordered through the United Nations Publications (
+ Price for multiple users: US$2500 
+ Price for annual updates: 20% of the full price.
+ A 20% discount is available for academic and non-profit organizations (multiple users only).
+ Requests from Government institutions are considered on a case by case basis and should be sent to: energy_stat@un.org 
+- A description of the database 
+- A legend of the database codes
+- Standard and country-specific conversion factors
+ The designations employed and the presentation of material on this internet site do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitations of its frontiers or boundaries.
+ Where the designation &quot;country or area&quot; is used, it covers countries, territories or areas. 
+ The data of the Energy Statistics Database are copyrighted by the United Nations and are provided for your internal use only.
+ They may not be re-disseminated in any form without written permission of the United Nations Statistics Division. 
+ Statistics
+ Division HomeSite
+ Map
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ ga('create', 'UA-48267274-1', 'auto');
+ ga('send', 'pageview');]]></Descriptive_file>
+      <Data_file><![CDATA[http://unstats.un.org/unsd/methods/m49/m49chang.htm]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19500401]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20161231]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/hoss/data2/tab/2014emis/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  The United Nations Energy Statistics Database (UNSTAT) is a comprehensive collection of international energy statistics prepared by the United Nations Statistics Division.  The 2014 version represents the latest in the series of annual compilations which commenced under the title World Energy Supplies in Selected Years, 1929-1950.  Supplementary series of monthly and quarterly data on production of energy may be found in the Monthly Bulletin of Statistics.
+<br><br>
+The database contains comprehensive energy statistics on more than 215 countries or areas for production, trade and intermediate and final consumption (end-use) for primary and secondary conventional, non-conventional and new and renewable sources of energy.  Also, mid-year population estimates are included to enable the computation of per capita data.  Data on heating (calorific) values are provided as well to enable conversion to a common unit (terajoules) for interfuel comparison and analyses.
+<br><br>
+  Annual energy questionnaires sent to national statistical offices serve as the primary source of information.  Supplementary data are also compiled from national, regional and international statistical publications.  The Statistics Division prepares estimates where official data are incomplete or inconsistent.  The database is updated on a continuous basis as new information and revisions are received.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Andres, R.J.]]></origin>
+        <origin><![CDATA[Boden, T.A. ]]></origin>
+        <origin><![CDATA[Marland, G. ]]></origin>
+        <title><![CDATA[Annual Fossil-Fuel CO2 Emissions: Global Stable Carbon Isotopic Signature]]></title>
+        <geoform><![CDATA[Other]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1013_v2017/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Annual Fossil-Fuel CO2 Emissions: Global Stable Carbon Isotopic Signature]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[17510101]]></begdate>
+          <enddate><![CDATA[20141231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[annual fossil-fuel CO2 emissions]]></themekey>
+        <themekey><![CDATA[global stable carbon isotopic signature]]></themekey>
+        <themekey><![CDATA[CO2 emissions]]></themekey>
+        <themekey><![CDATA[cement manufacture]]></themekey>
+        <themekey><![CDATA[delta 13C]]></themekey>
+        <themekey><![CDATA[fossil-fuel consumption]]></themekey>
+        <themekey><![CDATA[annual global average]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20170404 102150</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 155645 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[annual fossil-fuel CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[global stable carbon isotopic signature]]></Keywords>
+    <Keywords><![CDATA[CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[cement manufacture]]></Keywords>
+    <Keywords><![CDATA[delta 13C]]></Keywords>
+    <Keywords><![CDATA[fossil-fuel consumption]]></Keywords>
+    <Keywords><![CDATA[annual global average]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[C Estimates
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 155645 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/ffe.db1013.2017]]></Product_number>
+      <Product_title><![CDATA[Annual Fossil-Fuel CO2 Emissions: Global Stable Carbon Isotopic Signature]]></Product_title>
+      <Author>
+        <Name><![CDATA[Andres, R.J.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Boden, T.A. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Marland, G. ]]></Name>
+        <Company><![CDATA[Appalachian State University]]></Company>
+        <Organization><![CDATA[Research Institute for Environment, Energy and Economics]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Fossil-Fuel CO2 Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1013_v2017.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1013_v2017/db1013.global.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[global del 13C from fossil fuel combustion]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1013_v2017.htmlC Estimates
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1013_v2017/readme.db1013_v2017.global.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19960301]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20170403]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1013_v2017/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[21 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This database contains estimates of the annual mean global value of delta 13C of CO2 emissions from fossil-fuel consumption and cement manufacture for 1751-2014. These estimates of the carbon isotopic signature account for the changing mix of coal, petroleum, and natural gas being consumed and for the changing mix of petroleum from various producing areas with characteristic isotopic signatures. This time series of fossil-fuel delta 13C signature provides an additional constraint for balancing the sources and sinks of the global carbon cycle and complements the atmospheric delta 13C measurements that are used to partition the uptake of fossil carbon emissions among the ocean, atmosphere, and terrestrial biosphere reservoirs.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

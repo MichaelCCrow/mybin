@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Prinn, R.]]></origin>
+        <origin><![CDATA[Weiss, R.F.]]></origin>
+        <origin><![CDATA[Krummel, P.B.]]></origin>
+        <origin><![CDATA[O'Doherty, S.]]></origin>
+        <origin><![CDATA[Fraser, P.J. ]]></origin>
+        <origin><![CDATA[Muhle, Jens]]></origin>
+        <origin><![CDATA[Reimann, S.]]></origin>
+        <origin><![CDATA[Vollmer, M.K.]]></origin>
+        <origin><![CDATA[Simmonds, P.G.]]></origin>
+        <origin><![CDATA[Maione, M.]]></origin>
+        <origin><![CDATA[Arduini, J.]]></origin>
+        <origin><![CDATA[Lunder, C.R.]]></origin>
+        <origin><![CDATA[Schmidbauer, N.]]></origin>
+        <origin><![CDATA[Young, D.]]></origin>
+        <origin><![CDATA[Wang, H.J. (Ray)]]></origin>
+        <origin><![CDATA[Huang, J.]]></origin>
+        <origin><![CDATA[Rigby, M.]]></origin>
+        <origin><![CDATA[Harth, C.M.]]></origin>
+        <origin><![CDATA[Salameh, P.K.]]></origin>
+        <origin><![CDATA[Spain, T.G.]]></origin>
+        <origin><![CDATA[Steele, L.P.]]></origin>
+        <origin><![CDATA[Arnold, T.]]></origin>
+        <origin><![CDATA[Kim, J.]]></origin>
+        <origin><![CDATA[Hermansen, O.]]></origin>
+        <origin><![CDATA[Derek, N.]]></origin>
+        <origin><![CDATA[Mitrevski, B.]]></origin>
+        <origin><![CDATA[Langenfelds, R.]]></origin>
+        <title><![CDATA[ALE/GAGE/AGAGE Network]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/TJ_Blasing/ale_gage_Agage/db1001.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/ALE/]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/GAGE/]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[ALE/GAGE/AGAGE Network]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19780701]]></begdate>
+          <enddate><![CDATA[20160930]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-171]]></westbc>
+        <eastbc><![CDATA[145]]></eastbc>
+        <northbc><![CDATA[53]]></northbc>
+        <southbc><![CDATA[-41]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[high frequency gas chromatographic measurements biogenic/anthropogenic gases]]></themekey>
+        <themekey><![CDATA[methane]]></themekey>
+        <themekey><![CDATA[DB1001]]></themekey>
+        <themekey><![CDATA[CH4]]></themekey>
+        <themekey><![CDATA[nitrous oxide]]></themekey>
+        <themekey><![CDATA[N2O]]></themekey>
+        <themekey><![CDATA[anthropogenic gases]]></themekey>
+        <themekey><![CDATA[chlorofluorocarbons]]></themekey>
+        <themekey><![CDATA[CFCl3]]></themekey>
+        <themekey><![CDATA[CFC11]]></themekey>
+        <themekey><![CDATA[CFC-11]]></themekey>
+        <themekey><![CDATA[CF2Cl2]]></themekey>
+        <themekey><![CDATA[CFC-12]]></themekey>
+        <themekey><![CDATA[CFC12]]></themekey>
+        <themekey><![CDATA[CF2ClCFCl2]]></themekey>
+        <themekey><![CDATA[CFC113]]></themekey>
+        <themekey><![CDATA[CFC-113]]></themekey>
+        <themekey><![CDATA[methyl chloroform]]></themekey>
+        <themekey><![CDATA[CH3CCl3]]></themekey>
+        <themekey><![CDATA[carbon tetrachloride]]></themekey>
+        <themekey><![CDATA[CCl4]]></themekey>
+        <themekey><![CDATA[chloroform]]></themekey>
+        <themekey><![CDATA[CHCl3]]></themekey>
+        <themekey><![CDATA[CH3Cl]]></themekey>
+        <themekey><![CDATA[methyl chloride]]></themekey>
+        <themekey><![CDATA[CH3Br]]></themekey>
+        <themekey><![CDATA[methyl bromide]]></themekey>
+        <themekey><![CDATA[halons]]></themekey>
+        <themekey><![CDATA[halon 1211]]></themekey>
+        <themekey><![CDATA[halon 1301]]></themekey>
+        <themekey><![CDATA[SF6]]></themekey>
+        <themekey><![CDATA[hydrogen]]></themekey>
+        <themekey><![CDATA[H2]]></themekey>
+        <themekey><![CDATA[carbon monoxide]]></themekey>
+        <themekey><![CDATA[CO]]></themekey>
+        <themekey><![CDATA[HFC-125]]></themekey>
+        <themekey><![CDATA[CF3CH2CF2CH3]]></themekey>
+        <themekey><![CDATA[HFC-365mfc]]></themekey>
+        <themekey><![CDATA[HCFC-22]]></themekey>
+        <themekey><![CDATA[CHClF2]]></themekey>
+        <themekey><![CDATA[sulfuryl fluoride]]></themekey>
+        <themekey><![CDATA[HFC23]]></themekey>
+        <themekey><![CDATA[CHF3]]></themekey>
+        <themekey><![CDATA[PFC116]]></themekey>
+        <themekey><![CDATA[C2F6]]></themekey>
+        <themekey><![CDATA[PFC218]]></themekey>
+        <themekey><![CDATA[C3F8]]></themekey>
+        <themekey><![CDATA[methylene chloride]]></themekey>
+        <themekey><![CDATA[CH2Cl2]]></themekey>
+        <themekey><![CDATA[dichloromethane]]></themekey>
+        <themekey><![CDATA[trichloroethylene]]></themekey>
+        <themekey><![CDATA[C2HCl3]]></themekey>
+        <themekey><![CDATA[perchloroethylene]]></themekey>
+        <themekey><![CDATA[C2Cl4]]></themekey>
+        <themekey><![CDATA[sulfuryl fluoride]]></themekey>
+        <themekey><![CDATA[SO2F2]]></themekey>
+        <themekey><![CDATA[HFC125]]></themekey>
+        <themekey><![CDATA[CHF2CF3]]></themekey>
+        <themekey><![CDATA[HFC23]]></themekey>
+        <themekey><![CDATA[CHF3]]></themekey>
+        <themekey><![CDATA[PFC116]]></themekey>
+        <themekey><![CDATA[C2F6]]></themekey>
+        <themekey><![CDATA[C3F8]]></themekey>
+        <themekey><![CDATA[PFC14]]></themekey>
+        <themekey><![CDATA[CF4]]></themekey>
+        <themekey><![CDATA[HFC227ea]]></themekey>
+        <themekey><![CDATA[CF3CHFCF3]]></themekey>
+        <themekey><![CDATA[HFC245fa]]></themekey>
+        <themekey><![CDATA[CHF2CH2CF3]]></themekey>
+        <themekey><![CDATA[HFC236fa]]></themekey>
+        <themekey><![CDATA[CF3CH2CF3]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20170824 134819</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070105 144242 by 160.91.18.20</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[high frequency gas chromatographic measurements biogenic/anthropogenic gases]]></Keywords>
+    <Keywords><![CDATA[methane]]></Keywords>
+    <Keywords><![CDATA[DB1001]]></Keywords>
+    <Keywords><![CDATA[CH4]]></Keywords>
+    <Keywords><![CDATA[nitrous oxide]]></Keywords>
+    <Keywords><![CDATA[N2O]]></Keywords>
+    <Keywords><![CDATA[anthropogenic gases]]></Keywords>
+    <Keywords><![CDATA[chlorofluorocarbons]]></Keywords>
+    <Keywords><![CDATA[CFCl3]]></Keywords>
+    <Keywords><![CDATA[CFC11]]></Keywords>
+    <Keywords><![CDATA[CFC-11]]></Keywords>
+    <Keywords><![CDATA[CF2Cl2]]></Keywords>
+    <Keywords><![CDATA[CFC-12]]></Keywords>
+    <Keywords><![CDATA[CFC12]]></Keywords>
+    <Keywords><![CDATA[CF2ClCFCl2]]></Keywords>
+    <Keywords><![CDATA[CFC113]]></Keywords>
+    <Keywords><![CDATA[CFC-113]]></Keywords>
+    <Keywords><![CDATA[methyl chloroform]]></Keywords>
+    <Keywords><![CDATA[CH3CCl3]]></Keywords>
+    <Keywords><![CDATA[carbon tetrachloride]]></Keywords>
+    <Keywords><![CDATA[CCl4]]></Keywords>
+    <Keywords><![CDATA[chloroform]]></Keywords>
+    <Keywords><![CDATA[CHCl3]]></Keywords>
+    <Keywords><![CDATA[CH3Cl]]></Keywords>
+    <Keywords><![CDATA[methyl chloride]]></Keywords>
+    <Keywords><![CDATA[CH3Br]]></Keywords>
+    <Keywords><![CDATA[methyl bromide]]></Keywords>
+    <Keywords><![CDATA[halons]]></Keywords>
+    <Keywords><![CDATA[halon 1211]]></Keywords>
+    <Keywords><![CDATA[halon 1301]]></Keywords>
+    <Keywords><![CDATA[SF6]]></Keywords>
+    <Keywords><![CDATA[hydrogen]]></Keywords>
+    <Keywords><![CDATA[H2]]></Keywords>
+    <Keywords><![CDATA[carbon monoxide]]></Keywords>
+    <Keywords><![CDATA[CO]]></Keywords>
+    <Keywords><![CDATA[HFC-125]]></Keywords>
+    <Keywords><![CDATA[CF3CH2CF2CH3]]></Keywords>
+    <Keywords><![CDATA[HFC-365mfc]]></Keywords>
+    <Keywords><![CDATA[HCFC-22]]></Keywords>
+    <Keywords><![CDATA[CHClF2]]></Keywords>
+    <Keywords><![CDATA[sulfuryl fluoride]]></Keywords>
+    <Keywords><![CDATA[HFC23]]></Keywords>
+    <Keywords><![CDATA[CHF3]]></Keywords>
+    <Keywords><![CDATA[PFC116]]></Keywords>
+    <Keywords><![CDATA[C2F6]]></Keywords>
+    <Keywords><![CDATA[PFC218]]></Keywords>
+    <Keywords><![CDATA[C3F8]]></Keywords>
+    <Keywords><![CDATA[methylene chloride]]></Keywords>
+    <Keywords><![CDATA[CH2Cl2]]></Keywords>
+    <Keywords><![CDATA[dichloromethane]]></Keywords>
+    <Keywords><![CDATA[trichloroethylene]]></Keywords>
+    <Keywords><![CDATA[C2HCl3]]></Keywords>
+    <Keywords><![CDATA[perchloroethylene]]></Keywords>
+    <Keywords><![CDATA[C2Cl4]]></Keywords>
+    <Keywords><![CDATA[sulfuryl fluoride]]></Keywords>
+    <Keywords><![CDATA[SO2F2]]></Keywords>
+    <Keywords><![CDATA[HFC125]]></Keywords>
+    <Keywords><![CDATA[CHF2CF3]]></Keywords>
+    <Keywords><![CDATA[HFC23]]></Keywords>
+    <Keywords><![CDATA[CHF3]]></Keywords>
+    <Keywords><![CDATA[PFC116]]></Keywords>
+    <Keywords><![CDATA[C2F6]]></Keywords>
+    <Keywords><![CDATA[C3F8]]></Keywords>
+    <Keywords><![CDATA[PFC14]]></Keywords>
+    <Keywords><![CDATA[CF4]]></Keywords>
+    <Keywords><![CDATA[HFC227ea]]></Keywords>
+    <Keywords><![CDATA[CF3CHFCF3]]></Keywords>
+    <Keywords><![CDATA[HFC245fa]]></Keywords>
+    <Keywords><![CDATA[CHF2CH2CF3]]></Keywords>
+    <Keywords><![CDATA[HFC236fa]]></Keywords>
+    <Keywords><![CDATA[CF3CH2CF3]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#187;&#160;ALE/GAGE/AGAGE Network
+Ny-&#195;&#133;lesund, Norway
+American Samoa
+Mace Head, Ireland
+Ragged Point, Barbados
+Monte Cimone, Italy
+Trinidad Head, CA, USA
+Cape Grim, Tasmania
+Jungfraujoch, Switzerland
+No longer used for sampling. Replaced by the station at Mace Head, Ireland (53&#176; N, 10&#176; W).
+No longer used for sampling. Replaced by the station at Trinidad Head, California (41&#176; N, 124&#176; W).
+A tsunami on September 30, 2009 caused a power shutdown that prevented measurements of many gases at this station from October 2009 through February 2010.
+Carbon monoxide (CO) data for Cape Grim, Tasmania, after December 1999 are also temporarily removed in this update due to a non-linear problem. It will be added after an appropriate correction is applied.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070105 144242 by 160.91.18.20</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/TJ_Blasing/ale_gage_Agage/db1001.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[10.3334/CDIAC/atg.db1001]]></Product_number>
+      <Product_title><![CDATA[ALE/GAGE/AGAGE Network]]></Product_title>
+      <Author>
+        <Name><![CDATA[Prinn, R.]]></Name>
+        <Company><![CDATA[Massachusetts Institute of Technology (MIT)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Weiss, R.F.]]></Name>
+        <Company><![CDATA[Scripps Institution of Oceanography (SIO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Krummel, P.B.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organisation (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[O'Doherty, S.]]></Name>
+        <Company><![CDATA[University of Bristol]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Fraser, P.J. ]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Muhle, Jens]]></Name>
+        <Company><![CDATA[SIO]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Reimann, S.]]></Name>
+        <Company><![CDATA[Swiss Federal Laboratories for Materials Science and Research (EMPA)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Vollmer, M.K.]]></Name>
+        <Company><![CDATA[EMPA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Simmonds, P.G.]]></Name>
+        <Company><![CDATA[University of Bristol]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Maione, M.]]></Name>
+        <Company><![CDATA[University of Urbino]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Arduini, J.]]></Name>
+        <Company><![CDATA[University of Urbino]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lunder, C.R.]]></Name>
+        <Company><![CDATA[Norwegian Institute for Air Research (NILU)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schmidbauer, N.]]></Name>
+        <Company><![CDATA[NILU]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Young, D.]]></Name>
+        <Company><![CDATA[University of Bristol]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wang, H.J. (Ray)]]></Name>
+        <Company><![CDATA[Georgia Institute of Technology]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Huang, J.]]></Name>
+        <Company><![CDATA[MIT]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rigby, M.]]></Name>
+        <Company><![CDATA[University of Bristol]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Harth, C.M.]]></Name>
+        <Company><![CDATA[SIO]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Salameh, P.K.]]></Name>
+        <Company><![CDATA[SIO]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Spain, T.G.]]></Name>
+        <Company><![CDATA[National University of Ireland]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Steele, L.P.]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Arnold, T.]]></Name>
+        <Company><![CDATA[United Kingdom Meteorological Office]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kim, J.]]></Name>
+        <Company><![CDATA[SIO]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hermansen, O.]]></Name>
+        <Company><![CDATA[NILU]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Derek, N.]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mitrevski, B.]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Langenfelds, R.]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/ALE/]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/GAGE/]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Matatula, American Samoa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/ALE/]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/GAGE/]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ragged Point, Barbados]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/ALE/]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/GAGE/]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mace Head, Ireland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/ALE/]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/GAGE/]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Trinidad Head, California, USA]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Jungfraujoch, Switzerland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Zeppelin Mountain, Norway]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Meares, Oregon, USA]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/ALE/]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/GAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Adrigole, Ireland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/ALE/]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/GAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Monte Cimone, Italy]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Shangdianzi, China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Gosan, Jeju Island, South Korea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hateruma, Japan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Ochiishi, Japan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[month]]></Variable>
+      <Variable><![CDATA[n]]></Variable>
+      <Variable><![CDATA[val]]></Variable>
+      <Variable><![CDATA[sd]]></Variable>
+      <Variable><![CDATA[da]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Variable><![CDATA[ABSDA]]></Variable>
+      <Variable><![CDATA[F-11S]]></Variable>
+      <Variable><![CDATA[F-11P]]></Variable>
+      <Variable><![CDATA[F-12]]></Variable>
+      <Variable><![CDATA[CH3CCL3]]></Variable>
+      <Variable><![CDATA[CCL4]]></Variable>
+      <Variable><![CDATA[N2O]]></Variable>
+      <Variable><![CDATA[F-113]]></Variable>
+      <Variable><![CDATA[CH4]]></Variable>
+      <Variable><![CDATA[CH3Cl]]></Variable>
+      <Variable><![CDATA[CH3Br]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/alegage.html&#239;&#187;&#191;
+ &#187;&#160;ALE/GAGE/AGAGE Network
+Ny-&#195;&#133;lesund, Norway
+American Samoa
+Mace Head, Ireland
+Ragged Point, Barbados
+Monte Cimone, Italy
+Trinidad Head, CA, USA
+Cape Grim, Tasmania
+Jungfraujoch, Switzerland
+No longer used for sampling. Replaced by the station at Mace Head, Ireland (53&#176; N, 10&#176; W).
+No longer used for sampling. Replaced by the station at Trinidad Head, California (41&#176; N, 124&#176; W).
+A tsunami on September 30, 2009 caused a power shutdown that prevented measurements of many gases at this station from October 2009 through February 2010.
+Carbon monoxide (CO) data for Cape Grim, Tasmania, after December 1999 are also temporarily removed in this update due to a non-linear problem. It will be added after an appropriate correction is applied.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20010701]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20170818]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/ALE/]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/GAGE/]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ale_gage_Agage/AGAGE/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[In the ALE/GAGE/AGAGE global network program, continuous high frequency gas chromatographic measurements of four biogenic/anthropogenic gases (methane, CH4; nitrous oxide, N2O; hydrogen, H; and carbon monoxide, CO) and several anthropogenic gases that contribute to stratospheric ozone destruction and/or to the greenhouse effect have been carried out at five globally distributed sites for several years. Recently additional stations at Jungfraujoch, Switzerland and Zeppelin Mountain, Norway have been added to the network. Data are currently available for all measured species listed at http://cdiac.ess-dive.lbl.gov/ndps/alegage.html. Units are dry air mole fractions in parts per 1012 (picomoles/mole) for all halocarbons and SF6, and parts per 109 (nanomoles/mole) for nitrous oxide, methane, carbon monoxide and hydrogen.
+
+The program, which began in 1978, is divided into three parts associated with three changes in instrumentation: the Atmospheric Lifetime Experiment (ALE), which used Hewlett Packard HP5840 gas chromatographs; the Global Atmospheric Gases Experiment (GAGE), which used HP5880 gas chromatographs; and the present Advanced GAGE (AGAGE). AGAGE uses two types of instruments: a gas chromatograph with multiple detectors (GC-MD), and a gas chromatograph with mass spectrometric analysis (GC-MS). The GC-MD is a new fully automated system produced at the Scripps Institution of Oceanography and includes a custom-designed sample module plus HP5890 and Carle AGC-211 gas chromatographic components. The original GC-MS was a fully automated system produced at the University of Bristol and comprised of an adsorption-desorption preconcentration module and an HP5973 gas chromatographic and mass spectrometric module. Beginning in January 2004, an improved cryogenic preconcentration system (Medusa) replaced the absorption-desorption module in the GC-MS systems at Mace Head and Cape Grim; this provided improved capability to measure a broader range of volatile perfluorocarbons with high global warming potentials. The Medusa system is now used at all current AGAGE stations. Further details on this upgrade may be found at the AGAGE home page.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

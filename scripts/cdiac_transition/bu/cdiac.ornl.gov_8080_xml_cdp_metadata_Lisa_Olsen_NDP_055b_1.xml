@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Gibbs, Holly K.]]></origin>
+        <origin><![CDATA[Brown, S.]]></origin>
+        <title><![CDATA[Geographical Distribution of Woody Biomass Carbon in Tropical Africa:  An Updated Database for 2000]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Lisa_Olsen/NDP_055b.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055b/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Geographical Distribution of Woody Biomass Carbon in Tropical Africa:  An Updated Database for 2000]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20000101]]></begdate>
+          <enddate><![CDATA[20000101]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-17.50]]></westbc>
+        <eastbc><![CDATA[51.50]]></eastbc>
+        <northbc><![CDATA[27.50]]></northbc>
+        <southbc><![CDATA[-28.50]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Africa]]></themekey>
+        <themekey><![CDATA[Biomass]]></themekey>
+        <themekey><![CDATA[Biosphere]]></themekey>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Carbon cycle]]></themekey>
+        <themekey><![CDATA[Climate change]]></themekey>
+        <themekey><![CDATA[Deforestation]]></themekey>
+        <themekey><![CDATA[Degradation]]></themekey>
+        <themekey><![CDATA[Forestry]]></themekey>
+        <themekey><![CDATA[Human Impacts]]></themekey>
+        <themekey><![CDATA[Land cover ]]></themekey>
+        <themekey><![CDATA[Land use]]></themekey>
+        <themekey><![CDATA[Population]]></themekey>
+        <themekey><![CDATA[Release of carbon from land use change]]></themekey>
+        <themekey><![CDATA[Terrestrial Ecosystems]]></themekey>
+        <themekey><![CDATA[Tropical Ecosystems]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa M. Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa M. Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 131957</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa M. Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20071203 095127 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Africa]]></Keywords>
+    <Keywords><![CDATA[Biomass]]></Keywords>
+    <Keywords><![CDATA[Biosphere]]></Keywords>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Carbon cycle]]></Keywords>
+    <Keywords><![CDATA[Climate change]]></Keywords>
+    <Keywords><![CDATA[Deforestation]]></Keywords>
+    <Keywords><![CDATA[Degradation]]></Keywords>
+    <Keywords><![CDATA[Forestry]]></Keywords>
+    <Keywords><![CDATA[Human Impacts]]></Keywords>
+    <Keywords><![CDATA[Land cover ]]></Keywords>
+    <Keywords><![CDATA[Land use]]></Keywords>
+    <Keywords><![CDATA[Population]]></Keywords>
+    <Keywords><![CDATA[Release of carbon from land use change]]></Keywords>
+    <Keywords><![CDATA[Terrestrial Ecosystems]]></Keywords>
+    <Keywords><![CDATA[Tropical Ecosystems]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[University of Wisconsin, Madison
+1710 University Avenue, Madison, WI 53726, USA
+Winrock International
+Ecoystem Services Unit
+Prepared by and T.A. Boden
+Oak Ridge, Tennessee 37831-6290
+managed by
+University of Tennessee-Battelle, LLC
+for the
+CONTENTS
+CDIAC = Carbon Dioxide Information Analysis Center
+FTP = file transfer protocol
+GIS = geographic information systems
+NDP = numeric data package
+QA = quality assurance
+Gibbs, H.K. and S. Brown. 2007. Geographical Distribution of Woody Biomass Carbon in Tropical Africa: An Updated Database for 2000, NDP-055b. Available at [http://cdiac.ornl.gov/epubs/ndp/ndp055/ndp055b.html] from the Carbon Dioxide Information Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee. doi: 10.3334/CDIAC/lue.ndp055.2007
+Maps of biomass density are critical inputs for estimating carbon emissions from deforestation and degradation of tropical forests. Brown and Gatson (1996) pioneered methods to use GIS analysis to map forest biomass based on forest inventory data (). This database is an update of ndp055 (which represent conditions in circa 1980) and accounts for land cover changes occurring up to the year 2000.
+Keywords: biosphere, terrestrial ecosystems, tropical ecoystems, Africa, carbon cycle, biomass, degradation, deforestation, vegetation formations, biogeography, climate regions, mapping, human impacts.
+NDP055b includes the following data and documentation files:
+See CDIAC's Anonymous FTP service for information on how to download compressed data files.
+The goal of this project was to update the ndp055 biomass map of Africa to more accurately represent conditions in 2000. The same methods and established statistical relationships were used to develop the new data. The Global Land Cover 2000 (GLC2000) Database was used to derive forest distribution in the year 2000, and CIESIN's Gridded Population of the World data set provided more current population figures to use in the analysis. The use of these datasets in conjunction with the original ndp055 data allowed for the recognition of deforestation and degradation occurring over the last 20 years. The updated population and land cover data also provide more accurate representation at a higher spatial resolution than the original ndp055 data sets.
+This dataset uses the methodology of Brown and Gaston (1996) with a contemporary land cover map (GLC2000) and population data to estimate biomass and biomass carbon in vegetation in tropical Africa.
+The final data sets include estimates of biomass (Mg/ha) in woody vegetation, and biomass carbon (Mg/ha) found in woody vegetation. Biomass values were derived as a function of land cover class and population density, using statistical relationships developed by Brown and Gaston (1996). Carbon values were extrapolated from the biomass estimates. The gridded data is expressed in decimal degrees, in a geographic projection, with a datum opf wgs84. The cellsize for these data is 0.045 decimal degrees.
+ for a complete description of the methods established by Brown and Gaston (1996).
+ was used to identify the distribution of forest cover in the year 2000 (SEE MAP). GLC2000 forest and savanna categories (1-8, 11, 12) were extracted from the original land cover grid to create a new grid (FOR_SAV). Mosaic and burnt forest categories (9, 10, 17, 18) were also extracted from the land cover grid to create a new grid (MOSAIC).
+GLC Land Cover Class and New Class
+These classes (FOR_SAV and MOSAIC) were further disaggregated into the same forest categories (forest, forest mosaic, savanna, and savanna mosaic) used in ndp055 . Specifically, the LAND grid included with ndp055 was used to further differentiate between savanna and forest classes in the the GLC2000 data. The LAND grid includes the following classes: closed forest, open forest, grassland, and other. These classes were reclassified into FOREST or SAVANNA as follows: Category 1 (originally "Closed Forest") was reclassified as Forest, Categories 2 + 3 (originally "Open Forest and Grassland") were reclassified as Savanna, and Category 4 (originally "Other") was excluded.
+The FOREST grid was used to extract the forest class from the FOR_SAV grid and the MOSAIC grid. The SAVANNA grid was used to extract the savanna class from the FOR_SAV grid and the MOSAIC grid. The resultant grids more accurately represent forest, forest mosaic, savanna, and savanna mosaic than using the GLC2000 data alone. (*Please note that the method used to combine and extract these classes from grids may yield slightly different results. The data author used an Avenue script in ArcView to effectively "clip" data from one grid, using another grid.) Resulting grids include: MSAV_CLIP, SAV_CLIP, FOR_CLIP, and MFOR_CLIP
+Potential biomass values were assigned to the forest, forest mosaic, savanna, and savanna mosaic grids developed in the previous steps using the potential biomass grid developed for use in ndp055 (PB80). The output grids included: PB80FOR, PB80MFOR, PB80SAV, PB80MSAV.
+Population data for the year 2000 (to match the land cover data) was used to calculate degradation ratios, which were then applied to the potential biomass data. Four population density grids were extracted from CEISIN's unadjusted, 2.5' resolution, gridded population density data (available from . Resultant grids include: GLDS008G, GLDS007G, GLDS0012g, GLDS0013g.
+To estimate the actual biomass remaining in live woody vegetation in 1980, researchers developed degradation ratios based on population data and applied them to the maximum potential biomass density map for forested lands (Brown and Gaston 1996). The degradation ratios were based on the assumption that the degree to which forests are reduced from their potential biomass is a function of the population density and forest type or ecofloristic zone. For example, high population densities will result in low degradation ratios (i.e., highly degraded forests), and drier regions will be degraded more severely than moist regions because of the ability of moist forests to replace biomass faster (ndp-055, Brown and Lugo 1982). For more information, please refer to the complete documentation for .
+Degradation equations were estimated for two forest types (closed forest and woodland/wooded savanna) by comparing the potential biomass density in 1980 with biomass densities obtained from forest inventories for the same location. This process produced unitless factors that indicate the reduction from potential biomass to actual biomass as a function of population density. Please see for more information on how the equations were derived. (ndp055b uses the same equations as ndp055).
+The equations, sample sizes, and correlation results for closed forest are:
+:
+:
+:
+:
+Equations 1a and 2a for each forest type are based on the range of available data, and the minimum PD for which it is applicable. For PDs less than these minimums, simple linear equations (Eq. 1b and 2b) were developed between the DR at zero PD (assumed to be one), and the value of DR from equation 1a and 2a at the minimum PD. A linear function of PD was then calculated for each land cover class between these DR values.
+The degradation equations were applied to the corresponding population grids (developed in the previous step) resulting in degradation ratio grids POP8DRG, POP13DRG, POP7DR, and POP12DR.
+Please note that any grid values &lt; 0.1 were reset to 0.1 per ndp055. (This only applied to grids: GLDS008G and GLDS0013G)
+Potential biomass grids representing forest, savanna, forest mosaic, and savanna mosaic, were multiplied by the appropriate degradation ratio (as defined above) to determine actual biomass values for each population density/forest type combination (Resultant grids include: FOR12, FOR13, MFOR12G, MFOR13G, MSAV7g, MSAV8G,SAV7, SAV8). Results for the mosaic categories were divided in half prior to merging the grids back together to represent actual forest biomass for Africa ().
+Please note that the final biomass grid was divided in half once more to estimate carbon stocks ().
+See Gibbs et al. 2007 for an assessment of national-level forest carbon stocks and further discussion on the development of this database.
+This database (NDP-055b) is available free of charge from CDIAC. The files are available, via the Internet, from CDIAC's World-Wide-Web site (http://cdiac.ornl.gov), or from CDIAC's anonymous file transfer protocol (FTP) area (cdiac.ornl.gov) as follows:
+ (e.g., CD-ROM) or for additional information, contact:
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+P.O. Box 2008
+Oak Ridge, Tennessee 37831-6290, U.S.A.
+Telephone: 1-865-574-3645
+Telefax: 1-865-574-2232
+6. LISTING OF FILES PROVIDED
+7. DESCRIPTION OF DOCUMENTATION FILE
+8. DESCRIPTION, FORMAT, AND PARTIAL LISTINGS OF THE DATA FILES
+ distributed with this numeric data package.
+EXP 0 E:\TOM_BODEN\SANDRA_BROWN\UPDATE\ACTUAL_BIOMASS\AF_BIOMASS.E00
+GRD 2
+ 1534 1607 2-0.34028234663853E+39
+ 0.44971520007928E-01 0.44971520007928E-01
+-0.17520892021892E+02-0.34888195609491E+02
+ 0.51465419670270E+02 0.37381037043249E+02
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+Last 10 data records of af_biomass.e00 (uncompressed):
+IFO 2
+AF_BIOMASS2.STA XX 4 4 32 1
+MIN 8-1 14-1 15 3 60-1 -1 -1-1 1-
+MAX 8-1 94-1 15 3 60-1 -1 -1-1 2-
+MEAN 8-1 174-1 15 3 60-1 -1 -1-1 3-
+STDV 8-1 254-1 15 3 60-1 -1 -1-1 4-
+ 1.04991778731346130E-01 4.64790527343750000E+02 1.00535439319918112E+02 1.07056
+509507994278E+02
+EOI
+EOS
+ distributed with this numeric data package.
+First 10 data records of af_carbon.e00 (uncompressed):
+EXP 0 E:\TOM_BODEN\SANDRA_BROWN\UPDATE\ACTUAL_BIOMASS\AF_CARBON.E00
+GRD 2
+ 1534 1607 2-0.34028234663853E+39
+ 0.44971520007928E-01 0.44971520007928E-01
+-0.17520892021892E+02-0.34888195609491E+02
+ 0.51465419670270E+02 0.37381037043249E+02
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+IFO 2
+AF_CARBON2.STA XX 4 4 32 1
+MIN 8-1 14-1 15 3 60-1 -1 -1-1 1-
+MAX 8-1 94-1 15 3 60-1 -1 -1-1 2-
+MEAN 8-1 174-1 15 3 60-1 -1 -1-1 3-
+STDV 8-1 254-1 15 3 60-1 -1 -1-1 4-
+ 5.24958893656730652E-02 2.32395263671875000E+02 5.02677196599590559E+01 5.35282
+547539971389E+01
+EOI
+EOS
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20071203 095127 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Lisa_Olsen/NDP_055b.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.ndp055.2007]]></Product_number>
+      <Product_title><![CDATA[Geographical Distribution of Woody Biomass Carbon in Tropical Africa:  An Updated Database for 2000]]></Product_title>
+      <Author>
+        <Name><![CDATA[Gibbs, Holly K.]]></Name>
+        <Company><![CDATA[Center for Sustainability and the Global Environment (SAGE)]]></Company>
+        <Organization><![CDATA[University of Wisconsin]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Brown, S.]]></Name>
+        <Company><![CDATA[Winrock International]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Land Use and Ecosystems]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Tropical Africa]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp055/ndp055b.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055b/af_biomass.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055b/af_carbon.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055b/glc_subset_af.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055b/land_geo.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055b/pb80_geo.e00.gz]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[VALUE - biomasss (Mg/ha) in woody vegetation]]></Variable>
+      <Variable><![CDATA[VALUE - biomass carbon (Mg/ha)]]></Variable>
+      <Variable><![CDATA[VALUE - GLC2000 land cover ]]></Variable>
+      <Variable><![CDATA[VALUE - potential biomass]]></Variable>
+      <Variable><![CDATA[VALUE - ndp055 land cover type]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp055/ndp055b.htmlUniversity of Wisconsin, Madison
+1710 University Avenue, Madison, WI 53726, USA
+Winrock International
+Ecoystem Services Unit
+Prepared by and T.A. Boden
+Oak Ridge, Tennessee 37831-6290
+managed by
+University of Tennessee-Battelle, LLC
+for the
+CONTENTS
+CDIAC = Carbon Dioxide Information Analysis Center
+FTP = file transfer protocol
+GIS = geographic information systems
+NDP = numeric data package
+QA = quality assurance
+Gibbs, H.K. and S. Brown. 2007. Geographical Distribution of Woody Biomass Carbon in Tropical Africa: An Updated Database for 2000, NDP-055b. Available at [http://cdiac.ornl.gov/epubs/ndp/ndp055/ndp055b.html] from the Carbon Dioxide Information Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee. doi: 10.3334/CDIAC/lue.ndp055.2007
+Maps of biomass density are critical inputs for estimating carbon emissions from deforestation and degradation of tropical forests. Brown and Gatson (1996) pioneered methods to use GIS analysis to map forest biomass based on forest inventory data (). This database is an update of ndp055 (which represent conditions in circa 1980) and accounts for land cover changes occurring up to the year 2000.
+Keywords: biosphere, terrestrial ecosystems, tropical ecoystems, Africa, carbon cycle, biomass, degradation, deforestation, vegetation formations, biogeography, climate regions, mapping, human impacts.
+NDP055b includes the following data and documentation files:
+See CDIAC's Anonymous FTP service for information on how to download compressed data files.
+The goal of this project was to update the ndp055 biomass map of Africa to more accurately represent conditions in 2000. The same methods and established statistical relationships were used to develop the new data. The Global Land Cover 2000 (GLC2000) Database was used to derive forest distribution in the year 2000, and CIESIN's Gridded Population of the World data set provided more current population figures to use in the analysis. The use of these datasets in conjunction with the original ndp055 data allowed for the recognition of deforestation and degradation occurring over the last 20 years. The updated population and land cover data also provide more accurate representation at a higher spatial resolution than the original ndp055 data sets.
+This dataset uses the methodology of Brown and Gaston (1996) with a contemporary land cover map (GLC2000) and population data to estimate biomass and biomass carbon in vegetation in tropical Africa.
+The final data sets include estimates of biomass (Mg/ha) in woody vegetation, and biomass carbon (Mg/ha) found in woody vegetation. Biomass values were derived as a function of land cover class and population density, using statistical relationships developed by Brown and Gaston (1996). Carbon values were extrapolated from the biomass estimates. The gridded data is expressed in decimal degrees, in a geographic projection, with a datum opf wgs84. The cellsize for these data is 0.045 decimal degrees.
+ for a complete description of the methods established by Brown and Gaston (1996).
+ was used to identify the distribution of forest cover in the year 2000 (SEE MAP). GLC2000 forest and savanna categories (1-8, 11, 12) were extracted from the original land cover grid to create a new grid (FOR_SAV). Mosaic and burnt forest categories (9, 10, 17, 18) were also extracted from the land cover grid to create a new grid (MOSAIC).
+GLC Land Cover Class and New Class
+These classes (FOR_SAV and MOSAIC) were further disaggregated into the same forest categories (forest, forest mosaic, savanna, and savanna mosaic) used in ndp055 . Specifically, the LAND grid included with ndp055 was used to further differentiate between savanna and forest classes in the the GLC2000 data. The LAND grid includes the following classes: closed forest, open forest, grassland, and other. These classes were reclassified into FOREST or SAVANNA as follows: Category 1 (originally "Closed Forest") was reclassified as Forest, Categories 2 + 3 (originally "Open Forest and Grassland") were reclassified as Savanna, and Category 4 (originally "Other") was excluded.
+The FOREST grid was used to extract the forest class from the FOR_SAV grid and the MOSAIC grid. The SAVANNA grid was used to extract the savanna class from the FOR_SAV grid and the MOSAIC grid. The resultant grids more accurately represent forest, forest mosaic, savanna, and savanna mosaic than using the GLC2000 data alone. (*Please note that the method used to combine and extract these classes from grids may yield slightly different results. The data author used an Avenue script in ArcView to effectively "clip" data from one grid, using another grid.) Resulting grids include: MSAV_CLIP, SAV_CLIP, FOR_CLIP, and MFOR_CLIP
+Potential biomass values were assigned to the forest, forest mosaic, savanna, and savanna mosaic grids developed in the previous steps using the potential biomass grid developed for use in ndp055 (PB80). The output grids included: PB80FOR, PB80MFOR, PB80SAV, PB80MSAV.
+Population data for the year 2000 (to match the land cover data) was used to calculate degradation ratios, which were then applied to the potential biomass data. Four population density grids were extracted from CEISIN's unadjusted, 2.5' resolution, gridded population density data (available from . Resultant grids include: GLDS008G, GLDS007G, GLDS0012g, GLDS0013g.
+To estimate the actual biomass remaining in live woody vegetation in 1980, researchers developed degradation ratios based on population data and applied them to the maximum potential biomass density map for forested lands (Brown and Gaston 1996). The degradation ratios were based on the assumption that the degree to which forests are reduced from their potential biomass is a function of the population density and forest type or ecofloristic zone. For example, high population densities will result in low degradation ratios (i.e., highly degraded forests), and drier regions will be degraded more severely than moist regions because of the ability of moist forests to replace biomass faster (ndp-055, Brown and Lugo 1982). For more information, please refer to the complete documentation for .
+Degradation equations were estimated for two forest types (closed forest and woodland/wooded savanna) by comparing the potential biomass density in 1980 with biomass densities obtained from forest inventories for the same location. This process produced unitless factors that indicate the reduction from potential biomass to actual biomass as a function of population density. Please see for more information on how the equations were derived. (ndp055b uses the same equations as ndp055).
+The equations, sample sizes, and correlation results for closed forest are:
+:
+:
+:
+:
+Equations 1a and 2a for each forest type are based on the range of available data, and the minimum PD for which it is applicable. For PDs less than these minimums, simple linear equations (Eq. 1b and 2b) were developed between the DR at zero PD (assumed to be one), and the value of DR from equation 1a and 2a at the minimum PD. A linear function of PD was then calculated for each land cover class between these DR values.
+The degradation equations were applied to the corresponding population grids (developed in the previous step) resulting in degradation ratio grids POP8DRG, POP13DRG, POP7DR, and POP12DR.
+Please note that any grid values &lt; 0.1 were reset to 0.1 per ndp055. (This only applied to grids: GLDS008G and GLDS0013G)
+Potential biomass grids representing forest, savanna, forest mosaic, and savanna mosaic, were multiplied by the appropriate degradation ratio (as defined above) to determine actual biomass values for each population density/forest type combination (Resultant grids include: FOR12, FOR13, MFOR12G, MFOR13G, MSAV7g, MSAV8G,SAV7, SAV8). Results for the mosaic categories were divided in half prior to merging the grids back together to represent actual forest biomass for Africa ().
+Please note that the final biomass grid was divided in half once more to estimate carbon stocks ().
+See Gibbs et al. 2007 for an assessment of national-level forest carbon stocks and further discussion on the development of this database.
+This database (NDP-055b) is available free of charge from CDIAC. The files are available, via the Internet, from CDIAC's World-Wide-Web site (http://cdiac.ornl.gov), or from CDIAC's anonymous file transfer protocol (FTP) area (cdiac.ornl.gov) as follows:
+ (e.g., CD-ROM) or for additional information, contact:
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+P.O. Box 2008
+Oak Ridge, Tennessee 37831-6290, U.S.A.
+Telephone: 1-865-574-3645
+Telefax: 1-865-574-2232
+6. LISTING OF FILES PROVIDED
+7. DESCRIPTION OF DOCUMENTATION FILE
+8. DESCRIPTION, FORMAT, AND PARTIAL LISTINGS OF THE DATA FILES
+ distributed with this numeric data package.
+EXP 0 E:\TOM_BODEN\SANDRA_BROWN\UPDATE\ACTUAL_BIOMASS\AF_BIOMASS.E00
+GRD 2
+ 1534 1607 2-0.34028234663853E+39
+ 0.44971520007928E-01 0.44971520007928E-01
+-0.17520892021892E+02-0.34888195609491E+02
+ 0.51465419670270E+02 0.37381037043249E+02
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+Last 10 data records of af_biomass.e00 (uncompressed):
+IFO 2
+AF_BIOMASS2.STA XX 4 4 32 1
+MIN 8-1 14-1 15 3 60-1 -1 -1-1 1-
+MAX 8-1 94-1 15 3 60-1 -1 -1-1 2-
+MEAN 8-1 174-1 15 3 60-1 -1 -1-1 3-
+STDV 8-1 254-1 15 3 60-1 -1 -1-1 4-
+ 1.04991778731346130E-01 4.64790527343750000E+02 1.00535439319918112E+02 1.07056
+509507994278E+02
+EOI
+EOS
+ distributed with this numeric data package.
+First 10 data records of af_carbon.e00 (uncompressed):
+EXP 0 E:\TOM_BODEN\SANDRA_BROWN\UPDATE\ACTUAL_BIOMASS\AF_CARBON.E00
+GRD 2
+ 1534 1607 2-0.34028234663853E+39
+ 0.44971520007928E-01 0.44971520007928E-01
+-0.17520892021892E+02-0.34888195609491E+02
+ 0.51465419670270E+02 0.37381037043249E+02
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39-0.3402823E+39
+IFO 2
+AF_CARBON2.STA XX 4 4 32 1
+MIN 8-1 14-1 15 3 60-1 -1 -1-1 1-
+MAX 8-1 94-1 15 3 60-1 -1 -1-1 2-
+MEAN 8-1 174-1 15 3 60-1 -1 -1-1 3-
+STDV 8-1 254-1 15 3 60-1 -1 -1-1 4-
+ 5.24958893656730652E-02 2.32395263671875000E+02 5.02677196599590559E+01 5.35282
+547539971389E+01
+EOI
+EOS
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055b/ndp055b.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20071101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20071101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055b/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa M. Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This document is an update of Brown, S, and Greg Gaston. 1996. Tropical Africa: Land Use, Biomass, and Carbon Estimates for 1980. NDP-055, Carbon Dioxide Information Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee. Please see ndp055 for background information regarding the original Brown and Gaston data set.
+
+The goal of this project was to update the ndp055 biomass map of Africa to more accurately represent conditions in 2000. The same methods and established statistical relationships were used to develop the new data. The Global Land Cover 2000 (GLC2000) Database was used to derive forest distribution in the year 2000, and CIESIN's Gridded Population of the World data set provided more current population figures to use in the analysis. The use of these datasets in conjunction with the original ndp055 data allowed for the recognition of deforestation and degradation occurring over the last 20 years. The updated population and land cover data also provide more accurate representation at a higher spatial resolution than the original ndp055 data sets. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

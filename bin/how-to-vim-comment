@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo 
+echo "#############"
+echo "To comment:"
+echo "66,70s/^/#"
+echo "#############"
+echo "To uncomment:"
+echo ":66,70s/^#/"
+echo "#############"
+echo

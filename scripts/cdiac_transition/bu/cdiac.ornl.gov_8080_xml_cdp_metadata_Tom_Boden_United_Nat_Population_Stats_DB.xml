@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Kovacs, K.]]></origin>
+        <origin><![CDATA[Horvath, E.]]></origin>
+        <title><![CDATA[The United Nations Population Statistics Database]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/United_Nat_Population_Stats_DB.xml]]></onlink>
+        <onlink><![CDATA[/hoss/data2/tab/2004emis/pop2004/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[The United Nations Population Statistics Database]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19500101]]></begdate>
+          <enddate><![CDATA[20041231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Population Statistics Database]]></themekey>
+        <themekey><![CDATA[United Nations]]></themekey>
+        <themekey><![CDATA[UNSTAT]]></themekey>
+        <themekey><![CDATA[Per capita]]></themekey>
+        <themekey><![CDATA[Population]]></themekey>
+        <themekey><![CDATA[Demographics]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070806 163046</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050810 083117 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Population Statistics Database]]></Keywords>
+    <Keywords><![CDATA[United Nations]]></Keywords>
+    <Keywords><![CDATA[UNSTAT]]></Keywords>
+    <Keywords><![CDATA[Per capita]]></Keywords>
+    <Keywords><![CDATA[Population]]></Keywords>
+    <Keywords><![CDATA[Demographics]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050810 083117 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/United_Nat_Population_Stats_DB.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[United_Nations_Population_Statistics_DB]]></Product_number>
+      <Product_title><![CDATA[The United Nations Population Statistics Database]]></Product_title>
+      <Author>
+        <Name><![CDATA[Kovacs, K.]]></Name>
+        <Company><![CDATA[United Nations Statistics Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Horvath, E.]]></Name>
+        <Company><![CDATA[United Nations Statistics Division]]></Company>
+        <Organization><![CDATA[Environment and Energy Statistics Branch]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Population statistics]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[215 Countries of the World]]></Site_name>
+        <Site_URL><![CDATA[http://unstats.un.org/unsd/methods/m49/m49chang.htm]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/2004emis/pop2004/pop2004.txt]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Country Code (e.g. Germany...276)]]></Variable>
+      <Variable><![CDATA[Quantity (thousands)]]></Variable>
+      <Descriptive_file><![CDATA[http://unstats.un.org/unsd/methods/m49/m49chang.htm]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20000401]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070801]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/hoss/data2/tab/2004emis/pop2004/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  The United Nations Energy Statistics Database (UNSTAT) is a comprehensive collection of international energy and demographic statistics prepared by the United Nations Statistics Division.  The 2004 version represents the latest in the series of annual compilations which commenced under the title World Energy Supplies in Selected Years, 1929-1950.  Supplementary series of monthly and quarterly data on production of energy may be found in the Monthly Bulletin of Statistics.
+<br><br>
+  The database contains comprehensive energy statistics for more than 215 countries or areas for production, trade and intermediate and final consumption (end-use) for primary and secondary conventional, non-conventional and new and renewable sources of energy.  Mid-year population estimates are included to enable the computation of per capita data.  
+<br><br>
+  Annual questionnaires sent to national statistical offices serve as the primary source of information.  Supplementary data are also compiled from national, regional and international statistical publications.  The Statistics Division prepares estimates where official data are incomplete or inconsistent.  The database is updated on a continuous basis as new information and revisions are received.
+<br><br>
+This metadata file represents the population statistics during the expressed time.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,2224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Curtis, P. S.]]></origin>
+        <title><![CDATA[Database of Woody Vegetation Responses to Elevated Atmospheric CO2]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_072.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp072/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Database of Woody Vegetation Responses to Elevated Atmospheric CO2]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19850101]]></begdate>
+          <enddate><![CDATA[19961231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[atmospheric CO2]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[meta-analysis]]></themekey>
+        <themekey><![CDATA[vegetation]]></themekey>
+        <themekey><![CDATA[woody vegetation]]></themekey>
+        <themekey><![CDATA[database ]]></themekey>
+        <themekey><![CDATA[woody vegetation responses]]></themekey>
+        <themekey><![CDATA[The Ohio State University]]></themekey>
+        <themekey><![CDATA[NDP-072]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 150831</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 165115 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[atmospheric CO2]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[meta-analysis]]></Keywords>
+    <Keywords><![CDATA[vegetation]]></Keywords>
+    <Keywords><![CDATA[woody vegetation]]></Keywords>
+    <Keywords><![CDATA[database ]]></Keywords>
+    <Keywords><![CDATA[woody vegetation responses]]></Keywords>
+    <Keywords><![CDATA[The Ohio State University]]></Keywords>
+    <Keywords><![CDATA[NDP-072]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Contributed by
+Peter S. Curtis
+Department of Evolution, Ecology, and Organismal Biology
+ and Antoinette L. Brenkert
+Carbon Dioxide Information Analysis Center
+Publication No. 4888
+Date Published: September 1999
+Prepared for the
+Budget Activity Number KP 12 04 01 0
+Prepared by the
+Carbon Dioxide Information Analysis Center
+Oak Ridge, Tennessee 37831-6290
+managed by
+LOCKHEED MARTIN ENERGY RESEARCH CORP.
+for the
+PARAM = BD
+PARAM = BGWT
+PARAM = LFC
+PARAM = LFNM
+PARAM = PN
+PARAM = PN_AC
+PARAM = RD_AC
+PARAM = INDLA
+PARAM = LFC
+PARAM = LFSTAR
+PARAM = LFTNC
+PARAM = RD_AC
+PARAM = RGR
+PARAM = TOTN
+ 1 44PN umolCO2/m2/s ALNUS RUBRA
+WOODYN2FIX 350 650ul/l 46 0.5GC SEED FERT HI
+20mgN/l T3 11.7700 0.6400 1.4311
+12.7668 5 23.2000 4.6100 10.3083 46.6539 5
+ 2 44PN umolCO2/m2/s ALNUS RUBRA
+WOODYN2FIX 350 650ul/l 46 0.5GC SEED FERT CONTROL.
+ T3 11.7000 1.1600 2.5938 23.2777 5
+25.9000 1.4800 3.3094 13.4165 5
+7832224TOTWT g POPULUS TREMULOIDES
+WOODYANGIO 385 642ul/l 60 6GC SEED NONE . .
+ F1 69.7000 2.1000 3.6373 5.6534 3
+102.6000 3.6000 6.2354 6.5838 3
+7842224LFSTAR% POPULUS TREMULOIDES
+WOODYANGIO 385 642ul/l 60 6GC SEED NONE . .
+ F2 2.7600 0.1900 0.3291 12.9176 3
+ 8.5300 0.9300 1.6108 20.4576 3
+*SAS data retrieval routine to read ndp072.dat;
+data ndp072;
+infile 'ndp072.dat';
+input OBSNO 1-3 @4 PAP_NO 4. @8 PARAM $char6. P_UNIT $ 14-28 GENUS $ 29-41
+ SPECIES $ 42-66 DIV1 $ 67-71 DIV2 $ 72-76 AMB $ 77-80 ELEV $ 81-84
+ CO2_UNIT $ 85-92 TIME 93-96 POT $ 97-102 METHOD $ 103-106
+ STOCK $ 107-114 XTRT $ 115-120 LEVEL $ 121-127 QUANT $ 128-151
+ SOURCE $ 152-157 X_AMB 158-167 SE_AMB 168-176 SD_AMB 177-186
+ CV_AMB 187-195 N_AMB 196-198 X_ELEV 199-208 SE_ELEV 209-217
+ SD_ELEV 218-227 CV_ELEV 228-236 N_ELEV 237-239 ;
+* In the above INPUT statement, the variables CV*_AMB and CV*_ELEV have
+ been renamed CV_AMB and CV_ELEV, respectively.;
+run;
+C *** Fortran program to read the file "ndp072.dat"
+C
+ INTEGER OBSNO, PAP_NO, N_AMB, N_ELEV, TIME
+ DOUBLE PRECISION X_ELEV, SD_ELEV
+ REAL X_AMB, SE_AMB, SD_AMB, CV_AMB, SE_ELEV, CV_ELEV
+ CHARACTER PARAM*6, P_UNIT*15, GENUS*13, SPECIES*25, DIV1*5,
+ + DIV2*5, AMB*4, ELEV*4, CO2_UNIT*8, POT*6, METHOD*4, STOCK*8,
+ + XTRT*6, LEVEL*7, QUANT*24, SOURCE*6
+C
+ OPEN (UNIT=1, FILE='NDP072.DAT')
+C
+C Note that the variables CV*_AMB and CV*_ELEV have
+C been renamed CV_AMB and CV_ELEV, respectively
+C
+ 10 READ (1,100,END=99) OBSNO, PAP_NO, PARAM, P_UNIT, GENUS, SPECIES,
+ + DIV1, DIV2, AMB, ELEV, CO2_UNIT, TIME, POT, METHOD, STOCK, XTRT,
+ + LEVEL, QUANT, SOURCE, X_AMB, SE_AMB,
+ + SD_AMB,CV_AMB,N_AMB,X_ELEV,
+ + SE_ELEV, SD_ELEV, CV_ELEV, N_ELEV
+ 100 FORMAT (I3,I4,A6,A15,A13,A25,2A5,2A4,A8,A4,A6,A4,A8,A6,A7,A24,
+ + A6,F9.4,1X,F8.4,1X,2(F9.4,1X),I2,3(F9.4,1X),F8.4,1X,I2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+Acacia mangium
+Acer pensylvanicum
+Acer pseudoplatanus
+Acer rubrum
+Acer saccharinum
+Acer saccharum
+Alnus glutinosa
+Alnus rubra
+Betula alleghaniensis
+Betula lenta
+Betula papyrifera
+Betula pendula
+Betula populifolia
+Betula pubescens
+Brachychiton populneum
+Castanea sativa
+Cecropia obtusifolia
+Cedrus atlantica
+Citrus aurantium
+Citrus sinensis
+Eucalyptus microtheca
+Eucalyptus polyanthemus
+Eucalyptus tetrodonta
+Fagus grandifolia
+Fagus sylvatica
+Ficus obtusifolia
+Fraxinus americana
+Garcinia mangostana
+Gliricidia sepium
+Lindera Benzoin
+Liquidambar styraciflua
+Liriodendron tulipifera
+Malus domestica
+Maranthes corymbosa
+Myriocarpa longipes
+Nothofagus fusca
+Picea abies
+Picea glauca
+Picea mariana
+Pinus banksiana
+Pinus echinata
+Pinus eldarica
+Pinus nigra
+Pinus ponderosa
+Pinus radiata
+Pinus strobus
+Pinus sylvestris
+Pinus taeda
+Piper auritum
+citrusparadisi
+citrussinensis
+Populus euramericana
+Populus grandidentata
+Populus interamericana
+Populus tremuloides
+Populus x euramericana
+Pseudotsuga menziesii
+Quercus alba
+Quercus prinus
+Quercus robur
+Quercus rubra
+Senna multijuga
+Tabebuia rosea
+44 Arnone, J.A., III, and J.C. Gordon. 1990. Effect of Nodulation, Nitrogen
+Fixation and CO2 Enrichment on the Physiology, Growth and Dry Mass Allocation
+of Seedlings of Alnus rubra Bong. New Phytologist 116:55-66.
+2186 Bassow, S.L., K.D.M. McConnaughay, and F.A. Bazzaz. 1994. The Response
+of Temperate Tree Seedlings Grown in Elevated CO2 to Extreme Temperature
+Events. Ecological Applications 4(3):593-603.
+2223 Bazzaz, F.A., and S.L. Miao. 1993. Successional Status, Seed Size,and
+Responses of Tree Seedlings to CO2, Light and Nutrients. Ecology
+74(1):104-112.
+2037 Bazzaz, F.A., S.L. Miao, and P.M. Wayne. 1993. CO2-induced Growth
+Enhancements of Co-occurring Tree Species Decline at Different Rates.
+Oecologia 96:478-482.
+2217 Berryman, C.A., D. Eamus, and G.A. Duff. 1993. The Influence of CO2
+Enrichment on Growth, Nutrient Content and Biomass Allocation of Maranthes
+corymbosa. Australian Journal of Botany 41:195-209.
+112 Brown, K.R. 1991. Carbon Dioxide Enrichment Accelerates the Decline in
+Nutrient Status and Relative Growth Rate of Populus tremuloides Michx.
+Seedlings. Tree Physiology 8:161-173.
+121 Bunce, J.A. 1992. Stomatal Conductance, Photosynthesis and Respiration
+of Temperate Deciduous Tree Seedlings Grown Outdoors at an Elevated
+Concentration of Carbon Dioxide. Plant, Cell and Environment 15:541-549.
+2026 Callaway, R.M., E.H. DeLucia, E.M. Thomas, and W.H. Schlesinger. 1994.
+Compensatory Responses of CO2 Exchange and Biomass Allocation and their
+Effects on the Relative Growth Rate of Ponderosa Pine in Different CO2 and
+Temperature Regimes. Oecologia 98:159-166.
+2043 Cipollini, M.L., B.G. Drake, and D. Whigham. 1993. Effects of
+ElevatedCO2 on Growth and Carbon/Nutrient Balance in the Deciduous Woody Shrub
+Lindera Benzoin (L.) Blume (Lauraceae). Oecologia 96:339-346.
+150 Conroy, J.P., M. Kuppers, B. Kuppers, J. Virgona, and E.W.R. Barlow.
+1988. The Influence of CO2 Enrichment, Phosphorus Deficiency and Water Stress
+on the Growth, Conductance and Water Use of Pinus radiata D. Don. Plant, Cell
+and Environment 11:91-98.
+159 Couteaux, M.M., P. Bottner, H. Rouhier, and G. Billes. 1992. Atmospheric
+CO2 Increase and Plant Material Quality: Production, Nitrogen Allocation and
+Litter Decomposition of Sweet Chestnut. IN: Responses of Forest Ecosystems to
+Environmental Changes (A. Teller, P. Mathy, and J.N.R. Jeffers, eds.),
+Elsevier Applied Science, London, pp. 429-436.
+168 Curtis, P.S., and J.A. Teeri. 1992. Seasonal Responses of Leaf Gas
+Exchange to Elevated Carbon Dioxide in Populus grandidentata. Canadian Journal
+of Forest Research 22:1320-1325.
+2039 Curtis, P.S., C.S. Vogel, K.S. Pregitzer, D.R. Zak, and J.A. Teeri.
+1995. Interacting Effects of Soil Fertility and Atmospheric CO2 on Leaf Area
+Growth and Carbon Gain Physiology in Populus x euramericana (Dode) Guinier.
+New Phytologist 129:253-263.
+2129 Curtis, P.S., D.R. Zak, K.S. Pregitzer, and J.A. Teeri. 1994. Above- and
+Belowground Response of Populus grandidentata to Elevated Atmospheric CO2 and
+Soil N Availability. Plant and Soil 165:45-51.
+184 Downton, W.J.S., W.J.R. Grant, and E.K. Chacko. 1990. Effect of Elevated
+Carbon Dioxide on the Photosynthesis and Early growth of Mangosteen (Garcinia
+mangostana L.). Scientia Horticulturae 44:215-225.
+183 Downton, W.J.S., W.J.R. Grant, and B.R. Loveys. 1987. Carbon Dioxide
+Enrichment Increases Yield of Valencia Orange. Australian Journal of Plant
+Physiology 14:493-501.
+2047 Eamus, D., C.A. Berryman, and G.A. Duff. 1993. Assimilation, Stomatal
+Conductance, Specific Leaf Area and Chlorophyll Responses to Elevated CO2 of
+Maranthes corymbosa a Tropical Rain Forest Species. Australian Journal of
+Plant Physiology 20:741-755.
+2071 Eamus, D., C.A. Berryman, and G.A. Duff. 1995. The Impact of CO2
+Enrichment on Water Relations in Maranthes corymbosa and Eucalyptus
+tetrodonta. Australian Journal of Botany 43:273-282.
+2070 Eamus, D., G.A. Duff, and C.A. Berryman. 1995. Photosynthetic Responses
+to Temperature, Light, Flux-density, CO2 Concentration and Vapour Pressure
+Deficit in Eucalyptus tetrodonta Grown under CO2 Enrichment. Environmental
+Pollution 90:41-49.
+208 El Kohen, A., J.-Y. Pontailler, and M. Mousseau. 1991. Effect of
+Doubling of Atmospheric CO2 Concentration on Dark Respiration in Aerial Parts
+of Young Chestnut Trees (Castanea sativa Mill.). Comptes Rendus des Sciences
+(Paris) t. 312, Serie III:477-481.
+209 El Kohen, A., H. Rouhier, and M. Mousseau. 1992. Changes in Dry Weight
+and Nitrogen Partitioning Induced by Elevated CO2 Depends on Soil Nutrient
+Availability in Sweet Chestnut (Castanea sativa Mill.). Annales des Sciences
+Forestieres 49:83-90.
+210 El Kohen, A., L. Venet, and M. Mousseau. 1993. Growth and
+Photosynthesis of Two Deciduous Forest Species at Elevated Carbon Dioxide.
+Functional Ecology 7:480-486.
+221 Ferguson, J.J., W.T. Avigne, L.H. Allen, and K.E. Koch. 1986. Growth of
+CO2-enriched Sour Orange Seedlings Treated with Gibberellins/Cytokinins.
+Proceedings of the Florida State Horticultural Society 99:37-39.
+222 Fetcher, N., C.H. Jaeger, B.R. Strain, and N. Sionit. 1988. Long-term
+Elevation of Atmospheric CO2 Concentration and the Carbon Exchange Rates of
+Saplings of Pinus taeda L. and Liquidambar styraciflua L. Tree Physiology
+4:255-262.
+2041 Garcia, R.L., S.B. Idso, G.W. Wall, and B.A. Kimball. 1994. Changes in
+net Photosynthesis and Growth of Pinus eldarica Seedlings in Response to
+Atmospheric CO2 Enrichment. Plant, Cell and Environment 17:971-978.
+233 Gaudillere, J.-P., and M. Mousseau. 1989. Short Term Effect of CO2
+Enrichment on Leaf Development and Gas Exchange of Young Poplars (Populus
+euramericana cv I 214). Acta Oecologica/Oecologia Plantarum 10:95-105.
+2002 Gorissen, A., P.J. Kuikman, and H. van de Beek. 1995. Carbon Allocation
+and water Use in Juvenile Douglas Fir under Elevated CO2. New Phytologist
+129:275-282.
+2036 Grulke, N.E., J.L. Hom, and S.W. Roberts. 1993. Physiological Adjustment
+of two Full-sib Families of Ponderosa Pine to Elevated CO2. Tree Physiology
+12:391-401.
+2035 Gunderson, C.A., R.J. Norby, and S.D. Wullschleger. 1993. Foliar Gas
+Exchange Responses of two Deciduous Hardwoods during 3 Years of Growth in
+Elevated CO2: no Loss of Photosynthetic Enhancement. Plant, Cell and
+Environment 16:797-807.
+290 Hollinger, D.Y. 1987. Gas Exchange and Dry Matter Allocation Responses
+to Elevation of Atmospheric CO2 Concentration in Seedlings of three Tree
+Species. Tree Physiology 3:193-202.
+314 Idso, S.B., and B.A. Kimball. 1991. Downward Regulation of
+Photosynthesis and Growth at High CO2 Levels. Plant Physiology 96:990-992.
+318 Idso, S.B., and B.A. Kimball. 1993. Effects of Atmospheric CO2
+Enrichment on Net Photosynthesis and Dark Respiration Rates of Three
+AustralianTree Species. Journal of Plant Physiology 141:166-171.
+313 Idso, S.B., B.A. Kimball, and S.G. Allen. 1991. CO2 Enrichment of Sour
+Orange Trees: 2.5 Years into a Long-term Experiment. Plant, Cell and
+Environment 14:351-353.
+322 Idso, S.B., B.A. Kimball, and S.G. Allen. 1991. Net Photosynthesis of
+Sour Orange Trees Maintained in Atmospheres of Ambient and Elevated CO2
+Concentration. Agricultural and Forest Meteorology 54:95-101.
+2123 Jarvis, P.G., H.S.J. Lee, and C.V.M. Barton. 1994. The Likely Impact of
+rising CO2 and Temperature on European Forests. Institute of Ecology and
+Resource Management, University of Edinburgh.
+2045 Johnsen, K.H. 1993. Growth and Ecophysiological Responses of Black
+Spruce Seedlings to Elevated CO2 under Varied Water and Nutrient Additions.
+Canadian Journal of Forest Research 23:1033-1042.
+2109 Johnson, D., D. Geisinger, R. Walker, J. Newman, J. Vose, K. Elliot, and
+T. Ball. 1994. Soil pCO2, Soil Respiration, and Root Activity in CO2-fumigated
+and Nitrogen-fertilized Pondersosa Pine. Plant and Soil 165:129-138.
+340 Kaushal, P., J.M. Guehl, and G. Aussenac. 1989. Differential Growth
+Response to Atmospheric Carbon Dioxide Enrichment in Seedlings of Cedrus
+atlantica and Pinus nigra ssp. Laricio var. Corsicana. Canadian Journal of
+Forest Research 19:1351-1358.
+362 Koch, K.E., P. Jones, W.T. Avigne, and L.H. Allen Jr. 1986. Growth, Dry
+Matter Partitioning, and Diurnal Activities of RuBP Carboxylase in Citrus
+Seedlings Maintained at Two Levels of CO2. Physiologia Plantarum 67:477-484.
+2121 Kubiske, M.E., and K.S. Pregitzer. 1994. Effect of Elevated CO2 and
+Light Availability on the Photosynthetic Light Response of Trees of
+Contrasting Shade Tolerance. Tree Physiology; in press.
+2120 Laboratorium Voor Plantecologie. 1992. Effect of Increased Atmospheric
+CO2 Concentration on Primary Productivity and Carbon Allocation in Typical
+Belgian Forest Ecosystems. Progress report 1992.
+2028 Lavola, A., and R. Julkunen-Tiitto. 1994. The Effect of Elevated Carbon
+Dioxide and Fertilization on Primary and Secondary Metabolites in Birch,
+Betula pendula (Roth). Oecologia 99:315-321.
+2165 Lewis, J.D., R.B. THomas, and B.R. Strain. 1994. Effect of Elevated CO2
+on Mycorrhizal Colonization of Loblolly Pine (Pinus taeda L.) Seedlings. Plant
+and Soil 165:81-88.
+2224 Lindroth, R.L., K.K. Kinney, and C.L. Platz. 1993. Responses of
+Deciduous Trees to Elevated Atmospheric CO2: Productivity, Phytochemistry, and
+Insect Performance. Ecology 74(3):763-777.
+2065 Liu, S., and R.O. Teskey. 1995. Responses of Foliar Gas Exchange to
+Long-term Elevated CO2 Concentrations in Mature Loblolly Pine Trees. Tree
+Physiology 15:351-359.
+2069 Marek, M.V., J. Kalina, and M. Matouskova. 1995. Response of
+Photosynthetic Carbon Assimilation of Norway Spruce Exposed to Long-term
+Elevation of CO2 Concentration. Photosynthetica 31:209-220.
+2117 Mortensen, L.M. 1994. Effects of Carbon Dioxide Concentration on
+Assimilate Partitioning, Photosynthesis and Transpiration of Betula pendula
+Roth. and Picea abies (L.) Karst. Seedlings at two Temperatures. Acta
+Agriculturae Scandinavica, Section B, Soil and Plant Sciences 44:164-169.
+2003 Mortensen, L.M. 1995. Effect of Carbon Dioxide Concentration on Biomass
+Production and Partitioning in (Betula pubescens Ehrh.) Seedlings at Different
+Ozone and Temperature Regimes. Environmental Pollution 87:337-343.
+468 Mousseau, M. 1993. Effects of Elevated CO2 on Growth, Photosynthesis and
+Respiration of Sweet Chestnut (Castanea sativa Mill.). Vegetatio
+104/105:413-419.
+470 Mousseau, M., and H.Z. Enoch. 1989. Carbon Dioxide Enrichment Reduces
+Shoot Growth in Sweet Chestnut Seedlings (Castanea sativa Mill.). Plant, Cell
+and Environment 12:927-934.
+502 Norby, R.J., C.A. Gunderson, S.D. Wullschleger, E.G. O'Neill, and M.K.
+McCracken. 1992. Productivity and Compensatory Responses of Yellow-poplar
+Trees in Elevated CO2. Nature 357:322-324.
+505 Norby, R.J., and E.G. O'Neill. 1989. Growth Dynamics and Water Use of
+Seedlings of Quercus alba L. in CO2-enriched Atmospheres. New Phytologist
+111:491-500.
+506 Norby, R.J., and E.G. O'Neill. 1991. Leaf Area Compensation and Nutrient
+Interactions in CO2-enriched Seedlings of Yellow-poplar (Liriodendron
+tulipifera L.). New Phytologist 117:515-528.
+503 Norby, R.J., E.G. O'Neill, W.G. Hood, and R.J. Luxmoore. 1987. Carbon
+Allocation, Root Exudation and Mycorrhizal Colonization of Pinus echinata
+Seedlings Grown under CO2 Enrichment. Tree Physiology 3:203-210.
+504 Norby, R.J., E.G. O'Neill, and R.J. Luxmoore. 1986. Effects of
+Atmospheric CO2 Enrichment on the Growth and Mineral Nutrition of Quercus alba
+Seedlings in Nutrient-poor Soil. Plant Physiology 82:83-89.
+2131 Norby, R.J., Wullschleger, and C.A. Gunderson. 1996. Tree Responses to
+Elevated CO2 and Implications for Forests. IN: Carbon Dioxide and Terrestrial
+Ecosystems (G.W. Koch and H.A. Mooney, eds.), Academic Press, New York,
+pp.1-21.
+510 O'Neill, E.G., R.J. Luxmoore, and R.J. Norby. 1987. Increases in
+Mycorrhizal Colonization and Seedling Growth in Pinus echinata and Quercus
+alba in an Enriched CO2 Atmosphere. Canadian Journal of Forest Research
+17:878-883.
+521 Overdieck, D. 1990. Effects of Elevated CO2-concentration Levels on
+Nutrient Contents of Herbaceous and Woody Plants. IN: The Greenhouse Effect
+and Primary Productivity in European Agro-ecosystems; 5-10 April 1990;
+Wageningen, The Netherlands (J. Goudriaan, H. van Keulen, and H.H. van Laar,
+eds.), Pudoc, Wageningen, pp. 31-37.
+550 Pettersson, R., and A.J.S. McDonald. 1992. Effects of Elevated Carbon
+Dioxide Concentration on Photosynthesis and Growth of Small Birch Plants
+(Betula pendula Roth.) at Optimal Nutrition. Plant, Cell and Environment
+15:911-919.
+2027 Pettersson, R., A.J.S. McDonald, and I. Stadenberg. 1993. Response of
+Small Birch Plants (Betula pendula Roth.) to Elevated CO2 and Nitrogen Supply.
+Plant, Cell and Environment 16:1115-1121.
+553 Polle, A., T. Pfirrmann, S. Chakrabarti, and H. Rennenberg. 1993. The
+Effects of Enhanced Ozone and Enhanced Carbon Dioxide Concentrations on
+Biomass, Pigments and Antioxidative Enzymes in Spruce Seedlings. Plant, Cell
+and Environment 16:311-316.
+2110 Pregitzer, K.S., D.R. Zak, P.S. Curtis, M.E. Kubiske, J.A. Teeri, and
+C.S. Vogel. 1995. Atmospheric CO2, Soil Nitrogen and Turnover of Fine Roots.
+New Phytologist 129(4):579-585.
+582 Reekie, E.G., and F.A. Bazzaz. 1989. Competition and Patterns of
+Resource Use among Seedlings of Five Tropical Trees Grown at Ambient and
+Elevated CO2. Oecologia 79:212-222.
+2046 Reid, C.D., and B.R. Strain. 1994. Effects of CO2 Enrichment on
+Whole-plant Carbon Budget of Seedlings of Fagus grandifolia and Acer saccharum
+in low Irradiance. Oecologia 98:31-39.
+596 Rochefort, L., and F.A. Bazzaz. 1992. Growth Response to Elevated CO2 in
+Seedlings of Four Co-occurring Birch Species. Canadian Journal of Forest
+Research 22:1583-1587.
+2038 Roth, S.K., and R.L. Lindroth. 1994. Effects of CO2-mediated Changes in
+Paper Birch and White Pine Chemistry on Gypsy Moth Performance. Oecologia
+98:133-138.
+644 Sharkey, T.D., F. Loreto, and C.F. Delwiche. 1991. High Carbon Dioxide
+and Sun/Shade Effects on Isoprene Emission from Oak and Aspen Tree Leaves.
+Plant, Cell and Environment 14:333-338.
+655 Sionit, N., B.R. Strain, H. Hellmers, G.H. Riechers, and C.H. Jaeger.
+1985. Long-term Atmospheric CO2 Enrichment Affects the Growth and
+Development of Liquidambar styraciflua and Pinus taeda Seedlings. Canadian
+Journal of Forest Research 15:468-471.
+666 Stewart, J.D., and J. Hoddinott. 1993. Photosynthetic Acclimation to
+Elevated Atmospheric Carbon Dioxide and UV Irradiation in Pinus banksiana.
+Physiologia Plantarum 88:493-500.
+2042 Sullivan, J.H., and A.H. Teramura. 1994. The Effects of UV-B
+Radiation
+on Loblolly Pine. 3. Interaction with CO2 Enhancement. Plant, Cell and
+Environment 17:311-317.
+676 Surano, K.A., P.F. Daley, J.L.J. Houpis, J.H. Shinn, J.A. Helms, R.J.
+Palassou, and M.P. Costella. 1986. Growth and Physiological Responses of Pinus
+ponderosa Dougl. ex P. Laws. to Long-term Elevated CO2 Concentration. Tree
+Physiology 2:243-259.
+2005 Teskey, R.O. 1995. A Field Study of the Effects of Elevated CO2 on
+Carbon Assimilation, Stomatal Conductance and Leaf Branch Growth of Pinus
+taeda Trees. Plant, Cell and Environment 18:565-573.
+682 Thomas, R.B., D.D. Richter, H. Ye, P.R. Heine, and B.R. Strain.
+1991.Nitrogen Dynamics and Growth of Seedlings of an N-fixing Tree (Gliricidia
+sepium (Jacq.) Walp.) Exposed to Elevated Atmospheric Carbon Dioxide.
+Oecologia 88:415-421.
+2044 Tissue, D.T., R.B. Thomas, and B.R. Strain. 1993. Long-term Effects of
+Elevated CO2 and Nutrients on Photosynthesis and Rubisco in Loblolly Pine
+Seedlings. Plant, Cell and Environment 16:859-865.
+2032 Tschaplinski, T.J., R.J. Norby, and S.D. Wullschleger. 1993. Responses
+of Loblolly Pine Seedlings to Elevated CO2 and Fluctuating Water Supply. Tree
+Physiology 13:283-296.
+2122 Vogel, C.S., and P.S. Curtis. 1995. Leaf Gas Exchange and Nitrogen
+Dynamics of N2-fixing, Field-grown Alnus glutinosa under Elevated Atmospheric
+CO2. Global Change Biology 1:55-61.
+2068 Wang, K., S. Kellomaki, and K. Laitinen. 1995. Effects of Needle Age,
+Long-term Temperature and CO2 Treatments on the Photosynthesis of Scots Pine.
+Tree Physiology 15:211-218.
+2152 Williams, R.S., D.E. Lincoln, and R.B. Thomas. 1994. Loblolly Pine Grown
+under Elevated CO2 Affects Early Instar Pine Sawfly Performance. Oecologia
+98:64-71.
+747 Wullschleger, S.D., and R.J. Norby. 1992. Respiratory Cost of Leaf
+Growth and Maintenance in White Oak Saplings Exposed to Atmospheric CO2
+Enrichment. Canadian Journal of Forest Research 22:1717-1721.
+746 Wullschleger, S.D., R.J. Norby, and C.A. Gunderson. 1992. Growth and
+Maintenance Respiration in Leaves of Liriodendron tulipifera L. Exposed to
+Long-term Carbon Dioxide Enrichment in the Field. New Phytologist 21:515-523.
+2004 Wullschleger, S.D., R.J. Norby, and P.J. Hanson. 1995. Growth and
+Maintenance Respiration in Stems of Quercus alba after Four Years of CO2
+Enrichment. Physiologia Plantarum 93:47-54.
+7J45 Wullschleger, S.D., R.J. Norby, and D.L. Hendrix. 1992. Carbon Exchange
+Rates, Chlorophyll Content, and Carbohydrate Status of Two Forest Tree Species
+Exposed to Carbon Dioxide Enrichment. Tree Physiology 10:21-31.
+2048 Yakimchuk, R., and J. Hoddinott. 1994. The Influence of Ultraviolet-B
+Light and Carbon Dioxide Enrichment on the Growth and Physiology of Seedlings
+of Three Conifer Species. Canadian Journal of Forest Research 24:1-8.
+756 Ziska, L.H., K.P. Hogan, A.P. Smith, and B.G. Drake. 1991. Growth and
+Photosynthetic Response of Nine Tropical Species with Long-term Exposure to
+Elevated Carbon Dioxide. Oecologia 86:383-389.
+Listed are paper numbers, authors, CO2 exposure facility, light, temperature,
+watering and nutrient conditions when available, location of experimental
+set-up, and comments. For the CO2 exposure facilities, watering regimes, and
+locations the following distinctions were made:
+CO2-exposure facilities:
+ BRANCH - branch chambers
+ GC - indoor, controlled environment: growth chambers
+ GH - sunlit greenhouses and chambers within greenhouses
+ OTC - field-based open-top chambers
+ SPAR - high tech soil-plant-atmosphere chambers
+Watering regime:
+ WW - well watered
+ W - watered
+Locations:
+ NA - North America
+ CA - Central America
+ AU - Australia
+ EU - Europe
+=====================================================================
+=========
+44 Arnone, J.A., III, and J.C. Gordon, 1990
+ GC
+ Light: 400 umol/m2/s Photoperiod: 16h
+ Temperature: 26/20degC
+ Watering regime: WW/drip Humidity: 70%
+ Nutrients: daily 1/4 strength Hoagland
+ N Treatment: 0 vs 20 mg NH4NO3-N/l
+ NA: North Carolina
+ Root nodules from inocculation with Frankia cells
+112 Brown, K.R., 1991
+ GC
+ Light: 400 umol/m2/s at canopy level Photoperiod: 18h
+ Temperature: 22/17degC
+ Watering regime: WW 6 d/wk Humidity: 45%
+ Macronutrients 6d/wk; N Treatment: 0.155 vs 15.5 mM NH4NO3-N
+ NA: Canada: Alberta
+ SE estimated from confidence interval
+121 Bunce, J.A., 1992
+ GH
+ Light: 27-49 mol/m2/d
+ Temperature: 30-19degC
+ Watering regime: WW 2e or 3e day
+ fertile sandy loam+fertilizer/3 wks
+ NA: Maryland
+ SE and SD pers. comm.
+ 150 Conroy, J.P., M. Kuppers, B. Kuppers, J. Virgona, and E.W.R. Barlow,
+ 1988
+ GC
+ Light: 450 umol/m2/s at top of plants Photoperiod: 16h
+ Temperature: 25/18degC
+ Watering regime: daily water
+ nutrients added; P treatment: P levels at 4.4 vs 40 mg/pot
+ AU
+ P-deficient needles of 0.7-0.8 mgP/gdrywt or 1-1.5 mgP/gdrywt
+159 Couteaux, M.M., P. Bottner, H. Rouhier, and G. Billes, 1992
+ GC
+ soil with micro flora, fauna and litter
+ EU: S France
+ Se assumed
+168 Curtis, P.S., and J.A. Teeri, 1992
+ OTC
+ Temperature: local+1.5/1/2degC
+ Watering regime: Precip+W
+ available N: 2.7ug/g soil
+ NA: N-Michigan
+183 Downton, W.J.S., W.J.R. Grant, and B.R. Loveys, 1987
+ GH
+ Light: 600-350 umol/m2/s: top of plants-pot level Photoperiod: 10h
+ Temperature: 25/18degC
+ Watering regime: WW Humidity: 60-90%
+ 1/2 strength Hoagland 2*wk
+ AU
+ fruit dry wt
+184 Downton, W.J.S., W.J.R. Grant, and E.K. Chacko, 1990
+ GC
+ Light: 450 umol/m2/s initially Photoperiod: 14-12h
+ Temperature: 30/22degC
+ Watering regime: WW daily Humidity: 50%
+ Oscomote each 3-4mo
+ AU
+208 El Kohen, A., J.-Y. Pontailler, and M. Mousseau, 1991
+ OTC
+ EU: France
+209 El Kohen, A., H. Rouhier, and M. Mousseau, 1992
+ GH
+ Watering regime: WW/drip
+ NPK Treatment: 0 NPK vs 0.82g N, 0.78gP, 0.4gK/month
+ EU: France
+210 El Kohen, A., L. Venet, and M. Mousseau, 1993
+ GH
+ Temperature: local+-1.8degC
+ Watering regime: W daily
+ EU: France
+ N(#) Castanea from total # plants Castanea; from Fagus from F4
+221 Ferguson, J.J., W.T. Avigne, L.H. Allen, and K.E. Koch, 1986
+ GH
+ Light: 85% from outside
+ Temperature: 31/23degC
+ Watering regime: WW
+ nutrients added: NPK 20:20:20; Peter's
+ NA: Florida
+ part of gibberellin and cytokinin treatment experiment
+222 Fetcher, N., C.H. Jaeger, B.R. Strain, and N. Sionit, 1988
+ GH
+ Light: 1900 umol/m2/s for gas exchange measurements
+ Temperature controlled for 30yr average
+ NA: N Carolina
+ N(#) for stomatal conductance assumed same as for assimilation rate
+233 Gaudillere, J.-P., and M. Mousseau, 1989
+ GC
+ Light: 250 umol/m2/s at top of canopy Photoperiod: 16h
+ Temperature: 22/15degC
+ Watering regime: WW Humidity: 50%
+ EU: France
+290 Hollinger, D.Y., 1987
+ GC
+ Light: 700 umol/m2/s at top of canopy Photoperiod: 14h
+ Temperature: 20/10degC
+ Watering regime: WW Humidity: 70/90%
+ AU
+ SE of mass estimated
+313 Idso, S.B., B.A. Kimball, and S.G. Allen, 1991
+ OTC
+ Watering regime: WW
+ nutrients added
+ NA: Arizona
+314 Idso, S.B., and B.A. Kimball, 1991
+ OTC
+ Watering regime: WW
+ nutrients added
+ NA: Arizona
+ SD of mass estimated from area of F1
+318 Idso, S.B., and B.A. Kimball, 1993
+ OTC
+ Watering regime: WW
+ nutrients added
+ NA: Arizona
+ Assimilation rate and N(#) estimated from F3
+322 Idso, S.B., B.A. Kimball, and S.G. Allen, 1991
+ OTC
+ Watering regime: WW
+ nutrients added
+ NA: Arizona
+340 Kaushal, P., J.M. Guehl, and G. Aussenac, 1989
+ GH
+ Light: 80% of natural outside light+160umol/m2/s at shoot level 6h/d
+ Temperature: local:10-23degC
+ Watering regime: WW Humidity: 80-90%
+ EU: France
+ SE/SD pers comm.
+362 Koch, K.E., P. Jones, W.T. Avigne, and L.H. Allen Jr., 1986
+ GC
+ Light: 85% of incident light of outside
+ Temperature: 31/23degC
+ Watering regime: WW
+ nutrients added (Peter's)
+ NA: Florida
+ SE/SD pers comm
+468 Mousseau, M., 1993
+ OTC
+ Temperature: 35-10/22-5degC
+ Watering regime: WW
+ nutrients added
+ EU: France
+ N(#) of mass assumed as in T1 pap 471
+470 Mousseau, M., and H.Z. Enoch, 1989
+ OTC
+ Temperature: local+max4degC
+ Watering regime: WW/drip
+ nutrients added/yr
+ EU: France
+502 Norby, R.J., C.A. Gunderson, S.D. Wullschleger, E.G. O'Neill, and
+ M.K. McCracken, 1992
+ OTC
+ soils potentially NP deficient
+ NA: 35.9degN 84.4degW
+ note on drought and nutrient deficiency
+503 Norby, R.J., E.G. O'Neill, W.G. Hood, and R.J. Luxmoore, 1987
+ GC
+ Light: 540 umol/m2/s Photoperiod: 14h
+ Temperature: 25/7degC
+ Watering regime: W Humidity: 65%
+ soils potentially NP deficient
+ NA: Tennessee
+ potential soil nutrient deficient
+504 Norby, R.J., E.G. O'Neill, and R.J. Luxmoore, 1986
+ GC
+ Light: 660 umol/m2/s at top of canopy Photoperiod: 14h
+ Temperature: 25/15degC
+ Watering regime: WW/drip Humidity: 65%
+ soils potentially NP deficient
+ NA: Tennessee
+ SE/SD for F1,T1,T2: e-mail; soil potentially nutrient deficient
+505 Norby, R.J., and E.G. O'Neill, 1989
+ GH
+ Light: 580 umol/m2/s Photoperiod: 14h
+ Temperature: 26/10degC
+ Watering regime: WW Humidity: 65/95%
+ NPK treatment: 0 NPK vs 5,1.5,1.9mg N,P,K/pot/wk
+ NA: Tennessee
+ SE/SD: e-mail
+506 Norby, R.J., and E.G. O'Neill,1991
+ GC
+ Light: 600 umol/m2/s Photoperiod: 14h
+ Temperature: 26/12deg
+ Watering regime: WW Humidity: 70/90%
+ nutrients: 20.0.4.5,16.5 mg NPK+/wk ; later 2*wk
+ NA: Tennessee
+ N(#) from author
+510 O'Neill, E.G., R.J. Luxmoore, and R.J. Norby, 1987
+ GC
+ Light: 450 umol/m2/s Photoperiod: 14h
+ Temperature: 26/10degC
+ Watering regime: WW
+ no nutrients added
+ NA: Tennessee
+521 Overdieck, D., 1990
+ GC
+ Watering regime: W as precip
+ soils of average fertility
+ EU: Germany: 52degN 8degE
+550 Pettersson, R., and A.J.S. McDonald, 1992
+ GC
+ Light: 600 umol/m2/s Photoperiod: 18h
+ Temperature: 20degC
+ hydroponics Humidity: 45%
+ nutrient solution
+ EU: Sweden
+ N(#) 2-5: pers comm for gas exchange; as T1 for other measures
+553 Polle, A., T. Pfirrmann, S. Chakrabarti, and H. Rennenberg, 1993
+ GC
+ controlled as for local environment
+ Watering regime: WW:drip acidic mists
+ Ozone Treatment: 0.02 vs 0.08 cm3/m3: 24hrs/d like higher elevations
+ EU: Germany:Bavaria
+582 Reekie, E.G., and F.A. Bazzaz, 1989
+ GH
+ Light: local with 1000-1200 umol/m2/s max levels
+ Temperature: local 30/27degC
+ Watering regime: WW
+ monthly Peter's fertilization(20:20:20)
+ Plant competition of tropical plants
+ NA: Massachusetts
+596 Rochefort, L., and F.A. Bazzaz, 1992
+ GH
+ Light: 900 umol/m2/s clear days
+ Temperature: 28/20degC
+ Watering regime: WW Humidity: 73%
+ nutrients added each 2 weeks
+ NA: Massachusetts
+644 Sharkey, T.D., F. Loreto, and C.F. Delwiche, 1991
+ GH
+ Light: 300-500 umol/m2/s (gas measurements at 900 umol/m2/s)
+ Photoperiod: 15h
+ Temperature: 25/20degC Humidity: 70%/85%
+ NA: Wisconsin
+ Partly a shading and isoprene emission experiment
+655 Sionit, N., B.R. Strain, H. Hellmers, G.H. Riechers, and C.H. Jaeger,
+ 1985
+ GH
+ Temperature: night temp controlled
+ Watering regime: WW/drip Humidity: 70%
+ nutrients (Hoagland 1/15 strength daily
+ NA: North Carolina
+666 Stewart, J.D., and J. Hoddinott, 1993
+ GH
+ Light: 600 umol/m2/s as maximum Photoperiod: 18h
+ Temperature: 15-32degC (local)
+ Watering regime: WW:2*wk
+ nutrients 1/wk
+ UVB Treatment: 0.005-0.03 vs 0.25-0.90 W/m2
+ NA: Canada: Alberta
+676 Surano, K.A., P.F. Daley, J.L.J. Houpis, J.H. Shinn, J.A. Helms,
+ R.J. Palassou, and M.P. Costella, 1986
+ OTC
+ Light: 80-90% from outside
+ Temperature: local+upto5degC
+ Watering regime: WW:3*wk+ Humidity: down to 10%
+ nutrients added/month: NPK + 2.2,1.8,1.3 g/pot/month
+ NA: California
+682 Thomas, R.B., D.D. Richter, H. Ye, P.R. Heine, and B.R. Strain, 1991i
+ GC
+ Light: 1000 umol/m2/s Photoperiod: 14h
+ Temperature: 29/23degC
+ Watering regime: WW Humidity: 70%
+ nutrients added daily with/without N
+ N Treatment: 0 vs 7.0 mM NH4NO3-N
+ NA: South Carolina
+ Seeds inocculated with Rhizobium
+745 Wullschleger, S.D., R.J. Norby, and D.L. Hendrix, 1992
+ OTC
+ gas exchange measures at 1300 umol/m2/s
+ NA: 35.9degN 84.4degW
+ Precip 169 cm at study site compared to 139 cm as 30 yr average
+746 Wullschleger, S.D., R.J. Norby, and C.A. Gunderson, 1992
+ OTC
+ NA: 35.9degN 84.4degW
+747 Wullschleger, S.D., and R.J. Norby, 1992
+ OTC
+ NA: 35.9degN 84.4degW
+756 Ziska, L.H., K.P. Hogan, A.P. Smith, and B.G. Drake, 1991
+ OTC
+ Light: 740 umol/m2/s average; 1200umol/m2/s max Photoperiod: 10h
+ Temperature: 36.5/21.2degC
+ Watering regime: WW 2*day Humidity: 60%/85%
+ nutrients added (Osmocote)
+ CA: 83.9degN 9.2degW
+ Values differ slightly from Table: pers comm
+2002 Gorissen, A., P.J. Kuikman, and H. Van De Beek, 1995
+ GC
+ Light: 400 umol/m2/s Photoperiod: 16h
+ Temperature: 18/14degC
+ Watering regime: W Humidity: 70-80%
+ EU: 52.2degN 5.8degE
+2003 Mortensen, L.M., 1995
+ GC
+ Light: 18 mol/m2/day for temp treatment
+ Light: 22 mol/m2/day for Ozone treatment Photoperiod: 24h
+ Temperature: 17.3degC=control
+ Watering regime: WW
+ nutrients added
+ 2 Treatments: Ozone: 7 vs 62 nmol/mol for 8 hrs
+ Temperature: 15.3 vs 20 degC
+ EU: 60.8degN 11.5degE
+2004 Wullschleger, S.D., R.J. Norby, and P.J. Hanson, 1995
+ OTC
+ NA: 35.9degN 84.4degW
+ Pisolithus tinctorius mycorrhizal inoculum; stem respiration
+2005 Teskey, R.O., 1995
+ BRANCH
+ Light: 1200 umol/m2/s for gas exchange measurements
+ Watering regime: irrigated
+ NA: Georgia: 33.9degN 82.3degW
+2026 Callaway, R.M., E.H. DeLucia, E.M. Thomas, and W.H. Schlesinger, 1994
+ GC
+ Light: 1000 umol/m2/s Photoperiod: 12h
+ Temperature Treatment: 25/10degC vs 30/25degC
+ Watering regime: WW Humidity: 45%i during day
+ nutrients 1/2 strength Hoagland
+ NA: Nevada
+2027 Pettersson, R., A.J.S. McDonald, and I. Stadenberg, 1993
+ GC
+ Light: 600 umol/m2/s Photoperiod: 18h
+ Temperature: 20degC
+ Hydroponic Humidity: 50%
+ nutrient solution
+ N Treatment: 0.07 vs 0.15 molN/molN/d
+ EU: Sweden
+2028 Lavola, A., and R. Julkunen-Tiitto, 1994
+ GH
+ Light: local -- 1137-175 umol/m2/s
+ Temperature: 22/15degC
+ NKP Treatment: 0 vs 500 kg/ha
+ EU: Finland
+2032 Tschaplinski, T.J., R.J. Norby, and S.D. Wullschleger, 1993
+ GC
+ Light: 720 umol/m2/s Photoperiod: 14h
+ Temperature: 26/16degC
+ H2O Treatment: weekly vs biweekly watering Humidity: 85-90%
+ fertilized/month (Peter's NPK 20:20:20)
+ NA: Tennessee
+2035 Gunderson, C.A., R.J. Norby, and S.D. Wullschleger, 1993
+ OTC
+ Light: 1100-2300 umol/m2/s for gas exchange measurements
+ Temperature: local
+ Watering regime: precip
+ NA: 35.9degN 84.4degW
+2036 Grulke, N.E., J.L. Hom, and S.W. Roberts, 1993
+ GC
+ Light: 713 umol/m2/s at canopy height Photoperiod: 12hr later 14h
+ Temperature: 25/19degC
+ Watering regime: WW Humidity: 46-57%/81%
+ fertilized weekly
+ NA: California
+2037 Bazzaz, F.A., S.L. Miao, and P.M. Wayne, 1993
+ GH
+ Light: 37% and 75 % of full sun
+ Temperature: 30/23degC
+ 2 Treatments: Light: 37% and 75% of full sun
+ Fertilizer: 0.18 and 1.8 g Oscomote
+ NA: Massachusetts
+2038 Roth, S.K., and R.L. Lindroth, 1994
+ GC
+ Light: 501 umol/m2/s Photoperiod: 15h
+ Temperature: 25/20degC
+ Watering regime: WW/drip Humidity: 70/85%
+ fertilized 1/2 strength Hoagland 2*per day
+ NA: Wisconsin
+2039 Curtis, P.S., C.S. Vogel, K.S. Pregitzer, D.R. Zak, and J.A. Teeri, 1995
+ OTC
+ Light: gas exchange measures at 1800 umol/m2/s
+ Temperature: local
+ Watering regime: WW
+ Soil Treatment: 45 vs 346 ug N/g/d N mineralization in soils
+ 64 vs 110 mg extractable PO4/kg soil
+ NA: N-Michigan
+2041 Garcia, R.L., S.B. Idso, G.W. Wall, and B.A. Kimball, 1994
+ OTC
+ Watering regime: WW
+ fertilized
+ NA: Arizona
+2042 Sullivan, J.H., and A.H. Teramura, 1994
+ GH
+ Light: ~80-85% of outdoors
+ Temperature: 27/23degC
+ Watering regime: WW/daily
+ fertilized 1/2 strength Hoagland
+ UVB Treatment: 8 hrs daily 8.8 vs 13.8 kJ/m2
+ NA: Maryland
+ SE for T1 SE for F1 (e-mail)
+2043 Cipollini, M.L., B.G. Drake, and D. Whigham, 1993
+ OTC
+ Light: 10-100-occasionally 1000 umol/m2/min
+ NA: Maryland
+2044 Tissue, D.T., R.B. Thomas, and B.R. Strain, 1993
+ OTC
+ Watering regime: precip
+ 1/2 strength Hoagland 2*week
+ 2 Treatments: High NP:7mol/m2 NH4NO3+1mol/m3 PO4;
+ low P:same N+0.2mol/m3P;
+ lowN:1mol/m3NH4NO3+1mol/m3PO4
+ NA: North Carolina
+ N(#) in T1 does not match text
+2045 Johnsen, K.H., 1993
+ GC
+ Light: 450 umol/m2/s at bench height Photoperiod: 19h
+ Temperature: 20/15degC
+ watering treatment Humidity: 70/90%
+ treatment within 1/3 strength Ingestad
+ 2 Treatments:
+ WW vs drought cycles (fertilized with 8 mL 300 ppmN: Ingestad);
+ Fertilization: 6 mL/wk then 12 mL after 71 days vs 12mL,
+ 18 mL, 24 mL, 32 mL after day 1, 42, 71 and 104
+ NA: Canada: Ontario
+2046 Reid, C.D., and B.R. Strain, 1994
+ GC
+ Light: 65 umol/m2/s Photoperiod: 12h
+ Temperature: 19/15degC
+ Watering regime: WW daily
+ 1/4 strength Hoagland
+ NA: North Carolina
+2047 Eamus, D., C.A. Berryman, and G.A. Duff, 1993
+ OTC
+ Light: ambient local
+ Temperature: local-up to 1.5degC
+ AU
+2048 Yakimchuk, R., and J. Hoddinott, 1994
+ GC
+ Light: 150 umol/m2/s+2hrs 40 umol/m2/s Photoperiod: 18h
+ Temperature: 20/18degC
+ Watering regime: WW Humidity: 65%
+ fertilized weekly
+ Ozone treatment: 1.1 uW/cm2 vs 150 uW/cm2 8hrs/day
+ NA: Canada: Alberta
+ potsize: pers. com.
+2065 Liu, S., and R.O. Teskey, 1995
+ BRANCH
+ Light: gas exchange at 1000-2000 umol/m2/s
+ Temperature: 16.5degC
+ Watering regime: W+precip
+ low to medium soil fertility
+ NA: 33.9degN 83.3degW
+ mature trees, low fertility site
+2068 Wang, K., S. Kellomaki, and K. Laitinen, 1995
+ OTC
+ Temperature treatment: ambient vs hot=amb+2degC in summer,amb+5-20degC
+ Watering regime: W+precip
+ sandy soil
+ EU: 62.8degN 30.9degE
+ chamber around coniferous saplings; elevated CO2 only during daytime
+2069 Marek, M.V., J. Kalina, and M. Matouskova, 1995
+ OTC
+ native Coniferous
+ EU: 49.5degN 18.5degW
+ native coniferous; elevated CO2 level is saturating level
+2070 Eamus, D., G.A. Duff, and C.A. Berryman, 1995
+ SPAR
+ Light: 68% of full
+ Temperature: local minus upto 3degC
+ Watering regime: WW/drip
+ Osmocote in soils
+ AU
+2071 Eamus, D., C.A. Berryman, and G.A. Duff, 1995
+ SPAR
+ Light: 66% of full
+ Temperature: local minus upto 3degC
+ Watering regime: WW 2*day
+ fertilized each 2 weeks
+ AU
+2109 Johnson, D., D. Geisinger, R. Walker, J. Newman, J. Vose, K. Elliot,
+ and T. Ball, 1994
+ OTC
+ Watering regime: WW
+ N treatment: 0 vs 20 g/m2/yr ammonium sulfate
+ NA: California
+ SE vs SD estimates F5; chamber description in Ball et al (1992)
+2110 Pregitzer, K.S., D.R. Zak, P.S. Curtis, M.E. Kubiske, J.A. Teeri,
+ and C.S. Vogel, 1995
+ OTC
+ Watering regime: WW
+ Soil treatment: 45 vs 348 ug N/g/d N mineralization in soils;
+ 64 vs 110 mg extractable PO4/kg soil
+ NA: N-Michigan
+2117 Mortensen, L.M., 1994
+ GC
+ Light treatment: 15 mol/m2/d then 22 mol/m2/d for birch,
+ 21 mol/m2/d for spruce
+ Photoperiod: 24h
+ Temperature Treatment: 15.3 vs 20.0 degC
+ Watering regime: WW 600 vs 1000 Pa as wvpd at 15.3 vs 20degC
+ fertilized, see Mortensen, 1994
+ EU: Norway
+2120 Laboratorium Voor Plantecologie 1992
+ GC
+ Light: 270umol/m2/s Photoperiod: 16h
+ Temperature: 22/17.5degC
+ Watering regime: WW/drip Humidity: 65%
+ fertilized at optimal levels
+ EU: Belgium
+2121 Kubiske, M.E., and K.S. Pregitzer, 1994
+ OTC
+ Light Treatment: low and high; understory imitation
+ NA: N-Michigan
+2122 Vogel, C.S., and P.S. Curtis, 1995
+ OTC
+ Temperature: local+2.6degC
+ fertilized with 4.5 g/m2 N
+ NA: 45.6degN 84.7degW
+ nodule inoculations
+2123 Jarvis, P.G., H.S.J. Lee, and C.V.M. Barton, 1994
+ OTC
+ Light and temperature not reported for growth
+ EU: Scotland
+ N(#) pers comm for T2
+2129 Curtis, P.S., D.R. Zak, K.S. Pregitzer, and J.A. Teeri, 1994
+ OTC
+ Temperature: local+3degC
+ Watering regime: precip+W
+ All rootboxes received 4.5 g/m2 N; similar to natural dry oak forest
+ NA: N-Michigan
+2131 Norby, R.J., Wullschleger, and C.A. Gunderson, 1996
+ OTC
+ NA: Tennessee
+ Sample size and SD from pers comm.
+2152 Williams, R.S., D.E. Lincolm, and R.B. Thomas, 1994
+ OTC
+ Watering regime: precip+W
+ modified Hoagland 7mmol NH4NO3+1mmolPO4 /wk
+ NA: North Carolina
+2165 Lewis, J.D., R.B. Thomas, and B.R. Strain, 1994
+ GH
+ Temperature: 28/17 - 28/22degC
+ Watering regime: WW
+ 1/2 strength Hoagland/wk; P Treatment: 0.083mM KH2PO4 vs 0.5mM KH2PO4:
+ P stress
+ NA: North Carolina
+ inocculation Pisolithus tinctorius vs not
+2186 Bassow, S.L., K.D.M. McConnaughay, and F.A. Bazzaz, 1994
+ GH
+ Light: natural+supplement when light&lt;500umol/m2/s i
+ Photoperiod local: 6-19h
+ Temperature: 28/22degC
+ Fertilizer Treatment: 0.12 vs 1.2 g Osmocote &gt; N input of
+ 40 vs 400 kg N/ha/yr; 3 mo after initial Osmocote
+ weekly 200 ml Peter's solution (20:20:20) at
+ 0.042 v s 0.42 g/l/wk
+ NA: Massachusetts
+ N(#) F1: pers. comm
+2217 Berryman, C.A., D. Eamus, and G.A. Duff, 1993
+ OTC
+ Light: 65% of full
+ Temperature: 29.7degC
+ Watering regime: WW:3*day
+ nutrients added; also 5 g low P Osmocote
+ AU
+2223 Bazzaz, F.A., and S.L. Miao, 1993
+ GH
+ Light treatment: full gap light vs 37% thereof
+ Temperature: 27/20 &gt; 30/23degC
+ Watering regime: WW
+ nutrient treatment: N equivalents of 40 vs 400 kg N/ha/yr i.e.
+ 0.18 vs 1.8 g Osmocote/pot
+ NA: Massachusetts
+2224 Lindroth, R.L., K.K. Kinney, and C.L. Platz, 1993
+ GH
+ Light: 490 mol/m2/s 70cm above pots Photoperiod: 15h
+ Temperature: 25/20degC
+ Watering regime: WW/drip Humidity: 70/80%
+ 1/2 strength Hoagland
+ NA: Wisconsin
+ native mycorrhiza in soil
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 165115 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_072.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/vrc.ndp072]]></Product_number>
+      <Product_title><![CDATA[Database of Woody Vegetation Responses to Elevated Atmospheric CO2]]></Product_title>
+      <Author>
+        <Name><![CDATA[Curtis, P. S.]]></Name>
+        <Company><![CDATA[The Ohio State University]]></Company>
+        <Organization><![CDATA[Department of Evolution, Ecology, and Organismal Biology]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation Response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Woody Vegetation]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp072/ndp072.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp072/comments.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp072/comments.wk1]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp072/ndp072.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp072/ndp072.wk1]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp072/refs.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp072/refs.wk1]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[AMB]]></Variable>
+      <Variable><![CDATA[CO2_UNIT]]></Variable>
+      <Variable><![CDATA[CV_AMB]]></Variable>
+      <Variable><![CDATA[CV_ELEV]]></Variable>
+      <Variable><![CDATA[DIV1]]></Variable>
+      <Variable><![CDATA[DIV2]]></Variable>
+      <Variable><![CDATA[ELEV]]></Variable>
+      <Variable><![CDATA[GENUS]]></Variable>
+      <Variable><![CDATA[LEVEL]]></Variable>
+      <Variable><![CDATA[METHOD]]></Variable>
+      <Variable><![CDATA[N_AMB]]></Variable>
+      <Variable><![CDATA[N_ELEV]]></Variable>
+      <Variable><![CDATA[OBSNO]]></Variable>
+      <Variable><![CDATA[PAP_NO]]></Variable>
+      <Variable><![CDATA[PARAM]]></Variable>
+      <Variable><![CDATA[POT]]></Variable>
+      <Variable><![CDATA[P_UNIT]]></Variable>
+      <Variable><![CDATA[QUANT]]></Variable>
+      <Variable><![CDATA[SD_AMB]]></Variable>
+      <Variable><![CDATA[SD_ELEV]]></Variable>
+      <Variable><![CDATA[SE_AMB]]></Variable>
+      <Variable><![CDATA[SE_ELEV]]></Variable>
+      <Variable><![CDATA[SOURCE]]></Variable>
+      <Variable><![CDATA[SPECIES]]></Variable>
+      <Variable><![CDATA[STOCK]]></Variable>
+      <Variable><![CDATA[TIME]]></Variable>
+      <Variable><![CDATA[XTRT]]></Variable>
+      <Variable><![CDATA[X_AMB]]></Variable>
+      <Variable><![CDATA[X_ELEV]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp072/ndp072.htmlContributed by
+Peter S. Curtis
+Department of Evolution, Ecology, and Organismal Biology
+ and Antoinette L. Brenkert
+Carbon Dioxide Information Analysis Center
+Publication No. 4888
+Date Published: September 1999
+Prepared for the
+Budget Activity Number KP 12 04 01 0
+Prepared by the
+Carbon Dioxide Information Analysis Center
+Oak Ridge, Tennessee 37831-6290
+managed by
+LOCKHEED MARTIN ENERGY RESEARCH CORP.
+for the
+PARAM = BD
+PARAM = BGWT
+PARAM = LFC
+PARAM = LFNM
+PARAM = PN
+PARAM = PN_AC
+PARAM = RD_AC
+PARAM = INDLA
+PARAM = LFC
+PARAM = LFSTAR
+PARAM = LFTNC
+PARAM = RD_AC
+PARAM = RGR
+PARAM = TOTN
+ 1 44PN umolCO2/m2/s ALNUS RUBRA
+WOODYN2FIX 350 650ul/l 46 0.5GC SEED FERT HI
+20mgN/l T3 11.7700 0.6400 1.4311
+12.7668 5 23.2000 4.6100 10.3083 46.6539 5
+ 2 44PN umolCO2/m2/s ALNUS RUBRA
+WOODYN2FIX 350 650ul/l 46 0.5GC SEED FERT CONTROL.
+ T3 11.7000 1.1600 2.5938 23.2777 5
+25.9000 1.4800 3.3094 13.4165 5
+7832224TOTWT g POPULUS TREMULOIDES
+WOODYANGIO 385 642ul/l 60 6GC SEED NONE . .
+ F1 69.7000 2.1000 3.6373 5.6534 3
+102.6000 3.6000 6.2354 6.5838 3
+7842224LFSTAR% POPULUS TREMULOIDES
+WOODYANGIO 385 642ul/l 60 6GC SEED NONE . .
+ F2 2.7600 0.1900 0.3291 12.9176 3
+ 8.5300 0.9300 1.6108 20.4576 3
+*SAS data retrieval routine to read ndp072.dat;
+data ndp072;
+infile 'ndp072.dat';
+input OBSNO 1-3 @4 PAP_NO 4. @8 PARAM $char6. P_UNIT $ 14-28 GENUS $ 29-41
+ SPECIES $ 42-66 DIV1 $ 67-71 DIV2 $ 72-76 AMB $ 77-80 ELEV $ 81-84
+ CO2_UNIT $ 85-92 TIME 93-96 POT $ 97-102 METHOD $ 103-106
+ STOCK $ 107-114 XTRT $ 115-120 LEVEL $ 121-127 QUANT $ 128-151
+ SOURCE $ 152-157 X_AMB 158-167 SE_AMB 168-176 SD_AMB 177-186
+ CV_AMB 187-195 N_AMB 196-198 X_ELEV 199-208 SE_ELEV 209-217
+ SD_ELEV 218-227 CV_ELEV 228-236 N_ELEV 237-239 ;
+* In the above INPUT statement, the variables CV*_AMB and CV*_ELEV have
+ been renamed CV_AMB and CV_ELEV, respectively.;
+run;
+C *** Fortran program to read the file "ndp072.dat"
+C
+ INTEGER OBSNO, PAP_NO, N_AMB, N_ELEV, TIME
+ DOUBLE PRECISION X_ELEV, SD_ELEV
+ REAL X_AMB, SE_AMB, SD_AMB, CV_AMB, SE_ELEV, CV_ELEV
+ CHARACTER PARAM*6, P_UNIT*15, GENUS*13, SPECIES*25, DIV1*5,
+ + DIV2*5, AMB*4, ELEV*4, CO2_UNIT*8, POT*6, METHOD*4, STOCK*8,
+ + XTRT*6, LEVEL*7, QUANT*24, SOURCE*6
+C
+ OPEN (UNIT=1, FILE='NDP072.DAT')
+C
+C Note that the variables CV*_AMB and CV*_ELEV have
+C been renamed CV_AMB and CV_ELEV, respectively
+C
+ 10 READ (1,100,END=99) OBSNO, PAP_NO, PARAM, P_UNIT, GENUS, SPECIES,
+ + DIV1, DIV2, AMB, ELEV, CO2_UNIT, TIME, POT, METHOD, STOCK, XTRT,
+ + LEVEL, QUANT, SOURCE, X_AMB, SE_AMB,
+ + SD_AMB,CV_AMB,N_AMB,X_ELEV,
+ + SE_ELEV, SD_ELEV, CV_ELEV, N_ELEV
+ 100 FORMAT (I3,I4,A6,A15,A13,A25,2A5,2A4,A8,A4,A6,A4,A8,A6,A7,A24,
+ + A6,F9.4,1X,F8.4,1X,2(F9.4,1X),I2,3(F9.4,1X),F8.4,1X,I2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+Acacia mangium
+Acer pensylvanicum
+Acer pseudoplatanus
+Acer rubrum
+Acer saccharinum
+Acer saccharum
+Alnus glutinosa
+Alnus rubra
+Betula alleghaniensis
+Betula lenta
+Betula papyrifera
+Betula pendula
+Betula populifolia
+Betula pubescens
+Brachychiton populneum
+Castanea sativa
+Cecropia obtusifolia
+Cedrus atlantica
+Citrus aurantium
+Citrus sinensis
+Eucalyptus microtheca
+Eucalyptus polyanthemus
+Eucalyptus tetrodonta
+Fagus grandifolia
+Fagus sylvatica
+Ficus obtusifolia
+Fraxinus americana
+Garcinia mangostana
+Gliricidia sepium
+Lindera Benzoin
+Liquidambar styraciflua
+Liriodendron tulipifera
+Malus domestica
+Maranthes corymbosa
+Myriocarpa longipes
+Nothofagus fusca
+Picea abies
+Picea glauca
+Picea mariana
+Pinus banksiana
+Pinus echinata
+Pinus eldarica
+Pinus nigra
+Pinus ponderosa
+Pinus radiata
+Pinus strobus
+Pinus sylvestris
+Pinus taeda
+Piper auritum
+citrusparadisi
+citrussinensis
+Populus euramericana
+Populus grandidentata
+Populus interamericana
+Populus tremuloides
+Populus x euramericana
+Pseudotsuga menziesii
+Quercus alba
+Quercus prinus
+Quercus robur
+Quercus rubra
+Senna multijuga
+Tabebuia rosea
+44 Arnone, J.A., III, and J.C. Gordon. 1990. Effect of Nodulation, Nitrogen
+Fixation and CO2 Enrichment on the Physiology, Growth and Dry Mass Allocation
+of Seedlings of Alnus rubra Bong. New Phytologist 116:55-66.
+2186 Bassow, S.L., K.D.M. McConnaughay, and F.A. Bazzaz. 1994. The Response
+of Temperate Tree Seedlings Grown in Elevated CO2 to Extreme Temperature
+Events. Ecological Applications 4(3):593-603.
+2223 Bazzaz, F.A., and S.L. Miao. 1993. Successional Status, Seed Size,and
+Responses of Tree Seedlings to CO2, Light and Nutrients. Ecology
+74(1):104-112.
+2037 Bazzaz, F.A., S.L. Miao, and P.M. Wayne. 1993. CO2-induced Growth
+Enhancements of Co-occurring Tree Species Decline at Different Rates.
+Oecologia 96:478-482.
+2217 Berryman, C.A., D. Eamus, and G.A. Duff. 1993. The Influence of CO2
+Enrichment on Growth, Nutrient Content and Biomass Allocation of Maranthes
+corymbosa. Australian Journal of Botany 41:195-209.
+112 Brown, K.R. 1991. Carbon Dioxide Enrichment Accelerates the Decline in
+Nutrient Status and Relative Growth Rate of Populus tremuloides Michx.
+Seedlings. Tree Physiology 8:161-173.
+121 Bunce, J.A. 1992. Stomatal Conductance, Photosynthesis and Respiration
+of Temperate Deciduous Tree Seedlings Grown Outdoors at an Elevated
+Concentration of Carbon Dioxide. Plant, Cell and Environment 15:541-549.
+2026 Callaway, R.M., E.H. DeLucia, E.M. Thomas, and W.H. Schlesinger. 1994.
+Compensatory Responses of CO2 Exchange and Biomass Allocation and their
+Effects on the Relative Growth Rate of Ponderosa Pine in Different CO2 and
+Temperature Regimes. Oecologia 98:159-166.
+2043 Cipollini, M.L., B.G. Drake, and D. Whigham. 1993. Effects of
+ElevatedCO2 on Growth and Carbon/Nutrient Balance in the Deciduous Woody Shrub
+Lindera Benzoin (L.) Blume (Lauraceae). Oecologia 96:339-346.
+150 Conroy, J.P., M. Kuppers, B. Kuppers, J. Virgona, and E.W.R. Barlow.
+1988. The Influence of CO2 Enrichment, Phosphorus Deficiency and Water Stress
+on the Growth, Conductance and Water Use of Pinus radiata D. Don. Plant, Cell
+and Environment 11:91-98.
+159 Couteaux, M.M., P. Bottner, H. Rouhier, and G. Billes. 1992. Atmospheric
+CO2 Increase and Plant Material Quality: Production, Nitrogen Allocation and
+Litter Decomposition of Sweet Chestnut. IN: Responses of Forest Ecosystems to
+Environmental Changes (A. Teller, P. Mathy, and J.N.R. Jeffers, eds.),
+Elsevier Applied Science, London, pp. 429-436.
+168 Curtis, P.S., and J.A. Teeri. 1992. Seasonal Responses of Leaf Gas
+Exchange to Elevated Carbon Dioxide in Populus grandidentata. Canadian Journal
+of Forest Research 22:1320-1325.
+2039 Curtis, P.S., C.S. Vogel, K.S. Pregitzer, D.R. Zak, and J.A. Teeri.
+1995. Interacting Effects of Soil Fertility and Atmospheric CO2 on Leaf Area
+Growth and Carbon Gain Physiology in Populus x euramericana (Dode) Guinier.
+New Phytologist 129:253-263.
+2129 Curtis, P.S., D.R. Zak, K.S. Pregitzer, and J.A. Teeri. 1994. Above- and
+Belowground Response of Populus grandidentata to Elevated Atmospheric CO2 and
+Soil N Availability. Plant and Soil 165:45-51.
+184 Downton, W.J.S., W.J.R. Grant, and E.K. Chacko. 1990. Effect of Elevated
+Carbon Dioxide on the Photosynthesis and Early growth of Mangosteen (Garcinia
+mangostana L.). Scientia Horticulturae 44:215-225.
+183 Downton, W.J.S., W.J.R. Grant, and B.R. Loveys. 1987. Carbon Dioxide
+Enrichment Increases Yield of Valencia Orange. Australian Journal of Plant
+Physiology 14:493-501.
+2047 Eamus, D., C.A. Berryman, and G.A. Duff. 1993. Assimilation, Stomatal
+Conductance, Specific Leaf Area and Chlorophyll Responses to Elevated CO2 of
+Maranthes corymbosa a Tropical Rain Forest Species. Australian Journal of
+Plant Physiology 20:741-755.
+2071 Eamus, D., C.A. Berryman, and G.A. Duff. 1995. The Impact of CO2
+Enrichment on Water Relations in Maranthes corymbosa and Eucalyptus
+tetrodonta. Australian Journal of Botany 43:273-282.
+2070 Eamus, D., G.A. Duff, and C.A. Berryman. 1995. Photosynthetic Responses
+to Temperature, Light, Flux-density, CO2 Concentration and Vapour Pressure
+Deficit in Eucalyptus tetrodonta Grown under CO2 Enrichment. Environmental
+Pollution 90:41-49.
+208 El Kohen, A., J.-Y. Pontailler, and M. Mousseau. 1991. Effect of
+Doubling of Atmospheric CO2 Concentration on Dark Respiration in Aerial Parts
+of Young Chestnut Trees (Castanea sativa Mill.). Comptes Rendus des Sciences
+(Paris) t. 312, Serie III:477-481.
+209 El Kohen, A., H. Rouhier, and M. Mousseau. 1992. Changes in Dry Weight
+and Nitrogen Partitioning Induced by Elevated CO2 Depends on Soil Nutrient
+Availability in Sweet Chestnut (Castanea sativa Mill.). Annales des Sciences
+Forestieres 49:83-90.
+210 El Kohen, A., L. Venet, and M. Mousseau. 1993. Growth and
+Photosynthesis of Two Deciduous Forest Species at Elevated Carbon Dioxide.
+Functional Ecology 7:480-486.
+221 Ferguson, J.J., W.T. Avigne, L.H. Allen, and K.E. Koch. 1986. Growth of
+CO2-enriched Sour Orange Seedlings Treated with Gibberellins/Cytokinins.
+Proceedings of the Florida State Horticultural Society 99:37-39.
+222 Fetcher, N., C.H. Jaeger, B.R. Strain, and N. Sionit. 1988. Long-term
+Elevation of Atmospheric CO2 Concentration and the Carbon Exchange Rates of
+Saplings of Pinus taeda L. and Liquidambar styraciflua L. Tree Physiology
+4:255-262.
+2041 Garcia, R.L., S.B. Idso, G.W. Wall, and B.A. Kimball. 1994. Changes in
+net Photosynthesis and Growth of Pinus eldarica Seedlings in Response to
+Atmospheric CO2 Enrichment. Plant, Cell and Environment 17:971-978.
+233 Gaudillere, J.-P., and M. Mousseau. 1989. Short Term Effect of CO2
+Enrichment on Leaf Development and Gas Exchange of Young Poplars (Populus
+euramericana cv I 214). Acta Oecologica/Oecologia Plantarum 10:95-105.
+2002 Gorissen, A., P.J. Kuikman, and H. van de Beek. 1995. Carbon Allocation
+and water Use in Juvenile Douglas Fir under Elevated CO2. New Phytologist
+129:275-282.
+2036 Grulke, N.E., J.L. Hom, and S.W. Roberts. 1993. Physiological Adjustment
+of two Full-sib Families of Ponderosa Pine to Elevated CO2. Tree Physiology
+12:391-401.
+2035 Gunderson, C.A., R.J. Norby, and S.D. Wullschleger. 1993. Foliar Gas
+Exchange Responses of two Deciduous Hardwoods during 3 Years of Growth in
+Elevated CO2: no Loss of Photosynthetic Enhancement. Plant, Cell and
+Environment 16:797-807.
+290 Hollinger, D.Y. 1987. Gas Exchange and Dry Matter Allocation Responses
+to Elevation of Atmospheric CO2 Concentration in Seedlings of three Tree
+Species. Tree Physiology 3:193-202.
+314 Idso, S.B., and B.A. Kimball. 1991. Downward Regulation of
+Photosynthesis and Growth at High CO2 Levels. Plant Physiology 96:990-992.
+318 Idso, S.B., and B.A. Kimball. 1993. Effects of Atmospheric CO2
+Enrichment on Net Photosynthesis and Dark Respiration Rates of Three
+AustralianTree Species. Journal of Plant Physiology 141:166-171.
+313 Idso, S.B., B.A. Kimball, and S.G. Allen. 1991. CO2 Enrichment of Sour
+Orange Trees: 2.5 Years into a Long-term Experiment. Plant, Cell and
+Environment 14:351-353.
+322 Idso, S.B., B.A. Kimball, and S.G. Allen. 1991. Net Photosynthesis of
+Sour Orange Trees Maintained in Atmospheres of Ambient and Elevated CO2
+Concentration. Agricultural and Forest Meteorology 54:95-101.
+2123 Jarvis, P.G., H.S.J. Lee, and C.V.M. Barton. 1994. The Likely Impact of
+rising CO2 and Temperature on European Forests. Institute of Ecology and
+Resource Management, University of Edinburgh.
+2045 Johnsen, K.H. 1993. Growth and Ecophysiological Responses of Black
+Spruce Seedlings to Elevated CO2 under Varied Water and Nutrient Additions.
+Canadian Journal of Forest Research 23:1033-1042.
+2109 Johnson, D., D. Geisinger, R. Walker, J. Newman, J. Vose, K. Elliot, and
+T. Ball. 1994. Soil pCO2, Soil Respiration, and Root Activity in CO2-fumigated
+and Nitrogen-fertilized Pondersosa Pine. Plant and Soil 165:129-138.
+340 Kaushal, P., J.M. Guehl, and G. Aussenac. 1989. Differential Growth
+Response to Atmospheric Carbon Dioxide Enrichment in Seedlings of Cedrus
+atlantica and Pinus nigra ssp. Laricio var. Corsicana. Canadian Journal of
+Forest Research 19:1351-1358.
+362 Koch, K.E., P. Jones, W.T. Avigne, and L.H. Allen Jr. 1986. Growth, Dry
+Matter Partitioning, and Diurnal Activities of RuBP Carboxylase in Citrus
+Seedlings Maintained at Two Levels of CO2. Physiologia Plantarum 67:477-484.
+2121 Kubiske, M.E., and K.S. Pregitzer. 1994. Effect of Elevated CO2 and
+Light Availability on the Photosynthetic Light Response of Trees of
+Contrasting Shade Tolerance. Tree Physiology; in press.
+2120 Laboratorium Voor Plantecologie. 1992. Effect of Increased Atmospheric
+CO2 Concentration on Primary Productivity and Carbon Allocation in Typical
+Belgian Forest Ecosystems. Progress report 1992.
+2028 Lavola, A., and R. Julkunen-Tiitto. 1994. The Effect of Elevated Carbon
+Dioxide and Fertilization on Primary and Secondary Metabolites in Birch,
+Betula pendula (Roth). Oecologia 99:315-321.
+2165 Lewis, J.D., R.B. THomas, and B.R. Strain. 1994. Effect of Elevated CO2
+on Mycorrhizal Colonization of Loblolly Pine (Pinus taeda L.) Seedlings. Plant
+and Soil 165:81-88.
+2224 Lindroth, R.L., K.K. Kinney, and C.L. Platz. 1993. Responses of
+Deciduous Trees to Elevated Atmospheric CO2: Productivity, Phytochemistry, and
+Insect Performance. Ecology 74(3):763-777.
+2065 Liu, S., and R.O. Teskey. 1995. Responses of Foliar Gas Exchange to
+Long-term Elevated CO2 Concentrations in Mature Loblolly Pine Trees. Tree
+Physiology 15:351-359.
+2069 Marek, M.V., J. Kalina, and M. Matouskova. 1995. Response of
+Photosynthetic Carbon Assimilation of Norway Spruce Exposed to Long-term
+Elevation of CO2 Concentration. Photosynthetica 31:209-220.
+2117 Mortensen, L.M. 1994. Effects of Carbon Dioxide Concentration on
+Assimilate Partitioning, Photosynthesis and Transpiration of Betula pendula
+Roth. and Picea abies (L.) Karst. Seedlings at two Temperatures. Acta
+Agriculturae Scandinavica, Section B, Soil and Plant Sciences 44:164-169.
+2003 Mortensen, L.M. 1995. Effect of Carbon Dioxide Concentration on Biomass
+Production and Partitioning in (Betula pubescens Ehrh.) Seedlings at Different
+Ozone and Temperature Regimes. Environmental Pollution 87:337-343.
+468 Mousseau, M. 1993. Effects of Elevated CO2 on Growth, Photosynthesis and
+Respiration of Sweet Chestnut (Castanea sativa Mill.). Vegetatio
+104/105:413-419.
+470 Mousseau, M., and H.Z. Enoch. 1989. Carbon Dioxide Enrichment Reduces
+Shoot Growth in Sweet Chestnut Seedlings (Castanea sativa Mill.). Plant, Cell
+and Environment 12:927-934.
+502 Norby, R.J., C.A. Gunderson, S.D. Wullschleger, E.G. O'Neill, and M.K.
+McCracken. 1992. Productivity and Compensatory Responses of Yellow-poplar
+Trees in Elevated CO2. Nature 357:322-324.
+505 Norby, R.J., and E.G. O'Neill. 1989. Growth Dynamics and Water Use of
+Seedlings of Quercus alba L. in CO2-enriched Atmospheres. New Phytologist
+111:491-500.
+506 Norby, R.J., and E.G. O'Neill. 1991. Leaf Area Compensation and Nutrient
+Interactions in CO2-enriched Seedlings of Yellow-poplar (Liriodendron
+tulipifera L.). New Phytologist 117:515-528.
+503 Norby, R.J., E.G. O'Neill, W.G. Hood, and R.J. Luxmoore. 1987. Carbon
+Allocation, Root Exudation and Mycorrhizal Colonization of Pinus echinata
+Seedlings Grown under CO2 Enrichment. Tree Physiology 3:203-210.
+504 Norby, R.J., E.G. O'Neill, and R.J. Luxmoore. 1986. Effects of
+Atmospheric CO2 Enrichment on the Growth and Mineral Nutrition of Quercus alba
+Seedlings in Nutrient-poor Soil. Plant Physiology 82:83-89.
+2131 Norby, R.J., Wullschleger, and C.A. Gunderson. 1996. Tree Responses to
+Elevated CO2 and Implications for Forests. IN: Carbon Dioxide and Terrestrial
+Ecosystems (G.W. Koch and H.A. Mooney, eds.), Academic Press, New York,
+pp.1-21.
+510 O'Neill, E.G., R.J. Luxmoore, and R.J. Norby. 1987. Increases in
+Mycorrhizal Colonization and Seedling Growth in Pinus echinata and Quercus
+alba in an Enriched CO2 Atmosphere. Canadian Journal of Forest Research
+17:878-883.
+521 Overdieck, D. 1990. Effects of Elevated CO2-concentration Levels on
+Nutrient Contents of Herbaceous and Woody Plants. IN: The Greenhouse Effect
+and Primary Productivity in European Agro-ecosystems; 5-10 April 1990;
+Wageningen, The Netherlands (J. Goudriaan, H. van Keulen, and H.H. van Laar,
+eds.), Pudoc, Wageningen, pp. 31-37.
+550 Pettersson, R., and A.J.S. McDonald. 1992. Effects of Elevated Carbon
+Dioxide Concentration on Photosynthesis and Growth of Small Birch Plants
+(Betula pendula Roth.) at Optimal Nutrition. Plant, Cell and Environment
+15:911-919.
+2027 Pettersson, R., A.J.S. McDonald, and I. Stadenberg. 1993. Response of
+Small Birch Plants (Betula pendula Roth.) to Elevated CO2 and Nitrogen Supply.
+Plant, Cell and Environment 16:1115-1121.
+553 Polle, A., T. Pfirrmann, S. Chakrabarti, and H. Rennenberg. 1993. The
+Effects of Enhanced Ozone and Enhanced Carbon Dioxide Concentrations on
+Biomass, Pigments and Antioxidative Enzymes in Spruce Seedlings. Plant, Cell
+and Environment 16:311-316.
+2110 Pregitzer, K.S., D.R. Zak, P.S. Curtis, M.E. Kubiske, J.A. Teeri, and
+C.S. Vogel. 1995. Atmospheric CO2, Soil Nitrogen and Turnover of Fine Roots.
+New Phytologist 129(4):579-585.
+582 Reekie, E.G., and F.A. Bazzaz. 1989. Competition and Patterns of
+Resource Use among Seedlings of Five Tropical Trees Grown at Ambient and
+Elevated CO2. Oecologia 79:212-222.
+2046 Reid, C.D., and B.R. Strain. 1994. Effects of CO2 Enrichment on
+Whole-plant Carbon Budget of Seedlings of Fagus grandifolia and Acer saccharum
+in low Irradiance. Oecologia 98:31-39.
+596 Rochefort, L., and F.A. Bazzaz. 1992. Growth Response to Elevated CO2 in
+Seedlings of Four Co-occurring Birch Species. Canadian Journal of Forest
+Research 22:1583-1587.
+2038 Roth, S.K., and R.L. Lindroth. 1994. Effects of CO2-mediated Changes in
+Paper Birch and White Pine Chemistry on Gypsy Moth Performance. Oecologia
+98:133-138.
+644 Sharkey, T.D., F. Loreto, and C.F. Delwiche. 1991. High Carbon Dioxide
+and Sun/Shade Effects on Isoprene Emission from Oak and Aspen Tree Leaves.
+Plant, Cell and Environment 14:333-338.
+655 Sionit, N., B.R. Strain, H. Hellmers, G.H. Riechers, and C.H. Jaeger.
+1985. Long-term Atmospheric CO2 Enrichment Affects the Growth and
+Development of Liquidambar styraciflua and Pinus taeda Seedlings. Canadian
+Journal of Forest Research 15:468-471.
+666 Stewart, J.D., and J. Hoddinott. 1993. Photosynthetic Acclimation to
+Elevated Atmospheric Carbon Dioxide and UV Irradiation in Pinus banksiana.
+Physiologia Plantarum 88:493-500.
+2042 Sullivan, J.H., and A.H. Teramura. 1994. The Effects of UV-B
+Radiation
+on Loblolly Pine. 3. Interaction with CO2 Enhancement. Plant, Cell and
+Environment 17:311-317.
+676 Surano, K.A., P.F. Daley, J.L.J. Houpis, J.H. Shinn, J.A. Helms, R.J.
+Palassou, and M.P. Costella. 1986. Growth and Physiological Responses of Pinus
+ponderosa Dougl. ex P. Laws. to Long-term Elevated CO2 Concentration. Tree
+Physiology 2:243-259.
+2005 Teskey, R.O. 1995. A Field Study of the Effects of Elevated CO2 on
+Carbon Assimilation, Stomatal Conductance and Leaf Branch Growth of Pinus
+taeda Trees. Plant, Cell and Environment 18:565-573.
+682 Thomas, R.B., D.D. Richter, H. Ye, P.R. Heine, and B.R. Strain.
+1991.Nitrogen Dynamics and Growth of Seedlings of an N-fixing Tree (Gliricidia
+sepium (Jacq.) Walp.) Exposed to Elevated Atmospheric Carbon Dioxide.
+Oecologia 88:415-421.
+2044 Tissue, D.T., R.B. Thomas, and B.R. Strain. 1993. Long-term Effects of
+Elevated CO2 and Nutrients on Photosynthesis and Rubisco in Loblolly Pine
+Seedlings. Plant, Cell and Environment 16:859-865.
+2032 Tschaplinski, T.J., R.J. Norby, and S.D. Wullschleger. 1993. Responses
+of Loblolly Pine Seedlings to Elevated CO2 and Fluctuating Water Supply. Tree
+Physiology 13:283-296.
+2122 Vogel, C.S., and P.S. Curtis. 1995. Leaf Gas Exchange and Nitrogen
+Dynamics of N2-fixing, Field-grown Alnus glutinosa under Elevated Atmospheric
+CO2. Global Change Biology 1:55-61.
+2068 Wang, K., S. Kellomaki, and K. Laitinen. 1995. Effects of Needle Age,
+Long-term Temperature and CO2 Treatments on the Photosynthesis of Scots Pine.
+Tree Physiology 15:211-218.
+2152 Williams, R.S., D.E. Lincoln, and R.B. Thomas. 1994. Loblolly Pine Grown
+under Elevated CO2 Affects Early Instar Pine Sawfly Performance. Oecologia
+98:64-71.
+747 Wullschleger, S.D., and R.J. Norby. 1992. Respiratory Cost of Leaf
+Growth and Maintenance in White Oak Saplings Exposed to Atmospheric CO2
+Enrichment. Canadian Journal of Forest Research 22:1717-1721.
+746 Wullschleger, S.D., R.J. Norby, and C.A. Gunderson. 1992. Growth and
+Maintenance Respiration in Leaves of Liriodendron tulipifera L. Exposed to
+Long-term Carbon Dioxide Enrichment in the Field. New Phytologist 21:515-523.
+2004 Wullschleger, S.D., R.J. Norby, and P.J. Hanson. 1995. Growth and
+Maintenance Respiration in Stems of Quercus alba after Four Years of CO2
+Enrichment. Physiologia Plantarum 93:47-54.
+7J45 Wullschleger, S.D., R.J. Norby, and D.L. Hendrix. 1992. Carbon Exchange
+Rates, Chlorophyll Content, and Carbohydrate Status of Two Forest Tree Species
+Exposed to Carbon Dioxide Enrichment. Tree Physiology 10:21-31.
+2048 Yakimchuk, R., and J. Hoddinott. 1994. The Influence of Ultraviolet-B
+Light and Carbon Dioxide Enrichment on the Growth and Physiology of Seedlings
+of Three Conifer Species. Canadian Journal of Forest Research 24:1-8.
+756 Ziska, L.H., K.P. Hogan, A.P. Smith, and B.G. Drake. 1991. Growth and
+Photosynthetic Response of Nine Tropical Species with Long-term Exposure to
+Elevated Carbon Dioxide. Oecologia 86:383-389.
+Listed are paper numbers, authors, CO2 exposure facility, light, temperature,
+watering and nutrient conditions when available, location of experimental
+set-up, and comments. For the CO2 exposure facilities, watering regimes, and
+locations the following distinctions were made:
+CO2-exposure facilities:
+ BRANCH - branch chambers
+ GC - indoor, controlled environment: growth chambers
+ GH - sunlit greenhouses and chambers within greenhouses
+ OTC - field-based open-top chambers
+ SPAR - high tech soil-plant-atmosphere chambers
+Watering regime:
+ WW - well watered
+ W - watered
+Locations:
+ NA - North America
+ CA - Central America
+ AU - Australia
+ EU - Europe
+=====================================================================
+=========
+44 Arnone, J.A., III, and J.C. Gordon, 1990
+ GC
+ Light: 400 umol/m2/s Photoperiod: 16h
+ Temperature: 26/20degC
+ Watering regime: WW/drip Humidity: 70%
+ Nutrients: daily 1/4 strength Hoagland
+ N Treatment: 0 vs 20 mg NH4NO3-N/l
+ NA: North Carolina
+ Root nodules from inocculation with Frankia cells
+112 Brown, K.R., 1991
+ GC
+ Light: 400 umol/m2/s at canopy level Photoperiod: 18h
+ Temperature: 22/17degC
+ Watering regime: WW 6 d/wk Humidity: 45%
+ Macronutrients 6d/wk; N Treatment: 0.155 vs 15.5 mM NH4NO3-N
+ NA: Canada: Alberta
+ SE estimated from confidence interval
+121 Bunce, J.A., 1992
+ GH
+ Light: 27-49 mol/m2/d
+ Temperature: 30-19degC
+ Watering regime: WW 2e or 3e day
+ fertile sandy loam+fertilizer/3 wks
+ NA: Maryland
+ SE and SD pers. comm.
+ 150 Conroy, J.P., M. Kuppers, B. Kuppers, J. Virgona, and E.W.R. Barlow,
+ 1988
+ GC
+ Light: 450 umol/m2/s at top of plants Photoperiod: 16h
+ Temperature: 25/18degC
+ Watering regime: daily water
+ nutrients added; P treatment: P levels at 4.4 vs 40 mg/pot
+ AU
+ P-deficient needles of 0.7-0.8 mgP/gdrywt or 1-1.5 mgP/gdrywt
+159 Couteaux, M.M., P. Bottner, H. Rouhier, and G. Billes, 1992
+ GC
+ soil with micro flora, fauna and litter
+ EU: S France
+ Se assumed
+168 Curtis, P.S., and J.A. Teeri, 1992
+ OTC
+ Temperature: local+1.5/1/2degC
+ Watering regime: Precip+W
+ available N: 2.7ug/g soil
+ NA: N-Michigan
+183 Downton, W.J.S., W.J.R. Grant, and B.R. Loveys, 1987
+ GH
+ Light: 600-350 umol/m2/s: top of plants-pot level Photoperiod: 10h
+ Temperature: 25/18degC
+ Watering regime: WW Humidity: 60-90%
+ 1/2 strength Hoagland 2*wk
+ AU
+ fruit dry wt
+184 Downton, W.J.S., W.J.R. Grant, and E.K. Chacko, 1990
+ GC
+ Light: 450 umol/m2/s initially Photoperiod: 14-12h
+ Temperature: 30/22degC
+ Watering regime: WW daily Humidity: 50%
+ Oscomote each 3-4mo
+ AU
+208 El Kohen, A., J.-Y. Pontailler, and M. Mousseau, 1991
+ OTC
+ EU: France
+209 El Kohen, A., H. Rouhier, and M. Mousseau, 1992
+ GH
+ Watering regime: WW/drip
+ NPK Treatment: 0 NPK vs 0.82g N, 0.78gP, 0.4gK/month
+ EU: France
+210 El Kohen, A., L. Venet, and M. Mousseau, 1993
+ GH
+ Temperature: local+-1.8degC
+ Watering regime: W daily
+ EU: France
+ N(#) Castanea from total # plants Castanea; from Fagus from F4
+221 Ferguson, J.J., W.T. Avigne, L.H. Allen, and K.E. Koch, 1986
+ GH
+ Light: 85% from outside
+ Temperature: 31/23degC
+ Watering regime: WW
+ nutrients added: NPK 20:20:20; Peter's
+ NA: Florida
+ part of gibberellin and cytokinin treatment experiment
+222 Fetcher, N., C.H. Jaeger, B.R. Strain, and N. Sionit, 1988
+ GH
+ Light: 1900 umol/m2/s for gas exchange measurements
+ Temperature controlled for 30yr average
+ NA: N Carolina
+ N(#) for stomatal conductance assumed same as for assimilation rate
+233 Gaudillere, J.-P., and M. Mousseau, 1989
+ GC
+ Light: 250 umol/m2/s at top of canopy Photoperiod: 16h
+ Temperature: 22/15degC
+ Watering regime: WW Humidity: 50%
+ EU: France
+290 Hollinger, D.Y., 1987
+ GC
+ Light: 700 umol/m2/s at top of canopy Photoperiod: 14h
+ Temperature: 20/10degC
+ Watering regime: WW Humidity: 70/90%
+ AU
+ SE of mass estimated
+313 Idso, S.B., B.A. Kimball, and S.G. Allen, 1991
+ OTC
+ Watering regime: WW
+ nutrients added
+ NA: Arizona
+314 Idso, S.B., and B.A. Kimball, 1991
+ OTC
+ Watering regime: WW
+ nutrients added
+ NA: Arizona
+ SD of mass estimated from area of F1
+318 Idso, S.B., and B.A. Kimball, 1993
+ OTC
+ Watering regime: WW
+ nutrients added
+ NA: Arizona
+ Assimilation rate and N(#) estimated from F3
+322 Idso, S.B., B.A. Kimball, and S.G. Allen, 1991
+ OTC
+ Watering regime: WW
+ nutrients added
+ NA: Arizona
+340 Kaushal, P., J.M. Guehl, and G. Aussenac, 1989
+ GH
+ Light: 80% of natural outside light+160umol/m2/s at shoot level 6h/d
+ Temperature: local:10-23degC
+ Watering regime: WW Humidity: 80-90%
+ EU: France
+ SE/SD pers comm.
+362 Koch, K.E., P. Jones, W.T. Avigne, and L.H. Allen Jr., 1986
+ GC
+ Light: 85% of incident light of outside
+ Temperature: 31/23degC
+ Watering regime: WW
+ nutrients added (Peter's)
+ NA: Florida
+ SE/SD pers comm
+468 Mousseau, M., 1993
+ OTC
+ Temperature: 35-10/22-5degC
+ Watering regime: WW
+ nutrients added
+ EU: France
+ N(#) of mass assumed as in T1 pap 471
+470 Mousseau, M., and H.Z. Enoch, 1989
+ OTC
+ Temperature: local+max4degC
+ Watering regime: WW/drip
+ nutrients added/yr
+ EU: France
+502 Norby, R.J., C.A. Gunderson, S.D. Wullschleger, E.G. O'Neill, and
+ M.K. McCracken, 1992
+ OTC
+ soils potentially NP deficient
+ NA: 35.9degN 84.4degW
+ note on drought and nutrient deficiency
+503 Norby, R.J., E.G. O'Neill, W.G. Hood, and R.J. Luxmoore, 1987
+ GC
+ Light: 540 umol/m2/s Photoperiod: 14h
+ Temperature: 25/7degC
+ Watering regime: W Humidity: 65%
+ soils potentially NP deficient
+ NA: Tennessee
+ potential soil nutrient deficient
+504 Norby, R.J., E.G. O'Neill, and R.J. Luxmoore, 1986
+ GC
+ Light: 660 umol/m2/s at top of canopy Photoperiod: 14h
+ Temperature: 25/15degC
+ Watering regime: WW/drip Humidity: 65%
+ soils potentially NP deficient
+ NA: Tennessee
+ SE/SD for F1,T1,T2: e-mail; soil potentially nutrient deficient
+505 Norby, R.J., and E.G. O'Neill, 1989
+ GH
+ Light: 580 umol/m2/s Photoperiod: 14h
+ Temperature: 26/10degC
+ Watering regime: WW Humidity: 65/95%
+ NPK treatment: 0 NPK vs 5,1.5,1.9mg N,P,K/pot/wk
+ NA: Tennessee
+ SE/SD: e-mail
+506 Norby, R.J., and E.G. O'Neill,1991
+ GC
+ Light: 600 umol/m2/s Photoperiod: 14h
+ Temperature: 26/12deg
+ Watering regime: WW Humidity: 70/90%
+ nutrients: 20.0.4.5,16.5 mg NPK+/wk ; later 2*wk
+ NA: Tennessee
+ N(#) from author
+510 O'Neill, E.G., R.J. Luxmoore, and R.J. Norby, 1987
+ GC
+ Light: 450 umol/m2/s Photoperiod: 14h
+ Temperature: 26/10degC
+ Watering regime: WW
+ no nutrients added
+ NA: Tennessee
+521 Overdieck, D., 1990
+ GC
+ Watering regime: W as precip
+ soils of average fertility
+ EU: Germany: 52degN 8degE
+550 Pettersson, R., and A.J.S. McDonald, 1992
+ GC
+ Light: 600 umol/m2/s Photoperiod: 18h
+ Temperature: 20degC
+ hydroponics Humidity: 45%
+ nutrient solution
+ EU: Sweden
+ N(#) 2-5: pers comm for gas exchange; as T1 for other measures
+553 Polle, A., T. Pfirrmann, S. Chakrabarti, and H. Rennenberg, 1993
+ GC
+ controlled as for local environment
+ Watering regime: WW:drip acidic mists
+ Ozone Treatment: 0.02 vs 0.08 cm3/m3: 24hrs/d like higher elevations
+ EU: Germany:Bavaria
+582 Reekie, E.G., and F.A. Bazzaz, 1989
+ GH
+ Light: local with 1000-1200 umol/m2/s max levels
+ Temperature: local 30/27degC
+ Watering regime: WW
+ monthly Peter's fertilization(20:20:20)
+ Plant competition of tropical plants
+ NA: Massachusetts
+596 Rochefort, L., and F.A. Bazzaz, 1992
+ GH
+ Light: 900 umol/m2/s clear days
+ Temperature: 28/20degC
+ Watering regime: WW Humidity: 73%
+ nutrients added each 2 weeks
+ NA: Massachusetts
+644 Sharkey, T.D., F. Loreto, and C.F. Delwiche, 1991
+ GH
+ Light: 300-500 umol/m2/s (gas measurements at 900 umol/m2/s)
+ Photoperiod: 15h
+ Temperature: 25/20degC Humidity: 70%/85%
+ NA: Wisconsin
+ Partly a shading and isoprene emission experiment
+655 Sionit, N., B.R. Strain, H. Hellmers, G.H. Riechers, and C.H. Jaeger,
+ 1985
+ GH
+ Temperature: night temp controlled
+ Watering regime: WW/drip Humidity: 70%
+ nutrients (Hoagland 1/15 strength daily
+ NA: North Carolina
+666 Stewart, J.D., and J. Hoddinott, 1993
+ GH
+ Light: 600 umol/m2/s as maximum Photoperiod: 18h
+ Temperature: 15-32degC (local)
+ Watering regime: WW:2*wk
+ nutrients 1/wk
+ UVB Treatment: 0.005-0.03 vs 0.25-0.90 W/m2
+ NA: Canada: Alberta
+676 Surano, K.A., P.F. Daley, J.L.J. Houpis, J.H. Shinn, J.A. Helms,
+ R.J. Palassou, and M.P. Costella, 1986
+ OTC
+ Light: 80-90% from outside
+ Temperature: local+upto5degC
+ Watering regime: WW:3*wk+ Humidity: down to 10%
+ nutrients added/month: NPK + 2.2,1.8,1.3 g/pot/month
+ NA: California
+682 Thomas, R.B., D.D. Richter, H. Ye, P.R. Heine, and B.R. Strain, 1991i
+ GC
+ Light: 1000 umol/m2/s Photoperiod: 14h
+ Temperature: 29/23degC
+ Watering regime: WW Humidity: 70%
+ nutrients added daily with/without N
+ N Treatment: 0 vs 7.0 mM NH4NO3-N
+ NA: South Carolina
+ Seeds inocculated with Rhizobium
+745 Wullschleger, S.D., R.J. Norby, and D.L. Hendrix, 1992
+ OTC
+ gas exchange measures at 1300 umol/m2/s
+ NA: 35.9degN 84.4degW
+ Precip 169 cm at study site compared to 139 cm as 30 yr average
+746 Wullschleger, S.D., R.J. Norby, and C.A. Gunderson, 1992
+ OTC
+ NA: 35.9degN 84.4degW
+747 Wullschleger, S.D., and R.J. Norby, 1992
+ OTC
+ NA: 35.9degN 84.4degW
+756 Ziska, L.H., K.P. Hogan, A.P. Smith, and B.G. Drake, 1991
+ OTC
+ Light: 740 umol/m2/s average; 1200umol/m2/s max Photoperiod: 10h
+ Temperature: 36.5/21.2degC
+ Watering regime: WW 2*day Humidity: 60%/85%
+ nutrients added (Osmocote)
+ CA: 83.9degN 9.2degW
+ Values differ slightly from Table: pers comm
+2002 Gorissen, A., P.J. Kuikman, and H. Van De Beek, 1995
+ GC
+ Light: 400 umol/m2/s Photoperiod: 16h
+ Temperature: 18/14degC
+ Watering regime: W Humidity: 70-80%
+ EU: 52.2degN 5.8degE
+2003 Mortensen, L.M., 1995
+ GC
+ Light: 18 mol/m2/day for temp treatment
+ Light: 22 mol/m2/day for Ozone treatment Photoperiod: 24h
+ Temperature: 17.3degC=control
+ Watering regime: WW
+ nutrients added
+ 2 Treatments: Ozone: 7 vs 62 nmol/mol for 8 hrs
+ Temperature: 15.3 vs 20 degC
+ EU: 60.8degN 11.5degE
+2004 Wullschleger, S.D., R.J. Norby, and P.J. Hanson, 1995
+ OTC
+ NA: 35.9degN 84.4degW
+ Pisolithus tinctorius mycorrhizal inoculum; stem respiration
+2005 Teskey, R.O., 1995
+ BRANCH
+ Light: 1200 umol/m2/s for gas exchange measurements
+ Watering regime: irrigated
+ NA: Georgia: 33.9degN 82.3degW
+2026 Callaway, R.M., E.H. DeLucia, E.M. Thomas, and W.H. Schlesinger, 1994
+ GC
+ Light: 1000 umol/m2/s Photoperiod: 12h
+ Temperature Treatment: 25/10degC vs 30/25degC
+ Watering regime: WW Humidity: 45%i during day
+ nutrients 1/2 strength Hoagland
+ NA: Nevada
+2027 Pettersson, R., A.J.S. McDonald, and I. Stadenberg, 1993
+ GC
+ Light: 600 umol/m2/s Photoperiod: 18h
+ Temperature: 20degC
+ Hydroponic Humidity: 50%
+ nutrient solution
+ N Treatment: 0.07 vs 0.15 molN/molN/d
+ EU: Sweden
+2028 Lavola, A., and R. Julkunen-Tiitto, 1994
+ GH
+ Light: local -- 1137-175 umol/m2/s
+ Temperature: 22/15degC
+ NKP Treatment: 0 vs 500 kg/ha
+ EU: Finland
+2032 Tschaplinski, T.J., R.J. Norby, and S.D. Wullschleger, 1993
+ GC
+ Light: 720 umol/m2/s Photoperiod: 14h
+ Temperature: 26/16degC
+ H2O Treatment: weekly vs biweekly watering Humidity: 85-90%
+ fertilized/month (Peter's NPK 20:20:20)
+ NA: Tennessee
+2035 Gunderson, C.A., R.J. Norby, and S.D. Wullschleger, 1993
+ OTC
+ Light: 1100-2300 umol/m2/s for gas exchange measurements
+ Temperature: local
+ Watering regime: precip
+ NA: 35.9degN 84.4degW
+2036 Grulke, N.E., J.L. Hom, and S.W. Roberts, 1993
+ GC
+ Light: 713 umol/m2/s at canopy height Photoperiod: 12hr later 14h
+ Temperature: 25/19degC
+ Watering regime: WW Humidity: 46-57%/81%
+ fertilized weekly
+ NA: California
+2037 Bazzaz, F.A., S.L. Miao, and P.M. Wayne, 1993
+ GH
+ Light: 37% and 75 % of full sun
+ Temperature: 30/23degC
+ 2 Treatments: Light: 37% and 75% of full sun
+ Fertilizer: 0.18 and 1.8 g Oscomote
+ NA: Massachusetts
+2038 Roth, S.K., and R.L. Lindroth, 1994
+ GC
+ Light: 501 umol/m2/s Photoperiod: 15h
+ Temperature: 25/20degC
+ Watering regime: WW/drip Humidity: 70/85%
+ fertilized 1/2 strength Hoagland 2*per day
+ NA: Wisconsin
+2039 Curtis, P.S., C.S. Vogel, K.S. Pregitzer, D.R. Zak, and J.A. Teeri, 1995
+ OTC
+ Light: gas exchange measures at 1800 umol/m2/s
+ Temperature: local
+ Watering regime: WW
+ Soil Treatment: 45 vs 346 ug N/g/d N mineralization in soils
+ 64 vs 110 mg extractable PO4/kg soil
+ NA: N-Michigan
+2041 Garcia, R.L., S.B. Idso, G.W. Wall, and B.A. Kimball, 1994
+ OTC
+ Watering regime: WW
+ fertilized
+ NA: Arizona
+2042 Sullivan, J.H., and A.H. Teramura, 1994
+ GH
+ Light: ~80-85% of outdoors
+ Temperature: 27/23degC
+ Watering regime: WW/daily
+ fertilized 1/2 strength Hoagland
+ UVB Treatment: 8 hrs daily 8.8 vs 13.8 kJ/m2
+ NA: Maryland
+ SE for T1 SE for F1 (e-mail)
+2043 Cipollini, M.L., B.G. Drake, and D. Whigham, 1993
+ OTC
+ Light: 10-100-occasionally 1000 umol/m2/min
+ NA: Maryland
+2044 Tissue, D.T., R.B. Thomas, and B.R. Strain, 1993
+ OTC
+ Watering regime: precip
+ 1/2 strength Hoagland 2*week
+ 2 Treatments: High NP:7mol/m2 NH4NO3+1mol/m3 PO4;
+ low P:same N+0.2mol/m3P;
+ lowN:1mol/m3NH4NO3+1mol/m3PO4
+ NA: North Carolina
+ N(#) in T1 does not match text
+2045 Johnsen, K.H., 1993
+ GC
+ Light: 450 umol/m2/s at bench height Photoperiod: 19h
+ Temperature: 20/15degC
+ watering treatment Humidity: 70/90%
+ treatment within 1/3 strength Ingestad
+ 2 Treatments:
+ WW vs drought cycles (fertilized with 8 mL 300 ppmN: Ingestad);
+ Fertilization: 6 mL/wk then 12 mL after 71 days vs 12mL,
+ 18 mL, 24 mL, 32 mL after day 1, 42, 71 and 104
+ NA: Canada: Ontario
+2046 Reid, C.D., and B.R. Strain, 1994
+ GC
+ Light: 65 umol/m2/s Photoperiod: 12h
+ Temperature: 19/15degC
+ Watering regime: WW daily
+ 1/4 strength Hoagland
+ NA: North Carolina
+2047 Eamus, D., C.A. Berryman, and G.A. Duff, 1993
+ OTC
+ Light: ambient local
+ Temperature: local-up to 1.5degC
+ AU
+2048 Yakimchuk, R., and J. Hoddinott, 1994
+ GC
+ Light: 150 umol/m2/s+2hrs 40 umol/m2/s Photoperiod: 18h
+ Temperature: 20/18degC
+ Watering regime: WW Humidity: 65%
+ fertilized weekly
+ Ozone treatment: 1.1 uW/cm2 vs 150 uW/cm2 8hrs/day
+ NA: Canada: Alberta
+ potsize: pers. com.
+2065 Liu, S., and R.O. Teskey, 1995
+ BRANCH
+ Light: gas exchange at 1000-2000 umol/m2/s
+ Temperature: 16.5degC
+ Watering regime: W+precip
+ low to medium soil fertility
+ NA: 33.9degN 83.3degW
+ mature trees, low fertility site
+2068 Wang, K., S. Kellomaki, and K. Laitinen, 1995
+ OTC
+ Temperature treatment: ambient vs hot=amb+2degC in summer,amb+5-20degC
+ Watering regime: W+precip
+ sandy soil
+ EU: 62.8degN 30.9degE
+ chamber around coniferous saplings; elevated CO2 only during daytime
+2069 Marek, M.V., J. Kalina, and M. Matouskova, 1995
+ OTC
+ native Coniferous
+ EU: 49.5degN 18.5degW
+ native coniferous; elevated CO2 level is saturating level
+2070 Eamus, D., G.A. Duff, and C.A. Berryman, 1995
+ SPAR
+ Light: 68% of full
+ Temperature: local minus upto 3degC
+ Watering regime: WW/drip
+ Osmocote in soils
+ AU
+2071 Eamus, D., C.A. Berryman, and G.A. Duff, 1995
+ SPAR
+ Light: 66% of full
+ Temperature: local minus upto 3degC
+ Watering regime: WW 2*day
+ fertilized each 2 weeks
+ AU
+2109 Johnson, D., D. Geisinger, R. Walker, J. Newman, J. Vose, K. Elliot,
+ and T. Ball, 1994
+ OTC
+ Watering regime: WW
+ N treatment: 0 vs 20 g/m2/yr ammonium sulfate
+ NA: California
+ SE vs SD estimates F5; chamber description in Ball et al (1992)
+2110 Pregitzer, K.S., D.R. Zak, P.S. Curtis, M.E. Kubiske, J.A. Teeri,
+ and C.S. Vogel, 1995
+ OTC
+ Watering regime: WW
+ Soil treatment: 45 vs 348 ug N/g/d N mineralization in soils;
+ 64 vs 110 mg extractable PO4/kg soil
+ NA: N-Michigan
+2117 Mortensen, L.M., 1994
+ GC
+ Light treatment: 15 mol/m2/d then 22 mol/m2/d for birch,
+ 21 mol/m2/d for spruce
+ Photoperiod: 24h
+ Temperature Treatment: 15.3 vs 20.0 degC
+ Watering regime: WW 600 vs 1000 Pa as wvpd at 15.3 vs 20degC
+ fertilized, see Mortensen, 1994
+ EU: Norway
+2120 Laboratorium Voor Plantecologie 1992
+ GC
+ Light: 270umol/m2/s Photoperiod: 16h
+ Temperature: 22/17.5degC
+ Watering regime: WW/drip Humidity: 65%
+ fertilized at optimal levels
+ EU: Belgium
+2121 Kubiske, M.E., and K.S. Pregitzer, 1994
+ OTC
+ Light Treatment: low and high; understory imitation
+ NA: N-Michigan
+2122 Vogel, C.S., and P.S. Curtis, 1995
+ OTC
+ Temperature: local+2.6degC
+ fertilized with 4.5 g/m2 N
+ NA: 45.6degN 84.7degW
+ nodule inoculations
+2123 Jarvis, P.G., H.S.J. Lee, and C.V.M. Barton, 1994
+ OTC
+ Light and temperature not reported for growth
+ EU: Scotland
+ N(#) pers comm for T2
+2129 Curtis, P.S., D.R. Zak, K.S. Pregitzer, and J.A. Teeri, 1994
+ OTC
+ Temperature: local+3degC
+ Watering regime: precip+W
+ All rootboxes received 4.5 g/m2 N; similar to natural dry oak forest
+ NA: N-Michigan
+2131 Norby, R.J., Wullschleger, and C.A. Gunderson, 1996
+ OTC
+ NA: Tennessee
+ Sample size and SD from pers comm.
+2152 Williams, R.S., D.E. Lincolm, and R.B. Thomas, 1994
+ OTC
+ Watering regime: precip+W
+ modified Hoagland 7mmol NH4NO3+1mmolPO4 /wk
+ NA: North Carolina
+2165 Lewis, J.D., R.B. Thomas, and B.R. Strain, 1994
+ GH
+ Temperature: 28/17 - 28/22degC
+ Watering regime: WW
+ 1/2 strength Hoagland/wk; P Treatment: 0.083mM KH2PO4 vs 0.5mM KH2PO4:
+ P stress
+ NA: North Carolina
+ inocculation Pisolithus tinctorius vs not
+2186 Bassow, S.L., K.D.M. McConnaughay, and F.A. Bazzaz, 1994
+ GH
+ Light: natural+supplement when light&lt;500umol/m2/s i
+ Photoperiod local: 6-19h
+ Temperature: 28/22degC
+ Fertilizer Treatment: 0.12 vs 1.2 g Osmocote &gt; N input of
+ 40 vs 400 kg N/ha/yr; 3 mo after initial Osmocote
+ weekly 200 ml Peter's solution (20:20:20) at
+ 0.042 v s 0.42 g/l/wk
+ NA: Massachusetts
+ N(#) F1: pers. comm
+2217 Berryman, C.A., D. Eamus, and G.A. Duff, 1993
+ OTC
+ Light: 65% of full
+ Temperature: 29.7degC
+ Watering regime: WW:3*day
+ nutrients added; also 5 g low P Osmocote
+ AU
+2223 Bazzaz, F.A., and S.L. Miao, 1993
+ GH
+ Light treatment: full gap light vs 37% thereof
+ Temperature: 27/20 &gt; 30/23degC
+ Watering regime: WW
+ nutrient treatment: N equivalents of 40 vs 400 kg N/ha/yr i.e.
+ 0.18 vs 1.8 g Osmocote/pot
+ NA: Massachusetts
+2224 Lindroth, R.L., K.K. Kinney, and C.L. Platz, 1993
+ GH
+ Light: 490 mol/m2/s 70cm above pots Photoperiod: 15h
+ Temperature: 25/20degC
+ Watering regime: WW/drip Humidity: 70/80%
+ 1/2 strength Hoagland
+ NA: Wisconsin
+ native mycorrhiza in soil
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp072/ndp072.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19990901]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19990901]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp072/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[745KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ To perform a statistically rigorous meta-analysis of research results on the response by woody vegetation to increased atmospheric CO2 levels, a multiparameter database of responses was compiled. Eighty-four independent CO2-enrichment studies, covering 65 species and 35 response parameters, met the necessary criteria for inclusion in the database: reporting mean response, sample size, and variance of the response (either as standard deviation or standard error). Data were retrieved from the published literature and unpublished reports.
+<br><br>
+ This numeric data package contains a 29-field data set of CO2-exposure experiment responses by woody plants (as both a flat ASCII file and a spreadsheet file), files listing the references to the CO2-exposure experiments and specific comments relevant to the data in the data set, and this documentation file (which includes SAS and Fortran codes to read the ASCII data file; SAS is a registered trademark of the SAS Institute, Inc., Cary, North Carolina 27511).
+<br><br>
+ NDP-072 is an enhancement of previously published CDIAC DB-1018, with additional quality control and documentation (and some corrections to the data, detailed herein). ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

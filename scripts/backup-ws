@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo "Backing up MyEclipse Workspaces"
+today=`date +%Y-%m-%d:%H:%M:%S`
+#bulog=/Users/mcu/bu/backup.log
+echo $today #>> $bulog
+echo "------------------------------------" #>> $bulog
+rsync -rtv /Users/mcu/Workspaces/* /Users/mcu/bu/MyEclipse_WS_Backup/ #>> $bulog
+echo "------------------------------------" #>> $bulog
+echo "" #>> $bulog
+echo "" 
+echo "" 
+echo "" 
+

@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Novelli, P. C.]]></origin>
+        <origin><![CDATA[Masarie, K. A.]]></origin>
+        <title><![CDATA[Measurement of Air Pollution from Satellites (MAPS) 1994 Correlative Atmospheric Carbon Monoxide Mixing Ratios
+]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/DB1020.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Measurement of Air Pollution from Satellites (MAPS) 1994 Correlative Atmospheric Carbon Monoxide Mixing Ratios
+]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19940320]]></begdate>
+          <enddate><![CDATA[19941031]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-178]]></westbc>
+        <eastbc><![CDATA[175]]></eastbc>
+        <northbc><![CDATA[82.45]]></northbc>
+        <southbc><![CDATA[-89.983]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Carbon Monoxide]]></themekey>
+        <themekey><![CDATA[CO]]></themekey>
+        <themekey><![CDATA[Mixing Ratios]]></themekey>
+        <themekey><![CDATA[DB1020]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 135611</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 160054 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Carbon Monoxide]]></Keywords>
+    <Keywords><![CDATA[CO]]></Keywords>
+    <Keywords><![CDATA[Mixing Ratios]]></Keywords>
+    <Keywords><![CDATA[DB1020]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;Satellite Measurements
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 160054 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/DB1020.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.db1020]]></Product_number>
+      <Product_title><![CDATA[Measurement of Air Pollution from Satellites (MAPS) 1994 Correlative Atmospheric Carbon Monoxide Mixing Ratios
+]]></Product_title>
+      <Author>
+        <Name><![CDATA[Novelli, P. C.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Masarie, K. A.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Monoxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alert, N.W.T., Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/alt_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/alt_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ascension Island]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/asc_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/asc_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Baltic Sea, Poland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/bal_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/bal_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Baring Head, New Zealand ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/bho_01_199404.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[St. Davids Head, Bermuda ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/bme_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/bme_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Southhampton, Bermuda]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/bmw_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/bmw_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Barrow, Alaska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/brw_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/brw_01_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/brw_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/brw_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cold Bay, Alaska ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cba_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cba_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Ferguson, Australia ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cfa_02_199404.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania (CSIRO)]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cga_00_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cga_00_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cga_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cga_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania (NOAA)]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cgo_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cgo_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[ Christmas Island]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/chr_02_199404.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Meares, Oregon ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cmo_02_199404.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Point, South Africa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cpt_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cpt_01_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cuiaba, Brazil]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cui_00_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/cui_00_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[N. America aircraft transects]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/dc8_00_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/dc8_00_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Guam, Mariana Islands ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/gmi_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/gmi_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Dwejra Point, Gozo, Malta ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/goz_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/goz_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[D'Aguilar, Hong Kong ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/hkp_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/hkp_01_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hegyhatsal, Hungary]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/hun_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/hun_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Heimaey, Iceland ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/ice_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/ice_01_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/ice_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/ice_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Grifton, North Carolina]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/itn_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/itn_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tenerife, Canary Islands ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/izo_02_199404.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Key West, Florida ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/key_02_199404.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Kumahkahi, Hawaii ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/kum_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/kum_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Macquarie Island, Australia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/maq_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/maq_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mawson, Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/maw_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/maw_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mold Bay, Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mbc_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mbc_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Minamitorishima, Japan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mci_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mci_01_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mace Head, Ireland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mht_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mht_01_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mht_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mht_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sand Island, Midway ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mid_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mid_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mlo_01_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mlo_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/mlo_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Niwot Ridge, Colorado ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/nwr_00_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/nwr_00_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/nwr_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/nwr_01_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/nwr_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/nwr_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean Ship Transects]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/poc000_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/poc000_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocn05_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocn10_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocn20_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocn25_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocn30_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocs05_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocs10_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocs10_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocs15_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocs20_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocs20_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocs25_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/pocs30_02_199404.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Palmer Station, Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/psa_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Point Charles, Australia ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/ptc_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Qinghai Province, China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/qpc_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/qpc_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Rama, India]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/ram_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/ram_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ragged Point, Barbados ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/rpb_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/rpb_01_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/rpb_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/rpb_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ryori, Japan ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/ryo_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/ryo_01_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sable Island, Canada ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/sbl_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/sbl_01_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South China Sea Ship Transects]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn03_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn03_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn06_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn06_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn09_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn09_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn12_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn12_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn15_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn15_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn18_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn18_02_199410.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn21_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/scsn21_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mahe Island, Seychelles ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/sey_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tutuila, American Samoa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/smo_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/smo_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/spo_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/spo_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Syowa, Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/syo_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/syo_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tae-ahn Peninsula, S. Korea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/tap_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/tap_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tierra del Fuego, Argentina ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/tdf_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Univ. of Maryland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/umd_00_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/umd_00_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Wendover, Utah ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/uta_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/uta_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ulaan Uul, Mongolia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/uum_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/uum_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Spitsbergen, Norway/Sweden]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/zep_02_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/zep_02_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Zugspitze, Germany]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/zug_01_199404.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/data/individual-sites/zug_01_199410.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[SITE]]></Variable>
+      <Variable><![CDATA[DTYPE]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Variable><![CDATA[DOY]]></Variable>
+      <Variable><![CDATA[HR]]></Variable>
+      <Variable><![CDATA[MN]]></Variable>
+      <Variable><![CDATA[SC]]></Variable>
+      <Variable><![CDATA[ALT]]></Variable>
+      <Variable><![CDATA[LAT]]></Variable>
+      <Variable><![CDATA[LON]]></Variable>
+      <Variable><![CDATA[CO]]></Variable>
+      <Variable><![CDATA[CO_CMDL]]></Variable>
+      <Variable><![CDATA[O3]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/db/db1020/db1020.html &#187;&#160;Satellite Measurements
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/db1020.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/dat.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/dat.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/reado3.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/db1020/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[5 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This subdirectory contains a database contributed by Paul Novelli [NOAA Climate Monitoring and Diagnostics Laboratory (CMDL), Boulder, Colorado] and Ken Masarie [Cooperative Institute for Research in Environmental Sciences (CIRES), University of Colorado, Boulder, Colorado]. The database offers select carbon monoxide (CO) mixing ratios from eleven field and aircraft measurement programs around the world.
+<br><br>
+Carbon monoxide mixing ratios in the middle troposphere have been examined for short periods of time by using the Measurement of Air Pollution from Satellites (MAPS) instrument. MAPS measures CO from a space platform, using gas filter correlation radiometry. During the 1981 and 1984 MAPS flights, measurement validation was attempted by comparing space-based measurements of CO to those made in the middle troposphere from aircraft. Before the 1994 MAPS flights aboard the space shuttle Endeavour, a correlative measurement team was assembled to provide the National Aeronautics and Space Administration (NASA) with results of their CO field measurement programs during the April and October shuttle missions. To maximize the usefulness of these correlative data, team members agreed to participate in an intercomparison of CO measurements.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

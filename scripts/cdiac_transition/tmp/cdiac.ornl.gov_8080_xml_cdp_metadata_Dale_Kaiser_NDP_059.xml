@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Easterling, D. R.]]></origin>
+        <origin><![CDATA[Jamason, P.]]></origin>
+        <origin><![CDATA[Bowman, D. P.]]></origin>
+        <origin><![CDATA[Hughes, P. Y.]]></origin>
+        <origin><![CDATA[Mason, E. H.]]></origin>
+        <title><![CDATA[Daily Snow Depth Measurements from 195 Stations in the United States]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Daily Snow Depth Measurements from 195 Stations in the United States]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18920101]]></begdate>
+          <enddate><![CDATA[19921231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-165.43]]></westbc>
+        <eastbc><![CDATA[-66.980]]></eastbc>
+        <northbc><![CDATA[48.570]]></northbc>
+        <southbc><![CDATA[29.300]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[snow depth]]></themekey>
+        <themekey><![CDATA[Easterling]]></themekey>
+        <themekey><![CDATA[Jamason]]></themekey>
+        <themekey><![CDATA[Bowman]]></themekey>
+        <themekey><![CDATA[Hughes]]></themekey>
+        <themekey><![CDATA[Mason]]></themekey>
+        <themekey><![CDATA[National Oceanic and Atmospheric Administration]]></themekey>
+        <themekey><![CDATA[NOAA]]></themekey>
+        <themekey><![CDATA[NCDC]]></themekey>
+        <themekey><![CDATA[National Climatic Data Center]]></themekey>
+        <themekey><![CDATA[United States snowfall amount data]]></themekey>
+        <themekey><![CDATA[NDP-059]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 124322</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 144624 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[snow depth]]></Keywords>
+    <Keywords><![CDATA[Easterling]]></Keywords>
+    <Keywords><![CDATA[Jamason]]></Keywords>
+    <Keywords><![CDATA[Bowman]]></Keywords>
+    <Keywords><![CDATA[Hughes]]></Keywords>
+    <Keywords><![CDATA[Mason]]></Keywords>
+    <Keywords><![CDATA[National Oceanic and Atmospheric Administration]]></Keywords>
+    <Keywords><![CDATA[NOAA]]></Keywords>
+    <Keywords><![CDATA[NCDC]]></Keywords>
+    <Keywords><![CDATA[National Climatic Data Center]]></Keywords>
+    <Keywords><![CDATA[United States snowfall amount data]]></Keywords>
+    <Keywords><![CDATA[NDP-059]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[This document describes a database containing daily measurements of snow depth at 195 National Weather Service
+(NWS) first-order climatological stations in the United States. The data have been assembled and made available by the
+National Climatic Data Center (NCDC) in Asheville, North Carolina. The 195 stations encompass 388 unique sampling
+locations in 48 of the 50 states; no observations from Delaware or Hawaii are included in the database. Station selection criteria emphasized the quality and length of station records while seeking to provide a network with good geographic coverage. Snow depth at the 388 locations was measured once per day on ground open to the sky. The daily snow depth is the total depth of the snow on the ground at measurement time. The time period covered by the database is 1893-1992; however, not all station records encompass the complete period. While a station record ideally should contain daily data for at least the seven winter months (January through April and October through December), not all stations have complete records.
+Each logical record in the snow depth database contains one station's daily data values for a period of
+one month, including data source, measurement, and quality flags. The snow depth data have undergone extensive
+manual and automated quality assurance checks by NCDC and the Carbon Dioxide Information Analysis Center
+(CDIAC). These reviews involved examining the data for completeness, reasonableness, and accuracy, and included
+comparison of some data records with records in NCDC's Summary of the Day First Order online database. Since the
+snow depth measurements have been taken at NWS first-order stations that have long periods of record, they should
+prove useful in monitoring climate change.
+These data are available free of charge as a numeric data package (NDP) from CDIAC. The NDP consists of this
+document and 12 data files that are available via CDIAC's anonymous file transfer protocol (FTP) service, via the World
+Wide Web, and on 8-mm tape or quarter-inch tape cartridge. The total size of the database is approximately 79,000 kB.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 144624 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp059]]></Product_number>
+      <Product_title><![CDATA[Daily Snow Depth Measurements from 195 Stations in the United States]]></Product_title>
+      <Author>
+        <Name><![CDATA[Easterling, D. R.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jamason, P.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bowman, D. P.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hughes, P. Y.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mason, E. H.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[United States]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp059.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/hplains.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/invent.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/midwest.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/neast.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/seast.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/snowdpth.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/south.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/west.dat.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[dattyp]]></Variable>
+      <Variable><![CDATA[elev]]></Variable>
+      <Variable><![CDATA[flag]]></Variable>
+      <Variable><![CDATA[lat]]></Variable>
+      <Variable><![CDATA[lon]]></Variable>
+      <Variable><![CDATA[mon]]></Variable>
+      <Variable><![CDATA[numdays]]></Variable>
+      <Variable><![CDATA[qcf1]]></Variable>
+      <Variable><![CDATA[qcf2]]></Variable>
+      <Variable><![CDATA[sf]]></Variable>
+      <Variable><![CDATA[snowd]]></Variable>
+      <Variable><![CDATA[sta_name]]></Variable>
+      <Variable><![CDATA[staid]]></Variable>
+      <Variable><![CDATA[state]]></Variable>
+      <Variable><![CDATA[units]]></Variable>
+      <Variable><![CDATA[wban]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Variable><![CDATA[yrbeg]]></Variable>
+      <Variable><![CDATA[yrend]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp059.htmlThis document describes a database containing daily measurements of snow depth at 195 National Weather Service
+(NWS) first-order climatological stations in the United States. The data have been assembled and made available by the
+National Climatic Data Center (NCDC) in Asheville, North Carolina. The 195 stations encompass 388 unique sampling
+locations in 48 of the 50 states; no observations from Delaware or Hawaii are included in the database. Station selection criteria emphasized the quality and length of station records while seeking to provide a network with good geographic coverage. Snow depth at the 388 locations was measured once per day on ground open to the sky. The daily snow depth is the total depth of the snow on the ground at measurement time. The time period covered by the database is 1893-1992; however, not all station records encompass the complete period. While a station record ideally should contain daily data for at least the seven winter months (January through April and October through December), not all stations have complete records.
+Each logical record in the snow depth database contains one station's daily data values for a period of
+one month, including data source, measurement, and quality flags. The snow depth data have undergone extensive
+manual and automated quality assurance checks by NCDC and the Carbon Dioxide Information Analysis Center
+(CDIAC). These reviews involved examining the data for completeness, reasonableness, and accuracy, and included
+comparison of some data records with records in NCDC's Summary of the Day First Order online database. Since the
+snow depth measurements have been taken at NWS first-order stations that have long periods of record, they should
+prove useful in monitoring climate change.
+These data are available free of charge as a numeric data package (NDP) from CDIAC. The NDP consists of this
+document and 12 data files that are available via CDIAC's anonymous file transfer protocol (FTP) service, via the World
+Wide Web, and on 8-mm tape or quarter-inch tape cartridge. The total size of the database is approximately 79,000 kB.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/ndp059.txt]]></Data_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/ndp059.doc]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/data.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/data.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/invent.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/invent.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp059/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This document describes a database containing daily measurements of snow depth at 195 National Weather Service (NWS) first-order climatological stations in the United States. The data have been assembled and made available by the National Climatic Data Center (NCDC) in Asheville, North Carolina. The 195 stations encompass 388 unique sampling locations in 48 of the 50 states; no observations from Delaware or Hawaii are included in the database. Station selection criteria emphasized the quality and length of station records while seeking to provide a network with good geographic coverage. Snow depth at the 388 locations was measured once per day on ground open to the sky. The daily snow depth is the total depth of the snow on the ground at measurement time. The time period covered by the database is 1893-1992; however, not all station records encompass the complete period. While a station record ideally should contain daily data for at least the seven winter months (January through April and October through December), not all stations have complete records.
+<br><br>
+ Each logical record in the snow depth database contains one station's daily data values for a period of one month, including data source, measurement, and quality flags. The snow depth data have undergone extensive manual and automated quality assurance checks by NCDC and the Carbon Dioxide Information Analysis Center (CDIAC). These reviews involved examining the data for completeness, reasonableness, and accuracy, and included comparison of some data records with records in NCDC's Summary of the Day First Order online database. Since the snow depth measurements have been taken at NWS first-order stations that have long periods of record, they should prove useful in monitoring climate change.
+<br><br>
+ These data are available free of charge as a numeric data package (NDP) from CDIAC. The NDP consists of this document and 12 data files that are available via CDIAC's anonymous file transfer protocol (FTP) service, via the World Wide Web, and on 8-mm tape or quarter-inch tape cartridge. The total size of the database is approximately 79,000 kB. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

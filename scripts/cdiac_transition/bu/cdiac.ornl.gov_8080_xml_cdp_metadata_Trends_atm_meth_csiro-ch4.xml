@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Steele, L. P.]]></origin>
+        <origin><![CDATA[Krummel, P. B.]]></origin>
+        <origin><![CDATA[Langenfelds, R. J.]]></origin>
+        <title><![CDATA[Atmospheric CH4 Concentrations from the CSIRO GASLAB Flask Sampling Network ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/atm_meth/csiro-ch4.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/trends/atm_meth/csiro/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CH4 Concentrations from the CSIRO GASLAB Flask Sampling Network ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19840501]]></begdate>
+          <enddate><![CDATA[20011231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[atmospheric ]]></themekey>
+        <themekey><![CDATA[CH4]]></themekey>
+        <themekey><![CDATA[methane]]></themekey>
+        <themekey><![CDATA[flask air samples]]></themekey>
+        <themekey><![CDATA[mercuric oxide reduction]]></themekey>
+        <themekey><![CDATA[gas detector]]></themekey>
+        <themekey><![CDATA[gas chromatography]]></themekey>
+        <themekey><![CDATA[TRENDS-OTHER ATMOSPHERIC TRACE GASES]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 124951</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 091931 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[atmospheric ]]></Keywords>
+    <Keywords><![CDATA[CH4]]></Keywords>
+    <Keywords><![CDATA[methane]]></Keywords>
+    <Keywords><![CDATA[flask air samples]]></Keywords>
+    <Keywords><![CDATA[mercuric oxide reduction]]></Keywords>
+    <Keywords><![CDATA[gas detector]]></Keywords>
+    <Keywords><![CDATA[gas chromatography]]></Keywords>
+    <Keywords><![CDATA[TRENDS-OTHER ATMOSPHERIC TRACE GASES]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+Atmospheric CH4, CSIRO Sampling Network
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 091931 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/atm_meth/csiro-ch4.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.031]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CH4 Concentrations from the CSIRO GASLAB Flask Sampling Network ]]></Product_title>
+      <Author>
+        <Name><![CDATA[Steele, L. P.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Krummel, P. B.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Langenfelds, R. J.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Methane]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alert, NWT, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-altch4.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/csiro/altch4_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-alertch4.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Ferguson, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-cfergch4.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/csiro/cfergch4_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-cfergch4.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-cgrimch4.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/csiro/cgrimch4_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-cgrimch4.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Estevan Point, BC, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-estpoch4.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/csiro/estpoch4_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-estpoch4.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Macquarie Island, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-macqch4.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/csiro/macqch4_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-macquariech4.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii, USA]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-mloch4.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/csiro/mloch4_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-mloch4.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mawson, Antartica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-mawsonch4.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/csiro/mawsonch4_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-mawsonch4.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Shetland Islands, Scotland]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-shetlandch4.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/csiro/shetlandch4_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-shetlandch4.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-spoch4.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/csiro/spoch4_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro-spoch4.jpg]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Month]]></Variable>
+      <Variable><![CDATA[Annual Average]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/csiro/csiro_gaslabch4.html &#187;&#160;
+Atmospheric CH4, CSIRO Sampling Network
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20030131]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20030131]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/trends/atm_meth/csiro/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[2700 kb]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ The listed data have been obtained from flask air samples returned to the CSIRO GASLAB for analysis. Typical sample storage times range from days to weeks for some sites (e.g., Cape Grim) to as much as one year for Macquarie Island and the Antarctic sites. Experiments carried out to test for any change in sample CH4 mixing ratio during storage have shown no drift to within detection limits over test periods of several months to years (Cooper et al., 1999).
+<br><br>
+ An annual pattern in atmospheric CH4 is evident, largely due to an increase in its destruction by the OH radical during the summer months. Additional influences on CH4 concentrations at Alert include spatial and seasonal variations in source strength associated with the varying trajectories of arriving air at different times of the year. The overall trend since 1992 is a slow and unsteady increase, averaging about 3 ppbv/year. A decrease of almost 6 ppbv occurred from 1996 to 1997. In the two most recent years, the general increase has leveled off to about 0.55 ppbv/year.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

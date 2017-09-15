@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Francey, R. J.]]></origin>
+        <origin><![CDATA[Allison, C. E.]]></origin>
+        <title><![CDATA[In Situ Carbon 13 and Oxygen 18 Ratios of Atmospheric CO2 from Cape Grim, Tasmania, Australia: 1982-1993]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1014/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[In Situ Carbon 13 and Oxygen 18 Ratios of Atmospheric CO2 from Cape Grim, Tasmania, Australia: 1982-1993]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19820119]]></begdate>
+          <enddate><![CDATA[19931217]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[144.683]]></westbc>
+        <eastbc><![CDATA[144.683]]></eastbc>
+        <northbc><![CDATA[-40.683]]></northbc>
+        <southbc><![CDATA[-40.683]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2 concentrations]]></themekey>
+        <themekey><![CDATA[carbon 13 ratio]]></themekey>
+        <themekey><![CDATA[oxygen 18 ratio]]></themekey>
+        <themekey><![CDATA[DB1014]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 134936</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 155730 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2 concentrations]]></Keywords>
+    <Keywords><![CDATA[carbon 13 ratio]]></Keywords>
+    <Keywords><![CDATA[oxygen 18 ratio]]></Keywords>
+    <Keywords><![CDATA[DB1014]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[, Cape Grim
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 155730 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.db1014]]></Product_number>
+      <Product_title><![CDATA[In Situ Carbon 13 and Oxygen 18 Ratios of Atmospheric CO2 from Cape Grim, Tasmania, Australia: 1982-1993]]></Product_title>
+      <Author>
+        <Name><![CDATA[Francey, R. J.]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Allison, C. E.]]></Name>
+        <Company><![CDATA[CSIRO ]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Research ]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Isotopes in Greenhouse Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Fossil-Fuel CO2 Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1014.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1014/isotope.cgo]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[height]]></Variable>
+      <Variable><![CDATA[tear]]></Variable>
+      <Variable><![CDATA[d13C]]></Variable>
+      <Variable><![CDATA[d18O]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1014.html, Cape Grim
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1014/db1014.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[199501218]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980726]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1014/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[22 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Since 1982, a continuous program of sampling atmospheric CO2 to determine stable isotope ratios has been maintained at the Australian Baseline Air Pollution Station, Cape Grim, Tasmania (40 degrees, 40'56S, 144 degrees, 41'18E). The process of in situ extraction of CO2 from air, the preponderance of samples collected in conditions of strong wind from the marine boundary layer of the Southern Ocean, and the determination of all isotope ratios relative to a common high purity CO2 reference gas with isotopic delta 13C close to atmospheric values, are a unique combination of factors with respect to obtaining a globally representative signal from a surface site. Air samples are collected during baseline condition episodes at a frequency of around one sample per week. Baseline conditions are characterized by wind direction in the sector 190 degrees-280 degrees, condensation nucleus concentration below 600 per cm-3, and steady continuous CO2 concentrations (variation &#195;&#130;&#194;&#177; 0.2 ppmv per hour). A vacuum pump draws air from either the 10 m or 70 m intakes and sampling alternates between the two intakes. The air from the intake is dried with a trap immersed in an alcohol bath at about -80 degrees C. Mass spectrometer analyses for delta 13C and delta 18O are carried out by CSIRO's Division of Atmospheric Research in Aspendale, usually one to three weeks following collection.
+<br><br>
+This record is possibly the most accurate representation of global atmospheric delta 13C behavior over the last decade and may be used to partition the uptake of fossil-fuel carbon emissions between ocean and terrestrial plant reservoirs. Using these data, Francey et al. (1995) observed a gradual decrease in delta 13C from 1982 to 1993, but with a pronounced flattening from 1988 to 1990; a trend that appears to involve the terrestrial carbon cycle.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

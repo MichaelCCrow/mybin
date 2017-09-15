@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Gornitz, V. M.]]></origin>
+        <origin><![CDATA[White, T. W.]]></origin>
+        <title><![CDATA[Coastal Hazards Data Base for the U.S. East Coast]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Coastal Hazards Data Base for the U.S. East Coast]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[1900000]]></begdate>
+          <enddate><![CDATA[1900000]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-85.00]]></westbc>
+        <eastbc><![CDATA[-65.00]]></eastbc>
+        <northbc><![CDATA[46.00]]></northbc>
+        <southbc><![CDATA[24.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Coast]]></themekey>
+        <themekey><![CDATA[Elevation]]></themekey>
+        <themekey><![CDATA[Erosion]]></themekey>
+        <themekey><![CDATA[Geology]]></themekey>
+        <themekey><![CDATA[Geomorphology]]></themekey>
+        <themekey><![CDATA[Sea Level]]></themekey>
+        <themekey><![CDATA[Tide Range]]></themekey>
+        <themekey><![CDATA[Wave Height]]></themekey>
+        <themekey><![CDATA[Coastal Hazards]]></themekey>
+        <themekey><![CDATA[East Coast]]></themekey>
+        <themekey><![CDATA[Data Base]]></themekey>
+        <themekey><![CDATA[Gornitz]]></themekey>
+        <themekey><![CDATA[White]]></themekey>
+        <themekey><![CDATA[Bedrock Geology]]></themekey>
+        <themekey><![CDATA[Sea Level Trends]]></themekey>
+        <themekey><![CDATA[Horizontal Shoreline Movements ]]></themekey>
+        <themekey><![CDATA[Accretion]]></themekey>
+        <themekey><![CDATA[Tidal Ranges]]></themekey>
+        <themekey><![CDATA[NDP-043A]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145235</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164347 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Coast]]></Keywords>
+    <Keywords><![CDATA[Elevation]]></Keywords>
+    <Keywords><![CDATA[Erosion]]></Keywords>
+    <Keywords><![CDATA[Geology]]></Keywords>
+    <Keywords><![CDATA[Geomorphology]]></Keywords>
+    <Keywords><![CDATA[Sea Level]]></Keywords>
+    <Keywords><![CDATA[Tide Range]]></Keywords>
+    <Keywords><![CDATA[Wave Height]]></Keywords>
+    <Keywords><![CDATA[Coastal Hazards]]></Keywords>
+    <Keywords><![CDATA[East Coast]]></Keywords>
+    <Keywords><![CDATA[Data Base]]></Keywords>
+    <Keywords><![CDATA[Gornitz]]></Keywords>
+    <Keywords><![CDATA[White]]></Keywords>
+    <Keywords><![CDATA[Bedrock Geology]]></Keywords>
+    <Keywords><![CDATA[Sea Level Trends]]></Keywords>
+    <Keywords><![CDATA[Horizontal Shoreline Movements ]]></Keywords>
+    <Keywords><![CDATA[Accretion]]></Keywords>
+    <Keywords><![CDATA[Tidal Ranges]]></Keywords>
+    <Keywords><![CDATA[NDP-043A]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164347 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/ssr.ndp043a]]></Product_number>
+      <Product_title><![CDATA[Coastal Hazards Data Base for the U.S. East Coast]]></Product_title>
+      <Author>
+        <Name><![CDATA[Gornitz, V. M.]]></Name>
+        <Company><![CDATA[National Aeronautics and Space Administration ]]></Company>
+        <Organization><![CDATA[Goddard Institute for Space Studies]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[White, T. W.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Coastal Sensitivity to Sea Level Rise]]></Thematic_area>
+      <Thematic_area><![CDATA[Other]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[U. S. East Coast]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp043a.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecgrid.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecgrid.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecline.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecoast.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecoast.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecpoint.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecpoint.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecrisk.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecrisk.e00]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[COMMA]]></Variable>
+      <Variable><![CDATA[ELAVG]]></Variable>
+      <Variable><![CDATA[ELMAX]]></Variable>
+      <Variable><![CDATA[ELMIN]]></Variable>
+      <Variable><![CDATA[ELNUM]]></Variable>
+      <Variable><![CDATA[ELR]]></Variable>
+      <Variable><![CDATA[ERAVG]]></Variable>
+      <Variable><![CDATA[ERMAX]]></Variable>
+      <Variable><![CDATA[ERMIN]]></Variable>
+      <Variable><![CDATA[ERNUM]]></Variable>
+      <Variable><![CDATA[GL]]></Variable>
+      <Variable><![CDATA[GLR]]></Variable>
+      <Variable><![CDATA[GM]]></Variable>
+      <Variable><![CDATA[GMR]]></Variable>
+      <Variable><![CDATA[ID]]></Variable>
+      <Variable><![CDATA[IDERR]]></Variable>
+      <Variable><![CDATA[LSR]]></Variable>
+      <Variable><![CDATA[NAME]]></Variable>
+      <Variable><![CDATA[NUM]]></Variable>
+      <Variable><![CDATA[SLC]]></Variable>
+      <Variable><![CDATA[SLG]]></Variable>
+      <Variable><![CDATA[SLLAT]]></Variable>
+      <Variable><![CDATA[SLLONG]]></Variable>
+      <Variable><![CDATA[SLNAM]]></Variable>
+      <Variable><![CDATA[SLR]]></Variable>
+      <Variable><![CDATA[SLS]]></Variable>
+      <Variable><![CDATA[SLYR]]></Variable>
+      <Variable><![CDATA[TRAVG]]></Variable>
+      <Variable><![CDATA[TRID]]></Variable>
+      <Variable><![CDATA[TRLAT]]></Variable>
+      <Variable><![CDATA[TRLONG]]></Variable>
+      <Variable><![CDATA[TRLVL]]></Variable>
+      <Variable><![CDATA[TRMAX]]></Variable>
+      <Variable><![CDATA[TRNAME]]></Variable>
+      <Variable><![CDATA[TRNUM]]></Variable>
+      <Variable><![CDATA[TRR ]]></Variable>
+      <Variable><![CDATA[WHAVG]]></Variable>
+      <Variable><![CDATA[WHMAX]]></Variable>
+      <Variable><![CDATA[WHR]]></Variable>
+      <Variable><![CDATA[WHSD]]></Variable>
+      <Variable><![CDATA[X]]></Variable>
+      <Variable><![CDATA[Y]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp043a.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ndp043.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecgrid.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecgrid.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecoast.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecoast.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecpoint.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecpoint.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecrisk.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/ecrisk.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19920801]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19920801]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043a/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[23.0MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This NDP presents data on coastal geology, geomorphology, elevation, erosion, wave heights, tide ranges, and sea levels for the U.S. east coast. These data may be used either by nongeographic database management systems or by raster or vector geographic information systems (GISs). The database integrates several data sets (originally obtained as point, line, and polygon data) for the east coast into 0.25 degree-latitude by 0.25 degree-longitude grid cells. Each coastal grid cell contains 28 data variables.
+<br><br>
+ This NDP may be used to predict the response of coastal zones on the U.S. east coast to changes in local or global sea levels. Information on the geologic, geomorphic, and erosional states of the coast provides the basic data needed to predict the behavior of the coastal zone into the far future. Thus, these data may be seen as providing a baseline for the calculation of the relative vulnerability of the east coast to projected sea-level rises. This data will also be useful to research, educational, governmental, and private organizations interested in the present and future vulnerability of coastal areas to erosion and inundation.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

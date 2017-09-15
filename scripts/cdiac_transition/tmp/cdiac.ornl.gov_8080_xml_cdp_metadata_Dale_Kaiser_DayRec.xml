@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Dale P. Kaiser]]></origin>
+        <title><![CDATA[DayRec: An Interface for Exploring United States Record-Maximum/Minimum Daily Temperatures]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/climate/temp/us_recordtemps/dayrec.html]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/us_recordtemps/sta200/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[DayRec: An Interface for Exploring United States Record-Maximum/Minimum Daily Temperatures]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19010101]]></begdate>
+          <enddate><![CDATA[20121231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-125]]></westbc>
+        <eastbc><![CDATA[-67]]></eastbc>
+        <northbc><![CDATA[49]]></northbc>
+        <southbc><![CDATA[25]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[record high maximum temperature]]></themekey>
+        <themekey><![CDATA[record low maximum temperature]]></themekey>
+        <themekey><![CDATA[record high minimum temperature]]></themekey>
+        <themekey><![CDATA[record low minimum temperature]]></themekey>
+        <themekey><![CDATA[United States]]></themekey>
+        <themekey><![CDATA[USHCN]]></themekey>
+        <themekey><![CDATA[U.S. Historical Climatology Network]]></themekey>
+        <themekey><![CDATA[daily data]]></themekey>
+        <themekey><![CDATA[station data]]></themekey>
+        <themekey><![CDATA[GHCN]]></themekey>
+        <themekey><![CDATA[dayrec]]></themekey>
+        <themekey><![CDATA[Google maps]]></themekey>
+        <themekey><![CDATA[map interface]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://cdiac.ess-dive.lbl.gov/climate/temp/us_recordtemps/dayrec.html]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser, kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser, kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20130925 092705</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser, kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20130918 170221 by 160.91.28.71</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[record high maximum temperature]]></Keywords>
+    <Keywords><![CDATA[record low maximum temperature]]></Keywords>
+    <Keywords><![CDATA[record high minimum temperature]]></Keywords>
+    <Keywords><![CDATA[record low minimum temperature]]></Keywords>
+    <Keywords><![CDATA[United States]]></Keywords>
+    <Keywords><![CDATA[USHCN]]></Keywords>
+    <Keywords><![CDATA[U.S. Historical Climatology Network]]></Keywords>
+    <Keywords><![CDATA[daily data]]></Keywords>
+    <Keywords><![CDATA[station data]]></Keywords>
+    <Keywords><![CDATA[GHCN]]></Keywords>
+    <Keywords><![CDATA[dayrec]]></Keywords>
+    <Keywords><![CDATA[Google maps]]></Keywords>
+    <Keywords><![CDATA[map interface]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Like politics, you might say that all climate is local. As researchers seek to help the public better
+understand climate and climate change, a sensible approach would include helping people know
+more about changes in their own backyards. High and low temperatures are something that all of us pay attention to each day; when they are extreme (flirting with or setting records) they generate tremendous interest, largely because of the potential for significant impacts on human health, the environment, and built infrastructure.
+ 2010). These flags indicate that the accuracy and reliability of data are questionable, so these observations were set to the missing indicator ("-999") matching the one already used in the database for actual missing observations. Next, an assessment of the amount of missing data at each station was performed. Instead of subjectively assigning an acceptable percentage threshold,
+it was desired that the allowable volume of missing data not only be
+quite small, but also that missing observations be spread out relatively evenly over time (both seasonally and over the full period of record), so as to avoid time-dependent bias that could on its own give misleading impressions of changes in the frequency of record-setting temperatures over time at a given station. This was done via 3 steps:
+For each station and each day of the year (1-365; Feb. 29 data from leap years was discarded), determine the number of years
+having data for each decade over 1911-2010;
+ was set to 5. These thresholds resulted in 200 stations being retained for use in the interface, with several areas (especially the southwest)
+being underrepresented. The corresponding average percentage of missing data for these stations was about 1.5%, a very low/stringent value relative to most climatological studies. In November of 2013 the values were both changed to 7, resulting in an additional 224 stations being retained (for a total of 424), with the average percentage of missing data per station only increasing to about 2.4% across all 424 stations. 
+These stringent missing data criteria are necessary to give a relatively reliable picture of changes in record-setting Tmax and Tmin occurrences (realizing that non-climatic factors likely still have important effects, depending on the station). The 200- and 224-station datasets are referred to as , and are distinguished from each other using different-colored map markers.
+Many USHCN stations do not have century-scale daily records. Obviously this makes them less useful for 
+exploring longer-term changes, but a 2014 version of the DayRec interface will include additional
+stations so as to allow for examination of record-setting temperatures at most of the 1218 USHCN stations for decades starting with 1951-1960, paralleling the analysis
+of Meehl (2009).
+ [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M. Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20130918 170221 by 160.91.28.71</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[DOI:10.3334/CDIAC/CLI.101]]></Product_number>
+      <Product_title><![CDATA[DayRec: An Interface for Exploring United States Record-Maximum/Minimum Daily Temperatures]]></Product_title>
+      <Author>
+        <Name><![CDATA[Dale P. Kaiser]]></Name>
+        <Company><![CDATA[Carbon Dioxide Information Analysis Center]]></Company>
+        <Organization><![CDATA[Oak Ridge National Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[United States]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/climate/temp/us_recordtemps/dayrec.html]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://cdiac.ess-dive.lbl.gov/climate/temp/us_recordtemps/dayrec.html]]></Data_site>
+      <Variable><![CDATA[record-high maximum temperature]]></Variable>
+      <Variable><![CDATA[record-low maximum temperature]]></Variable>
+      <Variable><![CDATA[record-high minimum temperature]]></Variable>
+      <Variable><![CDATA[record-low minimum temperature]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/climate/temp/us_recordtemps/dayrec.htmlLike politics, you might say that all climate is local. As researchers seek to help the public better
+understand climate and climate change, a sensible approach would include helping people know
+more about changes in their own backyards. High and low temperatures are something that all of us pay attention to each day; when they are extreme (flirting with or setting records) they generate tremendous interest, largely because of the potential for significant impacts on human health, the environment, and built infrastructure.
+ 2010). These flags indicate that the accuracy and reliability of data are questionable, so these observations were set to the missing indicator ("-999") matching the one already used in the database for actual missing observations. Next, an assessment of the amount of missing data at each station was performed. Instead of subjectively assigning an acceptable percentage threshold,
+it was desired that the allowable volume of missing data not only be
+quite small, but also that missing observations be spread out relatively evenly over time (both seasonally and over the full period of record), so as to avoid time-dependent bias that could on its own give misleading impressions of changes in the frequency of record-setting temperatures over time at a given station. This was done via 3 steps:
+For each station and each day of the year (1-365; Feb. 29 data from leap years was discarded), determine the number of years
+having data for each decade over 1911-2010;
+ was set to 5. These thresholds resulted in 200 stations being retained for use in the interface, with several areas (especially the southwest)
+being underrepresented. The corresponding average percentage of missing data for these stations was about 1.5%, a very low/stringent value relative to most climatological studies. In November of 2013 the values were both changed to 7, resulting in an additional 224 stations being retained (for a total of 424), with the average percentage of missing data per station only increasing to about 2.4% across all 424 stations. 
+These stringent missing data criteria are necessary to give a relatively reliable picture of changes in record-setting Tmax and Tmin occurrences (realizing that non-climatic factors likely still have important effects, depending on the station). The 200- and 224-station datasets are referred to as , and are distinguished from each other using different-colored map markers.
+Many USHCN stations do not have century-scale daily records. Obviously this makes them less useful for 
+exploring longer-term changes, but a 2014 version of the DayRec interface will include additional
+stations so as to allow for examination of record-setting temperatures at most of the 1218 USHCN stations for decades starting with 1951-1960, paralleling the analysis
+of Meehl (2009).
+ [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M. Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20121115]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/climate/temp/us_recordtemps/dayrec.html]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/us_recordtemps/sta200/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser, kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[DayRec is a daily temperature records data product intended to serve the scientist and non-scientist alike in exploring and analyzing high and low temperature records and trends at hundreds of locations across the U.S.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

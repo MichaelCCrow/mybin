@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Gornitz, V. M.]]></origin>
+        <origin><![CDATA[White, T. W.]]></origin>
+        <origin><![CDATA[Daniels, R. C.]]></origin>
+        <title><![CDATA[Coastal Hazards Data Base for the U.S. West Coast]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/NDP_043C.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Coastal Hazards Data Base for the U.S. West Coast]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[1900000]]></begdate>
+          <enddate><![CDATA[1900000]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-126.00]]></westbc>
+        <eastbc><![CDATA[-116.00]]></eastbc>
+        <northbc><![CDATA[49.00]]></northbc>
+        <southbc><![CDATA[32.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Coast]]></themekey>
+        <themekey><![CDATA[Elevation]]></themekey>
+        <themekey><![CDATA[Erosion]]></themekey>
+        <themekey><![CDATA[Geology]]></themekey>
+        <themekey><![CDATA[Geomorphology]]></themekey>
+        <themekey><![CDATA[Sea Level]]></themekey>
+        <themekey><![CDATA[Tidal Range]]></themekey>
+        <themekey><![CDATA[Wave Height]]></themekey>
+        <themekey><![CDATA[Database]]></themekey>
+        <themekey><![CDATA[West Coast]]></themekey>
+        <themekey><![CDATA[Gornitz]]></themekey>
+        <themekey><![CDATA[Beaty]]></themekey>
+        <themekey><![CDATA[Daniels]]></themekey>
+        <themekey><![CDATA[NDP-043C]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145405</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164454 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Coast]]></Keywords>
+    <Keywords><![CDATA[Elevation]]></Keywords>
+    <Keywords><![CDATA[Erosion]]></Keywords>
+    <Keywords><![CDATA[Geology]]></Keywords>
+    <Keywords><![CDATA[Geomorphology]]></Keywords>
+    <Keywords><![CDATA[Sea Level]]></Keywords>
+    <Keywords><![CDATA[Tidal Range]]></Keywords>
+    <Keywords><![CDATA[Wave Height]]></Keywords>
+    <Keywords><![CDATA[Database]]></Keywords>
+    <Keywords><![CDATA[West Coast]]></Keywords>
+    <Keywords><![CDATA[Gornitz]]></Keywords>
+    <Keywords><![CDATA[Beaty]]></Keywords>
+    <Keywords><![CDATA[Daniels]]></Keywords>
+    <Keywords><![CDATA[NDP-043C]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Download or
+Download 
+ of NDP-043C
+Contributed by
+Vivien M. Gornitz
+Center for Climate Systems Research, Columbia University
+New York, New York
+Tammy W. Beaty
+Oak Ridge, Tennessee
+Richard C. Daniels
+Energy, Environment and Resources Center
+Knoxville, Tennessee
+Environmental Sciences Division
+Publication No. 4590
+Date Published: December 1997
+Prepared for the
+Budget Activity Number KP 12 04 01 0
+Prepared by the
+Carbon Dioxide Information Analysis Center
+OAK RIDGE NATIONAL LABORATORY
+Oak Ridge, Tennessee 37831-6335
+managed by
+LOCKHEED MARTIN ENERGY RESEARCH CORP.
+for the
+U.S. DEPARTMENT OF ENERGY
+under contract DE-AC05-96OR22464
+Current address: Shorelands and Water Resources Program, Water Division, Dept. of Ecology, Olympia, WA
+18. Partial Listings of the Flat ASCII Data Filesv]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164454 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/NDP_043C.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/ssr.ndp043c]]></Product_number>
+      <Product_title><![CDATA[Coastal Hazards Data Base for the U.S. West Coast]]></Product_title>
+      <Author>
+        <Name><![CDATA[Gornitz, V. M.]]></Name>
+        <Company><![CDATA[National Aeronautics and Space Administration ]]></Company>
+        <Organization><![CDATA[Goddard Institute for Space Studies]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[White, T. W.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Daniels, R. C.]]></Name>
+        <Company><![CDATA[The University of Tennessee]]></Company>
+        <Organization><![CDATA[Energy, Environment and Resources Center]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Coastal Sensitivity to Sea Level Rise]]></Thematic_area>
+      <Thematic_area><![CDATA[Other]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[U. S. West Coast]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp043c/43c.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcgrid.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcgrid.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcline.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcline.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcoast.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcoast.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcpoint.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcpoint.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcrisk.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcrisk.e00]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[elavg]]></Variable>
+      <Variable><![CDATA[elmax]]></Variable>
+      <Variable><![CDATA[elmin]]></Variable>
+      <Variable><![CDATA[elnum]]></Variable>
+      <Variable><![CDATA[elnumgl]]></Variable>
+      <Variable><![CDATA[elr]]></Variable>
+      <Variable><![CDATA[eravg]]></Variable>
+      <Variable><![CDATA[ermax]]></Variable>
+      <Variable><![CDATA[ermin]]></Variable>
+      <Variable><![CDATA[ernum]]></Variable>
+      <Variable><![CDATA[err]]></Variable>
+      <Variable><![CDATA[gl]]></Variable>
+      <Variable><![CDATA[glr]]></Variable>
+      <Variable><![CDATA[gm]]></Variable>
+      <Variable><![CDATA[gmr]]></Variable>
+      <Variable><![CDATA[id]]></Variable>
+      <Variable><![CDATA[lsr]]></Variable>
+      <Variable><![CDATA[slc]]></Variable>
+      <Variable><![CDATA[slg]]></Variable>
+      <Variable><![CDATA[slname]]></Variable>
+      <Variable><![CDATA[slr]]></Variable>
+      <Variable><![CDATA[sls]]></Variable>
+      <Variable><![CDATA[sly]]></Variable>
+      <Variable><![CDATA[slyr]]></Variable>
+      <Variable><![CDATA[travg]]></Variable>
+      <Variable><![CDATA[trid]]></Variable>
+      <Variable><![CDATA[trlat]]></Variable>
+      <Variable><![CDATA[trlong]]></Variable>
+      <Variable><![CDATA[trlvl]]></Variable>
+      <Variable><![CDATA[trmax]]></Variable>
+      <Variable><![CDATA[trname]]></Variable>
+      <Variable><![CDATA[trnum]]></Variable>
+      <Variable><![CDATA[trr]]></Variable>
+      <Variable><![CDATA[whavg]]></Variable>
+      <Variable><![CDATA[whmax]]></Variable>
+      <Variable><![CDATA[whr]]></Variable>
+      <Variable><![CDATA[whsd]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp043c/43c.htmDownload or
+Download 
+ of NDP-043C
+Contributed by
+Vivien M. Gornitz
+Center for Climate Systems Research, Columbia University
+New York, New York
+Tammy W. Beaty
+Oak Ridge, Tennessee
+Richard C. Daniels
+Energy, Environment and Resources Center
+Knoxville, Tennessee
+Environmental Sciences Division
+Publication No. 4590
+Date Published: December 1997
+Prepared for the
+Budget Activity Number KP 12 04 01 0
+Prepared by the
+Carbon Dioxide Information Analysis Center
+OAK RIDGE NATIONAL LABORATORY
+Oak Ridge, Tennessee 37831-6335
+managed by
+LOCKHEED MARTIN ENERGY RESEARCH CORP.
+for the
+U.S. DEPARTMENT OF ENERGY
+under contract DE-AC05-96OR22464
+Current address: Shorelands and Water Resources Program, Water Division, Dept. of Ecology, Olympia, WA
+18. Partial Listings of the Flat ASCII Data Filesv]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/ndp043.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcgrid.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcgrid.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcline.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcline.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcoast.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcoast.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcpoint.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcpoint.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/wcrisk.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[wcrisk.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19971201]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19971201]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043c/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[10.2MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This document describes the contents of a digital data base that may be used to identify coastlines along the U.S. West Coast that are at risk to sea-level rise. This data base integrates point, line, and polygon data for the U.S. West Coast into 0.25 degree latitude by 0.25 degree longitude grid cells and into 1:2,000,000 digitized line segments that can be used by raster or vector geographic information systems (GIS) as well as by non-GIS data bases. Each coastal grid cell and line segment contains data variables from the following seven data sets: elevation, geology, geomorphology, sea-level trends, shoreline displacement (erosion/accretion), tidal ranges, and wave heights. One variable from each data set was classified according to its susceptibility to sea-level rise and/or erosion to form 7 relative risk variables. These risk variables range in value from 1 to 5 and may be used to calculate a Coastal Vulnerability Index (CVI). Algorithms used to calculate several CVIs are listed within this text. The data for these 29 variables (i.e., the 22 original variables and 7 risk variables) are available as: (1) Gridded polygon data for the 22 original data variables. Data include elevation, geology, geomorphology, sea-level trends, shoreline displacement (erosion/accretion), tidal ranges, and wave heights; (2) Gridded polygon data for the seven classified risk variables. The risk variables are classified versions of: mean coastal elevation, geology, geomorphology, local subsidence trend, mean shoreline displacement, maximum tidal range, and maximum significant wave height; (3) 1:2,000,000 line segment data containing the 29 data variables (i.e., the 22 original data variables and the 7 classified risk variables); (4) Supplemental point data for the stations used in calculating the sea- level trend and tidal-range data sets; and (5) Supplemental line segment data containing a 1:2,000,000 digitized coastline of the U.S. West Coast.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

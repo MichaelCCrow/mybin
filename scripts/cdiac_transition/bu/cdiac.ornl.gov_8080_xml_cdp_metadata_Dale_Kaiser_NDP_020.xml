@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Jones, P. D.]]></origin>
+        <origin><![CDATA[Raper, S. C. B.]]></origin>
+        <origin><![CDATA[Cherry, B. S. G.]]></origin>
+        <origin><![CDATA[Goodess, C. M.]]></origin>
+        <origin><![CDATA[Wigley, T. M. L.]]></origin>
+        <origin><![CDATA[Santer, B.]]></origin>
+        <origin><![CDATA[Kelly, P. M.]]></origin>
+        <origin><![CDATA[Bradley, R. S.]]></origin>
+        <origin><![CDATA[Diaz, H. F.]]></origin>
+        <title><![CDATA[Updated Global Grid Point Surface Air Temperature Anomaly Data Set: 1851-1990]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_020.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Updated Global Grid Point Surface Air Temperature Anomaly Data Set: 1851-1990]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18510101]]></begdate>
+          <enddate><![CDATA[19901231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Surface Air Temperature Anomaly]]></themekey>
+        <themekey><![CDATA[Temperature Records]]></themekey>
+        <themekey><![CDATA[Land-based Stations]]></themekey>
+        <themekey><![CDATA[NDP-020]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 122925</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 162309 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Surface Air Temperature Anomaly]]></Keywords>
+    <Keywords><![CDATA[Temperature Records]]></Keywords>
+    <Keywords><![CDATA[Land-based Stations]]></Keywords>
+    <Keywords><![CDATA[NDP-020]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 162309 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_020.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp020]]></Product_number>
+      <Product_title><![CDATA[Updated Global Grid Point Surface Air Temperature Anomaly Data Set: 1851-1990]]></Product_title>
+      <Author>
+        <Name><![CDATA[Jones, P. D.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Raper, S. C. B.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Cherry, B. S. G.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Goodess, C. M.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wigley, T. M. L.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Santer, B.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kelly, P. M.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bradley, R. S.]]></Name>
+        <Company><![CDATA[University of Massachusetts]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Diaz, H. F.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Environmental Research Laboratories]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/ndp020.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/ant5790.an]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/jonesnh.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/jonessh.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/nhem1990.ano]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/shem1990.ano]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[ELEV]]></Variable>
+      <Variable><![CDATA[ENDYEAR]]></Variable>
+      <Variable><![CDATA[FRYEAR]]></Variable>
+      <Variable><![CDATA[ID]]></Variable>
+      <Variable><![CDATA[LAT]]></Variable>
+      <Variable><![CDATA[LONG]]></Variable>
+      <Variable><![CDATA[NATION]]></Variable>
+      <Variable><![CDATA[QCCODE]]></Variable>
+      <Variable><![CDATA[STATION]]></Variable>
+      <Variable><![CDATA[STYEAR]]></Variable>
+      <Variable><![CDATA[TYPE]]></Variable>
+      <Variable><![CDATA[dist]]></Variable>
+      <Variable><![CDATA[lat]]></Variable>
+      <Variable><![CDATA[long]]></Variable>
+      <Variable><![CDATA[sta]]></Variable>
+      <Variable><![CDATA[temp]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/ndp020.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/ndp020r1.doc]]></Data_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/ndp020r1.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/retrievl.fo1]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/retrievl.fo2]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/retrievl.fo3]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/retrievl.fo4]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/retrievl.sa1]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/retrievl.sa2]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/retrievl.sa3]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/retrievl.sa4]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp020/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[47 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This NDP presents land-based monthly surface-air-temperature anomalies (departures from a 1951-1970 reference period mean) on a 5 degrees latitude by 10 degrees longitude global grid. Monthly surface-air-temperature anomalies (departures from a 1957-1975 reference period mean) for the Antarctic (grid points from 65 degrees S to 85 degrees S) are presented in a similar way as a separate data set. The data were derived primarily from the World Weather Records and from the archives of the United Kingdom Meteorological Office. This long-term record of temperature anomalies may be used in studies addressing possible greenhouse-gas-induced climate changes. To date, the data have been employed in producing regional, hemispheric, and global time series for determining whether recent (i.e., post-1900) warming trends have taken place.
+<br><br>
+The present updated version of this data set is identical to the earlier version for all records from 1851-1978 except for the addition of the Antarctic surface-air-temperature anomalies beginning in 1957. Beginning with the 1979 data, this package differs from the earlier version in several ways. Erroneous data for some sites have been corrected after a review of the actual station temperature data, and inconsistencies in the representation of missing values have been removed. For some grid locations, data have been added from stations that had not contributed to the original set. Data from satellites have also been used to correct station records where large discrepancies were evident. The present package also extends the record by adding monthly surface-air-temperature anomalies for the Northern (grid points from 85 degrees N to 0 degrees) and Southern (grid points from 5 degrees S to 60 degrees S) Hemispheres for 1985-1990. In addition, this updated package presents the monthly-mean-temperature records for the individual stations that were used to produce the set of gridded anomalies. The periods of record vary by station. Northern Hemisphere data have been corrected for inhomogeneities, while Southern Hemisphere data are presented in uncorrected form.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

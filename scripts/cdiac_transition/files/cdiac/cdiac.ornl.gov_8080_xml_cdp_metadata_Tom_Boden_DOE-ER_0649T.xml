@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Cushman, R. M.]]></origin>
+        <origin><![CDATA[Parra, B. M.]]></origin>
+        <title><![CDATA[Graduate Student Theses: Fiscal Year 1995]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/DOE-ER_0649T.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/er0649t/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Graduate Student Theses: Fiscal Year 1995]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19810101]]></begdate>
+          <enddate><![CDATA[19951231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Abstracts]]></themekey>
+        <themekey><![CDATA[Bibliography]]></themekey>
+        <themekey><![CDATA[Citations]]></themekey>
+        <themekey><![CDATA[Dissertations]]></themekey>
+        <themekey><![CDATA[Graduate students]]></themekey>
+        <themekey><![CDATA[Keywords]]></themekey>
+        <themekey><![CDATA[Theses]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120904 160754</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 160150 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Abstracts]]></Keywords>
+    <Keywords><![CDATA[Bibliography]]></Keywords>
+    <Keywords><![CDATA[Citations]]></Keywords>
+    <Keywords><![CDATA[Dissertations]]></Keywords>
+    <Keywords><![CDATA[Graduate students]]></Keywords>
+    <Keywords><![CDATA[Keywords]]></Keywords>
+    <Keywords><![CDATA[Theses]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Graduate Student Theses Supported by DOE's Environmental Sciences Division
+(DOE/ER-0649T)
+July 1995
+Fiscal Year 2000
+Update now online - 70
+additional graduate theses from 1994 through 2000!
+ Back to CDIAC Home
+Page
+rmc 9/1/2000]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 160150 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/DOE-ER_0649T.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[DOE/ER-0649T]]></Product_number>
+      <Product_title><![CDATA[Graduate Student Theses: Fiscal Year 1995]]></Product_title>
+      <Author>
+        <Name><![CDATA[Cushman, R. M.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Parra, B. M.]]></Name>
+        <Company><![CDATA[U.S. Department of Energy]]></Company>
+        <Organization><![CDATA[Office of Biological and Environmental Research]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[CDIAC Publications]]></Thematic_area>
+      <Thematic_area><![CDATA[Other]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Report]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/doe/er0649t/er0649t.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/er0649t/er0649t.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/er0649t/papyrus/fmt.bib]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/er0649t/papyrus/indx.bib]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/er0649t/papyrus/jrnl.bib]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/er0649t/papyrus/key.bib]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/er0649t/papyrus/last.bib]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/er0649t/papyrus/ref.bib]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/er0649t/papyrus/refkey.bib]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[bibliographic citations]]></Variable>
+      <Variable><![CDATA[abstracts]]></Variable>
+      <Variable><![CDATA[keywords]]></Variable>
+      <Variable><![CDATA[doctoral theses]]></Variable>
+      <Variable><![CDATA[master theses]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/doe/er0649t/er0649t.htmGraduate Student Theses Supported by DOE's Environmental Sciences Division
+(DOE/ER-0649T)
+July 1995
+Fiscal Year 2000
+Update now online - 70
+additional graduate theses from 1994 through 2000!
+ Back to CDIAC Home
+Page
+rmc 9/1/2000]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19950701]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19950701]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/er0649t/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[2 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This report provides complete bibliographic citations, abstracts, and keywords for doctoral and master's theses supported fully or partly by the U.S. Department of Energy's Environmental Sciences Division (and its predecessors) in the following areas: Atmospheric Sciences; Marine Transport; Terrestrial Transport; Ecosystems Function and Response; Carbon, Climate, and Vegetation; Information; Computer Hardware, Advanced Mathematics, and Model Physics (CHAMMP); Atmospheric Radiation Measurement (ARM); Oceans; National Institute for Global Environmental Change (NIGEC); Unmanned Aerial Vehicles (UAV); Integrated Assessment; Graduate Fellowships for Global Change; and Quantitative Links. Information on the major professor, department, principal investigator, and program area is given for each abstract. Indexes are provided for major professor, university, principal investigator, program area, and keywords. A copy of the printed report may be obtained from CDIAC at no charge while supplies last.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

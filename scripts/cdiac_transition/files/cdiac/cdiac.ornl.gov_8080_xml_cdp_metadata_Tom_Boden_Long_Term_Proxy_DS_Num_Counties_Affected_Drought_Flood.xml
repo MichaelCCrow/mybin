@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Peiyuan, Z.]]></origin>
+        <origin><![CDATA[Gaofa, G.]]></origin>
+        <origin><![CDATA[Yi, Z.]]></origin>
+        <title><![CDATA[Number of Counties Affected by Drought and Flooding]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Long_Term_Proxy_DS_Num_Counties_Affected_Drought_Flood.xml]]></onlink>
+        <onlink><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Number of Counties Affected by Drought and Flooding]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[15010101]]></begdate>
+          <enddate><![CDATA[19471231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[People's Republic of China]]></themekey>
+        <themekey><![CDATA[Institute of Geography]]></themekey>
+        <themekey><![CDATA[Chinese Academy of Sciences]]></themekey>
+        <themekey><![CDATA[dryness]]></themekey>
+        <themekey><![CDATA[wetness]]></themekey>
+        <themekey><![CDATA[PRC]]></themekey>
+        <themekey><![CDATA[China]]></themekey>
+        <themekey><![CDATA[1501]]></themekey>
+        <themekey><![CDATA[1947]]></themekey>
+        <themekey><![CDATA[Counties]]></themekey>
+        <themekey><![CDATA[Drought]]></themekey>
+        <themekey><![CDATA[Flood]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050809 162345</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 162345 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[People's Republic of China]]></Keywords>
+    <Keywords><![CDATA[Institute of Geography]]></Keywords>
+    <Keywords><![CDATA[Chinese Academy of Sciences]]></Keywords>
+    <Keywords><![CDATA[dryness]]></Keywords>
+    <Keywords><![CDATA[wetness]]></Keywords>
+    <Keywords><![CDATA[PRC]]></Keywords>
+    <Keywords><![CDATA[China]]></Keywords>
+    <Keywords><![CDATA[1501]]></Keywords>
+    <Keywords><![CDATA[1947]]></Keywords>
+    <Keywords><![CDATA[Counties]]></Keywords>
+    <Keywords><![CDATA[Drought]]></Keywords>
+    <Keywords><![CDATA[Flood]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 162345 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Long_Term_Proxy_DS_Num_Counties_Affected_Drought_Flood.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[Long-Term Proxy Data Sets]]></Product_number>
+      <Product_title><![CDATA[Number of Counties Affected by Drought and Flooding]]></Product_title>
+      <Author>
+        <Name><![CDATA[Peiyuan, Z.]]></Name>
+        <Company><![CDATA[Institute of Geography]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Gaofa, G.]]></Name>
+        <Company><![CDATA[Institute of Geography]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Yi, Z.]]></Name>
+        <Company><![CDATA[Institute of Geography]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Long-Term Proxy Data Sets from People's Republic of China]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/drought.county.w51.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year ]]></Variable>
+      <Variable><![CDATA[Number of Countries (affected by drought)]]></Variable>
+      <Variable><![CDATA[Number of Countries (affected by floods)]]></Variable>
+      <Descriptive_file></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19910401]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19910401]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  A collaborative research agreement between the Peoples' Republic of China's (PRC) Chinese Academy of Sciences and the United States Department of Energy, signed in August of 1987, has resulted in the compilation and exchange of several data sets that will be useful in reconstructing past climates in China, extending and calibrating instrumental records, and addressing potential CO2-induced global and regional warming.
+<br><br>
+  This report describes one of the twelve PRC proxy data sets exchanged as part of this bilateral agreement.  These two data files contain annual totals of the number of Chinese counties affected by drought and flood.  Values range from 0-308 counties for drought and 0-123 counties for flooding.  These records may be used to examine long-term occurrences of drought and flooding in China and may be used to verify precipitation, temperature, and dryness/wetness indices and instrumental records.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

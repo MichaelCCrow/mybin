@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Chipman, D.]]></origin>
+        <origin><![CDATA[Takahashi, T.]]></origin>
+        <origin><![CDATA[Rubin, S.]]></origin>
+        <origin><![CDATA[Sutherland, S.]]></origin>
+        <origin><![CDATA[Koshlyakov, M. H.]]></origin>
+        <title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Akademik Ioffe Cruise in the South Pacific Ocean (WOCE Section S4P, February-April 1992)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_063.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp063/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Akademik Ioffe Cruise in the South Pacific Ocean (WOCE Section S4P, February-April 1992)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19920222]]></begdate>
+          <enddate><![CDATA[19920329]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-179.427]]></westbc>
+        <eastbc><![CDATA[179.231]]></eastbc>
+        <northbc><![CDATA[-65.327]]></northbc>
+        <southbc><![CDATA[-70.648]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[bottle oxygen]]></themekey>
+        <themekey><![CDATA[bottle salinity]]></themekey>
+        <themekey><![CDATA[nitrate]]></themekey>
+        <themekey><![CDATA[nitrite]]></themekey>
+        <themekey><![CDATA[oxygen measured by (CTD)]]></themekey>
+        <themekey><![CDATA[pCO2 measured at 4C]]></themekey>
+        <themekey><![CDATA[phosphate]]></themekey>
+        <themekey><![CDATA[pressure]]></themekey>
+        <themekey><![CDATA[salinity]]></themekey>
+        <themekey><![CDATA[silicate]]></themekey>
+        <themekey><![CDATA[temperature]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[hydrographic]]></themekey>
+        <themekey><![CDATA[chemical data]]></themekey>
+        <themekey><![CDATA[R/V Akademik Ioffe Cruise]]></themekey>
+        <themekey><![CDATA[South Pacific Ocean]]></themekey>
+        <themekey><![CDATA[WOCE Section S4P]]></themekey>
+        <themekey><![CDATA[NDP-063]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 123625</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 145257 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[bottle oxygen]]></Keywords>
+    <Keywords><![CDATA[bottle salinity]]></Keywords>
+    <Keywords><![CDATA[nitrate]]></Keywords>
+    <Keywords><![CDATA[nitrite]]></Keywords>
+    <Keywords><![CDATA[oxygen measured by (CTD)]]></Keywords>
+    <Keywords><![CDATA[pCO2 measured at 4C]]></Keywords>
+    <Keywords><![CDATA[phosphate]]></Keywords>
+    <Keywords><![CDATA[pressure]]></Keywords>
+    <Keywords><![CDATA[salinity]]></Keywords>
+    <Keywords><![CDATA[silicate]]></Keywords>
+    <Keywords><![CDATA[temperature]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[hydrographic]]></Keywords>
+    <Keywords><![CDATA[chemical data]]></Keywords>
+    <Keywords><![CDATA[R/V Akademik Ioffe Cruise]]></Keywords>
+    <Keywords><![CDATA[South Pacific Ocean]]></Keywords>
+    <Keywords><![CDATA[WOCE Section S4P]]></Keywords>
+    <Keywords><![CDATA[NDP-063]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 145257 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_063.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp063]]></Product_number>
+      <Product_title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Akademik Ioffe Cruise in the South Pacific Ocean (WOCE Section S4P, February-April 1992)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Chipman, D.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Takahashi, T.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rubin, S.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sutherland, S.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Koshlyakov, M. H.]]></Name>
+        <Company><![CDATA[Russian Academy of Sciences]]></Company>
+        <Organization><![CDATA[Shirshov Institute of Oceanography]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[South Pacific Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/oceans/ndp_063/ndp063.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp063/s4p.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp063/s4psta.inv]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[bot]]></Variable>
+      <Variable><![CDATA[cast]]></Variable>
+      <Variable><![CDATA[ctdoxy]]></Variable>
+      <Variable><![CDATA[ctdsal]]></Variable>
+      <Variable><![CDATA[ctdtmp]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[depth]]></Variable>
+      <Variable><![CDATA[expo]]></Variable>
+      <Variable><![CDATA[latdcm]]></Variable>
+      <Variable><![CDATA[londcm]]></Variable>
+      <Variable><![CDATA[nitrat]]></Variable>
+      <Variable><![CDATA[nitrit]]></Variable>
+      <Variable><![CDATA[oxy]]></Variable>
+      <Variable><![CDATA[pco2]]></Variable>
+      <Variable><![CDATA[pco2tmp]]></Variable>
+      <Variable><![CDATA[phspht]]></Variable>
+      <Variable><![CDATA[pre]]></Variable>
+      <Variable><![CDATA[qualt]]></Variable>
+      <Variable><![CDATA[sal]]></Variable>
+      <Variable><![CDATA[samp]]></Variable>
+      <Variable><![CDATA[sect]]></Variable>
+      <Variable><![CDATA[silca]]></Variable>
+      <Variable><![CDATA[sta]]></Variable>
+      <Variable><![CDATA[stat]]></Variable>
+      <Variable><![CDATA[tcarb]]></Variable>
+      <Variable><![CDATA[theta]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/ndp_063/ndp063.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp063/ndp063.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp063/s4pdat.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp063/stainv.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19970810]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19970810]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp063/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[1.51MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data documentation discusses the procedures and methods used to measure total carbon dioxide (TCO2) and partial pressure of CO2 (pCO2) in discrete water samples during the Research Vessel (R/V) Akademik Ioffe Expedition in the South Pacific Ocean. Conducted as part of the World Ocean Circulation Experiment (WOCE), the cruise began in Montevideo, Uruguay, on February 14, 1992, and ended in Wellington, New Zealand, on April 6, 1992. WOCE Section S4P, located along ~67 degrees S between 73 degrees W and 172 degrees E, was completed during the 51-day expedition. One hundred and thirteen hydrographic stations were occupied. Hydrographic and chemical measurements made along WOCE Section S4P included pressure, temperature, salinity, and oxygen measured by a conductivity, temperature, and depth sensor; bottle salinity; bottle oxygen; phosphate; nitrate; nitrite; silicate; TCO2; and pCO2 measured at 4 degrees C.
+<br><br>
+ The TCO2 concentration in ~1290 seawater samples was determined with a coulometric analysis system; the pCO2 in ~1270 water samples was determined with an equilibrator-gas chromatograph system. In addition, 172 coulometric measurements for the Certified Reference Material (batch no. 7) were made at sea for 62 bottles and yielded a mean value of 1927.5 +/- 1.8 micro-mol/kg. This mean value agrees within one standard deviation of the 1926.6 +/- 0.7 micro-mol/kg (N = 6) value determined with the manometer of C. D. Keeling at Scripps Institution of Oceanography. The TCO2 values listed in this report have NOT been corrected to this difference.
+<br><br>
+ The WOCE Section S4P data set is available free of charge as a numeric data package (NDP) from the Carbon Dioxide Information Analysis Center. The NDP consists of two data files, two FORTRAN 77 routines, a readme file, and this printed documentation. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

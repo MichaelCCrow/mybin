@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Hahn, C. J.]]></origin>
+        <origin><![CDATA[Warren, S. G. ]]></origin>
+        <origin><![CDATA[Eastman, R.]]></origin>
+        <title><![CDATA[Extended Edited Synoptic Cloud Reports from Ships and Land Stations Over the Globe, 1952-2009 (NDP-026C)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_026c.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub3/ndp026c/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Extended Edited Synoptic Cloud Reports from Ships and Land Stations Over the Globe, 1952-2009 (NDP-026C)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19520101]]></begdate>
+          <enddate><![CDATA[20091231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[0.000]]></westbc>
+        <eastbc><![CDATA[-5.000]]></eastbc>
+        <northbc><![CDATA[87.500]]></northbc>
+        <southbc><![CDATA[-87.500]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Air Temperature]]></themekey>
+        <themekey><![CDATA[Clouds]]></themekey>
+        <themekey><![CDATA[Dew Point]]></themekey>
+        <themekey><![CDATA[Pressure]]></themekey>
+        <themekey><![CDATA[Sea Surface Temperature]]></themekey>
+        <themekey><![CDATA[Weather]]></themekey>
+        <themekey><![CDATA[Wind]]></themekey>
+        <themekey><![CDATA[NDP-026C]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120924 165055</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 163509 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Air Temperature]]></Keywords>
+    <Keywords><![CDATA[Clouds]]></Keywords>
+    <Keywords><![CDATA[Dew Point]]></Keywords>
+    <Keywords><![CDATA[Pressure]]></Keywords>
+    <Keywords><![CDATA[Sea Surface Temperature]]></Keywords>
+    <Keywords><![CDATA[Weather]]></Keywords>
+    <Keywords><![CDATA[Wind]]></Keywords>
+    <Keywords><![CDATA[NDP-026C]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ August 1999.
+ This page and the global cloudiness data set updated to reflect the addition of 12 monthly files of ship reports for 1997.
+C. J. Hahn
+Dept. of Atmospheric Sciences,
+S. G. Warren
+Dept. of Atmospheric Sciences,
+R. Eastman
+Dept. of Atmospheric Sciences,
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 163509 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_026c.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp026.c]]></Product_number>
+      <Product_title><![CDATA[Extended Edited Synoptic Cloud Reports from Ships and Land Stations Over the Globe, 1952-2009 (NDP-026C)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Hahn, C. J.]]></Name>
+        <Company><![CDATA[University of Arizona]]></Company>
+        <Organization><![CDATA[Dept. of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Warren, S. G. ]]></Name>
+        <Company><![CDATA[University of Washington]]></Company>
+        <Organization><![CDATA[Dept. of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Eastman, R.]]></Name>
+        <Company><![CDATA[University of Washington]]></Company>
+        <Organization><![CDATA[Dept. of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp026c/ndp026c.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub3/ndp026c/land_197101_197704/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub3/ndp026c/land_197705_198210/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub3/ndp026c/land_198211_198706/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub3/ndp026c/land_198707_199202/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub3/ndp026c/land_199203_199612/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub3/ndp026c/ship_195112_199712/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[wind speed]]></Variable>
+      <Variable><![CDATA[air temperature]]></Variable>
+      <Variable><![CDATA[change code]]></Variable>
+      <Variable><![CDATA[cloud amount]]></Variable>
+      <Variable><![CDATA[cloud base height]]></Variable>
+      <Variable><![CDATA[cloud height indicator]]></Variable>
+      <Variable><![CDATA[cloud type]]></Variable>
+      <Variable><![CDATA[day]]></Variable>
+      <Variable><![CDATA[dew point depression]]></Variable>
+      <Variable><![CDATA[hour]]></Variable>
+      <Variable><![CDATA[land/ocean indicator]]></Variable>
+      <Variable><![CDATA[latitude]]></Variable>
+      <Variable><![CDATA[longitude]]></Variable>
+      <Variable><![CDATA[month]]></Variable>
+      <Variable><![CDATA[present weather]]></Variable>
+      <Variable><![CDATA[relative lunar illuminance]]></Variable>
+      <Variable><![CDATA[sea level pressure]]></Variable>
+      <Variable><![CDATA[sea level pressure flag]]></Variable>
+      <Variable><![CDATA[sea surface temp]]></Variable>
+      <Variable><![CDATA[ship type]]></Variable>
+      <Variable><![CDATA[sky brightness indicator]]></Variable>
+      <Variable><![CDATA[solar altitude]]></Variable>
+      <Variable><![CDATA[source deck]]></Variable>
+      <Variable><![CDATA[station elevation]]></Variable>
+      <Variable><![CDATA[station number]]></Variable>
+      <Variable><![CDATA[total cloud cover]]></Variable>
+      <Variable><![CDATA[wind direction]]></Variable>
+      <Variable><![CDATA[wind speed indicator]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp026c/ndp026c.html August 1999.
+ This page and the global cloudiness data set updated to reflect the addition of 12 monthly files of ship reports for 1997.
+C. J. Hahn
+Dept. of Atmospheric Sciences,
+S. G. Warren
+Dept. of Atmospheric Sciences,
+R. Eastman
+Dept. of Atmospheric Sciences,
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19990820]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20120801]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub3/ndp026c/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This database contains surface synoptic weather reports for the entire globe, gathered from various available data sets. The reports were processed, edited, and rewritten to provide a single dataset of individual observations of clouds, spanning the 46 years 1952-1997 for ship data and the 26 years 1971-1996 for land station data. In addition to the cloud portion of the synoptic report, each edited report also includes the associated pressure, present weather, wind, air temperature, and dew point (and sea surface temperature over oceans). This data set is called the Extended Edited Cloud Report Archive (EECRA).
+<br><br>
+ Reports from the source data sets that did not meet certain quality control standards were rejected for the EECRA. Minor correctable inconsistencies within reports were edited for consistency. Cases of sky obscured were interpreted by reference to the present-weather code as to whether they indicated fog, rain, snow, or thunderstorm. Special coding was added to indicate probable nimbostratus clouds which are not specifically coded for in the standard synoptic code. Any changes made to an original report are also noted in the archived edited report so that the original report can be reconstructed if desired. This extended edited cloud report also includes the amounts, either inferred or directly reported, of low, middle, and high clouds, both overlapped and non-overlapped amounts. The relative lunar illuminance and the solar zenith angle associated with each report are also given, as well as an indicator that tells whether our recommended illuminance criterion was satisfied so that the night-detection bias for clouds can be minimized.
+<br><br>
+ The EECRA contains over 73 million cloud observations from ships and 311 million from land stations. Each report is 80 characters in length. The archive consists of 865 files of edited synoptic reports, one file for each month of data for land and ocean separately, and 4 ancillary files which provide important information about reporting characteristics of the land stations. The 865 synoptic report files have been compressed using unix; their total size approaches 10 GB (over 30 GB when uncompressed).
+<br><br>
+ This data set will be useful for applications such as: (1) development of user-defined cloud climatologies for particular subtypes of clouds, or for different temporal and spatial resolution than we have chosen for our atlases, (2) in comparison of satellite cloud retrievals with surface observations, to help diagnose difficulties in cloud identification from satellite, and (3) to relate formation of individual types of clouds to their meteorological environments. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

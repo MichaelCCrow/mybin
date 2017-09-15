@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Altimir, N.]]></origin>
+        <origin><![CDATA[Anderson, D.]]></origin>
+        <origin><![CDATA[Anthoni, P.]]></origin>
+        <origin><![CDATA[Arneth, A.]]></origin>
+        <origin><![CDATA[Aubinet, M.]]></origin>
+        <origin><![CDATA[Bakwin, P.]]></origin>
+        <origin><![CDATA[Baldocchi, D.]]></origin>
+        <origin><![CDATA[Barcza, Z.]]></origin>
+        <origin><![CDATA[Barr, A.]]></origin>
+        <origin><![CDATA[Barthelmie, R.]]></origin>
+        <origin><![CDATA[Berbigier, P.]]></origin>
+        <origin><![CDATA[Beringer, J.]]></origin>
+        <origin><![CDATA[Bernhofer, C.]]></origin>
+        <origin><![CDATA[Billesbach, D.]]></origin>
+        <origin><![CDATA[Black, T.]]></origin>
+        <origin><![CDATA[Blair, J.]]></origin>
+        <origin><![CDATA[Boehm, J.]]></origin>
+        <origin><![CDATA[Bolstad, P. ]]></origin>
+        <origin><![CDATA[Bourque, C.]]></origin>
+        <origin><![CDATA[Bowling, D.]]></origin>
+        <origin><![CDATA[Buchmann, N.]]></origin>
+        <origin><![CDATA[Carrara, A.]]></origin>
+        <origin><![CDATA[Cernusca, A.]]></origin>
+        <origin><![CDATA[Cescatti, A.]]></origin>
+        <origin><![CDATA[Ceulemans, R.]]></origin>
+        <origin><![CDATA[Chen, J.]]></origin>
+        <origin><![CDATA[Choi, B.]]></origin>
+        <origin><![CDATA[Clark, D. A.]]></origin>
+        <origin><![CDATA[Clark, D. B.]]></origin>
+        <origin><![CDATA[Clark, K.]]></origin>
+        <origin><![CDATA[Cook, B.]]></origin>
+        <origin><![CDATA[Cook, D.]]></origin>
+        <origin><![CDATA[Correll, D.]]></origin>
+        <origin><![CDATA[Coulter, R.]]></origin>
+        <origin><![CDATA[Coyea, M.]]></origin>
+        <origin><![CDATA[Crill, P.]]></origin>
+        <origin><![CDATA[Curiel-Yuste, J.]]></origin>
+        <origin><![CDATA[Curtis, P.]]></origin>
+        <origin><![CDATA[da Rocha, H.]]></origin>
+        <origin><![CDATA[Davidson, E.]]></origin>
+        <origin><![CDATA[Davis, K.]]></origin>
+        <origin><![CDATA[de Costa, J.]]></origin>
+        <origin><![CDATA[Deering, D.]]></origin>
+        <origin><![CDATA[Desai, A.]]></origin>
+        <origin><![CDATA[Dolman, H.]]></origin>
+        <origin><![CDATA[Dore, S.]]></origin>
+        <origin><![CDATA[Drake, B.]]></origin>
+        <origin><![CDATA[Duan, B.]]></origin>
+        <origin><![CDATA[Elbers, J.]]></origin>
+        <origin><![CDATA[Ellsworth, D.]]></origin>
+        <origin><![CDATA[Euskirchen, E.]]></origin>
+        <origin><![CDATA[Evans, B.]]></origin>
+        <origin><![CDATA[Falge, E.]]></origin>
+        <origin><![CDATA[Falk, M.]]></origin>
+        <origin><![CDATA[Field, C.]]></origin>
+        <origin><![CDATA[Fischer, M.]]></origin>
+        <origin><![CDATA[Fitzjarrald, D.]]></origin>
+        <origin><![CDATA[Flanagan, L. ]]></origin>
+        <origin><![CDATA[Foken, T.]]></origin>
+        <origin><![CDATA[Georgiadis, T.]]></origin>
+        <origin><![CDATA[Gholz, H.]]></origin>
+        <origin><![CDATA[Glodstein, A.]]></origin>
+        <origin><![CDATA[Goltz, M.]]></origin>
+        <origin><![CDATA[Goulden, M.]]></origin>
+        <origin><![CDATA[Grace, J.]]></origin>
+        <origin><![CDATA[Granier, A.]]></origin>
+        <origin><![CDATA[Grelle, A.]]></origin>
+        <origin><![CDATA[Grimmond, S.]]></origin>
+        <origin><![CDATA[Gu, L.]]></origin>
+        <origin><![CDATA[Guenther, A.]]></origin>
+        <origin><![CDATA[Haesler, R.]]></origin>
+        <origin><![CDATA[Ham, J.]]></origin>
+        <origin><![CDATA[Hanan, N.]]></origin>
+        <origin><![CDATA[Hanson, P.]]></origin>
+        <origin><![CDATA[Hao, Y.]]></origin>
+        <origin><![CDATA[Harding, R.]]></origin>
+        <origin><![CDATA[Hardley, J.]]></origin>
+        <origin><![CDATA[Hari, P.]]></origin>
+        <origin><![CDATA[Haszpra, L.]]></origin>
+        <origin><![CDATA[Hayashi, T.]]></origin>
+        <origin><![CDATA[Hehn, T.]]></origin>
+        <origin><![CDATA[Heimann, M.]]></origin>
+        <origin><![CDATA[Hinkle, R.]]></origin>
+        <origin><![CDATA[Hipps, L.]]></origin>
+        <origin><![CDATA[Hollinger, D.]]></origin>
+        <origin><![CDATA[Huete, R.]]></origin>
+        <origin><![CDATA[Hutley, L.]]></origin>
+        <origin><![CDATA[Ilvesniemi, H.]]></origin>
+        <origin><![CDATA[Irvine, J.]]></origin>
+        <origin><![CDATA[Ivans, S.]]></origin>
+        <origin><![CDATA[Janous, D.]]></origin>
+        <origin><![CDATA[Jans, W.]]></origin>
+        <origin><![CDATA[Janssens, I.]]></origin>
+        <origin><![CDATA[Jarvis, P.]]></origin>
+        <origin><![CDATA[Jensen, N.]]></origin>
+        <origin><![CDATA[Johnson, D.]]></origin>
+        <origin><![CDATA[Johnson, L.]]></origin>
+        <origin><![CDATA[Joyce, L.]]></origin>
+        <origin><![CDATA[Justice, C.]]></origin>
+        <origin><![CDATA[Katul, G.]]></origin>
+        <origin><![CDATA[Keronen, P.]]></origin>
+        <origin><![CDATA[Kiang, N.]]></origin>
+        <origin><![CDATA[Kim, W.]]></origin>
+        <origin><![CDATA[Knapp, A.]]></origin>
+        <origin><![CDATA[Knohl, A.]]></origin>
+        <origin><![CDATA[Korol, R.]]></origin>
+        <origin><![CDATA[Kowalski, A.]]></origin>
+        <origin><![CDATA[Kruijt, B.]]></origin>
+        <origin><![CDATA[Kulmala, M.]]></origin>
+        <origin><![CDATA[Lafleur, P.]]></origin>
+        <origin><![CDATA[Laubach, J.]]></origin>
+        <origin><![CDATA[Laurila, T.]]></origin>
+        <origin><![CDATA[Law, B.]]></origin>
+        <origin><![CDATA[Leclerc, M.]]></origin>
+        <origin><![CDATA[Lee, J.]]></origin>
+        <origin><![CDATA[Leuning, R.]]></origin>
+        <origin><![CDATA[Li, J.]]></origin>
+        <origin><![CDATA[Lindroth, A.]]></origin>
+        <origin><![CDATA[Litvak, M. ]]></origin>
+        <origin><![CDATA[Lloyd, J.]]></origin>
+        <origin><![CDATA[Loehrer, S.]]></origin>
+        <origin><![CDATA[Loescher, H.]]></origin>
+        <origin><![CDATA[Loustau, D.]]></origin>
+        <origin><![CDATA[Ma, S.]]></origin>
+        <origin><![CDATA[Mahrt, L.]]></origin>
+        <origin><![CDATA[Marek, M.]]></origin>
+        <origin><![CDATA[Margolis, H.]]></origin>
+        <origin><![CDATA[Markkanen, T.]]></origin>
+        <origin><![CDATA[Martin, T.]]></origin>
+        <origin><![CDATA[Massman, W.]]></origin>
+        <origin><![CDATA[Matteucci, G.]]></origin>
+        <origin><![CDATA[McCaughey, H.]]></origin>
+        <origin><![CDATA[McKay, M.]]></origin>
+        <origin><![CDATA[Mencuccini, M.]]></origin>
+        <origin><![CDATA[Meyers, T.]]></origin>
+        <origin><![CDATA[Miller, S.]]></origin>
+        <origin><![CDATA[Minach, L.]]></origin>
+        <origin><![CDATA[Minerbi, S.]]></origin>
+        <origin><![CDATA[Moncrieff, J.]]></origin>
+        <origin><![CDATA[Monson, R.]]></origin>
+        <origin><![CDATA[Moore, K.]]></origin>
+        <origin><![CDATA[Moore, T.]]></origin>
+        <origin><![CDATA[Moors, E.]]></origin>
+        <origin><![CDATA[Morgenstern, K.]]></origin>
+        <origin><![CDATA[Mugnozza, G.]]></origin>
+        <origin><![CDATA[Mulholland, P.]]></origin>
+        <origin><![CDATA[Munger, J.]]></origin>
+        <origin><![CDATA[Nikinmaa, E.]]></origin>
+        <origin><![CDATA[Nobre, A.]]></origin>
+        <origin><![CDATA[Novak, M.]]></origin>
+        <origin><![CDATA[Oberbauer, S.]]></origin>
+        <origin><![CDATA[Oechel, W.]]></origin>
+        <origin><![CDATA[Ohno, H. ]]></origin>
+        <origin><![CDATA[Oren, R.]]></origin>
+        <origin><![CDATA[Owensby, C.]]></origin>
+        <origin><![CDATA[Pallardy, S.]]></origin>
+        <origin><![CDATA[Park, E. W.]]></origin>
+        <origin><![CDATA[Parker, G.]]></origin>
+        <origin><![CDATA[Paw U, K.]]></origin>
+        <origin><![CDATA[Pekour, M.]]></origin>
+        <origin><![CDATA[Pereira, J.]]></origin>
+        <origin><![CDATA[Pilegaard, K.]]></origin>
+        <origin><![CDATA[Pita, G.]]></origin>
+        <origin><![CDATA[Pohja, T.]]></origin>
+        <origin><![CDATA[Ponti, F. ]]></origin>
+        <origin><![CDATA[Potvin, C.]]></origin>
+        <origin><![CDATA[Powell, T.]]></origin>
+        <origin><![CDATA[Pregitzer, K.]]></origin>
+        <origin><![CDATA[Pryor, S.]]></origin>
+        <origin><![CDATA[Rambal, S.]]></origin>
+        <origin><![CDATA[Randerson, J.]]></origin>
+        <origin><![CDATA[Randolph, J. C.]]></origin>
+        <origin><![CDATA[Rice, C.]]></origin>
+        <origin><![CDATA[Roulet, N.]]></origin>
+        <origin><![CDATA[Sanz, M.]]></origin>
+        <origin><![CDATA[Schmid, H.]]></origin>
+        <origin><![CDATA[Schoettle, A.]]></origin>
+        <origin><![CDATA[Schroeder, M.]]></origin>
+        <origin><![CDATA[Schulze, E.]]></origin>
+        <origin><![CDATA[Scott, R.]]></origin>
+        <origin><![CDATA[Seufert, G.]]></origin>
+        <origin><![CDATA[Smith, W.]]></origin>
+        <origin><![CDATA[Starr, G.]]></origin>
+        <origin><![CDATA[Su, H.]]></origin>
+        <origin><![CDATA[Suchanek, T.]]></origin>
+        <origin><![CDATA[Tanaka, Y.]]></origin>
+        <origin><![CDATA[Tapper, N.]]></origin>
+        <origin><![CDATA[Teclaw, R.]]></origin>
+        <origin><![CDATA[Tenhunen, J.]]></origin>
+        <origin><![CDATA[Torn, M.]]></origin>
+        <origin><![CDATA[Tu, K.]]></origin>
+        <origin><![CDATA[Turnipseed, A.]]></origin>
+        <origin><![CDATA[Turton, S.]]></origin>
+        <origin><![CDATA[Ustin, S.]]></origin>
+        <origin><![CDATA[Vaccari, F.]]></origin>
+        <origin><![CDATA[Valentini, R.]]></origin>
+        <origin><![CDATA[Veldkamp, E.]]></origin>
+        <origin><![CDATA[Verfaillie, J. Jr.]]></origin>
+        <origin><![CDATA[Verma, S.]]></origin>
+        <origin><![CDATA[Vesala, T.]]></origin>
+        <origin><![CDATA[Vickers, D.]]></origin>
+        <origin><![CDATA[Vogel, C.]]></origin>
+        <origin><![CDATA[Vourlitis, G.]]></origin>
+        <origin><![CDATA[Wang, W.]]></origin>
+        <origin><![CDATA[Wofsy, S.]]></origin>
+        <origin><![CDATA[Wohland, P.]]></origin>
+        <origin><![CDATA[Wohlfahrt, G.]]></origin>
+        <origin><![CDATA[Wolski, P.]]></origin>
+        <origin><![CDATA[Wong, C.]]></origin>
+        <origin><![CDATA[Wullschleger, S.]]></origin>
+        <origin><![CDATA[Yakir, D.]]></origin>
+        <origin><![CDATA[Yamamoto, S.]]></origin>
+        <origin><![CDATA[Yi, C.]]></origin>
+        <origin><![CDATA[Zulueta, R.]]></origin>
+        <title><![CDATA[MODIS ASCII Subsets]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://www.modis.ornl.gov/modis/modis2.cfm]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[MODIS ASCII Subsets]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19870101]]></begdate>
+          <enddate><![CDATA[20051231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[MODIS]]></themekey>
+        <themekey><![CDATA[ASCII]]></themekey>
+        <themekey><![CDATA[Subset]]></themekey>
+        <themekey><![CDATA[AmeriFlux]]></themekey>
+        <themekey><![CDATA[Satellite]]></themekey>
+        <themekey><![CDATA[Data]]></themekey>
+        <themekey><![CDATA[Land Products]]></themekey>
+        <themekey><![CDATA[flux towers]]></themekey>
+        <themekey><![CDATA[field sites]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050809 163000</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 163000 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[MODIS]]></Keywords>
+    <Keywords><![CDATA[ASCII]]></Keywords>
+    <Keywords><![CDATA[Subset]]></Keywords>
+    <Keywords><![CDATA[AmeriFlux]]></Keywords>
+    <Keywords><![CDATA[Satellite]]></Keywords>
+    <Keywords><![CDATA[Data]]></Keywords>
+    <Keywords><![CDATA[Land Products]]></Keywords>
+    <Keywords><![CDATA[flux towers]]></Keywords>
+    <Keywords><![CDATA[field sites]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 163000 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[MODIS/AmeriFlux]]></Product_number>
+      <Product_title><![CDATA[MODIS ASCII Subsets]]></Product_title>
+      <Author>
+        <Name><![CDATA[Altimir, N.]]></Name>
+        <Company><![CDATA[University of Helsinki]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Anderson, D.]]></Name>
+        <Company><![CDATA[U.S. Geological Survey]]></Company>
+        <Organization><![CDATA[Water Resources Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Anthoni, P.]]></Name>
+        <Company><![CDATA[Max-Plank-Institute for Biochemistry]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Arneth, A.]]></Name>
+        <Company><![CDATA[Lund University]]></Company>
+        <Organization><![CDATA[Department of Physical Geography and Ecosystems Analysis]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Aubinet, M.]]></Name>
+        <Company><![CDATA[University of Gembloux]]></Company>
+        <Organization><![CDATA[Department of Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bakwin, P.]]></Name>
+        <Company><![CDATA[NOAA/OAR R/CMDL1]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Lab]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Baldocchi, D.]]></Name>
+        <Company><![CDATA[University of California - Berkeley]]></Company>
+        <Organization><![CDATA[Berkeley Atmospheric Science Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Barcza, Z.]]></Name>
+        <Company><![CDATA[Eotvos Lorand University]]></Company>
+        <Organization><![CDATA[Department of Meteorology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Barr, A.]]></Name>
+        <Company><![CDATA[Meteorological Service of Canada Climate Research]]></Company>
+        <Organization><![CDATA[Branch 11]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Barthelmie, R.]]></Name>
+        <Company><![CDATA[Indiana University]]></Company>
+        <Organization><![CDATA[Climate and Meteorology Program, Department of Geography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Berbigier, P.]]></Name>
+        <Company><![CDATA[INRA Centre de Bordeaux]]></Company>
+        <Organization><![CDATA[Unite de Bioclimatologie]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Beringer, J.]]></Name>
+        <Company><![CDATA[Monash University]]></Company>
+        <Organization><![CDATA[School of Geography and Environmental Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bernhofer, C.]]></Name>
+        <Company><![CDATA[IHM Technical University]]></Company>
+        <Organization><![CDATA[Dresden Department of Meteorology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Billesbach, D.]]></Name>
+        <Company><![CDATA[University of Nebraska]]></Company>
+        <Organization><![CDATA[Department of Biological Systems Engineering]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Black, T.]]></Name>
+        <Company><![CDATA[University of British Columbia]]></Company>
+        <Organization><![CDATA[Faculty of Agricultural Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Blair, J.]]></Name>
+        <Company><![CDATA[Kansas State University]]></Company>
+        <Organization><![CDATA[Division of Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Boehm, J.]]></Name>
+        <Company><![CDATA[Swiss Federal Institute of Forest]]></Company>
+        <Organization><![CDATA[Snow and Landscape Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bolstad, P. ]]></Name>
+        <Company><![CDATA[University of Minnesota]]></Company>
+        <Organization><![CDATA[Department of Forest Resources]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bourque, C.]]></Name>
+        <Company><![CDATA[University of New Brunswick]]></Company>
+        <Organization><![CDATA[Forestry and Environmental Management]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bowling, D.]]></Name>
+        <Company><![CDATA[University of Utah]]></Company>
+        <Organization><![CDATA[Department of Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Buchmann, N.]]></Name>
+        <Company><![CDATA[Institute of Plant Sciences]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Carrara, A.]]></Name>
+        <Company><![CDATA[Fundacion CEAM]]></Company>
+        <Organization><![CDATA[Parque Tecnologico]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Cernusca, A.]]></Name>
+        <Company><![CDATA[University of Innsbruck]]></Company>
+        <Organization><![CDATA[Institute of Botany]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Cescatti, A.]]></Name>
+        <Company><![CDATA[Centro di Ecologia Alpina]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ceulemans, R.]]></Name>
+        <Company><![CDATA[University of Antwerpen]]></Company>
+        <Organization><![CDATA[Department of Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Chen, J.]]></Name>
+        <Company><![CDATA[University of Toledo]]></Company>
+        <Organization><![CDATA[Earth, Ecological and Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Choi, B.]]></Name>
+        <Company><![CDATA[Meteorological Research Institute]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Clark, D. A.]]></Name>
+        <Company><![CDATA[Le Selva]]></Company>
+        <Organization><![CDATA[Biological Station]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Clark, D. B.]]></Name>
+        <Company><![CDATA[Le Selva]]></Company>
+        <Organization><![CDATA[Biological Station]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Clark, K.]]></Name>
+        <Company><![CDATA[USDA Forest Service]]></Company>
+        <Organization><![CDATA[Silas Little Experimental Forest]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Cook, B.]]></Name>
+        <Company><![CDATA[University of Minnesotta]]></Company>
+        <Organization><![CDATA[Department of Forest Resources]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Cook, D.]]></Name>
+        <Company><![CDATA[Argonne National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Research Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Correll, D.]]></Name>
+        <Company><![CDATA[Smithsonian Environmental Research Center]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Coulter, R.]]></Name>
+        <Company><![CDATA[Argonne National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Research Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Coyea, M.]]></Name>
+        <Company><![CDATA[Universite Laval Centre de Recherche en Biologie Forestiere]]></Company>
+        <Organization><![CDATA[Faculte de Foresterie et de Geomatique]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Crill, P.]]></Name>
+        <Company><![CDATA[University of New Hampshire Institute EOS]]></Company>
+        <Organization><![CDATA[Complex Systems Resarch Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Curiel-Yuste, J.]]></Name>
+        <Company><![CDATA[University of Antwerpen]]></Company>
+        <Organization><![CDATA[Department of Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Curtis, P.]]></Name>
+        <Company><![CDATA[Ohio State University]]></Company>
+        <Organization><![CDATA[Department of Evolution, Ecology, and Organismal Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[da Rocha, H.]]></Name>
+        <Company><![CDATA[University of Sao Paulo]]></Company>
+        <Organization><![CDATA[Department of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Davidson, E.]]></Name>
+        <Company><![CDATA[The Woods Hole Research Center]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Davis, K.]]></Name>
+        <Company><![CDATA[Pennsylvania State University]]></Company>
+        <Organization><![CDATA[Department of Meteorology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[de Costa, J.]]></Name>
+        <Company><![CDATA[Federal University of Vicosa]]></Company>
+        <Organization><![CDATA[Agricultural and Environmental Engineering]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Deering, D.]]></Name>
+        <Company><![CDATA[NASA_Goddard Space Flight Center]]></Company>
+        <Organization><![CDATA[Biospheric Sciences Branch]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Desai, A.]]></Name>
+        <Company><![CDATA[Pennsylvania State University]]></Company>
+        <Organization><![CDATA[Department of Meteorology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Dolman, H.]]></Name>
+        <Company><![CDATA[Free University Amsterdam]]></Company>
+        <Organization><![CDATA[Department of Geo-Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Dore, S.]]></Name>
+        <Company><![CDATA[Universita della Tuscia Via S. Camillo De Lellis]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Drake, B.]]></Name>
+        <Company><![CDATA[Smithsonian Environmental Research Center]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Duan, B.]]></Name>
+        <Company><![CDATA[U.S. Geological Survey]]></Company>
+        <Organization><![CDATA[Water Resource Division (WRD)]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Elbers, J.]]></Name>
+        <Company><![CDATA[Alterra Green World Research]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ellsworth, D.]]></Name>
+        <Company><![CDATA[University of Michigan]]></Company>
+        <Organization><![CDATA[School of Natural Resources and Environment]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Euskirchen, E.]]></Name>
+        <Company><![CDATA[Michigan Technological University]]></Company>
+        <Organization><![CDATA[School of Forestry]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Evans, B.]]></Name>
+        <Company><![CDATA[USDA Forest Service]]></Company>
+        <Organization><![CDATA[Northeastern Forest Exp. Station]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Falge, E.]]></Name>
+        <Company><![CDATA[Bayreuth University]]></Company>
+        <Organization><![CDATA[Plant Ecology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Falk, M.]]></Name>
+        <Company><![CDATA[University of California - Berkeley]]></Company>
+        <Organization><![CDATA[Department of Environmental Science, Policy, and Management]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Field, C.]]></Name>
+        <Company><![CDATA[Carnegie Institution of Washington]]></Company>
+        <Organization><![CDATA[Department of Global Ecology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Fischer, M.]]></Name>
+        <Company><![CDATA[Lawrence Berkeley National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Energy Technologies Division, Atmospheric Science Department]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Fitzjarrald, D.]]></Name>
+        <Company><![CDATA[State University of New York]]></Company>
+        <Organization><![CDATA[Albany Atmospheric Science Research Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Flanagan, L. ]]></Name>
+        <Company><![CDATA[University of Lethbridge]]></Company>
+        <Organization><![CDATA[Department of Biological Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Foken, T.]]></Name>
+        <Company><![CDATA[University of Bayreuth]]></Company>
+        <Organization><![CDATA[Department of Micrometeorology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Georgiadis, T.]]></Name>
+        <Company><![CDATA[CNR - Institute of Atmospheric and Oceanic Sciences (ISAO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Gholz, H.]]></Name>
+        <Company><![CDATA[National Science Foundation]]></Company>
+        <Organization><![CDATA[Long-Term Ecological Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Glodstein, A.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Berkeley Environmental Science, Policy, and Management]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Goltz, M.]]></Name>
+        <Company><![CDATA[University of Maine]]></Company>
+        <Organization><![CDATA[Department of Plant, Soil, and Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Goulden, M.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Irvine Earh System Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Grace, J.]]></Name>
+        <Company><![CDATA[University of Edinburgh]]></Company>
+        <Organization><![CDATA[Institute of Ecology and Resource]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Granier, A.]]></Name>
+        <Company><![CDATA[Institute Nationale de la Recherche Agronomique]]></Company>
+        <Organization><![CDATA[Unite Ecophysiologie Forestieres Centre de Nancy Champenoux]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Grelle, A.]]></Name>
+        <Company><![CDATA[Swedish University of Agricultural Sciences]]></Company>
+        <Organization><![CDATA[Department of Ecology and Environmental Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Grimmond, S.]]></Name>
+        <Company><![CDATA[Indiana University]]></Company>
+        <Organization><![CDATA[Atmospheric Science Program, Geography Department]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Gu, L.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Guenther, A.]]></Name>
+        <Company><![CDATA[National Center for Atmospheric Research]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Chemistry]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Haesler, R.]]></Name>
+        <Company><![CDATA[Swiss Federal Resarch Institute]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ham, J.]]></Name>
+        <Company><![CDATA[Kansas State University]]></Company>
+        <Organization><![CDATA[Department of Agronomy]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hanan, N.]]></Name>
+        <Company><![CDATA[Colorado State University]]></Company>
+        <Organization><![CDATA[Natual Resource Ecology Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hanson, P.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hao, Y.]]></Name>
+        <Company><![CDATA[Lab of Remote Sensing Information Sciences]]></Company>
+        <Organization><![CDATA[Institute of Remote Sensing Applications, Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Harding, R.]]></Name>
+        <Company><![CDATA[Centre for Ecology and Hydrology]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hardley, J.]]></Name>
+        <Company><![CDATA[Harvard University]]></Company>
+        <Organization><![CDATA[Harvard Forest]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hari, P.]]></Name>
+        <Company><![CDATA[University of Helsinki]]></Company>
+        <Organization><![CDATA[Department of Forest Ecology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Haszpra, L.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hayashi, T.]]></Name>
+        <Company><![CDATA[University of Kyoto]]></Company>
+        <Organization><![CDATA[Disaster Prevention Research Institute]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hehn, T.]]></Name>
+        <Company><![CDATA[University of California - Berkeley]]></Company>
+        <Organization><![CDATA[Ecosystem Science Division, Department of Environmental Science, Policy, and Management]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Heimann, M.]]></Name>
+        <Company><![CDATA[Max-Planck-Institute for Biogeochemistry]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hinkle, R.]]></Name>
+        <Company><![CDATA[Kennedy Space Center]]></Company>
+        <Organization><![CDATA[Dynamac Corporation]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hipps, L.]]></Name>
+        <Company><![CDATA[Utah State University]]></Company>
+        <Organization><![CDATA[Department of Plants, Soils and Biometeorology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hollinger, D.]]></Name>
+        <Company><![CDATA[USDA Forest Service]]></Company>
+        <Organization><![CDATA[Northeastern Forest Exp. Station]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Huete, R.]]></Name>
+        <Company><![CDATA[University of Arizona]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hutley, L.]]></Name>
+        <Company><![CDATA[Charles Darwin University]]></Company>
+        <Organization><![CDATA[Faculty of Education, Health and Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ilvesniemi, H.]]></Name>
+        <Company><![CDATA[University of Helsinki]]></Company>
+        <Organization><![CDATA[ Department of Forest Ecology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Irvine, J.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization><![CDATA[Department of Forest Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ivans, S.]]></Name>
+        <Company><![CDATA[Campbell Scientific, Inc.]]></Company>
+        <Organization><![CDATA[Applications Engineer]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Janous, D.]]></Name>
+        <Company><![CDATA[ILE Academy of Sciences]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jans, W.]]></Name>
+        <Company><![CDATA[Alterra Green World Research]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Janssens, I.]]></Name>
+        <Company><![CDATA[University of Antwerpen]]></Company>
+        <Organization><![CDATA[Department of Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jarvis, P.]]></Name>
+        <Company><![CDATA[University of Edinburgh]]></Company>
+        <Organization><![CDATA[Institute of Ecology and Resource]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jensen, N.]]></Name>
+        <Company><![CDATA[Riso National Lab]]></Company>
+        <Organization><![CDATA[Department of Meteorology and Wind Energy]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Johnson, D.]]></Name>
+        <Company><![CDATA[Kennedy Space Center]]></Company>
+        <Organization><![CDATA[Smithsonian CO2 Site]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Johnson, L.]]></Name>
+        <Company><![CDATA[Kansas State University]]></Company>
+        <Organization><![CDATA[Division of Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Joyce, L.]]></Name>
+        <Company><![CDATA[USDA Forest Service]]></Company>
+        <Organization><![CDATA[Rocky Mountain Resarch Station]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Justice, C.]]></Name>
+        <Company><![CDATA[NASA - Goddard Space Flight Center]]></Company>
+        <Organization><![CDATA[Biospheric Sciences Branch]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Katul, G.]]></Name>
+        <Company><![CDATA[Duke University]]></Company>
+        <Organization><![CDATA[School of the Environment]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Keronen, P.]]></Name>
+        <Company><![CDATA[University of Helsinki]]></Company>
+        <Organization><![CDATA[Department of Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kiang, N.]]></Name>
+        <Company><![CDATA[NASA Goddard Institute for Space Studies Columbia University]]></Company>
+        <Organization><![CDATA[Center for Climate Systems Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kim, W.]]></Name>
+        <Company><![CDATA[Yonsei University]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Knapp, A.]]></Name>
+        <Company><![CDATA[Kansas State University]]></Company>
+        <Organization><![CDATA[Division of Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Knohl, A.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[ESPM Department]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Korol, R.]]></Name>
+        <Company><![CDATA[Rocky Mountain Research Station]]></Company>
+        <Organization><![CDATA[Forest Sciences Lab]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kowalski, A.]]></Name>
+        <Company><![CDATA[Universidad de Granada Contratado Ramon y Cajal]]></Company>
+        <Organization><![CDATA[Departmento de Fisca Aplicada]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kruijt, B.]]></Name>
+        <Company><![CDATA[Alterra Green World Research]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kulmala, M.]]></Name>
+        <Company><![CDATA[University of Helsinki]]></Company>
+        <Organization><![CDATA[Department of Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lafleur, P.]]></Name>
+        <Company><![CDATA[Trent University]]></Company>
+        <Organization><![CDATA[Department of Geography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Laubach, J.]]></Name>
+        <Company><![CDATA[Manaaki Whenua Landcare Research]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Laurila, T.]]></Name>
+        <Company><![CDATA[Finnish Meteorological Institute]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Law, B.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization><![CDATA[College of Foestry]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Leclerc, M.]]></Name>
+        <Company><![CDATA[University of Georgia]]></Company>
+        <Organization><![CDATA[Lab for Atmospheric and Environmental Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lee, J.]]></Name>
+        <Company><![CDATA[University of Maine]]></Company>
+        <Organization><![CDATA[Department of Plant, Soil, and Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Leuning, R.]]></Name>
+        <Company><![CDATA[CSIRO Land and Water]]></Company>
+        <Organization><![CDATA[F. C. Pye Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Li, J.]]></Name>
+        <Company><![CDATA[Kennedy Space Center]]></Company>
+        <Organization><![CDATA[Smithsonian CO2 Site]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lindroth, A.]]></Name>
+        <Company><![CDATA[Lund University]]></Company>
+        <Organization><![CDATA[Solvegatan 12]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Litvak, M. ]]></Name>
+        <Company><![CDATA[University of Texas - Austin]]></Company>
+        <Organization><![CDATA[Department of Integrative Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lloyd, J.]]></Name>
+        <Company><![CDATA[Max-Planck-Institute for Biogeochemistry]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Loehrer, S.]]></Name>
+        <Company><![CDATA[University Corporation for Atmospheric Research (UCAR)]]></Company>
+        <Organization><![CDATA[Joint Office for Science Support (JOSS)]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Loescher, H.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization><![CDATA[Department of Forest Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Loustau, D.]]></Name>
+        <Company><![CDATA[INRA Bordeaux]]></Company>
+        <Organization><![CDATA[Research Unit EPHYSE]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ma, S.]]></Name>
+        <Company><![CDATA[University of California - Berkeley]]></Company>
+        <Organization><![CDATA[Department of Environmental Science, Policy, and Management]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mahrt, L.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization><![CDATA[College of Oceanic and Atmospheric Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Marek, M.]]></Name>
+        <Company><![CDATA[ILE Academy of Sciences]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Margolis, H.]]></Name>
+        <Company><![CDATA[Universite Laval Centre de Recherche en Biologie Forestiere]]></Company>
+        <Organization><![CDATA[Faculte de Foresterie et de Geomatique]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Markkanen, T.]]></Name>
+        <Company><![CDATA[University of Helsinki]]></Company>
+        <Organization><![CDATA[Department of Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Martin, T.]]></Name>
+        <Company><![CDATA[University of Florida]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Massman, W.]]></Name>
+        <Company><![CDATA[USDA Forest Service]]></Company>
+        <Organization><![CDATA[Rocky Mountain Research Station]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Matteucci, G.]]></Name>
+        <Company><![CDATA[CNR-ISAFOM Via Cavour, 4]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[McCaughey, H.]]></Name>
+        <Company><![CDATA[Queen's University]]></Company>
+        <Organization><![CDATA[Department of Geography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[McKay, M.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Berkeley Environmental Science, Policy, and Management]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mencuccini, M.]]></Name>
+        <Company><![CDATA[University of Edinburgh]]></Company>
+        <Organization><![CDATA[Department of Ecology and Environmental Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Meyers, T.]]></Name>
+        <Company><![CDATA[NOAA/ARL]]></Company>
+        <Organization><![CDATA[Atmospheric Turbulance and Diffusion Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Miller, S.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Irvine Earth System Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Minach, L.]]></Name>
+        <Company><![CDATA[Provincia Autonoma di Bolzano Servizi Forestali]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Minerbi, S.]]></Name>
+        <Company><![CDATA[Provincia Autonoma di Bolzano Servizi Forestali]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Moncrieff, J.]]></Name>
+        <Company><![CDATA[University of Edinburgh]]></Company>
+        <Organization><![CDATA[Department of Ecology and Environmental Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Monson, R.]]></Name>
+        <Company><![CDATA[University of Colorado]]></Company>
+        <Organization><![CDATA[Department of Ecology and Evolutionary Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Moore, K.]]></Name>
+        <Company><![CDATA[State University of New York]]></Company>
+        <Organization><![CDATA[Albany Atmospheric Sciences Research Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Moore, T.]]></Name>
+        <Company><![CDATA[McGill University]]></Company>
+        <Organization><![CDATA[Department of Geography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Moors, E.]]></Name>
+        <Company><![CDATA[Alterra Green World Research ]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Morgenstern, K.]]></Name>
+        <Company><![CDATA[University of British Columbia]]></Company>
+        <Organization><![CDATA[Faculty of Agricultural Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mugnozza, G.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mulholland, P.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Science Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Munger, J.]]></Name>
+        <Company><![CDATA[Harvard University]]></Company>
+        <Organization><![CDATA[Department of Earth and Planetary Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Nikinmaa, E.]]></Name>
+        <Company><![CDATA[University of Helsinki]]></Company>
+        <Organization><![CDATA[Department of Forest Ecology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Nobre, A.]]></Name>
+        <Company><![CDATA[INPA]]></Company>
+        <Organization><![CDATA[GISLAB AV. Andre]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Novak, M.]]></Name>
+        <Company><![CDATA[University of British Columbia]]></Company>
+        <Organization><![CDATA[Faculty of Agricultural Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Oberbauer, S.]]></Name>
+        <Company><![CDATA[Florida International University]]></Company>
+        <Organization><![CDATA[Department of Biological Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Oechel, W.]]></Name>
+        <Company><![CDATA[San Diego State University]]></Company>
+        <Organization><![CDATA[Biology Department]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ohno, H. ]]></Name>
+        <Company><![CDATA[Japan International Research Center for Agricultural Science]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Oren, R.]]></Name>
+        <Company><![CDATA[Duke University]]></Company>
+        <Organization><![CDATA[School of the Environment]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Owensby, C.]]></Name>
+        <Company><![CDATA[Kansas State University]]></Company>
+        <Organization><![CDATA[Department of Agronomy]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pallardy, S.]]></Name>
+        <Company><![CDATA[University of Missouri]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Park, E. W.]]></Name>
+        <Company><![CDATA[National Instrumentation Center for Environmental Management]]></Company>
+        <Organization><![CDATA[College of Agriculture and Life Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Parker, G.]]></Name>
+        <Company><![CDATA[Smithsonian Environmental Research Center]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Paw U, K.]]></Name>
+        <Company><![CDATA[University of California - Davis]]></Company>
+        <Organization><![CDATA[Department of Land, Air, and Water Resources]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pekour, M.]]></Name>
+        <Company><![CDATA[Argonne National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Research Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pereira, J.]]></Name>
+        <Company><![CDATA[Technical University of Lisbon]]></Company>
+        <Organization><![CDATA[Instituto Superior de Agronomia, Department of Forestry]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pilegaard, K.]]></Name>
+        <Company><![CDATA[Risoe National Lab]]></Company>
+        <Organization><![CDATA[Pland Biology and Biogeochemistry Department]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pita, G.]]></Name>
+        <Company><![CDATA[Instituto Superior Tecnico]]></Company>
+        <Organization><![CDATA[Department de Engenharia Mecanica]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pohja, T.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ponti, F. ]]></Name>
+        <Company><![CDATA[Universita di Bologna]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Potvin, C.]]></Name>
+        <Company><![CDATA[McGill University]]></Company>
+        <Organization><![CDATA[Department of Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Powell, T.]]></Name>
+        <Company><![CDATA[Kennedy Space Center]]></Company>
+        <Organization><![CDATA[Smithsonian CO2 Site]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pregitzer, K.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pryor, S.]]></Name>
+        <Company><![CDATA[Indiana University]]></Company>
+        <Organization><![CDATA[Atmospheric Science Program]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rambal, S.]]></Name>
+        <Company><![CDATA[CEFE/CNRS]]></Company>
+        <Organization><![CDATA[Ctr. Ecol. Fonct. and Evolution]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Randerson, J.]]></Name>
+        <Company><![CDATA[California Institute of Technology]]></Company>
+        <Organization><![CDATA[Division of Engineering and Applied Science and Geological and Planetary Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Randolph, J. C.]]></Name>
+        <Company><![CDATA[Indiana University]]></Company>
+        <Organization><![CDATA[School of Public and Environmental Affairs]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rice, C.]]></Name>
+        <Company><![CDATA[Kansas State University]]></Company>
+        <Organization><![CDATA[Department of Argonomy]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Roulet, N.]]></Name>
+        <Company><![CDATA[McGill University]]></Company>
+        <Organization><![CDATA[Department of Geography - Centre for Climate and Global Change]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sanz, M.]]></Name>
+        <Company><![CDATA[Fundacion CEAM Parque Technologico]]></Company>
+        <Organization><![CDATA[c/4 Sector Oeste Parque technologico]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schmid, H.]]></Name>
+        <Company><![CDATA[Indiana University]]></Company>
+        <Organization><![CDATA[Department of Geography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schoettle, A.]]></Name>
+        <Company><![CDATA[USDA Forest Service]]></Company>
+        <Organization><![CDATA[Rocky Mountain Research Station]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schroeder, M.]]></Name>
+        <Company><![CDATA[Wind River Canopy Crane Research Facility]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schulze, E.]]></Name>
+        <Company><![CDATA[Max-Planck Institute for Biogeochemistry]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Scott, R.]]></Name>
+        <Company><![CDATA[USDA-ARS]]></Company>
+        <Organization><![CDATA[Southwest Watershed Research Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Seufert, G.]]></Name>
+        <Company><![CDATA[JRC Environment Institute]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Smith, W.]]></Name>
+        <Company><![CDATA[Wake Forest University]]></Company>
+        <Organization><![CDATA[Department of Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Starr, G.]]></Name>
+        <Company><![CDATA[University of Florida]]></Company>
+        <Organization><![CDATA[School of Forestry Resources and Conservation]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Su, H.]]></Name>
+        <Company><![CDATA[Eastern Carolina University]]></Company>
+        <Organization><![CDATA[Department of Geography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Suchanek, T.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Division of Environmental Studies]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Tanaka, Y.]]></Name>
+        <Company><![CDATA[Hokkaido University]]></Company>
+        <Organization><![CDATA[Tomakomai Experimental Forest]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Tapper, N.]]></Name>
+        <Company><![CDATA[Monash University]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Teclaw, R.]]></Name>
+        <Company><![CDATA[USDA Forest Service]]></Company>
+        <Organization><![CDATA[Forestry Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Tenhunen, J.]]></Name>
+        <Company><![CDATA[University of Bayreuth]]></Company>
+        <Organization><![CDATA[Department of Plant Ecology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Torn, M.]]></Name>
+        <Company><![CDATA[Lawernce Berkeley National Laboratory]]></Company>
+        <Organization><![CDATA[Earth Science Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Tu, K.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Department of Integrative Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Turnipseed, A.]]></Name>
+        <Company><![CDATA[University of Colorado]]></Company>
+        <Organization><![CDATA[Department of Environmental, Population, and Organismic Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Turton, S.]]></Name>
+        <Company><![CDATA[Australia]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ustin, S.]]></Name>
+        <Company><![CDATA[University of California - Davis]]></Company>
+        <Organization><![CDATA[NIGEC/WESTGEC]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Vaccari, F.]]></Name>
+        <Company><![CDATA[Institute of Biometeorology]]></Company>
+        <Organization><![CDATA[National Research Council]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Valentini, R.]]></Name>
+        <Company><![CDATA[University of Tuscia]]></Company>
+        <Organization><![CDATA[Department of Forest Science and Resources (DISAFRI)]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Veldkamp, E.]]></Name>
+        <Company><![CDATA[Universitat Gottingen]]></Company>
+        <Organization><![CDATA[Institute of Soil Science and Forest Nutrition]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Verfaillie, J. Jr.]]></Name>
+        <Company><![CDATA[San Diego State University]]></Company>
+        <Organization><![CDATA[Global Change Research Group, Department of Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Verma, S.]]></Name>
+        <Company><![CDATA[University of Nebraska]]></Company>
+        <Organization><![CDATA[Lincoln School of Natural Resource]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Vesala, T.]]></Name>
+        <Company><![CDATA[University of Helsinki]]></Company>
+        <Organization><![CDATA[Department of Physical Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Vickers, D.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization><![CDATA[College of Oceanic and Atmospheric Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Vogel, C.]]></Name>
+        <Company><![CDATA[University of Michigan]]></Company>
+        <Organization><![CDATA[Biological Station]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Vourlitis, G.]]></Name>
+        <Company><![CDATA[California State University]]></Company>
+        <Organization><![CDATA[Biological Schiences Program]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wang, W.]]></Name>
+        <Company><![CDATA[Pennsylvania State University]]></Company>
+        <Organization><![CDATA[Department of Meteorology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wofsy, S.]]></Name>
+        <Company><![CDATA[Harvard University]]></Company>
+        <Organization><![CDATA[Division of Engineering and Applied Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wohland, P.]]></Name>
+        <Company><![CDATA[University of Leeds]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wohlfahrt, G.]]></Name>
+        <Company><![CDATA[University of Innsbruck]]></Company>
+        <Organization><![CDATA[Institute of Botany]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wolski, P.]]></Name>
+        <Company><![CDATA[Harry Oppenheimer Okavango Research Centre]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wong, C.]]></Name>
+        <Company><![CDATA[Australian National University]]></Company>
+        <Organization><![CDATA[Research School of Biological Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wullschleger, S.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Yakir, D.]]></Name>
+        <Company><![CDATA[Weizman Institute of Science]]></Company>
+        <Organization><![CDATA[Department of Environmental Sciences and Energy Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Yamamoto, S.]]></Name>
+        <Company><![CDATA[Okayama University]]></Company>
+        <Organization><![CDATA[Graduate School of Environmental Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Yi, C.]]></Name>
+        <Company><![CDATA[University of Colorado]]></Company>
+        <Organization><![CDATA[Department of Ecology, Evolutionary Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Zulueta, R.]]></Name>
+        <Company><![CDATA[San Diego State University]]></Company>
+        <Organization><![CDATA[Global Change Research Group, Department of Biology]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[MODIS/AmeriFlux Satellite Data]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Australia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=au.howardsprings.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=au.uardry.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=au.mackay.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=au.tinga.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=au.tumbarumba.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=au.virginiapark.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=au.janina.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=au.daintree.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Austria]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=at.zobelboden.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=at.neustift.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Belgium]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=be.braschaat.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=be.vielsalm.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Botswana]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=bw.maun.02]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=bw.pandamatenga.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=bw.ghanzi.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=bw.tshane.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=bw.maun.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Brazil]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=br.braganca.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=br.jiparana_towerb.02]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=br.jiparana_pasture.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=br.jiparana_towera.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=br.manaus_zf2km14.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=br.manaus_zf2km34.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=br.matogrosso_sinop.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=br.santarem_km77_pasture.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=br.santarem_forest.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=br.santarem_km83_loggedforest.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.campbell_river_cut.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.aspen3.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.aspen2.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.aspen1.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.ssa_youngaspen.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.ssa_fen.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.ssa_yngjackpine.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.nsa_burn_1981.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.nsa_yngjackpine.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.nsa_fenpond.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.charlie1.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.campbell_river_yng.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.nsa_burn_1998.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.campbell_river.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.nashwaak1.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.quebeccutover.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.quebecforest.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.groundhogriver.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.westernpeatland.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.acadia9.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.aspen4.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.charlie3.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.nsa_oldjackpine.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.ssa_fire_1989.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.ssa_jackpine_1994.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.newellcounty.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.oldaspen.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.acadia16.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.ssa_jackpine_2002.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.aspen5.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.nsa_burn_1989.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.ssa_fire_1998.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.oldblackspruce.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.oldjackpine.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.nsa_burn_1930.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.manitoba.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.annapolis.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.aspen6.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.aspen7.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.aspen8.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.nsa_burn_1964.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.kejimkujil.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.lethbridge.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.mer_bleue.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.nashwaak2.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ca.indianhead.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Central African Republic]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=cf.rac.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=cf.ngotto_forest.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=cn.dunhuang.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=cn.suchow.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Costa Rica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=cr.la_selva.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cote D'Ivoire]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ci.lamto.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Czech Republic]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=cz.bilykriz.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Denmark]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.dye2.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.sm2.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.saddle.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.summit.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.jar1.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.store_ebberup.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.swissc.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.sdome.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.jar2.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.craw2.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.soro_hardwood.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=dk.crawf1.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Egypt]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=eg.nile_delta.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Estonia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ee.vilsandi.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ee.toravere.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ee.saarejarve.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ee.lahemaa.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Finland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=fi.jokionen.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=fi.matorova.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=fi.peatland.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=fi.hyytiala.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=fi.sodankyla.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=fi.kaamanen.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[France]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=fr.hesse.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=fr.bordeaux.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=fr.puechabon.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Germany]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=de.wetzstein.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=de.weidenbrunnen.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=de.tharandt.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=de.leinefelde.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=de.gebesee.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=de.hainich_park.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=de.grillenburg.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hungary]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=hu.orgavany.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=hu.hegyhatsal.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Israel]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=il.yatir.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Italy]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.rocca.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.novara.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.po_valley.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.rocca.02]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.collelongo.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.castelporziano.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.bolzano_renon.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.lavarone.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.canarazzo.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.nonantola.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.san_rossore.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=it.pianosa.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Japan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=jp.shionomisaki.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=jp.takayama.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=jp.tomakomai.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=jp.tateno.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Korea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=kr.hallasan.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=kr.suwon.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=kr.kwangnung_coniferous.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=kr.jumbongsan.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Libya]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ly.libya3.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mexico]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=mx.lapaz.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mongolia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=mn.mandalgovi.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=mn.arvaikheer.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Netherlands]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=nl.loobos.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Niger]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ne.hapex_sahel.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Panama]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=pa.sardinilla_pasture.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=pa.sardinilla_plantation.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Portugal]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=pt.evora.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=pt.espirra.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Russia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ru.chukotka.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ru.yakutsk_pine.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ru.ubsu_nur_hak2.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ru.krasnoyarsk.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ru.ubsu_nur_hak1.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ru.yakutsk_larch.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Saudi Arabia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=sa.arabia1.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Senegal]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=sn.dahranorth.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=sn.dahrasouth.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=sn.tessekrenorth.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=sn.tessekresouth.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Africa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=za.kruger_skukuza.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Spain]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=es.elsaler.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sweden]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=se.norunda.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=se.flakaliden.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Switzerland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.othmarsingen.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.neunkirch.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.nationalpark.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.alptal.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.lausanne.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.davos.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.schanis.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.novaggio.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.payerne.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.beatenberg.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.bettlachstock.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.seehornwald.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.celerina.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ch.vordemwald.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Thailand]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=th.mixedvegetation.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Turkey]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=tr.ovacik.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=tr.guzelyayla.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=uk.griffin.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=uk.tadham_moor.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=uk.aliceholt.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=uk.harwood.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=uk.wytham.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=uk.moorhouse.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=uk.bartonbendish.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Alaska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.prudhoe.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.bonanza87.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.bonanza94.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.bonanzadftb.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.atqasuk.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.barrow.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Arizona]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.audubon.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.az_kendall_grassland.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.maricopa.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.az_luckyhills_shrub.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.sanpedro.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.az_lewissprings_mesquite.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: California]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.blodgett_forest.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.jasper_ridge.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.sky_oaks_old.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.sky_oaks_yng.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.tonzi.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.vaira_ranch.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.mammtn.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Colorado]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.niwot_ridge.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.boulder.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.saddle.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.soddie.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.niwot_ridge.02]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Florida]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.slash_pine_mid_burn.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.slash_pine_clear.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.ksc_pine_flatwoods.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.slash_longleaf_regen.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.slash_pine_mid.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.cypress_bald.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.ksc_scruboak.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Georgia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.ftbenning.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Illinois]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.bondville.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.pplain.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Indiana]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.morganmonroe.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Kansas]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.ks_rannellsranch.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.konza.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.walnut_river.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.ks_rannellsranch.02]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Massachusetts]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.harvard_forest.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Maryland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.beltsville.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.md_baltimore.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.serc.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Maine]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.howland.02]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.howland.03]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.howland.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Michigan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.no_mich_sylvania.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.umbs.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.no_mich_jackpine.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Missouri]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.moozark.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Mississippi]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.goodwin_creek.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Montana]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.fort_peck.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: North Carolina]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.coweeta.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.duke_loblolly.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.duke_hardwoods.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.duke_grassyfield.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Nebraska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.mead_maize_soybean_rainfed.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.mead_maize_soybean_irrigated.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.mead_maize.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: New Jersey]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.nj_cedarbridge.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: New Mexico]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.sevilleta.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.jornada.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.whitesands.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.sevilleta.02]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Nevada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.laketahoe.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.ivanpah.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.railroadvalley.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Oklahoma]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.lamont.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.little_washita.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Oregon]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.metolius_int.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.metolius_old.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.metolius_yng.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.juniper.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.andrews.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Pennsylvania]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.allegheny.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.pircpa.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.pennstate.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: South Dakota]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.blackhills_sd_ponderosa.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Tennessee]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.walker_branch.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.chestnut_ridge.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Utah]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.rushvalley_juniper.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.rushvalley_wheatgrass.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.rushvalley_sagebrush.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Virginia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.coast.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Washington]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.wind_river.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Wisconsin]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.park_falls.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.milwaukee.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.ntlakes.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.willow_creek.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.lost_creek.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: West Virginia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.canaan_valley.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA: Wyoming]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.glacierlake.01]]></Site_data_file>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=us.northernplains.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Zambia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=zm.mongu.01]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Nigeria]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.modis.ornl.gov/modis/webpage2url.cfm?KEYID=ng.nigeria.01]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Savanas]]></Variable>
+      <Variable><![CDATA[Grasslands]]></Variable>
+      <Variable><![CDATA[Woody Savannas]]></Variable>
+      <Variable><![CDATA[Cropland/natural vegetation mosaic]]></Variable>
+      <Variable><![CDATA[Mixed Forest]]></Variable>
+      <Variable><![CDATA[Deciduous broadleaf]]></Variable>
+      <Variable><![CDATA[Evergreen needleleaf forest]]></Variable>
+      <Variable><![CDATA[Croplands]]></Variable>
+      <Variable><![CDATA[Barren or sparsely vegetated]]></Variable>
+      <Variable><![CDATA[Open shrublands]]></Variable>
+      <Variable><![CDATA[Closed shrublands]]></Variable>
+      <Variable><![CDATA[Urban and built-up]]></Variable>
+      <Variable><![CDATA[Deciduous needleleaf]]></Variable>
+      <Variable><![CDATA[Permanent Wetlands]]></Variable>
+      <Variable><![CDATA[Snow and Ice]]></Variable>
+      <Variable><![CDATA[Water Bodies]]></Variable>
+      <Variable><![CDATA[Evergreen Broadleaf Forest]]></Variable>
+      <Descriptive_file><![CDATA[http://www.modis.ornl.gov/modis/index.cfm]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20041104]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://www.modis.ornl.gov/modis/modis2.cfm]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  The goal of the MODIS ASCII Subset activity is to prepare summaries of selected MODIS Land Products for the community to use for validation of models and remote sensing products and to characterize field sites. The ASCII Subsets are pixel values of land products for a 7-km x 7-km area centered on flux towers or field sites from around the world.
+<br><br>
+  The objective of the MODIS ASCII Subset project is to provide data in support of validation of models or remote sensing products for selected FLUXNET or field sites. The MODIS ASCII Subset project was designed to prepare and distribute selected MODIS products that were reformatted to facilitate use and interpretation in small-scale (<7 km) studies (e.g., validation).
+<br><br>
+MODIS Contact information:
+  Phone: +1 (865)241-3952
+  Email: ornldaac@ornl.gov]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

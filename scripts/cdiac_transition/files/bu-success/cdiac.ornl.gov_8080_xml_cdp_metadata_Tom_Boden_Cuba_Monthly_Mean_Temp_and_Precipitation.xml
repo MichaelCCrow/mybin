@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Diaz, L. R. N.]]></origin>
+        <origin><![CDATA[Centella, L. A.]]></origin>
+        <title><![CDATA[Database of Monthly Mean Temperatures and Precipitation for Cuba (1951 - 1994)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Cuba_Monthly_Mean_Temp_and_Precipitation.xml]]></onlink>
+        <onlink><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Database of Monthly Mean Temperatures and Precipitation for Cuba (1951 - 1994)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19510101]]></begdate>
+          <enddate><![CDATA[19941231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Cuba]]></themekey>
+        <themekey><![CDATA[Mean Monthly Maximum Temperature]]></themekey>
+        <themekey><![CDATA[Mean Monthly Minimum Temperature]]></themekey>
+        <themekey><![CDATA[Average Monthly Precipitation]]></themekey>
+        <themekey><![CDATA[Rain]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 134420</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 155045 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Cuba]]></Keywords>
+    <Keywords><![CDATA[Mean Monthly Maximum Temperature]]></Keywords>
+    <Keywords><![CDATA[Mean Monthly Minimum Temperature]]></Keywords>
+    <Keywords><![CDATA[Average Monthly Precipitation]]></Keywords>
+    <Keywords><![CDATA[Rain]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 155045 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Cuba_Monthly_Mean_Temp_and_Precipitation.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[Cuba_Monthly_Temp_&amp;_Precip]]></Product_number>
+      <Product_title><![CDATA[Database of Monthly Mean Temperatures and Precipitation for Cuba (1951 - 1994)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Diaz, L. R. N.]]></Name>
+        <Company><![CDATA[Centro Meteorologico Matanzas]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Centella, L. A.]]></Name>
+        <Company><![CDATA[Centro Nacional del Clima]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Cuba's Monthly Mean Temperature and Precipitation]]></Thematic_area>
+      <Thematic_area><![CDATA[Clim_offline]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Cabo de San Antonio, Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Caibarin, Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Camag'y, Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Casablanca, Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[El Yab (Sta. Clara), Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Paso Real de San Diego, Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Punta de Maisi, Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Punta Lucrecia, Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[San Juan y Martinez, Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sancti Spiritus, Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Santiago de Cuba (Univ.), Cuba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/RAIN]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/TEMP]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Location]]></Variable>
+      <Variable><![CDATA[Station Number]]></Variable>
+      <Variable><![CDATA[Latitude]]></Variable>
+      <Variable><![CDATA[Longitude]]></Variable>
+      <Variable><![CDATA[Precipitation]]></Variable>
+      <Variable><![CDATA[Temperature]]></Variable>
+      <Descriptive_file><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/README.TXT]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19510101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19941231]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/hoss/data2/tab/Cuba_Temp_Precip/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

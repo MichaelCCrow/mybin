@@ -1,0 +1,41 @@
+#!/bin/bash
+
+welcomemessage() {
+    echo
+    echo "######################"
+    echo "# Custom MCC Command #"
+    echo "######################"
+    echo
+}
+
+one() {
+    echo "here is one"
+}
+
+two() {
+    echo "two is here"
+}
+
+args() {
+    printf "%s" options:
+    while getopts a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z: OPTION "$@"; do
+        printf " -%s '%s'" $OPTION $OPTARG
+    done
+    shift $((OPTIND - 1))
+    printf "arg: '%s'" "$@"
+    echo
+}
+
+if [[ $1 =~ ^(one|two|args)$ ]]; then
+    "$@"
+else
+    if [ $# -eq 0 ]; then
+        welcomemessage
+        echo -e "\n###############\n"
+        echo -e "Usage:\nArguments: one, two, args\n"
+        echo
+    else
+        echo "Invalid command $1" >&2
+    fi
+    exit 1
+fi

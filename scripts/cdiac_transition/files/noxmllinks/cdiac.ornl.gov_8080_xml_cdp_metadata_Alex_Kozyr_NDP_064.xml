@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Sabine, C. L.]]></origin>
+        <origin><![CDATA[Key, R. M.]]></origin>
+        <title><![CDATA[Surface Water and Atmospheric Underway Carbon Data Obtained During the World Ocean Circulation Experiment Indian Ocean Survey Cruises (R/V Knorr, December 1994 - January 1996)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Surface Water and Atmospheric Underway Carbon Data Obtained During the World Ocean Circulation Experiment Indian Ocean Survey Cruises (R/V Knorr, December 1994 - January 1996)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19941201]]></begdate>
+          <enddate><![CDATA[19960121]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[30.3201]]></westbc>
+        <eastbc><![CDATA[116.609]]></eastbc>
+        <northbc><![CDATA[26.415]]></northbc>
+        <southbc><![CDATA[-64.874]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[sea surface salinity]]></themekey>
+        <themekey><![CDATA[sea surface temperature]]></themekey>
+        <themekey><![CDATA[surface water ]]></themekey>
+        <themekey><![CDATA[atmospheric mole fraction ]]></themekey>
+        <themekey><![CDATA[carbon dioxide ]]></themekey>
+        <themekey><![CDATA[(xCO2)]]></themekey>
+        <themekey><![CDATA[Princeton University]]></themekey>
+        <themekey><![CDATA[surface water ]]></themekey>
+        <themekey><![CDATA[atmospheric underway carbon data ]]></themekey>
+        <themekey><![CDATA[World Ocean Circulation Experiment ]]></themekey>
+        <themekey><![CDATA[WOCE]]></themekey>
+        <themekey><![CDATA[Indian Ocean ]]></themekey>
+        <themekey><![CDATA[survey cruise ]]></themekey>
+        <themekey><![CDATA[R/V Knorr]]></themekey>
+        <themekey><![CDATA[NDP-064]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 123714</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 145404 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[sea surface salinity]]></Keywords>
+    <Keywords><![CDATA[sea surface temperature]]></Keywords>
+    <Keywords><![CDATA[surface water ]]></Keywords>
+    <Keywords><![CDATA[atmospheric mole fraction ]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide ]]></Keywords>
+    <Keywords><![CDATA[(xCO2)]]></Keywords>
+    <Keywords><![CDATA[Princeton University]]></Keywords>
+    <Keywords><![CDATA[surface water ]]></Keywords>
+    <Keywords><![CDATA[atmospheric underway carbon data ]]></Keywords>
+    <Keywords><![CDATA[World Ocean Circulation Experiment ]]></Keywords>
+    <Keywords><![CDATA[WOCE]]></Keywords>
+    <Keywords><![CDATA[Indian Ocean ]]></Keywords>
+    <Keywords><![CDATA[survey cruise ]]></Keywords>
+    <Keywords><![CDATA[R/V Knorr]]></Keywords>
+    <Keywords><![CDATA[NDP-064]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 145404 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp064]]></Product_number>
+      <Product_title><![CDATA[Surface Water and Atmospheric Underway Carbon Data Obtained During the World Ocean Circulation Experiment Indian Ocean Survey Cruises (R/V Knorr, December 1994 - January 1996)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Sabine, C. L.]]></Name>
+        <Company><![CDATA[Princeton University]]></Company>
+        <Organization><![CDATA[Department of Geosciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Key, R. M.]]></Name>
+        <Company><![CDATA[Princeton University]]></Company>
+        <Organization><![CDATA[Department of Geosciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Indian Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_064/ndp064.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/IOxco2air.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/IOxco2water.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i10air.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i10water.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i1air.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i1water.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i2air.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i2water.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i3air.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i3water.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i5wi4air.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i5wi4water.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i7nair.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i7nwater.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i8ni5eair.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i8ni5ewater.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i8si9sair.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i8si9swater.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i9nair.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/i9nwater.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[airxco2]]></Variable>
+      <Variable><![CDATA[atmpre]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[eaxco2]]></Variable>
+      <Variable><![CDATA[equitmp]]></Variable>
+      <Variable><![CDATA[eqxco2]]></Variable>
+      <Variable><![CDATA[flag]]></Variable>
+      <Variable><![CDATA[jday]]></Variable>
+      <Variable><![CDATA[lat]]></Variable>
+      <Variable><![CDATA[lon]]></Variable>
+      <Variable><![CDATA[sal]]></Variable>
+      <Variable><![CDATA[sect]]></Variable>
+      <Variable><![CDATA[temp]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Variable><![CDATA[xco2sst]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/ndp064.doc]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_064/ndp064.html]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/xco2airdat.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/xco2waterdat.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19971130]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19971130]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp064/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[59.9MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data documentation presents the results of the surface water and atmospheric underway measurements of mole fraction of carbon dioxide (xCO2), sea surface salinity, and sea surface temperature, obtained during the World Ocean Circulation Experiment (WOCE) Indian Ocean survey cruises (December 1994&#195;&#130;&#194;&#173;January 1996). Discrete and underway carbon measurements were made by members of the CO2 survey team. The survey team is a part of the Joint Global Ocean Flux Study supported by the U.S. Department of Energy to make carbon-related measurements on the WOCE global survey cruises.
+<br><br>
+ Approximately 200,000 surface seawater and 50,000 marine air xCO2 measurements were recorded. Seawater values ranged from 310 ppm to greater than 610 ppm. The lowest values (~50 ppm below atmospheric) were measured in the southwestern Indian Ocean, south of Madagascar. The highest values (more than 250 ppm higher than atmospheric) were found in the Arabian Sea associated with the southwest monsoon upwelling. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

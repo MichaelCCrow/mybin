@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Manning, M. R.  ]]></origin>
+        <origin><![CDATA[Gomez, A. J.]]></origin>
+        <origin><![CDATA[Pohl, K. P.]]></origin>
+        <title><![CDATA[Atmospheric CO2 record from in situ measurements at Baring Head]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/CO2/baring.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CO2 record from in situ measurements at Baring Head]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19701101]]></begdate>
+          <enddate><![CDATA[19931130]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[174.900]]></westbc>
+        <eastbc><![CDATA[174.900]]></eastbc>
+        <northbc><![CDATA[-41.400]]></northbc>
+        <southbc><![CDATA[-41.400]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[atmospheric CO2 concentrations]]></themekey>
+        <themekey><![CDATA[Atmospheric CO2 Mixing Ratio]]></themekey>
+        <themekey><![CDATA[in situ]]></themekey>
+        <themekey><![CDATA[Infrared Gas Analyzer]]></themekey>
+        <themekey><![CDATA[Manning]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2 ]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 161427</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 094111 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[atmospheric CO2 concentrations]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO2 Mixing Ratio]]></Keywords>
+    <Keywords><![CDATA[in situ]]></Keywords>
+    <Keywords><![CDATA[Infrared Gas Analyzer]]></Keywords>
+    <Keywords><![CDATA[Manning]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2 ]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+Baring Head
+M.R. Manning, A.J. Gomez, K.P. Pohl
+National Institute of Water and Atmospheric Research, Ltd.,
+Climate Division,
+Gracefield Road, Gracefield,
+P.O. Box 31-311,
+Baring Head, New Zealand
+Seashore coastal cliff
+41&#176;24' S, 174&#176;54' E
+CITE AS: Manning, M.R., A.J. Gomez, and K.P. Pohl. 1994. Atmospheric CO record from in situ measurements at Baring Head. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 094111 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/CO2/baring.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.017]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CO2 record from in situ measurements at Baring Head]]></Product_title>
+      <Author>
+        <Name><![CDATA[Manning, M. R.  ]]></Name>
+        <Company><![CDATA[National Institute of Water and Atmospheric Research, Ltd.]]></Company>
+        <Organization><![CDATA[Climate Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Gomez, A. J.]]></Name>
+        <Company><![CDATA[National Institute of Water and Atmospheric Research, Ltd.]]></Company>
+        <Organization><![CDATA[Climate Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pohl, K. P.]]></Name>
+        <Company><![CDATA[National Institute of Water and Atmospheric Research, Ltd.]]></Company>
+        <Organization><![CDATA[Climate Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Baring Head,New Zealand]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/baring.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/baring.177]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/barin-gr.htm]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[annual]]></Variable>
+      <Variable><![CDATA[Apr]]></Variable>
+      <Variable><![CDATA[Aug]]></Variable>
+      <Variable><![CDATA[Dec]]></Variable>
+      <Variable><![CDATA[Feb]]></Variable>
+      <Variable><![CDATA[Jan]]></Variable>
+      <Variable><![CDATA[Jul]]></Variable>
+      <Variable><![CDATA[Jun]]></Variable>
+      <Variable><![CDATA[Mar]]></Variable>
+      <Variable><![CDATA[May]]></Variable>
+      <Variable><![CDATA[Nov]]></Variable>
+      <Variable><![CDATA[Oct]]></Variable>
+      <Variable><![CDATA[Sep]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/baring.html &#187;&#160;
+Baring Head
+M.R. Manning, A.J. Gomez, K.P. Pohl
+National Institute of Water and Atmospheric Research, Ltd.,
+Climate Division,
+Gracefield Road, Gracefield,
+P.O. Box 31-311,
+Baring Head, New Zealand
+Seashore coastal cliff
+41&#176;24' S, 174&#176;54' E
+CITE AS: Manning, M.R., A.J. Gomez, and K.P. Pohl. 1994. Atmospheric CO record from in situ measurements at Baring Head. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19971021]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19971021]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Determinations of atmospheric CO2 mixing ratios are made using a Siemens Ultramat-3 nondispersive infrared (NDIR) gas analyzer. The NDIR CO2 analyzer is connected via a gas manifold consisting of stainless steel tubing and computer-controlled solenoid switches to 12 gas cylinders and 2 sample air lines. The NDIR analyzer compares ambient air CO2 mixing ratios relative to known CO2 mixing ratios in tanks of compressed reference gases. The analyzer operates in a differential mode, with a zero reference gas of CO2 mixing ratio 20 to 30 parts per million (ppm) below ambient air CO2 levels flowing continuously through one cell of the analyzer at ~10 mL/min. When atmospheric CO2 is measured, a diaphragm pump pulls air through a sampling line at ~5 L/min. A small fraction of this (180 mL/min) is dried cryogenically to a temperature of approximately -70 degrees Celsius and passed through the sample cell of the CO2 analyzer. Both the zero and sample gas are exhausted into the observatory building.
+Operation of the analyzer system is controlled by a computer that switches gas from cylinders or sample air lines into the analyzer sample gas cell. For each calibration gas measurement, the computer monitors the analyzer voltage every second until the standard deviation of 60 consecutive values is below 0.02 ppmv. In some cases, stability is not reached within 5 min, so the computer repeats the previous gas followed by the gas that did not stabilize. All data for the final 60 s of each calibration gas are recorded in a computer file, whether or not stability was achieved. In the early years of measurement at Baring Head, CO2-in-nitrogen calibration gases, prepared by the Scripps Institution of Oceanography (SIO) were used. Since 1985 both CO2-in-natural-air mixtures prepared at SIO and CO2-in-synthetic-air mixtures prepared commercially have been used for calibration. In all cases concentrations were assigned by SIO. No significant difference has been observed between these two types of calibration gas, but since 1992 only natural-air mixtures have been used. Further details of sampling methods and calibration gases are available as unpublished reports from the authors.
+<br><br>
+The annual atmospheric CO2 concentration at Baring Head, New Zealand (including data from Makara for the period November 1970 to March 1972) rose from 325.06 parts per million by volume (ppmv) in 1971 to 354.90 ppmv in 1993. The monthly CO2 record from Baring Head is typical of Southern Hemisphere sites: it shows small seasonal amplitude, maxima occur from August to October, and minima occur from February to April.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

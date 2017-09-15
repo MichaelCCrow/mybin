@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Trivett, N. B. A.]]></origin>
+        <origin><![CDATA[Hudec, V. C.]]></origin>
+        <origin><![CDATA[Wong, C. S.]]></origin>
+        <title><![CDATA[Atmospheric CO2 Concentrations--The Canadian Background Air Pollution Monitoring Network (1993)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_034.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CO2 Concentrations--The Canadian Background Air Pollution Monitoring Network (1993)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19750701]]></begdate>
+          <enddate><![CDATA[19920731]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-131.017]]></westbc>
+        <eastbc><![CDATA[-60.017]]></eastbc>
+        <northbc><![CDATA[82.467]]></northbc>
+        <southbc><![CDATA[43.933]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2 Concentration]]></themekey>
+        <themekey><![CDATA[Canadian Sites]]></themekey>
+        <themekey><![CDATA[Alert, Northwest Territories]]></themekey>
+        <themekey><![CDATA[Sable Island, Nova Scotia]]></themekey>
+        <themekey><![CDATA[Cape St. James, British Columbia]]></themekey>
+        <themekey><![CDATA[Trivett]]></themekey>
+        <themekey><![CDATA[Hudec]]></themekey>
+        <themekey><![CDATA[Wong]]></themekey>
+        <themekey><![CDATA[NDP-034]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145018</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164250 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2 Concentration]]></Keywords>
+    <Keywords><![CDATA[Canadian Sites]]></Keywords>
+    <Keywords><![CDATA[Alert, Northwest Territories]]></Keywords>
+    <Keywords><![CDATA[Sable Island, Nova Scotia]]></Keywords>
+    <Keywords><![CDATA[Cape St. James, British Columbia]]></Keywords>
+    <Keywords><![CDATA[Trivett]]></Keywords>
+    <Keywords><![CDATA[Hudec]]></Keywords>
+    <Keywords><![CDATA[Wong]]></Keywords>
+    <Keywords><![CDATA[NDP-034]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164250 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_034.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.ndp034]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CO2 Concentrations--The Canadian Background Air Pollution Monitoring Network (1993)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Trivett, N. B. A.]]></Name>
+        <Company><![CDATA[Environment Canada]]></Company>
+        <Organization><![CDATA[Atmospheric Environment Service]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hudec, V. C.]]></Name>
+        <Company><![CDATA[Environment Canada]]></Company>
+        <Organization><![CDATA[Atmospheric Environment Service]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wong, C. S.]]></Name>
+        <Company><![CDATA[Environment Canada]]></Company>
+        <Organization><![CDATA[Atmospheric Environment Service]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alert, NWT, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/ndp034.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/alert.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape St. James, BC, Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/james.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sable Island, NS, Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/sable.co2 ]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Atmospheric CO2 concentration (ppmv)]]></Variable>
+      <Variable><![CDATA[Sampling Date and Time (Year Month Day and Julian Day; Decimal year)]]></Variable>
+      <Variable><![CDATA[Sampling and data quality flag ]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/ndp034.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/ndp034r1.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/alert.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/alert.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/james.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/james.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/ndp034.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/ndp034.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19930101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19930101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp034/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[58.6KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ Flask air samples collected at roughly weekly intervals at three Canadian sites [Alert, Northwest Territories (July 1975 through July 1992); Sable Island, Nova Scotia (March 1975 through July 1992); and Cape St. James, British Columbia (May 1979 through July 1992)] were analyzed for CO2 concentration with the measurements directly traceable to the WMO primary CO2 standards. Each record includes the date, atmospheric CO2 concentration, and flask classification code.
+<br><br>
+ They provide an accurate record of CO2 concentration levels in Canada during the past two decades. Because these data are directly traceable to WMO standards, this record may be compared with records from other Background Air Pollution Monitoring Network (BAPMoN) stations. The data are in three files (one for each of the monitoring stations) ranging in size from 9.4 to 20.1 kB.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

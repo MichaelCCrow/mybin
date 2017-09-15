@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Eischeid, J. K.]]></origin>
+        <origin><![CDATA[Diaz, H. F.]]></origin>
+        <origin><![CDATA[Bradley, R. S.]]></origin>
+        <origin><![CDATA[Jones, P. D.]]></origin>
+        <title><![CDATA[Comprehensive Precipitation Data Set for Global Land Areas]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/tr051/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Comprehensive Precipitation Data Set for Global Land Areas]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18510101]]></begdate>
+          <enddate><![CDATA[19901231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[monthly total precipitation]]></themekey>
+        <themekey><![CDATA[TR051]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 124612</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 152010 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[monthly total precipitation]]></Keywords>
+    <Keywords><![CDATA[TR051]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 152010 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.tr051]]></Product_number>
+      <Product_title><![CDATA[Comprehensive Precipitation Data Set for Global Land Areas]]></Product_title>
+      <Author>
+        <Name><![CDATA[Eischeid, J. K.]]></Name>
+        <Company><![CDATA[University of Colorado]]></Company>
+        <Organization><![CDATA[CIRES]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Diaz, H. F.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Environmental Research Laboratories]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bradley, R. S.]]></Name>
+        <Company><![CDATA[University of Massachusetts]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jones, P. D.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/tr051.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/tr051/precip.grd.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/tr051/station.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/tr051/station.inv]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[precipitation]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/tr051.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/tr051/tr051.des]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/tr051/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[45 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ An expanded and updated compilation of long-term station precipitation data, together with a new set of gridded monthly mean fields for global land areas, are described. The present data set contains 5328 station records of monthly total precipitation, covering the period from the mid-1800s to the late 1980s. The station data were individually tested and visually inspected for the presence of spurious trends, jumps, and other measurement biases. The quality control procedure which was used to check the station records for nonclimatic discontinuities and other biases is detailed. We also discuss some of the problems which typically contribute to potential inhomogeneities in precipitation records.
+<br><br>
+ The station data were interpolated onto a 4&#195;&#130;&#194;&#176; latitude by 5&#195;&#130;&#194;&#176; longitude uniform grid. Comparisons of these data with two other global-scale precipitation climatologies are presented. We find good agreement among the three global-scale climatologies over the common areas in each set. Three different indices of long-term precipitation variations over the global land areas all indicate a general increase of annual precipitation since the 1940s, although a decline is evident over the last decade. There is some indication that the last few decades of the 19th century may have been as wet as the recent ones. An interesting feature of this study is the presence of relatively large differences in seasonal trends, with March-May and September-November becoming wetter in the last few decades. The December-February and June-August seasons exhibit smaller overall trends, although the northern winter season does exhibit large decadal-scale fluctuations.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

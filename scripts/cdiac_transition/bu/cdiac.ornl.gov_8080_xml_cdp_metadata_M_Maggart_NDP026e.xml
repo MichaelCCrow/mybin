@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[C. J. Hahn]]></origin>
+        <origin><![CDATA[S. G. Warren]]></origin>
+        <title><![CDATA[A Gridded Climatology of Clouds over Land (1971-96) and Ocean (1954-97) from Surface Observations Worldwide ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/M_Maggart/NDP026e.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/ndp026e/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[A Gridded Climatology of Clouds over Land (1971-96) and Ocean (1954-97) from Surface Observations Worldwide ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19540101]]></begdate>
+          <enddate><![CDATA[19971231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Climatology ]]></themekey>
+        <themekey><![CDATA[NDP-026E]]></themekey>
+        <themekey><![CDATA[Clouds]]></themekey>
+        <themekey><![CDATA[Troposphere]]></themekey>
+        <themekey><![CDATA[Clear Sky]]></themekey>
+        <themekey><![CDATA[Precipitation]]></themekey>
+        <themekey><![CDATA[University of Washington]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 133029</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20090730 113824 by 160.91.18.49</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Climatology ]]></Keywords>
+    <Keywords><![CDATA[NDP-026E]]></Keywords>
+    <Keywords><![CDATA[Clouds]]></Keywords>
+    <Keywords><![CDATA[Troposphere]]></Keywords>
+    <Keywords><![CDATA[Clear Sky]]></Keywords>
+    <Keywords><![CDATA[Precipitation]]></Keywords>
+    <Keywords><![CDATA[University of Washington]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20090730 113824 by 160.91.18.49</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/M_Maggart/NDP026e.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp026.e]]></Product_number>
+      <Product_title><![CDATA[A Gridded Climatology of Clouds over Land (1971-96) and Ocean (1954-97) from Surface Observations Worldwide ]]></Product_title>
+      <Author>
+        <Name><![CDATA[C. J. Hahn]]></Name>
+        <Company><![CDATA[University of Arizona]]></Company>
+        <Organization><![CDATA[Department of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[S. G. Warren]]></Name>
+        <Company><![CDATA[Department of Atmospheric Sciences]]></Company>
+        <Organization><![CDATA[University of Washington]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Cloud Cover]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[CDIAC]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp026e/ndp026e.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/ndp026e/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[total cloud cover]]></Variable>
+      <Variable><![CDATA[nine cloud types ]]></Variable>
+      <Variable><![CDATA[clear sky and precipitation frequency]]></Variable>
+      <Variable><![CDATA[base heights of low clouds]]></Variable>
+      <Variable><![CDATA[non-overlapped amounts of middle and high clouds]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ftp/ndp026e/ndp026e.pdf]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ornl.gov/ftp/ndp026e/readme.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20071201]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/ndp026e/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[20120918 - This xml changed via Climate being removed from Thematic_area so as not to be harvested for new CDIAC site's Data Catalog page.  This xml is redundant anyway, as ndp026e has another xml we are using. (D. Kaiser) Surface synoptic weather reports from ships and land stations worldwide were processed to produce a global cloud climatology which includes: total cloud cover, the amount and frequency of occurrence of nine cloud types within three levels of the troposphere, the frequency of occurrence of clear sky and of precipitation, the base heights of low clouds, and the non-overlapped amounts of middle and high clouds. Synoptic weather reports are made every three hours; the cloud information in a report is obtained visually by human observers. The reports used here cover the period 1971-96 for land and 1954-97 for ocean.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Fricke, W.]]></origin>
+        <origin><![CDATA[Wallasch, M.]]></origin>
+        <title><![CDATA[Monthly Atmospheric CO2 Records from Sites in the UBA Air Sampling Network]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Monthly Atmospheric CO2 Records from Sites in the UBA Air Sampling Network]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19720101]]></begdate>
+          <enddate><![CDATA[19971231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2 Concentrations]]></themekey>
+        <themekey><![CDATA[Atmospheric CO2 Mixing Ratios]]></themekey>
+        <themekey><![CDATA[Continuous Monitoring]]></themekey>
+        <themekey><![CDATA[in situ]]></themekey>
+        <themekey><![CDATA[Infrared Gas Analyzer]]></themekey>
+        <themekey><![CDATA[UBA]]></themekey>
+        <themekey><![CDATA[Germany]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090716 111138</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 154330 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2 Concentrations]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO2 Mixing Ratios]]></Keywords>
+    <Keywords><![CDATA[Continuous Monitoring]]></Keywords>
+    <Keywords><![CDATA[in situ]]></Keywords>
+    <Keywords><![CDATA[Infrared Gas Analyzer]]></Keywords>
+    <Keywords><![CDATA[UBA]]></Keywords>
+    <Keywords><![CDATA[Germany]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 154330 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.020]]></Product_number>
+      <Product_title><![CDATA[Monthly Atmospheric CO2 Records from Sites in the UBA Air Sampling Network]]></Product_title>
+      <Author>
+        <Name><![CDATA[Fricke, W.]]></Name>
+        <Company><![CDATA[Umweltbundesamt]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wallasch, M.]]></Name>
+        <Company><![CDATA[Umweltbundesamt]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Brotjacklriegel, Germany]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/uba-br.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/brotjack.137]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/uba-brgr.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Deuselbach, Germany]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/uba-de.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/deuselba.139]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/uba-degr.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Schauinsland, Germany]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/uba/uba-sc.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/schauinsland.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/schauinsland.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Waldhof, Germany]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/uba-wa.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/waldhof.143]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/uba-wagr.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Westerland, Germany]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/uba/uba-we.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/westerland.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/westerland.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Annual Atmospheric Carbon Dioxode]]></Variable>
+      <Variable><![CDATA[Monthly Atmospheric Carbon Dioxide]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/uba.htm]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19971201]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19971201]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Air samples are collected from air intake lines. Continuous monitoring of atmospheric CO2 is accomplished by alternating a flowing sample of ambient air with two reference gases of known concentrations. Determinations of CO2 are made using a Siemens ULTRAMAT-3 nondispersive infrared gas analyzer. Before entering the analyzer, all gases are dried by passing them through a glass water vapor trap immersed in a cold alcohol bath. Mixtures of CO2-in-N2 are used for calibration gases. At Schauinsland, CO2-in-air calibration gases were used until September 1, 1991. More details about the UBA air sampling network and the methods used are provided in Grosch et al. (1981), Levin (1991), and Levin et al. (1994).
+<br><br>
+Annual atmospheric CO2 concentrations at Brotjacklriegel rose from 331.63 parts per million by volume (ppmv) in 1972 to 353.12 ppmv in 1988. Because of the site's forest location, the monthly atmospheric CO2 record from Brotjacklriegel exhibits very large seasonal amplitude. This amplitude reached almost 40 ppmv in 1985. Minimum mixing ratios are recorded at Brotjacklriegel during July-September; maximum values, during November-March.
+<br><br>
+Annual atmospheric CO2 concentrations at Deuselbach rose from 340.82 parts per million by volume (ppmv) in 1972 to 363.76 ppmv in 1989. The monthly atmospheric CO2 record from Deuselbach is influenced by local agricultural activities and photosynthetic depletion but does not exhibit the large seasonal amplitude observed at other UBA monitoring sites. Minimum monthly atmospheric CO2 mixing ratios at Deuselbach are typically observed in August but may appear as early as June. Maximum values are seen in the record for November-March.
+<br><br>
+Atmospheric CO2 concentrations at Schauinsland rose from ~328 parts per million by volume (ppmv) in 1972 to ~365 ppmv in 1997. This represents a growth rate of approximately 1.5 ppmv per year. The Schauinsland site is considered the least contaminated of the UBA sites. The atmospheric CO2 record from Schauinsland is influenced by photosynthetic depletion but does not exhibit the large seasonal amplitude observed at other UBA monitoring sites. The seasonal amplitude is generally 15-18 ppmv. Minimum atmospheric CO2 mixing ratios at Schauinsland are typically observed in July-September; maximum values, in November-March.
+<br><br>
+Annual atmospheric CO2 concentrations at Waldhof rose from 346.82 parts per million by volume (ppmv) in 1972 to 372.09 ppmv in 1993. The Waldhof site is subject to pollution sources; consequently, the monthly atmospheric CO2 record exhibits a large seasonal amplitude.
+<br><br>
+Atmospheric CO2 concentrations at Westerland rose from ~329 parts per million by volume (ppmv) in 1973 to ~364 ppmv in 1997. The atmospheric CO2 record from Westerland shows a seasonal pattern similar to other UBA sites; minimum values are recorded during July-September; maximum mixing ratios during November-March.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

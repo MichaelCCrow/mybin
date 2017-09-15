@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Tharp, M.L.]]></origin>
+        <origin><![CDATA[Norby, R.J.]]></origin>
+        <title><![CDATA[ORNL FACE Soil Moisture Data]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Lisa_Olsen/FACE/ornl_soilmoisture.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_1997.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_1998.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_1999.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2000.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2001.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2002.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2003.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2004.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2005.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2006.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2007.dat]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[ORNL FACE Soil Moisture Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19990406]]></begdate>
+          <enddate><![CDATA[20070709]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-84.33]]></westbc>
+        <eastbc><![CDATA[-84.33]]></eastbc>
+        <northbc><![CDATA[35.9]]></northbc>
+        <southbc><![CDATA[35.9]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[CO2 enrichment]]></themekey>
+        <themekey><![CDATA[FACE]]></themekey>
+        <themekey><![CDATA[soil moisture]]></themekey>
+        <themekey><![CDATA[ORNL FACE]]></themekey>
+        <themekey><![CDATA[sweetgum]]></themekey>
+        <themekey><![CDATA[Liquidambar Styraciflua]]></themekey>
+        <themekey><![CDATA[vegetation response]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_soils.shtml]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070815 091607</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070731 105743 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[CO2 enrichment]]></Keywords>
+    <Keywords><![CDATA[FACE]]></Keywords>
+    <Keywords><![CDATA[soil moisture]]></Keywords>
+    <Keywords><![CDATA[ORNL FACE]]></Keywords>
+    <Keywords><![CDATA[sweetgum]]></Keywords>
+    <Keywords><![CDATA[Liquidambar Styraciflua]]></Keywords>
+    <Keywords><![CDATA[vegetation response]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[         FREE AIR CO2 ENRICHMENT (FACE) DATA REPORT:
+                      SOIL MOISTURE 
+-------------------------------------------------------------
+
+
+QUALITY-ASSURANCE CHECKS AND DATA-PROCESSING ACTIVITIES PERFORMED 
+   BY THE FACE PROJECT AND CDIAC
+------------------------------------------------------------------
+
+Graphs of soil moisture data were used to examine the soil moisture
+values for all plots (rings) and locations over time and to screen for 
+erroneous data.  Summary statistics (mean, maximum, minimum, standard 
+deviation, and number of observations) were calculated for the soil 
+moisture data by year, day and ring. These statistics were used to 
+compare soil moisture values at 6 locations within a ring, and
+the number of observations used in calculating the means provided a 
+check for missing records. 
+
+
+DESCRIPTION OF THE ASCII DATA FILES
+-----------------------------------
+
+On the FACE site, soil moisture data are available for ring 1 
+through ring 5 from 1997-2008, and there are data for ring 6
+from 1997-1999.  Ring 1 and ring 2 are exposed to elevated CO2, 
+and the remaining rings have ambient CO2. 
+
+Soil moisture was measured with a time-domain reflectometer
+(TRASE systems, Soil Moisture Equipment Corporation,
+Santa Barbara, CA) to a depth of 20cm. 
+
+The missing-value indicator for the soil moisture data is -99.99.
+
+
+LIST OF FILES
+-------------
+
+soil_moisture_1997.dat    1997 soil water content data
+soil_moisture_1998.dat    1998 soil water content data
+soil_moisture_1999.dat    1999 soil water content data
+soil_moisture_2000.dat    2000 soil water content data
+soil_moisture_2001.dat    2001 soil water content data
+soil_moisture_2002.dat    2002 soil water content data
+soil_moisture_2003.dat    2003 soil water content data
+soil_moisture_2004.dat    2004 soil water content data
+soil_moisture_2005.dat    2005 soil water content data
+soil_moisture_2006.dat    2006 soil water content data
+soil_moisture_2007.dat    2007 soil water content data
+soil_moisture_2008.dat    2008 soil water content data
+
+
+FORMAT OF THE ASCII DATA FILES
+----------------------------------------------
+
+Contents and format of the soil moisture files 
+
+Variable   Variable  Variable  Starting  Ending  Units Definition
+           type      width     column    column                 
+
+year       Integer     4          1         4      y    Year
+day        Integer     3          7         9      d    Day 
+ring       Integer     1         13        13      -    Ring number
+location   Integer     1         21        21      -    Location 
+wat20      Real        6         27        32      %    % moisture 
+
+********
+
+
+SAMPLE LISTINGS OF THE ASCII DATA FILES
+----------------------------------------
+ 
+soil_moisture_1997.dat
+
+First listed records
+
+1997   83   1       1      38.80
+1997   83   1       2      39.70
+
+Last listed records
+
+1997  195   6       5      33.00
+1997  195   6       6      32.70
+
+**********
+
+soil_moisture_1998.dat
+
+First listed records
+
+1998   29   1       1      39.50
+1998   29   1       2      39.20
+
+Last listed records
+
+1998  267   6       5      25.20
+1998  267   6       6      24.00
+
+**********
+
+soil_moisture_1999.dat
+
+First listed records
+
+1999   64   1       1      38.50
+1999   64   1       2      39.90
+
+Last listed records
+
+1999  257   6       5      21.90
+1999  257   6       6      19.70
+
+**********
+
+soil_moisture_2000.dat
+
+First listed records
+
+2000  139   1       1      26.90
+2000  139   1       2      27.30
+
+Last listed records
+
+2000  333   5       5      32.60
+2000  333   5       6      36.90
+
+**********
+
+soil_moisture_2001.dat
+
+First listed records
+
+2001  113   1       1      33.00
+2001  113   1       2      32.30
+
+Last listed records
+
+2001  353   5       5      32.50
+2001  353   5       6      37.20
+
+**********
+
+soil_moisture_2002.dat
+
+First listed records
+
+2002   25   1       1      38.80
+2002   25   1       2      37.90
+
+Last listed records
+
+2002  352   5       5      31.90
+2002  352   5       6      37.80
+
+**********
+
+soil_moisture_2003.dat
+
+First listed records
+
+2003   36   1       1      35.10
+2003   36   1       2      38.10
+
+Last listed records
+
+2003  352   5       5      37.70
+2003  352   5       6      39.20
+
+**********
+
+soil_moisture_2004.dat
+
+First listed records
+
+2004    7   1       1      38.20
+2004    7   1       2      40.60
+
+Last listed records
+
+2004  271   5       5      34.60
+2004  271   5       6      31.30
+
+**********
+
+soil_moisture_2005.dat
+
+First listed records
+
+2005  101   1       1      37.10
+2005  101   1       2      40.00
+
+Last listed records
+
+2005  287   5       5      25.80
+2005  287   5       6      29.40
+
+**********
+
+soil_moisture_2006.dat
+
+First listed records
+
+2006   13   1       1      36.70
+2006   13   1       2      39.30
+
+Last listed records
+
+2006  353   5       5      33.50
+2006  353   5       6      36.30
+
+**********
+
+soil_moisture_2007.dat
+
+First listed records
+
+2007   23   1       1      39.30
+2007   23   1       2      40.00
+
+Last listed records
+
+2007  351   5       5      31.70
+2007  351   5       6      39.70
+
+**********
+
+soil_moisture_2008.dat
+
+First listed records
+
+2008    3   1       1      36.80
+2008    3   1       2      38.20
+
+Last listed records
+
+2008  254   5       5      32.00
+2008  254   5       6      37.50
+
+**********
+
+
+SPREADSHEET SOFTWARE TO ACCESS THE DATA
+---------------------------------------
+
+Since these soil moisture files are space-delimited ASCII text, 
+the files can be imported to spreadsheet software such as Excel.   
+
+
+SAS and FORTRAN CODES TO ACCESS THE DATA
+----------------------------------------
+
+/* SAS code to read soil_moisture_1997.dat-soil_moisture_2008.dat */
+/* This example reads soil_moisture_1997.dat                      */
+
+/*   Input Variables:                                             */
+/*         year     - Year                                        */ 
+/*         day      - Day of year                                 */ 
+/*         ring     - Ring number                                 */ 
+/*         location - Location of water content measurement       */ 
+/*         wat20    - Soil water content(%) measured at 0-20 cm   */ 
+
+data soil_moisture;
+
+   infile "soil_moisture_1997.dat";
+
+   if _N_ = 1 then do;
+      /* Read header records. */
+      input //////;
+   end;
+
+   input @1 year @7 day  @13 ring  @21 location  @27 wat20 6.2;
+
+proc print;
+
+run;
+
+**********
+
+      program soil_moisture 
+      implicit none
+
+!     FORTRAN code to read soil_moisture_1997.dat-soil_moisture_2008.dat 
+!     This example reads the file, soil_moisture_1997.dat.
+!     To select another file of soil moisture data, 
+!     modify the parameter variable sm_yr.
+!     (soil_moisture_1997.dat-soil_moisture_2008.dat) 
+
+!     Input variables for data record:
+!           year     - Year
+!           day      - Day of year
+!           ring     - Ring number (1-5)
+!           location - Location number (1-6)
+!           wat20    - soil water content measured at 0-20cm 
+
+      character(len=4), parameter :: sm_yr = "1997" 
+
+      real    :: wat20 
+      integer :: day, year
+      integer :: ring, location, nrec, ioerror
+
+      character(len=22) :: filename 
+
+      filename = "soil_moisture_"//sm_yr//".dat"
+
+      open(unit = 10, file = filename,&amp;
+         &amp;status = 'old', iostat = ioerror)
+
+      if(ioerror   0) then
+         write(6,'("Error opening input file.")')
+         stop
+      endif
+
+!     input header records
+      read(10,'(//////)')
+
+      if(ioerror /= 0) then
+         write(6,'("Input error reading header records.")')
+         stop
+      endif
+
+      nrec = 0   !initialize counter for summing number of input records
+   10 continue
+
+      read(10,'(i4,2x,i3,3x,i1,7x,i1,5x,f6.2)', iostat = ioerror)&amp;
+        &amp; year, day, ring, location, wat20 
+      
+      if(ioerror   0) then
+         write(6,'("End-of-file")')
+         write(6,'("Number of data records read = ", i5)') nrec
+        stop
+      endif
+
+      write(6,'(i4,2x,i3,3x,i1,7x,i1,5x,f6.2)')&amp;
+         &amp; year, day, ring, location, wat20 
+      nrec = nrec + 1
+      go to 10   !read next record
+
+      close (10)
+
+      stop
+      end
+
+**********
+
+]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070731 105743 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Lisa_Olsen/FACE/ornl_soilmoisture.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[ORNL FACE Soil Moisture ]]></Product_number>
+      <Product_title><![CDATA[ORNL FACE Soil Moisture Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[Tharp, M.L.]]></Name>
+        <Company><![CDATA[Environmental Sciences Division]]></Company>
+        <Organization><![CDATA[Oak Ridge National Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Norby, R.J.]]></Name>
+        <Company><![CDATA[Environmental Sciences Division]]></Company>
+        <Organization><![CDATA[Oak Ridge National Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Oak Ridge National Laboratory FACE Experiment]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/face/ORNL/ornl_home.shtml]]></Site_URL>
+        <Site_data_file><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_soils.shtml]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_soils.shtml]]></Data_site>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Variable><![CDATA[DAY]]></Variable>
+      <Variable><![CDATA[RING]]></Variable>
+      <Variable><![CDATA[LOCATION]]></Variable>
+      <Variable><![CDATA[WAT20 (%)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture.txt         FREE AIR CO2 ENRICHMENT (FACE) DATA REPORT:
+                      SOIL MOISTURE 
+-------------------------------------------------------------
+
+
+QUALITY-ASSURANCE CHECKS AND DATA-PROCESSING ACTIVITIES PERFORMED 
+   BY THE FACE PROJECT AND CDIAC
+------------------------------------------------------------------
+
+Graphs of soil moisture data were used to examine the soil moisture
+values for all plots (rings) and locations over time and to screen for 
+erroneous data.  Summary statistics (mean, maximum, minimum, standard 
+deviation, and number of observations) were calculated for the soil 
+moisture data by year, day and ring. These statistics were used to 
+compare soil moisture values at 6 locations within a ring, and
+the number of observations used in calculating the means provided a 
+check for missing records. 
+
+
+DESCRIPTION OF THE ASCII DATA FILES
+-----------------------------------
+
+On the FACE site, soil moisture data are available for ring 1 
+through ring 5 from 1997-2008, and there are data for ring 6
+from 1997-1999.  Ring 1 and ring 2 are exposed to elevated CO2, 
+and the remaining rings have ambient CO2. 
+
+Soil moisture was measured with a time-domain reflectometer
+(TRASE systems, Soil Moisture Equipment Corporation,
+Santa Barbara, CA) to a depth of 20cm. 
+
+The missing-value indicator for the soil moisture data is -99.99.
+
+
+LIST OF FILES
+-------------
+
+soil_moisture_1997.dat    1997 soil water content data
+soil_moisture_1998.dat    1998 soil water content data
+soil_moisture_1999.dat    1999 soil water content data
+soil_moisture_2000.dat    2000 soil water content data
+soil_moisture_2001.dat    2001 soil water content data
+soil_moisture_2002.dat    2002 soil water content data
+soil_moisture_2003.dat    2003 soil water content data
+soil_moisture_2004.dat    2004 soil water content data
+soil_moisture_2005.dat    2005 soil water content data
+soil_moisture_2006.dat    2006 soil water content data
+soil_moisture_2007.dat    2007 soil water content data
+soil_moisture_2008.dat    2008 soil water content data
+
+
+FORMAT OF THE ASCII DATA FILES
+----------------------------------------------
+
+Contents and format of the soil moisture files 
+
+Variable   Variable  Variable  Starting  Ending  Units Definition
+           type      width     column    column                 
+
+year       Integer     4          1         4      y    Year
+day        Integer     3          7         9      d    Day 
+ring       Integer     1         13        13      -    Ring number
+location   Integer     1         21        21      -    Location 
+wat20      Real        6         27        32      %    % moisture 
+
+********
+
+
+SAMPLE LISTINGS OF THE ASCII DATA FILES
+----------------------------------------
+ 
+soil_moisture_1997.dat
+
+First listed records
+
+1997   83   1       1      38.80
+1997   83   1       2      39.70
+
+Last listed records
+
+1997  195   6       5      33.00
+1997  195   6       6      32.70
+
+**********
+
+soil_moisture_1998.dat
+
+First listed records
+
+1998   29   1       1      39.50
+1998   29   1       2      39.20
+
+Last listed records
+
+1998  267   6       5      25.20
+1998  267   6       6      24.00
+
+**********
+
+soil_moisture_1999.dat
+
+First listed records
+
+1999   64   1       1      38.50
+1999   64   1       2      39.90
+
+Last listed records
+
+1999  257   6       5      21.90
+1999  257   6       6      19.70
+
+**********
+
+soil_moisture_2000.dat
+
+First listed records
+
+2000  139   1       1      26.90
+2000  139   1       2      27.30
+
+Last listed records
+
+2000  333   5       5      32.60
+2000  333   5       6      36.90
+
+**********
+
+soil_moisture_2001.dat
+
+First listed records
+
+2001  113   1       1      33.00
+2001  113   1       2      32.30
+
+Last listed records
+
+2001  353   5       5      32.50
+2001  353   5       6      37.20
+
+**********
+
+soil_moisture_2002.dat
+
+First listed records
+
+2002   25   1       1      38.80
+2002   25   1       2      37.90
+
+Last listed records
+
+2002  352   5       5      31.90
+2002  352   5       6      37.80
+
+**********
+
+soil_moisture_2003.dat
+
+First listed records
+
+2003   36   1       1      35.10
+2003   36   1       2      38.10
+
+Last listed records
+
+2003  352   5       5      37.70
+2003  352   5       6      39.20
+
+**********
+
+soil_moisture_2004.dat
+
+First listed records
+
+2004    7   1       1      38.20
+2004    7   1       2      40.60
+
+Last listed records
+
+2004  271   5       5      34.60
+2004  271   5       6      31.30
+
+**********
+
+soil_moisture_2005.dat
+
+First listed records
+
+2005  101   1       1      37.10
+2005  101   1       2      40.00
+
+Last listed records
+
+2005  287   5       5      25.80
+2005  287   5       6      29.40
+
+**********
+
+soil_moisture_2006.dat
+
+First listed records
+
+2006   13   1       1      36.70
+2006   13   1       2      39.30
+
+Last listed records
+
+2006  353   5       5      33.50
+2006  353   5       6      36.30
+
+**********
+
+soil_moisture_2007.dat
+
+First listed records
+
+2007   23   1       1      39.30
+2007   23   1       2      40.00
+
+Last listed records
+
+2007  351   5       5      31.70
+2007  351   5       6      39.70
+
+**********
+
+soil_moisture_2008.dat
+
+First listed records
+
+2008    3   1       1      36.80
+2008    3   1       2      38.20
+
+Last listed records
+
+2008  254   5       5      32.00
+2008  254   5       6      37.50
+
+**********
+
+
+SPREADSHEET SOFTWARE TO ACCESS THE DATA
+---------------------------------------
+
+Since these soil moisture files are space-delimited ASCII text, 
+the files can be imported to spreadsheet software such as Excel.   
+
+
+SAS and FORTRAN CODES TO ACCESS THE DATA
+----------------------------------------
+
+/* SAS code to read soil_moisture_1997.dat-soil_moisture_2008.dat */
+/* This example reads soil_moisture_1997.dat                      */
+
+/*   Input Variables:                                             */
+/*         year     - Year                                        */ 
+/*         day      - Day of year                                 */ 
+/*         ring     - Ring number                                 */ 
+/*         location - Location of water content measurement       */ 
+/*         wat20    - Soil water content(%) measured at 0-20 cm   */ 
+
+data soil_moisture;
+
+   infile "soil_moisture_1997.dat";
+
+   if _N_ = 1 then do;
+      /* Read header records. */
+      input //////;
+   end;
+
+   input @1 year @7 day  @13 ring  @21 location  @27 wat20 6.2;
+
+proc print;
+
+run;
+
+**********
+
+      program soil_moisture 
+      implicit none
+
+!     FORTRAN code to read soil_moisture_1997.dat-soil_moisture_2008.dat 
+!     This example reads the file, soil_moisture_1997.dat.
+!     To select another file of soil moisture data, 
+!     modify the parameter variable sm_yr.
+!     (soil_moisture_1997.dat-soil_moisture_2008.dat) 
+
+!     Input variables for data record:
+!           year     - Year
+!           day      - Day of year
+!           ring     - Ring number (1-5)
+!           location - Location number (1-6)
+!           wat20    - soil water content measured at 0-20cm 
+
+      character(len=4), parameter :: sm_yr = "1997" 
+
+      real    :: wat20 
+      integer :: day, year
+      integer :: ring, location, nrec, ioerror
+
+      character(len=22) :: filename 
+
+      filename = "soil_moisture_"//sm_yr//".dat"
+
+      open(unit = 10, file = filename,&amp;
+         &amp;status = 'old', iostat = ioerror)
+
+      if(ioerror   0) then
+         write(6,'("Error opening input file.")')
+         stop
+      endif
+
+!     input header records
+      read(10,'(//////)')
+
+      if(ioerror /= 0) then
+         write(6,'("Input error reading header records.")')
+         stop
+      endif
+
+      nrec = 0   !initialize counter for summing number of input records
+   10 continue
+
+      read(10,'(i4,2x,i3,3x,i1,7x,i1,5x,f6.2)', iostat = ioerror)&amp;
+        &amp; year, day, ring, location, wat20 
+      
+      if(ioerror   0) then
+         write(6,'("End-of-file")')
+         write(6,'("Number of data records read = ", i5)') nrec
+        stop
+      endif
+
+      write(6,'(i4,2x,i3,3x,i1,7x,i1,5x,f6.2)')&amp;
+         &amp; year, day, ring, location, wat20 
+      nrec = nrec + 1
+      go to 10   !read next record
+
+      close (10)
+
+      stop
+      end
+
+**********
+
+]]></Descriptive_file>
+      <Data_file><![CDATA[soil_moisture_1997.dat]]></Data_file>
+      <Data_file><![CDATA[soil_moisture_1998.dat]]></Data_file>
+      <Data_file><![CDATA[soil_moisture_1999.dat]]></Data_file>
+      <Data_file><![CDATA[soil_moisture_2000.dat]]></Data_file>
+      <Data_file><![CDATA[soil_moisture_2001.dat]]></Data_file>
+      <Data_file><![CDATA[soil_moisture_2002.dat]]></Data_file>
+      <Data_file><![CDATA[soil_moisture_2003.dat]]></Data_file>
+      <Data_file><![CDATA[soil_moisture_2004.dat]]></Data_file>
+      <Data_file><![CDATA[soil_moisture_2005.dat]]></Data_file>
+      <Data_file><![CDATA[soil_moisture_2006.dat]]></Data_file>
+      <Data_file><![CDATA[soil_moisture_2006.dat]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070710]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_1997.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_1998.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_1999.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2000.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2001.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2002.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2003.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2004.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2005.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2006.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/soil_moisture/soil_moisture_2007.dat]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[On the FACE site, soil moisture data are available for ring 1 
+through ring 5 from 1997-2007, and there are data for ring 6
+from 1997-1999.  Ring 1 and ring 2 are exposed to elevated CO2, 
+and the remaining rings have ambient CO2. 
+
+Soil moisture was measured with a time-domain reflectometer
+(TRASE systems, Soil Moisture Equipment Corporation,
+Santa Barbara, CA) to a depth of 20cm. 
+
+The missing-value indicator for the soil moisture data is -99.99.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

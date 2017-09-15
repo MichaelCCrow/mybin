@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Johnson, K. M.]]></origin>
+        <origin><![CDATA[Dickson, A. G.]]></origin>
+        <origin><![CDATA[Eischeid, G.]]></origin>
+        <origin><![CDATA[Goyet, C.]]></origin>
+        <origin><![CDATA[Guenther, P. R.]]></origin>
+        <origin><![CDATA[Key, R. M.]]></origin>
+        <origin><![CDATA[Lee, K.]]></origin>
+        <origin><![CDATA[Lewis, E. R.]]></origin>
+        <origin><![CDATA[Millero, F. J.]]></origin>
+        <origin><![CDATA[Purkerson, D.]]></origin>
+        <origin><![CDATA[Sabine, C. L.]]></origin>
+        <origin><![CDATA[Schottle, R. G.]]></origin>
+        <origin><![CDATA[Wallace, D. W. R.]]></origin>
+        <origin><![CDATA[Wilke, R. J. ]]></origin>
+        <origin><![CDATA[Winn, C. D.]]></origin>
+        <title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the Nine R/V Knorr Cruises Comprising the Indian Ocean CO2  Survey (WOCE  Sections I8SI9S, I9N, I8NI5E, I3, I5WI4, I7N, I1, I10, and I2; December 1, 1994 January 19, 1996)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_080.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the Nine R/V Knorr Cruises Comprising the Indian Ocean CO2  Survey (WOCE  Sections I8SI9S, I9N, I8NI5E, I3, I5WI4, I7N, I1, I10, and I2; December 1, 1994 January 19, 1996)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19941201]]></begdate>
+          <enddate><![CDATA[19960122]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Indian Ocean]]></themekey>
+        <themekey><![CDATA[inorganic carbon ]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[total alkalinity]]></themekey>
+        <themekey><![CDATA[coulometry]]></themekey>
+        <themekey><![CDATA[gas chromatography]]></themekey>
+        <themekey><![CDATA[World Ocean Circulation Experiment]]></themekey>
+        <themekey><![CDATA[WOCE]]></themekey>
+        <themekey><![CDATA[hydrographic measurements]]></themekey>
+        <themekey><![CDATA[carbon cycle]]></themekey>
+        <themekey><![CDATA[hydrographic data]]></themekey>
+        <themekey><![CDATA[chemical data ]]></themekey>
+        <themekey><![CDATA[Nine R/V Knorr Cruises ]]></themekey>
+        <themekey><![CDATA[Indian Ocean CO2 Survey ]]></themekey>
+        <themekey><![CDATA[WOCE Sections ]]></themekey>
+        <themekey><![CDATA[I8SI9S]]></themekey>
+        <themekey><![CDATA[I9N]]></themekey>
+        <themekey><![CDATA[I8NI5E]]></themekey>
+        <themekey><![CDATA[I3]]></themekey>
+        <themekey><![CDATA[I5WI4]]></themekey>
+        <themekey><![CDATA[I7N]]></themekey>
+        <themekey><![CDATA[I1]]></themekey>
+        <themekey><![CDATA[I10]]></themekey>
+        <themekey><![CDATA[I2]]></themekey>
+        <themekey><![CDATA[NDP-080]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 125325</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 151338 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Indian Ocean]]></Keywords>
+    <Keywords><![CDATA[inorganic carbon ]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[total alkalinity]]></Keywords>
+    <Keywords><![CDATA[coulometry]]></Keywords>
+    <Keywords><![CDATA[gas chromatography]]></Keywords>
+    <Keywords><![CDATA[World Ocean Circulation Experiment]]></Keywords>
+    <Keywords><![CDATA[WOCE]]></Keywords>
+    <Keywords><![CDATA[hydrographic measurements]]></Keywords>
+    <Keywords><![CDATA[carbon cycle]]></Keywords>
+    <Keywords><![CDATA[hydrographic data]]></Keywords>
+    <Keywords><![CDATA[chemical data ]]></Keywords>
+    <Keywords><![CDATA[Nine R/V Knorr Cruises ]]></Keywords>
+    <Keywords><![CDATA[Indian Ocean CO2 Survey ]]></Keywords>
+    <Keywords><![CDATA[WOCE Sections ]]></Keywords>
+    <Keywords><![CDATA[I8SI9S]]></Keywords>
+    <Keywords><![CDATA[I9N]]></Keywords>
+    <Keywords><![CDATA[I8NI5E]]></Keywords>
+    <Keywords><![CDATA[I3]]></Keywords>
+    <Keywords><![CDATA[I5WI4]]></Keywords>
+    <Keywords><![CDATA[I7N]]></Keywords>
+    <Keywords><![CDATA[I1]]></Keywords>
+    <Keywords><![CDATA[I10]]></Keywords>
+    <Keywords><![CDATA[I2]]></Keywords>
+    <Keywords><![CDATA[NDP-080]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 151338 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_080.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp080]]></Product_number>
+      <Product_title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the Nine R/V Knorr Cruises Comprising the Indian Ocean CO2  Survey (WOCE  Sections I8SI9S, I9N, I8NI5E, I3, I5WI4, I7N, I1, I10, and I2; December 1, 1994 January 19, 1996)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Johnson, K. M.]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization><![CDATA[Department of Applied Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Dickson, A. G.]]></Name>
+        <Company><![CDATA[Scripps Institution of Oceanography]]></Company>
+        <Organization><![CDATA[University of California]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Eischeid, G.]]></Name>
+        <Company><![CDATA[Woods Hole Oceanographic Institute]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Goyet, C.]]></Name>
+        <Company><![CDATA[University of Perpignan]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Guenther, P. R.]]></Name>
+        <Company><![CDATA[Scripps Institution of Oceanography]]></Company>
+        <Organization><![CDATA[University of California]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Key, R. M.]]></Name>
+        <Company><![CDATA[Princeton University]]></Company>
+        <Organization><![CDATA[Department of Geosciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lee, K.]]></Name>
+        <Company><![CDATA[Rosenstiel School of Marine and Atmospheric Science]]></Company>
+        <Organization><![CDATA[University of Miami]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lewis, E. R.]]></Name>
+        <Company><![CDATA[Department of Applied Science]]></Company>
+        <Organization><![CDATA[Brookhaven National Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Millero, F. J.]]></Name>
+        <Company><![CDATA[Rosenstiel School of Marine and Atmospheric Science]]></Company>
+        <Organization><![CDATA[University of Miami]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Purkerson, D.]]></Name>
+        <Company><![CDATA[Rosenstiel School of Marine and Atmospheric Science]]></Company>
+        <Organization><![CDATA[University of Miami]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sabine, C. L.]]></Name>
+        <Company><![CDATA[Pacific Marine Environmental Laboratory]]></Company>
+        <Organization><![CDATA[NOAA]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schottle, R. G.]]></Name>
+        <Company><![CDATA[Department of Oceanography]]></Company>
+        <Organization><![CDATA[University of Hawaii]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wallace, D. W. R.]]></Name>
+        <Company><![CDATA[Institute for Marine Sciences]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wilke, R. J. ]]></Name>
+        <Company><![CDATA[Department of Applied Science]]></Company>
+        <Organization><![CDATA[Brookhaven National Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Winn, C. D.]]></Name>
+        <Company><![CDATA[Hawaii Pacific University]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Indian Ocean ]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_080/ndp080.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i01.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i01e_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i01sta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i01w_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i02.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i02e_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i02sta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i02w_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i03.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i03_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i03sta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i04i05w.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i04i05w_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i05wi04sta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i07n.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i07n_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i07nsta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i08ni05e.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i08ni05e_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i08ni05esta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i08si09s.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i08si09s_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i08si09ssta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i09n.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i09n.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i09nsta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i10.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i10_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/i10sta.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[station]]></Variable>
+      <Variable><![CDATA[Date]]></Variable>
+      <Variable><![CDATA[Depth]]></Variable>
+      <Variable><![CDATA[TCO2 (at-sea)]]></Variable>
+      <Variable><![CDATA[TCO2 (SIO)]]></Variable>
+      <Variable><![CDATA[TCO2(sea-SIO)]]></Variable>
+      <Variable><![CDATA[SALNTY  ]]></Variable>
+      <Variable><![CDATA[OXYGEN  ]]></Variable>
+      <Variable><![CDATA[SILCAT ]]></Variable>
+      <Variable><![CDATA[TCARBN    ]]></Variable>
+      <Variable><![CDATA[EQTMP    ]]></Variable>
+      <Variable><![CDATA[FCO2    ]]></Variable>
+      <Variable><![CDATA[PCO2    ]]></Variable>
+      <Variable><![CDATA[TEMPERATURE [&#176;C]   ]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/ndp080.txt]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_080/ndp080.html]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/IOdat.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/IOstainv.for]]></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp080/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[27.7MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This document describes the procedures and methods used to measure total carbon dioxide (TCO2) and total alkalinity (TALK) at hydrographic stations taken during the R/V Knorr Indian Ocean cruises (Sections I8SI9S, I9N, I8NI5E, I3, I5WI4, I7N, I1, I10, and I2) in 1994-1996. The measurements were conducted as part of the World Ocean Circulation Experiment (WOCE). The expedition began in Fremantle, Australia, on December 1, 1994, and ended in Mombasa, Kenya, on January 22, 1996. During the nine cruises, 12 WOCE sections were occupied.
+<br><br>
+ Total carbon dioxide was extracted from water samples and measured using single-operator multiparameter metabolic analyzers (SOMMAs) coupled to coulometers. The overall precision and accuracy of the analyses was +/- 1.20 micro-mol/kg. The second carbonate system parameter, TALK, was determined by potentiometric titration. The precision of the measurements determined from 962 analyses of certified reference material was +/- 4.2 micro-mol/kg. This work was supported by grants from the National Science Foundation, the U. S. Department of Energy, and the National Oceanographic and Atmospheric Administration. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

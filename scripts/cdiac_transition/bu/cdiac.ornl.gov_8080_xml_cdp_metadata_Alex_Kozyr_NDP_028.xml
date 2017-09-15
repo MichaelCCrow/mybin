@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Chen, C.-T. A.]]></origin>
+        <title><![CDATA[Carbonate Chemistry of the Weddell Sea]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_028.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp028/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Carbonate Chemistry of the Weddell Sea]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19811012]]></begdate>
+          <enddate><![CDATA[19811124]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-50]]></westbc>
+        <eastbc><![CDATA[5.375]]></eastbc>
+        <northbc><![CDATA[-37]]></northbc>
+        <southbc><![CDATA[-62.342]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Calcium]]></themekey>
+        <themekey><![CDATA[Date]]></themekey>
+        <themekey><![CDATA[Latitude and Longitude]]></themekey>
+        <themekey><![CDATA[Normalized Surface Total Alkalinity]]></themekey>
+        <themekey><![CDATA[pH]]></themekey>
+        <themekey><![CDATA[Salinity]]></themekey>
+        <themekey><![CDATA[Sample Depth]]></themekey>
+        <themekey><![CDATA[Station Number]]></themekey>
+        <themekey><![CDATA[Water Temperature]]></themekey>
+        <themekey><![CDATA[NDP-028]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 122225</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 141459 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Calcium]]></Keywords>
+    <Keywords><![CDATA[Date]]></Keywords>
+    <Keywords><![CDATA[Latitude and Longitude]]></Keywords>
+    <Keywords><![CDATA[Normalized Surface Total Alkalinity]]></Keywords>
+    <Keywords><![CDATA[pH]]></Keywords>
+    <Keywords><![CDATA[Salinity]]></Keywords>
+    <Keywords><![CDATA[Sample Depth]]></Keywords>
+    <Keywords><![CDATA[Station Number]]></Keywords>
+    <Keywords><![CDATA[Water Temperature]]></Keywords>
+    <Keywords><![CDATA[NDP-028]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 141459 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_028.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp028]]></Product_number>
+      <Product_title><![CDATA[Carbonate Chemistry of the Weddell Sea]]></Product_title>
+      <Author>
+        <Name><![CDATA[Chen, C.-T. A.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Weddell Sea]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/oceans/ndp_028/ndp028.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp028/ndp028.sur]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp028/ndp028.ver]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[DAY]]></Variable>
+      <Variable><![CDATA[DAYS]]></Variable>
+      <Variable><![CDATA[DEPTH]]></Variable>
+      <Variable><![CDATA[ELATDG]]></Variable>
+      <Variable><![CDATA[ELATDR]]></Variable>
+      <Variable><![CDATA[ELATMN]]></Variable>
+      <Variable><![CDATA[ELONDG]]></Variable>
+      <Variable><![CDATA[ELONDR]]></Variable>
+      <Variable><![CDATA[ELONMN]]></Variable>
+      <Variable><![CDATA[ETIME]]></Variable>
+      <Variable><![CDATA[FLAG]]></Variable>
+      <Variable><![CDATA[HEADER]]></Variable>
+      <Variable><![CDATA[LATDEG]]></Variable>
+      <Variable><![CDATA[LATDIR]]></Variable>
+      <Variable><![CDATA[LATMIN]]></Variable>
+      <Variable><![CDATA[LONDEG]]></Variable>
+      <Variable><![CDATA[LONDIR]]></Variable>
+      <Variable><![CDATA[LONMIN]]></Variable>
+      <Variable><![CDATA[LTIME]]></Variable>
+      <Variable><![CDATA[MON]]></Variable>
+      <Variable><![CDATA[MONTH]]></Variable>
+      <Variable><![CDATA[NCA]]></Variable>
+      <Variable><![CDATA[NUMBER]]></Variable>
+      <Variable><![CDATA[PH]]></Variable>
+      <Variable><![CDATA[PHH]]></Variable>
+      <Variable><![CDATA[SALIN]]></Variable>
+      <Variable><![CDATA[SALNTY]]></Variable>
+      <Variable><![CDATA[SAMPLE]]></Variable>
+      <Variable><![CDATA[SLATDG]]></Variable>
+      <Variable><![CDATA[SLATDR]]></Variable>
+      <Variable><![CDATA[SLATMN]]></Variable>
+      <Variable><![CDATA[SLONDG]]></Variable>
+      <Variable><![CDATA[SLONDR]]></Variable>
+      <Variable><![CDATA[SLONMN]]></Variable>
+      <Variable><![CDATA[TA]]></Variable>
+      <Variable><![CDATA[TALK]]></Variable>
+      <Variable><![CDATA[TEM]]></Variable>
+      <Variable><![CDATA[TEMP]]></Variable>
+      <Variable><![CDATA[TIME]]></Variable>
+      <Variable><![CDATA[TOTALK]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/ndp_028/ndp028.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp028/ndp028.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp028/ndp028.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19880101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19880101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp028/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[35.7KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[In the late austral winter of 1981, carbonate data were obtained from the Weddell Sea as part of the U.S.U.S.S.R. Weddell Polynya Expedition (WEPOLEX-81). Both surface samples and vertical-station samples were taken. The data include ship position (latitude and longitude), date, station number, sample depth, salinity, water temperature, pH, normalized surface total alkalinity, and calcium. These data represent the first comprehensive carbonate data obtained in the Weddell Sea during late winter. Because of the importance of the Weddell Sea as a source of deep water for the world's oceans, these data have improved the understanding of the oceanic circulation of excess CO2 in the carbon cycle. The data are in two files [one for data from surface stations (15.5 kB) and one for data from vertical stations (5.9 kB)].]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

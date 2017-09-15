@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Menne, M.J.]]></origin>
+        <origin><![CDATA[Williams, C.N.]]></origin>
+        <origin><![CDATA[Vose, R.S.]]></origin>
+        <title><![CDATA[UNITED STATES HISTORICAL CLIMATOLOGY NETWORK (USHCN): 
+Long-Term Daily and Monthly Climate Records from
+Stations Across the Contiguous United States]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ushcn/ushcn.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[UNITED STATES HISTORICAL CLIMATOLOGY NETWORK (USHCN): 
+Long-Term Daily and Monthly Climate Records from
+Stations Across the Contiguous United States]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18710101]]></begdate>
+          <enddate><![CDATA[20111231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-124.370]]></westbc>
+        <eastbc><![CDATA[-67.000]]></eastbc>
+        <northbc><![CDATA[49.010]]></northbc>
+        <southbc><![CDATA[25.860]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[USHCN]]></themekey>
+        <themekey><![CDATA[United States]]></themekey>
+        <themekey><![CDATA[climate]]></themekey>
+        <themekey><![CDATA[climatology]]></themekey>
+        <themekey><![CDATA[daily data]]></themekey>
+        <themekey><![CDATA[monthly data]]></themekey>
+        <themekey><![CDATA[monthly mean]]></themekey>
+        <themekey><![CDATA[historical]]></themekey>
+        <themekey><![CDATA[maximum temperature]]></themekey>
+        <themekey><![CDATA[minimum temperature]]></themekey>
+        <themekey><![CDATA[mean temperature]]></themekey>
+        <themekey><![CDATA[snow depth]]></themekey>
+        <themekey><![CDATA[snowfall amount]]></themekey>
+        <themekey><![CDATA[snow fall]]></themekey>
+        <themekey><![CDATA[temperature]]></themekey>
+        <themekey><![CDATA[historical climatology network]]></themekey>
+        <themekey><![CDATA[daily temperature]]></themekey>
+        <themekey><![CDATA[precipitation ]]></themekey>
+        <themekey><![CDATA[snow data]]></themekey>
+        <themekey><![CDATA[National Oceanic and Atmospheric Administration]]></themekey>
+        <themekey><![CDATA[NOAA]]></themekey>
+        <themekey><![CDATA[National Climatic Data Center]]></themekey>
+        <themekey><![CDATA[NDP-070]]></themekey>
+        <themekey><![CDATA[NDP-019]]></themekey>
+        <themekey><![CDATA[NCDC]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120921 124204</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20090826 095638 by 160.91.18.24</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[USHCN]]></Keywords>
+    <Keywords><![CDATA[United States]]></Keywords>
+    <Keywords><![CDATA[climate]]></Keywords>
+    <Keywords><![CDATA[climatology]]></Keywords>
+    <Keywords><![CDATA[daily data]]></Keywords>
+    <Keywords><![CDATA[monthly data]]></Keywords>
+    <Keywords><![CDATA[monthly mean]]></Keywords>
+    <Keywords><![CDATA[historical]]></Keywords>
+    <Keywords><![CDATA[maximum temperature]]></Keywords>
+    <Keywords><![CDATA[minimum temperature]]></Keywords>
+    <Keywords><![CDATA[mean temperature]]></Keywords>
+    <Keywords><![CDATA[snow depth]]></Keywords>
+    <Keywords><![CDATA[snowfall amount]]></Keywords>
+    <Keywords><![CDATA[snow fall]]></Keywords>
+    <Keywords><![CDATA[temperature]]></Keywords>
+    <Keywords><![CDATA[historical climatology network]]></Keywords>
+    <Keywords><![CDATA[daily temperature]]></Keywords>
+    <Keywords><![CDATA[precipitation ]]></Keywords>
+    <Keywords><![CDATA[snow data]]></Keywords>
+    <Keywords><![CDATA[National Oceanic and Atmospheric Administration]]></Keywords>
+    <Keywords><![CDATA[NOAA]]></Keywords>
+    <Keywords><![CDATA[National Climatic Data Center]]></Keywords>
+    <Keywords><![CDATA[NDP-070]]></Keywords>
+    <Keywords><![CDATA[NDP-019]]></Keywords>
+    <Keywords><![CDATA[NCDC]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Please note: CDIAC will regrettably no longer be performing annual data updates to our interface for NOAA's 
+USHCN database, with 
+the final year of data being 2014. Users can obtain both monthly and daily USHCN data, in much more 
+real time, directly from the compilers of this
+valuable database via NOAA's
+National Centers for Environmental Information. Several entry points to these data are available from NCEI's
+The United States Historical Climatology Network (USHCN) is a high quality data set of daily and monthly records of basic meteorological variables from 1218 observing stations across the 48 contiguous United States.
+M.J. Menne, C.N. Williams, Jr., and R.S. Vose
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20090826 095638 by 160.91.18.24</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.009]]></Product_number>
+      <Product_title><![CDATA[UNITED STATES HISTORICAL CLIMATOLOGY NETWORK (USHCN): 
+Long-Term Daily and Monthly Climate Records from
+Stations Across the Contiguous United States]]></Product_title>
+      <Author>
+        <Name><![CDATA[Menne, M.J.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Williams, C.N.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Vose, R.S.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[United States]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ushcn/ushcn.html]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[COOP ID]]></Variable>
+      <Variable><![CDATA[LATITUDE]]></Variable>
+      <Variable><![CDATA[LONGITUDE]]></Variable>
+      <Variable><![CDATA[STATE]]></Variable>
+      <Variable><![CDATA[COMPONENT]]></Variable>
+      <Variable><![CDATA[NAME ELEMENT]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ushcn/ushcn.htmlPlease note: CDIAC will regrettably no longer be performing annual data updates to our interface for NOAA's 
+USHCN database, with 
+the final year of data being 2014. Users can obtain both monthly and daily USHCN data, in much more 
+real time, directly from the compilers of this
+valuable database via NOAA's
+National Centers for Environmental Information. Several entry points to these data are available from NCEI's
+The United States Historical Climatology Network (USHCN) is a high quality data set of daily and monthly records of basic meteorological variables from 1218 observing stations across the 48 contiguous United States.
+M.J. Menne, C.N. Williams, Jr., and R.S. Vose
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19990501]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20090825]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ushcn/ushcn.html]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[1 GB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The United States Historical Climatology Network (USHCN) is a high-quality data set of daily and monthly records of basic meteorological variables from 1218 observing stations across the 48 contiguous United States. Daily data include observations of maximum and minimum temperature, precipitation amount, snowfall amount, and snow depth; monthly data consist of monthly-averaged maximum, minimum, and mean temperature and total monthly precipitation. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

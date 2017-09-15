@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Wennberg, Paul]]></origin>
+        <origin><![CDATA[Roehl, Coleen]]></origin>
+        <origin><![CDATA[Wunch, Debra]]></origin>
+        <title><![CDATA[Total Carbon Column Observing Network (TCCON)]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/TCCON.xml]]></onlink>
+        <onlink><![CDATA[http://tccon.ornl.gov/2014]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Total Carbon Column Observing Network (TCCON)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20040101]]></begdate>
+          <enddate><![CDATA[20170531]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Total Carbon Column Observing Network ]]></themekey>
+        <themekey><![CDATA[TCCON]]></themekey>
+        <themekey><![CDATA[ground-based Fourier Transform Spectrometers ]]></themekey>
+        <themekey><![CDATA[solar spectra]]></themekey>
+        <themekey><![CDATA[near-infrared spectra ]]></themekey>
+        <themekey><![CDATA[column-averaged abundances of atmospheric constituents ]]></themekey>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[CH4]]></themekey>
+        <themekey><![CDATA[N2O]]></themekey>
+        <themekey><![CDATA[HF]]></themekey>
+        <themekey><![CDATA[CO]]></themekey>
+        <themekey><![CDATA[H2O]]></themekey>
+        <themekey><![CDATA[HDO]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://tccon.ornl.gov/2014]]></placekey>
+        <placekey><![CDATA[http://tccon.ornl.gov/2012]]></placekey>
+        <placekey><![CDATA[http://tccon.ornl.gov/2009]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20170531 143330</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20170531 142954 by 160.91.28.73</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Total Carbon Column Observing Network ]]></Keywords>
+    <Keywords><![CDATA[TCCON]]></Keywords>
+    <Keywords><![CDATA[ground-based Fourier Transform Spectrometers ]]></Keywords>
+    <Keywords><![CDATA[solar spectra]]></Keywords>
+    <Keywords><![CDATA[near-infrared spectra ]]></Keywords>
+    <Keywords><![CDATA[column-averaged abundances of atmospheric constituents ]]></Keywords>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[CH4]]></Keywords>
+    <Keywords><![CDATA[N2O]]></Keywords>
+    <Keywords><![CDATA[HF]]></Keywords>
+    <Keywords><![CDATA[CO]]></Keywords>
+    <Keywords><![CDATA[H2O]]></Keywords>
+    <Keywords><![CDATA[HDO]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20170531 142954 by 160.91.28.73</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/TCCON.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[10.14291/tccon.archive/1348407]]></Product_number>
+      <Product_title><![CDATA[Total Carbon Column Observing Network (TCCON)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Wennberg, Paul]]></Name>
+        <Company><![CDATA[Jet Propulsion Laboratory (JPL)/CalTech]]></Company>
+        <Organization><![CDATA[NASA]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Roehl, Coleen]]></Name>
+        <Company><![CDATA[Jet Propulsion Laboratory (JPL)/CalTech]]></Company>
+        <Organization><![CDATA[NASA]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wunch, Debra]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[University of Toronto]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric greenhouse gas levels]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric chemistry]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric abundances of chemical constituents]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[TCCON Archive]]></Site_name>
+        <Site_URL><![CDATA[http://tccon.ornl.gov]]></Site_URL>
+        <Site_data_file><![CDATA[http://tccon-wiki.caltech.edu]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://tccon.ornl.gov/2014]]></Data_site>
+      <Data_site><![CDATA[http://tccon.ornl.gov/2012]]></Data_site>
+      <Data_site><![CDATA[http://tccon.ornl.gov/2009]]></Data_site>
+      <Variable><![CDATA[Dry Column-Averaged Mixing Ratios of CO2]]></Variable>
+      <Variable><![CDATA[Dry Column-Averaged Mixing Ratios of CO]]></Variable>
+      <Variable><![CDATA[Dry Column-Averaged Mixing Ratios of N2O]]></Variable>
+      <Variable><![CDATA[Dry Column-Averaged Mixing Ratios of CH4]]></Variable>
+      <Variable><![CDATA[Dry Column-Averaged Mixing Ratios of H2O]]></Variable>
+      <Variable><![CDATA[Dry Column-Averaged Mixing Ratios of HDO]]></Variable>
+      <Variable><![CDATA[Dry Column-Averaged Mixing Ratios of HF]]></Variable>
+      <Variable><![CDATA[atmospheric carbon dioxide mixing ratios]]></Variable>
+      <Variable><![CDATA[atmospheric carbon monoxide mixing ratios]]></Variable>
+      <Variable><![CDATA[atmospheric nitrous oxide mixing ratios]]></Variable>
+      <Variable><![CDATA[atmospheric methane mixing ratios]]></Variable>
+      <Descriptive_file></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20140220]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20170531]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://tccon.ornl.gov/2014]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[25 GB compressed]]></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The Total Carbon Column Observing Network (TCCON) is a network of ground-based Fourier Transform Spectrometers that record spectra of the sun in the near-infrared. From these spectra, accurate and precise column-averaged abundances of atmospheric constituents including CO2, CH4, N2O, HF, CO, H2O, and HDO, are retrieved.
+
+Support for the network is provided in part by NASA through grants made to the California Institute of Technology.  Support for analysis and operations at the individual sites are described on the site pages.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

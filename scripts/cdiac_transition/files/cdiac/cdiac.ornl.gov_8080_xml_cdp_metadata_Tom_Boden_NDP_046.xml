@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Richards, J. F.]]></origin>
+        <origin><![CDATA[Flint, E. P.]]></origin>
+        <title><![CDATA[Historic Land Use and Carbon Estimates for South and Southeast Asia: 1880-1980]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/NDP_046.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Historic Land Use and Carbon Estimates for South and Southeast Asia: 1880-1980]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18800101]]></begdate>
+          <enddate><![CDATA[19801231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[68.00]]></westbc>
+        <eastbc><![CDATA[141.00]]></eastbc>
+        <northbc><![CDATA[36.00]]></northbc>
+        <southbc><![CDATA[-11.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[South Asia]]></themekey>
+        <themekey><![CDATA[Southeast Asia]]></themekey>
+        <themekey><![CDATA[Biomass]]></themekey>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Land Use]]></themekey>
+        <themekey><![CDATA[Vegetation]]></themekey>
+        <themekey><![CDATA[India]]></themekey>
+        <themekey><![CDATA[Sri Lanka]]></themekey>
+        <themekey><![CDATA[Bangladesh]]></themekey>
+        <themekey><![CDATA[Myanmar (Burma)]]></themekey>
+        <themekey><![CDATA[Thailand]]></themekey>
+        <themekey><![CDATA[Laos              ]]></themekey>
+        <themekey><![CDATA[Kampuchea (Cambodia)]]></themekey>
+        <themekey><![CDATA[Vietnam]]></themekey>
+        <themekey><![CDATA[Malaysia]]></themekey>
+        <themekey><![CDATA[Brunei]]></themekey>
+        <themekey><![CDATA[Singapore                    ]]></themekey>
+        <themekey><![CDATA[Indonesia]]></themekey>
+        <themekey><![CDATA[Philippines]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145439</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164601 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[South Asia]]></Keywords>
+    <Keywords><![CDATA[Southeast Asia]]></Keywords>
+    <Keywords><![CDATA[Biomass]]></Keywords>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Land Use]]></Keywords>
+    <Keywords><![CDATA[Vegetation]]></Keywords>
+    <Keywords><![CDATA[India]]></Keywords>
+    <Keywords><![CDATA[Sri Lanka]]></Keywords>
+    <Keywords><![CDATA[Bangladesh]]></Keywords>
+    <Keywords><![CDATA[Myanmar (Burma)]]></Keywords>
+    <Keywords><![CDATA[Thailand]]></Keywords>
+    <Keywords><![CDATA[Laos              ]]></Keywords>
+    <Keywords><![CDATA[Kampuchea (Cambodia)]]></Keywords>
+    <Keywords><![CDATA[Vietnam]]></Keywords>
+    <Keywords><![CDATA[Malaysia]]></Keywords>
+    <Keywords><![CDATA[Brunei]]></Keywords>
+    <Keywords><![CDATA[Singapore                    ]]></Keywords>
+    <Keywords><![CDATA[Indonesia]]></Keywords>
+    <Keywords><![CDATA[Philippines]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164601 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/NDP_046.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.ndp046]]></Product_number>
+      <Product_title><![CDATA[Historic Land Use and Carbon Estimates for South and Southeast Asia: 1880-1980]]></Product_title>
+      <Author>
+        <Name><![CDATA[Richards, J. F.]]></Name>
+        <Company><![CDATA[Duke University]]></Company>
+        <Organization><![CDATA[Department of History]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Flint, E. P.]]></Name>
+        <Company><![CDATA[Duke University]]></Company>
+        <Organization><![CDATA[Department of History]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[South and Southeast Asia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp046.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[AG_FLG]]></Variable>
+      <Variable><![CDATA[AG_PRM]]></Variable>
+      <Variable><![CDATA[AG_TMP]]></Variable>
+      <Variable><![CDATA[BARREN]]></Variable>
+      <Variable><![CDATA[CARB]]></Variable>
+      <Variable><![CDATA[COUNTRY]]></Variable>
+      <Variable><![CDATA[FR_CON]]></Variable>
+      <Variable><![CDATA[FR_INT]]></Variable>
+      <Variable><![CDATA[GRASS]]></Variable>
+      <Variable><![CDATA[HP_FLG]]></Variable>
+      <Variable><![CDATA[ID]]></Variable>
+      <Variable><![CDATA[LP_FLG]]></Variable>
+      <Variable><![CDATA[N]]></Variable>
+      <Variable><![CDATA[NON_FLG]]></Variable>
+      <Variable><![CDATA[NUM]]></Variable>
+      <Variable><![CDATA[PMEAN]]></Variable>
+      <Variable><![CDATA[PRANG]]></Variable>
+      <Variable><![CDATA[SETTLE]]></Variable>
+      <Variable><![CDATA[SPACE]]></Variable>
+      <Variable><![CDATA[WATER]]></Variable>
+      <Variable><![CDATA[WT_FOR                              ]]></Variable>
+      <Variable><![CDATA[WT_NON]]></Variable>
+      <Variable><![CDATA[X]]></Variable>
+      <Variable><![CDATA[XLAND]]></Variable>
+      <Variable><![CDATA[XMGCHA]]></Variable>
+      <Variable><![CDATA[Y]]></Variable>
+      <Variable><![CDATA[ZONE]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp046.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/ndp046.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/factors.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/flags.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/flags.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/landcarb.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/landcarb.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/sea.forfactors.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/sea.sas ]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19940101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19940101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp046/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[11.0MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This digital data base contains estimates of land use change and the carbon content of vegetation for South and Southeast Asia for the years 1880, 1920, 1950, 1970, and 1980. These data were originally collected for climate modelers so they could reduce the uncertainty associated with the magnitude and time course of historical land use change and of carbon release. For this data base, South and Southeast Asia is defined as encompassing nearly 8 x 106 km2 of the earth's land surface and includes the countries of India, Sri Lanka, Bangladesh, Myanmar (Burma), Thailand, Laos, Kampuchea (Cambodia), Vietnam, Malaysia, Brunei, Singapore, Indonesia, and the Philippines.
+<br><br>
+The most important change in land use over this 100-year period was the conversion of
+107 x 106 ha of forest/woodland to categories with lower biomass. Land thus transformed accounted for 13.5% of the total area of the study region. The estimated total carbon content of live vegetation in South and Southeast Asia has dropped progressively, from 59 x 109 Mg in 1880 to 27 x 109 Mg in 1980.
+<br><br>
+Throughout the study period, the carbon stock in forests was greater than the carbon content in all other categories combined, although its share of the total declined progressively from 81% in 1880 to 73% in 1980.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

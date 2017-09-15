@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[North Central Research Station]]></origin>
+        <title><![CDATA[Aspen FACE Meteorological and Soil Data]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Lisa_Olsen/FACE/aspen_met.xml]]></onlink>
+        <onlink></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Aspen FACE Meteorological and Soil Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19980401]]></begdate>
+          <enddate><![CDATA[20060131]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[FACTS II]]></themekey>
+        <themekey><![CDATA[ASPEN FACE]]></themekey>
+        <themekey><![CDATA[meteorological data]]></themekey>
+        <themekey><![CDATA[soil temperature]]></themekey>
+        <themekey><![CDATA[soil moisture]]></themekey>
+        <themekey><![CDATA[vegetation response]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://public.ornl.gov/face/ASPEN/aspen_data_co2weather.shtml]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 131500</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070801 092430 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[FACTS II]]></Keywords>
+    <Keywords><![CDATA[ASPEN FACE]]></Keywords>
+    <Keywords><![CDATA[meteorological data]]></Keywords>
+    <Keywords><![CDATA[soil temperature]]></Keywords>
+    <Keywords><![CDATA[soil moisture]]></Keywords>
+    <Keywords><![CDATA[vegetation response]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[File Content Indicator:  101
+Measurements Reported Every 30 Minutes
+  (Missing Data Value = 6999)
+
+Each ring is divided into three areas:
+   Birch:  contains mixed Aspen/Birch
+   Maple:  contains mixed Aspen/Maple
+   Aspen:  contains pure Aspen
+
+
+Col Col  Header		Description
+Let Num  
+ A   1   ArrayID 	File Content Indicator = 101
+ B   2   RingNo		Ring Number
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Above Ground Conditions:
+ F   6   W Spd Lo	Wind Speed at 2 meters (meters/sec)
+ G   7   W Dir Lo	Wind Direction at 2 meters (degrees)
+ H   8   StDv W Dir Lo	Wind Direction Standard Deviation at 2 meters
+ I   9   W Spd Hi	W Spd at 10 m (m/sec)
+ J  10   W Dir Hi	W Dir at 10 m (deg)
+ K  11   StDv W Dir Hi	W Dir Std Dev at 10 m
+ L  12   Birch PAR	Photosynthetically Active Radiation - Birch at 2 m (mmoles/sq m/sec)
+ M  13   Maple PAR	PAR in Maple area at 2 m (millimoles/square meter/second)
+ N  14   Aspen PAR	PAR in Aspen area at 2 m (mmoles/sq m/sec)
+ O  15   Net Rad	Net Radiation at 2 meters (watts/square meter)
+ P  16   Birch Temp	Temperature in Birch area at 2 meters (C)
+ Q  17   Maple Temp	Temp in Maple area at 2 m (C)
+ R  18   Aspen Temp	Temp in Aspen area at 2 m (C)
+ S  19   Pole Temp	Pole Temp at 10 meters (C)
+ T  20   Birch RH	Relative Humidity in Birch area at 2 meters
+ U  21   Maple RH	RH in Maple area at 2 m
+ V  22   Aspen RH	RH in Aspen area at 2 m
+ W  23   Pole RH	Pole RH at 10 meters
+ X  24   TC Ref		Thermocouple Reference
+
+Soil Temperatures:
+ Y  25   Birch@-5	Birch area at 5 centimeters depth (C)
+ Z  26   Birch@-10	Birch area at 10 cm depth (C)
+AA  27   Birch@-20	Birch area at 20 cm depth (C)
+AB  28   Birch@-50	Birch area at 50 cm depth (C)
+AC  29   Birch@-100	Birch area at 1 meter depth (C)
+AD  30   Maple@-5	Maple area at 5 centimeters depth (C)
+AE  31   Maple@-10	Maple area at 10 cm depth (C)
+AF  32   Maple@-20	Maple area at 20 cm depth (C)
+AG  33   Maple@-50	Maple area at 50 cm depth (C)
+AH  34   Maple@-100	Maple area at 1 meter depth (C)
+AI  35   Aspen@-5	Aspen area at 5 centimeters depth depth (C)
+AJ  36   Aspen@-10	Aspen area at 10 cm depth (C)
+AK  37   Aspen@-20	Aspen area at 20 cm depth (C)
+AL  38   Aspen@-50	Aspen area at 50 cm depth (C)
+AM  39   Aspen@-100	Aspen area at 1 meter depth (C)
+
+Additional columns added 01/2001:
+AN  40   Leaf Wetness	Resistance (kilo-ohms)
+
+Rings 1.2 and 3.3:
+   AO  41   Rain		Rain last half-hour (millimeters)
+   AP  42   StDv Birch PAR	Standard Deviation of Birch PAR
+   AQ  43   StDv Maple PAR	Standard Deviation of Maple PAR
+   AR  44   StDv Aspen PAR	Standard Deviation of Aspen PAR
+   AS  45   StDv NetRad		Standard Deviation of Net Radiation
+
+Rings 2.1 and 3.4 (where no rain is measured):
+   AO  41   StDv Birch PAR	Standard Deviation of Birch PAR
+   AP  42   StDv Maple PAR	Standard Deviation of Maple PAR
+   AQ  43   StDv Aspen PAR	Standard Deviation of Aspen PAR
+   AR  44   StDv NetRad		Standard Deviation of Net Radiation]]></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[File Content Indicator:  102
+Measurements Reported Every 2 Hours
+  (Missing Data Values = 6999)
+
+Each ring is divided into three areas:
+   Birch:  contains mixed Aspen/Birch
+   Maple:  contains mixed Aspen/Maple
+   Aspen:  contains pure Aspen
+
+
+Col Col  Header		Description
+Let Num
+ A   1   ArrayID 	File Content Indicator = 102
+ B   2   RingNo		Ring Number
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Volumetric Soil Moistures:
+ F   6   Bir SM -5	Birch area 5 to 35 centimeters depth
+ G   7   Asp SM -5	Aspen area 5 to 35 cm depth
+ H   8   Mpl SM -5	Maple area 5 to 35 cm depth
+ I   9   Bir SM -50	Birch area 50 to 80 centimeters depth
+ J  10   Asp SM -50	Aspen area 50 to 80 cm depth
+ K  11   Mpl SM -50	Maple area 50 to 80 cm depth
+ L  12   Bir SM -100	Birch area 1 to 1.3 meters depth
+ M  13   Asp SM -100	Aspen area 1 to 1.3 m depth
+ N  14   Mpl SM -100	Maple area 1 to 1.3 m depth
+]]></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[File Content Indicator:  124
+Daily Averages, Maximums, and Minimums w/ Times of Maximums and Minimums
+  (Missing Data Value = 6999)
+
+Each ring is divided into three areas:
+   Birch:  contains mixed Aspen/Birch
+   Maple:  contains mixed Aspen/Maple
+   Aspen:  contains pure Aspen
+
+Col Col  Header
+Let Num
+ A   1   ArrayID 	File Content Indicator = 124
+ B   2   RingNo		Ring Number
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Daily Average Above Ground Conditions:
+ F   6   W Spd Lo	Average Wind Speed at 2 meters (meters/sec)
+ G   7   W Dir Lo	Average Wind Direction at 2 meters (degrees)
+ H   8   StDv W Dir Lo	Wind Direction Standard Deviation at 2 meters
+ I   9   W Spd Hi	Avg W Spd at 10 m (m/sec)
+ J  10   W Dir Hi	Avg W Dir at 10 m (deg)
+ K  11   StDv W Dir Hi	W Dir Std Dev at 10 m
+ L  12   Birch PAR	Avg Photosynthetically Active Radiation/Birch 2 m (mmoles/sq m/sec)
+ M  13   Maple PAR	Avg PAR in Maple area at 2 m (millimoles/square meter/second)
+ N  14   Aspen PAR	Avg PAR in Aspen area at 2 m (mmoles/sq m/sec)
+ O  15   Net Rad	Average Net Radiation at 2 m (watts/square meter)
+ P  16   Birch Temp	Average Temperature in Birch area at 2 meters (C)
+ Q  17   Maple Temp	Avg Temp in Maple area at 2 m (C)
+ R  18   Aspen Temp	Avg Temp in Aspen area at 2 m (C)
+ S  19   Pole Temp	Avg Pole Temp at 10 meters (C)
+ T  20   Birch RH	Average Relative Humidity in Birch area at 2 meters
+ U  21   Maple RH	Avg RH in Maple area at 2 m
+ V  22   Aspen RH	Avg RH in Aspen area at 2 m
+ W  23   Pole RH	Avg Pole RH at 10 meters
+ X  24   TC Ref		Average Thermocouple Reference
+
+Daily Average Soil Temperatures:
+ Y  25   Birch@-5	Birch area Average at 5 centimeter depth (C)
+ Z  26   Birch@-10	Birch area Avg at 10 cm depth (C)
+AA  27   Birch@-20	Birch area Avg at 20 cm depth (C)
+AB  28   Birch@-50	Birch area Avg at 50 cm depth (C)
+AC  29   Birch@-100	Birch area Avg at 1 meter depth (C)
+AD  30   Maple@-5	Maple area Average at 5 centimeter depth (C
+AE  31   Maple@-10	Maple area Avg at 10 cm depth (C)
+AF  32   Maple@-20	Maple area Avg at 20 cm depth (C)
+AG  33   Maple@-50	Maple area Avg at 50 cm depth (C)
+AH  34   Maple@-100	Maple area Avg at 1 meter depth (C)
+AI  35   Aspen@-5	Aspen area Average at 5 centimeter depth (C)
+AJ  36   Aspen@-10	Aspen area Avg at 10 cm depth (C)
+AK  37   Aspen@-20	Aspen area Avg at 20 cm depth (C)
+AL  38   Aspen@-50	Aspen area Avg at 50 cm depth (C)
+AM  39   Aspen@-100	Aspen area Avg at 1 meter depth (C)
+
+Daily Average Volumetric Soil Moistures:
+AN  40   Bir SM -5	Birch area Average at 5 to 35 centimeter depth
+AO  41   Asp SM -5	Aspen area Avg at 5 to 35 cm depth
+AP  42   Mpl SM -5	Maple area Avg at 5 to 35 cm depth
+AQ  43   Bir SM -50	Birch area Average at 50 to 80 centimeter depth
+AR  44   Asp SM -50	Aspen area Avg at 50 to 80 cm depth
+AS  45   Mpl SM -50	Maple area Avg at 50 to 80 cm depth
+AT  46   Bir SM -100	Birch area Average at 1 to 1.3 meters depth
+AU  47   Asp SM -100	Aspen area Avg at 1 to 1.3 m depth
+AV  48   Mpl SM -100	Maple area Avg at 1 to 1.3 m depth
+
+Daily Maximum Above Ground Conditions:
+AW  49   W Spd Lo	Maximum Wind Speed at 2 meters (meters/sec)
+AX  50   Time of Max
+AY  51   W Spd Hi	Max W Spd at 10 m (m/sec)
+AZ  52   Time of Max
+BA  53   Birch PAR	Max Photosynthetically Active Radiation/Birch 2 m (mmoles/sq m/sec)
+BB  54   Time of Max
+BC  55   Maple PAR	Max PAR in Maple area at 2 m (millimoles/square meter/second)
+BD  56   Time of Max
+BE  57   Aspen PAR	Max PAR in Aspen area at 2 m (mmoles/sq m/sec)
+BF  58   Time of Max
+BG  59   Net Rad	Maximum Net Radiation at 2 meters (watts/square meter)
+BH  60   Time of Max
+BI  61   Birch Temp	Maximum Temperature in Birch area at 2 meters (C)
+BJ  62   Time of Max
+BK  63   Maple Temp	Max Temp in Maple area at 2 m (C)
+BL  64   Time of Max
+BM  65   Aspen Temp	Max Temp in Aspen area at 2 m (C)
+BN  66   Time of Max
+B0  67   Pole Temp	Max Pole Temp at 10 meters (C)
+BP  68   Time of Max
+BQ  69   Birch RH	Maximum Relative Humidity in Birch area at 2 meters
+BR  70   Time of Max
+BS  71   Maple RH	Max RH in Maple area at 2 m
+BT  72   Time of Max
+BU  73   Aspen RH	Max RH in Aspen area at 2 m
+BV  74   Time of Max
+BW  75   Pole RH	Max Pole RH at 10 meters
+BX  76   Time of Max
+BY  77   TC Ref		Maximum Thermocouple Reference
+BZ  78   Time of Max
+
+Daily Maximum Soil Temperatures:
+CA  79   Birch@-5	Birch area Maximum at 5 centimeters depth (C)
+CB  80   Time of Max
+CC  81   Birch@-10	Birch area Max at 10 cm depth (C)
+CD  82   Time of Max
+CE  83   Birch@-20	Birch area Max at 20 cm depth (C)
+CF  84   Time of Max
+CG  85   Birch@-50	Birch area Max at 50 cm depth (C)
+CH  86   Time of Max
+CI  87   Birch@-100	Birch area Max at 1 meter depth (C)
+CJ  88   Time of Max
+CK  89   Maple@-5	Maple area Maximum at 5 centimeters depth (C)
+CL  90   Time of Max
+CM  91   Maple@-10	Maple area Max at 10 cm depth (C)
+CN  92   Time of Max
+CO  93   Maple@-20	Maple area Max at 20 cm depth (C)
+CP  94   Time of Max
+CQ  95   Maple@-50	Maple area Max at 50 cm depth (C)
+CR  96   Time of Max
+CS  97   Maple@-100	Maple area Max at 1 meter depth (C)
+CT  98   Time of Max
+CU  99   Aspen@-5	Aspen area Maximum at 5 centimeters depth (C)
+CV 100   Time of Max
+CW 101   Aspen@-10	Aspen area Max at 10 cm depth (C)
+CX 102   Time of Max
+CY 103   Aspen@-20	Aspen area Max at 20 cm depth (C)
+CZ 104   Time of Max
+DA 105   Aspen@-50	Aspen area Max at 50 cm depth (C)
+DB 106   Time of Max
+DC 107   Aspen@-100	Aspen area Max at 1 meter depth (C)
+DD 108   Time of Max
+
+Daily Maximum Volumetric Soil Moistures:
+DE 109   Bir SM -5	Birch area Maximum at 5 to 35 centimeters depth
+DF 110   Time of Max
+DG 111   Asp SM -5	Aspen area Max at 5 to 35 cm depth
+DH 112   Time of Max
+DI 113   Mpl SM -5	Maple area Max at 5 to 35 cm depth
+DJ 114   Time of Max
+DK 115   Bir SM -50	Birch area Maximum at 50 to 80 centimeters depth
+DL 116   Time of Max
+DM 117   Asp SM -50	Aspen area Max at 50 to 80 cm depth
+DN 118   Time of Max
+DO 119   Mpl SM -50	Maple area Max at 50 to 80 cm depth
+DP 120   Time of Max
+DQ 121   Bir SM -100	Birch area Maximum at 1 to 1.3 meters depth
+DR 122   Time of Max
+DS 123   Asp SM -100	Aspen area Max at 1 to 1.3 meters depth
+DT 124   Time of Max
+DU 125   Mpl SM -100	Maple area Max at 1 to 1.3 meters depth
+DV 126   Time of Max
+
+Daily Minimum Above Ground Conditions:
+DW 127   Net Rad	Minimum Net Radiation at 2 meters (watts/square meter)
+DX 128   Time of Min
+DY 129   Birch Temp	Minimum Temperature in Birch area at 2 meters (C)
+DZ 130   Time of Min
+EA 131   Maple Temp	Min Temp in Maple area at 2 m (C)
+EB 132   Time of Min
+EC 133   Aspen Temp	Min Temp in Aspen area at 2 m (C)
+ED 134   Time of Min
+EE 135   Pole Temp	Min Pole Temp at 10 meters (C)
+EF 136   Time of Min
+EG 137   Birch RH	Minimum Relative Humidity in Birch area at 2 meters
+EH 138   Time of Min
+EI 139   Maple RH	Min RH in Maple area at 2 m
+EJ 140   Time of Min
+EK 141   Aspen RH	Min RH in Aspen area at 2 m
+EL 142   Time of Min
+EM 143   Pole RH	Min Pole RH at 10 meters
+EN 144   Time of Min
+EO 145   TC Ref		Minimum Thermocouple Reference
+EP 146   Time of Min
+
+Daily Minimum Soil Temperatures:
+EQ 147   Birch@-5	Birch area Minimum at 5 centimeters depth (C)
+ER 148   Time of Min
+ES 149   Birch@-10	Birch area Min at 10 cm depth (C)
+ET 150   Time of Min
+EU 151   Birch@-20	Birch area Min at 20 cm depth (C)
+EV 152   Time of Min
+EW 153   Birch@-50	Birch area Min at 50 cm depth (C)
+EX 154   Time of Min
+EY 155   Birch@-100	Birch area Min at 1 meter depth (C)
+EZ 156   Time of Min
+FA 157   Maple@-5	Maple area Minimum at 5 centimeters depth (C)
+FB 158   Time of Min
+FC 159   Maple@-10	Maple area Min at 10 cm depth (C)
+FD 160   Time of Min
+FE 161   Maple@-20	Maple area Min at 20 cm depth (C)
+FF 162   Time of Min
+FG 163   Maple@-50	Maple area Min at 50 cm depth (C)
+FH 164   Time of Min
+FI 165   Maple@-100	Maple area Min at 1 meter depth (C)
+FJ 166   Time of Min
+FK 167   Aspen@-5	Aspen area Minimum at 5 centimeters depth (C)
+FL 168   Time of Min
+FM 169   Aspen@-10	Aspen area Min at 10 cm depth (C)
+FN 170   Time of Min
+FO 171   Aspen@-20	Aspen area Min at 20 cm depth (C)
+FP 172   Time of Min
+FQ 173   Aspen@-50	Aspen area Min at 50 cm depth (C)
+FR 174   Time of Min
+FS 175   Aspen@-100	Aspen area Min at 1 meter depth (C)
+FT 176   Time of Min
+
+Daily Minimum Volumetric Soil Moistures:
+FU 177   Bir SM -5	Birch area Minimum at 5 to 35 centimeters depth
+FV 178   Time of Min
+FW 179   Asp SM -5	Aspen area Min at 5 to 35 cm depth
+FX 180   Time of Min
+FY 181   Mpl SM -5	Maple area Min at 5 to 35 cm depth
+FZ 182   Time of Min
+GA 183   Bir SM -50	Birch area Minimum at 50 to 80 centimeters depth
+GB 184   Time of Min
+GC 185   Asp SM -50	Aspen area Min at 50 to 80 cm depth
+GD 186   Time of Min
+GE 187   Mpl SM -50	Maple area Min at 50 to 80 cm depth
+GF 188   Time of Min
+GG 189   Bir SM -100	Birch area Minimum at 1 to 1.3 meters depth
+GH 190   Time of Min
+GI 191   Asp SM -100	Aspen area Min at 1 to 1.3 meters depth
+GJ 192   Time of Min
+GK 193   Mpl SM -100	Maple area Min at 1 to 1.3 meters depth
+GL 194   Time of Min
+
+Accumulated 5 sec PAR values for 24 hours (04/2000 thru 12/2000):
+GM 195   Birch Accum 5sec PAR
+GN 196   Maple Accum 5sec PAR
+GO 197   Aspen Accum 5sec PAR
+
+Additional columns added 01/2001:
+   GM 195   Total Rain (mm)
+
+   Accumulated 5 sec PAR values for 24 hours:
+   GN 196   Birch Accum 5sec PAR
+   GO 197   Maple Accum 5sec PAR
+   GP 198   Aspen Accum 5sec PAR
+
+   Standard Deviations:
+   GQ 199   StDv Birch PAR	Standard Deviation of Birch PAR
+   GR 200   StDv Maple PAR	Standard Deviation of Maple PAR
+   GS 201   StDv Aspen PAR	Standard Deviation of Aspen PAR
+   GT 202   StDv NetRad		Standard Deviation of Net Radiation]]></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[File Content Indicator:  201
+Measurements Reported Every 30 Minutes
+  (Missing Data Value = 6999)
+  (LeafWetness Missing Data Value = 99999)
+
+
+Col Col  Header		Description
+Let Num  
+ A   1   ArrayID 	File Content Indicator = 201
+ B   2   TowerID	Tower ID = 0
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Above Ground Conditions:
+ F   6   W Spd 2m	Wind Speed at 2 meters (meters/sec)
+ G   7   W Dir 2m	Wind Direction at 2 meters (degrees)
+ H   8   StDv W Dir 2m	Wind Direction Standard Deviation at 2 meters
+ I   9   W Spd 5m	W Spd at 5 m (m/sec)
+ J  10   W Dir 5m	W Dir at 5 m (deg)
+ K  11   StDv W Dir 5m	W Dir Std Dev at 5 m
+ L  12   W Spd 10m	W Spd at 10 m (m/sec)
+ M  13   W Dir 10m	W Dir at 10 m (deg)
+ N  14   StDv W Dir 10m	W Dir Std Dev at 10 m
+ O  15   W Spd 15m	W Spd at 15 m (m/sec)
+ P  16   W Dir 15m	W Dir at 15 m (deg)
+ Q  17   StDv W Dir 15m	W Dir Std Dev at 15 m
+ R  18   W Spd 20m	W Spd at 20 m (m/sec)
+ S  19   W Dir 20m	W Dir at 20 m (deg)
+ T  20   StDv W Dir 20m	W Dir Std Dev at 20 m
+ U  21   PAR		Photosynthetically Active Radiation at 2 m (millimoles/sq m/sec)
+ V  22   Net Rad	Net Radiation at 2 meters (watts/square meter)
+ W  23   Temp 2m	Temperature at 2 meters (C)
+ X  24   Temp 5m	Temp at 5 m (C)
+ Y  25   Temp 10m	Temp at 10 m (C)
+ Z  26   Temp 15m	Temp at 15 m (C)
+AA  27   Temp 20m	Temp at 20 m (C)
+AB  28   RH 2m		Relative Humidity at 2 meters
+AC  29   RH 5m		RH at 5 m
+AD  30   RH 10m		RH at 10 m
+AE  31   RH 15m		RH at 15 m
+AF  32   RH 20m		RH at 20 m
+AG  33   TC Ref		Thermocouple Reference
+AH  34   TC Surf	TC Surface Temperature (C)
+AI  35	 TC 0.25m 	TC Temp at 25 centimeters (C)
+AJ  36   TC 0.50m	TC Temp at 50 cm (C)
+AK  37	 TC 0.75m 	TC Temp at 75 cm (C)
+AL  38   TC 1.0m  	TC Temp at 1 meter (C)
+AM  39   TC 2.0m  	TC Temp at 2 m (C)
+
+Soil Temperatures:
+AN  40   ST@-0.05m	at 5 centimeters depth (C)
+AO  41   ST@-0.10m	at 10 cm depth (C)
+AP  42   ST@-0.20m	at 20 cm depth (C)
+AQ  43   ST@-0.50m	at 50 cm depth (C)
+AR  44   ST@-1.0m	at 1 meter depth (C)
+
+Miscellaneous:
+AS  45   Leaf Wetness	Resistance (kilo-ohms)
+AT  46   Rain		Rain last half-hour (millimeters)
+AU  47	 Evap Pan	Depth of Water in Evaporation Pan (millimeters)
+AV  48   Press		Barametric Pressure (millibars)
+
+Additional columns added 01/2001:
+AW  49   StDv PAR	Standard Deviation of PAR
+AX  50   StDv NetRad    Standard Deviation of Net Radiation
+]]></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[File Content Indicator:  202
+Measurements Reported Every 2 Hours
+  (Missing Data Values = 6999)
+
+
+Col Col  Header		Description
+Let Num
+ A   1   ArrayID 	File Content Indicator = 202
+ B   2   TowerID	Tower ID = 0
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Volumetric Soil Moistures:
+ F   6   SM 5-35cm	from 5 to 35 centimeters depth
+ G   7   SM 35-65cm	from 35 to 65 cm depth
+ H   8   SM 1-1.3m	from 1 to 1.3 meters depth
+]]></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[File Content Indicator:  224
+Daily Averages, Maximums, and Minimums w/ Times of Maximums and Minimums
+  (Missing Data Value = 6999)
+
+
+Col Col  Header
+Let Num
+ A   1   ArrayID 	File Content Indicator = 224
+ B   2   TowerID	Tower ID = 0
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Daily Average Above Ground Conditions:
+ F   6   W Spd 2m	Average Wind Speed at 2 meters (meters/sec)
+ G   7   W Dir 2m	Average Wind Direction at 2 meters (degrees)
+ H   8   StDv W Dir 2m	Wind Direction Standard Deviation at 2 meters
+ I   9   W Spd 5m	Avg W Spd at 5 m (m/sec)
+ J  10   W Dir 5m	Avg W Dir at 5 m (deg)
+ K  11   StDv W Dir 5m	W Dir Std Dev at 5 m
+ L  12   W Spd 10m	Avg W Spd at 10 m (m/sec)
+ M  13   W Dir 10m	Avg W Dir at 10 m (deg)
+ N  14   StDv W Dir 10m	W Dir Std Dev at 10 m
+ O  15   W Spd 15m	Avg W Spd at 15 m (m/sec)
+ P  16   W Dir 15m	Avg W Dir at 15 m (deg)
+ Q  17   StDv W Dir 15m	W Dir Std Dev at 15 m
+ R  18   W Spd 20m	Avg W Spd at 20 m (m/sec)
+ S  19   W Dir 20m	Avg W Dir at 20 m (deg)
+ T  20   StDv W Dir 20m	W Dir Std Dev at 20 m
+ U  21   PAR		Avg Photosynthetically Active Radiation at 2 m (millimoles/sq m/sec)
+ V  22   Net Rad	Average Net Radiation at 2 meters (watts/square meter)
+ W  23   Temp 2m	Average Temperature at 2 meters (C)
+ X  24   Temp 5m	Avg Temp at 5 m (C)
+ Y  25   Temp 10m	Avg Temp at 10 m (C)
+ Z  26   Temp 15m	Avg Temp at 15 m (C)
+AA  27   Temp 20m	Avg Temp at 20 m (C)
+AB  28   RH 2m		Average Relative Humidity at 2 meters
+AC  29   RH 5m		Avg RH at 5 m
+AD  30   RH 10m		Avg RH at 10 m
+AE  31   RH 15m		Avg RH at 15 m
+AF  32   RH 20m		Avg RH at 20 m
+AG  33   TC Ref		Average Thermocouple Reference
+AH  34   TC Surf	Avg TC Surface Temperature (C)
+AI  35   TC 0.25m	Avg TC Temp at 25 centimeters (C)
+AJ  36   TC 0.50m	Avg TC Temp at 50 cm (C)
+AK  37   TC 0.75m	Avg TC Temp at 75 cm (C)
+AL  38   TC 1.0m	Avg TC Temp at 1 meter (C)
+AM  39   TC 2.0m	Avg TC Temp at 2 m (C)
+
+Daily Average Soil Temperatures:
+AN  40   ST@-0.05m	Average at 5 centimeter depth (C)
+AO  41   ST@-0.10m	Avg at 10 cm depth (C)
+AP  42   ST@-0.20m	Avg at 20 cm depth (C)
+AQ  43   ST@-0.50m	Avg at 50 cm depth (C)
+AR  44   ST@-1.0m	Avg at 1 meter depth (C)
+
+Daily Average Volumetric Soil Moistures:
+AS  45   SM 5-35cm	Average at 5 to 35 centimeter depth
+AT  46   SM 35-65cm	Avg at 35 to 65 cm depth
+AU  47   SM 1-1.3m	Avg at 1 to 1.3 meters depth
+
+Daily Maximum Above Ground Conditions:
+AV  48   W Spd 2m	Maximum Wind Speed at 2 meters (meters/sec)
+AW  49   Time of Max
+AX  50   W Spd 5m	Max W Spd at 5 m (m/sec)
+AY  51   Time of Max
+AZ  52   W Spd 10m	Max W Spd at 10 m (m/sec)
+BA  53   Time of Max
+BB  54   W Spd 15m	Max W Spd at 15 m (m/sec)
+BC  55   Time of Max
+BD  56   W Spd 20m	Max W Spd at 20 m (m/sec)
+BE  57   Time of Max
+BF  58   PAR		Max Photosynthetically Active Radiation at 2 m (millimoles/sq m/sec)
+BG  59   Time of Max
+BH  60   Net Rad	Maximum Net Radiation at 2 meters (watts/square meter)
+BI  61   Time of Max
+BJ  62   Temp 2m	Maximum Temperature at 2 meters (C)
+BK  63   Time of Max
+BL  64   Temp 5m	Max Temp at 5 m (C)
+BM  65   Time of Max
+BN  66   Temp 10m	Max Temp at 10 m (C)
+BO  67   Time of Max
+BP  68   Temp 15m	Max Temp at 15 m (C)
+BQ  69   Time of Max
+BR  70   Temp 20m	Max Temp at 20 m (C)
+BS  71   Time of Max
+BT  72   RH 2m		Maximum Relative Humidity at 2 meters
+BU  73   Time of Max
+BV  74   RH 5m		Max RH at 5 m
+BW  75   Time of Max
+BX  76   RH 10m		Max RH at 10 m
+BY  77   Time of Max
+BZ  78   RH 15m		Max RH at 15 m
+CA  79   Time of Max
+CB  80   RH 20m		Max RH at 20 m
+CC  81   Time of Max
+CD  82   TC Ref		Maximum Thermocouple Reference
+CE  83   Time of Max
+CF  84   TC Surf	Max TC Surface Temperature (C)
+CG  85   Time of Max
+CH  86	 TC 0.25m	Max TC Temp at 25 centimeters (C)
+CI  87   Time of Max
+CJ  88   TC 0.50m	Max TC Temp at 50 cm (C)
+CK  89   Time of Max
+CL  90	 TC 0.75m	Max TC Temp at 75 cm (C)
+CM  91   Time of Max
+CN  92   TC 1.0m	Max TC Temp at 1 meter (C)
+CO  93   Time of Max
+CP  94   TC 2.0m	Max TC Temp at 2 m (C)
+CQ  95   Time of Max
+
+Daily Maximum Soil Temperatures:
+CR  96   ST@-0.05m	Maximum at 5 centimeters depth (C)
+CS  97   Time of Max
+CT  98   ST@-0.10m	Max at 10 cm depth (C)
+CU  99   Time of Max
+CV 100   ST@-0.20m	Max at 20 cm depth (C)
+CW 101   Time of Max
+CX 102   ST@-0.50m	Max at 50 cm depth (C)
+CY 103   Time of Max
+CZ 104   ST@-1.0m	Max at 1 meter depth (C)
+DA 105   Time of Max
+
+Daily Maximum Volumetric Soil Moistures:
+DB 106   SM 5-35cm	Maximum at 5 to 35 centimeters depth
+DC 107   Time of Max
+DD 108   SM 35-65cm	Max at 35 to 65 cm depth
+DE 109   Time of Max
+DF 110   SM 1-1.3m	Max at 1 to 1.3 meters depth
+DG 111   Time of Max
+
+Daily Minimum Above Ground Conditions:
+FM 169   Net Rad	Minimum Net Radiation at 2 meters (watts/square meter)
+FN 170   Time of Min
+DH 112   Temp 2m	Minimum Temperature at 2 meters (C)
+DI 113   Time of Min
+DJ 114   Temp 5m	Min Temp at 5 m (C)
+DK 115   Time of Min
+DL 116   Temp 10m	Min Temp at 10 m (C)
+DM 117   Time of Min
+DN 118   Temp 15m	Min Temp at 15 m (C)
+DO 119   Time of Min
+DP 120   Temp 20m	Min Temp at 20 m (C)
+DQ 121   Time of Min
+DR 122   RH 2m		Minimum Relative Humidity at 2 meters
+DS 123   Time of Min
+DT 124   RH 5m		Min RH at 5 m
+DU 125   Time of Min
+DV 126   RH 10m		Min RH at 10 m
+DW 127   Time of Min
+DX 128   RH 15m		Min RH at 15 m
+DY 129   Time of Min
+DZ 130   RH 20m		Min RH at 20 m
+EA 131   Time of Min
+EB 132   TC Ref		Minimum Thermocouple Reference
+EC 133   Time of Min
+ED 134   TC Surf	Min TC Surface Temperature (C)
+EE 135   Time of Min
+EF 136   TC 0.25m	Min TC Temp at 25 centimeters (C)
+EG 137   Time of Min
+EH 138   TC 0.50m	Min TC Temp at 50 cm (C)
+EI 139   Time of Min
+EJ 140   TC 0.75m	Min TC Temp at 75 cm (C)
+EK 141   Time of Min
+EL 142   TC 1.0m	Min TC Temp at 1 meter (C)
+EM 143   Time of Min
+EN 144   TC 2.0m	Min TC Temp at 2 m (C)
+EO 145   Time of Min
+
+Daily Minimum Soil Temperatures:
+EP 146   ST@-0.05m	Minimum at 5 centimeters depth (C)
+EQ 147   Time of Min
+ER 148   ST@-0.10m	Min at 10 cm depth (C)
+ES 149   Time of Min
+ET 150   ST@-0.20m	Min at 20 cm depth (C)
+EU 151   Time of Min
+EV 152   ST@-0.50m	Min at 50 cm depth (C)
+EW 153   Time of Min
+EX 154   ST@-1.0m	Min at 1 meter depth (C)
+EY 155   Time of Min
+
+Daily Minimum Volumetric Soil Moistures:
+EZ 156   SM 5-35cm	Minimum at 5 to 35 centimeters depth
+FA 157   Time of Min
+FB 158   SM 35-65cm	Min at 35 to 65 cm depth
+FC 159   Time of Min
+FD 160   SM 1-1.3m	Min at 1 to 1.3 meters depth
+FE 161   Time of Min
+
+Miscellaneous:
+FF 162   Total Rain	Total rain for the day (millimeters)
+FG 163	 Avg Press	Average Barometric Pressure (millibars)
+FH 164	 Max Press	Maximum Bar Press (mb)
+FI 165	 Time of Max
+FJ 166	 Min Press	Minimum Bar Press (mb)
+FK 167	 Time of Min
+FL 168   Evap Pan	Total Evaporation from Pan for the day (millimeters)
+
+Additional columns added 01/2001:
+FM 169   Min NetRad	Mininum Net Radiation at 2 meters (watts/square meter)
+FN 170   Time of Min
+FO 171   Total PAR	Accumulated 5 sec PAR values for 24 hours
+FP 172   StDv PAR	Standard Deviation of PAR
+FQ 173   StDv NetRad	Standard Deviation of Net Radiation]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070801 092430 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Lisa_Olsen/FACE/aspen_met.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[ASPEN FACE MET DATA]]></Product_number>
+      <Product_title><![CDATA[Aspen FACE Meteorological and Soil Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[North Central Research Station]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[USDA Forest Service]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[FACTS II - Aspen FACE ]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/face/ASPEN/aspen_home.shtml]]></Site_URL>
+        <Site_data_file><![CDATA[http://public.ornl.gov/face/ASPEN/aspen_data_co2weather.shtml]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://public.ornl.gov/face/ASPEN/aspen_data_co2weather.shtml]]></Data_site>
+      <Variable><![CDATA[Above Ground Cond:]]></Variable>
+      <Variable><![CDATA[ArrayID]]></Variable>
+      <Variable><![CDATA[RingNo]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Day]]></Variable>
+      <Variable><![CDATA[Time]]></Variable>
+      <Variable><![CDATA[W Spd Lo]]></Variable>
+      <Variable><![CDATA[W Dir Lo]]></Variable>
+      <Variable><![CDATA[StDv W Dir Lo]]></Variable>
+      <Variable><![CDATA[W Spd Hi]]></Variable>
+      <Variable><![CDATA[W Dir Hi]]></Variable>
+      <Variable><![CDATA[StDv W Dir Hi]]></Variable>
+      <Variable><![CDATA[Birch PAR]]></Variable>
+      <Variable><![CDATA[Maple PAR]]></Variable>
+      <Variable><![CDATA[Aspen PAR]]></Variable>
+      <Variable><![CDATA[Net Rad]]></Variable>
+      <Variable><![CDATA[Birch Temp]]></Variable>
+      <Variable><![CDATA[Maple Temp]]></Variable>
+      <Variable><![CDATA[Aspen Temp]]></Variable>
+      <Variable><![CDATA[Pole Temp]]></Variable>
+      <Variable><![CDATA[Birch RH]]></Variable>
+      <Variable><![CDATA[Maple RH]]></Variable>
+      <Variable><![CDATA[Aspen RH]]></Variable>
+      <Variable><![CDATA[Pole RH]]></Variable>
+      <Variable><![CDATA[TC Ref]]></Variable>
+      <Variable><![CDATA[Soil Temp:]]></Variable>
+      <Variable><![CDATA[Birch@-5]]></Variable>
+      <Variable><![CDATA[Birch@-10]]></Variable>
+      <Variable><![CDATA[Birch@-20]]></Variable>
+      <Variable><![CDATA[Birch@-50]]></Variable>
+      <Variable><![CDATA[Birch@-100]]></Variable>
+      <Variable><![CDATA[Maple@-5]]></Variable>
+      <Variable><![CDATA[Maple@-10]]></Variable>
+      <Variable><![CDATA[Maple@-20]]></Variable>
+      <Variable><![CDATA[Maple@-50]]></Variable>
+      <Variable><![CDATA[Maple@-100]]></Variable>
+      <Variable><![CDATA[Aspen@-5]]></Variable>
+      <Variable><![CDATA[Aspen@-10]]></Variable>
+      <Variable><![CDATA[Aspen@-20]]></Variable>
+      <Variable><![CDATA[Aspen@-50]]></Variable>
+      <Variable><![CDATA[Aspen@-100]]></Variable>
+      <Variable><![CDATA[Leaf Wetness]]></Variable>
+      <Variable><![CDATA[Rain]]></Variable>
+      <Variable><![CDATA[StDv Birch PAR]]></Variable>
+      <Variable><![CDATA[StDv Maple PAR]]></Variable>
+      <Variable><![CDATA[StDv Aspen PAR]]></Variable>
+      <Variable><![CDATA[StDv  NetRad]]></Variable>
+      <Variable><![CDATA[Vol Soil Moisture:]]></Variable>
+      <Variable><![CDATA[Bir SM -5]]></Variable>
+      <Variable><![CDATA[Asp SM -5]]></Variable>
+      <Variable><![CDATA[Mpl SM -5]]></Variable>
+      <Variable><![CDATA[Bir SM -50]]></Variable>
+      <Variable><![CDATA[Asp SM -50]]></Variable>
+      <Variable><![CDATA[Mpl SM -50]]></Variable>
+      <Variable><![CDATA[Bir SM -100]]></Variable>
+      <Variable><![CDATA[Asp SM -100]]></Variable>
+      <Variable><![CDATA[Mpl SM -100]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/facts-IIdata/met_data/ReadMe101.txtFile Content Indicator:  101
+Measurements Reported Every 30 Minutes
+  (Missing Data Value = 6999)
+
+Each ring is divided into three areas:
+   Birch:  contains mixed Aspen/Birch
+   Maple:  contains mixed Aspen/Maple
+   Aspen:  contains pure Aspen
+
+
+Col Col  Header		Description
+Let Num  
+ A   1   ArrayID 	File Content Indicator = 101
+ B   2   RingNo		Ring Number
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Above Ground Conditions:
+ F   6   W Spd Lo	Wind Speed at 2 meters (meters/sec)
+ G   7   W Dir Lo	Wind Direction at 2 meters (degrees)
+ H   8   StDv W Dir Lo	Wind Direction Standard Deviation at 2 meters
+ I   9   W Spd Hi	W Spd at 10 m (m/sec)
+ J  10   W Dir Hi	W Dir at 10 m (deg)
+ K  11   StDv W Dir Hi	W Dir Std Dev at 10 m
+ L  12   Birch PAR	Photosynthetically Active Radiation - Birch at 2 m (mmoles/sq m/sec)
+ M  13   Maple PAR	PAR in Maple area at 2 m (millimoles/square meter/second)
+ N  14   Aspen PAR	PAR in Aspen area at 2 m (mmoles/sq m/sec)
+ O  15   Net Rad	Net Radiation at 2 meters (watts/square meter)
+ P  16   Birch Temp	Temperature in Birch area at 2 meters (C)
+ Q  17   Maple Temp	Temp in Maple area at 2 m (C)
+ R  18   Aspen Temp	Temp in Aspen area at 2 m (C)
+ S  19   Pole Temp	Pole Temp at 10 meters (C)
+ T  20   Birch RH	Relative Humidity in Birch area at 2 meters
+ U  21   Maple RH	RH in Maple area at 2 m
+ V  22   Aspen RH	RH in Aspen area at 2 m
+ W  23   Pole RH	Pole RH at 10 meters
+ X  24   TC Ref		Thermocouple Reference
+
+Soil Temperatures:
+ Y  25   Birch@-5	Birch area at 5 centimeters depth (C)
+ Z  26   Birch@-10	Birch area at 10 cm depth (C)
+AA  27   Birch@-20	Birch area at 20 cm depth (C)
+AB  28   Birch@-50	Birch area at 50 cm depth (C)
+AC  29   Birch@-100	Birch area at 1 meter depth (C)
+AD  30   Maple@-5	Maple area at 5 centimeters depth (C)
+AE  31   Maple@-10	Maple area at 10 cm depth (C)
+AF  32   Maple@-20	Maple area at 20 cm depth (C)
+AG  33   Maple@-50	Maple area at 50 cm depth (C)
+AH  34   Maple@-100	Maple area at 1 meter depth (C)
+AI  35   Aspen@-5	Aspen area at 5 centimeters depth depth (C)
+AJ  36   Aspen@-10	Aspen area at 10 cm depth (C)
+AK  37   Aspen@-20	Aspen area at 20 cm depth (C)
+AL  38   Aspen@-50	Aspen area at 50 cm depth (C)
+AM  39   Aspen@-100	Aspen area at 1 meter depth (C)
+
+Additional columns added 01/2001:
+AN  40   Leaf Wetness	Resistance (kilo-ohms)
+
+Rings 1.2 and 3.3:
+   AO  41   Rain		Rain last half-hour (millimeters)
+   AP  42   StDv Birch PAR	Standard Deviation of Birch PAR
+   AQ  43   StDv Maple PAR	Standard Deviation of Maple PAR
+   AR  44   StDv Aspen PAR	Standard Deviation of Aspen PAR
+   AS  45   StDv NetRad		Standard Deviation of Net Radiation
+
+Rings 2.1 and 3.4 (where no rain is measured):
+   AO  41   StDv Birch PAR	Standard Deviation of Birch PAR
+   AP  42   StDv Maple PAR	Standard Deviation of Maple PAR
+   AQ  43   StDv Aspen PAR	Standard Deviation of Aspen PAR
+   AR  44   StDv NetRad		Standard Deviation of Net Radiation]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/facts-IIdata/met_data/ReadMe102.txtFile Content Indicator:  102
+Measurements Reported Every 2 Hours
+  (Missing Data Values = 6999)
+
+Each ring is divided into three areas:
+   Birch:  contains mixed Aspen/Birch
+   Maple:  contains mixed Aspen/Maple
+   Aspen:  contains pure Aspen
+
+
+Col Col  Header		Description
+Let Num
+ A   1   ArrayID 	File Content Indicator = 102
+ B   2   RingNo		Ring Number
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Volumetric Soil Moistures:
+ F   6   Bir SM -5	Birch area 5 to 35 centimeters depth
+ G   7   Asp SM -5	Aspen area 5 to 35 cm depth
+ H   8   Mpl SM -5	Maple area 5 to 35 cm depth
+ I   9   Bir SM -50	Birch area 50 to 80 centimeters depth
+ J  10   Asp SM -50	Aspen area 50 to 80 cm depth
+ K  11   Mpl SM -50	Maple area 50 to 80 cm depth
+ L  12   Bir SM -100	Birch area 1 to 1.3 meters depth
+ M  13   Asp SM -100	Aspen area 1 to 1.3 m depth
+ N  14   Mpl SM -100	Maple area 1 to 1.3 m depth
+]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/facts-IIdata/met_data/ReadMe124.txtFile Content Indicator:  124
+Daily Averages, Maximums, and Minimums w/ Times of Maximums and Minimums
+  (Missing Data Value = 6999)
+
+Each ring is divided into three areas:
+   Birch:  contains mixed Aspen/Birch
+   Maple:  contains mixed Aspen/Maple
+   Aspen:  contains pure Aspen
+
+Col Col  Header
+Let Num
+ A   1   ArrayID 	File Content Indicator = 124
+ B   2   RingNo		Ring Number
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Daily Average Above Ground Conditions:
+ F   6   W Spd Lo	Average Wind Speed at 2 meters (meters/sec)
+ G   7   W Dir Lo	Average Wind Direction at 2 meters (degrees)
+ H   8   StDv W Dir Lo	Wind Direction Standard Deviation at 2 meters
+ I   9   W Spd Hi	Avg W Spd at 10 m (m/sec)
+ J  10   W Dir Hi	Avg W Dir at 10 m (deg)
+ K  11   StDv W Dir Hi	W Dir Std Dev at 10 m
+ L  12   Birch PAR	Avg Photosynthetically Active Radiation/Birch 2 m (mmoles/sq m/sec)
+ M  13   Maple PAR	Avg PAR in Maple area at 2 m (millimoles/square meter/second)
+ N  14   Aspen PAR	Avg PAR in Aspen area at 2 m (mmoles/sq m/sec)
+ O  15   Net Rad	Average Net Radiation at 2 m (watts/square meter)
+ P  16   Birch Temp	Average Temperature in Birch area at 2 meters (C)
+ Q  17   Maple Temp	Avg Temp in Maple area at 2 m (C)
+ R  18   Aspen Temp	Avg Temp in Aspen area at 2 m (C)
+ S  19   Pole Temp	Avg Pole Temp at 10 meters (C)
+ T  20   Birch RH	Average Relative Humidity in Birch area at 2 meters
+ U  21   Maple RH	Avg RH in Maple area at 2 m
+ V  22   Aspen RH	Avg RH in Aspen area at 2 m
+ W  23   Pole RH	Avg Pole RH at 10 meters
+ X  24   TC Ref		Average Thermocouple Reference
+
+Daily Average Soil Temperatures:
+ Y  25   Birch@-5	Birch area Average at 5 centimeter depth (C)
+ Z  26   Birch@-10	Birch area Avg at 10 cm depth (C)
+AA  27   Birch@-20	Birch area Avg at 20 cm depth (C)
+AB  28   Birch@-50	Birch area Avg at 50 cm depth (C)
+AC  29   Birch@-100	Birch area Avg at 1 meter depth (C)
+AD  30   Maple@-5	Maple area Average at 5 centimeter depth (C
+AE  31   Maple@-10	Maple area Avg at 10 cm depth (C)
+AF  32   Maple@-20	Maple area Avg at 20 cm depth (C)
+AG  33   Maple@-50	Maple area Avg at 50 cm depth (C)
+AH  34   Maple@-100	Maple area Avg at 1 meter depth (C)
+AI  35   Aspen@-5	Aspen area Average at 5 centimeter depth (C)
+AJ  36   Aspen@-10	Aspen area Avg at 10 cm depth (C)
+AK  37   Aspen@-20	Aspen area Avg at 20 cm depth (C)
+AL  38   Aspen@-50	Aspen area Avg at 50 cm depth (C)
+AM  39   Aspen@-100	Aspen area Avg at 1 meter depth (C)
+
+Daily Average Volumetric Soil Moistures:
+AN  40   Bir SM -5	Birch area Average at 5 to 35 centimeter depth
+AO  41   Asp SM -5	Aspen area Avg at 5 to 35 cm depth
+AP  42   Mpl SM -5	Maple area Avg at 5 to 35 cm depth
+AQ  43   Bir SM -50	Birch area Average at 50 to 80 centimeter depth
+AR  44   Asp SM -50	Aspen area Avg at 50 to 80 cm depth
+AS  45   Mpl SM -50	Maple area Avg at 50 to 80 cm depth
+AT  46   Bir SM -100	Birch area Average at 1 to 1.3 meters depth
+AU  47   Asp SM -100	Aspen area Avg at 1 to 1.3 m depth
+AV  48   Mpl SM -100	Maple area Avg at 1 to 1.3 m depth
+
+Daily Maximum Above Ground Conditions:
+AW  49   W Spd Lo	Maximum Wind Speed at 2 meters (meters/sec)
+AX  50   Time of Max
+AY  51   W Spd Hi	Max W Spd at 10 m (m/sec)
+AZ  52   Time of Max
+BA  53   Birch PAR	Max Photosynthetically Active Radiation/Birch 2 m (mmoles/sq m/sec)
+BB  54   Time of Max
+BC  55   Maple PAR	Max PAR in Maple area at 2 m (millimoles/square meter/second)
+BD  56   Time of Max
+BE  57   Aspen PAR	Max PAR in Aspen area at 2 m (mmoles/sq m/sec)
+BF  58   Time of Max
+BG  59   Net Rad	Maximum Net Radiation at 2 meters (watts/square meter)
+BH  60   Time of Max
+BI  61   Birch Temp	Maximum Temperature in Birch area at 2 meters (C)
+BJ  62   Time of Max
+BK  63   Maple Temp	Max Temp in Maple area at 2 m (C)
+BL  64   Time of Max
+BM  65   Aspen Temp	Max Temp in Aspen area at 2 m (C)
+BN  66   Time of Max
+B0  67   Pole Temp	Max Pole Temp at 10 meters (C)
+BP  68   Time of Max
+BQ  69   Birch RH	Maximum Relative Humidity in Birch area at 2 meters
+BR  70   Time of Max
+BS  71   Maple RH	Max RH in Maple area at 2 m
+BT  72   Time of Max
+BU  73   Aspen RH	Max RH in Aspen area at 2 m
+BV  74   Time of Max
+BW  75   Pole RH	Max Pole RH at 10 meters
+BX  76   Time of Max
+BY  77   TC Ref		Maximum Thermocouple Reference
+BZ  78   Time of Max
+
+Daily Maximum Soil Temperatures:
+CA  79   Birch@-5	Birch area Maximum at 5 centimeters depth (C)
+CB  80   Time of Max
+CC  81   Birch@-10	Birch area Max at 10 cm depth (C)
+CD  82   Time of Max
+CE  83   Birch@-20	Birch area Max at 20 cm depth (C)
+CF  84   Time of Max
+CG  85   Birch@-50	Birch area Max at 50 cm depth (C)
+CH  86   Time of Max
+CI  87   Birch@-100	Birch area Max at 1 meter depth (C)
+CJ  88   Time of Max
+CK  89   Maple@-5	Maple area Maximum at 5 centimeters depth (C)
+CL  90   Time of Max
+CM  91   Maple@-10	Maple area Max at 10 cm depth (C)
+CN  92   Time of Max
+CO  93   Maple@-20	Maple area Max at 20 cm depth (C)
+CP  94   Time of Max
+CQ  95   Maple@-50	Maple area Max at 50 cm depth (C)
+CR  96   Time of Max
+CS  97   Maple@-100	Maple area Max at 1 meter depth (C)
+CT  98   Time of Max
+CU  99   Aspen@-5	Aspen area Maximum at 5 centimeters depth (C)
+CV 100   Time of Max
+CW 101   Aspen@-10	Aspen area Max at 10 cm depth (C)
+CX 102   Time of Max
+CY 103   Aspen@-20	Aspen area Max at 20 cm depth (C)
+CZ 104   Time of Max
+DA 105   Aspen@-50	Aspen area Max at 50 cm depth (C)
+DB 106   Time of Max
+DC 107   Aspen@-100	Aspen area Max at 1 meter depth (C)
+DD 108   Time of Max
+
+Daily Maximum Volumetric Soil Moistures:
+DE 109   Bir SM -5	Birch area Maximum at 5 to 35 centimeters depth
+DF 110   Time of Max
+DG 111   Asp SM -5	Aspen area Max at 5 to 35 cm depth
+DH 112   Time of Max
+DI 113   Mpl SM -5	Maple area Max at 5 to 35 cm depth
+DJ 114   Time of Max
+DK 115   Bir SM -50	Birch area Maximum at 50 to 80 centimeters depth
+DL 116   Time of Max
+DM 117   Asp SM -50	Aspen area Max at 50 to 80 cm depth
+DN 118   Time of Max
+DO 119   Mpl SM -50	Maple area Max at 50 to 80 cm depth
+DP 120   Time of Max
+DQ 121   Bir SM -100	Birch area Maximum at 1 to 1.3 meters depth
+DR 122   Time of Max
+DS 123   Asp SM -100	Aspen area Max at 1 to 1.3 meters depth
+DT 124   Time of Max
+DU 125   Mpl SM -100	Maple area Max at 1 to 1.3 meters depth
+DV 126   Time of Max
+
+Daily Minimum Above Ground Conditions:
+DW 127   Net Rad	Minimum Net Radiation at 2 meters (watts/square meter)
+DX 128   Time of Min
+DY 129   Birch Temp	Minimum Temperature in Birch area at 2 meters (C)
+DZ 130   Time of Min
+EA 131   Maple Temp	Min Temp in Maple area at 2 m (C)
+EB 132   Time of Min
+EC 133   Aspen Temp	Min Temp in Aspen area at 2 m (C)
+ED 134   Time of Min
+EE 135   Pole Temp	Min Pole Temp at 10 meters (C)
+EF 136   Time of Min
+EG 137   Birch RH	Minimum Relative Humidity in Birch area at 2 meters
+EH 138   Time of Min
+EI 139   Maple RH	Min RH in Maple area at 2 m
+EJ 140   Time of Min
+EK 141   Aspen RH	Min RH in Aspen area at 2 m
+EL 142   Time of Min
+EM 143   Pole RH	Min Pole RH at 10 meters
+EN 144   Time of Min
+EO 145   TC Ref		Minimum Thermocouple Reference
+EP 146   Time of Min
+
+Daily Minimum Soil Temperatures:
+EQ 147   Birch@-5	Birch area Minimum at 5 centimeters depth (C)
+ER 148   Time of Min
+ES 149   Birch@-10	Birch area Min at 10 cm depth (C)
+ET 150   Time of Min
+EU 151   Birch@-20	Birch area Min at 20 cm depth (C)
+EV 152   Time of Min
+EW 153   Birch@-50	Birch area Min at 50 cm depth (C)
+EX 154   Time of Min
+EY 155   Birch@-100	Birch area Min at 1 meter depth (C)
+EZ 156   Time of Min
+FA 157   Maple@-5	Maple area Minimum at 5 centimeters depth (C)
+FB 158   Time of Min
+FC 159   Maple@-10	Maple area Min at 10 cm depth (C)
+FD 160   Time of Min
+FE 161   Maple@-20	Maple area Min at 20 cm depth (C)
+FF 162   Time of Min
+FG 163   Maple@-50	Maple area Min at 50 cm depth (C)
+FH 164   Time of Min
+FI 165   Maple@-100	Maple area Min at 1 meter depth (C)
+FJ 166   Time of Min
+FK 167   Aspen@-5	Aspen area Minimum at 5 centimeters depth (C)
+FL 168   Time of Min
+FM 169   Aspen@-10	Aspen area Min at 10 cm depth (C)
+FN 170   Time of Min
+FO 171   Aspen@-20	Aspen area Min at 20 cm depth (C)
+FP 172   Time of Min
+FQ 173   Aspen@-50	Aspen area Min at 50 cm depth (C)
+FR 174   Time of Min
+FS 175   Aspen@-100	Aspen area Min at 1 meter depth (C)
+FT 176   Time of Min
+
+Daily Minimum Volumetric Soil Moistures:
+FU 177   Bir SM -5	Birch area Minimum at 5 to 35 centimeters depth
+FV 178   Time of Min
+FW 179   Asp SM -5	Aspen area Min at 5 to 35 cm depth
+FX 180   Time of Min
+FY 181   Mpl SM -5	Maple area Min at 5 to 35 cm depth
+FZ 182   Time of Min
+GA 183   Bir SM -50	Birch area Minimum at 50 to 80 centimeters depth
+GB 184   Time of Min
+GC 185   Asp SM -50	Aspen area Min at 50 to 80 cm depth
+GD 186   Time of Min
+GE 187   Mpl SM -50	Maple area Min at 50 to 80 cm depth
+GF 188   Time of Min
+GG 189   Bir SM -100	Birch area Minimum at 1 to 1.3 meters depth
+GH 190   Time of Min
+GI 191   Asp SM -100	Aspen area Min at 1 to 1.3 meters depth
+GJ 192   Time of Min
+GK 193   Mpl SM -100	Maple area Min at 1 to 1.3 meters depth
+GL 194   Time of Min
+
+Accumulated 5 sec PAR values for 24 hours (04/2000 thru 12/2000):
+GM 195   Birch Accum 5sec PAR
+GN 196   Maple Accum 5sec PAR
+GO 197   Aspen Accum 5sec PAR
+
+Additional columns added 01/2001:
+   GM 195   Total Rain (mm)
+
+   Accumulated 5 sec PAR values for 24 hours:
+   GN 196   Birch Accum 5sec PAR
+   GO 197   Maple Accum 5sec PAR
+   GP 198   Aspen Accum 5sec PAR
+
+   Standard Deviations:
+   GQ 199   StDv Birch PAR	Standard Deviation of Birch PAR
+   GR 200   StDv Maple PAR	Standard Deviation of Maple PAR
+   GS 201   StDv Aspen PAR	Standard Deviation of Aspen PAR
+   GT 202   StDv NetRad		Standard Deviation of Net Radiation]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/facts-IIdata/met_data/ReadMe201.txtFile Content Indicator:  201
+Measurements Reported Every 30 Minutes
+  (Missing Data Value = 6999)
+  (LeafWetness Missing Data Value = 99999)
+
+
+Col Col  Header		Description
+Let Num  
+ A   1   ArrayID 	File Content Indicator = 201
+ B   2   TowerID	Tower ID = 0
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Above Ground Conditions:
+ F   6   W Spd 2m	Wind Speed at 2 meters (meters/sec)
+ G   7   W Dir 2m	Wind Direction at 2 meters (degrees)
+ H   8   StDv W Dir 2m	Wind Direction Standard Deviation at 2 meters
+ I   9   W Spd 5m	W Spd at 5 m (m/sec)
+ J  10   W Dir 5m	W Dir at 5 m (deg)
+ K  11   StDv W Dir 5m	W Dir Std Dev at 5 m
+ L  12   W Spd 10m	W Spd at 10 m (m/sec)
+ M  13   W Dir 10m	W Dir at 10 m (deg)
+ N  14   StDv W Dir 10m	W Dir Std Dev at 10 m
+ O  15   W Spd 15m	W Spd at 15 m (m/sec)
+ P  16   W Dir 15m	W Dir at 15 m (deg)
+ Q  17   StDv W Dir 15m	W Dir Std Dev at 15 m
+ R  18   W Spd 20m	W Spd at 20 m (m/sec)
+ S  19   W Dir 20m	W Dir at 20 m (deg)
+ T  20   StDv W Dir 20m	W Dir Std Dev at 20 m
+ U  21   PAR		Photosynthetically Active Radiation at 2 m (millimoles/sq m/sec)
+ V  22   Net Rad	Net Radiation at 2 meters (watts/square meter)
+ W  23   Temp 2m	Temperature at 2 meters (C)
+ X  24   Temp 5m	Temp at 5 m (C)
+ Y  25   Temp 10m	Temp at 10 m (C)
+ Z  26   Temp 15m	Temp at 15 m (C)
+AA  27   Temp 20m	Temp at 20 m (C)
+AB  28   RH 2m		Relative Humidity at 2 meters
+AC  29   RH 5m		RH at 5 m
+AD  30   RH 10m		RH at 10 m
+AE  31   RH 15m		RH at 15 m
+AF  32   RH 20m		RH at 20 m
+AG  33   TC Ref		Thermocouple Reference
+AH  34   TC Surf	TC Surface Temperature (C)
+AI  35	 TC 0.25m 	TC Temp at 25 centimeters (C)
+AJ  36   TC 0.50m	TC Temp at 50 cm (C)
+AK  37	 TC 0.75m 	TC Temp at 75 cm (C)
+AL  38   TC 1.0m  	TC Temp at 1 meter (C)
+AM  39   TC 2.0m  	TC Temp at 2 m (C)
+
+Soil Temperatures:
+AN  40   ST@-0.05m	at 5 centimeters depth (C)
+AO  41   ST@-0.10m	at 10 cm depth (C)
+AP  42   ST@-0.20m	at 20 cm depth (C)
+AQ  43   ST@-0.50m	at 50 cm depth (C)
+AR  44   ST@-1.0m	at 1 meter depth (C)
+
+Miscellaneous:
+AS  45   Leaf Wetness	Resistance (kilo-ohms)
+AT  46   Rain		Rain last half-hour (millimeters)
+AU  47	 Evap Pan	Depth of Water in Evaporation Pan (millimeters)
+AV  48   Press		Barametric Pressure (millibars)
+
+Additional columns added 01/2001:
+AW  49   StDv PAR	Standard Deviation of PAR
+AX  50   StDv NetRad    Standard Deviation of Net Radiation
+]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/facts-IIdata/met_data/ReadMe202.txtFile Content Indicator:  202
+Measurements Reported Every 2 Hours
+  (Missing Data Values = 6999)
+
+
+Col Col  Header		Description
+Let Num
+ A   1   ArrayID 	File Content Indicator = 202
+ B   2   TowerID	Tower ID = 0
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Volumetric Soil Moistures:
+ F   6   SM 5-35cm	from 5 to 35 centimeters depth
+ G   7   SM 35-65cm	from 35 to 65 cm depth
+ H   8   SM 1-1.3m	from 1 to 1.3 meters depth
+]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/facts-IIdata/met_data/ReadMe224.txtFile Content Indicator:  224
+Daily Averages, Maximums, and Minimums w/ Times of Maximums and Minimums
+  (Missing Data Value = 6999)
+
+
+Col Col  Header
+Let Num
+ A   1   ArrayID 	File Content Indicator = 224
+ B   2   TowerID	Tower ID = 0
+ C   3   Year		Year
+ D   4   Day		Day (Julian Day)
+ E   5   Time		Time on 2400 clock
+
+Daily Average Above Ground Conditions:
+ F   6   W Spd 2m	Average Wind Speed at 2 meters (meters/sec)
+ G   7   W Dir 2m	Average Wind Direction at 2 meters (degrees)
+ H   8   StDv W Dir 2m	Wind Direction Standard Deviation at 2 meters
+ I   9   W Spd 5m	Avg W Spd at 5 m (m/sec)
+ J  10   W Dir 5m	Avg W Dir at 5 m (deg)
+ K  11   StDv W Dir 5m	W Dir Std Dev at 5 m
+ L  12   W Spd 10m	Avg W Spd at 10 m (m/sec)
+ M  13   W Dir 10m	Avg W Dir at 10 m (deg)
+ N  14   StDv W Dir 10m	W Dir Std Dev at 10 m
+ O  15   W Spd 15m	Avg W Spd at 15 m (m/sec)
+ P  16   W Dir 15m	Avg W Dir at 15 m (deg)
+ Q  17   StDv W Dir 15m	W Dir Std Dev at 15 m
+ R  18   W Spd 20m	Avg W Spd at 20 m (m/sec)
+ S  19   W Dir 20m	Avg W Dir at 20 m (deg)
+ T  20   StDv W Dir 20m	W Dir Std Dev at 20 m
+ U  21   PAR		Avg Photosynthetically Active Radiation at 2 m (millimoles/sq m/sec)
+ V  22   Net Rad	Average Net Radiation at 2 meters (watts/square meter)
+ W  23   Temp 2m	Average Temperature at 2 meters (C)
+ X  24   Temp 5m	Avg Temp at 5 m (C)
+ Y  25   Temp 10m	Avg Temp at 10 m (C)
+ Z  26   Temp 15m	Avg Temp at 15 m (C)
+AA  27   Temp 20m	Avg Temp at 20 m (C)
+AB  28   RH 2m		Average Relative Humidity at 2 meters
+AC  29   RH 5m		Avg RH at 5 m
+AD  30   RH 10m		Avg RH at 10 m
+AE  31   RH 15m		Avg RH at 15 m
+AF  32   RH 20m		Avg RH at 20 m
+AG  33   TC Ref		Average Thermocouple Reference
+AH  34   TC Surf	Avg TC Surface Temperature (C)
+AI  35   TC 0.25m	Avg TC Temp at 25 centimeters (C)
+AJ  36   TC 0.50m	Avg TC Temp at 50 cm (C)
+AK  37   TC 0.75m	Avg TC Temp at 75 cm (C)
+AL  38   TC 1.0m	Avg TC Temp at 1 meter (C)
+AM  39   TC 2.0m	Avg TC Temp at 2 m (C)
+
+Daily Average Soil Temperatures:
+AN  40   ST@-0.05m	Average at 5 centimeter depth (C)
+AO  41   ST@-0.10m	Avg at 10 cm depth (C)
+AP  42   ST@-0.20m	Avg at 20 cm depth (C)
+AQ  43   ST@-0.50m	Avg at 50 cm depth (C)
+AR  44   ST@-1.0m	Avg at 1 meter depth (C)
+
+Daily Average Volumetric Soil Moistures:
+AS  45   SM 5-35cm	Average at 5 to 35 centimeter depth
+AT  46   SM 35-65cm	Avg at 35 to 65 cm depth
+AU  47   SM 1-1.3m	Avg at 1 to 1.3 meters depth
+
+Daily Maximum Above Ground Conditions:
+AV  48   W Spd 2m	Maximum Wind Speed at 2 meters (meters/sec)
+AW  49   Time of Max
+AX  50   W Spd 5m	Max W Spd at 5 m (m/sec)
+AY  51   Time of Max
+AZ  52   W Spd 10m	Max W Spd at 10 m (m/sec)
+BA  53   Time of Max
+BB  54   W Spd 15m	Max W Spd at 15 m (m/sec)
+BC  55   Time of Max
+BD  56   W Spd 20m	Max W Spd at 20 m (m/sec)
+BE  57   Time of Max
+BF  58   PAR		Max Photosynthetically Active Radiation at 2 m (millimoles/sq m/sec)
+BG  59   Time of Max
+BH  60   Net Rad	Maximum Net Radiation at 2 meters (watts/square meter)
+BI  61   Time of Max
+BJ  62   Temp 2m	Maximum Temperature at 2 meters (C)
+BK  63   Time of Max
+BL  64   Temp 5m	Max Temp at 5 m (C)
+BM  65   Time of Max
+BN  66   Temp 10m	Max Temp at 10 m (C)
+BO  67   Time of Max
+BP  68   Temp 15m	Max Temp at 15 m (C)
+BQ  69   Time of Max
+BR  70   Temp 20m	Max Temp at 20 m (C)
+BS  71   Time of Max
+BT  72   RH 2m		Maximum Relative Humidity at 2 meters
+BU  73   Time of Max
+BV  74   RH 5m		Max RH at 5 m
+BW  75   Time of Max
+BX  76   RH 10m		Max RH at 10 m
+BY  77   Time of Max
+BZ  78   RH 15m		Max RH at 15 m
+CA  79   Time of Max
+CB  80   RH 20m		Max RH at 20 m
+CC  81   Time of Max
+CD  82   TC Ref		Maximum Thermocouple Reference
+CE  83   Time of Max
+CF  84   TC Surf	Max TC Surface Temperature (C)
+CG  85   Time of Max
+CH  86	 TC 0.25m	Max TC Temp at 25 centimeters (C)
+CI  87   Time of Max
+CJ  88   TC 0.50m	Max TC Temp at 50 cm (C)
+CK  89   Time of Max
+CL  90	 TC 0.75m	Max TC Temp at 75 cm (C)
+CM  91   Time of Max
+CN  92   TC 1.0m	Max TC Temp at 1 meter (C)
+CO  93   Time of Max
+CP  94   TC 2.0m	Max TC Temp at 2 m (C)
+CQ  95   Time of Max
+
+Daily Maximum Soil Temperatures:
+CR  96   ST@-0.05m	Maximum at 5 centimeters depth (C)
+CS  97   Time of Max
+CT  98   ST@-0.10m	Max at 10 cm depth (C)
+CU  99   Time of Max
+CV 100   ST@-0.20m	Max at 20 cm depth (C)
+CW 101   Time of Max
+CX 102   ST@-0.50m	Max at 50 cm depth (C)
+CY 103   Time of Max
+CZ 104   ST@-1.0m	Max at 1 meter depth (C)
+DA 105   Time of Max
+
+Daily Maximum Volumetric Soil Moistures:
+DB 106   SM 5-35cm	Maximum at 5 to 35 centimeters depth
+DC 107   Time of Max
+DD 108   SM 35-65cm	Max at 35 to 65 cm depth
+DE 109   Time of Max
+DF 110   SM 1-1.3m	Max at 1 to 1.3 meters depth
+DG 111   Time of Max
+
+Daily Minimum Above Ground Conditions:
+FM 169   Net Rad	Minimum Net Radiation at 2 meters (watts/square meter)
+FN 170   Time of Min
+DH 112   Temp 2m	Minimum Temperature at 2 meters (C)
+DI 113   Time of Min
+DJ 114   Temp 5m	Min Temp at 5 m (C)
+DK 115   Time of Min
+DL 116   Temp 10m	Min Temp at 10 m (C)
+DM 117   Time of Min
+DN 118   Temp 15m	Min Temp at 15 m (C)
+DO 119   Time of Min
+DP 120   Temp 20m	Min Temp at 20 m (C)
+DQ 121   Time of Min
+DR 122   RH 2m		Minimum Relative Humidity at 2 meters
+DS 123   Time of Min
+DT 124   RH 5m		Min RH at 5 m
+DU 125   Time of Min
+DV 126   RH 10m		Min RH at 10 m
+DW 127   Time of Min
+DX 128   RH 15m		Min RH at 15 m
+DY 129   Time of Min
+DZ 130   RH 20m		Min RH at 20 m
+EA 131   Time of Min
+EB 132   TC Ref		Minimum Thermocouple Reference
+EC 133   Time of Min
+ED 134   TC Surf	Min TC Surface Temperature (C)
+EE 135   Time of Min
+EF 136   TC 0.25m	Min TC Temp at 25 centimeters (C)
+EG 137   Time of Min
+EH 138   TC 0.50m	Min TC Temp at 50 cm (C)
+EI 139   Time of Min
+EJ 140   TC 0.75m	Min TC Temp at 75 cm (C)
+EK 141   Time of Min
+EL 142   TC 1.0m	Min TC Temp at 1 meter (C)
+EM 143   Time of Min
+EN 144   TC 2.0m	Min TC Temp at 2 m (C)
+EO 145   Time of Min
+
+Daily Minimum Soil Temperatures:
+EP 146   ST@-0.05m	Minimum at 5 centimeters depth (C)
+EQ 147   Time of Min
+ER 148   ST@-0.10m	Min at 10 cm depth (C)
+ES 149   Time of Min
+ET 150   ST@-0.20m	Min at 20 cm depth (C)
+EU 151   Time of Min
+EV 152   ST@-0.50m	Min at 50 cm depth (C)
+EW 153   Time of Min
+EX 154   ST@-1.0m	Min at 1 meter depth (C)
+EY 155   Time of Min
+
+Daily Minimum Volumetric Soil Moistures:
+EZ 156   SM 5-35cm	Minimum at 5 to 35 centimeters depth
+FA 157   Time of Min
+FB 158   SM 35-65cm	Min at 35 to 65 cm depth
+FC 159   Time of Min
+FD 160   SM 1-1.3m	Min at 1 to 1.3 meters depth
+FE 161   Time of Min
+
+Miscellaneous:
+FF 162   Total Rain	Total rain for the day (millimeters)
+FG 163	 Avg Press	Average Barometric Pressure (millibars)
+FH 164	 Max Press	Maximum Bar Press (mb)
+FI 165	 Time of Max
+FJ 166	 Min Press	Minimum Bar Press (mb)
+FK 167	 Time of Min
+FL 168   Evap Pan	Total Evaporation from Pan for the day (millimeters)
+
+Additional columns added 01/2001:
+FM 169   Min NetRad	Mininum Net Radiation at 2 meters (watts/square meter)
+FN 170   Time of Min
+FO 171   Total PAR	Accumulated 5 sec PAR values for 24 hours
+FP 172   StDv PAR	Standard Deviation of PAR
+FQ 173   StDv NetRad	Standard Deviation of Net Radiation]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070710]]></Most_recent_date_of_data_publication>
+      <Data_file_location></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[File Content Indicator:  101  (201 data recorded at tower)
+Met Data Measurements Reported Every 30 Minutes
+  (Missing Data Value = 6999)
+File Content Indicator:  124 (224 data recorded at tower)
+Met Data Daily Averages, Maximums, and Minimums w/ Times of Maximums and Minimums
+  (Missing Data Value = 6999)
+File Content Indicator:  102 (202 data recorded at tower)
+Soil Moisture Measurements Reported Every 2 Hours
+  (Missing Data Values = 6999)
+
+Each ring is divided into three areas:
+   Birch:  contains mixed Aspen/Birch
+   Maple:  contains mixed Aspen/Maple
+   Aspen:  contains pure Aspen
+]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

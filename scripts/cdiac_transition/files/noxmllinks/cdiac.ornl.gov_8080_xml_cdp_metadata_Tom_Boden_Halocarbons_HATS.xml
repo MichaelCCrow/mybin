@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Elkins, J.]]></origin>
+        <origin><![CDATA[Butler, J.]]></origin>
+        <origin><![CDATA[Montzka, S.]]></origin>
+        <origin><![CDATA[Thompson, T.]]></origin>
+        <title><![CDATA[Halocarbons and other Atmospheric Trace Species Group (HATS)(NOAA)(CMDL)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[/hoss/tab2/noaacmdl/halocarbons/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Halocarbons and other Atmospheric Trace Species Group (HATS)(NOAA)(CMDL)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19770101]]></begdate>
+          <enddate><![CDATA[20050601]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Halon 1301]]></themekey>
+        <themekey><![CDATA[Halon 1211]]></themekey>
+        <themekey><![CDATA[Halon 2402]]></themekey>
+        <themekey><![CDATA[CFC-11]]></themekey>
+        <themekey><![CDATA[CFC-12]]></themekey>
+        <themekey><![CDATA[CFC-113]]></themekey>
+        <themekey><![CDATA[HCFC-141b]]></themekey>
+        <themekey><![CDATA[HCFC-142b]]></themekey>
+        <themekey><![CDATA[HCFC-22]]></themekey>
+        <themekey><![CDATA[HFC-134a]]></themekey>
+        <themekey><![CDATA[N2O]]></themekey>
+        <themekey><![CDATA[SF6]]></themekey>
+        <themekey><![CDATA[NOAA]]></themekey>
+        <themekey><![CDATA[CMDL]]></themekey>
+        <themekey><![CDATA[Halocarbons]]></themekey>
+        <themekey><![CDATA[Atmospheric Trace Species]]></themekey>
+        <themekey><![CDATA[HATS]]></themekey>
+        <themekey><![CDATA[Mass Spectrometer]]></themekey>
+        <themekey><![CDATA[Gas Chromatograph]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 101553</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 161433 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Halon 1301]]></Keywords>
+    <Keywords><![CDATA[Halon 1211]]></Keywords>
+    <Keywords><![CDATA[Halon 2402]]></Keywords>
+    <Keywords><![CDATA[CFC-11]]></Keywords>
+    <Keywords><![CDATA[CFC-12]]></Keywords>
+    <Keywords><![CDATA[CFC-113]]></Keywords>
+    <Keywords><![CDATA[HCFC-141b]]></Keywords>
+    <Keywords><![CDATA[HCFC-142b]]></Keywords>
+    <Keywords><![CDATA[HCFC-22]]></Keywords>
+    <Keywords><![CDATA[HFC-134a]]></Keywords>
+    <Keywords><![CDATA[N2O]]></Keywords>
+    <Keywords><![CDATA[SF6]]></Keywords>
+    <Keywords><![CDATA[NOAA]]></Keywords>
+    <Keywords><![CDATA[CMDL]]></Keywords>
+    <Keywords><![CDATA[Halocarbons]]></Keywords>
+    <Keywords><![CDATA[Atmospheric Trace Species]]></Keywords>
+    <Keywords><![CDATA[HATS]]></Keywords>
+    <Keywords><![CDATA[Mass Spectrometer]]></Keywords>
+    <Keywords><![CDATA[Gas Chromatograph]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#160;|&#160;
+ &#160;|&#160;
+ The 45 Global Monitoring Conference, May 23-24, 2017 in Boulder.
+ The general mission of the Halocarbons and other Atmospheric
+ Trace Species group is to quantify the distributions and magnitudes of sources
+ and sinks for atmospheric nitrous oxide (NO) and halogen containing compounds.
+ HATS utilizes numerous types of platforms, including ground-based stations,
+ towers, ocean vessels, aircraft, and balloons to accomplish its mission.
+ The HATS group conducts several measurement projects at multiple sites around the world. This page displays a map and listing of the sites. 
+ Hourly in situ observations of halocarbon gases provide information on transport, emissions, and trends.
+ Latest news on the HATS group, and learn more about the different types of compounds and their affect on stratospheric ozone.
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+//
+ var usasearch_config = { siteHandle:"noaa_esrl_gmd" };
+ var script = document.createElement("script");
+ script.type = "text/javascript";
+ script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+ document.getElementsByTagName("head")[0].appendChild(script);
+//]]]]><![CDATA[>]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 161433 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[HATS]]></Product_number>
+      <Product_title><![CDATA[Halocarbons and other Atmospheric Trace Species Group (HATS)(NOAA)(CMDL)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Elkins, J.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Butler, J.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Montzka, S.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Thompson, T.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Halocarbons]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[NOAA/CMDL baseline observatories: Pt. Barrow Alaska]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/obop/brw/]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[NOAA/CMDL baseline observatories: Cape Matatula, American Samoa]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/obop/smo/]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[NOAA/CMDL baseline observatories: Mauna Loa, Hawaii]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/obop/mlo/]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[NOAA/CMDL baseline observatories: South Pole, Antarctica]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/obop/spo/]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cooperating sites: Alert, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/hats/stations/alt.html]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cooperating sites: Niwot Ridge, Colorado]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/hats/stations/nwr.html]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cooperating sites: Cape Grim Observatory]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/hats/stations/cgo.html]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cooperating sites: Harvard Forest, Massachusetts]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/hats/stations/hfm.html]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cooperating sites: Grifton, North Carolina]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/hats/stations/itn.html]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cooperating sites: Park Falls, Wisconsin]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/hats/stations/lef.html]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Home: Boulder Laboratory]]></Site_name>
+        <Site_URL><![CDATA[http://www.cmdl.noaa.gov/obop/bld/]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/cfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/halons/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hcfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/hfcs/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/n2o/]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/sf6/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Station]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Date]]></Variable>
+      <Variable><![CDATA[Time]]></Variable>
+      <Variable><![CDATA[Halon 1301]]></Variable>
+      <Variable><![CDATA[Halon 1211]]></Variable>
+      <Variable><![CDATA[Halon 2402]]></Variable>
+      <Variable><![CDATA[CFC-11]]></Variable>
+      <Variable><![CDATA[CFC-12]]></Variable>
+      <Variable><![CDATA[CFC-113]]></Variable>
+      <Variable><![CDATA[HCFC-141b]]></Variable>
+      <Variable><![CDATA[HCFC-142b]]></Variable>
+      <Variable><![CDATA[HCFC-22]]></Variable>
+      <Variable><![CDATA[HFC-134a]]></Variable>
+      <Variable><![CDATA[N2O]]></Variable>
+      <Variable><![CDATA[SF6]]></Variable>
+      <Descriptive_file><![CDATA[http://www.cmdl.noaa.gov/hats &#160;|&#160;
+ &#160;|&#160;
+ The 45 Global Monitoring Conference, May 23-24, 2017 in Boulder.
+ The general mission of the Halocarbons and other Atmospheric
+ Trace Species group is to quantify the distributions and magnitudes of sources
+ and sinks for atmospheric nitrous oxide (NO) and halogen containing compounds.
+ HATS utilizes numerous types of platforms, including ground-based stations,
+ towers, ocean vessels, aircraft, and balloons to accomplish its mission.
+ The HATS group conducts several measurement projects at multiple sites around the world. This page displays a map and listing of the sites. 
+ Hourly in situ observations of halocarbon gases provide information on transport, emissions, and trends.
+ Latest news on the HATS group, and learn more about the different types of compounds and their affect on stratospheric ozone.
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+//
+ var usasearch_config = { siteHandle:"noaa_esrl_gmd" };
+ var script = document.createElement("script");
+ script.type = "text/javascript";
+ script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+ document.getElementsByTagName("head")[0].appendChild(script);
+//]]]]><![CDATA[>]]></Descriptive_file>
+      <Data_file><![CDATA[/hoss/tab2/noaacmdl/halocarbons/readme.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19930101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20030101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/hoss/tab2/noaacmdl/halocarbons/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  The mission of the Halocarbons and other Atmospheric Trace Species (HATS) group is to study halocarbons and other trace gases that cause chemical and radiative change in the atmosphere. The goal of HATS is to measure and interpret the distributions and trends of these species in the troposphere, stratosphere, and ocean with the best analytical instrumentation available.  The species studied include nitrous oxide (N2O); many halogenated species, such as halocarbons, fluorocarbons, perfluorocarbons (PFCs), and sulfur hexafluoride (SF6); organic nitrates, such as peroxyacetyl nitrate (PAN); organic sulfur gases, such as carbonyl sulfide (COS); and hydrocarbons (HCs).  The halocarbons include the chlorofluorocarbons (CFCs); chlorocarbons (CCs), such as carbon tetrachloride (CCl4), methyl chloroform (CH3CCl3), chloroform (CHCL3), dichloromethane (CH2Cl2), and tetrachloroethene (C2Cl4); the replacement CFCs hydrochlorofluorocarbons (HCFCs); hydrofluorocarbons (HFCs); methyl halides (CH3Br, CH3Cl, and CH3I); bromocarbons (CH2Br2 and CHBr3); and halons.
+<br><br>
+HATS utilizes numerous types of platforms, including ground-based stations, towers, ocean vessels, aircraft, and balloons, to accomplish its mission.  
+<br><br>
+Airborne:  Projects involve measuring important trace gases in the upper troposphere and stratosphere on aircraft and balloons, and even Unpiloted Airborne vehicles (UAVs).  The key result is the understanding the chemistry and transport of the upper atmosphere.  
+<br><br>
+Flasks:  Research centers on obtaining the maximum science from weekly to monthly flask samples collected worldwide and analyzed in our Boulder labs.  These samples are used to determine current and historical trends, trace gas and OH distributions, and budgets.
+<br><br>
+In Situ Sustainable Measurements:  In situ observations at NOAA/CMDL baseline observations, WMO GAW stations, Niwot Ridge, and tower sites located in Harvard Forest, Wisconsin, and Texas provide information on transport, emissions, and trends with the highest possible time resolution.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

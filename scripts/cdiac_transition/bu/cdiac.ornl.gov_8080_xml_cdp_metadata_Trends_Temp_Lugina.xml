@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Lugina, K. M.]]></origin>
+        <origin><![CDATA[Groisman, P. Ya.]]></origin>
+        <origin><![CDATA[Vinnikov, K. Ya]]></origin>
+        <origin><![CDATA[Koknaeva, V. V.]]></origin>
+        <origin><![CDATA[Speranskaya, N. A.]]></origin>
+        <title><![CDATA[Monthly surface Air Temperature Time Series Area-Averaged over the 30-Degree Latitudinal Belts of the Globe ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Temp/Lugina.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/trends/temp/lugina/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Monthly surface Air Temperature Time Series Area-Averaged over the 30-Degree Latitudinal Belts of the Globe ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18810101]]></begdate>
+          <enddate><![CDATA[20060726]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[monthly surface air temperature]]></themekey>
+        <themekey><![CDATA[World Weather Records]]></themekey>
+        <themekey><![CDATA[Monthly Climatic Data for the World]]></themekey>
+        <themekey><![CDATA[Meteorological Data for Individual Years over the Northern Hemisphere Excluding the USSR]]></themekey>
+        <themekey><![CDATA[warmest years]]></themekey>
+        <themekey><![CDATA[mean monthly and annual values of surface air temperature]]></themekey>
+        <themekey><![CDATA[TRENDS-TEMPERATURE]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090714 150245</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 101337 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[monthly surface air temperature]]></Keywords>
+    <Keywords><![CDATA[World Weather Records]]></Keywords>
+    <Keywords><![CDATA[Monthly Climatic Data for the World]]></Keywords>
+    <Keywords><![CDATA[Meteorological Data for Individual Years over the Northern Hemisphere Excluding the USSR]]></Keywords>
+    <Keywords><![CDATA[warmest years]]></Keywords>
+    <Keywords><![CDATA[mean monthly and annual values of surface air temperature]]></Keywords>
+    <Keywords><![CDATA[TRENDS-TEMPERATURE]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[and N.A. Speranskaya
+Department of Geography, St. Petersburg State University, St. Petersburg, Russia (deceased)
+UCAR Project Scientist, National Climatic Data Center, Asheville, North Carolina
+Department of Atmospheric Sciences, University of Maryland, College Park, Maryland
+1881-2005 (relative to a reference period of 1951-1975)
+CITE AS: K.M. Lugina, P.Ya. Groisman, K.Ya. Vinnikov, V.V. Koknaeva, and N.A. Speranskaya, 2006. Monthly surface air temperature time series area-averaged over the 30-degree latitudinal belts of the globe, 1881-2005. In . Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. doi: 10.3334/CDIAC/cli.003
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 101337 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Temp/Lugina.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.003]]></Product_number>
+      <Product_title><![CDATA[Monthly surface Air Temperature Time Series Area-Averaged over the 30-Degree Latitudinal Belts of the Globe ]]></Product_title>
+      <Author>
+        <Name><![CDATA[Lugina, K. M.]]></Name>
+        <Company><![CDATA[St. Petersburg State University]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Groisman, P. Ya.]]></Name>
+        <Company><![CDATA[National Climatic Data Center]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Vinnikov, K. Ya]]></Name>
+        <Company><![CDATA[University of Maryland]]></Company>
+        <Organization><![CDATA[Department of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Koknaeva, V. V.]]></Name>
+        <Company><![CDATA[State Hydrological Institute]]></Company>
+        <Organization><![CDATA[St. Petersburg, Russia ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Speranskaya, N. A.]]></Name>
+        <Company><![CDATA[State Hydrological Institute]]></Company>
+        <Organization><![CDATA[St. Petersburg, Russia]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Temperature - Global]]></Thematic_area>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/lugina/90N-60S.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/lugina/globesea.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/lugina/graphics/allwin.jpg]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/lugina/graphics/allspr.jpg]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/lugina/graphics/allsum.jpg]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/lugina/graphics/allfal.jpg]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/lugina/winter.html]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/lugina/spring.html]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/lugina/summer.html]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/lugina/fall.html]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Northern Hemisphere]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/lugina/0-90N.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/lugina/Nhemsea.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Southern Hemisphere]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/lugina/0-60S.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/lugina/Shemsea.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[monthly]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/temp/lugina/lugina.htmland N.A. Speranskaya
+Department of Geography, St. Petersburg State University, St. Petersburg, Russia (deceased)
+UCAR Project Scientist, National Climatic Data Center, Asheville, North Carolina
+Department of Atmospheric Sciences, University of Maryland, College Park, Maryland
+1881-2005 (relative to a reference period of 1951-1975)
+CITE AS: K.M. Lugina, P.Ya. Groisman, K.Ya. Vinnikov, V.V. Koknaeva, and N.A. Speranskaya, 2006. Monthly surface air temperature time series area-averaged over the 30-degree latitudinal belts of the globe, 1881-2005. In . Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. doi: 10.3334/CDIAC/cli.003
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[.]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20030628]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20060726]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/trends/temp/lugina/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[193KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ The mean monthly and annual values of surface air temperature compiled by Lugina et al. have been taken mainly from the World Weather Records, Monthly Climatic Data for the World, and Meteorological Data for Individual Years over the Northern Hemisphere Excluding the USSR. These published records were supplemented with information from different national publications. In the original archive, after removal of station records believed to be nonhomogeneous or biased, 301 and 265 stations were used to determine the mean temperature for the Northern and Southern hemispheres, respectively. The new version of the station temperature archive (used for evaluation of the zonally-averaged temperatures) was created in 1995. The change to the archive was required because data from some stations became unavailable for analyses in the 1990s. During this process, special care was taken to secure homogeneity of zonally averaged time series. When a station (or a group of stations) stopped reporting, a new station (or group of stations) was selected in the same region, and its data for the past 50 years were collected and added to the archive. The processing (area-averaging) was organized in such a way that each time series from a new station spans the reference period (1951-1975) and the years thereafter. It was determined that the addition of the new stations had essentially no effect on the zonally-averaged values for the pre-1990 period.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

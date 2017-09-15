@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Conway, T.J.]]></origin>
+        <origin><![CDATA[Tans, P. P.]]></origin>
+        <title><![CDATA[Atmospheric Carbon Dioxide Mixing Ratios from the NOAA CMDL Cooperative Global Air Sampling Network]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_005.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric Carbon Dioxide Mixing Ratios from the NOAA CMDL Cooperative Global Air Sampling Network]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19680101]]></begdate>
+          <enddate><![CDATA[20021231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.00]]></westbc>
+        <eastbc><![CDATA[180.00]]></eastbc>
+        <northbc><![CDATA[90.00]]></northbc>
+        <southbc><![CDATA[-90.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2]]></themekey>
+        <themekey><![CDATA[NOAA]]></themekey>
+        <themekey><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></themekey>
+        <themekey><![CDATA[CMDL]]></themekey>
+        <themekey><![CDATA[Carbon Cycle Group]]></themekey>
+        <themekey><![CDATA[Air Samples]]></themekey>
+        <themekey><![CDATA[Flask Network Sites]]></themekey>
+        <themekey><![CDATA[NDP-005]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 143440</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 163718 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2]]></Keywords>
+    <Keywords><![CDATA[NOAA]]></Keywords>
+    <Keywords><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></Keywords>
+    <Keywords><![CDATA[CMDL]]></Keywords>
+    <Keywords><![CDATA[Carbon Cycle Group]]></Keywords>
+    <Keywords><![CDATA[Air Samples]]></Keywords>
+    <Keywords><![CDATA[Flask Network Sites]]></Keywords>
+    <Keywords><![CDATA[NDP-005]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 163718 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_005.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.ndp005]]></Product_number>
+      <Product_title><![CDATA[Atmospheric Carbon Dioxide Mixing Ratios from the NOAA CMDL Cooperative Global Air Sampling Network]]></Product_title>
+      <Author>
+        <Name><![CDATA[Conway, T.J.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Tans, P. P.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory ]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Amsterdam Island, France]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/ams.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/amsmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ascension Island, United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/asc.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/ascmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[St. Croix, Virgin Islands, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/avi.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/avimm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Terceira Island, Azores, Portugal]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/azr.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/azrmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Baltic Sea, Poland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/bal.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/balmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[St. Davids Head, Bermuda, United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/bme.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/bmemm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tudor Hill, Bermuda, United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/bmw.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/bmwmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Barrow, Alaska, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/brw.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/brwmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cold Bay, Alaska, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/cba.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/cbamm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania, Australia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/cgo.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/cgomm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Christmas Island, Republic of Kiribati]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/chr.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/chrmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Meares, Oregon, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/cmo.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/cmomm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Crozet Island, France]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/crz.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/crzmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mariana Islands, Guam]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/gmi.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[gmimm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Dwejra Point, Gozo, Malta]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/goz.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/gozmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Halley Station, Antarctica, United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/hba.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/hbamm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hegyhatsal, Hungary]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/hun.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/hunmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Storhofdi, Vestmannaeyjar, Iceland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/ice.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/icemm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Grifton, North Carolina, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/itn.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/itnmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tenerife, Canary Islands, Spain]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/izo.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/izomm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Key Biscayne, Florida, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/key.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/keymm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Kumukahi, Hawaii, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/kum.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/kummm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mould Bay, Nunavut, Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/mbc.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/mbcmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mace Head, County Galway, Ireland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/mhd.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/mhdmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sand Island, Midway, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/mid.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/midmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/mlo.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/mlomm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Niwot Ridge, Colorado, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/nwr.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/nwrmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/poc000.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocn05.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocn10.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocn15.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocn20.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocn25.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocn30.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocs05.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocs10.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocs15.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocs20.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocs25.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocs30.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pocs35.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/poc000mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocn05mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocn10mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocn15mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocn20mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocn25mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocn30mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocs05mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocs10mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocs15mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocs20mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocs25mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocs30mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/pocs35mm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Palmer Station, Antarctica, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/psa.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/psamm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Point Arena, California, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/pta.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/ptamm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ragged Point, Barbados]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/rpb.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/rpbmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South China Sea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/scsn03.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/scsn06.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/scsn09.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/scsn12.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/scsn15.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/scsn18.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/scsn21.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/scsn03mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/scsn06mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/scsn09mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/scsn12mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/scsn15mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/scsn18mm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/scsn21mm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mahe Island, Seychelles]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/sey.co2 ]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/seymm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Bird Island, South Georgia, United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/sgi.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Shemya Island, Alaska, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/shm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/shmmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tutuila, American Samoa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/smo.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/smomm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/spo.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/spomm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ocean Station C, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/stc.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/stcmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ocean Station M, Norway]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/stm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/stmmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Syowa Station, Antarctica, Japan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/syo.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/syomm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tae-ahn Peninsula, Republic of Korea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/tap.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/tapmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Wendover, Utah, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/uta.co2cmomm.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/utamm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ulaan Uul, Mongolia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/uum.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/uummm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sede Boker, Negev Desert, Israel]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/wis.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/wismm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mt. Waliguan, Peoples Republic of China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/wlg.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/wlgmm.co2]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ny-Alesund, Svalbard, Norway and Sweden]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/event/zep.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/month/zepmm.co2]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Atmospheric CO2 mixing ratio (ppmv)]]></Variable>
+      <Variable><![CDATA[Data quality and selection flag]]></Variable>
+      <Variable><![CDATA[Flask ID]]></Variable>
+      <Variable><![CDATA[Sampling date and time (Year month day hour and minute)]]></Variable>
+      <Variable><![CDATA[Sampling instrument]]></Variable>
+      <Variable><![CDATA[Sampling method]]></Variable>
+      <Variable><![CDATA[Station ID]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/ndp005.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/readme_co2.htm]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19960101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20040323]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp005/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The National Oceanic and Atmospheric Administration's Climate Monitoring and Diagnostics Laboratory (NOAA/CMDL) has measured CO2 in air samples collected weekly at a global network of sites since the late 1960s. Atmospheric CO2 mixing ratios reported in these files were measured by a nondispersive infrared absorption technique in air samples collected in glass flasks. All CMDL flask samples are measured relative to standards traceable to the World Meteorological Organization (WMO) CO2 mole fraction scale. These measurements constitute the most geographically extensive, carefully calibrated, internally consistent atmospheric CO2 data set available and are essential for studies aimed at better understanding the global carbon cycle budget.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

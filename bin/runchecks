@@ -1,0 +1,104 @@
+#!/bin/bash
+
+narg=60
+n=60
+show=3
+
+wht='\e[37m'
+red='\e[31m'
+grn='\e[1;32m' 
+blu='\e[1;36m'
+txtrst='\e[0m' # Text Reset
+
+mdbase="/metadata/ngee"
+basebin="/Users/mcu/bin"
+
+#################################################################
+# -s) specify how many records to show
+# -n) specify oldest time to search
+# -t) run full tests (automate saving a draft record)
+#################################################################
+
+find_most_recent() {
+    tags=$(find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | tail -$show)
+    for tag in $tags; do
+        nga $tag | tail -1
+        t=$(nga $tag | tail -1)
+        python3 $basebin/runchecks-checknga.py $t
+    done
+    show=$(find $mdbase -type f -cmin -$n | tail -$show | wc -l)
+#    for i in `find $mdbase/* -type d`; do  
+#        if [[ $i = *"users"* ]]; then 
+#            if [[ $i = *"crow_michael"* || $i = *"testmcu"* ]]; then 
+#                findit $i $1 #2> /dev/null
+#            fi  
+#        else findit $i $1 #2> /dev/null
+#        fi  
+#    done
+}
+
+check() {
+    # n=$1
+    echo "checking files older than $n mins, ie, $((n / 60)) hours"
+    echo -e "\n-----------------------------------------------------------"
+    printf $blu
+    find_most_recent $n
+    #find /metadata/ngee -type f -cmin -$n
+    printf $txtrst
+    echo -e "\n-----------------------------------------------------------\n\n"
+    /usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! -e "select * from files order by id desc limit $show" NGEE_Arctic 2> /dev/null
+    #output=`/usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! -e 'select id, file_location, file_status, creator, file_type from files order by id desc limit 3' NGEE_Arctic`
+    #printf "$red%s $txtrst%s $wht%s $txtrst" $output
+}
+
+targ=false
+
+# you should not use `getopt abo: "$@"` since that would parse
+# the arguments differently from what the set command below does.
+args=`getopt abon:s:wt $*`
+
+if [ $? != 0 ]; then
+    echo 'Usage: ...'
+    exit 2
+fi
+set -- $args
+
+# You cannot use the set command with a backquoted getopt directly,
+# since the exit code from getopt would be shadowed by those of set,
+# which is zero by definition.
+for i
+do
+    case "$i"
+        in  
+    #    -a|-b)
+    #    echo flag $i set; sflags="${i#-}$sflags";
+    #    shift;;
+    #-o) 
+    #    echo oarg is "'"$2"'"; oarg="$2"; shift;
+    #    shift;;
+    -n) 
+        echo n set to "'"$2"'"; n="$2"; shift;
+        shift;;
+    -w)
+        echo checking file system and database; sleep 5; shift;
+        shift;;
+    -t)
+        echo running full tests; targ=true; shift;
+        shift;;
+    -s)
+        echo showing $2; show=$2; shift;
+        shift;;
+    --) 
+        shift; break;;
+esac
+done
+
+#echo single-char flags: "'"$sflags"'"
+#echo oarg is "'"$oarg"'"
+#echo narg is "'"$narg"'"
+
+if $targ; then
+    python /Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata/src/test/python/metadata_checker.py
+    #python /Users/mcu/PycharmProjects/MetadataChecker/metadata_checker.py
+fi
+check $narg

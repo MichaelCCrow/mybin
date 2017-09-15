@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Khalil, M. A. K. ]]></origin>
+        <origin><![CDATA[Rasmussen, R. A. ]]></origin>
+        <title><![CDATA[Atmospheric Methyl Chloride]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/methyl_chloride-khalil_rasmussen.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric Methyl Chloride]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19800815]]></begdate>
+          <enddate><![CDATA[19961215]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric Methyl Chloride]]></themekey>
+        <themekey><![CDATA[METHYL CHLORIDE]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 153250</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050810 083608 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric Methyl Chloride]]></Keywords>
+    <Keywords><![CDATA[METHYL CHLORIDE]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;Atmospheric Methyl Chloride
+CITE AS: Khalil, M.A.K., and R.A. Rasmussen, Atmospheric Methyl Chloride, Atmospheric Environment, 33(8), 1305-1321, 1999.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050810 083608 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/methyl_chloride-khalil_rasmussen.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.004]]></Product_number>
+      <Product_title><![CDATA[Atmospheric Methyl Chloride]]></Product_title>
+      <Author>
+        <Name><![CDATA[Khalil, M. A. K. ]]></Name>
+        <Company><![CDATA[Portland State University]]></Company>
+        <Organization><![CDATA[Department of Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rasmussen, R. A. ]]></Name>
+        <Company><![CDATA[Oregon Graduate Institute]]></Company>
+        <Organization><![CDATA[Department of Environmental Science and Engineering]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alaska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/Archive.wk4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/Cl_Archive.xls]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hawaii]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/Archive.wk4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/Cl_Archive.xls]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Samoa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/Archive.wk4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/Cl_Archive.xls]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tasmania]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/Archive.wk4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/Cl_Archive.xls]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/Archive.wk4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/Cl_Archive.xls]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[chloroform (pptv)]]></Variable>
+      <Variable><![CDATA[methycloride (pptv)]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/other/methylchl.html &#187;&#160;Atmospheric Methyl Chloride
+CITE AS: Khalil, M.A.K., and R.A. Rasmussen, Atmospheric Methyl Chloride, Atmospheric Environment, 33(8), 1305-1321, 1999.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/methylch.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20000201]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20000201]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/methyl_chloride-khalil_rasmussen/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[154 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data set provides monthly average concentrations of atmospheric methyl chloride taken from seven locations distributed among the polar, middle, and tropical latitudes of both hemispheres. The seven primary sites include Pt. Barrow, Alaska; Cape Kumukahi and Mauna Loa, Hawaii; Cape Matatula, Samoa; Cape Grim, Tasmania; and the South Pole and Palmer Station, Antarctica. Concentration measurements from these seven sites cover a period of 16 years, extending from 1981-1997. Monthly data taken between 1987-1989 from 20 short-term sites and vertical distribution measured at various latitudes are also provided.
+<br><br>
+ Air samples were collected from various sites in stainless steel flasks and methyl chloride concentrations were measured using an Electron Capture Gas Chromatograph. Concentrations are reported as mixing ratios in dry air. The concentrations are determined by using a set of calibration standards that are referenced against a primary standard which is also used to establish the absolute concentration. The primary standards were prepared by the investigators in the absence of an available standard from a centralized location.
+<br><br>
+ The data are useful in global methyl chloride budget analyses and for determining the atmospheric distribution and trends of methyl chloride and estimating the total emissions at various latitudes. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Hoyt, D. V.]]></origin>
+        <title><![CDATA[Solar Records: The Wolf Sunspot Index and Umbral/Penumbral Ratio]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp014/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Solar Records: The Wolf Sunspot Index and Umbral/Penumbral Ratio]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18750101]]></begdate>
+          <enddate><![CDATA[19811231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Wolf Sunspot Number]]></themekey>
+        <themekey><![CDATA[Penumbral Area]]></themekey>
+        <themekey><![CDATA[Sunspot Groups]]></themekey>
+        <themekey><![CDATA[Sunspots]]></themekey>
+        <themekey><![CDATA[Solar Activity]]></themekey>
+        <themekey><![CDATA[Solar Constant]]></themekey>
+        <themekey><![CDATA[Umbra Area]]></themekey>
+        <themekey><![CDATA[Umbral/Penumbral Ratio]]></themekey>
+        <themekey><![CDATA[Whole Area]]></themekey>
+        <themekey><![CDATA[Convection]]></themekey>
+        <themekey><![CDATA[Climate Change]]></themekey>
+        <themekey><![CDATA[Hoyt]]></themekey>
+        <themekey><![CDATA[NCAR]]></themekey>
+        <themekey><![CDATA[Atmospheric Chemistry Division ]]></themekey>
+        <themekey><![CDATA[NDP-014]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 122750</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 162021 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Wolf Sunspot Number]]></Keywords>
+    <Keywords><![CDATA[Penumbral Area]]></Keywords>
+    <Keywords><![CDATA[Sunspot Groups]]></Keywords>
+    <Keywords><![CDATA[Sunspots]]></Keywords>
+    <Keywords><![CDATA[Solar Activity]]></Keywords>
+    <Keywords><![CDATA[Solar Constant]]></Keywords>
+    <Keywords><![CDATA[Umbra Area]]></Keywords>
+    <Keywords><![CDATA[Umbral/Penumbral Ratio]]></Keywords>
+    <Keywords><![CDATA[Whole Area]]></Keywords>
+    <Keywords><![CDATA[Convection]]></Keywords>
+    <Keywords><![CDATA[Climate Change]]></Keywords>
+    <Keywords><![CDATA[Hoyt]]></Keywords>
+    <Keywords><![CDATA[NCAR]]></Keywords>
+    <Keywords><![CDATA[Atmospheric Chemistry Division ]]></Keywords>
+    <Keywords><![CDATA[NDP-014]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 162021 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/sar.ndp014]]></Product_number>
+      <Product_title><![CDATA[Solar Records: The Wolf Sunspot Index and Umbral/Penumbral Ratio]]></Product_title>
+      <Author>
+        <Name><![CDATA[Hoyt, D. V.]]></Name>
+        <Company><![CDATA[National Center for Atmospheric Research (NCAR)]]></Company>
+        <Organization><![CDATA[Atmospheric Chemistry Division ]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Solar and Atmospheric Radiation]]></Thematic_area>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Thematic_area><![CDATA[Other]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Solar]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp014.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp014/ndp014.umb]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[GROUP(I)]]></Variable>
+      <Variable><![CDATA[UMBRA(I)]]></Variable>
+      <Variable><![CDATA[WHOLE(I)]]></Variable>
+      <Variable><![CDATA[WOLF(I)]]></Variable>
+      <Variable><![CDATA[YEAR(I)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp014.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp014/ndp014.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp014/ndp014.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp014/ndp014.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp014/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[13 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[These data from observations of sunspot activity cover the period 1875 through 1981; reconstructions are possible back to 1832. Available sunspot models and the theory of mixing length indicate that the observed changes in the umbral/penumbral (U/P) ratio may be equivalent to changes in the solar constant. The U/P ratio is calculated from measurements of solar activity and has been shown to be in good agreement with the Northern Hemisphere temperature record. The data consist of year, number of sunspot groups, Wolf sunspot number, umbra area, whole area, penumbral area, and umbral/penumbral ratio. The data are in one file (3.3 kB).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

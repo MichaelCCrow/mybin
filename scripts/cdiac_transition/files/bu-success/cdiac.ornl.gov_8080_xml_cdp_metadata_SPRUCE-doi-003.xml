@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Paul J. Hanson]]></origin>
+        <origin><![CDATA[U.S. Forest Service Staff]]></origin>
+        <origin><![CDATA[SPRUCE Team]]></origin>
+        <title><![CDATA[SPRUCE S1 Bog Vegetation Survey and Peat Depth Data: 2009
+]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/SPRUCE-doi-003.xml]]></onlink>
+        <onlink><![CDATA[http://mnspruce.ornl.gov/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[SPRUCE S1 Bog Vegetation Survey and Peat Depth Data: 2009
+]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20090921]]></begdate>
+          <enddate><![CDATA[20090922]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-93.48283]]></westbc>
+        <eastbc><![CDATA[-93.48283]]></eastbc>
+        <northbc><![CDATA[47.50285]]></northbc>
+        <southbc><![CDATA[47.50285]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[SPRUCE Experiment]]></themekey>
+        <themekey><![CDATA[ORNL]]></themekey>
+        <themekey><![CDATA[U.S. DOE Office of Science]]></themekey>
+        <themekey><![CDATA[Marcell Experimental Forest]]></themekey>
+        <themekey><![CDATA[Vegetation Survey]]></themekey>
+        <themekey><![CDATA[Peat Depth]]></themekey>
+        <themekey><![CDATA[push probe]]></themekey>
+        <themekey><![CDATA[Northern Research Station]]></themekey>
+        <themekey><![CDATA[U.S. Forest Service]]></themekey>
+        <themekey><![CDATA[climate change]]></themekey>
+        <themekey><![CDATA[peat depth]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120907 121418</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Les Hookhookla@ornl.gov865-241-4846]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20120413 155308 by 160.91.29.159</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[SPRUCE Experiment]]></Keywords>
+    <Keywords><![CDATA[ORNL]]></Keywords>
+    <Keywords><![CDATA[U.S. DOE Office of Science]]></Keywords>
+    <Keywords><![CDATA[Marcell Experimental Forest]]></Keywords>
+    <Keywords><![CDATA[Vegetation Survey]]></Keywords>
+    <Keywords><![CDATA[Peat Depth]]></Keywords>
+    <Keywords><![CDATA[push probe]]></Keywords>
+    <Keywords><![CDATA[Northern Research Station]]></Keywords>
+    <Keywords><![CDATA[U.S. Forest Service]]></Keywords>
+    <Keywords><![CDATA[climate change]]></Keywords>
+    <Keywords><![CDATA[peat depth]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20120413 155308 by 160.91.29.159</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/SPRUCE-doi-003.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[SPRUCE-003]]></Product_number>
+      <Product_title><![CDATA[SPRUCE S1 Bog Vegetation Survey and Peat Depth Data: 2009
+]]></Product_title>
+      <Author>
+        <Name><![CDATA[Paul J. Hanson]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[U.S. Forest Service Staff]]></Name>
+        <Company><![CDATA[U.S. Forest Service]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[SPRUCE Team]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation Response to CO2 and Climate]]></Thematic_area>
+      <Thematic_area><![CDATA[Climate Change]]></Thematic_area>
+      <Thematic_area><![CDATA[Elevated temperature]]></Thematic_area>
+      <Thematic_area><![CDATA[Elevated carbon dioxide]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[USDA Forest Service, Marcell Experimental Forest (MEF)]]></Site_name>
+        <Site_URL><![CDATA[http://mnspruce.ornl.gov/]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://mnspruce.ornl.gov/SPRUCE_S1_Veg_Survey/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[See Data Dictionary in User's Guide]]></Variable>
+      <Descriptive_file><![CDATA[SPRUCE_Survey_2009_20120404.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20090921]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20090922]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://mnspruce.ornl.gov/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Les Hook]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[hookla@ornl.gov]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[865-241-4846]]></CDIAC_contact>
+      <Notes><![CDATA[This data set reports the results of a field survey of the S1 Bog to characterize the vegetation and to determine peat depth. The survey was conducted on September 21 and 22, 2009.
+
+The initial survey of vegetation and peat depth characteristics of the target bog (Figure 1) was conducted to evaluate the logical locations for installing replicated experimental blocks for SPRUCE. The goal was to identify multiple locations of uniform aboveground vegetation and belowground peat depth for positioning experimental units within the bog.
+
+On the 21 and 22 September 2009 ORNL and U.S. Forest Service staff surveyed the areal extent of the S1 Bog for vegetation and peat characteristics.
+
+The bog vegetation was surveyed through direct measurements of 165 plots distributed on a 20 meter spacing along 30 northwest-to-southeast transects (Figure 2.). Tree species, number, diameter at 1.3 meters (DBH), and total height were evaluated within a 2.5 meter radius of the plot center.
+
+Seedling/sapling species and count were evaluated within a 1 m radius of the plot center. A semiquantitative visual estimation of the cover of the dominant ericaceous shrub cover was made within a 1- m subplot. Notes were taken regarding the condition of the Sphagnum layer, the presence of other common forms of ground vegetation, and the occurrence of buried logs within the peat. Photographs of the plots were taken.
+
+The thickness of peat was measured directly with manual push probes. Triplicate measurements were made at most of the 165 plots using 0.5 cm diameter metal rods.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

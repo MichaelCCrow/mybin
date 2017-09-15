@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Goyet, C.]]></origin>
+        <origin><![CDATA[Guenther, P. R.]]></origin>
+        <origin><![CDATA[Keeling, C. D.]]></origin>
+        <origin><![CDATA[Talley, L. D.]]></origin>
+        <title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Thomas Washington Cruise TUNES-3 in the Equatorial Pacific Ocean (WOCE section P16C)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp060/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Thomas Washington Cruise TUNES-3 in the Equatorial Pacific Ocean (WOCE section P16C)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19910901]]></begdate>
+          <enddate><![CDATA[19910930]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-155.656]]></westbc>
+        <eastbc><![CDATA[-150.481]]></eastbc>
+        <northbc><![CDATA[18.881]]></northbc>
+        <southbc><![CDATA[-17.51]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[WOCE section P16C]]></themekey>
+        <themekey><![CDATA[R/V Thomas Washington Cruise TUNES-3]]></themekey>
+        <themekey><![CDATA[CFC-12]]></themekey>
+        <themekey><![CDATA[Pacific Ocean]]></themekey>
+        <themekey><![CDATA[Equatorial Pacific Ocean]]></themekey>
+        <themekey><![CDATA[TALK]]></themekey>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[World Ocean Circulation Experiment]]></themekey>
+        <themekey><![CDATA[bottle salinity]]></themekey>
+        <themekey><![CDATA[carbon cycle]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[chlorofluorocarbon (CFC)-11]]></themekey>
+        <themekey><![CDATA[hydrographic measurements]]></themekey>
+        <themekey><![CDATA[nitrate]]></themekey>
+        <themekey><![CDATA[nitrite]]></themekey>
+        <themekey><![CDATA[oxygen]]></themekey>
+        <themekey><![CDATA[oxygen measured by (CTD)]]></themekey>
+        <themekey><![CDATA[phosphate]]></themekey>
+        <themekey><![CDATA[potential temperatures]]></themekey>
+        <themekey><![CDATA[pressure]]></themekey>
+        <themekey><![CDATA[salinity]]></themekey>
+        <themekey><![CDATA[silicate]]></themekey>
+        <themekey><![CDATA[temperature]]></themekey>
+        <themekey><![CDATA[total alkalinity]]></themekey>
+        <themekey><![CDATA[Goyet]]></themekey>
+        <themekey><![CDATA[Woods Hole Oceanographic Institution]]></themekey>
+        <themekey><![CDATA[Guenther]]></themekey>
+        <themekey><![CDATA[SIO]]></themekey>
+        <themekey><![CDATA[Scripps Institution of Oceanography]]></themekey>
+        <themekey><![CDATA[Keeling]]></themekey>
+        <themekey><![CDATA[Talley]]></themekey>
+        <themekey><![CDATA[NDP-060]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 123430</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 144721 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[WOCE section P16C]]></Keywords>
+    <Keywords><![CDATA[R/V Thomas Washington Cruise TUNES-3]]></Keywords>
+    <Keywords><![CDATA[CFC-12]]></Keywords>
+    <Keywords><![CDATA[Pacific Ocean]]></Keywords>
+    <Keywords><![CDATA[Equatorial Pacific Ocean]]></Keywords>
+    <Keywords><![CDATA[TALK]]></Keywords>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[World Ocean Circulation Experiment]]></Keywords>
+    <Keywords><![CDATA[bottle salinity]]></Keywords>
+    <Keywords><![CDATA[carbon cycle]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[chlorofluorocarbon (CFC)-11]]></Keywords>
+    <Keywords><![CDATA[hydrographic measurements]]></Keywords>
+    <Keywords><![CDATA[nitrate]]></Keywords>
+    <Keywords><![CDATA[nitrite]]></Keywords>
+    <Keywords><![CDATA[oxygen]]></Keywords>
+    <Keywords><![CDATA[oxygen measured by (CTD)]]></Keywords>
+    <Keywords><![CDATA[phosphate]]></Keywords>
+    <Keywords><![CDATA[potential temperatures]]></Keywords>
+    <Keywords><![CDATA[pressure]]></Keywords>
+    <Keywords><![CDATA[salinity]]></Keywords>
+    <Keywords><![CDATA[silicate]]></Keywords>
+    <Keywords><![CDATA[temperature]]></Keywords>
+    <Keywords><![CDATA[total alkalinity]]></Keywords>
+    <Keywords><![CDATA[Goyet]]></Keywords>
+    <Keywords><![CDATA[Woods Hole Oceanographic Institution]]></Keywords>
+    <Keywords><![CDATA[Guenther]]></Keywords>
+    <Keywords><![CDATA[SIO]]></Keywords>
+    <Keywords><![CDATA[Scripps Institution of Oceanography]]></Keywords>
+    <Keywords><![CDATA[Keeling]]></Keywords>
+    <Keywords><![CDATA[Talley]]></Keywords>
+    <Keywords><![CDATA[NDP-060]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 144721 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp060]]></Product_number>
+      <Product_title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Thomas Washington Cruise TUNES-3 in the Equatorial Pacific Ocean (WOCE section P16C)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Goyet, C.]]></Name>
+        <Company><![CDATA[Woods Hole Oceanographic Institution]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Guenther, P. R.]]></Name>
+        <Company><![CDATA[Scripps Institution of Oceanography]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Keeling, C. D.]]></Name>
+        <Company><![CDATA[Scripps Institution of Oceanography]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Talley, L. D.]]></Name>
+        <Company><![CDATA[Scripps Institution of Oceanography]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Equatorial Pacific Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_060/tun3stainv.html]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_060/tun3dat.html]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp060/p16c.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp060/p16csta.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[bot]]></Variable>
+      <Variable><![CDATA[cast]]></Variable>
+      <Variable><![CDATA[cfc11]]></Variable>
+      <Variable><![CDATA[cfc12]]></Variable>
+      <Variable><![CDATA[ctdoxy]]></Variable>
+      <Variable><![CDATA[ctdsal]]></Variable>
+      <Variable><![CDATA[ctdtmp]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[depthsta]]></Variable>
+      <Variable><![CDATA[expo]]></Variable>
+      <Variable><![CDATA[latdcm]]></Variable>
+      <Variable><![CDATA[londcm]]></Variable>
+      <Variable><![CDATA[nitrat]]></Variable>
+      <Variable><![CDATA[nitrit]]></Variable>
+      <Variable><![CDATA[oxy]]></Variable>
+      <Variable><![CDATA[phspht]]></Variable>
+      <Variable><![CDATA[pre]]></Variable>
+      <Variable><![CDATA[qualt]]></Variable>
+      <Variable><![CDATA[sal]]></Variable>
+      <Variable><![CDATA[samp]]></Variable>
+      <Variable><![CDATA[sect]]></Variable>
+      <Variable><![CDATA[silca]]></Variable>
+      <Variable><![CDATA[stat]]></Variable>
+      <Variable><![CDATA[talk]]></Variable>
+      <Variable><![CDATA[tcarb]]></Variable>
+      <Variable><![CDATA[theta]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_060/ndp060.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp060/ndp060.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp060/stainv.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_060/tun3datfor.html]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19970127]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19970127]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp060/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[1.80MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data documentation discusses the procedures and methods used to obtain total carbon dioxide (TCO2), total alkalinity (TALK), hydrographic, and chemical data during the Research Vessel Thomas Washington Expedition TUNES-3 in the Equatorial Pacific Ocean (Section P16C). Conducted as a part of the World Ocean Circulation Experiment (WOCE), the cruise began in Papeete, Tahiti, on August 31, 1991, and finished in Honolulu, Hawaii, on October 1, 1991. WOCE Meridional Section P16C along 150 degrees W and between 18 degrees S and 19 degrees N was completed during the 31-day expedition. All 105 hydrographic and 8 large-volume stations were completed to the full water column depth. Station spacing was 30 nautical miles (nm), except between 3 degrees N and 3 degrees S where it was 10 nm. Twenty-five bio-optics stations were sampled for the Joint Global Ocean Flux Study, and at 21 stations carbon dioxide measurements were provided for the U.S. Department of Energy's CO2 program. Hydrographic and chemical measurements made along WOCE Section P16C included pressure, temperature, salinity, and oxygen measured by conductivity, temperature, and depth sensor; and bottle salinity, oxygen, phosphate, nitrate, nitrite, silicate, chlorofluorocarbon (CFC)-11, CFC-12, TCO2, and TALK. In addition, potential temperatures were calculated from the measured variables.
+<br><br>
+ The TCO2 concentration in 652 seawater samples was determined by semiautomated coulometry using an improved version of the instrument earlier described by Johnson et al., (1985, 1987). The precision of these measurements was estimated to be better than +/- 0.01%. The desired accuracy was better than +/- 4 micro-mol/kg.
+<br><br>
+ The TALK concentration in 539 seawater samples was determined by a potentiometric acid titration system that was designed and constructed at the Scripps Institution of Oceanography (SIO) by David Moss and Timothy Lueker (Guenther et al. 1994a).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

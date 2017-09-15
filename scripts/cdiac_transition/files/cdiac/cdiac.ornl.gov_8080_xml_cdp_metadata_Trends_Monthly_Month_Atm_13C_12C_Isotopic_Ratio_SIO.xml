@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Keeling, R. F.]]></origin>
+        <origin><![CDATA[Piper, S.C.]]></origin>
+        <origin><![CDATA[Bollenbacher, A. F. ]]></origin>
+        <origin><![CDATA[Walker, S.J.]]></origin>
+        <title><![CDATA[Monthly Atmospheric 13C/12C Isotopic Ratios for 11 SIO Stations]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/Monthly/Month_Atm_13C_12C_Isotopic_Ratio_SIO.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/iso-sio.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Monthly Atmospheric 13C/12C Isotopic Ratios for 11 SIO Stations]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19770101]]></begdate>
+          <enddate><![CDATA[20081231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric]]></themekey>
+        <themekey><![CDATA[Trends]]></themekey>
+        <themekey><![CDATA[13C]]></themekey>
+        <themekey><![CDATA[12C]]></themekey>
+        <themekey><![CDATA[isotopic]]></themekey>
+        <themekey><![CDATA[ratio]]></themekey>
+        <themekey><![CDATA[SIO]]></themekey>
+        <themekey><![CDATA[Scripps Institution of Oceanography]]></themekey>
+        <themekey><![CDATA[TRENDS: Monthy Atmospheric 13C/12C Isotopic Ratios]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 124343</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 153051 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric]]></Keywords>
+    <Keywords><![CDATA[Trends]]></Keywords>
+    <Keywords><![CDATA[13C]]></Keywords>
+    <Keywords><![CDATA[12C]]></Keywords>
+    <Keywords><![CDATA[isotopic]]></Keywords>
+    <Keywords><![CDATA[ratio]]></Keywords>
+    <Keywords><![CDATA[SIO]]></Keywords>
+    <Keywords><![CDATA[Scripps Institution of Oceanography]]></Keywords>
+    <Keywords><![CDATA[TRENDS: Monthy Atmospheric 13C/12C Isotopic Ratios]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;Graphics
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 153051 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/Monthly/Month_Atm_13C_12C_Isotopic_Ratio_SIO.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.025]]></Product_number>
+      <Product_title><![CDATA[Monthly Atmospheric 13C/12C Isotopic Ratios for 11 SIO Stations]]></Product_title>
+      <Author>
+        <Name><![CDATA[Keeling, R. F.]]></Name>
+        <Company><![CDATA[University of California ]]></Company>
+        <Organization><![CDATA[Scripps Institution of Oceanography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Piper, S.C.]]></Name>
+        <Company><![CDATA[University of California ]]></Company>
+        <Organization><![CDATA[Scripps Institution of Oceanography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bollenbacher, A. F. ]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Scripps Institution of Oceanography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Walker, S.J.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Scripps Insitution of Oceanography]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Monthly atmospheric 13C/12C isotopic ratios]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isomlogr.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Barrow, Alaska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isobwrgr.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Matatula, Samoa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isosamgr.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isospgr.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Alert, NWT, Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isoaltgr.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Kumukahi, Hawaii]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isokumgr.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Christmas Island, Kiribati]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isochrgr.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Baring Head, New Zealand]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isobargr.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Kermadec Island, Raoul Island ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isokergr.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[La Joll Pier, California]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isoljogr.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Baja, Mexico]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/isobajgr.jpg]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[January]]></Variable>
+      <Variable><![CDATA[February]]></Variable>
+      <Variable><![CDATA[March]]></Variable>
+      <Variable><![CDATA[April]]></Variable>
+      <Variable><![CDATA[May]]></Variable>
+      <Variable><![CDATA[June]]></Variable>
+      <Variable><![CDATA[July]]></Variable>
+      <Variable><![CDATA[August]]></Variable>
+      <Variable><![CDATA[September]]></Variable>
+      <Variable><![CDATA[October]]></Variable>
+      <Variable><![CDATA[November]]></Variable>
+      <Variable><![CDATA[December]]></Variable>
+      <Variable><![CDATA[Average]]></Variable>
+      <Variable><![CDATA[Fit Average]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/graphics/iso-graphics.html &#187;&#160;Graphics
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/iso-sio/iso-sio.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Stable isotopic measurements for atmospheric 13C/12C and 18O/16O at global sampling sites were initiated by Dr. C.D. Keeling in 1977 and are now continued by Dr. R.F. Keeling and co-workers at Scripps Institution of Oceanography (SIO). These isotopic measurements complement the continuing global atmospheric and oceanic CO2 measurements initiated by Keeling in 1957.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

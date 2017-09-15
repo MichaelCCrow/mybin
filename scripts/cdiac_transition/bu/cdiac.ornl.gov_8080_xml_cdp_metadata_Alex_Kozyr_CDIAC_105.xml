@@ -1,0 +1,1957 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Lewis, E. R.]]></origin>
+        <origin><![CDATA[Wallace, D. W. R.]]></origin>
+        <title><![CDATA[Program Developed for CO2 System Calculations]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/CDIAC_105.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/co2sys]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Program Developed for CO2 System Calculations]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[1900000]]></begdate>
+          <enddate><![CDATA[1900000]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Aragonite]]></themekey>
+        <themekey><![CDATA[Calcite]]></themekey>
+        <themekey><![CDATA[Fugacity]]></themekey>
+        <themekey><![CDATA[Inorganic Carbon]]></themekey>
+        <themekey><![CDATA[pH]]></themekey>
+        <themekey><![CDATA[Partial Pressure of CO2 ]]></themekey>
+        <themekey><![CDATA[Total Alkalinity]]></themekey>
+        <themekey><![CDATA[Total Inorganic CO2]]></themekey>
+        <themekey><![CDATA[Freshwater]]></themekey>
+        <themekey><![CDATA[Salt Water]]></themekey>
+        <themekey><![CDATA[Temperature]]></themekey>
+        <themekey><![CDATA[Phosphate]]></themekey>
+        <themekey><![CDATA[Pressure]]></themekey>
+        <themekey><![CDATA[Salinity]]></themekey>
+        <themekey><![CDATA[Silicate]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050808 152403</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 152403 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Aragonite]]></Keywords>
+    <Keywords><![CDATA[Calcite]]></Keywords>
+    <Keywords><![CDATA[Fugacity]]></Keywords>
+    <Keywords><![CDATA[Inorganic Carbon]]></Keywords>
+    <Keywords><![CDATA[pH]]></Keywords>
+    <Keywords><![CDATA[Partial Pressure of CO2 ]]></Keywords>
+    <Keywords><![CDATA[Total Alkalinity]]></Keywords>
+    <Keywords><![CDATA[Total Inorganic CO2]]></Keywords>
+    <Keywords><![CDATA[Freshwater]]></Keywords>
+    <Keywords><![CDATA[Salt Water]]></Keywords>
+    <Keywords><![CDATA[Temperature]]></Keywords>
+    <Keywords><![CDATA[Phosphate]]></Keywords>
+    <Keywords><![CDATA[Pressure]]></Keywords>
+    <Keywords><![CDATA[Salinity]]></Keywords>
+    <Keywords><![CDATA[Silicate]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+By
+Atmospheric Sciences Division
+Brookhaven National Laboratory
+Department of Oceanography
+ Dalhousie University
+ 1355 Oxford Street
+ PO BOX 15000
+Prepared by
+Linda J. Allison
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+Investigators interested in studying the ocean carbonate system are not
+in complete agreement on how to calculate inorganic carbon speciation in
+seawater. Over the years there have been many determinations and reviews of
+the constants used to describe the dissociation of carbon dioxide (CO) in the
+ocean, but no universally accepted set of constants exists. Several subtly
+different pH scales remain in common use, as do variations in the definition
+of total alkalinity and arguments over the relative merits of reporting the
+partial pressure versus the fugacity of CO measurements become
+steadily more accurate and investigators seek to evaluate very small changes
+in concentrations, these issues grow in importance.
+ We recently released a computer program that we hope will be of
+general use and perhaps help to clear up some of the confusion. Given any two
+of the four measurable carbonate system parameters, this program calculates the
+other two, together with the inorganic carbon speciation and the saturation of
+calcite and aragonite. The program also allows the user to select from four
+different pH scales and several sets of dissociation constants widely cited in
+the literature.
+Run in "single input" mode, the program reports calculated results
+together with the sensitivity of the calculated parameters to uncertainties in
+input parameters, constants, and the like. Run in "batch input" mode, the
+program can be used to process large data sets, such as cruise data derived
+from spreadsheets. In writing the code we spent considerable time
+cross-checking the relevant literature and checking units and scales. We are
+reasonably confident that the program itself does not introduce any errors and
+is consistent with the primary literature.
+The program is written in compiled MICROSOFT QuickBASIC and runs under DOS on
+almost any personal computer processor. As a result, the user interface is
+functional but not flashy. The program includes on-line documentation as well
+as a listing of typographical errors and inconsistencies culled from the literature. We may
+develop a MICROSOFT Visual Basic for Applications version if the demand for it is
+sufficient.
+ performs calculations relating parameters of
+the carbon dioxide (CO) system in seawater and freshwater. The program uses two
+of the four measurable parameters of the CO system
+[total alkalinity (),
+total inorganic CO),
+) or
+partial pressure of CO)] to calculate the other
+two parameters at a set of input conditions (temperature and pressure) and a set of
+output conditions chosen by the user. It replaces and extends the programs
+CO2SYSTM.EXE, FCO2TCO2.EXE, PHTCO2.EXE, and CO2BTCH.EXE, which were released
+in May 1995. It may be run in 
+or and has
+a variety of options for the various constants and
+parameters
+section is available that includes documentation on various topics relevant
+to the program. This program may be run on any 80 x 86 computer equipped with
+the DOS operating system by simply typing CO2SYS at the prompt after loading
+the executable file CO2SYS.EXE.
+ system in seawater is characterized by four measurable
+parameters: ,
+TCO, the carbonate, and the
+ bicarbonate),
+,
+and either .
+ in wet (100%
+water-saturated) air which is in equilibrium with the sample.
+Both 
+are proportional to the dissolved CO.
+The fugacity is about 0.3% to 0.4% lower than the partial pressure over the
+range of interest, due to the nonideality of CO are
+independent
+of temperature and pressure; fCO, and pH are not. The
+ knowledge of any
+two of these parameters, along with the temperature, salinity, pressure,
+abundances of other constituents of seawater, and the relevant equilibrium
+constants, allows the determination of the other two parameters.
+Unfortunately, this is not as easy as it sounds. The two
+definitions of in current usage differ in how minor species
+are treated. Four different 
+ [total, seawater, free, and NBS (National Bureau of Standards, now the
+ National Institute of Standards and Technology)] are in current usage (it is even
+more complicated in the literature where the
+distinction between the total scale and the seawater scale has not always
+been made). The situation with the equilibrium constants is potentially more
+confusing: There are and
+K (the first and second dissociation constants of carbonic acid in seawater) and
+also several formulations for the other dissociation constants of interest, on various pH and
+concentration scales.
+Many of these differences are slight, but their importance is in
+direct proportion to the desired precision of the calculated values. The
+correction for the nonideality of CO, for instance, is only around 0.3%
+under most conditions, but this correction is near the precision of some measurements
+systems. The difference in the definitions of 
+consists mainly in the treatment of phosphate. This difference may seem minor, but a modest phosphate
+concentration, such as 3 micro-moles per kilogram of seawater
+(&#181;mol/kg-SW), can result in a difference in fCO
+(or pCO,
+depending on the definition of alkalinity. This difference, therefore, is quite significant.
+We evaluated several other programs that performed calculations
+relating the seawater CO system parameters. These programs differed in the values of the
+constants used and in what contributions to the alkalinity were considered. To get an
+idea of the differences, we ran three programs
+with the following inputs: TA = 2300 &#181;mol/kg-SW;
+TCO = 2000 &#181;mol/kg-SW; no
+phosphate or silicate (two of the programs did not have an option to include
+these); and temperature (&#176;C), salinity [on the Practical Salinity Scale (PSS)],
+and pressure (in dbar) equal to 20, 35, and 0,
+respectively. The results were as follows:
+ and thus are difficult
+to compare. The values for pCO, though, should be the same regardless of pH
+scale, as should the values for the concentrations of HCO and
+CO
+Closer inspection (this means looking at the codes) reveals some of
+the reasons for the differences. Program 1 did not include the contribution
+of OH to the alkalinity (which would be about 5 &#181;mol/kg-SW),
+nor did it
+include the contributions of phosphate and silicate. It used the K
+values from Goyet and Poisson (1989) and the value of K from data of Khoo et al.
+(1977) but refit by other investigators. It did not include a correction for the
+nonideality of CO, but did include pressure corrections. Program 2 did not
+include the contributions of phosphate and silicate, but did include pressure corrections and a
+correction for the nonideality of CO. The values
+of K were those of Roy et al. (1993), and the value of
+ K was that of
+Dickson (1990a). Program 3 did include the contributions of phosphate and
+silicate, but had no corrections for the nonideality of CO or for pressure.
+The values of K used were from Mehrbach et al. (1973). Each of the
+programs used a different value for K
+It can thus be seen how different programs, with no coding errors,
+can yield very different results. Because of this, we decided to provide a
+single program that encompassed a wide variety of system
+constants, etc. in order to facilitate the assessment of the
+CO
+single-input mode,
+and allows for a variety of options, including
+,
+two distinct formulations for 
+(Dickson 1990a; Khoo et al. 1977), the choice of four 
+ (free, total, seawater, or NBS), and the
+ use of either or
+ or
+ pCO, and pH) may be chosen as the inputs from which the other two parameters
+will be calculated. Contributions to the alkalinity from phosphate, silicate,
+and OH are included, as are the 
+and the nonideality of
+CO section is available
+ that includes discussions of the
+various options and provides for the values
+used and for other topics that are
+relevant to the program. Every effort has been made to make this program as
+correct, complete, and user-friendly as possible. However, the program is not
+fail-safe, and some familiarity with the CO system in seawater is assumed.
+Most of the fits to the constants are valid only over a restricted range of
+salinities (mostly 20 to 40). Values outside of this range should not be
+expected to yield correct results.
+The units used for the variables in this program are
+micro-moles per kilogram of seawater (&#181;mol/kg-SW) for concentrations of TA,
+TCO, etc.;
+micro-atmospheres (&#181;atm) for pCO; and parts per million (ppm) for
+the mole ratio of CO in dry air. All temperatures are in &#176;C, all
+salinities are on the PSS, and all pressures are in
+dbar. Depth in meters may be used instead of pressure; these parameters differ by
+only 3% at
+10,000 dbar and less at lower pressures, well within the uncertainties of the
+ on the equilibrium constants. In this program, units for the
+ concentration of
+[H], necessary to clearly define the pH scale, are mol/kg-SW for the total,
+seawater, and free 
+ (note that the original definition
+in the literature for the free pH scale was in molal units), and mol/kg-HO
+(molal) for the NBS scale (by definition).
+Because the equilibrium constants given in the literature are on various
+pH scales and in various concentration units (molar, molal, or mol/kg-SW),
+it is imperative that they be converted correctly to the desired scale. In
+developing this program, much work was done to ensure that these conversions were made correctly.
+Data are sparse for many of the constants. The values used in this program
+were those we chose to be the best from the available data. Many errors
+and inconsistencies were found in the literature. In writing this program, a
+list of these was compiled. This list is included as an
+Appendix to this report because it may be of interest to those
+involved in calculations for the carbonate system. Although most of the errors are very minor, it is
+ hoped
+that the use of this list will save time and effort for anyone wishing to delve further
+into the topic.
+ or
+pCO, the
+system has no solution for the given input conditions. If this situation arises in
+single-input mode, the user is notified and the parameters may be re-entered.
+If this occurs in batch-input mode, -999 is printed for TA, pH, and the other
+calculated parameters for that sample.
+The programs CO2SYSTM.EXE, FCO2TCO2.EXE, PHTCO2.EXE, and CO2BTCH.EXE were
+released in May 1995. To the best of our knowledge, no serious errors have been found in these
+programs. One possible problem is that the fits for the
+constants are not valid for extrapolation to salinity 0.
+Version 0.00, from February 1997, was only preliminary and should not be used
+for calculations. The pressure corrections to the carbonate solubilities
+were incorrect.
+Version 1.02 was released in March 1997. The pressure corrections to the
+pH scale conversions were done incorrectly. These errors had a very
+minor effect in most cases.
+It differs from version 1.03 only cosmetically (typographical errors were corrected, etc.).
+No differences should exist between calculations performed using this version
+and version 1.03.
+Version 1.05 was released in October 1997.
+It differs from version 1.04 cosmetically (e.g., typographical errors were corrected) and in that
+some different code was used for better efficiency (no code errors were found).
+No differences should exist between calculations performed using this version
+and versions 1.03 and 1.04.
+In single-input mode, after selection of the various options for the
+values of the constants, etc., the user is prompted for the following:
+system parameters are given, may be those at which measurements were performed
+in the laboratory, for example, while the output conditions may refer to 
+conditions. The program will use "default" values for a variable (i.e., the last value
+occurring for that particular
+variable, given in parentheses) when the user hits the "enter" key. These default values
+may be useful for comparing the effects that various formulations of the
+constants have on the calculated parameters.
+ system parameters
+at the input conditions. TA and TCO, which do not vary with temperature and
+pressure, are used to calculate the pH and fCO at the output
+conditions. Also calculated for both the input and the output conditions are:
+The user may scroll forward or backwards through the various screens.
+Information is available for the various
+options and can be accessed while running the program.
+ and the 2S (two
+standard deviation) precision of the constants K to allow an estimate
+to be made of the uncertainty of the final answer due to the uncertainty in
+the equilibrium constants.
+Batch-input mode is designed to be used with large data sets such as
+files created by MICROSOFT EXCEL or other spreadsheet programs. In this mode,
+data are read from an input file and results are calculated and printed to an
+output file. After the various options are chosen, the user is prompted for:
+ that the input data be in the correct format and that
+the correct order of the CO
+Units used are &#181;mol/kg-SW and &#181;atm.
+ Six example data files, CASE1.INP - CASE6.INP, are included with the
+program; there is one data file for each of the choices of CO system input parameters.
+ Following
+ is the sample data file CASE1.INP: 
+ This is CASE1.INP, a test program for CO2SYS. It works for case 1.
+ line1, 35., 3., 55., 20., 0, 5, 1000, 2400., 2200.
+ line2, 35., 0, 0, 20, 0, 5, 1000, 2400., 2300.
+ line3, 33., 2., 122., 15, 0, 5, 0, 2300., 2200.
+ line4, 35., 0, 0, 20, 0, 15, 0, 2300., 2100.
+ line5, 33., 3., 2., 25, 0, 10, 100, 2200., 2100.
+In this example, the input data are comma-separated (this is recommended),
+but they
+ may also be space-separated. For space-separated data, the
+ID fields be within double quotes; for comma-separated data, this is
+not required. (Note that MICROSOFT EXCEL puts double quotes around each double quote
+when importing a CSV file).
+ It can occur that for certain inputs of TCO
+ (or pCO), the
+system has no solution for the given input conditions. If this occurs, -999
+is printed for the TA, pH, and the other calculated parameters.
+the user may define a numeric value to be the missing-value designator (MVD).
+If an MVD is not defined by the user, the default value -9 will be used. IT IS
+IMPERATIVE THAT A VALUE BE PROVIDED IN EACH OF THE INPUT DATA FIELDS; therefore,
+unknown values should always be set equal to the MVD.
+ system parameters, no
+calculations will be made and each output variable will be given the value of the MVD.
+If the MVD is input for one of the non-CO system parameters, a default value
+will be used in calculations and that sample will be flagged (if that option has been
+chosen). HOWEVER, the MVD will be printed in the output file for that
+variable. OBVIOUSLY, CAUTION SHOULD BE USED IN INTERPRETING THE RESULTS WHEN
+THERE ARE MISSING VALUES IN THE INPUT FILE.
+The output data are comma-separated with one line per sample. Each line contains the
+same fields as the input data plus the following calculated values:
+, an extra field will be appended.
+ This field will contain the
+MVD value if there are missing data or a zero if there are no missing data.
+ The pH values are reported
+on the scale chosen by the user. To load the output file into MICROSOFT EXCEL, simply
+open it as comma-separated with the extension "CSV".
+the various dissociation constants:
+the concentrations of the various species assumed to be proportional to the salinity (the concentrations of phosphate and silicate may vary and are input by the user):
+These values have been determined by many different investigators in many ways.
+Most assume values of temperature and salinity within ranges normally found in the oceans,
+ so the use of values outside these ranges may result in fits being
+extrapolated beyond the region where data were collected.
+There are eight choices for the constants used in this program.
+They differ mostly in the formulation of K, but there are other
+slight differences as well, which are described below. These eight choices are
+and concentration scales, if necessary, before calculations are made.
+ in seawater, is
+from Weiss
+(1974), who combined the measurements of Murray and Riley (1971) with some of
+his own and fit the resulting data. Estimates of the accuracy of K vary from 0.2%
+(Weiss 1974) to 0.5% (Dickson and Riley 1978). The virial coefficients of
+CO-air are from Weiss (1974). The vapor pressure of
+HO above seawater
+is from Weiss and Price (1980). The concentrations of sulfate and fluoride
+are from Morris and Riley (1966) and Riley (1965), respectively. The value of
+ is from either Khoo et al. (1977)
+ or Dickson (1990a) (this is a choice the
+user makes). Both of these are given in units of mol/kg-HO and both are (inherently)
+on the free pH scale. K is from Dickson and Riley (1979). It is also (inherently)
+on the free pH scale and is given in units of mol/kg-HO. Sulfate and fluoride
+contribute almost nothing to the alkalinity under most circumstances, but
+their concentrations and dissociation constants are important in converting
+between the various . The value used for
+, the activity coefficient
+of the hydrogen ion (also necessary in converting between pH scales) is from
+the fit given in Takahashi et al. (1982), except for the  1 represent conditions of oversaturation.
+], is assumed to be proportional
+to the salinity, and the carbonate concentration, [CO], is calculated
+from
+TCO for carbonic acid.
+ For ,
+ the calcium concentration used is from
+Riley and Tongudai (1967). The values of K for calcite and aragonite
+are from Mucci (1983). The pressure correction for K for calcite is from
+Ingle (1975) and that for aragonite is from Millero (1979).
+ and the
+ , the concentration of calcium
+is from Culkin (1965). The value of K for calcite is from Ingle (1975).
+[GEOSECS had referenced Ingle et al. (1973), but this is incorrect.] The value of K for
+aragonite is from Berner (1976). (Berner stated that K for aragonite is
+1.48 times K for calcite; GEOSECS gave and used the value 1.45 instead of
+1.48. The program CO2SYS also uses 1.45.) The pressure corrections to these
+constants are from Takahashi et al. (1982). [The original reference given for
+the pressure corrections is not valid, and the fit used appears to be new to
+Takahashi et al. (1982).]
+The equilibrium constants depend on pressure as well as on temperature
+and salinity. Data are scarce on the effects of pressure on these constants
+in seawater, and most values are estimated from molal volume data. Few
+measurements have been made for K (of
+boric acid) at only a few combinations of temperature, salinity, and pressure
+in seawater (mostly in artificial seawater). All of the work assumed that ,
+the activity coefficient of H (including liquid junction effects), is
+independent of pressure. Some of the 
+conversions do depend on pressure, however. Values of the constants should be (1) converted
+to the seawater or NBS pH scale WITHOUT pressure-corrected pH scale conversions, (2)
+then corrected for pressure, and (3) then converted to the desired pH scale WITH
+pressure-corrected pH scale conversions. Measurements have also been made
+for the effects of pressure on the solubility of calcite and aragonite in
+seawater.
+Depth in meters and pressure in decibars are used interchangeably
+in this program. They differ by only 3% at 10,000 dbar and less at lower
+pressures-well within the uncertainties of the pressure effects on the
+constants. No salinity dependence of the pressure corrections is used in this
+program.
+, the effects
+ of pressure on K
+Peng et al. (1987) did not consider the effects of pressure, but they are
+included in the program CO2SYS for the . For
+ and
+the , the effects of pressure
+on the values of K,
+and K was in
+ Millero (1995), where it is stated that the values have been estimated from the values
+of boric acid, but they are not listed in the table. In the program CO2SYS, the values used
+are the same as those for the pressure effects on K given in Millero
+(1995). For the effects of pressure on K, the fit given in Millero (1983) is
+used. 
+did not include the effects of OH, phosphate, or silicate, so
+these are irrelevant for that choice.
+ and the
+ , the effects of pressure on
+K are those given in the GEOSECS report (Takahashi et al. 1982).
+The reference given there is Culberson and Pytkowicz (1968), but the fits are
+actually those from Edmond and Gieskes (1970) who in turn quote Li (personal
+communication). In the fit for the correction for K due to pressure, the
+GEOSECS report had the value 26.4, but the value 16.4 was used, which was
+consistent with their calculations as well as with the fit given in Edmond and
+Gieskes (1970). The effects of pressure on the solubility of calcite and
+aragonite are also those from Takahashi et al. (1982). [The original reference given
+in that work for the pressure corrections is not valid and the fit used
+appears to be new to Takahashi et al. (1982)].
+and K are from Millero (1979) but
+without the salinity dependence. These fits are from the data of Culberson
+and Pytkowicz (1968). The effects of pressure on K
+and K
+ in Millero (1995)
+include a factor of 1000 left out of the definition of Kappa and an incorrect
+value and incorrect units for the gas constant R. The pressure correction for
+K
+ is the activity coefficient
+ of the H ion
+(this includes liquid junction effects),
+ TS and TF are the concentrations of SO
+ are the dissociation constants of
+HSO
+The conversions depend on temperature, salinity, and pressure.
+At 20&#176;C, salinity 35, and 1 atm, pH values on the total scale are (about)
+ on the NBS scale are
+ mol/kg-HO. The
+concentration units used in the program CO2SYS for [H] on the other scales are
+mol/kg-SW (note that
+the free scale was originally defined in units of mol/kg-HO). The difference
+between mol/kg-SW and mol/kg-HO is about 0.015 pH units at salinity 35 (the
+difference is nearly proportional to salinity). The seawater scale was
+formerly referred to as the total scale, and each scale is still sometimes
+referred to as the other in the literature.
+ used in this program is valid from salinities 20
+ to 40.
+ has been found to be electrode-dependent, and does NOT equal 1 at
+salinity 0 due to the liquid junction potential.
+Values on the NBS pH scale are only accurate to (at best) 0.005.
+ on pH has assumed
+ that 
+For discussions of the various pH scales see Dickson (1984, 1993),
+ Millero et al. (1993), Butler (1992), or Culberson (1981). Attention
+is required because in some of these references the distinction between the total and the
+seawater pH scales was not made.
+An information section that may be accessed from several places in the
+program provides on-screen help for the following topics:
+Ernie Lewis
+Atmospheric Sciences Division
+Environmental Sciences Department
+Building 815E
+Brookhaven National Laboratory
+Upton, NY 11973
+Tel: 631-344-7406
+FAX: 631-344-2887
+Douglas Wallace
+Department of Oceanography
+ Dalhousie University
+ 1355 Oxford Street
+ PO BOX 15000
+ Halifax NS&#194;&#160; B3H 4R2
+Phone: (902) 494-4132
+ system in seawater is the
+Handbook of Methods for the Analysis of the Various Parameters of the Carbon
+Dioxide System in Sea Water (DOE 1994). The web site for information on this reference
+is: 
+http://andrew.ucsd.edu/co2qc/.
+A listing of the errata in this handbook is also available at this site.
+A copy of the printed report may be obtained from the Carbon Dioxide Information
+Analysis Center at no charge while supplies last. Requests should be addressed
+to:
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+Post Office Box 2008
+Oak Ridge, Tennessee 37831-6290, U.S.A.
+Telephone: (865) 574-0390 or (865) 574-3645
+Fax: (865) 574-2232
+Other particularly useful references are Park (1969), Skirrow (1975), Butler (1991),
+Millero and Sohn (1992), and Millero (1995) (see the Appendix for a listing of some
+of the errata in this paper).
+The Appendix to this report lists some typographical errors found in the references for
+this report as well as in other papers on this topic.
+system in seawater were supplied by Dr. Andrew Dickson of Scripps Institution
+of Oceanography. Many helpful comments were supplied by Dr. Rik Wanninkof of
+NOAA/AOML/OCD and Dr. Dave Chipman of Lamont-Doherty Earth Observatory. We would also like to
+acknowledge Dr. Frank Millero of the Rosenstiel School of Marine and Atmospheric Sciences at
+the University of Miami for his numerous contributions to this field.
+This work was supported by the U.S. Department of Energy Office of Biological and
+Enviromental Research under contract DE-ACO2-76CH00016, through a project
+entitled `Inorganic Carbon for the World Ocean Circulation Experiment - World
+Hydrographic Program' (D.W.R. Wallace and K.M. Johnson, PIs).
+Berner, R. A. 1976. The solubility of calcite and aragonite in seawater in
+atmospheric pressure and 34.5&#176;/ salinity.
+Butler, J. N. 1991. Carbon Dioxide Equilibria and Their Applications. Lewis
+Publishers, Inc., Chelsea, Mich. 
+Butler, J. N. 1992. Alkalinity titration in seawater: How accurately can the data
+be fitted by an equilibrium model? 
+Culberson, C. H. 1981. Direct potentiometry. pp. 187-261. In
+M. Whitfield and D. Jagner (eds.),
+. John Wiley and Sons,
+New York. 
+Culberson, C. H., and R. M. Pytkowicz. 1968. Effect of pressure on carbonic acid,
+boric acid, and the pH of seawater. 
+13:403-417. 
+Culkin, F. 1965. The major constituents of sea water. pp. 121-161. In J. P. Riley and
+G. Skirrow (eds.), 
+Dickson, A. G. 1981. An exact definition of total alkalinity and a procedure
+for the estimation of alkalinity and total inorganic carbon from
+titration data. 
+Dickson, A. G. 1984. pH scales and proton-transfer reactions in saline media such
+as sea water. 
+(g) =
+Ag(s) + HCl(aq), and the standard acidity constant of the ion
+HSO
+in synthetic seawater from 273.15 to 318.15 K. Journal of Chemical
+Thermodynamics
+Dickson, A. G. 1990b. Thermodynamics of the dissociation of boric acid in synthetic
+seawater from 273.15 to 318.15 K. 
+Dickson, A. G. 1993. pH buffers for sea water media based on the total hydrogen
+concentration scale. 
+Dickson, A. G., and F. J. Millero. 1987. A comparison of the equilibrium constants
+for the dissociation of carbonic acid in seawater media. Deep-Sea
+Research
+--. 1989. Corrigenda. 
+Dickson, A. G., and J. P. Riley. 1978. The effect of analytical error on the
+evaluation of the components of the aquatic carbon-dioxide system.
+Dickson, A. G., and J. P. Riley. 1979. The estimation of acid dissociation constants
+in seawater media from potentiometric titrations with strong base.
+I. The ionic product of water - K
+Handbook of methods for the analysis of the
+various parameters of
+the carbon dioxide system in sea water. Version 2. ORNL/CDIAC-74.
+A. G. Dickson and C. Goyet (eds.), Carbon Dioxide Information Analysis Center,
+Oak Ridge National Laboratory, Oak Ridge, Tenn. 
+Edmond, J. M., and J. M. T. M. Gieskes. 1970. On the calculation of the degree of
+saturation of seawater with respect to calcium carbonate under conditions.
+Goyet, C., and A. Poisson. 1989. New determination of carbonic acid dissociation
+constants in seawater as a function of temperature and salinity.
+Hansson, I. 1973a. A new set of acidity constants for carbonic acid and boric acid
+in sea water. 
+Hansson, I. 1973b. The determination of dissociation constants of carbonic acid in
+synthetic sea water in the salinity range of
+20 - 40&#176;/ and
+temperature range of 5 - 30&#176;C. 
+27:931-944.
+Harned, H. S., and R. Davis, Jr. 1943. The ionization constant of carbonic acid in
+water and the solubility of carbon dioxide in water and aqueous salt
+solutions from 0 to 50&#176;. 
+65:2030-2037. 
+Harned, H. S., and B. B. Owen. 1958. The Physical Chemistry of Electrolyte Solutions.
+American Chemical Society Monograph Series. Reinhold Pub. Corp., New York.
+from 0 to 50&#176;. 
+Ingle, S. E., C. H. Culberson, J. E. Hawley, and R. M. Pytkowicz. 1973. The
+solubility of calcite in seawater at atmospheric pressure
+and 35&#176;/
+salinity. 
+Kester, D. R., and R. M. Pytkowicz. 1967. Determination of the apparent dissociation
+constants of phosphoric acid in seawater. 
+12:243-252. 
+Khoo, K. H., R. W. Ramette, C. H. Culberson, and R. G. Bates. 1977.
+Determination of hydrogen ion concentrations in seawater from 5 to
+40&#176;C: standard potentials at salinities from 20 to
+45&#176;/.
+in the oceans. 
+Mehrbach, C., C. H. Culberson, J. E. Hawley, and R. M. Pytkowicz. 1973.
+Measurement of the apparent dissociation constants of carbonic acid
+in seawater at atmospheric pressure. 
+18:897-907.
+Millero, F. J. 1979. The thermodynamics of the carbonate system in seawater.
+Millero, F. J. 1983. Influence of pressure on chemical processes in the sea.
+pp. 1-88. In J. P. Riley and R. Chester (eds.), .
+Academic Press, New York. 
+Millero, F. J. 1995. Thermodynamics of the carbon dioxide system in the oceans.
+Millero, F. J., and M. L. Sohn. 1992. Chemical Oceanography. CRC Press,
+Boca Raton, Fla.
+Millero, F. J., J. Z. Zhang, S. Fiol, S. Sotolongo, R. N. Roy, K. Lee,
+and S. Mane. 1993. The use of buffers to measure the pH of seawater.
+Morris, A. W., and J. P. Riley. 1966. The bromide/chlorinity and sulphate/
+chlorinity ratio in sea water. 13:699-705.
+Mucci, A. 1983. The solubility of calcite and aragonite in seawater at various
+salinities, temperatures, and one atmosphere total pressure.
+Murray, C. N., and J. P. Riley. 1971. The solubility of gases in distilled water
+and seawater - IV. Carbon dioxide. 18:533-541.
+ system: an evaluation of ten methods of
+investigation. 
+Peng, T. H., T. Takahashi, W. S. Broecker, and J. Olafsson. 1987. Seasonal
+variability of carbon dioxide, nutrients and oxygen in the northern
+North Atlantic surface water: Observations and model.
+Riley, J. P. 1965. The occurrence of anomalously high fluoride concentrations in
+the North Atlantic. 
+Riley, J. P., and M. Tongudai. 1967. The major cation/chlorinity ratios in sea
+water. 
+Roy, R. N., L. N. Roy, K. M. Vogel, C. Porter-Moore, T. Pearson,
+C. E. Good, F. J. Millero, and D. M. Campbell. 1993. The dissociation
+constants of carbonic acid in seawater at salinities 5 to 45 and
+temperatures 0 to 45&#176;C. 
+Sillen, L. G., A. E. Martell, and J. Bjerrum. 1964. Stability constants of metal-ion complexes,
+2nd ed. Special Publication no. 17. Chemical Society (Great Britain), London.
+[Referenced in Takahashi et al. 1982 as Sillen and Martel (1964).]
+Skirrow, G. 1975. The dissolved gases - carbon dioxide. pp. 1-192. In
+J. P. Riley and G. Skirrow (eds.), .
+Academic Press, New York. 
+Takahashi, T., R. T. Williams, and D. L. Bos. 1982. Carbonate chemistry.
+pp. 77-83. In W. S. Broecker, D. W. Spencer, and H. Craig,
+National Science Foundation, Washington, D.C. 
+Uppstrom, L. R. 1974. The boron/chloronity ratio of deep-sea water from the
+Pacific Ocean. 
+Weiss, R. F. 1974. Carbon dioxide in water and seawater: the solubility of a
+non-ideal gas. 
+Weiss, R. F., and B. A. Price. 1980. Nitrous oxide solubility in water and
+seawater. 
+The Appendix lists errors that have been found in references for the program documentation
+as well as in other papers related to this topic; however, the listing is not meant to be
+ comprehensive.
+ Although many corrections are extremely minor, it is hoped that this compilation will save
+both time and effort for those who use it.
+Campbell, D. M., F. J. Millero, R. Roy, L. Roy, M. Lawson, K. M. Vogel,
+and C. Porter-Moore. 1993. The standard potential for the hydrogen-silver,
+silver chloride electrode in synthetic seawater. 
+44:221-233.
+" should be
+"log
+Chen, H., R. Wanninkhof, R. A. Feely, and D. Greeley. 1995. Measurement of
+fugacity of carbon dioxide in seawater: an evaluation of a method
+based on infrared analysis. NOAA Technical Memorandum ERL AOML-85.
+Atlantic Oceanographic and Meteorological Laboratory, Miami.
+On p. 15, Table 2 states: "1. In our work (expressed in terms of the
+seawater hydrogen scale):..."; however, the formula for K given is
+on the total scale and the formulae for K,
+and K
+are on the NBS scale. It is unclear whether these formulae were converted.
+On pp. 15 and 16: The formulae for Total Borate (TB) are incorrect.
+They should read: "Total Borate (TB) = 0.00001188 * S" for
+cases 1 and 3, and "Total Borate (TB) = 0.00001173 * S" for case 2.
+/dT"
+should be "d(lnXCO
+Clayton, T. D., and R. H. Byrne. 1993. Spectrophotometric seawater pH measurements:
+ total hydrogen ion concentration scale calibration of m-cresol
+ purple and at-sea results. 
+********************
+Clayton, T. D., R. H. Byrne, J. A. Breland, R. A. Feely, F. J. Millero,
+ D. M. Campbell, P. P. Murphy, and M. F. Lamb. 1995. The role of pH
+ measurements in modern oceanic CO-system characterization: Precision
+ and thermodynamic consistency. 
+(g) =
+ Ag(s) + HCl(aq), and the standard acidity constant of the ion
+ HSO
+ in synthetic seawater from 273.15 to 318.15 K. Journal of Chemical
+ Thermodynamics
+Dickson, A. G. 1990b. Thermodynamics of the dissociation of boric acid in synthetic
+seawater from 273.15 to 318.15 K. 
+."
+Dickson, A. G., and F. J. Millero. 1987. A comparison of the equilibrium constants
+for the dissociation of carbonic acid in seawater media.
+ 36:983.
+*
+for Hansson, the value "0.000116 *S
+Also, on p. 1740 in Table 5: The second equation should read
+"pK
+Also, in the third equation in Table 5 on p. 1740: The term "0.00668 S" should
+ be "0.0068 S."
+Dickson, A. G., and J. P. Riley. 1979a. The estimation of acid dissociation constants
+in seawater media from potentiometric titrations with strong base.
+I. The ionic product of water - K
+Dickson, A. G., and J. P. Riley. 1979b. The estimation of acid dissociation constants
+in seawater media from potentiometric titrations with strong base. II.
+The dissociation of phosphoric acid. 
+ in
+the abstract and in Table II on p. 109: The number "4.176" should be "4.196."
+O."
+Goyet, C., and E. Peltzer. 1994. Comparison of the August-September 1991 and 1979
+surface partial pressure of CO distribution in the Equatorial
+Pacific Ocean near 150&#176; W. 
+Also, the reference given (UNESCO. 1987. Thermodynamics of the
+carbon dioxide system in seawater. UNESCO Technical Papers
+in Marine Science 51.) does not discuss this equation or the
+one above it.
+Goyet, C., and A. Poisson. 1989. New determination of carbonic acid dissociation
+constants in seawater as a function of temperature and salinity.
+On p. 1645 in Table 4: The fits which allow "extrapolation to S = 0"
+contain a constant term and thus do not match the "S = 0" values.
+Hansson, I. 1973a. A new set of acidity constants for carbonic acid and boric
+acid in seawater. 
+Lee, K., and F. J. Millero. 1995. Thermodynamic studies of the carbonate system in
+seawater. 
+should be proportional to "S/35," not "35/S."
+ and F should be
+proportional to "S/35," not "35/S."
+On p. 2056, two lines up: The statement "The calculated values of
+pK (S = 35)..." should NOT have the expression "(S = 35)",
+as the fit has a salinity dependence.
+On p. 2058: The actual title for the reference of Clayton and Byrne
+is: "Spectrophotometric seawater pH measurements: total
+hydrogen ion concentration scale calibration of m-cresol
+purple and at-sea results."
+: The expression
+"log {[H}"
+should be "ln {[H
+: The value "114.273" should
+be "114.723"
+and the expression "2968/T" should be "2698/T."
+, F, and B
+should be proportional to "S/35," not "35/S."
+Mehrbach, C., C. H. Culberson, J. E. Hawley, and R. M. Pytkowicz. 1973.
+Measurement of the apparent dissociation constants of carbonic acid
+in seawater at atmospheric pressure. 
+18:897-907.
+"
+in Eq. 6.
+Millero, F. 1979. The thermodynamics of the carbonate system in seawater.
+Millero, F. J. 1983. Influence of pressure on chemical processes in the sea.
+Chapter 43. In J. P. Riley and R. Chester (eds.), .
+Academic Press, New York.
+On p. 51, for Table 43.29 to be correct:
+Millero, F. J. 1995. Thermodynamics of the carbon dioxide system in the oceans.
+(Khoo et al. 1977), but on p. 667 it is
+stated that Khoo's value is unreliable and should not be used.
+This is unclear.
+On p. 667: In the first full paragraph it is stated that the values of
+K were determined from Eq. 30 after Roy's constants
+were converted to the SWS pH scale. The value of K
+is needed to convert pH scales and cannot be found from Eq. 30.
+On p. 668: It is stated that the total pH scale should be used, but in
+the next paragraph Roy's constants are converted to the
+seawater scale, and this scale is used for most of the rest
+of the paper.
+On p. 669, in the title for Fig. 10: The equations are misnumbered.
+Equations 46 and 47 should be Eqs. 48 and
+49, and Eqs. 48 and 49 should be Eqs. 50 and 51.
+ is on the total pH scale (this was not
+stated but can be determined from the reference).
+ is on the seawater pH scale (this wasn't
+stated but is consistent with programs of Millero).
+On p. 670: The given check value after Eq. 64 of "1.6 &#181;mol/kg" should be
+"6.2 &#181;mol/kg." There is no easy way to see how 1.6 was obtained.
+On p. 670, Eqs. 65, 66, and 67: These are on the seawater pH scale
+(this was not stated, but can be determined from the DOE
+Handbook).
+On p. 671, after Eq. 71: The check values "0.792" and "0.204' should be
+"0.852" and "0.140." If pH = 8.2 is used, or if K is increased by
+a factor of 1.55, the given check values are close.
+ is on the seawater pH scale (this was not stated
+but can be determined from the DOE Handbook).
+On p. 671, after Eq. 73: For the given values "I = .7 and "t = 25&#176;C," the value of
+pK is given
+as "9.47" (molality). However, when these two values are used, the actual
+resultant value of
+pK is "9.365" (molality) which corresponds to
+"9.380" in mol/kg-soln. Two scenarios would explain the
+discrepancy: (1) either "t" is incorrect (plugging in the value t = 20&#176;C
+would give the value of pK as 9.47), or (2) the pH scale
+is incorrect (the value of pK of 9.38 on the total pH scale
+ = 9.47 on the seawater scale in the same concentration units.
+ = 9.47
+and pH = 7.5 yields "0.0106 [Si]," rather than
+".0127 [Si]
+ is given is not stated.
+From the original reference, it was determined in artificial
+seawater without F, so it must be on the total pH scale.
+ at t = 25&#176;C
+and S = 35 is incorrectly given as "6.98" and should be "6.51." The value
+"6.98" can be obtained, however, by plugging in t = 25&#176;C and S = 0.
+On p. 671, after Eq. 75: The value of "0.768" is consistent with the
+value for pK of "6.98" (which is incorrect). The correct value
+should be "0.9071."
+ is given is not stated.
+From the original reference it is on the seawater scale.
+ of "9.19" is incorrect and
+should be "9.26." It is not clear how the incorrect
+value was obtained.
+On p. 671, after Eq. 77: The value "0.020" is consistent with "9.19"
+(which is incorrect). It should be "0.017."
+." Note that
+Goyet et al. (1993) in a paper on a similar topic (Goyet, C., F. J. Millero,
+A. Poisson, and D. Shafer. 1993.
+Temperature dependence of CO fugacity in seawater.
+/TA." This
+difference could cause confusion.
+ at ANY temp
+can be calculated exactly! The only way to know X is to know
+TA AND TCO at 20&#176;C
+is also sufficient to find fCO
+On p. 675, after Eq. 90: The value and the units for R are incorrect.
+The true value is "R = 83.145 bar-cm
+On p. 675, column 1: The reference to Millero (1989) should probably
+be Millero (1983b).
+ in Table 9. Probably they
+are equal to 0; this would be consistent with previous work.
+On p. 675: The left-hand side of Equation 92 should be "(1000)* deltaK,"
+or the last two columns in Table 9 should be "1000*b" and
+"1000*b
+for HS
+are the FRESHWATER values given in Millero (1983).
+. Before
+the heading "Conclusions" on the same page it is stated that
+they are "estimated" from those of boric acid. It is unclear whether or not it
+is meant that they are assumed to be equal to those for boric acid.
+ should be "+0.1622"
+to agree with Millero (1979).
+ for calcite and aragonite
+should be "+0.5304" to agree with Millero (1979).
+ for aragonite should be
+"-46.0" (or "-45.96") to agree with Millero (1979).
+ for calcite should be "+0.3692"
+to agree with Millero (1979).
+On p. 677, in column 2: There is a problem with the reference
+"Millero, F. J. (1982). The thermodynamics of seawater at one
+atmosphere. 
+It should probably read:
+Millero, F. J. (1976). The thermodynamics of seawater at one
+atmosphere. 
+Millero, F. J. (1982). Thermodynamics of seawater: the PVT
+properties. 
+Millero, F. J., T. Plese, and M. Fernandez. 1988. The dissociation of hydrogen
+sulfide in seawater. 
+On p. 271 just before Eq. 7: It is stated that the NBS and the
+total pH scales are related by "
+* [H," but this
+does not include fluoride. The relation usually used is
+"]
+," which does include fluoride. This means that
+the used in this equation is the activity coefficient
+for seawater containing no fluoride.
+ combines data that were taken in seawater
+(artificial and actual) containing fluoride with values which were
+done in artificial seawater without fluoride.
+Millero, F. J., and M. L. Sohn. 1992. The carbonate system. pp. 267-319. In F. J. Millero
+and M. L. Sohn, 
+On p. 275: There is ambiguity and inconsistency in the definitions and
+distinctions between the total and the seawater pH scales.
+On p. 276: Equation 36 is incorrect in several places:
+the denominator in the first expression should be squared,
+and the terms CH and COH should not be in the numerator but
+rather by themselves.
+This expression also makes the approximation that K
+ K
+On p. 279: The right-hand side of Eq. 52 should read:
+"pK
+On p. 286: Equation 96 has brackets and parentheses missing in several
+places. 
+Fits for the constants are from the following sources:
+ are from Dickson and Millero
+(1987) from the combined data of Hansson (1973 a,b) and Mehrbach et al. (1973).
+are from Millero (1979).
+These are the source references:
+ 34:1733-1743;
+see also Dickson, A. G., and F. J. Millero. 1989. 
+Millero, F. J. 1983. Influence of pressure on chemical processes in the sea.Chapter 43.
+In J. P. Riley and R. Chester (eds.),
+Millero, F. J., J. Z. Zhang, S. Fiol, S. Sotolongo, R. N. Roy, K. Lee,
+and S. Mane. 1993. The use of buffers to measure the pH of seawater.
+On p. 149, Eq. 23, and on p. 150, Eqs. 25 and 27:
+The multiplication sign (x) should be a division sign (/).
+Millero, F. J., J. Z. Zhang, K. Lee, and D. M. Campbell. 1993. Titration
+alkalinity of seawater. 
+On p. 156, column 2, about 10 lines down: The expression "14&#177;1 mM" should
+be "14 &#177; 1 &#181;M."
+Peng, T. H., T. Takahashi, W. S. Broecker, and J. Olafsson. 1987. Seasonal
+variability of carbon dioxide, nutrients and oxygen in the North
+Atlantic surface water: observations and a model. 
+ is NOT the same as the one in GEOSECS, as
+claimed, but rather is rounded off. It is about 1% higher
+(this results in a change of 0.004 in pH).
+ does not match the fit given
+in that paper or the GEOSECS fit.
+NOTE: On p. 455, Eq. A3: This definition of TA is different from that
+of Dickson; it is higher by an amount equal to the total
+phosphate.
+Roy, R. N., L. N. Roy, K. M. Vogel, C. Porter-Moore, T. Pearson, C. E. Good,
+F. J. Millero, and D. M. Campbell. 1993. The dissociation constants
+of carbonic acid in seawater at salinities 5 to 45 and temperatures 0
+to 45&#176;C. 
+)" should be
+"2m(CO
+ and "0.006"
+in pK. From Andrew Dickson (personal communication, 1997)
+these should be "0.008" in pK
+, not Dickson's, but
+reference Dickson earlier (p. 252)
+ 45:337.
+This replaces tables 3 and 4.
+ 52:183.
+This fixes a typographic error in the Abstract on p. 249: In the equation for lnK*: The
+last term should have S raised to the power 1.5.
+It also fixes a typographic error in Eq. 34 on p. 256: The value "310.48919" should be
+"2310.48919."
+Takahashi, T., R. T. Williams, and D. L. Bos. 1982. Carbonate chemistry. pp. 77-83.
+In W. S. Broecker, D. W. Spencer, and H. Craig, GEOSECS Pacific Expedition,
+Volume 3, Hydrographic Data 1973-1974. National Science Foundation,
+Washington, D.C.
+&#180;(P), the value "26.4"
+should be "16.4."
+On p. 79:The reference in No. 6. in the list of constants should actually be
+Ingle, S. E. 1975.
+&#180;(aragonite): The value "1.45" should be
+"1.48" [this is what Berner uses on p. 722 of Berner (1976)].
+On p. 79 in No. 8. in the list of constants: Reference [20] is not
+correct; that Culberson reference is only indirectly related to the topic under discussion.
+&#180;(calcite,P): The plus sign should be
+an equals sign.
+&#180;: The expression "C/lnT"
+should be "C*lnT."
+UNESCO. 1987. UNESCO Technical papers in marine science 51: Thermodynamics of the carbon
+dioxide system in seawater. 
+Weiss, R. F., and B. A. Price. 1980. Nitrous oxide solubility in water and
+seawater. 
+respectively, below our results."
+&#239;&#187;&#191;
+&#160;
+&#160;|&#160;
+&#160;
+&#160;|&#160;
+&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;maintained by &#160;
+&#160;|&#160;
+&#160;Last modified: 28 Nov 2016]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 152403 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/CDIAC_105.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[CDIAC-105]]></Product_number>
+      <Product_title><![CDATA[Program Developed for CO2 System Calculations]]></Product_title>
+      <Author>
+        <Name><![CDATA[Lewis, E. R.]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization><![CDATA[Department of Applied Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wallace, D. W. R.]]></Name>
+        <Company><![CDATA[Institut fuer Meereskunde]]></Company>
+        <Organization><![CDATA[Abteilung Meereschemie]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/oceans/co2rprt.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/co2sys/case1.inp]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/co2sys/case2.inp]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/co2sys/case3.inp]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/co2sys/case4.inp]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/co2sys/case5.inp]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/co2sys/case6.inp]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[CO2 system parameters]]></Variable>
+      <Variable><![CDATA[phosphate]]></Variable>
+      <Variable><![CDATA[pressure]]></Variable>
+      <Variable><![CDATA[salinity]]></Variable>
+      <Variable><![CDATA[silicate]]></Variable>
+      <Variable><![CDATA[temperature]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/co2rprt.html&#239;&#187;&#191;
+By
+Atmospheric Sciences Division
+Brookhaven National Laboratory
+Department of Oceanography
+ Dalhousie University
+ 1355 Oxford Street
+ PO BOX 15000
+Prepared by
+Linda J. Allison
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+Investigators interested in studying the ocean carbonate system are not
+in complete agreement on how to calculate inorganic carbon speciation in
+seawater. Over the years there have been many determinations and reviews of
+the constants used to describe the dissociation of carbon dioxide (CO) in the
+ocean, but no universally accepted set of constants exists. Several subtly
+different pH scales remain in common use, as do variations in the definition
+of total alkalinity and arguments over the relative merits of reporting the
+partial pressure versus the fugacity of CO measurements become
+steadily more accurate and investigators seek to evaluate very small changes
+in concentrations, these issues grow in importance.
+ We recently released a computer program that we hope will be of
+general use and perhaps help to clear up some of the confusion. Given any two
+of the four measurable carbonate system parameters, this program calculates the
+other two, together with the inorganic carbon speciation and the saturation of
+calcite and aragonite. The program also allows the user to select from four
+different pH scales and several sets of dissociation constants widely cited in
+the literature.
+Run in "single input" mode, the program reports calculated results
+together with the sensitivity of the calculated parameters to uncertainties in
+input parameters, constants, and the like. Run in "batch input" mode, the
+program can be used to process large data sets, such as cruise data derived
+from spreadsheets. In writing the code we spent considerable time
+cross-checking the relevant literature and checking units and scales. We are
+reasonably confident that the program itself does not introduce any errors and
+is consistent with the primary literature.
+The program is written in compiled MICROSOFT QuickBASIC and runs under DOS on
+almost any personal computer processor. As a result, the user interface is
+functional but not flashy. The program includes on-line documentation as well
+as a listing of typographical errors and inconsistencies culled from the literature. We may
+develop a MICROSOFT Visual Basic for Applications version if the demand for it is
+sufficient.
+ performs calculations relating parameters of
+the carbon dioxide (CO) system in seawater and freshwater. The program uses two
+of the four measurable parameters of the CO system
+[total alkalinity (),
+total inorganic CO),
+) or
+partial pressure of CO)] to calculate the other
+two parameters at a set of input conditions (temperature and pressure) and a set of
+output conditions chosen by the user. It replaces and extends the programs
+CO2SYSTM.EXE, FCO2TCO2.EXE, PHTCO2.EXE, and CO2BTCH.EXE, which were released
+in May 1995. It may be run in 
+or and has
+a variety of options for the various constants and
+parameters
+section is available that includes documentation on various topics relevant
+to the program. This program may be run on any 80 x 86 computer equipped with
+the DOS operating system by simply typing CO2SYS at the prompt after loading
+the executable file CO2SYS.EXE.
+ system in seawater is characterized by four measurable
+parameters: ,
+TCO, the carbonate, and the
+ bicarbonate),
+,
+and either .
+ in wet (100%
+water-saturated) air which is in equilibrium with the sample.
+Both 
+are proportional to the dissolved CO.
+The fugacity is about 0.3% to 0.4% lower than the partial pressure over the
+range of interest, due to the nonideality of CO are
+independent
+of temperature and pressure; fCO, and pH are not. The
+ knowledge of any
+two of these parameters, along with the temperature, salinity, pressure,
+abundances of other constituents of seawater, and the relevant equilibrium
+constants, allows the determination of the other two parameters.
+Unfortunately, this is not as easy as it sounds. The two
+definitions of in current usage differ in how minor species
+are treated. Four different 
+ [total, seawater, free, and NBS (National Bureau of Standards, now the
+ National Institute of Standards and Technology)] are in current usage (it is even
+more complicated in the literature where the
+distinction between the total scale and the seawater scale has not always
+been made). The situation with the equilibrium constants is potentially more
+confusing: There are and
+K (the first and second dissociation constants of carbonic acid in seawater) and
+also several formulations for the other dissociation constants of interest, on various pH and
+concentration scales.
+Many of these differences are slight, but their importance is in
+direct proportion to the desired precision of the calculated values. The
+correction for the nonideality of CO, for instance, is only around 0.3%
+under most conditions, but this correction is near the precision of some measurements
+systems. The difference in the definitions of 
+consists mainly in the treatment of phosphate. This difference may seem minor, but a modest phosphate
+concentration, such as 3 micro-moles per kilogram of seawater
+(&#181;mol/kg-SW), can result in a difference in fCO
+(or pCO,
+depending on the definition of alkalinity. This difference, therefore, is quite significant.
+We evaluated several other programs that performed calculations
+relating the seawater CO system parameters. These programs differed in the values of the
+constants used and in what contributions to the alkalinity were considered. To get an
+idea of the differences, we ran three programs
+with the following inputs: TA = 2300 &#181;mol/kg-SW;
+TCO = 2000 &#181;mol/kg-SW; no
+phosphate or silicate (two of the programs did not have an option to include
+these); and temperature (&#176;C), salinity [on the Practical Salinity Scale (PSS)],
+and pressure (in dbar) equal to 20, 35, and 0,
+respectively. The results were as follows:
+ and thus are difficult
+to compare. The values for pCO, though, should be the same regardless of pH
+scale, as should the values for the concentrations of HCO and
+CO
+Closer inspection (this means looking at the codes) reveals some of
+the reasons for the differences. Program 1 did not include the contribution
+of OH to the alkalinity (which would be about 5 &#181;mol/kg-SW),
+nor did it
+include the contributions of phosphate and silicate. It used the K
+values from Goyet and Poisson (1989) and the value of K from data of Khoo et al.
+(1977) but refit by other investigators. It did not include a correction for the
+nonideality of CO, but did include pressure corrections. Program 2 did not
+include the contributions of phosphate and silicate, but did include pressure corrections and a
+correction for the nonideality of CO. The values
+of K were those of Roy et al. (1993), and the value of
+ K was that of
+Dickson (1990a). Program 3 did include the contributions of phosphate and
+silicate, but had no corrections for the nonideality of CO or for pressure.
+The values of K used were from Mehrbach et al. (1973). Each of the
+programs used a different value for K
+It can thus be seen how different programs, with no coding errors,
+can yield very different results. Because of this, we decided to provide a
+single program that encompassed a wide variety of system
+constants, etc. in order to facilitate the assessment of the
+CO
+single-input mode,
+and allows for a variety of options, including
+,
+two distinct formulations for 
+(Dickson 1990a; Khoo et al. 1977), the choice of four 
+ (free, total, seawater, or NBS), and the
+ use of either or
+ or
+ pCO, and pH) may be chosen as the inputs from which the other two parameters
+will be calculated. Contributions to the alkalinity from phosphate, silicate,
+and OH are included, as are the 
+and the nonideality of
+CO section is available
+ that includes discussions of the
+various options and provides for the values
+used and for other topics that are
+relevant to the program. Every effort has been made to make this program as
+correct, complete, and user-friendly as possible. However, the program is not
+fail-safe, and some familiarity with the CO system in seawater is assumed.
+Most of the fits to the constants are valid only over a restricted range of
+salinities (mostly 20 to 40). Values outside of this range should not be
+expected to yield correct results.
+The units used for the variables in this program are
+micro-moles per kilogram of seawater (&#181;mol/kg-SW) for concentrations of TA,
+TCO, etc.;
+micro-atmospheres (&#181;atm) for pCO; and parts per million (ppm) for
+the mole ratio of CO in dry air. All temperatures are in &#176;C, all
+salinities are on the PSS, and all pressures are in
+dbar. Depth in meters may be used instead of pressure; these parameters differ by
+only 3% at
+10,000 dbar and less at lower pressures, well within the uncertainties of the
+ on the equilibrium constants. In this program, units for the
+ concentration of
+[H], necessary to clearly define the pH scale, are mol/kg-SW for the total,
+seawater, and free 
+ (note that the original definition
+in the literature for the free pH scale was in molal units), and mol/kg-HO
+(molal) for the NBS scale (by definition).
+Because the equilibrium constants given in the literature are on various
+pH scales and in various concentration units (molar, molal, or mol/kg-SW),
+it is imperative that they be converted correctly to the desired scale. In
+developing this program, much work was done to ensure that these conversions were made correctly.
+Data are sparse for many of the constants. The values used in this program
+were those we chose to be the best from the available data. Many errors
+and inconsistencies were found in the literature. In writing this program, a
+list of these was compiled. This list is included as an
+Appendix to this report because it may be of interest to those
+involved in calculations for the carbonate system. Although most of the errors are very minor, it is
+ hoped
+that the use of this list will save time and effort for anyone wishing to delve further
+into the topic.
+ or
+pCO, the
+system has no solution for the given input conditions. If this situation arises in
+single-input mode, the user is notified and the parameters may be re-entered.
+If this occurs in batch-input mode, -999 is printed for TA, pH, and the other
+calculated parameters for that sample.
+The programs CO2SYSTM.EXE, FCO2TCO2.EXE, PHTCO2.EXE, and CO2BTCH.EXE were
+released in May 1995. To the best of our knowledge, no serious errors have been found in these
+programs. One possible problem is that the fits for the
+constants are not valid for extrapolation to salinity 0.
+Version 0.00, from February 1997, was only preliminary and should not be used
+for calculations. The pressure corrections to the carbonate solubilities
+were incorrect.
+Version 1.02 was released in March 1997. The pressure corrections to the
+pH scale conversions were done incorrectly. These errors had a very
+minor effect in most cases.
+It differs from version 1.03 only cosmetically (typographical errors were corrected, etc.).
+No differences should exist between calculations performed using this version
+and version 1.03.
+Version 1.05 was released in October 1997.
+It differs from version 1.04 cosmetically (e.g., typographical errors were corrected) and in that
+some different code was used for better efficiency (no code errors were found).
+No differences should exist between calculations performed using this version
+and versions 1.03 and 1.04.
+In single-input mode, after selection of the various options for the
+values of the constants, etc., the user is prompted for the following:
+system parameters are given, may be those at which measurements were performed
+in the laboratory, for example, while the output conditions may refer to 
+conditions. The program will use "default" values for a variable (i.e., the last value
+occurring for that particular
+variable, given in parentheses) when the user hits the "enter" key. These default values
+may be useful for comparing the effects that various formulations of the
+constants have on the calculated parameters.
+ system parameters
+at the input conditions. TA and TCO, which do not vary with temperature and
+pressure, are used to calculate the pH and fCO at the output
+conditions. Also calculated for both the input and the output conditions are:
+The user may scroll forward or backwards through the various screens.
+Information is available for the various
+options and can be accessed while running the program.
+ and the 2S (two
+standard deviation) precision of the constants K to allow an estimate
+to be made of the uncertainty of the final answer due to the uncertainty in
+the equilibrium constants.
+Batch-input mode is designed to be used with large data sets such as
+files created by MICROSOFT EXCEL or other spreadsheet programs. In this mode,
+data are read from an input file and results are calculated and printed to an
+output file. After the various options are chosen, the user is prompted for:
+ that the input data be in the correct format and that
+the correct order of the CO
+Units used are &#181;mol/kg-SW and &#181;atm.
+ Six example data files, CASE1.INP - CASE6.INP, are included with the
+program; there is one data file for each of the choices of CO system input parameters.
+ Following
+ is the sample data file CASE1.INP: 
+ This is CASE1.INP, a test program for CO2SYS. It works for case 1.
+ line1, 35., 3., 55., 20., 0, 5, 1000, 2400., 2200.
+ line2, 35., 0, 0, 20, 0, 5, 1000, 2400., 2300.
+ line3, 33., 2., 122., 15, 0, 5, 0, 2300., 2200.
+ line4, 35., 0, 0, 20, 0, 15, 0, 2300., 2100.
+ line5, 33., 3., 2., 25, 0, 10, 100, 2200., 2100.
+In this example, the input data are comma-separated (this is recommended),
+but they
+ may also be space-separated. For space-separated data, the
+ID fields be within double quotes; for comma-separated data, this is
+not required. (Note that MICROSOFT EXCEL puts double quotes around each double quote
+when importing a CSV file).
+ It can occur that for certain inputs of TCO
+ (or pCO), the
+system has no solution for the given input conditions. If this occurs, -999
+is printed for the TA, pH, and the other calculated parameters.
+the user may define a numeric value to be the missing-value designator (MVD).
+If an MVD is not defined by the user, the default value -9 will be used. IT IS
+IMPERATIVE THAT A VALUE BE PROVIDED IN EACH OF THE INPUT DATA FIELDS; therefore,
+unknown values should always be set equal to the MVD.
+ system parameters, no
+calculations will be made and each output variable will be given the value of the MVD.
+If the MVD is input for one of the non-CO system parameters, a default value
+will be used in calculations and that sample will be flagged (if that option has been
+chosen). HOWEVER, the MVD will be printed in the output file for that
+variable. OBVIOUSLY, CAUTION SHOULD BE USED IN INTERPRETING THE RESULTS WHEN
+THERE ARE MISSING VALUES IN THE INPUT FILE.
+The output data are comma-separated with one line per sample. Each line contains the
+same fields as the input data plus the following calculated values:
+, an extra field will be appended.
+ This field will contain the
+MVD value if there are missing data or a zero if there are no missing data.
+ The pH values are reported
+on the scale chosen by the user. To load the output file into MICROSOFT EXCEL, simply
+open it as comma-separated with the extension "CSV".
+the various dissociation constants:
+the concentrations of the various species assumed to be proportional to the salinity (the concentrations of phosphate and silicate may vary and are input by the user):
+These values have been determined by many different investigators in many ways.
+Most assume values of temperature and salinity within ranges normally found in the oceans,
+ so the use of values outside these ranges may result in fits being
+extrapolated beyond the region where data were collected.
+There are eight choices for the constants used in this program.
+They differ mostly in the formulation of K, but there are other
+slight differences as well, which are described below. These eight choices are
+and concentration scales, if necessary, before calculations are made.
+ in seawater, is
+from Weiss
+(1974), who combined the measurements of Murray and Riley (1971) with some of
+his own and fit the resulting data. Estimates of the accuracy of K vary from 0.2%
+(Weiss 1974) to 0.5% (Dickson and Riley 1978). The virial coefficients of
+CO-air are from Weiss (1974). The vapor pressure of
+HO above seawater
+is from Weiss and Price (1980). The concentrations of sulfate and fluoride
+are from Morris and Riley (1966) and Riley (1965), respectively. The value of
+ is from either Khoo et al. (1977)
+ or Dickson (1990a) (this is a choice the
+user makes). Both of these are given in units of mol/kg-HO and both are (inherently)
+on the free pH scale. K is from Dickson and Riley (1979). It is also (inherently)
+on the free pH scale and is given in units of mol/kg-HO. Sulfate and fluoride
+contribute almost nothing to the alkalinity under most circumstances, but
+their concentrations and dissociation constants are important in converting
+between the various . The value used for
+, the activity coefficient
+of the hydrogen ion (also necessary in converting between pH scales) is from
+the fit given in Takahashi et al. (1982), except for the  1 represent conditions of oversaturation.
+], is assumed to be proportional
+to the salinity, and the carbonate concentration, [CO], is calculated
+from
+TCO for carbonic acid.
+ For ,
+ the calcium concentration used is from
+Riley and Tongudai (1967). The values of K for calcite and aragonite
+are from Mucci (1983). The pressure correction for K for calcite is from
+Ingle (1975) and that for aragonite is from Millero (1979).
+ and the
+ , the concentration of calcium
+is from Culkin (1965). The value of K for calcite is from Ingle (1975).
+[GEOSECS had referenced Ingle et al. (1973), but this is incorrect.] The value of K for
+aragonite is from Berner (1976). (Berner stated that K for aragonite is
+1.48 times K for calcite; GEOSECS gave and used the value 1.45 instead of
+1.48. The program CO2SYS also uses 1.45.) The pressure corrections to these
+constants are from Takahashi et al. (1982). [The original reference given for
+the pressure corrections is not valid, and the fit used appears to be new to
+Takahashi et al. (1982).]
+The equilibrium constants depend on pressure as well as on temperature
+and salinity. Data are scarce on the effects of pressure on these constants
+in seawater, and most values are estimated from molal volume data. Few
+measurements have been made for K (of
+boric acid) at only a few combinations of temperature, salinity, and pressure
+in seawater (mostly in artificial seawater). All of the work assumed that ,
+the activity coefficient of H (including liquid junction effects), is
+independent of pressure. Some of the 
+conversions do depend on pressure, however. Values of the constants should be (1) converted
+to the seawater or NBS pH scale WITHOUT pressure-corrected pH scale conversions, (2)
+then corrected for pressure, and (3) then converted to the desired pH scale WITH
+pressure-corrected pH scale conversions. Measurements have also been made
+for the effects of pressure on the solubility of calcite and aragonite in
+seawater.
+Depth in meters and pressure in decibars are used interchangeably
+in this program. They differ by only 3% at 10,000 dbar and less at lower
+pressures-well within the uncertainties of the pressure effects on the
+constants. No salinity dependence of the pressure corrections is used in this
+program.
+, the effects
+ of pressure on K
+Peng et al. (1987) did not consider the effects of pressure, but they are
+included in the program CO2SYS for the . For
+ and
+the , the effects of pressure
+on the values of K,
+and K was in
+ Millero (1995), where it is stated that the values have been estimated from the values
+of boric acid, but they are not listed in the table. In the program CO2SYS, the values used
+are the same as those for the pressure effects on K given in Millero
+(1995). For the effects of pressure on K, the fit given in Millero (1983) is
+used. 
+did not include the effects of OH, phosphate, or silicate, so
+these are irrelevant for that choice.
+ and the
+ , the effects of pressure on
+K are those given in the GEOSECS report (Takahashi et al. 1982).
+The reference given there is Culberson and Pytkowicz (1968), but the fits are
+actually those from Edmond and Gieskes (1970) who in turn quote Li (personal
+communication). In the fit for the correction for K due to pressure, the
+GEOSECS report had the value 26.4, but the value 16.4 was used, which was
+consistent with their calculations as well as with the fit given in Edmond and
+Gieskes (1970). The effects of pressure on the solubility of calcite and
+aragonite are also those from Takahashi et al. (1982). [The original reference given
+in that work for the pressure corrections is not valid and the fit used
+appears to be new to Takahashi et al. (1982)].
+and K are from Millero (1979) but
+without the salinity dependence. These fits are from the data of Culberson
+and Pytkowicz (1968). The effects of pressure on K
+and K
+ in Millero (1995)
+include a factor of 1000 left out of the definition of Kappa and an incorrect
+value and incorrect units for the gas constant R. The pressure correction for
+K
+ is the activity coefficient
+ of the H ion
+(this includes liquid junction effects),
+ TS and TF are the concentrations of SO
+ are the dissociation constants of
+HSO
+The conversions depend on temperature, salinity, and pressure.
+At 20&#176;C, salinity 35, and 1 atm, pH values on the total scale are (about)
+ on the NBS scale are
+ mol/kg-HO. The
+concentration units used in the program CO2SYS for [H] on the other scales are
+mol/kg-SW (note that
+the free scale was originally defined in units of mol/kg-HO). The difference
+between mol/kg-SW and mol/kg-HO is about 0.015 pH units at salinity 35 (the
+difference is nearly proportional to salinity). The seawater scale was
+formerly referred to as the total scale, and each scale is still sometimes
+referred to as the other in the literature.
+ used in this program is valid from salinities 20
+ to 40.
+ has been found to be electrode-dependent, and does NOT equal 1 at
+salinity 0 due to the liquid junction potential.
+Values on the NBS pH scale are only accurate to (at best) 0.005.
+ on pH has assumed
+ that 
+For discussions of the various pH scales see Dickson (1984, 1993),
+ Millero et al. (1993), Butler (1992), or Culberson (1981). Attention
+is required because in some of these references the distinction between the total and the
+seawater pH scales was not made.
+An information section that may be accessed from several places in the
+program provides on-screen help for the following topics:
+Ernie Lewis
+Atmospheric Sciences Division
+Environmental Sciences Department
+Building 815E
+Brookhaven National Laboratory
+Upton, NY 11973
+Tel: 631-344-7406
+FAX: 631-344-2887
+Douglas Wallace
+Department of Oceanography
+ Dalhousie University
+ 1355 Oxford Street
+ PO BOX 15000
+ Halifax NS&#194;&#160; B3H 4R2
+Phone: (902) 494-4132
+ system in seawater is the
+Handbook of Methods for the Analysis of the Various Parameters of the Carbon
+Dioxide System in Sea Water (DOE 1994). The web site for information on this reference
+is: 
+http://andrew.ucsd.edu/co2qc/.
+A listing of the errata in this handbook is also available at this site.
+A copy of the printed report may be obtained from the Carbon Dioxide Information
+Analysis Center at no charge while supplies last. Requests should be addressed
+to:
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+Post Office Box 2008
+Oak Ridge, Tennessee 37831-6290, U.S.A.
+Telephone: (865) 574-0390 or (865) 574-3645
+Fax: (865) 574-2232
+Other particularly useful references are Park (1969), Skirrow (1975), Butler (1991),
+Millero and Sohn (1992), and Millero (1995) (see the Appendix for a listing of some
+of the errata in this paper).
+The Appendix to this report lists some typographical errors found in the references for
+this report as well as in other papers on this topic.
+system in seawater were supplied by Dr. Andrew Dickson of Scripps Institution
+of Oceanography. Many helpful comments were supplied by Dr. Rik Wanninkof of
+NOAA/AOML/OCD and Dr. Dave Chipman of Lamont-Doherty Earth Observatory. We would also like to
+acknowledge Dr. Frank Millero of the Rosenstiel School of Marine and Atmospheric Sciences at
+the University of Miami for his numerous contributions to this field.
+This work was supported by the U.S. Department of Energy Office of Biological and
+Enviromental Research under contract DE-ACO2-76CH00016, through a project
+entitled `Inorganic Carbon for the World Ocean Circulation Experiment - World
+Hydrographic Program' (D.W.R. Wallace and K.M. Johnson, PIs).
+Berner, R. A. 1976. The solubility of calcite and aragonite in seawater in
+atmospheric pressure and 34.5&#176;/ salinity.
+Butler, J. N. 1991. Carbon Dioxide Equilibria and Their Applications. Lewis
+Publishers, Inc., Chelsea, Mich. 
+Butler, J. N. 1992. Alkalinity titration in seawater: How accurately can the data
+be fitted by an equilibrium model? 
+Culberson, C. H. 1981. Direct potentiometry. pp. 187-261. In
+M. Whitfield and D. Jagner (eds.),
+. John Wiley and Sons,
+New York. 
+Culberson, C. H., and R. M. Pytkowicz. 1968. Effect of pressure on carbonic acid,
+boric acid, and the pH of seawater. 
+13:403-417. 
+Culkin, F. 1965. The major constituents of sea water. pp. 121-161. In J. P. Riley and
+G. Skirrow (eds.), 
+Dickson, A. G. 1981. An exact definition of total alkalinity and a procedure
+for the estimation of alkalinity and total inorganic carbon from
+titration data. 
+Dickson, A. G. 1984. pH scales and proton-transfer reactions in saline media such
+as sea water. 
+(g) =
+Ag(s) + HCl(aq), and the standard acidity constant of the ion
+HSO
+in synthetic seawater from 273.15 to 318.15 K. Journal of Chemical
+Thermodynamics
+Dickson, A. G. 1990b. Thermodynamics of the dissociation of boric acid in synthetic
+seawater from 273.15 to 318.15 K. 
+Dickson, A. G. 1993. pH buffers for sea water media based on the total hydrogen
+concentration scale. 
+Dickson, A. G., and F. J. Millero. 1987. A comparison of the equilibrium constants
+for the dissociation of carbonic acid in seawater media. Deep-Sea
+Research
+--. 1989. Corrigenda. 
+Dickson, A. G., and J. P. Riley. 1978. The effect of analytical error on the
+evaluation of the components of the aquatic carbon-dioxide system.
+Dickson, A. G., and J. P. Riley. 1979. The estimation of acid dissociation constants
+in seawater media from potentiometric titrations with strong base.
+I. The ionic product of water - K
+Handbook of methods for the analysis of the
+various parameters of
+the carbon dioxide system in sea water. Version 2. ORNL/CDIAC-74.
+A. G. Dickson and C. Goyet (eds.), Carbon Dioxide Information Analysis Center,
+Oak Ridge National Laboratory, Oak Ridge, Tenn. 
+Edmond, J. M., and J. M. T. M. Gieskes. 1970. On the calculation of the degree of
+saturation of seawater with respect to calcium carbonate under conditions.
+Goyet, C., and A. Poisson. 1989. New determination of carbonic acid dissociation
+constants in seawater as a function of temperature and salinity.
+Hansson, I. 1973a. A new set of acidity constants for carbonic acid and boric acid
+in sea water. 
+Hansson, I. 1973b. The determination of dissociation constants of carbonic acid in
+synthetic sea water in the salinity range of
+20 - 40&#176;/ and
+temperature range of 5 - 30&#176;C. 
+27:931-944.
+Harned, H. S., and R. Davis, Jr. 1943. The ionization constant of carbonic acid in
+water and the solubility of carbon dioxide in water and aqueous salt
+solutions from 0 to 50&#176;. 
+65:2030-2037. 
+Harned, H. S., and B. B. Owen. 1958. The Physical Chemistry of Electrolyte Solutions.
+American Chemical Society Monograph Series. Reinhold Pub. Corp., New York.
+from 0 to 50&#176;. 
+Ingle, S. E., C. H. Culberson, J. E. Hawley, and R. M. Pytkowicz. 1973. The
+solubility of calcite in seawater at atmospheric pressure
+and 35&#176;/
+salinity. 
+Kester, D. R., and R. M. Pytkowicz. 1967. Determination of the apparent dissociation
+constants of phosphoric acid in seawater. 
+12:243-252. 
+Khoo, K. H., R. W. Ramette, C. H. Culberson, and R. G. Bates. 1977.
+Determination of hydrogen ion concentrations in seawater from 5 to
+40&#176;C: standard potentials at salinities from 20 to
+45&#176;/.
+in the oceans. 
+Mehrbach, C., C. H. Culberson, J. E. Hawley, and R. M. Pytkowicz. 1973.
+Measurement of the apparent dissociation constants of carbonic acid
+in seawater at atmospheric pressure. 
+18:897-907.
+Millero, F. J. 1979. The thermodynamics of the carbonate system in seawater.
+Millero, F. J. 1983. Influence of pressure on chemical processes in the sea.
+pp. 1-88. In J. P. Riley and R. Chester (eds.), .
+Academic Press, New York. 
+Millero, F. J. 1995. Thermodynamics of the carbon dioxide system in the oceans.
+Millero, F. J., and M. L. Sohn. 1992. Chemical Oceanography. CRC Press,
+Boca Raton, Fla.
+Millero, F. J., J. Z. Zhang, S. Fiol, S. Sotolongo, R. N. Roy, K. Lee,
+and S. Mane. 1993. The use of buffers to measure the pH of seawater.
+Morris, A. W., and J. P. Riley. 1966. The bromide/chlorinity and sulphate/
+chlorinity ratio in sea water. 13:699-705.
+Mucci, A. 1983. The solubility of calcite and aragonite in seawater at various
+salinities, temperatures, and one atmosphere total pressure.
+Murray, C. N., and J. P. Riley. 1971. The solubility of gases in distilled water
+and seawater - IV. Carbon dioxide. 18:533-541.
+ system: an evaluation of ten methods of
+investigation. 
+Peng, T. H., T. Takahashi, W. S. Broecker, and J. Olafsson. 1987. Seasonal
+variability of carbon dioxide, nutrients and oxygen in the northern
+North Atlantic surface water: Observations and model.
+Riley, J. P. 1965. The occurrence of anomalously high fluoride concentrations in
+the North Atlantic. 
+Riley, J. P., and M. Tongudai. 1967. The major cation/chlorinity ratios in sea
+water. 
+Roy, R. N., L. N. Roy, K. M. Vogel, C. Porter-Moore, T. Pearson,
+C. E. Good, F. J. Millero, and D. M. Campbell. 1993. The dissociation
+constants of carbonic acid in seawater at salinities 5 to 45 and
+temperatures 0 to 45&#176;C. 
+Sillen, L. G., A. E. Martell, and J. Bjerrum. 1964. Stability constants of metal-ion complexes,
+2nd ed. Special Publication no. 17. Chemical Society (Great Britain), London.
+[Referenced in Takahashi et al. 1982 as Sillen and Martel (1964).]
+Skirrow, G. 1975. The dissolved gases - carbon dioxide. pp. 1-192. In
+J. P. Riley and G. Skirrow (eds.), .
+Academic Press, New York. 
+Takahashi, T., R. T. Williams, and D. L. Bos. 1982. Carbonate chemistry.
+pp. 77-83. In W. S. Broecker, D. W. Spencer, and H. Craig,
+National Science Foundation, Washington, D.C. 
+Uppstrom, L. R. 1974. The boron/chloronity ratio of deep-sea water from the
+Pacific Ocean. 
+Weiss, R. F. 1974. Carbon dioxide in water and seawater: the solubility of a
+non-ideal gas. 
+Weiss, R. F., and B. A. Price. 1980. Nitrous oxide solubility in water and
+seawater. 
+The Appendix lists errors that have been found in references for the program documentation
+as well as in other papers related to this topic; however, the listing is not meant to be
+ comprehensive.
+ Although many corrections are extremely minor, it is hoped that this compilation will save
+both time and effort for those who use it.
+Campbell, D. M., F. J. Millero, R. Roy, L. Roy, M. Lawson, K. M. Vogel,
+and C. Porter-Moore. 1993. The standard potential for the hydrogen-silver,
+silver chloride electrode in synthetic seawater. 
+44:221-233.
+" should be
+"log
+Chen, H., R. Wanninkhof, R. A. Feely, and D. Greeley. 1995. Measurement of
+fugacity of carbon dioxide in seawater: an evaluation of a method
+based on infrared analysis. NOAA Technical Memorandum ERL AOML-85.
+Atlantic Oceanographic and Meteorological Laboratory, Miami.
+On p. 15, Table 2 states: "1. In our work (expressed in terms of the
+seawater hydrogen scale):..."; however, the formula for K given is
+on the total scale and the formulae for K,
+and K
+are on the NBS scale. It is unclear whether these formulae were converted.
+On pp. 15 and 16: The formulae for Total Borate (TB) are incorrect.
+They should read: "Total Borate (TB) = 0.00001188 * S" for
+cases 1 and 3, and "Total Borate (TB) = 0.00001173 * S" for case 2.
+/dT"
+should be "d(lnXCO
+Clayton, T. D., and R. H. Byrne. 1993. Spectrophotometric seawater pH measurements:
+ total hydrogen ion concentration scale calibration of m-cresol
+ purple and at-sea results. 
+********************
+Clayton, T. D., R. H. Byrne, J. A. Breland, R. A. Feely, F. J. Millero,
+ D. M. Campbell, P. P. Murphy, and M. F. Lamb. 1995. The role of pH
+ measurements in modern oceanic CO-system characterization: Precision
+ and thermodynamic consistency. 
+(g) =
+ Ag(s) + HCl(aq), and the standard acidity constant of the ion
+ HSO
+ in synthetic seawater from 273.15 to 318.15 K. Journal of Chemical
+ Thermodynamics
+Dickson, A. G. 1990b. Thermodynamics of the dissociation of boric acid in synthetic
+seawater from 273.15 to 318.15 K. 
+."
+Dickson, A. G., and F. J. Millero. 1987. A comparison of the equilibrium constants
+for the dissociation of carbonic acid in seawater media.
+ 36:983.
+*
+for Hansson, the value "0.000116 *S
+Also, on p. 1740 in Table 5: The second equation should read
+"pK
+Also, in the third equation in Table 5 on p. 1740: The term "0.00668 S" should
+ be "0.0068 S."
+Dickson, A. G., and J. P. Riley. 1979a. The estimation of acid dissociation constants
+in seawater media from potentiometric titrations with strong base.
+I. The ionic product of water - K
+Dickson, A. G., and J. P. Riley. 1979b. The estimation of acid dissociation constants
+in seawater media from potentiometric titrations with strong base. II.
+The dissociation of phosphoric acid. 
+ in
+the abstract and in Table II on p. 109: The number "4.176" should be "4.196."
+O."
+Goyet, C., and E. Peltzer. 1994. Comparison of the August-September 1991 and 1979
+surface partial pressure of CO distribution in the Equatorial
+Pacific Ocean near 150&#176; W. 
+Also, the reference given (UNESCO. 1987. Thermodynamics of the
+carbon dioxide system in seawater. UNESCO Technical Papers
+in Marine Science 51.) does not discuss this equation or the
+one above it.
+Goyet, C., and A. Poisson. 1989. New determination of carbonic acid dissociation
+constants in seawater as a function of temperature and salinity.
+On p. 1645 in Table 4: The fits which allow "extrapolation to S = 0"
+contain a constant term and thus do not match the "S = 0" values.
+Hansson, I. 1973a. A new set of acidity constants for carbonic acid and boric
+acid in seawater. 
+Lee, K., and F. J. Millero. 1995. Thermodynamic studies of the carbonate system in
+seawater. 
+should be proportional to "S/35," not "35/S."
+ and F should be
+proportional to "S/35," not "35/S."
+On p. 2056, two lines up: The statement "The calculated values of
+pK (S = 35)..." should NOT have the expression "(S = 35)",
+as the fit has a salinity dependence.
+On p. 2058: The actual title for the reference of Clayton and Byrne
+is: "Spectrophotometric seawater pH measurements: total
+hydrogen ion concentration scale calibration of m-cresol
+purple and at-sea results."
+: The expression
+"log {[H}"
+should be "ln {[H
+: The value "114.273" should
+be "114.723"
+and the expression "2968/T" should be "2698/T."
+, F, and B
+should be proportional to "S/35," not "35/S."
+Mehrbach, C., C. H. Culberson, J. E. Hawley, and R. M. Pytkowicz. 1973.
+Measurement of the apparent dissociation constants of carbonic acid
+in seawater at atmospheric pressure. 
+18:897-907.
+"
+in Eq. 6.
+Millero, F. 1979. The thermodynamics of the carbonate system in seawater.
+Millero, F. J. 1983. Influence of pressure on chemical processes in the sea.
+Chapter 43. In J. P. Riley and R. Chester (eds.), .
+Academic Press, New York.
+On p. 51, for Table 43.29 to be correct:
+Millero, F. J. 1995. Thermodynamics of the carbon dioxide system in the oceans.
+(Khoo et al. 1977), but on p. 667 it is
+stated that Khoo's value is unreliable and should not be used.
+This is unclear.
+On p. 667: In the first full paragraph it is stated that the values of
+K were determined from Eq. 30 after Roy's constants
+were converted to the SWS pH scale. The value of K
+is needed to convert pH scales and cannot be found from Eq. 30.
+On p. 668: It is stated that the total pH scale should be used, but in
+the next paragraph Roy's constants are converted to the
+seawater scale, and this scale is used for most of the rest
+of the paper.
+On p. 669, in the title for Fig. 10: The equations are misnumbered.
+Equations 46 and 47 should be Eqs. 48 and
+49, and Eqs. 48 and 49 should be Eqs. 50 and 51.
+ is on the total pH scale (this was not
+stated but can be determined from the reference).
+ is on the seawater pH scale (this wasn't
+stated but is consistent with programs of Millero).
+On p. 670: The given check value after Eq. 64 of "1.6 &#181;mol/kg" should be
+"6.2 &#181;mol/kg." There is no easy way to see how 1.6 was obtained.
+On p. 670, Eqs. 65, 66, and 67: These are on the seawater pH scale
+(this was not stated, but can be determined from the DOE
+Handbook).
+On p. 671, after Eq. 71: The check values "0.792" and "0.204' should be
+"0.852" and "0.140." If pH = 8.2 is used, or if K is increased by
+a factor of 1.55, the given check values are close.
+ is on the seawater pH scale (this was not stated
+but can be determined from the DOE Handbook).
+On p. 671, after Eq. 73: For the given values "I = .7 and "t = 25&#176;C," the value of
+pK is given
+as "9.47" (molality). However, when these two values are used, the actual
+resultant value of
+pK is "9.365" (molality) which corresponds to
+"9.380" in mol/kg-soln. Two scenarios would explain the
+discrepancy: (1) either "t" is incorrect (plugging in the value t = 20&#176;C
+would give the value of pK as 9.47), or (2) the pH scale
+is incorrect (the value of pK of 9.38 on the total pH scale
+ = 9.47 on the seawater scale in the same concentration units.
+ = 9.47
+and pH = 7.5 yields "0.0106 [Si]," rather than
+".0127 [Si]
+ is given is not stated.
+From the original reference, it was determined in artificial
+seawater without F, so it must be on the total pH scale.
+ at t = 25&#176;C
+and S = 35 is incorrectly given as "6.98" and should be "6.51." The value
+"6.98" can be obtained, however, by plugging in t = 25&#176;C and S = 0.
+On p. 671, after Eq. 75: The value of "0.768" is consistent with the
+value for pK of "6.98" (which is incorrect). The correct value
+should be "0.9071."
+ is given is not stated.
+From the original reference it is on the seawater scale.
+ of "9.19" is incorrect and
+should be "9.26." It is not clear how the incorrect
+value was obtained.
+On p. 671, after Eq. 77: The value "0.020" is consistent with "9.19"
+(which is incorrect). It should be "0.017."
+." Note that
+Goyet et al. (1993) in a paper on a similar topic (Goyet, C., F. J. Millero,
+A. Poisson, and D. Shafer. 1993.
+Temperature dependence of CO fugacity in seawater.
+/TA." This
+difference could cause confusion.
+ at ANY temp
+can be calculated exactly! The only way to know X is to know
+TA AND TCO at 20&#176;C
+is also sufficient to find fCO
+On p. 675, after Eq. 90: The value and the units for R are incorrect.
+The true value is "R = 83.145 bar-cm
+On p. 675, column 1: The reference to Millero (1989) should probably
+be Millero (1983b).
+ in Table 9. Probably they
+are equal to 0; this would be consistent with previous work.
+On p. 675: The left-hand side of Equation 92 should be "(1000)* deltaK,"
+or the last two columns in Table 9 should be "1000*b" and
+"1000*b
+for HS
+are the FRESHWATER values given in Millero (1983).
+. Before
+the heading "Conclusions" on the same page it is stated that
+they are "estimated" from those of boric acid. It is unclear whether or not it
+is meant that they are assumed to be equal to those for boric acid.
+ should be "+0.1622"
+to agree with Millero (1979).
+ for calcite and aragonite
+should be "+0.5304" to agree with Millero (1979).
+ for aragonite should be
+"-46.0" (or "-45.96") to agree with Millero (1979).
+ for calcite should be "+0.3692"
+to agree with Millero (1979).
+On p. 677, in column 2: There is a problem with the reference
+"Millero, F. J. (1982). The thermodynamics of seawater at one
+atmosphere. 
+It should probably read:
+Millero, F. J. (1976). The thermodynamics of seawater at one
+atmosphere. 
+Millero, F. J. (1982). Thermodynamics of seawater: the PVT
+properties. 
+Millero, F. J., T. Plese, and M. Fernandez. 1988. The dissociation of hydrogen
+sulfide in seawater. 
+On p. 271 just before Eq. 7: It is stated that the NBS and the
+total pH scales are related by "
+* [H," but this
+does not include fluoride. The relation usually used is
+"]
+," which does include fluoride. This means that
+the used in this equation is the activity coefficient
+for seawater containing no fluoride.
+ combines data that were taken in seawater
+(artificial and actual) containing fluoride with values which were
+done in artificial seawater without fluoride.
+Millero, F. J., and M. L. Sohn. 1992. The carbonate system. pp. 267-319. In F. J. Millero
+and M. L. Sohn, 
+On p. 275: There is ambiguity and inconsistency in the definitions and
+distinctions between the total and the seawater pH scales.
+On p. 276: Equation 36 is incorrect in several places:
+the denominator in the first expression should be squared,
+and the terms CH and COH should not be in the numerator but
+rather by themselves.
+This expression also makes the approximation that K
+ K
+On p. 279: The right-hand side of Eq. 52 should read:
+"pK
+On p. 286: Equation 96 has brackets and parentheses missing in several
+places. 
+Fits for the constants are from the following sources:
+ are from Dickson and Millero
+(1987) from the combined data of Hansson (1973 a,b) and Mehrbach et al. (1973).
+are from Millero (1979).
+These are the source references:
+ 34:1733-1743;
+see also Dickson, A. G., and F. J. Millero. 1989. 
+Millero, F. J. 1983. Influence of pressure on chemical processes in the sea.Chapter 43.
+In J. P. Riley and R. Chester (eds.),
+Millero, F. J., J. Z. Zhang, S. Fiol, S. Sotolongo, R. N. Roy, K. Lee,
+and S. Mane. 1993. The use of buffers to measure the pH of seawater.
+On p. 149, Eq. 23, and on p. 150, Eqs. 25 and 27:
+The multiplication sign (x) should be a division sign (/).
+Millero, F. J., J. Z. Zhang, K. Lee, and D. M. Campbell. 1993. Titration
+alkalinity of seawater. 
+On p. 156, column 2, about 10 lines down: The expression "14&#177;1 mM" should
+be "14 &#177; 1 &#181;M."
+Peng, T. H., T. Takahashi, W. S. Broecker, and J. Olafsson. 1987. Seasonal
+variability of carbon dioxide, nutrients and oxygen in the North
+Atlantic surface water: observations and a model. 
+ is NOT the same as the one in GEOSECS, as
+claimed, but rather is rounded off. It is about 1% higher
+(this results in a change of 0.004 in pH).
+ does not match the fit given
+in that paper or the GEOSECS fit.
+NOTE: On p. 455, Eq. A3: This definition of TA is different from that
+of Dickson; it is higher by an amount equal to the total
+phosphate.
+Roy, R. N., L. N. Roy, K. M. Vogel, C. Porter-Moore, T. Pearson, C. E. Good,
+F. J. Millero, and D. M. Campbell. 1993. The dissociation constants
+of carbonic acid in seawater at salinities 5 to 45 and temperatures 0
+to 45&#176;C. 
+)" should be
+"2m(CO
+ and "0.006"
+in pK. From Andrew Dickson (personal communication, 1997)
+these should be "0.008" in pK
+, not Dickson's, but
+reference Dickson earlier (p. 252)
+ 45:337.
+This replaces tables 3 and 4.
+ 52:183.
+This fixes a typographic error in the Abstract on p. 249: In the equation for lnK*: The
+last term should have S raised to the power 1.5.
+It also fixes a typographic error in Eq. 34 on p. 256: The value "310.48919" should be
+"2310.48919."
+Takahashi, T., R. T. Williams, and D. L. Bos. 1982. Carbonate chemistry. pp. 77-83.
+In W. S. Broecker, D. W. Spencer, and H. Craig, GEOSECS Pacific Expedition,
+Volume 3, Hydrographic Data 1973-1974. National Science Foundation,
+Washington, D.C.
+&#180;(P), the value "26.4"
+should be "16.4."
+On p. 79:The reference in No. 6. in the list of constants should actually be
+Ingle, S. E. 1975.
+&#180;(aragonite): The value "1.45" should be
+"1.48" [this is what Berner uses on p. 722 of Berner (1976)].
+On p. 79 in No. 8. in the list of constants: Reference [20] is not
+correct; that Culberson reference is only indirectly related to the topic under discussion.
+&#180;(calcite,P): The plus sign should be
+an equals sign.
+&#180;: The expression "C/lnT"
+should be "C*lnT."
+UNESCO. 1987. UNESCO Technical papers in marine science 51: Thermodynamics of the carbon
+dioxide system in seawater. 
+Weiss, R. F., and B. A. Price. 1980. Nitrous oxide solubility in water and
+seawater. 
+respectively, below our results."
+&#239;&#187;&#191;
+&#160;
+&#160;|&#160;
+&#160;
+&#160;|&#160;
+&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;maintained by &#160;
+&#160;|&#160;
+&#160;Last modified: 28 Nov 2016]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[co2sys.exe]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/co2sys]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[271 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ The program CO2SYS performs calculations relating parameters of the carbon dioxide (CO2) system in seawater and freshwater. The program uses two of the four measurable parameters of the CO2 system [total alkalinity (TA), total inorganic CO2 (TCO2), pH, and either fugacity (fCO2) or partial pressure of CO2 (pCO2)] to calculate the other two parameters at a set of input conditions (temperature and pressure) and a set of output conditions chosen by the user. It replaces and extends the programs CO2SYSTM.EXE, FCO2TCO2.EXE, PHTCO2.EXE, and CO2BTCH.EXE, which were released in May 1995. It may be run in single-input mode or batch-input mode and has a variety of options for the various constants and parameters used. An on-screen information section is available that includes documentation on various topics relevant to the program. This program may be run on any 80 x 86 computer equipped with the DOS operating system by simply typing CO2SYS at the prompt after loading the executable file CO2SYS.EXE.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

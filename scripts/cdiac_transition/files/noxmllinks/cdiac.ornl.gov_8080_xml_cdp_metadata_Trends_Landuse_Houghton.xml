@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Houghton, R. A.]]></origin>
+        <title><![CDATA[Carbon Flux to the Atmosphere from Land-Use Changes: 1850-2005]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Carbon Flux to the Atmosphere from Land-Use Changes: 1850-2005]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18500101]]></begdate>
+          <enddate><![CDATA[20051231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Flux]]></themekey>
+        <themekey><![CDATA[Land Use Changes]]></themekey>
+        <themekey><![CDATA[NDP-050]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide Emissions]]></themekey>
+        <themekey><![CDATA[Anthropogenic CO2 Emissions]]></themekey>
+        <themekey><![CDATA[Land Use Carbon Emissions]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 124313</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 100453 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Flux]]></Keywords>
+    <Keywords><![CDATA[Land Use Changes]]></Keywords>
+    <Keywords><![CDATA[NDP-050]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide Emissions]]></Keywords>
+    <Keywords><![CDATA[Anthropogenic CO2 Emissions]]></Keywords>
+    <Keywords><![CDATA[Land Use Carbon Emissions]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[,
+149 Woods Hole Road,
+CITE AS: Houghton, R.A. 2008. Carbon Flux to the Atmosphere from Land-Use Changes: 1850-2005. In . Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 100453 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.ndp050.2008]]></Product_number>
+      <Product_title><![CDATA[Carbon Flux to the Atmosphere from Land-Use Changes: 1850-2005]]></Product_title>
+      <Author>
+        <Name><![CDATA[Houghton, R. A.]]></Name>
+        <Company><![CDATA[The Woods Hole Research Center]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/Global_land-use_flux-1850_2005.xls]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850-2005.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850_2005.txt]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/Global_land-use_flux-1850_2005.xls]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850-2005.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850_2005.txt]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South and Central America]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/Global_land-use_flux-1850_2005.xls]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850-2005.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850_2005.txt]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Europe]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/Global_land-use_flux-1850_2005.xls]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850-2005.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850_2005.txt]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[North Africa and Middle East]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/Global_land-use_flux-1850_2005.xls]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850-2005.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850_2005.txt]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tropical Africa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/Global_land-use_flux-1850_2005.xls]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850-2005.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850_2005.txt]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Former Soviet Union]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/Global_land-use_flux-1850_2005.xls]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850-2005.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850_2005.txt]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/Global_land-use_flux-1850_2005.xls]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850-2005.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850_2005.txt]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South and Southeast Asia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/Global_land-use_flux-1850_2005.xls]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850-2005.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850_2005.txt]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Developed Region]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/Global_land-use_flux-1850_2005.xls]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850-2005.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/1850_2005.txt]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[carbon]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/houghton.html,
+149 Woods Hole Road,
+CITE AS: Houghton, R.A. 2008. Carbon Flux to the Atmosphere from Land-Use Changes: 1850-2005. In . Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19951001]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20080425]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/landuse/houghton/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This database provides estimates of regional and global net carbon fluxes, on a year-by-year basis from 1850 through 2005, resulting from changes in land use (such as harvesting of forest products and clearing for agriculture), taking into account not only the initial removal and oxidation of the carbon in the vegetation, but also subsequent regrowth and changes in soil carbon. The net flux of carbon to the atmosphere from changes in land use from 1850 to 2005 was modeled as a function of documented land-use change and changes in aboveground and belowground carbon following changes in land use. This database updates and replaces the previous Carbon Flux to the Atmosphere from Land-Use Changes: 1850-1990, NDP-050 (Houghton and Hackler, 2001. doi 10.3334/CDIAC/lue.ndp050.)]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

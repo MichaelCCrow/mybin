@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Charlet, Dene]]></origin>
+        <title><![CDATA[Nevada Desert Face Facility Micrometeorological Data]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-1997.xls]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-1998.xls]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-1999.xls]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2000.xls]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2001.xls]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2002.xls]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2003.xls]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2004.xls]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2005.xls]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2006.xls]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/Precipitation.xls]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Nevada Desert Face Facility Micrometeorological Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19970326]]></begdate>
+          <enddate><![CDATA[20060801]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-115.9875]]></westbc>
+        <eastbc><![CDATA[-115.9625]]></eastbc>
+        <northbc><![CDATA[36.775]]></northbc>
+        <southbc><![CDATA[36.755]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[CO2 enrichment]]></themekey>
+        <themekey><![CDATA[FACE]]></themekey>
+        <themekey><![CDATA[micrometeorology]]></themekey>
+        <themekey><![CDATA[weather]]></themekey>
+        <themekey><![CDATA[Nevada Desert Face Facility]]></themekey>
+        <themekey><![CDATA[NDFF]]></themekey>
+        <themekey><![CDATA[vegetation response]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://public.ornl.gov/face/NDFF/ndff_data_co2weather.shtml]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070731 134323</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070731 132022 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[CO2 enrichment]]></Keywords>
+    <Keywords><![CDATA[FACE]]></Keywords>
+    <Keywords><![CDATA[micrometeorology]]></Keywords>
+    <Keywords><![CDATA[weather]]></Keywords>
+    <Keywords><![CDATA[Nevada Desert Face Facility]]></Keywords>
+    <Keywords><![CDATA[NDFF]]></Keywords>
+    <Keywords><![CDATA[vegetation response]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070731 132022 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[NDFF Micrometeorology]]></Product_number>
+      <Product_title><![CDATA[Nevada Desert Face Facility Micrometeorological Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[Charlet, Dene]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[Nevada Desert Face Facility]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Nevada Desert Face Facility (NDFF)]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/face/NDFF/ndff_home.shtml]]></Site_URL>
+        <Site_data_file><![CDATA[http://public.ornl.gov/face/NDFF/ndff_data_co2weather.shtml]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://public.ornl.gov/face/NDFF/ndff_data_co2weather.shtml]]></Data_site>
+      <Variable><![CDATA[W Sp Win (m/s)]]></Variable>
+      <Variable><![CDATA[W Sp Max (m/s)]]></Variable>
+      <Variable><![CDATA[W Sp Avg (m/s)]]></Variable>
+      <Variable><![CDATA[W Dir (polar deg)]]></Variable>
+      <Variable><![CDATA[Temp Min (C)]]></Variable>
+      <Variable><![CDATA[Temp Max (C)]]></Variable>
+      <Variable><![CDATA[Temp Avg (C)]]></Variable>
+      <Variable><![CDATA[Solar Min (W/m2/s)]]></Variable>
+      <Variable><![CDATA[Solar Max (W/m2/s)]]></Variable>
+      <Variable><![CDATA[Solar Avg (W/m2/s)]]></Variable>
+      <Variable><![CDATA[Solar Alt (polar deg)]]></Variable>
+      <Variable><![CDATA[Cond OK %]]></Variable>
+      <Variable><![CDATA[Fume %  ]]></Variable>
+      <Variable><![CDATA[PV-R]]></Variable>
+      <Variable><![CDATA[Control (ppm)]]></Variable>
+      <Variable><![CDATA[CO2 Min (ppm)]]></Variable>
+      <Variable><![CDATA[CO2 Max (ppm)]]></Variable>
+      <Variable><![CDATA[CO2 Avg  (ppm)]]></Variable>
+      <Variable><![CDATA[Hyro Day of Year]]></Variable>
+      <Variable><![CDATA[Date]]></Variable>
+      <Variable><![CDATA[Precip event (mm)]]></Variable>
+      <Variable><![CDATA[Hydro Year total (mm)]]></Variable>
+      <Variable><![CDATA[Event # in Hydro Year]]></Variable>
+      <Descriptive_file><![CDATA[http://public.ornl.gov/face/NDFF/micromet/micromet_readme.txt]]></Descriptive_file>
+      <Data_file><![CDATA[HourAvg-1997.xls]]></Data_file>
+      <Data_file><![CDATA[HourAvg-1998.xls]]></Data_file>
+      <Data_file><![CDATA[HourAvg-1999.xls]]></Data_file>
+      <Data_file><![CDATA[HourAvg-2000.xls]]></Data_file>
+      <Data_file><![CDATA[HourAvg-2001.xls]]></Data_file>
+      <Data_file><![CDATA[HourAvg-2002.xls]]></Data_file>
+      <Data_file><![CDATA[HourAvg-2003.xls]]></Data_file>
+      <Data_file><![CDATA[HourAvg-2004.xls]]></Data_file>
+      <Data_file><![CDATA[HourAvg-2005.xls]]></Data_file>
+      <Data_file><![CDATA[HourAvg-2006.xls]]></Data_file>
+      <Data_file><![CDATA[Precipitation.xls]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070710]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-1997.xls]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-1998.xls]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-1999.xls]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2000.xls]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2001.xls]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2002.xls]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2003.xls]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2004.xls]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2005.xls]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/HourAvg-2006.xls]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ndffdata/Precipitation.xls]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Micrometeorological Data taken at the Nevada Desert FACE Facility
+
+Data is logged every minute.  Minute data for all rings are combined and 
+averaged over one hour.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

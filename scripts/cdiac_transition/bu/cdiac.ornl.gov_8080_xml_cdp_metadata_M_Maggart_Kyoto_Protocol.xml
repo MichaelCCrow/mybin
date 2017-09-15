@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Marland, G.]]></origin>
+        <origin><![CDATA[Boden, T.]]></origin>
+        <title><![CDATA[Kyoto-Related Fossil-Fuel CO2 Emission Totals]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/M_Maggart/Kyoto_Protocol.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/trends/emis/annex.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Kyoto-Related Fossil-Fuel CO2 Emission Totals]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19900101]]></begdate>
+          <enddate><![CDATA[20061231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Kyoto]]></themekey>
+        <themekey><![CDATA[Protocol]]></themekey>
+        <themekey><![CDATA[Fossil Fuel]]></themekey>
+        <themekey><![CDATA[Fossil-Fuel]]></themekey>
+        <themekey><![CDATA[Emissions]]></themekey>
+        <themekey><![CDATA[Trends]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[Annex B Countries]]></themekey>
+        <themekey><![CDATA[Non Annex B Countries]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[cdiac.ornl.gov]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 132651</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20090813 140428 by 160.91.18.49</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Kyoto]]></Keywords>
+    <Keywords><![CDATA[Protocol]]></Keywords>
+    <Keywords><![CDATA[Fossil Fuel]]></Keywords>
+    <Keywords><![CDATA[Fossil-Fuel]]></Keywords>
+    <Keywords><![CDATA[Emissions]]></Keywords>
+    <Keywords><![CDATA[Trends]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[Annex B Countries]]></Keywords>
+    <Keywords><![CDATA[Non Annex B Countries]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;Kyoto-Related Emissions
+ emissions from fossil-fuel use and 
+cement manufacture for those countries listed in Annex B of the 
+and for those countries not listed in Annex B. In keeping with the convention of the IPCC methodology
+for calculating national greenhouse gas emissions, emissions from international bunker
+fuels (fuels used in international commerce) are not included in the country totals but
+are shown separately under the country group in which final fuel loading occurred. 
+Note, that the list of countries in Annex B of the Kyoto Protocol differs from the list
+of countries in Annex I of the Framework Convention on Climate Change by the addition of
+Croatia, Liechtenstein, Monaco, and Slovenia and the removal of Belarus and Turkey. 
+We have estimated emissions for 1990 and 1991 from the republics that were formerly
+part of the USSR and of Yugoslavia by taking total emissions from the USSR (and
+Yugoslavia) for 1990 and 1991 and distributing them among the new republics in the same
+ratio as emissions from those republics in 1992. 
+Because of minor differences in the method of estimating the global total of emissions
+and the national totals of emissions, the sum of emissions from all countries produces a
+number that is less than the global total by about 2%. Consequently we have inflated the
+sum of emissions from all Annex B countries and the sum of emissions from all non-Annex B
+countries by about 2% (the value differs from year to year) so that the sum of the two
+values plus emissions from bunker fuels is equal to our best estimate of the 
+global total
+Source: Gregg Marland and Tom Boden 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20090813 140428 by 160.91.18.49</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/M_Maggart/Kyoto_Protocol.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/ffe.007]]></Product_number>
+      <Product_title><![CDATA[Kyoto-Related Fossil-Fuel CO2 Emission Totals]]></Product_title>
+      <Author>
+        <Name><![CDATA[Marland, G.]]></Name>
+        <Company><![CDATA[Oak Ridge National Lab]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Boden, T.]]></Name>
+        <Company><![CDATA[Oak Ridge National Lab]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Fossil-Fuel CO2 Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[CDIAC]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/emis/annex.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/emis/annexb_countries.html]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/emis/nonannexb_countries.html]]></Site_data_file>
+        <Site_data_file><![CDATA[http://unfccc.int/kyoto_protocol/items/2830.php]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[cdiac.ornl.gov]]></Data_site>
+      <Variable><![CDATA[million metric tonnes C Carbon Dioxide]]></Variable>
+      <Variable><![CDATA[Fossil-Fuel CO2 Emissions]]></Variable>
+      <Variable><![CDATA[Bunkers]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/emis/annex.html &#187;&#160;Kyoto-Related Emissions
+ emissions from fossil-fuel use and 
+cement manufacture for those countries listed in Annex B of the 
+and for those countries not listed in Annex B. In keeping with the convention of the IPCC methodology
+for calculating national greenhouse gas emissions, emissions from international bunker
+fuels (fuels used in international commerce) are not included in the country totals but
+are shown separately under the country group in which final fuel loading occurred. 
+Note, that the list of countries in Annex B of the Kyoto Protocol differs from the list
+of countries in Annex I of the Framework Convention on Climate Change by the addition of
+Croatia, Liechtenstein, Monaco, and Slovenia and the removal of Belarus and Turkey. 
+We have estimated emissions for 1990 and 1991 from the republics that were formerly
+part of the USSR and of Yugoslavia by taking total emissions from the USSR (and
+Yugoslavia) for 1990 and 1991 and distributing them among the new republics in the same
+ratio as emissions from those republics in 1992. 
+Because of minor differences in the method of estimating the global total of emissions
+and the national totals of emissions, the sum of emissions from all countries produces a
+number that is less than the global total by about 2%. Consequently we have inflated the
+sum of emissions from all Annex B countries and the sum of emissions from all non-Annex B
+countries by about 2% (the value differs from year to year) so that the sum of the two
+values plus emissions from bunker fuels is equal to our best estimate of the 
+global total
+Source: Gregg Marland and Tom Boden 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20090604]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/trends/emis/annex.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

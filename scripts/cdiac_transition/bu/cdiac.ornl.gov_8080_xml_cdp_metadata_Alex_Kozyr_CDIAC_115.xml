@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Feely, R. A.]]></origin>
+        <origin><![CDATA[Lamb, M. F.]]></origin>
+        <origin><![CDATA[Greeley, D. J.]]></origin>
+        <origin><![CDATA[Wanninkkof, R.]]></origin>
+        <title><![CDATA[Comparison of the Carbon System Parameters at the Global CO2 Survey Crossover Locations in the North and South Pacific Ocean, 1990-1996]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/CDIAC_115.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/cdiac115/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Comparison of the Carbon System Parameters at the Global CO2 Survey Crossover Locations in the North and South Pacific Ocean, 1990-1996]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19900101]]></begdate>
+          <enddate><![CDATA[19961231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[global c02]]></themekey>
+        <themekey><![CDATA[North Pacific Ocean]]></themekey>
+        <themekey><![CDATA[South Pacific Ocean]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050808 152545</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 152545 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[global c02]]></Keywords>
+    <Keywords><![CDATA[North Pacific Ocean]]></Keywords>
+    <Keywords><![CDATA[South Pacific Ocean]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 152545 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/CDIAC_115.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[CDIAC-115]]></Product_number>
+      <Product_title><![CDATA[Comparison of the Carbon System Parameters at the Global CO2 Survey Crossover Locations in the North and South Pacific Ocean, 1990-1996]]></Product_title>
+      <Author>
+        <Name><![CDATA[Feely, R. A.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Pacific Marine Environmental Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lamb, M. F.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Pacific Marine Environmental Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Greeley, D. J.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Pacific Marine Environmental Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wanninkkof, R.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Atlantic Oceanographic and Meteorological Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/oceans/pmel/pmel.html]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[dissolved inorganic carbon]]></Variable>
+      <Variable><![CDATA[fugacity of co2]]></Variable>
+      <Variable><![CDATA[total alkalinity]]></Variable>
+      <Variable><![CDATA[pH]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/pmel/pmel.html]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19991001]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19991001]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/cdiac115/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[5.41 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ As a collaborative program to measure global ocean carbon inventories and provide estimates of the anthropogenic carbon dioxide (CO2) uptake by the oceans, the National Oceanic and Atmospheric Administration and the U.S. Department of Energy have sponsored the collection of ocean carbon measurements as part of the World Ocean Circulation Experiment and Ocean-Atmosphere Carbon Exchange Study cruises. The cruises discussed here occurred in the North and South Pacific from 1990 through 1996. The carbon parameters from these 30 crossover locations have been compared to ensure that a consistent global data set emerges from the survey cruises. The results indicate that for dissolved inorganic carbon, fugacity of CO2, and pH, the agreements at most crossover locations are well within the design specifications for the global CO2 survey; whereas, in the case of total alkalinity, the agreement between crossover locations is not as close. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#http://maven.ibiblio.org/maven2/asm/asm/1.3.3/maven-metadata.xml
+#base=$1
+#art=$2
+#v=$3
+
+ibib="http://maven.ibiblio.org/maven2/$1/"
+curl $ibib
+read  -p "Select Artifact:" aft
+ibib="$ibib/$aft/"
+curl $ibib
+read  -p "Select Version:" v
+ibib="$ibib/$v/maven-metadata.xml"
+
+result=`curl $ibib`
+if [[ $result == *"Not Found"* ]]; then
+    echo "$ibib -- Not Found"
+    open -a Firefox $ibib
+else
+    curl $ibib
+    #echo $result | tee pbcopy
+    #echo "copied to clipboard"
+    echo
+fi

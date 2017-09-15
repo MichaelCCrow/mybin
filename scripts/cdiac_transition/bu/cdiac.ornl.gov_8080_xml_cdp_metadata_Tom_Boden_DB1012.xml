@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Suchet, P. A.]]></origin>
+        <origin><![CDATA[Probst, J.-L.]]></origin>
+        <title><![CDATA[Global 1 Degree by 1 Degree Distribution of Atmospheric/Soil CO2 Consumption by Continental Weathering and of Riverine HCO3 Yield]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/DB1012.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/db1012/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global 1 Degree by 1 Degree Distribution of Atmospheric/Soil CO2 Consumption by Continental Weathering and of Riverine HCO3 Yield]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[1900000]]></begdate>
+          <enddate><![CDATA[1900000]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.00]]></westbc>
+        <eastbc><![CDATA[180.00]]></eastbc>
+        <northbc><![CDATA[90.00]]></northbc>
+        <southbc><![CDATA[-90.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[Atmosphere]]></themekey>
+        <themekey><![CDATA[Bicarbonate]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[Carbonate]]></themekey>
+        <themekey><![CDATA[River]]></themekey>
+        <themekey><![CDATA[Rock]]></themekey>
+        <themekey><![CDATA[Silicate]]></themekey>
+        <themekey><![CDATA[Soil]]></themekey>
+        <themekey><![CDATA[Weathering]]></themekey>
+        <themekey><![CDATA[DB1012]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 134727</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 155609 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[Atmosphere]]></Keywords>
+    <Keywords><![CDATA[Bicarbonate]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[Carbonate]]></Keywords>
+    <Keywords><![CDATA[River]]></Keywords>
+    <Keywords><![CDATA[Rock]]></Keywords>
+    <Keywords><![CDATA[Silicate]]></Keywords>
+    <Keywords><![CDATA[Soil]]></Keywords>
+    <Keywords><![CDATA[Weathering]]></Keywords>
+    <Keywords><![CDATA[DB1012]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 155609 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/DB1012.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cyc.db1012]]></Product_number>
+      <Product_title><![CDATA[Global 1 Degree by 1 Degree Distribution of Atmospheric/Soil CO2 Consumption by Continental Weathering and of Riverine HCO3 Yield]]></Product_title>
+      <Author>
+        <Name><![CDATA[Suchet, P. A.]]></Name>
+        <Company><![CDATA[Centre National de la Recherche Scientifique]]></Company>
+        <Organization><![CDATA[Center de Geochimie de la Surface]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Probst, J.-L.]]></Name>
+        <Company><![CDATA[Centre National de la Recherche Scientifique]]></Company>
+        <Organization><![CDATA[Center de Geochimie de la Surface ]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/db1012.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1012/gem.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1012/gem.e00.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[fco2]]></Variable>
+      <Variable><![CDATA[fhco3]]></Variable>
+      <Variable><![CDATA[id]]></Variable>
+      <Variable><![CDATA[lat]]></Variable>
+      <Variable><![CDATA[long]]></Variable>
+      <Variable><![CDATA[gem-id]]></Variable>
+      <Variable><![CDATA[gem#]]></Variable>
+      <Variable><![CDATA[area]]></Variable>
+      <Variable><![CDATA[perimeter]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/db1012.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ornl.gov/ftp/db1012/db1012.doc]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1012/gem.forftp://cdiac.ornl.gov/pub/db1012/gem.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19950401]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19950401]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/db1012/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[50 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The mission of the Centre National de la Recherche Scientifique (CNRS) of Strasbourg Cedex, France is to study The Global Carbon Cycle and its Perturbation by Man and Climate, the Terrestrial Biosphere. With the support of the Environment Programme of the European Communities, modeling of the spatial distribution of atmospheric-soil CO2 consumption by chemical weathering of continental rocks have been and are being conducted. One of the major results of these studies is a set of global maps which show the distribution of CO2 consumption (FCO2) and the transport of bicarbonate (FHCO3-) from rivers to the ocean, each in moles per kilometer squared per year (mol km2/yr).
+<br><br>
+Continental weathering influences the geologic carbon cycle (Trabalka, 1985). The largest natural exchange fluxes of carbon occur between the atmosphere and the terrestrial biota, and between the atmosphere and the ocean surface waters (Houghton, et. al. 1990). River carbon input to the oceans is a component of the estimate of global air-sea CO2 fluxes (Sarminento and Sundquist 1992). It is estimated that about 0.3 gigatons of carbon per year (GtC/yr) are consumed by the chemical erosion of continental rocks and transferred as HCO3- to the oceans (Berner et. al. 1983; Meybeck 1987; and Probst 1992), while the flux of particulate and dissolved organic carbon transported by rivers to the oceans is estimated to be about 0.4 GtC/yr (Probst 1992). On the whole, about 0.7 GtC/yr are transferred by continental erosion from the soil-biosphere reservoir to the oceans.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

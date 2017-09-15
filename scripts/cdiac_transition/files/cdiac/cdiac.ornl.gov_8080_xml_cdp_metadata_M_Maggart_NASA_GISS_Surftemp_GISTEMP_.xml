@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Hansen, J. E. ]]></origin>
+        <origin><![CDATA[Ruedy, R. ]]></origin>
+        <origin><![CDATA[Sato, M.]]></origin>
+        <origin><![CDATA[Lo, K. ]]></origin>
+        <title><![CDATA[NASA GISS Surface Temperature (GISTEMP) Analysis
+]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/M_Maggart/NASA_GISS_Surftemp_GISTEMP_.xml]]></onlink>
+        <onlink></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[NASA GISS Surface Temperature (GISTEMP) Analysis
+]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18800101]]></begdate>
+          <enddate><![CDATA[20081231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[NASA ]]></themekey>
+        <themekey><![CDATA[GISS ]]></themekey>
+        <themekey><![CDATA[Surface Temperature ]]></themekey>
+        <themekey><![CDATA[(GISTEMP)]]></themekey>
+        <themekey><![CDATA[meteorological stations]]></themekey>
+        <themekey><![CDATA[trends]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/temp/hansen/data.html]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 112227</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20090714 172409 by 160.91.18.49</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[NASA ]]></Keywords>
+    <Keywords><![CDATA[GISS ]]></Keywords>
+    <Keywords><![CDATA[Surface Temperature ]]></Keywords>
+    <Keywords><![CDATA[(GISTEMP)]]></Keywords>
+    <Keywords><![CDATA[meteorological stations]]></Keywords>
+    <Keywords><![CDATA[trends]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Columbia University
+Trinnovim LLC
+&#160;
+Center for Climate Systems Research
+2880 Broadway
+ (2001). The GISS analysis is updated monthly, however CDIAC's presentation of the data here is updated annually.
+ is the most comprehensive and direct source of information for these data. Users are strongly encouraged to visit the NASA GISS Web site, where you can specify input for making customized maps, graphs, and subsets of the data, in addition to learning many more interesting details about these data and their analysis.
+Here, we seek to give users a brief, high-level overview of
+the GISTEMP analysis and provide you with convenient access to the main time series graphs, data tables, and related references. This brief summary of the methods employed by the GISTEMP Team in their analysis is mostly borrowed from their NASA GISS Web pages.
+Significant updates to the GISTEMP Team methods are described in a .
+They describe the use of satellite-observed nightlights to identify measurement stations located in extreme
+darkness and adjust temperature trends of urban and peri-urban stations for non-climatic factors, verifying
+that urban effects on analyzed global change are small. The paper compares alternative analyses, and addresses questions about perception and reality of global warming.
+The GISTEMP Team modifies the GHCN/USHCN/SCAR data in two steps to get to the station data on which all their tables, graphs, and maps are based: in step 1, if there are multiple records at a given station, these are combined into one record; in step 2 they adjust the non-rural stations in such a way that their long-term trend of annual means matches that of the mean of the neighboring rural stations. Records from urban stations without nearby rural staitons are dropped.
+ (1996). (See references.)
+ (1999).
+ time series show quite a bit of variability from the beginning of the record through about 1920, but no real trend. A significant warming of about 0.3&#176;C is observed in both series from about 1920 through the early- to mid-1940s, followed by a less dramatic cooling in both series through about the mid-1960s. From the 1970s through recent years, rapid warming is observed in both series; on the order of 0.6&#176;C. Overall, the earth's average surface temperature has now increased about 1.0&#176;C since the late-19th century.
+was the warmest since 1880 (read the January, 2016 ); 0.86&#176;C above the 1951-1980 average, and 0.12&#176;C above the previous record, set in 2014. Fifteen of the warmest 16 years on record have occurred since 2001.
+ 1996).
+ that cover 30%, 40%, and 30% of the globe, respectively. These series reveal that the northern latitudes have warmed much more than either the low or southern latitudes.
+(Note: All of the references included below are not cited in the above text. Additional references are included because they are described on the GISTEMP web site.)
+Global surface air temperature in 1995: Return to pre-Pinatubo level.
+A common-sense climate index: Is climate changing noticeably?
+GISS analysis of surface temperature change.
+CITE AS: The GISTEMP Team: Schmidt, G., R. Ruedy, A. Persin, M. Sato, and K. Lo. 2016. NASA GISS Surface Temperature (GISTEMP) Analysis. In 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20090714 172409 by 160.91.18.49</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/M_Maggart/NASA_GISS_Surftemp_GISTEMP_.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.001]]></Product_number>
+      <Product_title><![CDATA[NASA GISS Surface Temperature (GISTEMP) Analysis
+]]></Product_title>
+      <Author>
+        <Name><![CDATA[Hansen, J. E. ]]></Name>
+        <Company><![CDATA[National Aeronautics and Space Administration]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ruedy, R. ]]></Name>
+        <Company><![CDATA[SGT, Inc.]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sato, M.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lo, K. ]]></Name>
+        <Company><![CDATA[SGT, Inc.]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/temp/hansen/data.html]]></Data_site>
+      <Variable><![CDATA[global surface temperature ]]></Variable>
+      <Variable><![CDATA[month]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/temp/hansen/hansen.htmlColumbia University
+Trinnovim LLC
+&#160;
+Center for Climate Systems Research
+2880 Broadway
+ (2001). The GISS analysis is updated monthly, however CDIAC's presentation of the data here is updated annually.
+ is the most comprehensive and direct source of information for these data. Users are strongly encouraged to visit the NASA GISS Web site, where you can specify input for making customized maps, graphs, and subsets of the data, in addition to learning many more interesting details about these data and their analysis.
+Here, we seek to give users a brief, high-level overview of
+the GISTEMP analysis and provide you with convenient access to the main time series graphs, data tables, and related references. This brief summary of the methods employed by the GISTEMP Team in their analysis is mostly borrowed from their NASA GISS Web pages.
+Significant updates to the GISTEMP Team methods are described in a .
+They describe the use of satellite-observed nightlights to identify measurement stations located in extreme
+darkness and adjust temperature trends of urban and peri-urban stations for non-climatic factors, verifying
+that urban effects on analyzed global change are small. The paper compares alternative analyses, and addresses questions about perception and reality of global warming.
+The GISTEMP Team modifies the GHCN/USHCN/SCAR data in two steps to get to the station data on which all their tables, graphs, and maps are based: in step 1, if there are multiple records at a given station, these are combined into one record; in step 2 they adjust the non-rural stations in such a way that their long-term trend of annual means matches that of the mean of the neighboring rural stations. Records from urban stations without nearby rural staitons are dropped.
+ (1996). (See references.)
+ (1999).
+ time series show quite a bit of variability from the beginning of the record through about 1920, but no real trend. A significant warming of about 0.3&#176;C is observed in both series from about 1920 through the early- to mid-1940s, followed by a less dramatic cooling in both series through about the mid-1960s. From the 1970s through recent years, rapid warming is observed in both series; on the order of 0.6&#176;C. Overall, the earth's average surface temperature has now increased about 1.0&#176;C since the late-19th century.
+was the warmest since 1880 (read the January, 2016 ); 0.86&#176;C above the 1951-1980 average, and 0.12&#176;C above the previous record, set in 2014. Fifteen of the warmest 16 years on record have occurred since 2001.
+ 1996).
+ that cover 30%, 40%, and 30% of the globe, respectively. These series reveal that the northern latitudes have warmed much more than either the low or southern latitudes.
+(Note: All of the references included below are not cited in the above text. Additional references are included because they are described on the GISTEMP web site.)
+Global surface air temperature in 1995: Return to pre-Pinatubo level.
+A common-sense climate index: Is climate changing noticeably?
+GISS analysis of surface temperature change.
+CITE AS: The GISTEMP Team: Schmidt, G., R. Ruedy, A. Persin, M. Sato, and K. Lo. 2016. NASA GISS Surface Temperature (GISTEMP) Analysis. In 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20090101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20090101]]></Most_recent_date_of_data_publication>
+      <Data_file_location></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The NASA GISS Web site for the global temperature data of Hansen et al. is the most comprehensive and direct source of information for these data. Users are strongly encouraged to visit the NASA GISS Web site, where you can specify input for making customized maps, graphs, and subsets of the data, in addition to learning many more interesting details about these data and their analysis.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Jones, P. D.]]></origin>
+        <origin><![CDATA[Wigley, T. M. L.]]></origin>
+        <origin><![CDATA[Briffa, K. R.]]></origin>
+        <title><![CDATA[Monthly Mean Pressure Reconstructions for Europe (1780-1980) and North America (1858-1980)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp025/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Monthly Mean Pressure Reconstructions for Europe (1780-1980) and North America (1858-1980)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[17800101]]></begdate>
+          <enddate><![CDATA[19801231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-130.000]]></westbc>
+        <eastbc><![CDATA[40.000]]></eastbc>
+        <northbc><![CDATA[70.000]]></northbc>
+        <southbc><![CDATA[30.000]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Pressure]]></themekey>
+        <themekey><![CDATA[NDP-025]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 123352</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 163025 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Pressure]]></Keywords>
+    <Keywords><![CDATA[NDP-025]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 163025 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp025]]></Product_number>
+      <Product_title><![CDATA[Monthly Mean Pressure Reconstructions for Europe (1780-1980) and North America (1858-1980)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Jones, P. D.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit, School of Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wigley, T. M. L.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit, School of Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Briffa, K. R.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit, School of Environmental Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[North America]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp025/ndp025.nam]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Europe]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp025/ndp025.eur]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[ANNUAL]]></Variable>
+      <Variable><![CDATA[CODE]]></Variable>
+      <Variable><![CDATA[IYEAR]]></Variable>
+      <Variable><![CDATA[MONTH]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp025.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp025/ndp025.doc]]></Data_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp025/ndp025.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp025/ndp025.fr1]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp025/ndp025.fr2]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp025/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[2.10 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Real and reconstructed measurements of monthly mean pressure data have been constructed for Europe for 1780 through 1980 and North America for 1858 through 1980. The reconstructions use early pressure, temperature, and precipitation data from a variety of sources including World Weather Records, meteorological and national archives, circulation maps, and daily chart series. Each record contains the year, monthly mean pressure, quality code, and annual mean pressure. These reconstructed gridded monthly pressures provide a reliable historical record of mean sea-level pressures for Europe and North America. The data are in two files: pressure reconstructions for Europe (1.47 MB) and for North America (0.72 MB).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Andres, R. J. ]]></origin>
+        <origin><![CDATA[Boden, T. A.]]></origin>
+        <origin><![CDATA[Marland, G. ]]></origin>
+        <title><![CDATA[Annual Fossil-Fuel CO2 Emissions: Isomass of Emissions Gridded by One Degree Latitude by One Degree Longitude]]></title>
+        <geoform><![CDATA[Other]]></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/R_Andres/ffe_annual_gridded_isomass.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/db1013_v2016/gridded/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Annual Fossil-Fuel CO2 Emissions: Isomass of Emissions Gridded by One Degree Latitude by One Degree Longitude]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[17510101]]></begdate>
+          <enddate><![CDATA[20131231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-179.50]]></westbc>
+        <eastbc><![CDATA[179.50]]></eastbc>
+        <northbc><![CDATA[83.50]]></northbc>
+        <southbc><![CDATA[-55.50]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Gridded annual isotopic fossil-fuel CO2 emissions]]></themekey>
+        <themekey><![CDATA[Gridded fossil-fuel carbon emissions]]></themekey>
+        <themekey><![CDATA[Latitude]]></themekey>
+        <themekey><![CDATA[Longitude]]></themekey>
+        <themekey><![CDATA[Isomass of Emissions]]></themekey>
+        <themekey><![CDATA[isotopic fossil-fuel CO2 emissions]]></themekey>
+        <themekey><![CDATA[carbon dioxide emission estimates]]></themekey>
+        <themekey><![CDATA[del 13C]]></themekey>
+        <themekey><![CDATA[DB1013]]></themekey>
+        <themekey><![CDATA[db1013]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[cdiac.ornl.gov]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20160627 151100</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20120208 162242 by 160.91.28.54</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Gridded annual isotopic fossil-fuel CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[Gridded fossil-fuel carbon emissions]]></Keywords>
+    <Keywords><![CDATA[Latitude]]></Keywords>
+    <Keywords><![CDATA[Longitude]]></Keywords>
+    <Keywords><![CDATA[Isomass of Emissions]]></Keywords>
+    <Keywords><![CDATA[isotopic fossil-fuel CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide emission estimates]]></Keywords>
+    <Keywords><![CDATA[del 13C]]></Keywords>
+    <Keywords><![CDATA[DB1013]]></Keywords>
+    <Keywords><![CDATA[db1013]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[C Emission Estimates
+Carbon Dioxide Information Analysis Center
+Environmental Sciences Division
+Oak Ridge National Laboratory
+Oak Ridge, Tennessee 37831-6290 U.S.A.
+Research Institute for Environment, Energy and Economics
+Appalachian State University
+Boone, North Carolina 28608 U.S.A.
+The annual, isotopic (&amp;delta; emissions estimates 
+from 1751-2013 provided in this database are derived from time series of 
+global, regional, and national fossil-fuel CO emissions
+() 
+and references therein. The data accessible here take these tabular, national, mass-emissions
+data, multiply them by stable carbon isotopic signatures (&amp;delta; C) as described in Andres et al. (2000), 
+ and distribute them spatially on a one degree latitude by one
+degree longitude grid. The within-country spatial distribution is
+achieved through a fixed population distribution as reported in Andres
+et al. (1996). Note that the mass-emissions data used here are based
+on fossil-fuel consumption estimates as these are more representative
+of within country emissions than fossil-fuel production estimates (see
+for a description why emission totals based upon consumption differ from 
+those based upon production).
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20120208 162242 by 160.91.28.54</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/R_Andres/ffe_annual_gridded_isomass.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/ffe.AnnualIsomass.2016]]></Product_number>
+      <Product_title><![CDATA[Annual Fossil-Fuel CO2 Emissions: Isomass of Emissions Gridded by One Degree Latitude by One Degree Longitude]]></Product_title>
+      <Author>
+        <Name><![CDATA[Andres, R. J. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Boden, T. A.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Marland, G. ]]></Name>
+        <Company><![CDATA[Appalachian State University]]></Company>
+        <Organization><![CDATA[Research Institute for Environment, Energy and Economics]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Trace Gas Emissions]]></Thematic_area>
+      <Thematic_area><![CDATA[Fossil-Fuel Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/fossil_fuel_CO2_emissions_gridded_annual_del13C_v2016.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/db1013_v2016/gridded/]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[cdiac.ornl.gov]]></Data_site>
+      <Variable><![CDATA[del13C isomass of CO2 emissions]]></Variable>
+      <Variable><![CDATA[latitude]]></Variable>
+      <Variable><![CDATA[longitude]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/fossil_fuel_CO2_emissions_gridded_annual_del13C_v2016.htmlC Emission Estimates
+Carbon Dioxide Information Analysis Center
+Environmental Sciences Division
+Oak Ridge National Laboratory
+Oak Ridge, Tennessee 37831-6290 U.S.A.
+Research Institute for Environment, Energy and Economics
+Appalachian State University
+Boone, North Carolina 28608 U.S.A.
+The annual, isotopic (&amp;delta; emissions estimates 
+from 1751-2013 provided in this database are derived from time series of 
+global, regional, and national fossil-fuel CO emissions
+() 
+and references therein. The data accessible here take these tabular, national, mass-emissions
+data, multiply them by stable carbon isotopic signatures (&amp;delta; C) as described in Andres et al. (2000), 
+ and distribute them spatially on a one degree latitude by one
+degree longitude grid. The within-country spatial distribution is
+achieved through a fixed population distribution as reported in Andres
+et al. (1996). Note that the mass-emissions data used here are based
+on fossil-fuel consumption estimates as these are more representative
+of within country emissions than fossil-fuel production estimates (see
+for a description why emission totals based upon consumption differ from 
+those based upon production).
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20090630]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20160603]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/db1013_v2016/gridded/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[251 MB compressed]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This database presents an annual time series of the isotopic signature (del 13C) from fossil-fuel CO2 emissions for 1751-2013. Detailed geographic information on CO2 emissions can be critical in understanding the interannual and seasonal patterns of the atmospheric and biospheric response to these emissions. Global, regional, and national annual estimates for 1751 through 2013 were published earlier (Boden et al. 2016). Those national, annual CO2 emission estimates were based on statistics about fossil-fuel burning, cement manufacturing and gas flaring in oil fields as well as energy production, consumption, and trade data, using the methods of Marland and Rotty (1984). The national annual estimates were combined with stable carbon isotopic signatures (del 13C) described in Andres et al. (2000) and with gridded one degree data on political units and 1984 human populations to create the new gridded isotopic time series. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Dlugokencky, E. J.]]></origin>
+        <origin><![CDATA[Lang, P. M.]]></origin>
+        <origin><![CDATA[Masarie, K. A.]]></origin>
+        <origin><![CDATA[Steele, L. P.]]></origin>
+        <title><![CDATA[Atmospheric CH4 Mixing Ratios--The NOAA/CMDL Global Cooperative Air Sampling Network, 1983-1993]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/DB1008.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CH4 Mixing Ratios--The NOAA/CMDL Global Cooperative Air Sampling Network, 1983-1993]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19830102]]></begdate>
+          <enddate><![CDATA[19931230]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.000]]></westbc>
+        <eastbc><![CDATA[180.000]]></eastbc>
+        <northbc><![CDATA[90.000]]></northbc>
+        <southbc><![CDATA[-90.000]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric Methane Mixing Ratios]]></themekey>
+        <themekey><![CDATA[Analysis Date]]></themekey>
+        <themekey><![CDATA[Atmospheric Methane]]></themekey>
+        <themekey><![CDATA[CH4]]></themekey>
+        <themekey><![CDATA[Flask Samples]]></themekey>
+        <themekey><![CDATA[Monthly Averages]]></themekey>
+        <themekey><![CDATA[Gas Chromatograph]]></themekey>
+        <themekey><![CDATA[Sampling Date]]></themekey>
+        <themekey><![CDATA[Sampling Time]]></themekey>
+        <themekey><![CDATA[Sampling Method]]></themekey>
+        <themekey><![CDATA[Sampling Site]]></themekey>
+        <themekey><![CDATA[Selection Criteria]]></themekey>
+        <themekey><![CDATA[Data Quality Flags]]></themekey>
+        <themekey><![CDATA[DB1008]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 134608</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 155430 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric Methane Mixing Ratios]]></Keywords>
+    <Keywords><![CDATA[Analysis Date]]></Keywords>
+    <Keywords><![CDATA[Atmospheric Methane]]></Keywords>
+    <Keywords><![CDATA[CH4]]></Keywords>
+    <Keywords><![CDATA[Flask Samples]]></Keywords>
+    <Keywords><![CDATA[Monthly Averages]]></Keywords>
+    <Keywords><![CDATA[Gas Chromatograph]]></Keywords>
+    <Keywords><![CDATA[Sampling Date]]></Keywords>
+    <Keywords><![CDATA[Sampling Time]]></Keywords>
+    <Keywords><![CDATA[Sampling Method]]></Keywords>
+    <Keywords><![CDATA[Sampling Site]]></Keywords>
+    <Keywords><![CDATA[Selection Criteria]]></Keywords>
+    <Keywords><![CDATA[Data Quality Flags]]></Keywords>
+    <Keywords><![CDATA[DB1008]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[One of these files (30.2 kB) contains all monthly mean methane values for NOAA/CMDL fixed monitoring sites. The second file (14.3 kB) contains all monthly mean methane values for NOAA/CMDL shipboard sites. An additional file (151.0 kB) contains a PostScript image showing the locations of all fixed sampling sites in the
+NOAA/CMDL cooperative air sampling network; also shown are the approximate sampling locations from ocean vessels participating in the shipboard sampling program. The data and accompanying descriptive material are available in electronic form only; hard copy documentation is not available.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 155430 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/DB1008.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.db1008]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CH4 Mixing Ratios--The NOAA/CMDL Global Cooperative Air Sampling Network, 1983-1993]]></Product_title>
+      <Author>
+        <Name><![CDATA[Dlugokencky, E. J.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lang, P. M.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Masarie, K. A.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Steele, L. P.]]></Name>
+        <Company><![CDATA[CSIRO ]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Research]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Methane]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alert, N.W.T. Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/alt.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Amsterdam Island, Indian Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/ams.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ascension Island, Atlantic Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/asc.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[St. Croix, Virgin Islands ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/avi.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Terceira Island, Azores]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/azr.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Baltic Sea ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/bal.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[St. David's head, Bermuda]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/bme.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Southhampton, Bermuda]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/bmw.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Barrow, Alaska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/brw.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cold Bay, Alaska ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/cba.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania, Australia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/cgo.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Christmas Island, Pacific Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/chr.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Meares, Oregon]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/cmo.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Crozet, Indian Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/crz.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Guam, Mariana Islands ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/gmi.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Halley Bay, Antarctica ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/hba.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Heimaey, Vestmannaeyjar]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/ice.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Grifton, North Carolina]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/itn.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tenerife, Canary Islands, Spain]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/izo.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Key Biscayne, Florida ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/key.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Kitt Peak, Arizona ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/kpa.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Kumukahi, Hawaii ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/kum.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mould Bay, N.W.T. Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/mbc.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[McMurdo Station, Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/mcm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mace Head, County Galway, Ireland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/mht.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sand Island, Midway]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/mid.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/mlo.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Niwot Ridge, Colorado  ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/nwr.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Kaitorete Spit, New Zealand]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/nzl.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Olympic Peninsula, Washington]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/opw.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean (Southland Star) ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pac000.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacn05.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacn10.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacn15.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacn20.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacn25.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacn30.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacn35.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacn40.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacn45.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacs05.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacs10.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacs15.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacs20.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacs25.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacs30.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pacs35.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean (Wellington Star)  ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/paw000.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pawn05.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pawn10.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pawn15.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pawn20.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pawn25.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pawn30.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pawn35.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pawn40.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/pawn45.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/paws05.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/paws10.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/paws15.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/paws20.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/paws25.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/paws30.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/paws35.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Palmer Station, Antarctica ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/psw.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Qinghai Province, P.R.C.]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/qpc.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ragged Point, St. Phillip's Parish, Barbados]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/rpb.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South China Sea (Carla A. Hills)]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn03.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn06.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn09.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn12.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn15.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn18.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn21.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South China Sea (Great Promise) ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn03.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn06.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn09.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn12.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn15.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn18.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/scsn21.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mahe Island, Seychelles]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/sey.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Georgia Island, Atlantic Ocean, U.K.]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/sgi.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Shemya Island, Alaska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/shm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[La Jolla, California ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/sio.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tutuila, American Samoa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/smo.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/spo.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ocean Station M, North Atl. Ocean, Norway ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/stm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Syowa Station, Antarctica, Japan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/syo.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tae-ahn Peninsula, Korea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/tap.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Wendover, Utah]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/uta.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ulaan Uul, Mongolia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/complete/uum.ch4]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Site]]></Variable>
+      <Variable><![CDATA[Collyr]]></Variable>
+      <Variable><![CDATA[Collmo]]></Variable>
+      <Variable><![CDATA[Collda]]></Variable>
+      <Variable><![CDATA[Collmhr]]></Variable>
+      <Variable><![CDATA[ollmn]]></Variable>
+      <Variable><![CDATA[id]]></Variable>
+      <Variable><![CDATA[Method]]></Variable>
+      <Variable><![CDATA[ch4]]></Variable>
+      <Variable><![CDATA[select]]></Variable>
+      <Variable><![CDATA[instr]]></Variable>
+      <Variable><![CDATA[analyr]]></Variable>
+      <Variable><![CDATA[analmo]]></Variable>
+      <Variable><![CDATA[analda]]></Variable>
+      <Variable><![CDATA[rawfile]]></Variable>
+      <Variable><![CDATA[nth]]></Variable>
+      <Variable><![CDATA[total]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Variable><![CDATA[meth2]]></Variable>
+      <Variable><![CDATA[meth3]]></Variable>
+      <Variable><![CDATA[meth4]]></Variable>
+      <Variable><![CDATA[meth5]]></Variable>
+      <Variable><![CDATA[meth6]]></Variable>
+      <Variable><![CDATA[meth7meth8]]></Variable>
+      <Variable><![CDATA[meth9]]></Variable>
+      <Variable><![CDATA[meth10]]></Variable>
+      <Variable><![CDATA[meth11]]></Variable>
+      <Variable><![CDATA[meth12]]></Variable>
+      <Variable><![CDATA[lat]]></Variable>
+      <Variable><![CDATA[hemi]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/db1008.htmlOne of these files (30.2 kB) contains all monthly mean methane values for NOAA/CMDL fixed monitoring sites. The second file (14.3 kB) contains all monthly mean methane values for NOAA/CMDL shipboard sites. An additional file (151.0 kB) contains a PostScript image showing the locations of all fixed sampling sites in the
+NOAA/CMDL cooperative air sampling network; also shown are the approximate sampling locations from ocean vessels participating in the shipboard sampling program. The data and accompanying descriptive material are available in electronic form only; hard copy documentation is not available.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/db1008.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/db1008.txt]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19940101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19940101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/db1008/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[3 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This data base presents atmospheric methane (CH4) mixing ratios from flask air samples collected over the period 1983-1993 by the National Oceanic and Atmospheric Administration, Climate Monitoring and Diagnostics Laboratory's (NOAA/CMDL's) global cooperative air sampling network. Air samples were collected approximately once per week at 44 fixed sites (37 of which were still active at the end of 1993). Samples were also collected at 5 degree latitude intervals along shipboard cruise tracks in the Pacific Ocean between North America and New Zealand (or Australia) and at 3 degree latitude intervals along cruise tracks in the South China Sea between Singapore and Hong Kong. The shipboard measurements were made approximately every 3 weeks per latitude zone by each of two ships in the Pacific Ocean and approximately once every week per latitude zone in the South China Sea. All samples were analyzed for CH4 at the NOAA/CMDL laboratory in Boulder, Colorado, by gas chromatography with flame ionization detection, and each aliquot was referenced to the NOAA/CMDL methane standard scale.
+<br><br>
+In addition to providing the complete set of atmospheric CH4 measurements from flask air samples collected at the NOAA/CMDL network sites, this data base also includes files which list monthly mean mixing ratios derived from the individual flask air measurements. These monthly summary data are available for 35 of the fixed sites and 21 of the shipboard sampling sites. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Pep Canadell]]></origin>
+        <title><![CDATA[Global Carbon Project - 2016 Global Carbon Budget]]></title>
+        <geoform><![CDATA[Model Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/Global_Carbon_Project/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global Carbon Project - 2016 Global Carbon Budget]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19590101]]></begdate>
+          <enddate><![CDATA[20161231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Carbon budget]]></themekey>
+        <themekey><![CDATA[Methane]]></themekey>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Global carbon budget]]></themekey>
+        <themekey><![CDATA[Global methane budget]]></themekey>
+        <themekey><![CDATA[Global Carbon Project]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden (bodenta@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden (bodenta@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20161115 141912</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden (bodenta@ornl.gov)]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20161114 154820 by 160.91.28.73</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Carbon budget]]></Keywords>
+    <Keywords><![CDATA[Methane]]></Keywords>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Global carbon budget]]></Keywords>
+    <Keywords><![CDATA[Global methane budget]]></Keywords>
+    <Keywords><![CDATA[Global Carbon Project]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+(November 2016)
+(November 2016)
+(December 2015)
+(December 2015)
+(November 2015)
+(November 2015)
+(May 2015)
+(September 2014)
+(July 2014)
+(June 2014)
+(December 2013)
+(April 2013)
+(December 2012)
+(November 2016)
+(December 2015)
+(September 2014)
+(November 2013)
+(published November 2016)
+(published December 2015)
+(published May 2015)
+(published June 2014)
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+(November 2016)
+(November 2016)
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20161114 154820 by 160.91.28.73</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[GCP 2016]]></Product_number>
+      <Product_title><![CDATA[Global Carbon Project - 2016 Global Carbon Budget]]></Product_title>
+      <Author>
+        <Name><![CDATA[Pep Canadell]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[Global Carbon Project]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate change]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon cycle]]></Thematic_area>
+      <Site_info>
+        <Site_name></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Global annual fossil fuel emissions]]></Variable>
+      <Variable><![CDATA[National fossil fuel emissions]]></Variable>
+      <Variable><![CDATA[National per capita emissions]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/GCP/&#239;&#187;&#191;
+(November 2016)
+(November 2016)
+(December 2015)
+(December 2015)
+(November 2015)
+(November 2015)
+(May 2015)
+(September 2014)
+(July 2014)
+(June 2014)
+(December 2013)
+(April 2013)
+(December 2012)
+(November 2016)
+(December 2015)
+(September 2014)
+(November 2013)
+(published November 2016)
+(published December 2015)
+(published May 2015)
+(published June 2014)
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/GCP/carbonbudget/2016/&#239;&#187;&#191;
+(November 2016)
+(November 2016)
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20121215]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20161113]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/Global_Carbon_Project/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[3 MB]]></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden (bodenta@ornl.gov)]]></CDIAC_contact>
+      <Notes><![CDATA[The Global Carbon and Methane Budgets are a collaborative effort of the global carbon cycle science community coordinated by the Global Carbon Project.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

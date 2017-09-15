@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Wanninkkof, R.]]></origin>
+        <origin><![CDATA[Peng, T.]]></origin>
+        <origin><![CDATA[Huss, B.]]></origin>
+        <origin><![CDATA[Sabine, C. L.]]></origin>
+        <origin><![CDATA[Lee, K.]]></origin>
+        <title><![CDATA[Comparison of Inorganic Carbon System Parameters Measured in the Atlantic Ocean from 1990 to 1998 and Recommended Adjustments]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/CDIAC_140.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/cdiac140/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Comparison of Inorganic Carbon System Parameters Measured in the Atlantic Ocean from 1990 to 1998 and Recommended Adjustments]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19900101]]></begdate>
+          <enddate><![CDATA[19981231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Global Carbon Cycle]]></themekey>
+        <themekey><![CDATA[oceanographic surveys]]></themekey>
+        <themekey><![CDATA[JGOF]]></themekey>
+        <themekey><![CDATA[WHP]]></themekey>
+        <themekey><![CDATA[WOCE]]></themekey>
+        <themekey><![CDATA[inorganic carbon]]></themekey>
+        <themekey><![CDATA[northern Atlantic Ocean]]></themekey>
+        <themekey><![CDATA[southern Atlantic Ocean]]></themekey>
+        <themekey><![CDATA[NOAA]]></themekey>
+        <themekey><![CDATA[ocean]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050808 153821</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 153348 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Global Carbon Cycle]]></Keywords>
+    <Keywords><![CDATA[oceanographic surveys]]></Keywords>
+    <Keywords><![CDATA[JGOF]]></Keywords>
+    <Keywords><![CDATA[WHP]]></Keywords>
+    <Keywords><![CDATA[WOCE]]></Keywords>
+    <Keywords><![CDATA[inorganic carbon]]></Keywords>
+    <Keywords><![CDATA[northern Atlantic Ocean]]></Keywords>
+    <Keywords><![CDATA[southern Atlantic Ocean]]></Keywords>
+    <Keywords><![CDATA[NOAA]]></Keywords>
+    <Keywords><![CDATA[ocean]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 153348 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/CDIAC_140.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[CDIAC-140]]></Product_number>
+      <Product_title><![CDATA[Comparison of Inorganic Carbon System Parameters Measured in the Atlantic Ocean from 1990 to 1998 and Recommended Adjustments]]></Product_title>
+      <Author>
+        <Name><![CDATA[Wanninkkof, R.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Atlantic Oceanographic and Meteorological Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Peng, T.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Atlantic Oceanographic and Meteorological Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Huss, B.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Atlantic Oceanographic and Meteorological Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sabine, C. L.]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Pacific Marine Environmental Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lee, K.]]></Name>
+        <Company><![CDATA[Pohang University of Science and Technology]]></Company>
+        <Organization><![CDATA[Republic of Korea]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/aoml/cdiac_140.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/cdiac140/cdiac140.pdf]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[dissolved inorganic carbon]]></Variable>
+      <Variable><![CDATA[total alkalinity]]></Variable>
+      <Variable><![CDATA[fugacity of CO2]]></Variable>
+      <Variable><![CDATA[pH]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/aoml/cdiac_140.html]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20030501]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20030501]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/cdiac140/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[21.1 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[As part of the global synthesis effort sponsored by the Global Carbon Cycle project of the National Oceanic and Atmospheric Administration (NOAA) and U.S. Department of Energy, a comprehensive comparison was performed of inorganic carbon parameters measured on oceanographic surveys carried out under auspices of the Joint Global Ocean Flux Study and related programs. Many of the cruises were performed as part of the World Hydrographic Program of the World Ocean Circulation Experiment and the NOAA Ocean-Atmosphere Carbon Exchange Study. Total dissolved inorganic carbon (DIC), total alkalinity (TAlk), fugacity of CO2, and pH data from twenty-three cruises were checked to determine whether there were systematic offsets of these parameters between cruises. The focus was on the DIC and TAlk state variables. Data quality and offsets of DIC and TAlk were determined by using several different techniques. One approach was based on crossover analyses, where the deep-water concentrations of DIC and TAlk were compared for stations on different cruises that were within 100 km of each other. Regional comparisons were also made by using a multiple-parameter linear regression technique in which DIC or TAlk was regressed against hydrographic and nutrient parameters. When offsets of greater than 4 micro-mol/kg were observed for DIC and/or 6 micro-mol/kg were observed for TAlk, the data taken on the cruise were closely scrutinized to determine whether the offsets were systematic. Based on these analyses, the DIC data and TAlk data of three cruises were deemed of insufficient quality to be included in the comprehensive basinwide data set. For several of the cruises, small adjustments in TAlk were recommended for consistency with other cruises in the region. After these adjustments were incorporated, the inorganic carbon data from all cruises along with hydrographic, chlorofluorocarbon, and nutrient data were combined as a research-quality product for the scientific community. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

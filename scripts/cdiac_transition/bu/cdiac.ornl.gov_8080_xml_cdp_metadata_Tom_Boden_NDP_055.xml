@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Brown, S.]]></origin>
+        <origin><![CDATA[Gaston, G.]]></origin>
+        <title><![CDATA[Tropical Africa: Land Use, Biomass, and Carbon Estimates for 1980]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_055.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Tropical Africa: Land Use, Biomass, and Carbon Estimates for 1980]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19800101]]></begdate>
+          <enddate><![CDATA[19801231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-17.50]]></westbc>
+        <eastbc><![CDATA[51.50]]></eastbc>
+        <northbc><![CDATA[27.50]]></northbc>
+        <southbc><![CDATA[-28.50]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Biomass]]></themekey>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Land cover ]]></themekey>
+        <themekey><![CDATA[Land use]]></themekey>
+        <themekey><![CDATA[Africa]]></themekey>
+        <themekey><![CDATA[1980]]></themekey>
+        <themekey><![CDATA[NHEERL - Western Ecology Division]]></themekey>
+        <themekey><![CDATA[U.S. Environmental Protection Agency]]></themekey>
+        <themekey><![CDATA[Release of carbon from land use change]]></themekey>
+        <themekey><![CDATA[Carbon release]]></themekey>
+        <themekey><![CDATA[Climate change]]></themekey>
+        <themekey><![CDATA[Deforestation]]></themekey>
+        <themekey><![CDATA[Forestry]]></themekey>
+        <themekey><![CDATA[Population]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145653</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164800 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Biomass]]></Keywords>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Land cover ]]></Keywords>
+    <Keywords><![CDATA[Land use]]></Keywords>
+    <Keywords><![CDATA[Africa]]></Keywords>
+    <Keywords><![CDATA[1980]]></Keywords>
+    <Keywords><![CDATA[NHEERL - Western Ecology Division]]></Keywords>
+    <Keywords><![CDATA[U.S. Environmental Protection Agency]]></Keywords>
+    <Keywords><![CDATA[Release of carbon from land use change]]></Keywords>
+    <Keywords><![CDATA[Carbon release]]></Keywords>
+    <Keywords><![CDATA[Climate change]]></Keywords>
+    <Keywords><![CDATA[Deforestation]]></Keywords>
+    <Keywords><![CDATA[Forestry]]></Keywords>
+    <Keywords><![CDATA[Population]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Work on this project was initiated while at the
+Department of Natural Resources and Environmental Sciences
+University of Illinois
+Urbana, Illinois
+, Arlington, Virgina.
+Oak Ridge, Tennessee 37831-6290
+under contract DE-AC05-00OR22725
+CDIAC = Carbon Dioxide Information Analysis Center
+FTP = file transfer protocol
+NDP = numeric data package
+QA = quality assurance
+GCM = General Circulation Model
+UNEP = United Nations' Environmental Program
+FAO = United Nations' Food And Agriculture Organization
+GIS = geographic information system
+PBD = potential biomass density
+ARC/INFO is a registered trademark of the Environmental Systems Research Institute, Inc., Redlands, CA 92372.
+Keywords: Carbon release, climate change, deforestation, forestry, population.
+PD &gt; 12: DR = 0.847 - 0.091 ln (PD), (n = 25, r = 0.72), (1a)
+PD &le; 12: DR = 1 - 0.032 PD, (1b)
+PD &gt; 7: DR = 0.866 - 0.118 ln (PD), (n = 10, r = 0.54), (2a)
+PD &le; 7: DR = 1 - 0.050 PD, (2b)
+where DR is the degradation ratio and PD is the population density in people
+per km
+PD &gt; 12: DR = 0.847 0.091 ln (PD), (n = 25, r = 0.72), (1a)
+PD &le; 12: DR = 1 - 0.032 PD . (1b)
+PD &gt; 7: DR = 0.866 0.118 ln (PD), (n = 10, r = 0.54), (2a)
+PD &le; 7: DR = 1 - 0.050 PD . (2b)
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+P.O. Box 2008
+Oak Ridge, Tennessee 37831-6290, U.S.A.
+Telephone: 1-865-574-3645
+Telefax: 1-865-574-2232
+ READ (5,100) NCOLS
+ READ (5,100) NROWS
+ READ (5,110) XLLCORNR
+ READ (5,110) YLLCORNR
+ READ (5,100) CSIZE
+ READ (5,100) NODATA
+ DO 10 ROWS = 1, NROWS
+ READ (5,120) (VALUE(ROWS,COLS), COLS=1, NCOLS)
+ 10 CONTINUE
+C
+ 100 FORMAT(14X,I5)
+ 110 FORMAT(14X,F15.5)
+ 120 FORMAT(1534(1X,I5))
+ncols 1534
+nrows 1502
+xllcorner -3616156.5
+yllcorner -3644063.04465
+cellsize 5000
+NODATA_value -9999
+ READ (5,100) NCOLS
+ READ (5,100) NROWS
+ READ (5,110) XLLCORNR
+ READ (5,110) YLLCORNR
+ READ (5,100) CSIZE
+ READ (5,120) NODATA
+ DO 10 ROWS = 1, NROWS
+ READ (5,130) (VALUE(ROWS,COLS), COLS=1, NCOLS)
+ 10 CONTINUE
+C
+ 100 FORMAT(14X,I5)
+ 110 FORMAT(14X,F15.5)
+ 120 FORMAT(14X,F8.2)
+ 130 FORMAT(1534(1X,F8.2))
+ncols 1534
+nrows 1502
+xllcorner -3616156.5
+yllcorner -3644063.04465
+cellsize 5000
+NODATA_value -9999
+ 10 READ (5,100,END=999) COUNTRY, COUNTRY_NO, ADMP, ADMP_NM,
+ 1 PD60, PD70, PD80, PD90, LANDAREA
+ GOTO 10
+C
+ 100 FORMAT(A30,I5,I4,A40,4F8.3,I10)
+Water 0 0 0 0 0 0 0
+Mauritania 136 287 TIRIS_ZEMOUR 0.058 0.077 0.106 0.148 252900
+Mali 133 275 TOMBOUCTOU -1 -1 1.215 1.236 408977
+Water 0 0 0 0 0 0 0
+Niger 158 306 AGADEZ -1 0.111 0.196 0.334 714790
+Chad 39 74 BET 0.119 0.138 0.147 0.17 600350
+Mauritania 136 283 ADRAR 0.326 0.301 0.253 0.161 215300
+Mauritania 136 278 HODH_CHARKI 0.986 0.953 0.877 0.71 182700
+Sudan 206 387 NORTH_REGION -1 1.942 2.176 2.339 477405
+Sudan 206 388 EAST_REGION -1 4.28 5.952 8.273 334331
+Mozambique 144 296 INHAMBANE 9.594 12.542 14.517 17.591 68615
+Botswana 20 18 KGALAGADI 0.142 0.157 0.217 0.286 106940
+Botswana 20 20 KWENENG 1.9 2.027 3.096 4.419 35890
+Botswana 20 19 KGATLENG 3.57 4.295 5.445 6.757 7960
+Botswana 20 23 NGWAKETSE 2.246 2.812 3.863 5.237 27370
+Mozambique 144 298 CID_MAPUTO_MAPUTO_PROV 18.545 34.664 47.177 69.288 26358
+Botswana 20 24 BAROLONG_SOUTH_EAST 10.397 21.905 40.573 71.489 2880
+Mozambique 144 298 CID_MAPUTO_MAPUTO_PROV 18.545 34.664 47.177 69.288 26358
+Zimbabwe 181 337 MATABELELAND_NORTH -1 8.159 11.329 15.806 73537
+Zimbabwe 181 339 MIDLANDS -1 13.191 17.577 23.54 58967
+ 10 READ (5,100,END=999) COUNTRY, CNTRY_NO, TOTCELL,
+ 1 TOTAREA, CFAREA, OFAREA, CFBIO, OFBIO,
+ 1 TOTBIO, FOREST
+ GOTO 10
+C
+ 100 FORMAT(A30,I5,I11,I10,2I9,2F12.1,F12.4,F12.1)
+Angola 7 50127 1253175 66750 1063775 109.4 69.7 8144.76 90.2
+Botswana 20 23195 579875 0 101800 0 13.1 133.36 17.6
+Burundi 29 1021 25525 2575 6900 57.1 40.3 42.51 37.1
+Cameroon 32 18529 463225 221750 182500 297.5 120 8787.06 87.3
+Central African Republic 37 24856 621400 105425 515850 262.9 185.7 12350.96 100
+Chad 39 50635 1265875 0 316825 0 38 1203.94 25
+Congo 46 13841 346025 247675 375 344.9 36.4 8543.68 71.7
+Benin 53 4664 116600 4325 103675 75.6 56.4 617.42 92.6
+Equatorial Guinea 61 1072 26800 24725 0 318 0 786.26 92.3
+Ethiopia 62 49920 1248000 375450 325400 65.3 35.6 3610.11 56.2
+Senegal 195 7916 197900 13500 63975 52.8 25.8 236.34 39.1
+Sierra Leone 197 2899 72475 30875 28400 220.6 174.9 1177.82 81.8
+Somalia 201 25573 639325 350 165675 11.4 12.4 205.84 26
+Sudan 206 99743 2493575 5425 737150 134 63 4716.74 29.8
+Tanzania 215 35629 890725 5550 529800 73.5 48.6 2615.62 60.1
+Togo 217 2297 57425 725 49575 40.9 71.7 358.42 87.6
+Uganda 226 8204 205100 12075 131825 124 101.7 1490.39 70.2
+Burkina Faso 233 10957 273925 0 97375 0 34 331.08 35.5
+Zaire 250 92433 2310825 1860300 378175 223.9 118.2 46122.15 96.9
+Zambia 251 29846 746150 47250 579650 45.9 52.3 3248.45 84
+EXP 0 /DATA4/OZ1/CDIAC/NDP-055/NEW_E00/BIOMAX.E00
+GRD 2
+ 1534 1502 1-0.21474836470000E+10
+ 0.50000000000000E+04 0.50000000000000E+04
+-0.36161565000000E+07-0.36440630446500E+07
+ 0.40538435000000E+07 0.38659369553500E+07
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ 42 90055
+ 75 91074
+ 150 99339
+ 250 81883
+ 350 64032
+ 425 37550
+ 475 17970
+ 500 2264
+EOI
+EOS
+EXP 0 /DATA4/OZ1/CDIAC/NDP-055/NEW_E00/LAND.E00
+GRD 2
+ 1534 1502 1-0.21474836470000E+10
+ 0.50000000000000E+04 0.50000000000000E+04
+-0.36161565000000E+07-0.36440630446500E+07
+ 0.40538435000000E+07 0.38659369553500E+07
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+LAND.VAT XX 2 2 8 5
+VALUE 4-1 14-1 10-1 50-1 -1 -1-1 1I
+COUNT 4-1 54-1 10-1 50-1 -1 -1-1 2-
+ -9999 1105588
+ 1 175811
+ 2 346001
+ 3 157539
+ 4 519129
+EOI
+EOS
+EXP 0 /DATA4/OZ1/CDIAC/NDP-055/NEW_E00/PD80.E00
+GRD 2
+ 1534 1502 2-0.34028234663853E+39
+ 0.50000000000000E+04 0.50000000000000E+04
+-0.36161565000000E+07-0.36440630446500E+07
+ 0.40538435000000E+07 0.38659369553500E+07
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+IFO 2
+PD80.STA XX 4 4 32 1
+MIN 8-1 14-1 15 3 60-1 -1 -1-1 1-
+MAX 8-1 94-1 15 3 60-1 -1 -1-1 2-
+MEAN 8-1 174-1 15 3 60-1 -1 -1-1 3-
+STDV 8-1 254-1 15 3 60-1 -1 -1-1 4-
+-9.99900000000000000E+03 2.19550610351562500E+03-4.78676211358813089E+03 5.00127
+655918892469E+03
+EOI
+EOS
+EXP 0 /DATA4/OZ1/CDIAC/NDP-055/NEW_E00/LAKES.E00
+GRD 2
+ 1534 1502 1-0.21474836470000E+10
+ 0.50000000000000E+04 0.50000000000000E+04
+-0.36161565000000E+07-0.36440630446500E+07
+ 0.40538435000000E+07 0.38659369553500E+07
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+STDV 8-1 254-1 15 3 60-1 -1 -1-1 4-
+-9.99900000000000000E+03 4.00000000000000000E+00-9.95541616610273741E+03 6.58839
+540326123597E+02
+LAKES.VAT XX 2 2 8 2
+VALUE 4-1 14-1 10-1 50-1 -1 -1-1 1I
+COUNT 4-1 54-1 10-1 50-1 -1 -1-1 2-
+ -9999 2294029
+ 4 10039
+EOI
+EOS
+EXP 0 /DATA4/OZ1/CDIAC/NDP-055/NEW_E00/BIO1980.E00
+GRD 2
+ 1534 1502 2-0.34028234663853E+39
+ 0.50000000000000E+04 0.50000000000000E+04
+-0.36161565000000E+07-0.36440630446500E+07
+ 0.40538435000000E+07 0.38659369553500E+07
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+IFO 2
+BIO1980.STA XX 4 4 32 1
+MIN 8-1 14-1 15 3 60-1 -1 -1-1 1-
+MAX 8-1 94-1 15 3 60-1 -1 -1-1 2-
+MEAN 8-1 174-1 15 3 60-1 -1 -1-1 3-
+STDV 8-1 254-1 15 3 60-1 -1 -1-1 4-
+-9.99900000000000000E+03 4.66339996337890625E+02-7.86027052510779868E+03 4.13001
+816239345681E+03
+EOI
+EOS
+ real xllcornr, yllcornr
+ integer ka
+ integer ncols, nrows, csize, nodata
+ dimension ka(2304068)
+ open(unit=5,file='biomax.asc',status='old',access='sequential')
+ open(unit=6,file='biomax.out',status='new',access='sequential')
+ read (5,100) ncols
+ read (5,100) nrows
+ read (5,110) xllcornr
+ read (5,110) yllcornr
+ read (5,100) csize
+ read (5,120) nodata
+ write (6,200) ncols, nrows, xllcornr, yllcornr,
+ 1 csize, nodata
+ do k=1,1502
+ read (5,*) (ka(j),j=1,1534)
+ write(6,*) (ka(j),j=1,1534)
+ enddo
+ continue
+100 format (14x,i5)
+105 format (14x,f10.1)
+110 format (14x,f14.5)
+120 format (14x,i5)
+200 format (1x,i5,/,1x,i5,/,1x,f10.1,/,1x,f15.5,/,1x,i5,/,1x,i5)
+999 close(unit=5)
+ close(unit=6)
+ stop
+ end
+data in;
+infile 'path and file name' firstobs=7 linesize=9203;
+input varname@@;
+run;
+ real xllcornr, yllcornr, xa
+ integer ncols, nrows, csize, nodata
+ dimension xa(2304068)
+ open(unit=5,file='bio1980.asc',status='old',access='sequential')
+ open(unit=6,file='bio1980.out',status='new',access='sequential')
+ read (5,100) ncols
+ read (5,100) nrows
+ read (5,110) xllcornr
+ read (5,110) yllcornr
+ read (5,100) csize
+ read (5,120) nodata
+ write (6,200) ncols, nrows, xllcornr, yllcornr,
+ 1 csize, nodata
+ do x=1,1502
+ read (5,*) (xa(j),j=1,1534)
+ write(6,*) (xa(j),j=1,1534)
+ enddo
+ continue
+100 format (14x,i5)
+105 format (14x,f10.1)
+110 format (14x,f14.5)
+120 format (14x,i5)
+200 format (1x,i5,/,1x,i5,/,1x,f10.1,/,1x,f15.5,/,1x,i5,/,1x,i5)
+999 close(unit=5)
+ close(unit=6)
+ stop
+ end
+data in;
+infile 'path and file name' firstobs=7 linesize=13805;
+input varname@@;
+run;
+ character cntry*30, aname*40
+ integer cntryn, admp, larea
+ real pd60, pd70, pd80, pd90
+ open(unit=5,file='t_afr.asc',status='old',access='sequential')
+ open(unit=6,file='t_afr.out',status='new',access='sequential')
+5 read (5,100, end=999) cntry, cntryn, admp, aname, pd60, pd70,
+ 1 pd80, pd90, larea
+10 write (6,100) cntry, cntryn, admp, aname, pd60, pd70,
+ 1 pd80, pd90, larea
+ goto 5
+100 format (a30,1x,i5,1x,i4,1x,a39,1x,f8.3,1x,f8.3,
+ 1 1x,f8.3,1x,f8.3,1x,i8)
+999 close(unit=5)
+ close(unit=6)
+ stop
+ end
+data in;
+infile 't_afr.asc';
+input country $ 1-30 cntry_no 32-36 admp 38-41
+ admp_nm 43-82 pd60 84-91 pd70 93-100
+ pd80 102-109 pd90 111-118 landarea 120-129;
+proc print;
+run;
+ character cntry*30
+ integer cntryn, tcell, tarea, carea, oarea
+ real cbio, obio, tbio, forest
+ open(unit=5,file='africa.asc',status='old',access='sequential')
+ open(unit=6,file='africa.out',status='new',access='sequential')
+5 read (5,100, end=999) cntry, cntryn, tcell, tarea, carea,
+ 1 oarea, cbio, obio, tbio, forest
+10 write (6,100) cntry, cntryn, tcell, tarea, carea,
+ 1 oarea, cbio, obio, tbio, forest
+ goto 5
+100 format (a30,1x,i5,1x,i11,1x,i10,1x,i9,1x,i9,
+ 1 1x,f12.1,1x,f12.1,1x,f12.2,1x,f12.1)
+999 close(unit=5)
+ close(unit=6)
+ stop
+ end
+data in;
+infile 'africa.asc';
+input country $ 1-30 cntry_no 32-36 tcell 38-48
+ tarea 50-60 carea 62-70 oarea 72-80
+ cbio 82-95 obio 97-110 tbio 112-126
+ forest 128-41;
+proc print;
+run;
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164800 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_055.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.ndp055]]></Product_number>
+      <Product_title><![CDATA[Tropical Africa: Land Use, Biomass, and Carbon Estimates for 1980]]></Product_title>
+      <Author>
+        <Name><![CDATA[Brown, S.]]></Name>
+        <Company><![CDATA[U.S. Environmental Protection Agency]]></Company>
+        <Organization><![CDATA[NHEERL - Western Ecology Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Gaston, G.]]></Name>
+        <Company><![CDATA[U.S. Environmental Protection Agency]]></Company>
+        <Organization><![CDATA[NHEERL - Western Ecology Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Tropical Africa]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp055/ndp055.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/bio1980.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/bio1980.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/biomax.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/biomax.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/country.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/country.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/lakes.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/lakes.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/land.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/land.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/pd80.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/pd80.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/popden.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/popden.e00 ]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/sum1980.asc]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[ADMP]]></Variable>
+      <Variable><![CDATA[CNTRYNUM]]></Variable>
+      <Variable><![CDATA[COLS]]></Variable>
+      <Variable><![CDATA[CSIZE]]></Variable>
+      <Variable><![CDATA[LANDAREA]]></Variable>
+      <Variable><![CDATA[NAME]]></Variable>
+      <Variable><![CDATA[NODATA]]></Variable>
+      <Variable><![CDATA[NROWS]]></Variable>
+      <Variable><![CDATA[NUM X]]></Variable>
+      <Variable><![CDATA[PD60]]></Variable>
+      <Variable><![CDATA[PD70]]></Variable>
+      <Variable><![CDATA[PD80]]></Variable>
+      <Variable><![CDATA[PD90]]></Variable>
+      <Variable><![CDATA[REGNAME]]></Variable>
+      <Variable><![CDATA[VALUE]]></Variable>
+      <Variable><![CDATA[XLLCORNR]]></Variable>
+      <Variable><![CDATA[YLLCORNR]]></Variable>
+      <Variable><![CDATA[YNCOLS]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp055/ndp055.htmlWork on this project was initiated while at the
+Department of Natural Resources and Environmental Sciences
+University of Illinois
+Urbana, Illinois
+, Arlington, Virgina.
+Oak Ridge, Tennessee 37831-6290
+under contract DE-AC05-00OR22725
+CDIAC = Carbon Dioxide Information Analysis Center
+FTP = file transfer protocol
+NDP = numeric data package
+QA = quality assurance
+GCM = General Circulation Model
+UNEP = United Nations' Environmental Program
+FAO = United Nations' Food And Agriculture Organization
+GIS = geographic information system
+PBD = potential biomass density
+ARC/INFO is a registered trademark of the Environmental Systems Research Institute, Inc., Redlands, CA 92372.
+Keywords: Carbon release, climate change, deforestation, forestry, population.
+PD &gt; 12: DR = 0.847 - 0.091 ln (PD), (n = 25, r = 0.72), (1a)
+PD &le; 12: DR = 1 - 0.032 PD, (1b)
+PD &gt; 7: DR = 0.866 - 0.118 ln (PD), (n = 10, r = 0.54), (2a)
+PD &le; 7: DR = 1 - 0.050 PD, (2b)
+where DR is the degradation ratio and PD is the population density in people
+per km
+PD &gt; 12: DR = 0.847 0.091 ln (PD), (n = 25, r = 0.72), (1a)
+PD &le; 12: DR = 1 - 0.032 PD . (1b)
+PD &gt; 7: DR = 0.866 0.118 ln (PD), (n = 10, r = 0.54), (2a)
+PD &le; 7: DR = 1 - 0.050 PD . (2b)
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+P.O. Box 2008
+Oak Ridge, Tennessee 37831-6290, U.S.A.
+Telephone: 1-865-574-3645
+Telefax: 1-865-574-2232
+ READ (5,100) NCOLS
+ READ (5,100) NROWS
+ READ (5,110) XLLCORNR
+ READ (5,110) YLLCORNR
+ READ (5,100) CSIZE
+ READ (5,100) NODATA
+ DO 10 ROWS = 1, NROWS
+ READ (5,120) (VALUE(ROWS,COLS), COLS=1, NCOLS)
+ 10 CONTINUE
+C
+ 100 FORMAT(14X,I5)
+ 110 FORMAT(14X,F15.5)
+ 120 FORMAT(1534(1X,I5))
+ncols 1534
+nrows 1502
+xllcorner -3616156.5
+yllcorner -3644063.04465
+cellsize 5000
+NODATA_value -9999
+ READ (5,100) NCOLS
+ READ (5,100) NROWS
+ READ (5,110) XLLCORNR
+ READ (5,110) YLLCORNR
+ READ (5,100) CSIZE
+ READ (5,120) NODATA
+ DO 10 ROWS = 1, NROWS
+ READ (5,130) (VALUE(ROWS,COLS), COLS=1, NCOLS)
+ 10 CONTINUE
+C
+ 100 FORMAT(14X,I5)
+ 110 FORMAT(14X,F15.5)
+ 120 FORMAT(14X,F8.2)
+ 130 FORMAT(1534(1X,F8.2))
+ncols 1534
+nrows 1502
+xllcorner -3616156.5
+yllcorner -3644063.04465
+cellsize 5000
+NODATA_value -9999
+ 10 READ (5,100,END=999) COUNTRY, COUNTRY_NO, ADMP, ADMP_NM,
+ 1 PD60, PD70, PD80, PD90, LANDAREA
+ GOTO 10
+C
+ 100 FORMAT(A30,I5,I4,A40,4F8.3,I10)
+Water 0 0 0 0 0 0 0
+Mauritania 136 287 TIRIS_ZEMOUR 0.058 0.077 0.106 0.148 252900
+Mali 133 275 TOMBOUCTOU -1 -1 1.215 1.236 408977
+Water 0 0 0 0 0 0 0
+Niger 158 306 AGADEZ -1 0.111 0.196 0.334 714790
+Chad 39 74 BET 0.119 0.138 0.147 0.17 600350
+Mauritania 136 283 ADRAR 0.326 0.301 0.253 0.161 215300
+Mauritania 136 278 HODH_CHARKI 0.986 0.953 0.877 0.71 182700
+Sudan 206 387 NORTH_REGION -1 1.942 2.176 2.339 477405
+Sudan 206 388 EAST_REGION -1 4.28 5.952 8.273 334331
+Mozambique 144 296 INHAMBANE 9.594 12.542 14.517 17.591 68615
+Botswana 20 18 KGALAGADI 0.142 0.157 0.217 0.286 106940
+Botswana 20 20 KWENENG 1.9 2.027 3.096 4.419 35890
+Botswana 20 19 KGATLENG 3.57 4.295 5.445 6.757 7960
+Botswana 20 23 NGWAKETSE 2.246 2.812 3.863 5.237 27370
+Mozambique 144 298 CID_MAPUTO_MAPUTO_PROV 18.545 34.664 47.177 69.288 26358
+Botswana 20 24 BAROLONG_SOUTH_EAST 10.397 21.905 40.573 71.489 2880
+Mozambique 144 298 CID_MAPUTO_MAPUTO_PROV 18.545 34.664 47.177 69.288 26358
+Zimbabwe 181 337 MATABELELAND_NORTH -1 8.159 11.329 15.806 73537
+Zimbabwe 181 339 MIDLANDS -1 13.191 17.577 23.54 58967
+ 10 READ (5,100,END=999) COUNTRY, CNTRY_NO, TOTCELL,
+ 1 TOTAREA, CFAREA, OFAREA, CFBIO, OFBIO,
+ 1 TOTBIO, FOREST
+ GOTO 10
+C
+ 100 FORMAT(A30,I5,I11,I10,2I9,2F12.1,F12.4,F12.1)
+Angola 7 50127 1253175 66750 1063775 109.4 69.7 8144.76 90.2
+Botswana 20 23195 579875 0 101800 0 13.1 133.36 17.6
+Burundi 29 1021 25525 2575 6900 57.1 40.3 42.51 37.1
+Cameroon 32 18529 463225 221750 182500 297.5 120 8787.06 87.3
+Central African Republic 37 24856 621400 105425 515850 262.9 185.7 12350.96 100
+Chad 39 50635 1265875 0 316825 0 38 1203.94 25
+Congo 46 13841 346025 247675 375 344.9 36.4 8543.68 71.7
+Benin 53 4664 116600 4325 103675 75.6 56.4 617.42 92.6
+Equatorial Guinea 61 1072 26800 24725 0 318 0 786.26 92.3
+Ethiopia 62 49920 1248000 375450 325400 65.3 35.6 3610.11 56.2
+Senegal 195 7916 197900 13500 63975 52.8 25.8 236.34 39.1
+Sierra Leone 197 2899 72475 30875 28400 220.6 174.9 1177.82 81.8
+Somalia 201 25573 639325 350 165675 11.4 12.4 205.84 26
+Sudan 206 99743 2493575 5425 737150 134 63 4716.74 29.8
+Tanzania 215 35629 890725 5550 529800 73.5 48.6 2615.62 60.1
+Togo 217 2297 57425 725 49575 40.9 71.7 358.42 87.6
+Uganda 226 8204 205100 12075 131825 124 101.7 1490.39 70.2
+Burkina Faso 233 10957 273925 0 97375 0 34 331.08 35.5
+Zaire 250 92433 2310825 1860300 378175 223.9 118.2 46122.15 96.9
+Zambia 251 29846 746150 47250 579650 45.9 52.3 3248.45 84
+EXP 0 /DATA4/OZ1/CDIAC/NDP-055/NEW_E00/BIOMAX.E00
+GRD 2
+ 1534 1502 1-0.21474836470000E+10
+ 0.50000000000000E+04 0.50000000000000E+04
+-0.36161565000000E+07-0.36440630446500E+07
+ 0.40538435000000E+07 0.38659369553500E+07
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ 42 90055
+ 75 91074
+ 150 99339
+ 250 81883
+ 350 64032
+ 425 37550
+ 475 17970
+ 500 2264
+EOI
+EOS
+EXP 0 /DATA4/OZ1/CDIAC/NDP-055/NEW_E00/LAND.E00
+GRD 2
+ 1534 1502 1-0.21474836470000E+10
+ 0.50000000000000E+04 0.50000000000000E+04
+-0.36161565000000E+07-0.36440630446500E+07
+ 0.40538435000000E+07 0.38659369553500E+07
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+LAND.VAT XX 2 2 8 5
+VALUE 4-1 14-1 10-1 50-1 -1 -1-1 1I
+COUNT 4-1 54-1 10-1 50-1 -1 -1-1 2-
+ -9999 1105588
+ 1 175811
+ 2 346001
+ 3 157539
+ 4 519129
+EOI
+EOS
+EXP 0 /DATA4/OZ1/CDIAC/NDP-055/NEW_E00/PD80.E00
+GRD 2
+ 1534 1502 2-0.34028234663853E+39
+ 0.50000000000000E+04 0.50000000000000E+04
+-0.36161565000000E+07-0.36440630446500E+07
+ 0.40538435000000E+07 0.38659369553500E+07
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+IFO 2
+PD80.STA XX 4 4 32 1
+MIN 8-1 14-1 15 3 60-1 -1 -1-1 1-
+MAX 8-1 94-1 15 3 60-1 -1 -1-1 2-
+MEAN 8-1 174-1 15 3 60-1 -1 -1-1 3-
+STDV 8-1 254-1 15 3 60-1 -1 -1-1 4-
+-9.99900000000000000E+03 2.19550610351562500E+03-4.78676211358813089E+03 5.00127
+655918892469E+03
+EOI
+EOS
+EXP 0 /DATA4/OZ1/CDIAC/NDP-055/NEW_E00/LAKES.E00
+GRD 2
+ 1534 1502 1-0.21474836470000E+10
+ 0.50000000000000E+04 0.50000000000000E+04
+-0.36161565000000E+07-0.36440630446500E+07
+ 0.40538435000000E+07 0.38659369553500E+07
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+ -9999 -9999 -9999 -9999 -9999
+STDV 8-1 254-1 15 3 60-1 -1 -1-1 4-
+-9.99900000000000000E+03 4.00000000000000000E+00-9.95541616610273741E+03 6.58839
+540326123597E+02
+LAKES.VAT XX 2 2 8 2
+VALUE 4-1 14-1 10-1 50-1 -1 -1-1 1I
+COUNT 4-1 54-1 10-1 50-1 -1 -1-1 2-
+ -9999 2294029
+ 4 10039
+EOI
+EOS
+EXP 0 /DATA4/OZ1/CDIAC/NDP-055/NEW_E00/BIO1980.E00
+GRD 2
+ 1534 1502 2-0.34028234663853E+39
+ 0.50000000000000E+04 0.50000000000000E+04
+-0.36161565000000E+07-0.36440630446500E+07
+ 0.40538435000000E+07 0.38659369553500E+07
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04-0.9999000E+04
+IFO 2
+BIO1980.STA XX 4 4 32 1
+MIN 8-1 14-1 15 3 60-1 -1 -1-1 1-
+MAX 8-1 94-1 15 3 60-1 -1 -1-1 2-
+MEAN 8-1 174-1 15 3 60-1 -1 -1-1 3-
+STDV 8-1 254-1 15 3 60-1 -1 -1-1 4-
+-9.99900000000000000E+03 4.66339996337890625E+02-7.86027052510779868E+03 4.13001
+816239345681E+03
+EOI
+EOS
+ real xllcornr, yllcornr
+ integer ka
+ integer ncols, nrows, csize, nodata
+ dimension ka(2304068)
+ open(unit=5,file='biomax.asc',status='old',access='sequential')
+ open(unit=6,file='biomax.out',status='new',access='sequential')
+ read (5,100) ncols
+ read (5,100) nrows
+ read (5,110) xllcornr
+ read (5,110) yllcornr
+ read (5,100) csize
+ read (5,120) nodata
+ write (6,200) ncols, nrows, xllcornr, yllcornr,
+ 1 csize, nodata
+ do k=1,1502
+ read (5,*) (ka(j),j=1,1534)
+ write(6,*) (ka(j),j=1,1534)
+ enddo
+ continue
+100 format (14x,i5)
+105 format (14x,f10.1)
+110 format (14x,f14.5)
+120 format (14x,i5)
+200 format (1x,i5,/,1x,i5,/,1x,f10.1,/,1x,f15.5,/,1x,i5,/,1x,i5)
+999 close(unit=5)
+ close(unit=6)
+ stop
+ end
+data in;
+infile 'path and file name' firstobs=7 linesize=9203;
+input varname@@;
+run;
+ real xllcornr, yllcornr, xa
+ integer ncols, nrows, csize, nodata
+ dimension xa(2304068)
+ open(unit=5,file='bio1980.asc',status='old',access='sequential')
+ open(unit=6,file='bio1980.out',status='new',access='sequential')
+ read (5,100) ncols
+ read (5,100) nrows
+ read (5,110) xllcornr
+ read (5,110) yllcornr
+ read (5,100) csize
+ read (5,120) nodata
+ write (6,200) ncols, nrows, xllcornr, yllcornr,
+ 1 csize, nodata
+ do x=1,1502
+ read (5,*) (xa(j),j=1,1534)
+ write(6,*) (xa(j),j=1,1534)
+ enddo
+ continue
+100 format (14x,i5)
+105 format (14x,f10.1)
+110 format (14x,f14.5)
+120 format (14x,i5)
+200 format (1x,i5,/,1x,i5,/,1x,f10.1,/,1x,f15.5,/,1x,i5,/,1x,i5)
+999 close(unit=5)
+ close(unit=6)
+ stop
+ end
+data in;
+infile 'path and file name' firstobs=7 linesize=13805;
+input varname@@;
+run;
+ character cntry*30, aname*40
+ integer cntryn, admp, larea
+ real pd60, pd70, pd80, pd90
+ open(unit=5,file='t_afr.asc',status='old',access='sequential')
+ open(unit=6,file='t_afr.out',status='new',access='sequential')
+5 read (5,100, end=999) cntry, cntryn, admp, aname, pd60, pd70,
+ 1 pd80, pd90, larea
+10 write (6,100) cntry, cntryn, admp, aname, pd60, pd70,
+ 1 pd80, pd90, larea
+ goto 5
+100 format (a30,1x,i5,1x,i4,1x,a39,1x,f8.3,1x,f8.3,
+ 1 1x,f8.3,1x,f8.3,1x,i8)
+999 close(unit=5)
+ close(unit=6)
+ stop
+ end
+data in;
+infile 't_afr.asc';
+input country $ 1-30 cntry_no 32-36 admp 38-41
+ admp_nm 43-82 pd60 84-91 pd70 93-100
+ pd80 102-109 pd90 111-118 landarea 120-129;
+proc print;
+run;
+ character cntry*30
+ integer cntryn, tcell, tarea, carea, oarea
+ real cbio, obio, tbio, forest
+ open(unit=5,file='africa.asc',status='old',access='sequential')
+ open(unit=6,file='africa.out',status='new',access='sequential')
+5 read (5,100, end=999) cntry, cntryn, tcell, tarea, carea,
+ 1 oarea, cbio, obio, tbio, forest
+10 write (6,100) cntry, cntryn, tcell, tarea, carea,
+ 1 oarea, cbio, obio, tbio, forest
+ goto 5
+100 format (a30,1x,i5,1x,i11,1x,i10,1x,i9,1x,i9,
+ 1 1x,f12.1,1x,f12.1,1x,f12.2,1x,f12.1)
+999 close(unit=5)
+ close(unit=6)
+ stop
+ end
+data in;
+infile 'africa.asc';
+input country $ 1-30 cntry_no 32-36 tcell 38-48
+ tarea 50-60 carea 62-70 oarea 72-80
+ cbio 82-95 obio 97-110 tbio 112-126
+ forest 128-41;
+proc print;
+run;
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/ndp055.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/country.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/country.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/intgrid.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/intgrid.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/popden.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/popden.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/realgrid.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/realgrid.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/sum1980.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/sum1980.sas ]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19960601]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19960601]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp055/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[215MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This document describes the contents of a digital database containing maximum potential aboveground biomass, land use, and estimated biomass and carbon data for 1980. The biomass data and carbon estimates are associated with woody vegetation in Tropical Africa. These data were collected to reduce the uncertainty associated with estimating historical releases of carbon from land use change. Tropical Africa is defined here as encompassing 22.7 x 106 km2 of the earth's land surface and is comprised of countries that are located in tropical Africa (Angola, Botswana, Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Congo, Benin, Equatorial Guinea, Ethiopia, Djibouti, Gabon, Gambia, Ghana, Guinea, Ivory Coast, Kenya, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Namibia, Niger, Nigeria, Guinea-Bissau, Zimbabwe (Rhodesia), Rwanda, Senegal, Sierra Leone, Somalia, Sudan, Tanzania, Togo, Uganda, Burkina Faso (Upper Volta), Zaire, and Zambia).
+<br><br>
+ The database was developed using the GRID module in the ARC/INFO^TM geographic information system. Source data were obtained from the Food and Agriculture Organization (FAO), the U.S. National Geophysical Data Center, and a limited number of biomass-carbon density case studies. These data were used to derive the maximum potential and actual (ca. 1980) aboveground biomass values at regional and country levels. The land-use data provided were derived from a vegetation map originally produced for the FAO by the International Institute of Vegetation Mapping, Toulouse, France.
+<br><br>
+ Analyses conducted with this database found that 18% of Tropical Africa was classified as closed forest and 36% was classified as open forest in 1980. Forested lands contained over 138 x 109 Mg of aboveground live biomass, which is equivalent to 69 x 109 Mg of carbon. Closed forests and open forests had mean aboveground biomass values of 209 Mg/ha and 67 Mg/ha, respectively, in 1980. These values are down from maximum potential aboveground live biomass values of 296 Mg/ha for closed forest and 108 Mg/ha for open forest.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

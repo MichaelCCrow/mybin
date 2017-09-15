@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Lamb, M. F.]]></origin>
+        <origin><![CDATA[Feely, R. A.]]></origin>
+        <origin><![CDATA[Moore, L.]]></origin>
+        <origin><![CDATA[Atwood, D. K.]]></origin>
+        <title><![CDATA[Total CO2, Hydrographic, and Nitrate Measurements in the Southwest Pacific during Austral Autumn, 1990: Results from NOAA/PMEL CGC-90 Cruise]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp052/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Total CO2, Hydrographic, and Nitrate Measurements in the Southwest Pacific during Austral Autumn, 1990: Results from NOAA/PMEL CGC-90 Cruise]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19900224]]></begdate>
+          <enddate><![CDATA[19900412]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-179.998]]></westbc>
+        <eastbc><![CDATA[-169.503]]></eastbc>
+        <northbc><![CDATA[5.001]]></northbc>
+        <southbc><![CDATA[-60.010]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[hydrographic]]></themekey>
+        <themekey><![CDATA[nitrate measurements]]></themekey>
+        <themekey><![CDATA[potential density]]></themekey>
+        <themekey><![CDATA[potential temperature]]></themekey>
+        <themekey><![CDATA[salinity]]></themekey>
+        <themekey><![CDATA[temperature]]></themekey>
+        <themekey><![CDATA[nitrate measurements]]></themekey>
+        <themekey><![CDATA[southwest Pacific]]></themekey>
+        <themekey><![CDATA[NOAA/PMEL CGC-90 Cruise]]></themekey>
+        <themekey><![CDATA[NDP-052]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 123033</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 143827 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[hydrographic]]></Keywords>
+    <Keywords><![CDATA[nitrate measurements]]></Keywords>
+    <Keywords><![CDATA[potential density]]></Keywords>
+    <Keywords><![CDATA[potential temperature]]></Keywords>
+    <Keywords><![CDATA[salinity]]></Keywords>
+    <Keywords><![CDATA[temperature]]></Keywords>
+    <Keywords><![CDATA[nitrate measurements]]></Keywords>
+    <Keywords><![CDATA[southwest Pacific]]></Keywords>
+    <Keywords><![CDATA[NOAA/PMEL CGC-90 Cruise]]></Keywords>
+    <Keywords><![CDATA[NDP-052]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 143827 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp052]]></Product_number>
+      <Product_title><![CDATA[Total CO2, Hydrographic, and Nitrate Measurements in the Southwest Pacific during Austral Autumn, 1990: Results from NOAA/PMEL CGC-90 Cruise]]></Product_title>
+      <Author>
+        <Name><![CDATA[Lamb, M. F.]]></Name>
+        <Company><![CDATA[Pacific Marine Environmental Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Feely, R. A.]]></Name>
+        <Company><![CDATA[Pacific Marine Environmental Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Moore, L.]]></Name>
+        <Company><![CDATA[Atlantic Oceanographic and Meteorological Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Atwood, D. K.]]></Name>
+        <Company><![CDATA[Atlantic Oceanographic and Meteorological Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Southwest Pacific Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_052/ndp052.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp052/cgc90.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp052/cgc90sta.inv]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[botsal]]></Variable>
+      <Variable><![CDATA[cast]]></Variable>
+      <Variable><![CDATA[ctdsal]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[dep]]></Variable>
+      <Variable><![CDATA[lat]]></Variable>
+      <Variable><![CDATA[lon]]></Variable>
+      <Variable><![CDATA[no3]]></Variable>
+      <Variable><![CDATA[pres]]></Variable>
+      <Variable><![CDATA[qcfl]]></Variable>
+      <Variable><![CDATA[samp]]></Variable>
+      <Variable><![CDATA[sigma]]></Variable>
+      <Variable><![CDATA[sigmat]]></Variable>
+      <Variable><![CDATA[sta]]></Variable>
+      <Variable><![CDATA[tco2]]></Variable>
+      <Variable><![CDATA[temp]]></Variable>
+      <Variable><![CDATA[theta]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_052/ndp052.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp052/ndp052.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp052/cgc90dat.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp052/stainv.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19970430]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19970430]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp052/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[191KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ In support of the National Oceanic and Atmospheric Administration (NOAA) Climate and Global Change (C&amp;GC) Program, Pacific Marine Environmental Laboratory (PMEL) scientists have been measuring the growing burden of greenhouse gases in the thermocline waters of the Pacific Ocean since 1980. Collection of data at a series of hydrographic stations along longitude 170 degrees W during austral autumn of 1990 was designed to enhance understanding of the increase in the column burden of chlorofluorocarbons and carbon dioxide in the thermocline waters since the last expedition in 1984.
+<br><br>
+ This document presents the procedures and methods used to obtain total carbon dioxide (TCO2), hydrographic, and nitrate data during the NOAA/PMEL research vessel (R/V) Malcolm Baldrige CGC-90 Cruise. Data were collected along two legs; sampling for Leg 1 began along 170 degrees W from 15 degrees S to 60 degrees S, then angled northwest toward New Zealand across the Western Boundary Current. Leg 2 included a reoccupation of some stations between 30 degrees S and 15 degrees S on 170 degrees W and measurements from 15 degrees S to 5 degrees N along 170 degrees W. Along the cruise track 68 CTD stations were occupied for collection of chemical and hydrographic data. The following data report summarizes the TCO2, salinity, temperature, and nitrate measurements from 63 stations. In addition, potential density and potential temperature were calculated from the measured variables.
+<br><br>
+ The TCO2 concentration in seawater samples was measured using a coulometric/extraction system (Models 5011 and 5030, respectively) originated by Ken Johnson (Johnson et al. 1985, 1987). Throughout the cruise, the accuracy was determined to be within 0.15%, and the precision was within 0.12%.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

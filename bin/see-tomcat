@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ $# = 1 ]; then
+    tail -f -n $1 /Users/mcu/tomcat7/logs/catalina.out
+else 
+    tail -f /Users/mcu/tomcat7/logs/catalina.out
+fi

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Peiyuan, Z.]]></origin>
+        <origin><![CDATA[Gaofa, G.]]></origin>
+        <origin><![CDATA[Yi, Z.]]></origin>
+        <title><![CDATA[Monthly Summer Temperatures for Beijing]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Long_Term_Proxy_DS_Monthly_Summer_Temp_Beijing.xml]]></onlink>
+        <onlink><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Monthly Summer Temperatures for Beijing]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[17240101]]></begdate>
+          <enddate><![CDATA[19861231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[People's Republic of China]]></themekey>
+        <themekey><![CDATA[Institute of Geography]]></themekey>
+        <themekey><![CDATA[long-term]]></themekey>
+        <themekey><![CDATA[instrumental]]></themekey>
+        <themekey><![CDATA[China]]></themekey>
+        <themekey><![CDATA[1724]]></themekey>
+        <themekey><![CDATA[1986]]></themekey>
+        <themekey><![CDATA[PRC]]></themekey>
+        <themekey><![CDATA[Chinese Academy of Sciences]]></themekey>
+        <themekey><![CDATA[climate]]></themekey>
+        <themekey><![CDATA[Summer]]></themekey>
+        <themekey><![CDATA[Beijing]]></themekey>
+        <themekey><![CDATA[Temperature]]></themekey>
+        <themekey><![CDATA[Month]]></themekey>
+        <themekey><![CDATA[April]]></themekey>
+        <themekey><![CDATA[May]]></themekey>
+        <themekey><![CDATA[June]]></themekey>
+        <themekey><![CDATA[July]]></themekey>
+        <themekey><![CDATA[August]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050809 162300</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 162300 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[People's Republic of China]]></Keywords>
+    <Keywords><![CDATA[Institute of Geography]]></Keywords>
+    <Keywords><![CDATA[long-term]]></Keywords>
+    <Keywords><![CDATA[instrumental]]></Keywords>
+    <Keywords><![CDATA[China]]></Keywords>
+    <Keywords><![CDATA[1724]]></Keywords>
+    <Keywords><![CDATA[1986]]></Keywords>
+    <Keywords><![CDATA[PRC]]></Keywords>
+    <Keywords><![CDATA[Chinese Academy of Sciences]]></Keywords>
+    <Keywords><![CDATA[climate]]></Keywords>
+    <Keywords><![CDATA[Summer]]></Keywords>
+    <Keywords><![CDATA[Beijing]]></Keywords>
+    <Keywords><![CDATA[Temperature]]></Keywords>
+    <Keywords><![CDATA[Month]]></Keywords>
+    <Keywords><![CDATA[April]]></Keywords>
+    <Keywords><![CDATA[May]]></Keywords>
+    <Keywords><![CDATA[June]]></Keywords>
+    <Keywords><![CDATA[July]]></Keywords>
+    <Keywords><![CDATA[August]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 162300 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Long_Term_Proxy_DS_Monthly_Summer_Temp_Beijing.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[Long-Term Proxy Data Sets]]></Product_number>
+      <Product_title><![CDATA[Monthly Summer Temperatures for Beijing]]></Product_title>
+      <Author>
+        <Name><![CDATA[Peiyuan, Z.]]></Name>
+        <Company><![CDATA[Institute of Geography]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Gaofa, G.]]></Name>
+        <Company><![CDATA[Institute of Geography]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Yi, Z.]]></Name>
+        <Company><![CDATA[Institute of Geography]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Long-Term Proxy Data Sets from People's Republic of China]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Beijing]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/beijing.summer.w51.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Month]]></Variable>
+      <Variable><![CDATA[April]]></Variable>
+      <Variable><![CDATA[May]]></Variable>
+      <Variable><![CDATA[June]]></Variable>
+      <Variable><![CDATA[July]]></Variable>
+      <Variable><![CDATA[August]]></Variable>
+      <Variable><![CDATA[Temperature (celsius)]]></Variable>
+      <Descriptive_file></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19910401]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19910401]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  A collaborative research agreement between the Peoples' Republic of China's (PRC) Chinese Academy of Sciences and the United States Department of Energy, signed in August of 1987, has resulted in the compilation and exchange of several data sets that will be useful in reconstructing past climates in China, extending and calibrating instrumental records, and addressing potential CO2-induced global and regional warming.
+<br><br>
+  This report describes one of the twelve PRC proxy data sets exchanged as part of this bilateral agreement.  These derived monthly summer (April - August) temperatures are expressed to the nearest tenth of a degree Celsius.  These records may be used to examine long-term temperature patterns for Beijing and verify the accuracy of Beijing temperature records derived solely from instrumental data.  These monthly summer temperature records for Beijing show no distinct long-term warming or cooling trends but rather short-term variability. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

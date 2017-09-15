@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Strret-Perrott, F. A.]]></origin>
+        <origin><![CDATA[Marchand, D. S.]]></origin>
+        <origin><![CDATA[Roberts, N.]]></origin>
+        <origin><![CDATA[Harrison, S. P.]]></origin>
+        <title><![CDATA[Global Lake-Level Variations from 18,000 to 0 Years Ago: A Palaeoclimatic Analysis]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global Lake-Level Variations from 18,000 to 0 Years Ago: A Palaeoclimatic Analysis]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Global Lake-Level Variations]]></themekey>
+        <themekey><![CDATA[Holocene]]></themekey>
+        <themekey><![CDATA[Cooperative Holocene Mapping Project (COHMAP)]]></themekey>
+        <themekey><![CDATA[Lake Levels]]></themekey>
+        <themekey><![CDATA[Climate]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 152633</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 170213 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Global Lake-Level Variations]]></Keywords>
+    <Keywords><![CDATA[Holocene]]></Keywords>
+    <Keywords><![CDATA[Cooperative Holocene Mapping Project (COHMAP)]]></Keywords>
+    <Keywords><![CDATA[Lake Levels]]></Keywords>
+    <Keywords><![CDATA[Climate]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 170213 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[TR046]]></Product_number>
+      <Product_title><![CDATA[Global Lake-Level Variations from 18,000 to 0 Years Ago: A Palaeoclimatic Analysis]]></Product_title>
+      <Author>
+        <Name><![CDATA[Strret-Perrott, F. A.]]></Name>
+        <Company><![CDATA[Oxford University]]></Company>
+        <Organization><![CDATA[Tropical Palaeoenvironments Research Group, School of Geography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Marchand, D. S.]]></Name>
+        <Company><![CDATA[Oxford University]]></Company>
+        <Organization><![CDATA[Tropical Palaeoenvironments Research Group, School of Geography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Roberts, N.]]></Name>
+        <Company><![CDATA[Oxford University]]></Company>
+        <Organization><![CDATA[Tropical Palaeoenvironments Research Group, School of Geography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Harrison, S. P.]]></Name>
+        <Company><![CDATA[Oxford University]]></Company>
+        <Organization><![CDATA[Tropical Palaeoenvironments Research Group, School of Geography]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Global Lake-Level Variations]]></Thematic_area>
+      <Thematic_area><![CDATA[Clim_offline]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Afghanistan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Algeria]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Argentina]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Australia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Bolivia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Bolivia/Peru]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Botswana]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Burundi/Tanzania/Zambia/Zaire]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Chad]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Chile]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Columbia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Djibouti]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ecuador]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Egypt]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ethiopia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ethiopia/Djibouti]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ethiopia/Kenya]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Finland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ghana]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Greece]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Greenland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Guatemala]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hungary]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[India]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Iran]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Italy]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Jamaica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Jordan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Jordan/Israel]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Kenya]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Libya]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Madagascar]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Malawi]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mali]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauritania]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mexico]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Morocco]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Namibia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[New Zealand]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Niger]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Nigeria/Niger]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Papua New Guinea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Poland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Rwanda/Burundi/Zaire]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Saudi Arabia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Scotland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sinai]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Africa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Soviet Union]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sudan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Syria]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tanzania]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tunisia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Turkey]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Uganda]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Uganda/Tanzania/Kenya]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Uganda/Zaire]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Venezuela]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Zambia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKEDATA.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKELEVL.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/LAKERES.DAT]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/PUBINDEX.DAT]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Brown Master Number (BMN)]]></Variable>
+      <Variable><![CDATA[Basin Number]]></Variable>
+      <Variable><![CDATA[Basin Name, Province or State, Country/Countries]]></Variable>
+      <Variable><![CDATA[Latitude in degrees, minutes, and hemisphere]]></Variable>
+      <Variable><![CDATA[Latitude as a Decimal]]></Variable>
+      <Variable><![CDATA[Longitude in Degrees, minutes and hemisphere]]></Variable>
+      <Variable><![CDATA[Longitude as a decimal]]></Variable>
+      <Variable><![CDATA[Elevation above sea level (m)]]></Variable>
+      <Variable><![CDATA[Country Code (62 codes)]]></Variable>
+      <Variable><![CDATA[Sitetype code (L - Lake)]]></Variable>
+      <Variable><![CDATA[Datatype code (LL - Lake Level)]]></Variable>
+      <Variable><![CDATA[Number of radiocarbon dates]]></Variable>
+      <Variable><![CDATA[Dating control for 18 ka BP]]></Variable>
+      <Variable><![CDATA[Dating control for 15 ka BP]]></Variable>
+      <Variable><![CDATA[Dating control for 12 ka BP]]></Variable>
+      <Variable><![CDATA[Dating control for 9 ka BP]]></Variable>
+      <Variable><![CDATA[Dating control for 6 ka BP]]></Variable>
+      <Variable><![CDATA[Dating control for 3 ka BP]]></Variable>
+      <Variable><![CDATA[Dating method code]]></Variable>
+      <Variable><![CDATA[water depth]]></Variable>
+      <Descriptive_file></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19890901]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19890901]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/hoss/data2/tab/TR046_Paleo_Lake_Levels/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  Lake-Level fluctuations have been recognized as an indicator of climate change on time scales ranging from 10 to 10^6 years.  This is especially true of hydrologically-closed basins in which water-level fluctuations are not damped by varying rates of surface outflow.  Evidence of past fluctuations occurs in a wide variety of forms, ranging from old shorelines and lake-side archaeological sites to geochemical, mineralogical, isotopic and palaeoecological analyses of sediment cores.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Meijer, H.A.J.]]></origin>
+        <origin><![CDATA[Pertuisot, M.H.]]></origin>
+        <origin><![CDATA[van der Plicht, J.]]></origin>
+        <title><![CDATA[High Accuracy 14C Measurements for Atmospheric CO2 Samples from the South Pole and Point Barrow, Alaska by Accelerator Mass Spectrometry]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Meijer_14C.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/BarrowTrendsOnly.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/14CatPtBarrow.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/SouthPoleTrendsOnly.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/SouthPole.txt]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[High Accuracy 14C Measurements for Atmospheric CO2 Samples from the South Pole and Point Barrow, Alaska by Accelerator Mass Spectrometry]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19840321]]></begdate>
+          <enddate><![CDATA[19920106]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-156.18333]]></westbc>
+        <eastbc><![CDATA[-24.8]]></eastbc>
+        <northbc><![CDATA[71.31667]]></northbc>
+        <southbc><![CDATA[-89.98333]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[14C]]></themekey>
+        <themekey><![CDATA[C14]]></themekey>
+        <themekey><![CDATA[Atmospheric C14]]></themekey>
+        <themekey><![CDATA[Atmospheric 14C]]></themekey>
+        <themekey><![CDATA[Atmospheric 14CO2]]></themekey>
+        <themekey><![CDATA[Flask samples]]></themekey>
+        <themekey><![CDATA[Flask sampling]]></themekey>
+        <themekey><![CDATA[accelerator mass spectrometry]]></themekey>
+        <themekey><![CDATA[accelerator mass spectroscopy]]></themekey>
+        <themekey><![CDATA[Center for Isotope Research]]></themekey>
+        <themekey><![CDATA[University of Groningen]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing (blasingtj@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing (blasingtj@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120904 150145</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing (blasingtj@ornl.gov)]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20091202 173450 by 160.91.18.20</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[14C]]></Keywords>
+    <Keywords><![CDATA[C14]]></Keywords>
+    <Keywords><![CDATA[Atmospheric C14]]></Keywords>
+    <Keywords><![CDATA[Atmospheric 14C]]></Keywords>
+    <Keywords><![CDATA[Atmospheric 14CO2]]></Keywords>
+    <Keywords><![CDATA[Flask samples]]></Keywords>
+    <Keywords><![CDATA[Flask sampling]]></Keywords>
+    <Keywords><![CDATA[accelerator mass spectrometry]]></Keywords>
+    <Keywords><![CDATA[accelerator mass spectroscopy]]></Keywords>
+    <Keywords><![CDATA[Center for Isotope Research]]></Keywords>
+    <Keywords><![CDATA[University of Groningen]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+ &#187;&#160;
+CIO C Measurements
+ Centrum voor Isotopen Onderzook (Center for Isotope Research, CIO)
+ University of Groningen
+ The Netherlands
+ measurements from flasks collected at the South Pole and Point Barrow, 
+ Alaska, USA, at the Scripps Institute of Oceanography network station (Keeling et al., 1989) (see also http://www.rug.nl/ees/onderzoek/prog
+ rammas/radiocarbonams/sampleTreatmentAms. The primary literature reference for the material presented here is 
+ Meijer et al. (2006).
+ The statistical analysis included curve fitting described by Cleveland (1979). A seasonal pattern was then fit to the 
+ residuals, and the data are given in terms of these trends and departures from them. Only the trend curves are given in 
+ the &#226;&#128;&#156;Trend Curves Only&#226;&#128;&#157; files for the 
+ On the coast of the Arctic Ocean &#160; &#160; &#160; &#160; &#160; &#160; 89&#186;59&#8217; S, 24&#186;48&#8217; W
+ 71&#186;19&#8217; N, 156&#186;36&#8217; W, 11 m above MSL&#160; &#160; &#160; &#160; 2810 m above MSL
+ C that resulted from nuclear weapons testing during the 1940's, 50's and early 60's. The 
+ seasonal cycle, with a summer peak in both hemispheres is somewhat controversial, but is related to selective uptake of lighter 
+ isotopes during the photosynthetic season and to wind direction as the air passes over different source/sink regions on 
+ its way to the measuring site; fossil carbon emissions contain no C so the transport of air from fossil-carbon source 
+ regions could play a role.
+ Nuclear 
+ Instruments and Methods
+ Journal of the American 
+ Statistical Association
+ Keeling, C.D., R.B. Bacastow, A.F. Carter, S.C. Piper, T.P. Whorf, M. Heimann, W.G. Mook, and H. Roeloffzen 1989. A three-
+ dimensional model of atmospheric CO transport based on observed winds: 1. Analysis of observational data. In D.H. 
+ Peterson (ed.), Aspects of Climate Variability in the Pacific and the Western Americas. 55:165-
+ 235.
+ Levin, I., R. B&#195;&#182;singer, G. Bonani, R.J. Francey, B. Kromer, K.O. M&#195;&#188;nnich, M. Suter, N.B.A. Trivett and W. W&#195;&#182;lfli. 1992. 
+ Radiocarbon in atmospheric carbon dioxide and methane: global distribution and trends. In: Taylor R.E., Long A., Kra 
+ R.S., editors. Radiocarbon After Four Decades. New York: Springer Verlag. p. 503-518.
+ 42(1):69-80.
+ level in mid-latitudes of the Northern Hemisphere (1959-
+ 2003). 
+ Manning, M., D.C. Lowe, W.H. Melhuish, R.J. Sparks, G. Wallace, C.A.M. Brenninkmeijer and R.C. McGill. 1990. The use 
+ of radiocarbon measurements in atmospheric studies. 
+ H 
+ records near Groningen, the Netherlands, with Fruholmen, Norway and Izana, Canary Islands 
+ 37(1):39-50.
+ samples by AMS. 
+ 88(C6): 3621-3642.
+ Randerson, J.T., L.G. Enting, E.A.G. Schuur, K. Caldeira and I.Y. Fung. 2002. Seasonal and latitudinal variability 
+ of troposphere &#226;&#136;&#134;: post bomb contributions from fossil fuels, oceans, the stratosphere, and the terrestrial 
+ biosphere. Global Biogeochemical Cycles 16(4): doi:10.1029/2002GB001876.
+ Roeloffzen, J.C., W.G. Mook, and C.D. Keeling. 1991. Trends and variations in stable carbon isotopes of atmospheric carbon 
+ dioxide. Stable Isotopes in Plant Nutrition, Soil Fertility and Environmental Studies IAEA, Vienna: 601-617.
+ Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National 
+ Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. http://cdiac.esd.ornl.gov/trends/trends.htm Various 
+ contributors.
+ Van der Plicht, J., S. Wijma, A.T. Aerts, M.H, Pertuisot and H.A.J. Meijer. 2000. Status report: the Groningen AMS 
+ facility. 
+ samples from the South Pole and Point Barrow, Alaska, by Accelerator Mass Spectrometry [Radiocarbon 48(3)355-372]. Carbon Dioxide Information Analysis Center, Oak Ridge 
+ National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20091202 173450 by 160.91.18.20</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Meijer_14C.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi]]></Product_number>
+      <Product_title><![CDATA[High Accuracy 14C Measurements for Atmospheric CO2 Samples from the South Pole and Point Barrow, Alaska by Accelerator Mass Spectrometry]]></Product_title>
+      <Author>
+        <Name><![CDATA[Meijer, H.A.J.]]></Name>
+        <Company><![CDATA[Center for Isotope Research (CIO)]]></Company>
+        <Organization><![CDATA[University of Groningen]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pertuisot, M.H.]]></Name>
+        <Company><![CDATA[Center for Isotope Research (CIO)]]></Company>
+        <Organization><![CDATA[University of Groningen]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[van der Plicht, J.]]></Name>
+        <Company><![CDATA[Center for Isotope Research (CIO)]]></Company>
+        <Organization><![CDATA[University of Groningen]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric carbon isotopes]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric 14CO2]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Point Barrow, Alaska, USA]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/meijer/Meijer_14C.html]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/meijer/Meijer_14C.html]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Sample date]]></Variable>
+      <Variable><![CDATA[Smoothed 14CO2 concentration]]></Variable>
+      <Variable><![CDATA[Smoothed seasonal 14CO2 concentration]]></Variable>
+      <Variable><![CDATA[Smoothed total 14CO2 concentration]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/co2/meijer/Meijer_14C.html &#187;&#160;
+ &#187;&#160;
+CIO C Measurements
+ Centrum voor Isotopen Onderzook (Center for Isotope Research, CIO)
+ University of Groningen
+ The Netherlands
+ measurements from flasks collected at the South Pole and Point Barrow, 
+ Alaska, USA, at the Scripps Institute of Oceanography network station (Keeling et al., 1989) (see also http://www.rug.nl/ees/onderzoek/prog
+ rammas/radiocarbonams/sampleTreatmentAms. The primary literature reference for the material presented here is 
+ Meijer et al. (2006).
+ The statistical analysis included curve fitting described by Cleveland (1979). A seasonal pattern was then fit to the 
+ residuals, and the data are given in terms of these trends and departures from them. Only the trend curves are given in 
+ the &#226;&#128;&#156;Trend Curves Only&#226;&#128;&#157; files for the 
+ On the coast of the Arctic Ocean &#160; &#160; &#160; &#160; &#160; &#160; 89&#186;59&#8217; S, 24&#186;48&#8217; W
+ 71&#186;19&#8217; N, 156&#186;36&#8217; W, 11 m above MSL&#160; &#160; &#160; &#160; 2810 m above MSL
+ C that resulted from nuclear weapons testing during the 1940's, 50's and early 60's. The 
+ seasonal cycle, with a summer peak in both hemispheres is somewhat controversial, but is related to selective uptake of lighter 
+ isotopes during the photosynthetic season and to wind direction as the air passes over different source/sink regions on 
+ its way to the measuring site; fossil carbon emissions contain no C so the transport of air from fossil-carbon source 
+ regions could play a role.
+ Nuclear 
+ Instruments and Methods
+ Journal of the American 
+ Statistical Association
+ Keeling, C.D., R.B. Bacastow, A.F. Carter, S.C. Piper, T.P. Whorf, M. Heimann, W.G. Mook, and H. Roeloffzen 1989. A three-
+ dimensional model of atmospheric CO transport based on observed winds: 1. Analysis of observational data. In D.H. 
+ Peterson (ed.), Aspects of Climate Variability in the Pacific and the Western Americas. 55:165-
+ 235.
+ Levin, I., R. B&#195;&#182;singer, G. Bonani, R.J. Francey, B. Kromer, K.O. M&#195;&#188;nnich, M. Suter, N.B.A. Trivett and W. W&#195;&#182;lfli. 1992. 
+ Radiocarbon in atmospheric carbon dioxide and methane: global distribution and trends. In: Taylor R.E., Long A., Kra 
+ R.S., editors. Radiocarbon After Four Decades. New York: Springer Verlag. p. 503-518.
+ 42(1):69-80.
+ level in mid-latitudes of the Northern Hemisphere (1959-
+ 2003). 
+ Manning, M., D.C. Lowe, W.H. Melhuish, R.J. Sparks, G. Wallace, C.A.M. Brenninkmeijer and R.C. McGill. 1990. The use 
+ of radiocarbon measurements in atmospheric studies. 
+ H 
+ records near Groningen, the Netherlands, with Fruholmen, Norway and Izana, Canary Islands 
+ 37(1):39-50.
+ samples by AMS. 
+ 88(C6): 3621-3642.
+ Randerson, J.T., L.G. Enting, E.A.G. Schuur, K. Caldeira and I.Y. Fung. 2002. Seasonal and latitudinal variability 
+ of troposphere &#226;&#136;&#134;: post bomb contributions from fossil fuels, oceans, the stratosphere, and the terrestrial 
+ biosphere. Global Biogeochemical Cycles 16(4): doi:10.1029/2002GB001876.
+ Roeloffzen, J.C., W.G. Mook, and C.D. Keeling. 1991. Trends and variations in stable carbon isotopes of atmospheric carbon 
+ dioxide. Stable Isotopes in Plant Nutrition, Soil Fertility and Environmental Studies IAEA, Vienna: 601-617.
+ Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National 
+ Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. http://cdiac.esd.ornl.gov/trends/trends.htm Various 
+ contributors.
+ Van der Plicht, J., S. Wijma, A.T. Aerts, M.H, Pertuisot and H.A.J. Meijer. 2000. Status report: the Groningen AMS 
+ facility. 
+ samples from the South Pole and Point Barrow, Alaska, by Accelerator Mass Spectrometry [Radiocarbon 48(3)355-372]. Carbon Dioxide Information Analysis Center, Oak Ridge 
+ National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20060101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20091202]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/BarrowTrendsOnly.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/14CatPtBarrow.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/SouthPoleTrendsOnly.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/SouthPole.txt]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing (blasingtj@ornl.gov)]]></CDIAC_contact>
+      <Notes><![CDATA[Accelerator mass spectrometry (AMS) was used to obtain <sup>14</sup>CO<sub>2</sub> measurements from flasks collected at the South Pole and Point Barrow, Alaska, USA, at the Scripps Institute of Oceanography network station (Keeling et al., 1989) (see also http://cdiac.ornl.gov/trends/co2/sio-bar.html). Air samples for years 1985-1991, originally collected in 5-liter flasks, had been stored in Pyrex sealed-off tubes after stable isotope analysis (Roeloffzen et al., 1991). These samples were more or less evenly distributed over time.</p>
+<p>Typically, the extracted CO<sub>2</sub> from 2-5 flasks from consecutive weekly measurements were put together in one flame-off tube. The tubes were broken in the standard inlet arrangement of a dual inlet stable isotope ratio mass spectrometer,
+and a stable isotope measurement was performed using the same instrument used in the original analyses (Roeloffzen et al., 1991).</p>
+<p>Then, the CO<sub>2</sub> was cryogenically trapped and converted to graphite (Aerts-Bijma et al., 1997). For the majority of the samples the amount of CO<sub>2</sub> was sufficient for our regular, 2 mm diameter AMS targets, containing about 1.5 mg of C.  For most of these, two targets could be produced from one CO<sub>2</sub> flask. In some cases, however, the amount of CO<sub>2</sub
+> was only sufficient for a smaller target.</p>
+<p>Individual standard samples were graphitized along with the corresponding atmospheric CO<sub>2</sub> samples, so that any day to day variability in the graphitization circumstances would be visible in the standard samples.</p>
+<p>The <sup>14</sup>C is reported as &#195;&#162;&#203;&#134;&#226;&#239;&#191;&#189;&#160;<sup>14</sup>C as per Stuiver and Polach 1977. More information about <sup>14</sup>C standards can be found at:
+http://www.c14dating.com/agecalc.html.</p>
+<p>More information about sample preparation and analysis at the Groningen AMS can be found at: http://www.rug.nl/ees/onderzoek/programmas/radiocarbonams/sampleTreatmentAms        The primary literature reference for the material presented here is                Meijer et al. (2006).</p>
+<p>The statistical analysis included curve fitting described by Cleveland (1979). A seasonal pattern was then fit to the residuals, and the data are given in terms of these trends and departures from them.</p>]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

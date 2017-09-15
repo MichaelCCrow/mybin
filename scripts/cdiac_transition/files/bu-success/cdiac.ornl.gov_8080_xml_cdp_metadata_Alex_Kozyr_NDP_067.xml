@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Koertzinger, A.]]></origin>
+        <origin><![CDATA[Mintrop, L.]]></origin>
+        <origin><![CDATA[Duinker, J. C.]]></origin>
+        <title><![CDATA[International Intercomparison Exercise of Underway fCO2 Systems During the R/V Meteor Cruise 36/1 in the North Atlantic Ocean]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_067.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[International Intercomparison Exercise of Underway fCO2 Systems During the R/V Meteor Cruise 36/1 in the North Atlantic Ocean]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19960607]]></begdate>
+          <enddate><![CDATA[19960618]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-60.008]]></westbc>
+        <eastbc><![CDATA[-15.505]]></eastbc>
+        <northbc><![CDATA[46.6708]]></northbc>
+        <southbc><![CDATA[29.254]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[fugacity of carbon dioxide ]]></themekey>
+        <themekey><![CDATA[fCO2]]></themekey>
+        <themekey><![CDATA[surface seawater]]></themekey>
+        <themekey><![CDATA[international intercomparison exercise ]]></themekey>
+        <themekey><![CDATA[underway fCO2 systems ]]></themekey>
+        <themekey><![CDATA[R/V Meteor Cruise 36/1 ]]></themekey>
+        <themekey><![CDATA[North Atlantic Ocean]]></themekey>
+        <themekey><![CDATA[Institut fur Meereskunde]]></themekey>
+        <themekey><![CDATA[NDP-067]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 123948</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 150046 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[fugacity of carbon dioxide ]]></Keywords>
+    <Keywords><![CDATA[fCO2]]></Keywords>
+    <Keywords><![CDATA[surface seawater]]></Keywords>
+    <Keywords><![CDATA[international intercomparison exercise ]]></Keywords>
+    <Keywords><![CDATA[underway fCO2 systems ]]></Keywords>
+    <Keywords><![CDATA[R/V Meteor Cruise 36/1 ]]></Keywords>
+    <Keywords><![CDATA[North Atlantic Ocean]]></Keywords>
+    <Keywords><![CDATA[Institut fur Meereskunde]]></Keywords>
+    <Keywords><![CDATA[NDP-067]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 150046 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_067.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp067]]></Product_number>
+      <Product_title><![CDATA[International Intercomparison Exercise of Underway fCO2 Systems During the R/V Meteor Cruise 36/1 in the North Atlantic Ocean]]></Product_title>
+      <Author>
+        <Name><![CDATA[Koertzinger, A.]]></Name>
+        <Company><![CDATA[Institut fur Meereskunde]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mintrop, L.]]></Name>
+        <Company><![CDATA[Institut fur Meereskunde]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Duinker, J. C.]]></Name>
+        <Company><![CDATA[Institut fur Meereskunde]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[North Atlantic Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_067/ndp067.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/080696w.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/090696w.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/100696w.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/110696w.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/120696w.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/130696w.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/140696w.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/150696w.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/160696w.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/xco2air.txt]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[course]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[fco2a]]></Variable>
+      <Variable><![CDATA[fco2b]]></Variable>
+      <Variable><![CDATA[fco2c]]></Variable>
+      <Variable><![CDATA[fco2d]]></Variable>
+      <Variable><![CDATA[fco2e]]></Variable>
+      <Variable><![CDATA[fco2f]]></Variable>
+      <Variable><![CDATA[fco2g]]></Variable>
+      <Variable><![CDATA[fco2h]]></Variable>
+      <Variable><![CDATA[lab]]></Variable>
+      <Variable><![CDATA[latdcm]]></Variable>
+      <Variable><![CDATA[londcm]]></Variable>
+      <Variable><![CDATA[press]]></Variable>
+      <Variable><![CDATA[salt]]></Variable>
+      <Variable><![CDATA[speed]]></Variable>
+      <Variable><![CDATA[temp]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Variable><![CDATA[xco2]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_067/ndp067.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/ndp067.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/fco2wat.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/xco2air.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19990303]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19990303]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp067/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[2.08MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ Measurements of the fugacity of carbon dioxide (fCO2) in surface seawater are an important part of studies of the global carbon cycle and its anthropogenic perturbation. An important step toward the thorough interpretation of the vast amount of available fCO2 data is the establishment of a database system that would make such measurements more widely available for use in understanding the basin- and global-scale distribution of fCO2 and its influence on the oceanic uptake of anthropogenic CO2. Such an effort, however, is based on knowledge of the comparability of data sets from different laboratories. Currently, however, there is not much known about this subject. In the light of the aforementioned situation, an International Intercomparison Exercise of Underway fCO2 Systems was proposed and carried out by the Institut f&#195;&#131;&#194;&#188;r Meereskunde Kiel (IfMK) (Institute of Marine Research at the University of Kiel), Kiel, Germany, during the R/V Meteor Cruise 36/1 from Hamilton, Bermuda, to Las Palmas, Gran Canaria, Spain. Nine groups from six countries (Australia, Denmark, Germany, France, Japan, and the United States) participated in this ambitious exercise, bringing together 15 participants with 7 underway fCO2 systems, 1 discrete fCO2 system, and 2 underway pH systems, as well as discrete systems for alkalinity and total dissolved inorganic carbon. This report presents only the results of the underway measurements of fCO2.
+<br><br>
+ The main idea of the exercise was to compare surface seawater fCO2 synchronously measured by all participating instruments under identical conditions. This synchronicity was accomplished by providing the infrastructure during the exercise, such as a common seawater and calibration gas supply. Another important issue was checks of the performance of the calibration procedures for CO2 and of all equilibrator temperature sensors. Furthermore a common procedure for the calculation of final fCO2 was applied to all data sets. All these measures were taken in order to reduce the largest possible amount of controllable sources of error. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

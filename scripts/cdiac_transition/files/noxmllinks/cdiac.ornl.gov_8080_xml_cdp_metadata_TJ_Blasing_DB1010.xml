@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Khalil, M. A. K.]]></origin>
+        <origin><![CDATA[Rasmussen, R. A.]]></origin>
+        <title><![CDATA[Globally Averaged Atmospheric CFC-11 Concentrations: Monthly and Annual Data for the Period 1975-1992]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1010/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Globally Averaged Atmospheric CFC-11 Concentrations: Monthly and Annual Data for the Period 1975-1992]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19800801]]></begdate>
+          <enddate><![CDATA[19920731]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.00]]></westbc>
+        <eastbc><![CDATA[180.00]]></eastbc>
+        <northbc><![CDATA[90.00]]></northbc>
+        <southbc><![CDATA[-90.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[atmospheric chlorofluorocarbons]]></themekey>
+        <themekey><![CDATA[chlorofluorocarbon 11]]></themekey>
+        <themekey><![CDATA[CFC-11]]></themekey>
+        <themekey><![CDATA[F-11]]></themekey>
+        <themekey><![CDATA[trichlorofluoromethane]]></themekey>
+        <themekey><![CDATA[CCl3F]]></themekey>
+        <themekey><![CDATA[DB1010]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 133629</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 154810 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[atmospheric chlorofluorocarbons]]></Keywords>
+    <Keywords><![CDATA[chlorofluorocarbon 11]]></Keywords>
+    <Keywords><![CDATA[CFC-11]]></Keywords>
+    <Keywords><![CDATA[F-11]]></Keywords>
+    <Keywords><![CDATA[trichlorofluoromethane]]></Keywords>
+    <Keywords><![CDATA[CCl3F]]></Keywords>
+    <Keywords><![CDATA[DB1010]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+Atmospheric CFC-11 Concentrations
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 154810 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.db1010]]></Product_number>
+      <Product_title><![CDATA[Globally Averaged Atmospheric CFC-11 Concentrations: Monthly and Annual Data for the Period 1975-1992]]></Product_title>
+      <Author>
+        <Name><![CDATA[Khalil, M. A. K.]]></Name>
+        <Company><![CDATA[Portland State University]]></Company>
+        <Organization><![CDATA[Department of Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rasmussen, R. A.]]></Name>
+        <Company><![CDATA[Oregon Graduate Institute of Science and Technology]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Chlorofluorocarbons]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alaska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1010/db1010.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Oregon]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1010/db1010.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hawaii]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1010/db1010.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[American Samoa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1010/db1010.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tasmania]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1010/db1010.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1010/db1010.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[year]]></Variable>
+      <Variable><![CDATA[jan]]></Variable>
+      <Variable><![CDATA[feb]]></Variable>
+      <Variable><![CDATA[mar]]></Variable>
+      <Variable><![CDATA[apr]]></Variable>
+      <Variable><![CDATA[may]]></Variable>
+      <Variable><![CDATA[jun]]></Variable>
+      <Variable><![CDATA[jul]]></Variable>
+      <Variable><![CDATA[aug]]></Variable>
+      <Variable><![CDATA[sep]]></Variable>
+      <Variable><![CDATA[oct]]></Variable>
+      <Variable><![CDATA[nov]]></Variable>
+      <Variable><![CDATA[dev]]></Variable>
+      <Variable><![CDATA[ann]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1010.html &#187;&#160;
+Atmospheric CFC-11 Concentrations
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1010/db1010.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1010/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[97 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This data set presents globally averaged atmospheric concentrations of chlorofluorocarbon 11, known also as CFC-11 or F-11 (chemical name: trichlorofluoromethane; formula: CCl3F). The monthly global average data are derived from flask air samples collected at eight sites in six locations over the period August 1980-July 1992. The sites are Barrow (Alaska), Cape Meares (Oregon), Cape Kumukahi and Mauna Loa (Hawaii), Cape Matatula (American Samoa), Cape Grim (Tasmania), Palmer Station, and the South Pole (Antarctica). At each collection site, monthly averages were obtained from three flask samples collected every week.
+<br><br>
+In addition to the monthly global averages available for 1980-992, this data set also contains annual global average data for 1975-1985. These annual global averages were derived from January measurements at the South Pole and in the Pacific Northwest of the United States (specifically, Washington state and the Oregon coast). ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

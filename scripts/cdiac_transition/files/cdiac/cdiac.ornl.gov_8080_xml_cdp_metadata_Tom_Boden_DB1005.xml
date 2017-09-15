@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[McLaughlin, S. B.]]></origin>
+        <origin><![CDATA[Downing, D. J.]]></origin>
+        <origin><![CDATA[Blasing, T. J.]]></origin>
+        <origin><![CDATA[Jackson, B. L.]]></origin>
+        <origin><![CDATA[Pack, D. J.]]></origin>
+        <origin><![CDATA[Duvick, D. N.]]></origin>
+        <origin><![CDATA[Mann, L. K.]]></origin>
+        <origin><![CDATA[Doyle, T. W.]]></origin>
+        <title><![CDATA[FORAST Database]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/DB1005.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1005/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[FORAST Database]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[16750101]]></begdate>
+          <enddate><![CDATA[19811231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-94.37]]></westbc>
+        <eastbc><![CDATA[-68.42]]></eastbc>
+        <northbc><![CDATA[44.53]]></northbc>
+        <southbc><![CDATA[32.85]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[NOx]]></themekey>
+        <themekey><![CDATA[SO2]]></themekey>
+        <themekey><![CDATA[anthropogenic pollutant]]></themekey>
+        <themekey><![CDATA[atmospheric haze]]></themekey>
+        <themekey><![CDATA[atmospheric-stagnation episodes]]></themekey>
+        <themekey><![CDATA[drought]]></themekey>
+        <themekey><![CDATA[ozone]]></themekey>
+        <themekey><![CDATA[precipitation]]></themekey>
+        <themekey><![CDATA[DB1005]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 134454</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 155135 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[NOx]]></Keywords>
+    <Keywords><![CDATA[SO2]]></Keywords>
+    <Keywords><![CDATA[anthropogenic pollutant]]></Keywords>
+    <Keywords><![CDATA[atmospheric haze]]></Keywords>
+    <Keywords><![CDATA[atmospheric-stagnation episodes]]></Keywords>
+    <Keywords><![CDATA[drought]]></Keywords>
+    <Keywords><![CDATA[ozone]]></Keywords>
+    <Keywords><![CDATA[precipitation]]></Keywords>
+    <Keywords><![CDATA[DB1005]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;FORAST Database
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 155135 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/DB1005.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/vrc.db1005]]></Product_number>
+      <Product_title><![CDATA[FORAST Database]]></Product_title>
+      <Author>
+        <Name><![CDATA[McLaughlin, S. B.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Downing, D. J.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Engineering Physics Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Blasing, T. J.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jackson, B. L.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Computing Applications Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pack, D. J.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Engineering Physics Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Duvick, D. N.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mann, L. K.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Doyle, T. W.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation Response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Eastern United States]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1005.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1005/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[aspect]]></Variable>
+      <Variable><![CDATA[basal area increment]]></Variable>
+      <Variable><![CDATA[calculation period]]></Variable>
+      <Variable><![CDATA[centroid]]></Variable>
+      <Variable><![CDATA[climatic division]]></Variable>
+      <Variable><![CDATA[core letter]]></Variable>
+      <Variable><![CDATA[elevation]]></Variable>
+      <Variable><![CDATA[FORAST station code]]></Variable>
+      <Variable><![CDATA[Korshover]]></Variable>
+      <Variable><![CDATA[latitude]]></Variable>
+      <Variable><![CDATA[longitude]]></Variable>
+      <Variable><![CDATA[month]]></Variable>
+      <Variable><![CDATA[NOX]]></Variable>
+      <Variable><![CDATA[precipitation]]></Variable>
+      <Variable><![CDATA[ring width increment]]></Variable>
+      <Variable><![CDATA[SO2]]></Variable>
+      <Variable><![CDATA[site number]]></Variable>
+      <Variable><![CDATA[soil quality]]></Variable>
+      <Variable><![CDATA[species code]]></Variable>
+      <Variable><![CDATA[state]]></Variable>
+      <Variable><![CDATA[temperature]]></Variable>
+      <Variable><![CDATA[tree number]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Variable><![CDATA[clouds]]></Variable>
+      <Variable><![CDATA[haze]]></Variable>
+      <Variable><![CDATA[ozone]]></Variable>
+      <Variable><![CDATA[prism]]></Variable>
+      <Variable><![CDATA[tree competition]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1005.html &#187;&#160;FORAST Database
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1005/db1005.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19950101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19950101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1005/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[312 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The Forest Responses to Anthropogenic Stress (FORAST) project was designed (1) to determine whether evidence of alterations of long-term growth patterns of several species of eastern forest trees was apparent in tree-ring chronologies from within the region and (2) to identify environmental variables that were temporally or spatially correlated with any observed changes. The project was supported principally by the U.S. Environmental Protection Agency (EPA) with additional support from the National Park Service.
+<br><br>
+The FORAST project was initiated in 1982 as exploratory research to document patterns of radial growth of forest trees during the previous 50 or more years within 15 states in the northeastern United States. Radial growth measurements from more than 7000 trees are provided along with data on a variety of measured and calculated indices of stand characteristics (basal area, density, and competitive indices); climate (temperature, precipitation, and drought); and anthropogenic pollutants (state and regional emissions of SO2 and NOx, ozone monitoring data, and frequency of atmospheric-stagnation episodes and atmospheric haze). These data were compiled into a single database to facilitate exploratory analysis of tree growth patterns and responses to local and regional environmental conditions.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

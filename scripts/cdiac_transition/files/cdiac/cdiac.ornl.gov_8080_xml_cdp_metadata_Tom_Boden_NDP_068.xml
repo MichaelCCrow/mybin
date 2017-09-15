@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Brown, S.]]></origin>
+        <origin><![CDATA[Iverson, L. R.]]></origin>
+        <origin><![CDATA[Prasad, A.]]></origin>
+        <title><![CDATA[Geographical Distribution of Biomass Carbon in Tropical Southeast Asian Forests: A Database]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/NDP_068.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Geographical Distribution of Biomass Carbon in Tropical Southeast Asian Forests: A Database]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19800101]]></begdate>
+          <enddate><![CDATA[19801231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[44.25875]]></westbc>
+        <eastbc><![CDATA[149.50875]]></eastbc>
+        <northbc><![CDATA[42.97046]]></northbc>
+        <southbc><![CDATA[-16.52954]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Southeast Asia]]></themekey>
+        <themekey><![CDATA[biomass]]></themekey>
+        <themekey><![CDATA[carbon]]></themekey>
+        <themekey><![CDATA[carbon cycle]]></themekey>
+        <themekey><![CDATA[climate]]></themekey>
+        <themekey><![CDATA[elevation]]></themekey>
+        <themekey><![CDATA[forest]]></themekey>
+        <themekey><![CDATA[land use]]></themekey>
+        <themekey><![CDATA[organic matter]]></themekey>
+        <themekey><![CDATA[population]]></themekey>
+        <themekey><![CDATA[slope]]></themekey>
+        <themekey><![CDATA[soil]]></themekey>
+        <themekey><![CDATA[tropics]]></themekey>
+        <themekey><![CDATA[vegetation]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 150049</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 165027 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Southeast Asia]]></Keywords>
+    <Keywords><![CDATA[biomass]]></Keywords>
+    <Keywords><![CDATA[carbon]]></Keywords>
+    <Keywords><![CDATA[carbon cycle]]></Keywords>
+    <Keywords><![CDATA[climate]]></Keywords>
+    <Keywords><![CDATA[elevation]]></Keywords>
+    <Keywords><![CDATA[forest]]></Keywords>
+    <Keywords><![CDATA[land use]]></Keywords>
+    <Keywords><![CDATA[organic matter]]></Keywords>
+    <Keywords><![CDATA[population]]></Keywords>
+    <Keywords><![CDATA[slope]]></Keywords>
+    <Keywords><![CDATA[soil]]></Keywords>
+    <Keywords><![CDATA[tropics]]></Keywords>
+    <Keywords><![CDATA[vegetation]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[University of Illinois
+, Arlington, Virginia
+Prepared by Tammy W. Beaty, Lisa M. Olsen, Robert M. Cushman, and Antoinette L. Brenkert
+Publication No. 4879
+Prepared for the
+Prepared by the
+Carbon Dioxide Information Analysis Center
+Oak Ridge, Tennessee 37831-6290
+managed by
+UT-Battelle, LLC
+for the
+ access codes are provided to read the ASCII data files, and ARC/INFO and ARCVIEW command syntax are provided to import the ARC/INFO exported integer grid files. The data files and this documentation are available without charge on a variety of media and via the Internet from the Carbon Dioxide Information Analysis Center (CDIAC).
+Each of the 17 grids originally received from the contributors was re-projected into an Albers Projection with a cell size of 3750 m by using the following parameters:
+ 1st standard parallel: 30 08 24.000
+ 2nd standard parallel: -4 17 24.000
+ central meridian: 107 28 12.000
+ latitude of projection's origin: 0 0 0.000
+ false easting (meters): 0.00000
+ false northing (meters): 0.00000
+The products of the resampled data were then projected back to Albers and summed. Based on a comparison of the following actual and potential biomass carbon estimates with values published by Brown et al. (1993), the cubic convolution method of resampling was used to produce the 0.25-degree biomass grid in this numeric data package.
+ Resampling method Actual carbon (Pg) Potential carbon (Pg)
+ Nearest neighbor 41.7256 73.8159
+ Bilinear interpolation 41.7286 73.8847
+ Cubic convolution 41.7583 73.9194
+User Services
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+P.O. Box 2008
+Telephone: 1-865-574-3645
+Telefax: 1-865-574-2232
+ 1st standard parallel: 30 08 24.000
+ 2nd standard parallel: -4 17 24.000
+ central meridian: 107 28 12.000
+ latitude of projection's origin: 0 0 0.000
+ false easting (meters): 0.00000
+ false northing (meters): 0.00000
+ Ncols 2598
+ Nrows 1608
+ Xllcorner -5879340.5620539
+ Yllcorner -1221655.9515207
+ Cellsize 3750
+ NODATA_value -9999
+ Dimension ia(2598)
+ Open (10, file='path_and_filename',status='old')
+ Do I=1,6
+ Read(10,*)
+ Enddo
+ Do I=1,1608
+ Read(10,*) (ia(j),j=1,2598)
+ 911 continue
+ write (12,*)
+ enddo
+ stop
+ end
+ Data in;
+ Infile 'path and file name' firstobs=7 linesize=15587;
+ Input varname@@;
+ Run;
+ Ncols 421
+ Nrows 238
+ Xllcorner 44.258748271265
+ Yllcorner -16.529544598459
+ Cellsize 0.025
+ NODATA_value -9999
+ Dimension ia(421)
+ Open (10, file='path_and_filename',status='old')
+ Do I=1,6
+ Read(10,*)
+ Enddo
+ Do I=1,238
+ Read(10,*) (ia(j),j=1,421)
+ 912 continue
+ write (12,*)
+ enddo
+ stop
+ end
+ Data in;
+ Infile 'path and file name' firstobs=7 linesize=2525;
+ Input varname@@;
+ Run;
+ 10 READ(5,100, END=999)gid,longitud,latitude,ac,pc,cntry,climi,efz,elev,
+ 1 forest pop precip slope soilt veg
+ 100 FORMAT(i8,2f8.2,12i8)
+ Data in;
+ Infile 'path and filename' linesize=97 DLM=",";
+ Input gid longitud latitude ac pc cntry climi efz elev forest pop precip
+ slope soilt veg;
+ Run;
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 165027 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/NDP_068.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.ndp068]]></Product_number>
+      <Product_title><![CDATA[Geographical Distribution of Biomass Carbon in Tropical Southeast Asian Forests: A Database]]></Product_title>
+      <Author>
+        <Name><![CDATA[Brown, S.]]></Name>
+        <Company><![CDATA[University of Illinois]]></Company>
+        <Organization><![CDATA[Department of Natural Resources and Environmental Sciences ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Iverson, L. R.]]></Name>
+        <Company><![CDATA[University of Illinois]]></Company>
+        <Organization><![CDATA[Department of Natural Resources and Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Prasad, A.]]></Name>
+        <Company><![CDATA[University of Illinois]]></Company>
+        <Organization><![CDATA[Department of Natural Resources and Environmental Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[regional (tropical Southeast Asia)]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp068/ndp068.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/Biomass.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/Biomassx.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/Climate.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/Climatex.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/Demog.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/Demogx.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/Land.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/Landx.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/Vegt.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/Vegtx.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/ac.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/acx.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/climi.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/climix.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/cntry.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/cntryx.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/efz.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/efzx.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/elev.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/elevx.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/forest.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/forestx.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/pc.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/pcx.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/pop.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/popx.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/precip.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/precipx.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/se_asia.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/se_asiax.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/slope.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/slopex.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/soilt.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/soiltx.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/veg.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/vegx.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[BIOMASS DENSITY]]></Variable>
+      <Variable><![CDATA[CLIMATIC INDEX]]></Variable>
+      <Variable><![CDATA[COUNTRY]]></Variable>
+      <Variable><![CDATA[ECOFLORISTIC ZONE]]></Variable>
+      <Variable><![CDATA[ELEVATION]]></Variable>
+      <Variable><![CDATA[FOREST/NONFOREST]]></Variable>
+      <Variable><![CDATA[LATITUDE]]></Variable>
+      <Variable><![CDATA[LONGITUDE]]></Variable>
+      <Variable><![CDATA[POPULATION DENSITY]]></Variable>
+      <Variable><![CDATA[PRECIPITATION]]></Variable>
+      <Variable><![CDATA[SLOPE]]></Variable>
+      <Variable><![CDATA[SOIL TEXTURE]]></Variable>
+      <Variable><![CDATA[VEGETATION]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp068/ndp068.htmlUniversity of Illinois
+, Arlington, Virginia
+Prepared by Tammy W. Beaty, Lisa M. Olsen, Robert M. Cushman, and Antoinette L. Brenkert
+Publication No. 4879
+Prepared for the
+Prepared by the
+Carbon Dioxide Information Analysis Center
+Oak Ridge, Tennessee 37831-6290
+managed by
+UT-Battelle, LLC
+for the
+ access codes are provided to read the ASCII data files, and ARC/INFO and ARCVIEW command syntax are provided to import the ARC/INFO exported integer grid files. The data files and this documentation are available without charge on a variety of media and via the Internet from the Carbon Dioxide Information Analysis Center (CDIAC).
+Each of the 17 grids originally received from the contributors was re-projected into an Albers Projection with a cell size of 3750 m by using the following parameters:
+ 1st standard parallel: 30 08 24.000
+ 2nd standard parallel: -4 17 24.000
+ central meridian: 107 28 12.000
+ latitude of projection's origin: 0 0 0.000
+ false easting (meters): 0.00000
+ false northing (meters): 0.00000
+The products of the resampled data were then projected back to Albers and summed. Based on a comparison of the following actual and potential biomass carbon estimates with values published by Brown et al. (1993), the cubic convolution method of resampling was used to produce the 0.25-degree biomass grid in this numeric data package.
+ Resampling method Actual carbon (Pg) Potential carbon (Pg)
+ Nearest neighbor 41.7256 73.8159
+ Bilinear interpolation 41.7286 73.8847
+ Cubic convolution 41.7583 73.9194
+User Services
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+P.O. Box 2008
+Telephone: 1-865-574-3645
+Telefax: 1-865-574-2232
+ 1st standard parallel: 30 08 24.000
+ 2nd standard parallel: -4 17 24.000
+ central meridian: 107 28 12.000
+ latitude of projection's origin: 0 0 0.000
+ false easting (meters): 0.00000
+ false northing (meters): 0.00000
+ Ncols 2598
+ Nrows 1608
+ Xllcorner -5879340.5620539
+ Yllcorner -1221655.9515207
+ Cellsize 3750
+ NODATA_value -9999
+ Dimension ia(2598)
+ Open (10, file='path_and_filename',status='old')
+ Do I=1,6
+ Read(10,*)
+ Enddo
+ Do I=1,1608
+ Read(10,*) (ia(j),j=1,2598)
+ 911 continue
+ write (12,*)
+ enddo
+ stop
+ end
+ Data in;
+ Infile 'path and file name' firstobs=7 linesize=15587;
+ Input varname@@;
+ Run;
+ Ncols 421
+ Nrows 238
+ Xllcorner 44.258748271265
+ Yllcorner -16.529544598459
+ Cellsize 0.025
+ NODATA_value -9999
+ Dimension ia(421)
+ Open (10, file='path_and_filename',status='old')
+ Do I=1,6
+ Read(10,*)
+ Enddo
+ Do I=1,238
+ Read(10,*) (ia(j),j=1,421)
+ 912 continue
+ write (12,*)
+ enddo
+ stop
+ end
+ Data in;
+ Infile 'path and file name' firstobs=7 linesize=2525;
+ Input varname@@;
+ Run;
+ 10 READ(5,100, END=999)gid,longitud,latitude,ac,pc,cntry,climi,efz,elev,
+ 1 forest pop precip slope soilt veg
+ 100 FORMAT(i8,2f8.2,12i8)
+ Data in;
+ Infile 'path and filename' linesize=97 DLM=",";
+ Input gid longitud latitude ac pc cntry climi efz elev forest pop precip
+ slope soilt veg;
+ Run;
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/ndp068.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20010301]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20010301]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp068/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[960 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ A database was generated of estimates of geographically referenced carbon densities of forest vegetation in tropical Southeast Asia for 1980. A geographic information system (GIS) was used to incorporate spatial databases of climatic, edaphic, and geomorphological indices and vegetation to estimate potential (i.e., in the absence of human intervention and natural disturbance) carbon densities of forests. The resulting map was then modified to estimate actual 1980 carbon density as a function of population density and climatic zone. The database covers the following 13 countries: Bangladesh, Brunei, Cambodia (Campuchea), India, Indonesia, Laos, Malaysia, Myanmar (Burma), Nepal, the Philippines, Sri Lanka, Thailand, and Vietnam.
+<br><br>
+ The data sets within this database are provided in three file formats: ARC/INFOTM exported integer grids, ASCII (American Standard Code for Information Interchange) files formatted for raster-based GIS software packages, and generic ASCII files with x, y coordinates for use with non-GIS software packages.
+<br><br>
+ This database includes ten ARC/INFO exported integer grid files (five with the pixel size 3.75 km x 3.75 km and five with the pixel size 0.25 degree longitude x 0.25 degree latitude) and 27 ASCII files. The first ASCII file contains the documentation associated with this database. Twenty-four of the ASCII files were generated by means of the ARC/INFO GRIDASCII command and can be used by most raster-based GIS software packages. The 24 files can be subdivided into two groups of 12 files each. These files contain real data values representing actual carbon and potential carbon density in Mg C/ha (1 megagram = 106 grams) and integer- coded values for country name, Weck's Climatic Index, ecofloristic zone, elevation, forest or non- forest designation, population density, mean annual precipitation, slope, soil texture, and vegetation classification. One set of 12 files contains these data at a spatial resolution of 3.75 km, whereas the other set of 12 files has a spatial resolution of 0.25 degree. The remaining two ASCII data files combine all of the data from the 24 ASCII data files into 2 single generic data files. The first file has a spatial resolution of 3.75 km, and the second has a resolution of 0.25 degree. Both files also provide a grid-cell identification number and the longitude and latitude of the centerpoint of each grid cell. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

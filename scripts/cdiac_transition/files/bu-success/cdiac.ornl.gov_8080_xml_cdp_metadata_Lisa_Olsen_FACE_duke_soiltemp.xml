@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[FACTS-I ]]></origin>
+        <title><![CDATA[Duke FACE Soil Temperature]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Lisa_Olsen/FACE/duke_soiltemp.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt97.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt98.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt99.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt00.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt01.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt02.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt03.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt04.txt]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/SLTraw.csv]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/SLTclean.csv]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/SLTgap.csv]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Duke FACE Soil Temperature]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19970501]]></begdate>
+          <enddate><![CDATA[20060215]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-79.09419]]></westbc>
+        <eastbc></eastbc>
+        <northbc><![CDATA[35.978175]]></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[FACTS I]]></themekey>
+        <themekey><![CDATA[Duke FACE]]></themekey>
+        <themekey><![CDATA[soil temperature]]></themekey>
+        <themekey><![CDATA[vegetation response]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 131824</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070801 102232 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[FACTS I]]></Keywords>
+    <Keywords><![CDATA[Duke FACE]]></Keywords>
+    <Keywords><![CDATA[soil temperature]]></Keywords>
+    <Keywords><![CDATA[vegetation response]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[SLT_readme_new.txt
+
+Soil Temperature  (2004-2006)
+
+Raw, clean and gap-filled data are available.
+
+Variable Descriptions:
+
+
+R1_30_1: R1 soil temperature, 30cm depth, measurement #1, units=deg C
+R1_30_2: R1 soil temperature, 30cm depth, measurement #2, units=deg C
+R1_30_3: R1 soil temperature, 30cm depth, measurement #3, units=deg C
+R1_30_4: R1 soil temperature, 30cm depth, measurement #4, units=deg C
+R1_10_1: R1 soil temperature, 10cm depth, measurement #1, units=deg C
+R1_10_2: R1 soil temperature, 10cm depth, measurement #2, units=deg C
+R1_10_3: R1 soil temperature, 10cm depth, measurement #3, units=deg C
+R1_10_4: R1 soil temperature, 10cm depth, measurement #4, units=deg C
+R2slt: R2 soil temperature, units=deg C
+R3slt: R3 soil temperature, units=deg C
+R4slt: R4 soil temperature, units=deg C
+R5slt: R5 soil temperature, units=deg C
+R6slt: R6 soil temperature, units=deg C
+R7_1: R7 soil temperature 1, units=deg C
+R7_2: R7 soil temperature 2, units=deg C
+R7_3: R7 soil temperature 3, units=deg C
+R7_4: R7 soil temperature 4, units=deg C
+R8_1: R8 soil temperature 1, units=deg C
+R8_2: R8 soil temperature 2, units=deg C
+R8_3: R8 soil temperature 3, units=deg C
+R8_4: R8 soil temperature 4, units=deg C
+
+Note: soil temperature data are available for plots 1-8 (R1-R8).
+
+Julian date 1 = Jan 1, 1990
+]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070801 102232 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Lisa_Olsen/FACE/duke_soiltemp.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[DUKE FACE SOIL TEMP]]></Product_number>
+      <Product_title><![CDATA[Duke FACE Soil Temperature]]></Product_title>
+      <Author>
+        <Name><![CDATA[FACTS-I ]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[Duke Forest FACE Experiment]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[FACTS I - Duke Forest  FACE ]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/face/DUKE/duke_home.shtml]]></Site_URL>
+        <Site_data_file><![CDATA[http://public.ornl.gov/face/DUKE/duke_data_soils.shtml]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[day]]></Variable>
+      <Variable><![CDATA[time (hhmm)]]></Variable>
+      <Variable><![CDATA[R1slT (degC)]]></Variable>
+      <Variable><![CDATA[R2slT (degC)]]></Variable>
+      <Variable><![CDATA[R3slT (degC)]]></Variable>
+      <Variable><![CDATA[R4slT (degC)]]></Variable>
+      <Variable><![CDATA[R5slT (degC)]]></Variable>
+      <Variable><![CDATA[R6slT (degC)]]></Variable>
+      <Variable><![CDATA[day/time]]></Variable>
+      <Variable><![CDATA[2004-2006 files (raw,clean,gap):]]></Variable>
+      <Variable><![CDATA[R1_30_1]]></Variable>
+      <Variable><![CDATA[R1_30_2]]></Variable>
+      <Variable><![CDATA[R1_30_3]]></Variable>
+      <Variable><![CDATA[R1_30_4]]></Variable>
+      <Variable><![CDATA[R1_10_1]]></Variable>
+      <Variable><![CDATA[R1_10_2]]></Variable>
+      <Variable><![CDATA[R1_10_3]]></Variable>
+      <Variable><![CDATA[R1_10_4]]></Variable>
+      <Variable><![CDATA[R2slt]]></Variable>
+      <Variable><![CDATA[R3slt]]></Variable>
+      <Variable><![CDATA[R4slt]]></Variable>
+      <Variable><![CDATA[R5slt]]></Variable>
+      <Variable><![CDATA[R6slt]]></Variable>
+      <Variable><![CDATA[R7_1]]></Variable>
+      <Variable><![CDATA[R7_2]]></Variable>
+      <Variable><![CDATA[R7_3]]></Variable>
+      <Variable><![CDATA[R7_4]]></Variable>
+      <Variable><![CDATA[R8_1]]></Variable>
+      <Variable><![CDATA[R8_2]]></Variable>
+      <Variable><![CDATA[R8_3]]></Variable>
+      <Variable><![CDATA[R8_4]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/SLT_readme_new.txtSLT_readme_new.txt
+
+Soil Temperature  (2004-2006)
+
+Raw, clean and gap-filled data are available.
+
+Variable Descriptions:
+
+
+R1_30_1: R1 soil temperature, 30cm depth, measurement #1, units=deg C
+R1_30_2: R1 soil temperature, 30cm depth, measurement #2, units=deg C
+R1_30_3: R1 soil temperature, 30cm depth, measurement #3, units=deg C
+R1_30_4: R1 soil temperature, 30cm depth, measurement #4, units=deg C
+R1_10_1: R1 soil temperature, 10cm depth, measurement #1, units=deg C
+R1_10_2: R1 soil temperature, 10cm depth, measurement #2, units=deg C
+R1_10_3: R1 soil temperature, 10cm depth, measurement #3, units=deg C
+R1_10_4: R1 soil temperature, 10cm depth, measurement #4, units=deg C
+R2slt: R2 soil temperature, units=deg C
+R3slt: R3 soil temperature, units=deg C
+R4slt: R4 soil temperature, units=deg C
+R5slt: R5 soil temperature, units=deg C
+R6slt: R6 soil temperature, units=deg C
+R7_1: R7 soil temperature 1, units=deg C
+R7_2: R7 soil temperature 2, units=deg C
+R7_3: R7 soil temperature 3, units=deg C
+R7_4: R7 soil temperature 4, units=deg C
+R8_1: R8 soil temperature 1, units=deg C
+R8_2: R8 soil temperature 2, units=deg C
+R8_3: R8 soil temperature 3, units=deg C
+R8_4: R8 soil temperature 4, units=deg C
+
+Note: soil temperature data are available for plots 1-8 (R1-R8).
+
+Julian date 1 = Jan 1, 1990
+]]></Descriptive_file>
+      <Data_file><![CDATA[slt97.txt]]></Data_file>
+      <Data_file><![CDATA[slt98.txt]]></Data_file>
+      <Data_file><![CDATA[slt99.txt]]></Data_file>
+      <Data_file><![CDATA[slt00.txt]]></Data_file>
+      <Data_file><![CDATA[slt01.txt]]></Data_file>
+      <Data_file><![CDATA[slt02.txt]]></Data_file>
+      <Data_file><![CDATA[slt03.txt]]></Data_file>
+      <Data_file><![CDATA[slt04.txt]]></Data_file>
+      <Data_file><![CDATA[SLTraw.csv]]></Data_file>
+      <Data_file><![CDATA[SLTclean.csv]]></Data_file>
+      <Data_file><![CDATA[SLTgap.csv]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070710]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt97.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt98.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt99.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt00.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt01.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt02.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt03.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/slt04.txt]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/SLTraw.csv]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/SLTclean.csv]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/soil/SLTgap.csv]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Soil temperature
+measured via thermistors at one point (unless otherwise specified) at 10-12 cm depth in each ring.
+
+Raw, clean and gap-filled data are available for 2004-2006.
+]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

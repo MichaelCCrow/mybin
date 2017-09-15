@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Dlugokencky, E. J.]]></origin>
+        <origin><![CDATA[Lang, P. M.]]></origin>
+        <origin><![CDATA[Masarie, K. A.]]></origin>
+        <title><![CDATA[Three Documents Consisting of Methane Data: Atmospheric Methane Dry Air Mole Fractions from the NOAA CMDL Carbon Cycle Cooperative Global Air Sampling Network, 1983-2003; Quasi-Continuous In-Situ CH4 Data Files; and GLOBALVIEW-CH4.]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/NOAACMDL_Methane_Flask_In-situ_GLOBALVIEW.xml]]></onlink>
+        <onlink><![CDATA[/hoss/tab2/noaacmdl/ch4/flask]]></onlink>
+        <onlink><![CDATA[/hoss/tab2/noaacmdl/ch4/insitu]]></onlink>
+        <onlink><![CDATA[/hoss/tab2/noaacmdl/ch4/GLOBALVIEW]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Three Documents Consisting of Methane Data: Atmospheric Methane Dry Air Mole Fractions from the NOAA CMDL Carbon Cycle Cooperative Global Air Sampling Network, 1983-2003; Quasi-Continuous In-Situ CH4 Data Files; and GLOBALVIEW-CH4.]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19830101]]></begdate>
+          <enddate><![CDATA[20041231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Methane]]></themekey>
+        <themekey><![CDATA[Flask]]></themekey>
+        <themekey><![CDATA[In-Situ]]></themekey>
+        <themekey><![CDATA[GLOBALVIEW]]></themekey>
+        <themekey><![CDATA[Carbon Cycle Cooperative Global Air Sampling Network]]></themekey>
+        <themekey><![CDATA[Atmospheric Methane Dry Air Mole Fractions]]></themekey>
+        <themekey><![CDATA[NOAA]]></themekey>
+        <themekey><![CDATA[CMDL]]></themekey>
+        <themekey><![CDATA[Global]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 151654</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 165451 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Methane]]></Keywords>
+    <Keywords><![CDATA[Flask]]></Keywords>
+    <Keywords><![CDATA[In-Situ]]></Keywords>
+    <Keywords><![CDATA[GLOBALVIEW]]></Keywords>
+    <Keywords><![CDATA[Carbon Cycle Cooperative Global Air Sampling Network]]></Keywords>
+    <Keywords><![CDATA[Atmospheric Methane Dry Air Mole Fractions]]></Keywords>
+    <Keywords><![CDATA[NOAA]]></Keywords>
+    <Keywords><![CDATA[CMDL]]></Keywords>
+    <Keywords><![CDATA[Global]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 165451 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/NOAACMDL_Methane_Flask_In-situ_GLOBALVIEW.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[NOAA/CMDL]]></Product_number>
+      <Product_title><![CDATA[Three Documents Consisting of Methane Data: Atmospheric Methane Dry Air Mole Fractions from the NOAA CMDL Carbon Cycle Cooperative Global Air Sampling Network, 1983-2003; Quasi-Continuous In-Situ CH4 Data Files; and GLOBALVIEW-CH4.]]></Product_title>
+      <Author>
+        <Name><![CDATA[Dlugokencky, E. J.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration (NOAA)]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory (CMDL)]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lang, P. M.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration (NOAA)]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory (CMDL)]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Masarie, K. A.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration (NOAA)]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory (CMDL)]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Methane]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric_Trace_Gases_offline]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alert, Nunavut, Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/alt.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/altmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Amsterdam Island, France]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/ams.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/amsmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ascension Island, United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/asc.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/ascmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Assekrem, Algeria]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/ask.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/askmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[St. Croix, Virgin Islands, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/avi.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/avimm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Terceira Island, Azores, Portugal]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/azr.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/azrmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Baltic Sea, Poland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/bal.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/balmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[St. Davids Head, Bermuda, United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/bme.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/bmemm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tudor Hill, Bermuda, United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/bmw.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/bmwmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Barrow, Alaska, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/in-situ/brw/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/brw.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/brwmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Black Sea, Constanta, Romania]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/bsc.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/bscmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cold Bay, Alaska, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/cba.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/cbamm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania, Australia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/cgo.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/cgomm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Christmas Island, Republic of Kiribati]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/chr.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/chrmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Meares, Oregon, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/cmo.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/cmomm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Crozet Island, France]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/crz.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/crzmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Easter Island, Chile]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/eic.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/eicmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mariana Islands, Guam]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/gmi.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/gmimm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Dwejra Point, Gozo, Malta]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/goz.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/gozmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Halley Station, Antarctica, United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/hba.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/hbamm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hegyhatsal, Hungary]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/hun.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/hunmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Storhofdi, Vestmannaeyjar, Iceland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/ice.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/icemm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Grifton, North Carolina, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/itn.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/itnmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tenerife, Canary Islands, Spain]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/izo.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/izomm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Key Biscayne, Florida, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/key.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/keymm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Kumukahi, Hawaii, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/kum.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/kummm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sary Taukum, Kazakhstan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/kzd.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/kzdmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Plateau Assy, Kazakhstan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/kzm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/kzmmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mould Bay, Nunavut, Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/mbc.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/mbcmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mace Head, County Galway, Ireland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/mhd.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/mhdmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sand Island, Midway, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/mid.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/midmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/in-situ/mlo/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/mlo.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/mlomm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Niwot Ridge, Colorado, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/nwr.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/nwrmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Olympic Peninsula, Washington, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/opw.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/opwmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pallas-Sammaltunturi, GAW Station, Finland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pal.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/poc000.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocn05.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocn10.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocn15.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocn20.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocn25.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocn30.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocn35.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocn40.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocn45.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocs05.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocs10.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocs15.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocs20.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocs25.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocs30.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pocs35.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/poc000mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocn05mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocn10mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocn15mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocn20mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocn25mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocn30mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocn35mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocs05mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocs10mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocs15mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocs20mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocs25mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/pocs30mm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Palmer Station Antarctica, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/psa.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/psamm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Point Arena, California, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/pta.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/ptamm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ragged Point, Barbados]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/rpb.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/rpbmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South China Sea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/scsn03.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/scsn06.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/scsn09.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/scsn12.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/scsn15.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/scsn18.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/scsn21.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/scsn03mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/scsn06mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/scsn09mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/scsn12mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/scsn15mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/scsn18mm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/scsn21mm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mahe Island, Seychelles]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/sey.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/seymm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Bird Island, South Georgia, United Kingdom]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/sgi.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Shemya Island, Alaska, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/shm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/shmmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tutuila, American Samoa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/smo.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/smomm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/spo.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/spomm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ocean Station M, Norway]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/stm.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/stmmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Summit, Greenland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/sum.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Syowa Station, Antarctica, Japan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/syo.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/syomm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tae-ahn Peninsula, Republic of Korea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/tap.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/tapmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tierra Del Fuego, La Redonda Isla, Argentina]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Trinidad Head, California, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/tdf.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Wendover, Utah, United States]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/uta.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/utamm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ulaan Uul, Mongolia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/uum.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/uummm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mt. Waliguan, Peoples Republic of China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/wlg.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/wlgmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ny-Alesund, Svalbard, Norway and Sweden]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/event/zep.ch4]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/month/zepmm.ch4]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Flask: Site Code]]></Variable>
+      <Variable><![CDATA[Flask: Year]]></Variable>
+      <Variable><![CDATA[Flask: Month]]></Variable>
+      <Variable><![CDATA[Flask: Day]]></Variable>
+      <Variable><![CDATA[Flask: Hour]]></Variable>
+      <Variable><![CDATA[Flask: Minute]]></Variable>
+      <Variable><![CDATA[Flask: Flask ID]]></Variable>
+      <Variable><![CDATA[Flask: Method]]></Variable>
+      <Variable><![CDATA[Flask: Measured Value]]></Variable>
+      <Variable><![CDATA[Flask: QC Flag]]></Variable>
+      <Variable><![CDATA[Flask: Instrument]]></Variable>
+      <Variable><![CDATA[Flask: Latitude]]></Variable>
+      <Variable><![CDATA[Flask: Longitude]]></Variable>
+      <Variable><![CDATA[Flask: Altitude]]></Variable>
+      <Variable><![CDATA[Flask: Even Number]]></Variable>
+      <Variable><![CDATA[In-Situ: Station Code]]></Variable>
+      <Variable><![CDATA[In-Situ: Location]]></Variable>
+      <Variable><![CDATA[In-Situ: Country]]></Variable>
+      <Variable><![CDATA[In-Situ: Latitude]]></Variable>
+      <Variable><![CDATA[In-Situ: Longitude]]></Variable>
+      <Variable><![CDATA[In-Situ: Elevation (m asl)]]></Variable>
+      <Variable><![CDATA[In-Situ: Available Data]]></Variable>
+      <Variable><![CDATA[GLOBALVIEW: Sampling site/Program]]></Variable>
+      <Variable><![CDATA[GLOBALVIEW: Grouping of data]]></Variable>
+      <Variable><![CDATA[GLOBALVIEW: Contributing Laboratory]]></Variable>
+      <Variable><![CDATA[GLOBALVIEW: Sampling Strategy]]></Variable>
+      <Variable><![CDATA[GLOBALVIEW: Sampling Platform]]></Variable>
+      <Variable><![CDATA[GLOBALVIEW: Qualifier]]></Variable>
+      <Variable><![CDATA[GLOBALVIEW: Gas]]></Variable>
+      <Descriptive_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/flask/README_ch4.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/in-situ/README]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ftp://ftp.cmdl.noaa.gov/ccg/ch4/GLOBALVIEW/README.1ST]]></Descriptive_file>
+      <Descriptive_file><![CDATA[www.cmdl.noaa.gov]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ftp.cmdl.noaa.gov/ccg]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20031231]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20041021]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/hoss/tab2/noaacmdl/ch4/flask]]></Data_file_location>
+      <Data_file_location><![CDATA[/hoss/tab2/noaacmdl/ch4/insitu]]></Data_file_location>
+      <Data_file_location><![CDATA[/hoss/tab2/noaacmdl/ch4/GLOBALVIEW]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[All samples were analyzed for methane at NOAA CMDL in Boulder, Colorado by gas chromatography with flame ionization detection, and each sample aliquot was referenced to the NOAA CMDL methane standard scale.  Through most of the period 1983-1991, one flask of a sample pair was analyzed for methane, and whenever the over pressure was sufficient; at least two aliquots were analyzed.  The difference in methane mixing ratios between the fist and second aliquot was used to establish the precision of the measurement.
+<br><br>
+GLOBALVIEW-CH4 is derived from measurements but contains no actual data.  GLOBALVIEW-CH4 is a product of the Cooperative Atmospheric Data Integration Project.  While the project is coordinated and maintained by the Carbon Cycle Greenhouse Gases Group of the National Oceanic and Atmospheric Administration, Climate Monitoring and Diagnostics Laboratory (NOAA CMDL), it is a cooperative effort among the many organizations and institutions making high-quality atmospheric CH4 measurements.
+<br><br>
+*Note:  The Quasi-Continuous In-Situ CH4 Data Files only consist of two sites:  Mauna Loa, Hawaii, United States and Barrow, Alaska, United States.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

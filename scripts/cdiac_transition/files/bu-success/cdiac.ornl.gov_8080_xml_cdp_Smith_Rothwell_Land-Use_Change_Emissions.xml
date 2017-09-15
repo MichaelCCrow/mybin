@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Smith, S.J.]]></origin>
+        <origin><![CDATA[Rothwell, A.]]></origin>
+        <title><![CDATA[Global and Regional Land-Use Change Emissions]]></title>
+        <geoform><![CDATA[Model Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/Smith_Rothwell_Land-Use_Change_Emissions.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/Smith_Rothwell_Land-Use_Change_Emissions/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global and Regional Land-Use Change Emissions]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[17000101]]></begdate>
+          <enddate><![CDATA[21000101]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Cabon emissions]]></themekey>
+        <themekey><![CDATA[Anthropogenic emissions]]></themekey>
+        <themekey><![CDATA[Regional land-use carbon emissions]]></themekey>
+        <themekey><![CDATA[Global land-use carbon emissions]]></themekey>
+        <themekey><![CDATA[Regional terrestrial carbon stocks]]></themekey>
+        <themekey><![CDATA[Global terrestrial carbon stocks]]></themekey>
+        <themekey><![CDATA[Regional NPP]]></themekey>
+        <themekey><![CDATA[Global NPP]]></themekey>
+        <themekey><![CDATA[Regional Net Primary Productivity]]></themekey>
+        <themekey><![CDATA[Global Net Primary Productivity]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden (bodenta@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden (bodenta@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140805 102637</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden (bodenta@ornl.gov)]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20140801 155032 by 160.91.28.73</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Cabon emissions]]></Keywords>
+    <Keywords><![CDATA[Anthropogenic emissions]]></Keywords>
+    <Keywords><![CDATA[Regional land-use carbon emissions]]></Keywords>
+    <Keywords><![CDATA[Global land-use carbon emissions]]></Keywords>
+    <Keywords><![CDATA[Regional terrestrial carbon stocks]]></Keywords>
+    <Keywords><![CDATA[Global terrestrial carbon stocks]]></Keywords>
+    <Keywords><![CDATA[Regional NPP]]></Keywords>
+    <Keywords><![CDATA[Global NPP]]></Keywords>
+    <Keywords><![CDATA[Regional Net Primary Productivity]]></Keywords>
+    <Keywords><![CDATA[Global Net Primary Productivity]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20140801 155032 by 160.91.28.73</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/Smith_Rothwell_Land-Use_Change_Emissions.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi:10.5194/bg-10-6323-2013]]></Product_number>
+      <Product_title><![CDATA[Global and Regional Land-Use Change Emissions]]></Product_title>
+      <Author>
+        <Name><![CDATA[Smith, S.J.]]></Name>
+        <Company><![CDATA[Joint Global Change Research Institute]]></Company>
+        <Organization><![CDATA[Pacific Northwest National Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rothwell, A.]]></Name>
+        <Company><![CDATA[Joint Global Change Research Institute]]></Company>
+        <Organization><![CDATA[Pacific Northwest National Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Land-Use Change Emissions]]></Thematic_area>
+      <Thematic_area><![CDATA[Global and Regional Emissions]]></Thematic_area>
+      <Thematic_area><![CDATA[Global Carbon Cycle]]></Thematic_area>
+      <Thematic_area><![CDATA[Terrestrial Biosphere]]></Thematic_area>
+      <Thematic_area><![CDATA[Terrestrial Carbon Stocks]]></Thematic_area>
+      <Thematic_area><![CDATA[Terrestrial Carbon Fluxes]]></Thematic_area>
+      <Thematic_area><![CDATA[CMIP5]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/Smith_Rothwell_Land-Use_Change_Emissions]]></Site_name>
+        <Site_URL><![CDATA[http://www.biogeosciences-discuss.net/10/4157/2013/bgd-10-4157-2013.html]]></Site_URL>
+        <Site_data_file><![CDATA[SR2013_Area.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[SR2013_Carbon_Stocks.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[SR2013_LUC_em.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[SR2013_NPP.csv]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Regional land-use carbon emissions]]></Variable>
+      <Variable><![CDATA[Global land-use carbon emissions]]></Variable>
+      <Variable><![CDATA[Regional terrestrial carbon stocks]]></Variable>
+      <Variable><![CDATA[Global terrestrial carbon stocks]]></Variable>
+      <Variable><![CDATA[Regional NPP]]></Variable>
+      <Variable><![CDATA[Global NPP]]></Variable>
+      <Variable><![CDATA[Regional Net Primary Productivity]]></Variable>
+      <Variable><![CDATA[Global Net Primary Productivity]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/Smith_Rothwell_Land-Use_Change_Emissions/SR2013_Metadata.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20140801]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20140801]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/Smith_Rothwell_Land-Use_Change_Emissions/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[1.97 MB]]></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden (bodenta@ornl.gov)]]></CDIAC_contact>
+      <Notes><![CDATA[Regional carbon stocks, assumed NPP, and net land-use change emissions 
+by ecosystem as estimated using historical land-use data and a simple 
+carbon model. Net land-use change emissions are defined here as net 
+emissions from the terrestrial system estimated without considering the  
+effects of climate changes (e.g. temperature, precipitation).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

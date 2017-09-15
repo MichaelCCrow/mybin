@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Jones, P. D.]]></origin>
+        <origin><![CDATA[Parker, D. E.]]></origin>
+        <origin><![CDATA[Osborn, T. J.]]></origin>
+        <origin><![CDATA[Briffa, K. R.]]></origin>
+        <title><![CDATA[Global and Hemispheric Temperature Anomalies - Land and Marine Instrumental Records]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Temp/Jones.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/trends/temp/jonescru/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global and Hemispheric Temperature Anomalies - Land and Marine Instrumental Records]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18560101]]></begdate>
+          <enddate><![CDATA[20001231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[mean temperature anomalies]]></themekey>
+        <themekey><![CDATA[sea surface temperatures]]></themekey>
+        <themekey><![CDATA[surface air temperature]]></themekey>
+        <themekey><![CDATA[TRENDS-TEMPERATURE]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090807 155900</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 101240 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[mean temperature anomalies]]></Keywords>
+    <Keywords><![CDATA[sea surface temperatures]]></Keywords>
+    <Keywords><![CDATA[surface air temperature]]></Keywords>
+    <Keywords><![CDATA[TRENDS-TEMPERATURE]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[School of Environmental Sciences, University of East Anglia,
+,
+These global and hemispheric temperature anomaly
+time series, which incorporate land and marine data,
+are continually updated and expanded by P. Jones of the 
+with help from colleagues at the CRU and other institutions.
+Some of the earliest work in producing these temperature series dates back to
+Jones (1986a,b,c), Jones (1988, 1994), and
+Jones and Briffa (1992). Most of the discussion of methods given here has been gleaned from the Frequently Asked
+Questions
+CRU temperature data web pages. Users are encouraged to visit the CRU Web site for the
+most comprehensive overview of these data (the "HadCRUT4" dataset), other associated datasets, and the most recent
+literature references to the work of Jones 
+ time series are computed
+consists of surface air temperature (SAT)
+data (land-surface meteorological data and fixed-position weather ship data) from
+over 3000 station records that
+have been corrected for non-climatic errors, such as station
+shifts and/or instrument changes (Jones 1994).
+Coverage is denser over the more populated parts of the world, particularly
+the United States, southern Canada, Europe and Japan. Coverage is sparsest over
+the interior of the South American and African continents and over the Antarctic.
+The number of available stations was small during the 1850s, but increases to
+over 3000 stations during the 1951-90 period.
+The marine data used are compiled at the
+of the and consist of sea surface temperatures (SSTs) that incorporate in situ measurements from ships and
+buoys. The SST data have been corrected for different types of buckets used before 1942
+(Folland and Parker 1995; Parker 1994, 1995).
+Since the majority of the marine observations come from the voluntary
+observing fleet, coverage is reduced away from the main shipping lanes
+and is minimal over the Southern Oceans. Maps/tables giving the density
+of coverage through time are given for land regions by Jones and Moberg (2003)
+and for the oceans by Rayner (2003). Both these sources, in addition
+to more recent work (Rayner , 2006), also
+extensively discuss the issue of consistency and homogeneity of the
+measurements through time and the steps that have been taken to ensure all
+non-climatic inhomogeneities have been removed.
+The land and marine data components are combined by first
+interpolating each to the same 5&amp;#176 x 5&amp;#176 latitude/longitude grid boxes.
+The combined version takes values from each component and
+weights the grid boxes where both occur (coastlines and islands). The
+weighting method is described in detail in Jones (2001).
+Land temperature anomalies are infilled where more than four of the surrounding
+eight 5&#176; x 5&#176; grid boxes are present, as discussed in Jones (2001).
+Infilling doesn't take place when the box is ocean, except when it
+is covered by sea ice based on 1961-90 average conditions.
+Assessing the accuracy of the resulting global and hemispheric
+temperature anomalies has always been of critical importance in the
+work of Jones .
+Annual values are approximately accurate to +/- 0.05&#176;C (two standard errors)
+for the period since 1951. They are about four times as uncertain during
+the 1850s, with the accuracy improving gradually between 1860 and 1950,
+except for temporary deteriorations during data-sparse, wartime intervals.
+Estimating accuracy is far from a trivial task, as the individual grid boxes
+are not independent of each other and the accuracy of each grid box time
+series varies through time (although an employed variance adjustment has reduced
+this influence to a large extent). The issue is discussed extensively by Brohan (2006),
+Folland (2001a,b) extend discussion to the estimate of accuracy of trends in the
+global and hemispheric series, including the additional uncertainties related
+to homogeneity corrections.
+ are now given to a precision of three
+decimal places to enable seasonal values to be calculated to &#194;&#177;0.01&#176;C.
+The extra precision implies no greater accuracy than two decimal places.
+annual mean temperature anomalies
+for the globe show relatively stable temperatures
+from the beginning of the record
+through about 1910, with relatively rapid and steady warming through the early 1940s, followed
+by another period of relatively stable temperatures through the mid-1970s. From this point
+onward, another rapid rise similar to that in the earlier part of the century is observed.
+The year 2015 was by far the warmest year in the global record (0.75&#176;C above the 1961-1990 reference period mean).
+This record uses the latest analysis, referred to as HadCRUT4 (Morice et al., 2012).
+[Jones (1999) report the 1961-1990 reference period means for the globe, northern
+hemisphere, and southern hemisphere as 14.0&#176;C, 14.6&#176;C, and 13.4&#176;C, respectively.]
+ temperature record
+(along with several other informative climate-related "Information Sheets" available from the CRU) may be found at , and states: 
+"The period 2001-2010 (0.490&#194;&#176;C above the 1961-90 average) was 0.216&#194;&#176;C warmer than the 1991-2000 decade (0.274&#194;&#176;C above the 1961-90 average). 2015 is clearly the warmest year (0.745&#194;&#176;C) with 2014 (0.567&#194;&#176;C) second, slightly warmer than 2010 (0.559&#194;&#176;C), 2005 (0.544&#194;&#176;C) and 1998 (0.536&#194;&#176;C). The coldest year of the 21st century (2008 with a value of 0.395&#194;&#176;C) was warmer than all years in the 20th century with the exception of 1998. The average of the first five years of the present decade (2011-2015) is 0.051&#194;&#176;C warmer than the average for 2001-2010."
+northern and southern hemisphere annual
+trend series show some general similarities, e.g.,
+little sign of trends before about 1900, a peak in the early 1940s, and the highest temperatures
+occurring after 1980; but there are several notable differences. A steady period of warming is
+seen for the northern hemisphere from about 1910 through the mid-1940s. For the southern
+hemisphere, there is less warming observed from about 1910 through 1930, with sudden and
+rapid warming from about 1930 through the mid-1940s. The northern hemisphere record shows
+gradual cooling from the mid-1940s through the mid-1970s, followed by rapid temperature 
+increases thereafter. The southern hemisphere shows an abrupt shift to cooler temperatures
+after 1945, quite variable temperatures until the mid-1970s, followed by a gradual increase
+over the remainder of the record.
+, it is interesting
+to note that for all seasons, a warming trend
+does not commence until about 1910. All seasons show somewhat of a peak
+in the 1940s and steady warming after about
+the mid-1960s. The record warmth of 1998 still stands out as the
+warmest year across all seasons except for austral spring (SON), which set a new record in 2015.
+seasonal series for the northern hemisphere show warming from about 1910 through the early 1940s, but with the exception of spring (MAM) show cooling through the mid-1970s.
+All seasons show a general warming from the mid-1970s onward, but recent
+winters have on average been colder than those of the first decade of the 21st century. 2015 recorded the warmest spring, summer, and fall on record for the northern hemisphere.
+ GIF gives an animated look at global monthly mean temperatures since 1850.
+Brohan, P., J.J. Kennedy, I. Harris, S.F.B. Tett, and P.D. Jones. 2006. Uncertainty estimates in regional and global observed temperature changes: a new dataset from 1850.
+Folland, C.K., N.A. Rayner, S.J. Brown, T.M. Smith, S.S.P. Shen, D.E. Parker, I. Macadam,
+P.D. Jones, R.N. Jones, N. Nicholls, and D.M.H. Sexton, 2001a. Global temperature change and
+its uncertainties since 1861. 
+Folland, C.K., T.R. Karl, J.R. Christy, R.A. Clarke, G.V. Gruza, J. Jouzel, M.E. Mann, J. Oerlemans,
+M.J. Salinger, and S.-W. Wang, 2001b. Observed Climate Variability and Change. pp. 99-181
+In: Contribution of Working Group I to the
+Third Assessment Report of the Intergovernmental Panel on Climate Change (Houghton, J.T.,
+Ding, Y., Griggs, D.J., Noguer, M., van der Linden, P.J., Dai, X., Maskell, K. and Johnson, C.A. Eds.).
+Cambridge University Press, Cambridge, UK, 881pp.
+Jones, P.D. 1988. Hemispheric surface air temperature variations: Recent trends and
+an update to 1987. 
+Jones, P. D. 1994. Hemispheric surface air temperature variations:
+A reanalysis and an update to 1993. 
+Jones, P.D., and K.R. Briffa. 1992. Global surface air temperature variations during the
+twentieth century: Part 1, spatial, temporal and seasonal details. 
+2:165-79.
+Jones, P.D., and A. Moberg. 2003. Hemispheric and large-scale surface air temperature variations:
+An extensive revision and an update to 2001. 
+Jones, P.D., T.J. Osborn, K.R. Briffa, C.K. Folland, E.B. Horton, L.V. Alexander,
+D.E. Parker, and N.A. Rayner, 2001. Adjusting for sampling density in grid box land and ocean surface temperature time series. 
+Jones, P.D., S.C.B. Raper, R.S. Bradley, H.F. Diaz, P.M. Kelly, and T.M.L. Wigley. 1986a. Northern Hemisphere surface air temperature variations: 1851-1984.
+Jones, P.D., S.C.B. Raper, and T.M.L. Wigley. 1986b. Southern Hemisphere surface
+air temperature variations: 1851-1984. 
+25(9):1213-1230.
+Jones, P.D., T.M.L. Wigley, and P.B. Wright. 1986c. Global temperature variations
+between 1861 and 1984. 
+Morice, C.P., J.J. Kennedy, N.A. Rayner, and P.D. Jones, 2012. Quantifying uncertainties in global and regional temperature change using an ensemble of observational estimates: the HadCRUT4 dataset. , 117, D08101, doi:10.1029/2011JD017187.
+Parker, D. E., C. K. Folland, and M. Jackson. 1995. Marine surface
+temperature: observed variations and data requirements. Climatic
+Change
+Rayner, N.A., P. Brohan, D.E. Parker, C.K. Folland, J.J. Kennedy, M. Vanicek, T. Ansell, and S.F.B. Tett. 2006. Improved analyses of changes and uncertainties in marine temperature measured in situ since the mid-nineteenth century: the HadSST2 dataset.
+CITE AS: Jones, P.D., D.E. Parker, T.J. Osborn, and K.R. Briffa. 2016. Global and
+hemispheric temperature anomalies&amp;mdash;land and marine instrumental records. In Trends: A
+Compendium of Data on Global Change. Carbon Dioxide Information
+Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. doi: 10.3334/CDIAC/cli.002
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 101240 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Temp/Jones.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.002]]></Product_number>
+      <Product_title><![CDATA[Global and Hemispheric Temperature Anomalies - Land and Marine Instrumental Records]]></Product_title>
+      <Author>
+        <Name><![CDATA[Jones, P. D.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit, School of Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Parker, D. E.]]></Name>
+        <Company><![CDATA[Hadley Centre for Climate Prediction and Research]]></Company>
+        <Organization><![CDATA[Meteorological Office]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Osborn, T. J.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit, School of Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Briffa, K. R.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit, School of Environmental Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Temperature - Global]]></Thematic_area>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/jonescru/global.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/jonescru/graphics/nhshglob.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Northern Hemisphere]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/jonescru/nh.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/jonescru/seasnhsh.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/jonescru/graphics/seasnh.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Southern Hemisphere]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/jonescru/sh.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/jonescru/seasnhsh.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/jonescru/graphics/seassh.jpg]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[annual]]></Variable>
+      <Variable><![CDATA[apr]]></Variable>
+      <Variable><![CDATA[aug]]></Variable>
+      <Variable><![CDATA[dec]]></Variable>
+      <Variable><![CDATA[DJF]]></Variable>
+      <Variable><![CDATA[feb]]></Variable>
+      <Variable><![CDATA[jan]]></Variable>
+      <Variable><![CDATA[JJA]]></Variable>
+      <Variable><![CDATA[jul]]></Variable>
+      <Variable><![CDATA[jun]]></Variable>
+      <Variable><![CDATA[MAM]]></Variable>
+      <Variable><![CDATA[mar]]></Variable>
+      <Variable><![CDATA[may]]></Variable>
+      <Variable><![CDATA[nov]]></Variable>
+      <Variable><![CDATA[oct]]></Variable>
+      <Variable><![CDATA[sep]]></Variable>
+      <Variable><![CDATA[SON]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/temp/jonescru/jones.htmlSchool of Environmental Sciences, University of East Anglia,
+,
+These global and hemispheric temperature anomaly
+time series, which incorporate land and marine data,
+are continually updated and expanded by P. Jones of the 
+with help from colleagues at the CRU and other institutions.
+Some of the earliest work in producing these temperature series dates back to
+Jones (1986a,b,c), Jones (1988, 1994), and
+Jones and Briffa (1992). Most of the discussion of methods given here has been gleaned from the Frequently Asked
+Questions
+CRU temperature data web pages. Users are encouraged to visit the CRU Web site for the
+most comprehensive overview of these data (the "HadCRUT4" dataset), other associated datasets, and the most recent
+literature references to the work of Jones 
+ time series are computed
+consists of surface air temperature (SAT)
+data (land-surface meteorological data and fixed-position weather ship data) from
+over 3000 station records that
+have been corrected for non-climatic errors, such as station
+shifts and/or instrument changes (Jones 1994).
+Coverage is denser over the more populated parts of the world, particularly
+the United States, southern Canada, Europe and Japan. Coverage is sparsest over
+the interior of the South American and African continents and over the Antarctic.
+The number of available stations was small during the 1850s, but increases to
+over 3000 stations during the 1951-90 period.
+The marine data used are compiled at the
+of the and consist of sea surface temperatures (SSTs) that incorporate in situ measurements from ships and
+buoys. The SST data have been corrected for different types of buckets used before 1942
+(Folland and Parker 1995; Parker 1994, 1995).
+Since the majority of the marine observations come from the voluntary
+observing fleet, coverage is reduced away from the main shipping lanes
+and is minimal over the Southern Oceans. Maps/tables giving the density
+of coverage through time are given for land regions by Jones and Moberg (2003)
+and for the oceans by Rayner (2003). Both these sources, in addition
+to more recent work (Rayner , 2006), also
+extensively discuss the issue of consistency and homogeneity of the
+measurements through time and the steps that have been taken to ensure all
+non-climatic inhomogeneities have been removed.
+The land and marine data components are combined by first
+interpolating each to the same 5&amp;#176 x 5&amp;#176 latitude/longitude grid boxes.
+The combined version takes values from each component and
+weights the grid boxes where both occur (coastlines and islands). The
+weighting method is described in detail in Jones (2001).
+Land temperature anomalies are infilled where more than four of the surrounding
+eight 5&#176; x 5&#176; grid boxes are present, as discussed in Jones (2001).
+Infilling doesn't take place when the box is ocean, except when it
+is covered by sea ice based on 1961-90 average conditions.
+Assessing the accuracy of the resulting global and hemispheric
+temperature anomalies has always been of critical importance in the
+work of Jones .
+Annual values are approximately accurate to +/- 0.05&#176;C (two standard errors)
+for the period since 1951. They are about four times as uncertain during
+the 1850s, with the accuracy improving gradually between 1860 and 1950,
+except for temporary deteriorations during data-sparse, wartime intervals.
+Estimating accuracy is far from a trivial task, as the individual grid boxes
+are not independent of each other and the accuracy of each grid box time
+series varies through time (although an employed variance adjustment has reduced
+this influence to a large extent). The issue is discussed extensively by Brohan (2006),
+Folland (2001a,b) extend discussion to the estimate of accuracy of trends in the
+global and hemispheric series, including the additional uncertainties related
+to homogeneity corrections.
+ are now given to a precision of three
+decimal places to enable seasonal values to be calculated to &#194;&#177;0.01&#176;C.
+The extra precision implies no greater accuracy than two decimal places.
+annual mean temperature anomalies
+for the globe show relatively stable temperatures
+from the beginning of the record
+through about 1910, with relatively rapid and steady warming through the early 1940s, followed
+by another period of relatively stable temperatures through the mid-1970s. From this point
+onward, another rapid rise similar to that in the earlier part of the century is observed.
+The year 2015 was by far the warmest year in the global record (0.75&#176;C above the 1961-1990 reference period mean).
+This record uses the latest analysis, referred to as HadCRUT4 (Morice et al., 2012).
+[Jones (1999) report the 1961-1990 reference period means for the globe, northern
+hemisphere, and southern hemisphere as 14.0&#176;C, 14.6&#176;C, and 13.4&#176;C, respectively.]
+ temperature record
+(along with several other informative climate-related "Information Sheets" available from the CRU) may be found at , and states: 
+"The period 2001-2010 (0.490&#194;&#176;C above the 1961-90 average) was 0.216&#194;&#176;C warmer than the 1991-2000 decade (0.274&#194;&#176;C above the 1961-90 average). 2015 is clearly the warmest year (0.745&#194;&#176;C) with 2014 (0.567&#194;&#176;C) second, slightly warmer than 2010 (0.559&#194;&#176;C), 2005 (0.544&#194;&#176;C) and 1998 (0.536&#194;&#176;C). The coldest year of the 21st century (2008 with a value of 0.395&#194;&#176;C) was warmer than all years in the 20th century with the exception of 1998. The average of the first five years of the present decade (2011-2015) is 0.051&#194;&#176;C warmer than the average for 2001-2010."
+northern and southern hemisphere annual
+trend series show some general similarities, e.g.,
+little sign of trends before about 1900, a peak in the early 1940s, and the highest temperatures
+occurring after 1980; but there are several notable differences. A steady period of warming is
+seen for the northern hemisphere from about 1910 through the mid-1940s. For the southern
+hemisphere, there is less warming observed from about 1910 through 1930, with sudden and
+rapid warming from about 1930 through the mid-1940s. The northern hemisphere record shows
+gradual cooling from the mid-1940s through the mid-1970s, followed by rapid temperature 
+increases thereafter. The southern hemisphere shows an abrupt shift to cooler temperatures
+after 1945, quite variable temperatures until the mid-1970s, followed by a gradual increase
+over the remainder of the record.
+, it is interesting
+to note that for all seasons, a warming trend
+does not commence until about 1910. All seasons show somewhat of a peak
+in the 1940s and steady warming after about
+the mid-1960s. The record warmth of 1998 still stands out as the
+warmest year across all seasons except for austral spring (SON), which set a new record in 2015.
+seasonal series for the northern hemisphere show warming from about 1910 through the early 1940s, but with the exception of spring (MAM) show cooling through the mid-1970s.
+All seasons show a general warming from the mid-1970s onward, but recent
+winters have on average been colder than those of the first decade of the 21st century. 2015 recorded the warmest spring, summer, and fall on record for the northern hemisphere.
+ GIF gives an animated look at global monthly mean temperatures since 1850.
+Brohan, P., J.J. Kennedy, I. Harris, S.F.B. Tett, and P.D. Jones. 2006. Uncertainty estimates in regional and global observed temperature changes: a new dataset from 1850.
+Folland, C.K., N.A. Rayner, S.J. Brown, T.M. Smith, S.S.P. Shen, D.E. Parker, I. Macadam,
+P.D. Jones, R.N. Jones, N. Nicholls, and D.M.H. Sexton, 2001a. Global temperature change and
+its uncertainties since 1861. 
+Folland, C.K., T.R. Karl, J.R. Christy, R.A. Clarke, G.V. Gruza, J. Jouzel, M.E. Mann, J. Oerlemans,
+M.J. Salinger, and S.-W. Wang, 2001b. Observed Climate Variability and Change. pp. 99-181
+In: Contribution of Working Group I to the
+Third Assessment Report of the Intergovernmental Panel on Climate Change (Houghton, J.T.,
+Ding, Y., Griggs, D.J., Noguer, M., van der Linden, P.J., Dai, X., Maskell, K. and Johnson, C.A. Eds.).
+Cambridge University Press, Cambridge, UK, 881pp.
+Jones, P.D. 1988. Hemispheric surface air temperature variations: Recent trends and
+an update to 1987. 
+Jones, P. D. 1994. Hemispheric surface air temperature variations:
+A reanalysis and an update to 1993. 
+Jones, P.D., and K.R. Briffa. 1992. Global surface air temperature variations during the
+twentieth century: Part 1, spatial, temporal and seasonal details. 
+2:165-79.
+Jones, P.D., and A. Moberg. 2003. Hemispheric and large-scale surface air temperature variations:
+An extensive revision and an update to 2001. 
+Jones, P.D., T.J. Osborn, K.R. Briffa, C.K. Folland, E.B. Horton, L.V. Alexander,
+D.E. Parker, and N.A. Rayner, 2001. Adjusting for sampling density in grid box land and ocean surface temperature time series. 
+Jones, P.D., S.C.B. Raper, R.S. Bradley, H.F. Diaz, P.M. Kelly, and T.M.L. Wigley. 1986a. Northern Hemisphere surface air temperature variations: 1851-1984.
+Jones, P.D., S.C.B. Raper, and T.M.L. Wigley. 1986b. Southern Hemisphere surface
+air temperature variations: 1851-1984. 
+25(9):1213-1230.
+Jones, P.D., T.M.L. Wigley, and P.B. Wright. 1986c. Global temperature variations
+between 1861 and 1984. 
+Morice, C.P., J.J. Kennedy, N.A. Rayner, and P.D. Jones, 2012. Quantifying uncertainties in global and regional temperature change using an ensemble of observational estimates: the HadCRUT4 dataset. , 117, D08101, doi:10.1029/2011JD017187.
+Parker, D. E., C. K. Folland, and M. Jackson. 1995. Marine surface
+temperature: observed variations and data requirements. Climatic
+Change
+Rayner, N.A., P. Brohan, D.E. Parker, C.K. Folland, J.J. Kennedy, M. Vanicek, T. Ansell, and S.F.B. Tett. 2006. Improved analyses of changes and uncertainties in marine temperature measured in situ since the mid-nineteenth century: the HadSST2 dataset.
+CITE AS: Jones, P.D., D.E. Parker, T.J. Osborn, and K.R. Briffa. 2016. Global and
+hemispheric temperature anomalies&amp;mdash;land and marine instrumental records. In Trends: A
+Compendium of Data on Global Change. Carbon Dioxide Information
+Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. doi: 10.3334/CDIAC/cli.002
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20000126]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20010701]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/trends/temp/jonescru/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[64KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ Trends in annual mean temperature anomalies for the globe show relatively stable temperatures from the beginning of the record through about 1910, with relatively rapid and steady warming through the early 1940s, followed by another period of relatively stable temperatures through the mid-1970s. From this point onward, another rapid rise similar to that in the earlier part of the century is observed. Nineteen ninety-eight was the warmest year of the global mean temperature series to date, followed by 1997. 1998's anomaly was 0.57 degrees C above the 1961-1990 reference period mean temperature. (Jones et al. (1999) report the 1961-1990 reference period means for the globe, northern hemisphere, and southern hemisphere as 14.0 degrees C, 14.6 degrees C, and 13.4 degrees C, respectively.) The most recent year of the record, 2000, also saw a significant positive temperature anomaly (0.29 degrees C), but represents a cooling compared to the recent very warm years of 1997 and 1998. Still, 2000 ties 1991 for the sixth warmest year in the global record, and the eight warmest years of the global record have all occurred since 1990. These are, in descending order, 1998, 1997, 1995, 1990, 1999, (2000 and 1991 - tie), and 1994. The findings of Jones and Briffa (1992) still offer a good general description of the full period of record at this point: the average surface air temperature of the globe has warmed ~0.5 degrees C since the middle of the nineteenth century. In addition, Briffa and Jones (1993) and Nicholls et al. (1996) (which made use of all but the last few years of the record described herein) concluded that the warming has varied in extent and magnitude across the globe and a few areas have even cooled since the nineteenth century. More recent analyses of the temperature data include Jones et al. (1999; 2001).
+<br><br>
+ The northern and southern hemisphere annual trends series show some general similarities, e.g., little sign of trends before about 1900, a peak in the early 1940s, and the highest temperatures occurring after 1980; but there are several notable differences. A steady period of warming is seen for the northern hemisphere from about 1910 through the early 1940s. For the southern hemisphere, there is no warming observed from about 1910 through 1930, but there was sudden and rapid warming from about 1930 through the early 1940s. The northern hemisphere record shows gradual cooling from the early 1940s through the mid-1970s, followed by rather steady temperature increases thereafter. The southern hemisphere shows an abrupt shift to cooler temperatures after 1945, followed by a gradual increase over several decades, and a general leveling off since the late 1980s. However, the southern hemisphere time series shows the two highest temperature anomalies occurring in 1997 and 1998. The 1990s in the northern hemisphere show a very different picture, with highly variable temperatures. After a very warm 1990, several much cooler years followed, with a return to then-record warmth in 1995, and the current record high in 1998. The cooler years of the early 1990s (mainly 1992 and 1993) are believed to have resulted from the effects of the dust veil produced by the eruption of Mt. Pinatubo (Kelly et al. 1996; Parker et al. 1996). ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

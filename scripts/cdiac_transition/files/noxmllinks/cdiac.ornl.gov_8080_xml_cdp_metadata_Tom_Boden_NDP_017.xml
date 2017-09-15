@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Olson, J. S.]]></origin>
+        <origin><![CDATA[Watts, J. A.]]></origin>
+        <origin><![CDATA[Allison, L. J.]]></origin>
+        <title><![CDATA[Major World Ecosystem Complexes Ranked by Carbon in Live Vegetation: A Database]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Major World Ecosystem Complexes Ranked by Carbon in Live Vegetation: A Database]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19800101]]></begdate>
+          <enddate><![CDATA[19801231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.00]]></westbc>
+        <eastbc><![CDATA[180.00]]></eastbc>
+        <northbc><![CDATA[90.00]]></northbc>
+        <southbc><![CDATA[-90.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Biomass]]></themekey>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Cover]]></themekey>
+        <themekey><![CDATA[Ecosystem]]></themekey>
+        <themekey><![CDATA[Vegetation]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 144419</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164020 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Biomass]]></Keywords>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Cover]]></Keywords>
+    <Keywords><![CDATA[Ecosystem]]></Keywords>
+    <Keywords><![CDATA[Vegetation]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+CDIAC = Carbon Dioxide Information Analysis Center
+FTP = file transfer protocol
+NDP = numeric data package
+The data are presented in two alternative files: one matrix file of 125 KB, providing latitude, longitude, and ecosystem code; and one flat file (simpler format and additional information on ecosystem name; gridcell area; and medium, revised medium, minimum, and maximum estimates of carbon density) of 1.6 MB (compressed *.Z).
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+P.O. Box 2008
+Oak Ridge, Tennessee 37831-6290, U.S.A.
+Telephone: 1-865-574-3645
+Telefax: 1-865-574-2232
+ First twenty data records of ndp017.dat: 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 5272 0 769 2270 569414 0
+ 11195 0 1969 470 169 370 1069 34 0 1069 2870 1169405 0
+ 13188 0 1069 1870 369 370 969 370 469 7 0 969 3 0 5870405 0
+ 20181 0 469 1970 269 870 1869 170 4 0 1569 5670 2 0 270 369 10 0 370
+ 269 470142 0 153243 0
+ 24173 0 369 3 0 1369 1170 469 570 1869 7 0 1169 5970 769 2 0 869 470
+ 369 270140 0 453 10 0 353 61 0 1 0168 0
+ Last twenty data records of ndp017.dat: 5 33 0 717 17 062317 40 0
+ 3 64 061617 40 0
+ 3 70 061117 39 0
+ 3 53 062817 39 0
+ 3 51 063317 36 0
+ 3 52 063517 33 0
+ 3 52 063917 29 0
+ 3 53 064417 23 0
+ 3 54 066417 2 0
+ 3 317 53 066417
+ 3 2417 41 065517
+ 3 3217 36 065217
+ 172017
+ 172017
+ 172017
+ 172017
+ 172017
+ 172017
+ 172017
+ 172017
+ 172017
+ First ten data records of ndp017_g.dat.Z (uncompressed): 89.75 -179.75 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -179.25 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -178.75 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -178.25 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -177.75 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -177.25 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -176.75 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -176.25 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -175.75 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -175.25 0 WATER 1 0.00 0.00 0.0 0.0
+ Last ten data records of ndp017_g.dat.Z (uncompressed):-89.75 175.25 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 175.75 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 176.25 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 176.75 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 177.25 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 177.75 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 178.25 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 178.75 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 179.25 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 179.75 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+First 10 data records of olson-carbon.e00 (uncompressed):
+EXP 0 /SYS3/TAW/OLSON-CARBON.E00
+ARC 2
+ 1 0 2 1 1 2 494
+-1.8000000E 8.9999985E1.8000000E 9.0499985E
+-1.7950000E 9.0499985E1.7900000E 9.0499985E
+-1.7850000E 9.0499985E1.7800000E 9.0499985E
+-1.7750000E 9.0499985E1.7700000E 9.0499985E
+-1.7650000E 9.0499985E1.7600000E 9.0499985E
+-1.7550000E 9.0499985E1.7500000E 9.0499985E
+-1.7450000E 9.0499985E1.7400000E 9.0499985E
+Last 10 data records of olson-carbon.e00 (uncompressed):
+OLSON-CARBON.TIC XX 3 3 12 4
+IDTIC 4-1 14-1 5-1 50-1 -1 -1-1 1-
+XTIC 4-1 54-1 12 3 60-1 -1 -1-1 2-
+YTIC 4-1 94-1 12 3 60-1 -1 -1-1 3-
+ 1-1.8000000E8.9500000E
+ 2-1.8000000E 9.0500000E
+ 3 1.8000000E 9.0500000E
+ 4 1.8000000E8.9500000E
+EOI
+EOS
+ REAL*16 VTYP(720),VN(47)
+ INTEGER SURF,SYM
+ DIMENSION SURF(200,2),SYM(720),LAT(360),X(720),Y(720)
+ DIMENSION XF(720),YF(720),ISYM(720)
+ DATA VN/'ANTARCTICA ','MAIN TAIGA ',
+ 1 'COOL CONIFER ','COOL MIXED ','WARM DECIDUOUS ',
+ 2 'WARM MIXED ','WARM CONIFER ','TROPICAL MONTANE',
+ 3 'TROP SEASONAL ','EQ. EVERGREEN ','COOL CROPS ',
+ 4 'WARM CROPS ','TROPICAL DRY FOR','PADDYLANDS ',
+ 5 'WARM IRRIGATED ','COOL IRRIGATED ','COLD IRRIGATED ',
+ 6 'COOL GRASS/SHRUB','WARM GRASS/SHRUB','HIGHLAND SHRUB ',
+ 7 'MED. GRAZING ','SEMIARID WOODS ','SIBERIAN PARKS ',
+ 8 'HEATHS, MOORS ','SUCCULENT THORNS','NORTH. TAIGA ',
+ 9 'TROP. SAVANNA ','COOL FIELD/WOODS','WARM FIELD WOODS',
+ 1 'WARM FOR./FIELD ','COOL FOR./FIELD ','SOUTH.TAIGA ',
+ 2 'E. SOUTH. TAIGA ','TROP. MONTANE ','MARSH, SWAMP ',
+ 3 'MANGROVES ','LOW SCRUB ','BOGS, BOG WOODS ',
+ 4 'HOT DESERT ','COOL DESERT ','WOODED TUNDRA ',
+ 5 'TUNDRA ','SAND DESERT ','POLAR DESERT ',
+ 6 'ICE ','WATER ','POLAR DESERT ',
+ 7 'COASTAL EDGES '/
+C STARTING LATITUDE AND LONGITUDE POINTS CENTERED ON CELL
+ DO 55 ILO=1,720
+55 XF(ILO)=-179.75(0.5*(ILO-1))
+C READ IN DATA FOR EACH 0.5 DEGREE LATITUDE BAND
+C NP=NO. OF PAIRS OF POINTS AND VEGETATION CODE
+C SURF(IP,1) IS NO. OF CONSECUTIVE CELLS HAVING VEGETATION TYPE
+C DEFINED IN SURF(I,2)
+C SURF(I,2) IS VEGETATION CODE
+ DO 1 IROW=1,360
+ YLAT=89.75-(0.5*(IROW-1))
+ READ(5,8001) NP,(SURF(IP,1),SURF(IP,2),IP=1,15)
+ IF(NP .LE. 15) GO TO 30
+10 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=16,30)
+ IF(NP .LE. 30) GO TO 30
+11 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=31,45)
+ IF(NP .LE. 45) GO TO 30
+12 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=46,60)
+ IF(NP .LE. 65) GO TO 30
+13 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=61,75)
+ IF(NP .LE. 75) GO TO 30
+14 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=76,90)
+ IF(NP .LE. 90) GO TO 30
+15 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=91,105)
+ IF(NP .LE. 105) GO TO 30
+16 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=106,120)
+ IF(NP .LE. 120) GO TO 30
+17 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=121,135)
+ IF(NP .LE. 135) GO TO 30
+18 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=136,150)
+ IF(NP .LE. 150) GO TO 30
+19 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=151,165)
+8001 FORMAT(I3,15(I3,I2))
+8002 FORMAT(3X,15(I3,I2))
+30 CONINUE
+C SET UP COUNTERS TO LOOP THRU TO DEFINE ECOSYSTEM COMPLEX
+C FOR EACH CELL ON A LAT-LONG BASIS
+C LOOP FOR NP PAIRS
+ IK=0
+ IC=1
+ DO 2 I=1,NP
+ I2=SURF(I,2)
+ I1=SURF(I,1)
+ IK=IC1
+ DO 3 J=IC,IK
+ SYM(J)=I2
+3 CONTINUE
+ IC=IC
+2 CONTINUE
+ DO 5 IKT=1,720
+ IF(IKT)=YLAT
+ ISYM(IKT)=SYM(IKT)
+ IF(ISYM(IKT) .EQ. 0) VTYP(IKT)=VN(46)
+ IF(ISYM(IKT) .EQ. 17) VTYP(IKT)=VN(1)
+ IF(ISYM(IKT) .EQ.20 .OR. ISYM(IKT) .EQ. 21)
+1 VTYP(IKT)=VN(2)
+ IF(ISYM(IKT) .EQ. 22) VTYP(IKT)=VN(3)
+ IF(ISYM(IKT) .EQ. 23) VTYP(IKT)=VN(4)
+ IF(ISYM(IKT) .EQ. 24) VTYP(IKT)=VN(5)
+ IF(ISYM(IKT) .EQ.25 .OR. ISYM(IKT) .EQ. 26)
+1 VTYP(IKT)=VN(6)
+ IF(ISYM(IKT) .EQ. 27) VTYP(IKT)=VN(7)
+ IF(ISYM(IKT) .EQ. 28) VTYP(IKT)=VN(8)
+ IF(ISYM(IKT) .EQ. 29) VTYP(IKT)=VN(9)
+ IF(ISYM(IKT) .EQ. 33) VTYP(IKT)=VN(10)
+ IF(ISYM(IKT) .EQ. 30) VTYP(IKT)=VN(11)
+ IF(ISYM(IKT) .EQ. 31) VTYP(IKT)=VN(12)
+ IF(ISYM(IKT) .EQ. 32) VTYP(IKT)=VN(13)
+ IF(ISYM(IKT) .EQ. 36) VTYP(IKT)=VN(14)
+ IF(ISYM(IKT) .EQ. 37) VTYP(IKT)=VN(15)
+ IF(ISYM(IKT) .EQ. 38) VTYP(IKT)=VN(16)
+ IF(ISYM(IKT) .EQ. 39) VTYP(IKT)=VN(17)
+ IF(ISYM(IKT) .EQ. 40) VTYP(IKT)=VN(18)
+ IF(ISYM(IKT) .EQ. 41) VTYP(IKT)=VN(19)
+ IF(ISYM(IKT) .EQ. 47) VTYP(IKT)=VN(20)
+ IF(ISYM(IKT) .EQ. 46) VTYP(IKT)=VN(21)
+ IF(ISYM(IKT) .EQ. 48) VTYP(IKT)=VN(22)
+ IF(ISYM(IKT) .EQ. 42) VTYP(IKT)=VN(23)
+ IF(ISYM(IKT) .EQ. 64) VTYP(IKT)=VN(24)
+ IF(ISYM(IKT) .EQ. 59) VTYP(IKT)=VN(25)
+ IF(ISYM(IKT) .EQ. 62) VTYP(IKT)=VN(26)
+ IF(ISYM(IKT) .EQ. 43) VTYP(IKT)=VN(27)
+ IF(ISYM(IKT) .EQ. 55) VTYP(IKT)=VN(28)
+ IF(ISYM(IKT) .EQ. 58) VTYP(IKT)=VN(29)
+ IF(ISYM(IKT) .EQ. 56) VTYP(IKT)=VN(30)
+ IF(ISYM(IKT) .EQ. 57) VTYP(IKT)=VN(31)
+ IF(ISYM(IKT) .EQ. 60) VTYP(IKT)=VN(32)
+ IF(ISYM(IKT) .EQ. 61) VTYP(IKT)=VN(33)
+ IF(ISYM(IKT) .EQ. 28) VTYP(IKT)=VN(34)
+ IF(ISYM(IKT) .EQ. 45) VTYP(IKT)=VN(35)
+ IF(ISYM(IKT) .EQ. 72) VTYP(IKT)=VN(36)
+ IF(ISYM(IKT) .EQ. 49) VTYP(IKT)=VN(37)
+ IF(ISYM(IKT) .EQ. 44) VTYP(IKT)=VN(38)
+ IF(ISYM(IKT) .EQ. 51 .OR. SYM(IKT) .EQ. 71)
+ 1 VTYP(IKT)=VN(39)
+ IF(ISYM(IKT) .EQ. 52) VTYP(IKT)=VN(40)
+ IF(ISYM(IKT) .EQ. 63) VTYP(IKT)=VN(41)
+ IF(ISYM(IKT) .EQ. 53 .OR. SYM(IKT) .EQ. 54)
+ 1 VTYP(IKT)=VN(42)
+ IF(ISYM(IKT) .EQ. 50) VTYP(IKT)=VN(43)
+ IF(ISYM(IKT) .EQ. 69) VTYP(IKT)=VN(44)
+ IF(ISYM(IKT) .EQ. 70) VTYP(IKT)=VN(45)
+ IF(ISYM(IKT) .GE. 65 .AND.
+ 1 ISYM(IKT) .LE. 68) VTYP(IKT)=VN(47)
+5 CONTINUE
+ WRITE(6,200)
+ DO 15 NCT=1,720,2
+ IF (MOD(NCT,120) .EQ. 0) WRITE(6,200)
+200 FORMAT(1H1,'LATITUDE',3X,'LONGITUDE',3X,
+ 1 'ECOSYSTEM CODE',3X,'ECOSYSTEM COMPLEX',10X,'LATITUDE',3X,
+ 2 'LONGITUDE',3X,'ECOSYSTEM CODE',3X,'ECOSYSTEM COMPLEX')
+ WRITE(6,230) YF(NCT),XF(NCT),ISYM(NCT),VTYP(NCT),
+ 1 YF(NCT),XF(NCT),ISYM(NCT),VTYP(NCT)
+ FOPRMAT(1H ,F8.2,3X,F9.2,9X,I2,8X,A16,10X,F8.2,3X,
+ 2 F9.2,9X,I2,8X,A16)
+15 CONTINUE
+1 CONTINUE
+ STOP
+ END
+/*
+data ndp017;
+infile 'ndp017_g.dat' firstobs=21;
+input LAT 1-6 LON 8-14 ECOCODE 17-18 ECO $ 20-36 AREA 38-41
+ MEDCD 43-47 RMEDCD 50-54 MINCD 57-60 MAXCD 64-67;
+run;
+ area=(abs(sin(radian*(lat_deg.5))
+ -sin(radian*(lat_deg-0.5)))/2)
+ *((1.4186e6)/(4));
+C
+ INTEGER ECOCODE, AREA
+C
+ REAL LAT, LON, MEDCD, RMEDCD, MINCD, MAXCD
+C
+ CHARACTER ECO
+C
+ OPEN (UNIT=1, FILE='ndp017_g.dat')
+C
+ 10 READ (1,100,END=99) LAT, LON, ECOCODE, ECO, AREA, MEDCD,
+ RMEDCD, MINCD, MAXCD
+C
+ 100 FORMAT (F6.2, 1X, F7.2, 2X, I2, 1X, A17, 1X, I4, 1X, F5.2,
+ 2X, F5.2, 2X, F4.1, 3X, F4.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164020 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.ndp017]]></Product_number>
+      <Product_title><![CDATA[Major World Ecosystem Complexes Ranked by Carbon in Live Vegetation: A Database]]></Product_title>
+      <Author>
+        <Name><![CDATA[Olson, J. S.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Watts, J. A.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Allison, L. J.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp017/ndp017.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017/ndp017.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017/ndp017_g.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017/olson-carbon.e00.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017/table.html]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[AREA]]></Variable>
+      <Variable><![CDATA[ECO]]></Variable>
+      <Variable><![CDATA[ECOCODE]]></Variable>
+      <Variable><![CDATA[LAT]]></Variable>
+      <Variable><![CDATA[LON]]></Variable>
+      <Variable><![CDATA[MAXCD]]></Variable>
+      <Variable><![CDATA[MEDCD]]></Variable>
+      <Variable><![CDATA[MINCD]]></Variable>
+      <Variable><![CDATA[NP]]></Variable>
+      <Variable><![CDATA[RMEDCD]]></Variable>
+      <Variable><![CDATA[SURF(IP-1)]]></Variable>
+      <Variable><![CDATA[SURF(IP-2)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp017/ndp017.html&#239;&#187;&#191;
+CDIAC = Carbon Dioxide Information Analysis Center
+FTP = file transfer protocol
+NDP = numeric data package
+The data are presented in two alternative files: one matrix file of 125 KB, providing latitude, longitude, and ecosystem code; and one flat file (simpler format and additional information on ecosystem name; gridcell area; and medium, revised medium, minimum, and maximum estimates of carbon density) of 1.6 MB (compressed *.Z).
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+P.O. Box 2008
+Oak Ridge, Tennessee 37831-6290, U.S.A.
+Telephone: 1-865-574-3645
+Telefax: 1-865-574-2232
+ First twenty data records of ndp017.dat: 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 1720 0
+ 5272 0 769 2270 569414 0
+ 11195 0 1969 470 169 370 1069 34 0 1069 2870 1169405 0
+ 13188 0 1069 1870 369 370 969 370 469 7 0 969 3 0 5870405 0
+ 20181 0 469 1970 269 870 1869 170 4 0 1569 5670 2 0 270 369 10 0 370
+ 269 470142 0 153243 0
+ 24173 0 369 3 0 1369 1170 469 570 1869 7 0 1169 5970 769 2 0 869 470
+ 369 270140 0 453 10 0 353 61 0 1 0168 0
+ Last twenty data records of ndp017.dat: 5 33 0 717 17 062317 40 0
+ 3 64 061617 40 0
+ 3 70 061117 39 0
+ 3 53 062817 39 0
+ 3 51 063317 36 0
+ 3 52 063517 33 0
+ 3 52 063917 29 0
+ 3 53 064417 23 0
+ 3 54 066417 2 0
+ 3 317 53 066417
+ 3 2417 41 065517
+ 3 3217 36 065217
+ 172017
+ 172017
+ 172017
+ 172017
+ 172017
+ 172017
+ 172017
+ 172017
+ 172017
+ First ten data records of ndp017_g.dat.Z (uncompressed): 89.75 -179.75 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -179.25 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -178.75 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -178.25 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -177.75 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -177.25 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -176.75 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -176.25 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -175.75 0 WATER 1 0.00 0.00 0.0 0.0
+ 89.75 -175.25 0 WATER 1 0.00 0.00 0.0 0.0
+ Last ten data records of ndp017_g.dat.Z (uncompressed):-89.75 175.25 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 175.75 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 176.25 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 176.75 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 177.25 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 177.75 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 178.25 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 178.75 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 179.25 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+-89.75 179.75 17 ANTARCTICA 1 0.00 0.00 0.0 0.0
+First 10 data records of olson-carbon.e00 (uncompressed):
+EXP 0 /SYS3/TAW/OLSON-CARBON.E00
+ARC 2
+ 1 0 2 1 1 2 494
+-1.8000000E 8.9999985E1.8000000E 9.0499985E
+-1.7950000E 9.0499985E1.7900000E 9.0499985E
+-1.7850000E 9.0499985E1.7800000E 9.0499985E
+-1.7750000E 9.0499985E1.7700000E 9.0499985E
+-1.7650000E 9.0499985E1.7600000E 9.0499985E
+-1.7550000E 9.0499985E1.7500000E 9.0499985E
+-1.7450000E 9.0499985E1.7400000E 9.0499985E
+Last 10 data records of olson-carbon.e00 (uncompressed):
+OLSON-CARBON.TIC XX 3 3 12 4
+IDTIC 4-1 14-1 5-1 50-1 -1 -1-1 1-
+XTIC 4-1 54-1 12 3 60-1 -1 -1-1 2-
+YTIC 4-1 94-1 12 3 60-1 -1 -1-1 3-
+ 1-1.8000000E8.9500000E
+ 2-1.8000000E 9.0500000E
+ 3 1.8000000E 9.0500000E
+ 4 1.8000000E8.9500000E
+EOI
+EOS
+ REAL*16 VTYP(720),VN(47)
+ INTEGER SURF,SYM
+ DIMENSION SURF(200,2),SYM(720),LAT(360),X(720),Y(720)
+ DIMENSION XF(720),YF(720),ISYM(720)
+ DATA VN/'ANTARCTICA ','MAIN TAIGA ',
+ 1 'COOL CONIFER ','COOL MIXED ','WARM DECIDUOUS ',
+ 2 'WARM MIXED ','WARM CONIFER ','TROPICAL MONTANE',
+ 3 'TROP SEASONAL ','EQ. EVERGREEN ','COOL CROPS ',
+ 4 'WARM CROPS ','TROPICAL DRY FOR','PADDYLANDS ',
+ 5 'WARM IRRIGATED ','COOL IRRIGATED ','COLD IRRIGATED ',
+ 6 'COOL GRASS/SHRUB','WARM GRASS/SHRUB','HIGHLAND SHRUB ',
+ 7 'MED. GRAZING ','SEMIARID WOODS ','SIBERIAN PARKS ',
+ 8 'HEATHS, MOORS ','SUCCULENT THORNS','NORTH. TAIGA ',
+ 9 'TROP. SAVANNA ','COOL FIELD/WOODS','WARM FIELD WOODS',
+ 1 'WARM FOR./FIELD ','COOL FOR./FIELD ','SOUTH.TAIGA ',
+ 2 'E. SOUTH. TAIGA ','TROP. MONTANE ','MARSH, SWAMP ',
+ 3 'MANGROVES ','LOW SCRUB ','BOGS, BOG WOODS ',
+ 4 'HOT DESERT ','COOL DESERT ','WOODED TUNDRA ',
+ 5 'TUNDRA ','SAND DESERT ','POLAR DESERT ',
+ 6 'ICE ','WATER ','POLAR DESERT ',
+ 7 'COASTAL EDGES '/
+C STARTING LATITUDE AND LONGITUDE POINTS CENTERED ON CELL
+ DO 55 ILO=1,720
+55 XF(ILO)=-179.75(0.5*(ILO-1))
+C READ IN DATA FOR EACH 0.5 DEGREE LATITUDE BAND
+C NP=NO. OF PAIRS OF POINTS AND VEGETATION CODE
+C SURF(IP,1) IS NO. OF CONSECUTIVE CELLS HAVING VEGETATION TYPE
+C DEFINED IN SURF(I,2)
+C SURF(I,2) IS VEGETATION CODE
+ DO 1 IROW=1,360
+ YLAT=89.75-(0.5*(IROW-1))
+ READ(5,8001) NP,(SURF(IP,1),SURF(IP,2),IP=1,15)
+ IF(NP .LE. 15) GO TO 30
+10 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=16,30)
+ IF(NP .LE. 30) GO TO 30
+11 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=31,45)
+ IF(NP .LE. 45) GO TO 30
+12 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=46,60)
+ IF(NP .LE. 65) GO TO 30
+13 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=61,75)
+ IF(NP .LE. 75) GO TO 30
+14 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=76,90)
+ IF(NP .LE. 90) GO TO 30
+15 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=91,105)
+ IF(NP .LE. 105) GO TO 30
+16 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=106,120)
+ IF(NP .LE. 120) GO TO 30
+17 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=121,135)
+ IF(NP .LE. 135) GO TO 30
+18 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=136,150)
+ IF(NP .LE. 150) GO TO 30
+19 READ(5,8002) (SURF(IP,1),SURF(IP,2),IP=151,165)
+8001 FORMAT(I3,15(I3,I2))
+8002 FORMAT(3X,15(I3,I2))
+30 CONINUE
+C SET UP COUNTERS TO LOOP THRU TO DEFINE ECOSYSTEM COMPLEX
+C FOR EACH CELL ON A LAT-LONG BASIS
+C LOOP FOR NP PAIRS
+ IK=0
+ IC=1
+ DO 2 I=1,NP
+ I2=SURF(I,2)
+ I1=SURF(I,1)
+ IK=IC1
+ DO 3 J=IC,IK
+ SYM(J)=I2
+3 CONTINUE
+ IC=IC
+2 CONTINUE
+ DO 5 IKT=1,720
+ IF(IKT)=YLAT
+ ISYM(IKT)=SYM(IKT)
+ IF(ISYM(IKT) .EQ. 0) VTYP(IKT)=VN(46)
+ IF(ISYM(IKT) .EQ. 17) VTYP(IKT)=VN(1)
+ IF(ISYM(IKT) .EQ.20 .OR. ISYM(IKT) .EQ. 21)
+1 VTYP(IKT)=VN(2)
+ IF(ISYM(IKT) .EQ. 22) VTYP(IKT)=VN(3)
+ IF(ISYM(IKT) .EQ. 23) VTYP(IKT)=VN(4)
+ IF(ISYM(IKT) .EQ. 24) VTYP(IKT)=VN(5)
+ IF(ISYM(IKT) .EQ.25 .OR. ISYM(IKT) .EQ. 26)
+1 VTYP(IKT)=VN(6)
+ IF(ISYM(IKT) .EQ. 27) VTYP(IKT)=VN(7)
+ IF(ISYM(IKT) .EQ. 28) VTYP(IKT)=VN(8)
+ IF(ISYM(IKT) .EQ. 29) VTYP(IKT)=VN(9)
+ IF(ISYM(IKT) .EQ. 33) VTYP(IKT)=VN(10)
+ IF(ISYM(IKT) .EQ. 30) VTYP(IKT)=VN(11)
+ IF(ISYM(IKT) .EQ. 31) VTYP(IKT)=VN(12)
+ IF(ISYM(IKT) .EQ. 32) VTYP(IKT)=VN(13)
+ IF(ISYM(IKT) .EQ. 36) VTYP(IKT)=VN(14)
+ IF(ISYM(IKT) .EQ. 37) VTYP(IKT)=VN(15)
+ IF(ISYM(IKT) .EQ. 38) VTYP(IKT)=VN(16)
+ IF(ISYM(IKT) .EQ. 39) VTYP(IKT)=VN(17)
+ IF(ISYM(IKT) .EQ. 40) VTYP(IKT)=VN(18)
+ IF(ISYM(IKT) .EQ. 41) VTYP(IKT)=VN(19)
+ IF(ISYM(IKT) .EQ. 47) VTYP(IKT)=VN(20)
+ IF(ISYM(IKT) .EQ. 46) VTYP(IKT)=VN(21)
+ IF(ISYM(IKT) .EQ. 48) VTYP(IKT)=VN(22)
+ IF(ISYM(IKT) .EQ. 42) VTYP(IKT)=VN(23)
+ IF(ISYM(IKT) .EQ. 64) VTYP(IKT)=VN(24)
+ IF(ISYM(IKT) .EQ. 59) VTYP(IKT)=VN(25)
+ IF(ISYM(IKT) .EQ. 62) VTYP(IKT)=VN(26)
+ IF(ISYM(IKT) .EQ. 43) VTYP(IKT)=VN(27)
+ IF(ISYM(IKT) .EQ. 55) VTYP(IKT)=VN(28)
+ IF(ISYM(IKT) .EQ. 58) VTYP(IKT)=VN(29)
+ IF(ISYM(IKT) .EQ. 56) VTYP(IKT)=VN(30)
+ IF(ISYM(IKT) .EQ. 57) VTYP(IKT)=VN(31)
+ IF(ISYM(IKT) .EQ. 60) VTYP(IKT)=VN(32)
+ IF(ISYM(IKT) .EQ. 61) VTYP(IKT)=VN(33)
+ IF(ISYM(IKT) .EQ. 28) VTYP(IKT)=VN(34)
+ IF(ISYM(IKT) .EQ. 45) VTYP(IKT)=VN(35)
+ IF(ISYM(IKT) .EQ. 72) VTYP(IKT)=VN(36)
+ IF(ISYM(IKT) .EQ. 49) VTYP(IKT)=VN(37)
+ IF(ISYM(IKT) .EQ. 44) VTYP(IKT)=VN(38)
+ IF(ISYM(IKT) .EQ. 51 .OR. SYM(IKT) .EQ. 71)
+ 1 VTYP(IKT)=VN(39)
+ IF(ISYM(IKT) .EQ. 52) VTYP(IKT)=VN(40)
+ IF(ISYM(IKT) .EQ. 63) VTYP(IKT)=VN(41)
+ IF(ISYM(IKT) .EQ. 53 .OR. SYM(IKT) .EQ. 54)
+ 1 VTYP(IKT)=VN(42)
+ IF(ISYM(IKT) .EQ. 50) VTYP(IKT)=VN(43)
+ IF(ISYM(IKT) .EQ. 69) VTYP(IKT)=VN(44)
+ IF(ISYM(IKT) .EQ. 70) VTYP(IKT)=VN(45)
+ IF(ISYM(IKT) .GE. 65 .AND.
+ 1 ISYM(IKT) .LE. 68) VTYP(IKT)=VN(47)
+5 CONTINUE
+ WRITE(6,200)
+ DO 15 NCT=1,720,2
+ IF (MOD(NCT,120) .EQ. 0) WRITE(6,200)
+200 FORMAT(1H1,'LATITUDE',3X,'LONGITUDE',3X,
+ 1 'ECOSYSTEM CODE',3X,'ECOSYSTEM COMPLEX',10X,'LATITUDE',3X,
+ 2 'LONGITUDE',3X,'ECOSYSTEM CODE',3X,'ECOSYSTEM COMPLEX')
+ WRITE(6,230) YF(NCT),XF(NCT),ISYM(NCT),VTYP(NCT),
+ 1 YF(NCT),XF(NCT),ISYM(NCT),VTYP(NCT)
+ FOPRMAT(1H ,F8.2,3X,F9.2,9X,I2,8X,A16,10X,F8.2,3X,
+ 2 F9.2,9X,I2,8X,A16)
+15 CONTINUE
+1 CONTINUE
+ STOP
+ END
+/*
+data ndp017;
+infile 'ndp017_g.dat' firstobs=21;
+input LAT 1-6 LON 8-14 ECOCODE 17-18 ECO $ 20-36 AREA 38-41
+ MEDCD 43-47 RMEDCD 50-54 MINCD 57-60 MAXCD 64-67;
+run;
+ area=(abs(sin(radian*(lat_deg.5))
+ -sin(radian*(lat_deg-0.5)))/2)
+ *((1.4186e6)/(4));
+C
+ INTEGER ECOCODE, AREA
+C
+ REAL LAT, LON, MEDCD, RMEDCD, MINCD, MAXCD
+C
+ CHARACTER ECO
+C
+ OPEN (UNIT=1, FILE='ndp017_g.dat')
+C
+ 10 READ (1,100,END=99) LAT, LON, ECOCODE, ECO, AREA, MEDCD,
+ RMEDCD, MINCD, MAXCD
+C
+ 100 FORMAT (F6.2, 1X, F7.2, 2X, I2, 1X, A17, 1X, I4, 1X, F5.2,
+ 2X, F5.2, 2X, F4.1, 3X, F4.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017/ndp017.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017/ndp017.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017/ndp017.txt]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19850901]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20001130]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[4.45 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[In 1980, this data base and the corresponding map were completed after more than 20 years of field investigations, consultations, and analyses of published literature. They characterize the use and vegetative cover of the Earth's land surface with a 0.5 degree x 0.5 degree grid. This world-ecosystem-complex data set and the accompanying map provide a current reference base for interpreting the role of vegetation in the global cycling of CO2 and other gases and a basis for improved estimates of vegetation and soil carbon, of natural exchanges of CO2, and of net historic shifts of carbon between the biosphere and the atmosphere.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

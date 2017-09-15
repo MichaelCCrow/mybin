@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Multi-Resolution Land Characteristics Constortium (MRLC)]]></origin>
+        <title><![CDATA[National Land Cover]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Lisa_Olsen/National_Land_Cover_2001.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/datasets/spatial/NLCD2001/NLCD2001.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[National Land Cover]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate><![CDATA[20010101]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[National Land Cover Data]]></themekey>
+        <themekey><![CDATA[NLCD]]></themekey>
+        <themekey><![CDATA[Land cover]]></themekey>
+        <themekey><![CDATA[land use]]></themekey>
+        <themekey><![CDATA[Remote sensing]]></themekey>
+        <themekey><![CDATA[Landsat]]></themekey>
+        <themekey><![CDATA[United States]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090623 170108</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20080527 092924 by 160.91.16.72</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[National Land Cover Data]]></Keywords>
+    <Keywords><![CDATA[NLCD]]></Keywords>
+    <Keywords><![CDATA[Land cover]]></Keywords>
+    <Keywords><![CDATA[land use]]></Keywords>
+    <Keywords><![CDATA[Remote sensing]]></Keywords>
+    <Keywords><![CDATA[Landsat]]></Keywords>
+    <Keywords><![CDATA[United States]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[This data set is one complete raster coverage of the MRLC 
+National Land Cover Data (NLCD) covering the conterminous United States. 
+The NLCD is composed of 16-classes, and is derived from
+Landsat 7 Enhanced Thematic Mapper, and Landsat 5 satellite data 
+centered around 2001. A
+complete description of these data can be found at
+http://www.mrlc.gov/nlcd.php
+Please note: the data are also available.
+The NLCD data is distributed by the Multi-Resolution Land Characteristics
+Consortium (). CDIAC has combined the regional files created by the MRLC 
+into one contiguous raster data file for the conterminous United
+States. Smaller, regional coverages can be downloaded directly from the MRLC: 
+http://www.mrlc.gov/nlcd_multizone_map.php
+Download graphic image and metadata 
+files:
+Spatial data is provided in two formats. Winzip
+() or Stuffit 
+() 
+may be used to open .zip files. Due to the size limitation in earlier versions 
+of these softwares, only Winzip 9.0, Stuffit 8.5, or later versions are recommended 
+to open the zip files distributed here.
+1. ESRI ArcInfo Grid. The unzipped files are approximately 2.68GB.
+The zipfile contains two directories: info, and nlcd_2001. 
+Please retain the native directory structure of these files after they 
+have been uncompressed. 
+2. ERDAS Imagine. The unzipped files are approximately 28GB.
+Imagine file: 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20080527 092924 by 160.91.16.72</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Lisa_Olsen/National_Land_Cover_2001.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[National Land Cover]]></Product_number>
+      <Product_title><![CDATA[National Land Cover]]></Product_title>
+      <Author>
+        <Name><![CDATA[Multi-Resolution Land Characteristics Constortium (MRLC)]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Land Cover]]></Thematic_area>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[United States ]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/datasets/spatial/NLCD2001/NLCD2001.html]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Land Cover]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/datasets/spatial/NLCD2001/NLCD2001.htmlThis data set is one complete raster coverage of the MRLC 
+National Land Cover Data (NLCD) covering the conterminous United States. 
+The NLCD is composed of 16-classes, and is derived from
+Landsat 7 Enhanced Thematic Mapper, and Landsat 5 satellite data 
+centered around 2001. A
+complete description of these data can be found at
+http://www.mrlc.gov/nlcd.php
+Please note: the data are also available.
+The NLCD data is distributed by the Multi-Resolution Land Characteristics
+Consortium (). CDIAC has combined the regional files created by the MRLC 
+into one contiguous raster data file for the conterminous United
+States. Smaller, regional coverages can be downloaded directly from the MRLC: 
+http://www.mrlc.gov/nlcd_multizone_map.php
+Download graphic image and metadata 
+files:
+Spatial data is provided in two formats. Winzip
+() or Stuffit 
+() 
+may be used to open .zip files. Due to the size limitation in earlier versions 
+of these softwares, only Winzip 9.0, Stuffit 8.5, or later versions are recommended 
+to open the zip files distributed here.
+1. ESRI ArcInfo Grid. The unzipped files are approximately 2.68GB.
+The zipfile contains two directories: info, and nlcd_2001. 
+Please retain the native directory structure of these files after they 
+have been uncompressed. 
+2. ERDAS Imagine. The unzipped files are approximately 28GB.
+Imagine file: 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20041213]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/datasets/spatial/NLCD2001/NLCD2001.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Abstract:
+This data set is one complete raster coverage of the MRLC
+National Land Cover Data (NLCD) covering the conterminous United
+States. The NLCD is composed of 16-classes, and is derived from
+Landsat 7 Enhanced Thematic Mapper, and Landsat 5 satellite data
+centered around 2001. A complete description of these data can be
+found at http://www.mrlc.gov/nlcd.php.
+]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

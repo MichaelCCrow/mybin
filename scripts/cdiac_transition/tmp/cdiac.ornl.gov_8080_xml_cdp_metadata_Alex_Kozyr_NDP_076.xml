@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Goyet, C.]]></origin>
+        <origin><![CDATA[Healy, R.]]></origin>
+        <origin><![CDATA[Ryan, J.]]></origin>
+        <title><![CDATA[Global Distribution of Total Inorganic Carbon and Total Alkalinity Below the Deepest Winter Mixed Layer Depths]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global Distribution of Total Inorganic Carbon and Total Alkalinity Below the Deepest Winter Mixed Layer Depths]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[1900000]]></begdate>
+          <enddate><![CDATA[1900000]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.00]]></westbc>
+        <eastbc><![CDATA[180.00]]></eastbc>
+        <northbc><![CDATA[70.00]]></northbc>
+        <southbc><![CDATA[-70.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[TALK]]></themekey>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[ocean carbon dioxide]]></themekey>
+        <themekey><![CDATA[ocean temperature]]></themekey>
+        <themekey><![CDATA[ocean-atmosphere carbon dioxide]]></themekey>
+        <themekey><![CDATA[oxygen]]></themekey>
+        <themekey><![CDATA[salinity]]></themekey>
+        <themekey><![CDATA[global distribution]]></themekey>
+        <themekey><![CDATA[total inorganic carbon and total alkalinity ]]></themekey>
+        <themekey><![CDATA[deepest winter]]></themekey>
+        <themekey><![CDATA[mixed layer depths]]></themekey>
+        <themekey><![CDATA[Goyet]]></themekey>
+        <themekey><![CDATA[Healy]]></themekey>
+        <themekey><![CDATA[Ryan]]></themekey>
+        <themekey><![CDATA[NDP-076]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 124359</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 150651 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[TALK]]></Keywords>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[ocean carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[ocean temperature]]></Keywords>
+    <Keywords><![CDATA[ocean-atmosphere carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[oxygen]]></Keywords>
+    <Keywords><![CDATA[salinity]]></Keywords>
+    <Keywords><![CDATA[global distribution]]></Keywords>
+    <Keywords><![CDATA[total inorganic carbon and total alkalinity ]]></Keywords>
+    <Keywords><![CDATA[deepest winter]]></Keywords>
+    <Keywords><![CDATA[mixed layer depths]]></Keywords>
+    <Keywords><![CDATA[Goyet]]></Keywords>
+    <Keywords><![CDATA[Healy]]></Keywords>
+    <Keywords><![CDATA[Ryan]]></Keywords>
+    <Keywords><![CDATA[NDP-076]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 150651 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp076]]></Product_number>
+      <Product_title><![CDATA[Global Distribution of Total Inorganic Carbon and Total Alkalinity Below the Deepest Winter Mixed Layer Depths]]></Product_title>
+      <Author>
+        <Name><![CDATA[Goyet, C.]]></Name>
+        <Company><![CDATA[Woods Hole Oceanographic Institution]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Healy, R.]]></Name>
+        <Company><![CDATA[Woods Hole Oceanographic Institution]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ryan, J.]]></Name>
+        <Company><![CDATA[Monterey Bay Aquarium Research Institute]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_076/ndp076.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/coef_talk.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/coef_tco2.dat.Z  ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/mld1x1.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/talk_ann.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/talk_djf.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/talk_jja.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/talk_mam.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/talk_son.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/tco2_ann.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/tco2_djf.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/tco2_jja.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/tco2_mam.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/tco2_son.dat.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[aou]]></Variable>
+      <Variable><![CDATA[apr]]></Variable>
+      <Variable><![CDATA[aug]]></Variable>
+      <Variable><![CDATA[coef1]]></Variable>
+      <Variable><![CDATA[coef2]]></Variable>
+      <Variable><![CDATA[coef3]]></Variable>
+      <Variable><![CDATA[coef4]]></Variable>
+      <Variable><![CDATA[coef5]]></Variable>
+      <Variable><![CDATA[coef6]]></Variable>
+      <Variable><![CDATA[coefa]]></Variable>
+      <Variable><![CDATA[coefb]]></Variable>
+      <Variable><![CDATA[coefc]]></Variable>
+      <Variable><![CDATA[coefd]]></Variable>
+      <Variable><![CDATA[dec]]></Variable>
+      <Variable><![CDATA[dep]]></Variable>
+      <Variable><![CDATA[feb]]></Variable>
+      <Variable><![CDATA[jan]]></Variable>
+      <Variable><![CDATA[jul]]></Variable>
+      <Variable><![CDATA[jun]]></Variable>
+      <Variable><![CDATA[lat]]></Variable>
+      <Variable><![CDATA[lon]]></Variable>
+      <Variable><![CDATA[mar]]></Variable>
+      <Variable><![CDATA[max]]></Variable>
+      <Variable><![CDATA[may]]></Variable>
+      <Variable><![CDATA[mld]]></Variable>
+      <Variable><![CDATA[nov]]></Variable>
+      <Variable><![CDATA[oct]]></Variable>
+      <Variable><![CDATA[sal]]></Variable>
+      <Variable><![CDATA[sep]]></Variable>
+      <Variable><![CDATA[talk]]></Variable>
+      <Variable><![CDATA[tmp]]></Variable>
+      <Variable><![CDATA[trco2]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_076/ndp076.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/ndp076.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/coef_talk.for.Z]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/coef_tco2.for.Z]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/mld1x1.for.Z]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/talkdat.for.Z]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/tco2dat.for.Z                                 ]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20000510]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20000510]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp076/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[486MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ Modeling the global ocean-atmosphere carbon dioxide system is becoming increasingly important to greenhouse gas policy. These models require initialization with realistic three- dimensional (3-D) oceanic carbon fields. This report presents an approach to establishing these initial conditions from an extensive global database of ocean carbon dioxide (CO2) system measurements and well-developed interpolation methods. These methods are limited to waters below the deepest mixed layer. The data used for these interpolations include the recent high-quality data sets from the World Ocean Circulation Experiment (WOCE), Joint Global Ocean Flux Study (JGOFS), and Ocean-Atmosphere Carbon Exchange Study (OACES) programs. Prior to analysis, all carbon data were adjusted to established reference material listed in  http://www-mpl.ucsd.edu/people/adickson/CO2_QC/. The interpolation methodology employs correlation between CO2 system properties and other more widely measured properties: potential temperature, salinity, and apparent oxygen utilization. The correlations are computed for each profile, and the coefficients are interpolated to the 1'1''32 vertical-layer grid at a monthly temporal resolution. Finally, the gridded coefficients are applied to a global monthly climatology of ocean temperature, salinity, and oxygen to compute total CO2 (TCO2) and total alkalinity (TALK) for the 3-D grid.
+<br><br>
+ This approach offers advantages over spin up of a single profile in defining spatial variation in CO2 system properties because it reduces initialization time and provides a more accurate carbon field. The results provide an unprecedented view of the global distribution of TALK and TCO2 in the ocean. These results as well as those from the monthly mixed layer depths can be used in diagnostic and prognostic global ocean models.
+<br><br>
+ The data set of the gridded climatological fields of TCO2, TALK, and mixed layer depths is available free of charge as a numeric data package from the Carbon Dioxide Information Analysis Center (CDIAC). The interpolated data set includes seasonal TCO2 and TALK fields as well as the coefficients used to estimate these concentrations and the monthly mixed layer depths. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

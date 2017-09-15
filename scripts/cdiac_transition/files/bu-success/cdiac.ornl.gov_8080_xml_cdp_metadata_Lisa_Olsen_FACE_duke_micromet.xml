@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[FACTS-I ]]></origin>
+        <title><![CDATA[Duke FACE Micrometeorological Data]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Lisa_Olsen/FACE/duke_micromet.xml]]></onlink>
+        <onlink></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Duke FACE Micrometeorological Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19970501]]></begdate>
+          <enddate><![CDATA[20041231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-79.09419]]></westbc>
+        <eastbc></eastbc>
+        <northbc><![CDATA[35.978175]]></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[FACTS I]]></themekey>
+        <themekey><![CDATA[Duke FACE]]></themekey>
+        <themekey><![CDATA[micrometeorology]]></themekey>
+        <themekey><![CDATA[soil moisture]]></themekey>
+        <themekey><![CDATA[vegetation response]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://public.ornl.gov/face/DUKE/duke_data_co2weather.shtml]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 131732</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070801 104406 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[FACTS I]]></Keywords>
+    <Keywords><![CDATA[Duke FACE]]></Keywords>
+    <Keywords><![CDATA[micrometeorology]]></Keywords>
+    <Keywords><![CDATA[soil moisture]]></Keywords>
+    <Keywords><![CDATA[vegetation response]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[AT_readme.txt
+
+Air Temperature
+
+Raw, clean and gap-filled data are available.
+
+Variable Descriptions:
+R*ut: upper canopy temperature, units=deg C
+R*lt: lower canopy temperature, units=deg C
+R*uat: upper canopy aspirated temperature, units=deg C
+R*lat: lower canopy aspirated temperature, units=deg C
+R*at: air temperature, units=deg C
+
+Note: R* refers to plot number (1-8).
+      R*ut and R*lt are available for plots 1-6(R1-R6).
+      R*uat and R*ult are available for plots 1(R1) and 4(R4).
+      R*at is available for plots 7(R7) and 8(R8).  
+
+]]></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[PRECIP_readme.txt
+
+Precipitation
+
+Raw, clean and gap-filled data are available.
+
+Variable Descriptions:
+R*PT: precipitation throughfall, units=mm
+R*PO: precipitation, units=mm
+
+Note: R* refers to plot number R(1-8).
+      PT was measured at plots 1(R1),2(R2),3(R3),4(R4),5(R5),6(R6), and 8(R8).
+      PO was measured at plots 4(R4) and 7(R7).
+      A single measurement representing PO at FACE is available as gap-filled data.
+]]></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[RH_readme.txt
+
+Humidity
+
+Raw, clean and gap-filled data are available.
+
+Variable Description:
+R*urh:  upper canopy relative humidity, units=absolute
+R*usvp: upper canopy saturated vapor pressure, units=kPa
+R*uvpd: upper canopy vapor pressure deficit, units=kPa
+R*lrh:  lower canopy relative humidity, units=absolute
+R*lsvp: lower canopy saturated vapor pressure, units=kPa
+R*lvpd: lower canopy vapor pressure deficit, units=kPa
+R*uarh: upper canopy aspirated relative humidity, units=absolute
+R*uasvp: upper canopy aspirated saturated vapor pressure, units=kPa
+R*uavpd: upper canopy aspirated vapor pressure deficit, units=kPa
+R*larh: lower canopy aspirated relative humidity, units=absolute
+R*lasvp: lower canopy aspirated saturated vapor pressure, units=kPa
+R*lavpd: lower canopy aspirated vapor pressure deficit, units=kPa
+
+Note: R* refers to plot number (1-8)
+]]></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[RAD_readme.txt
+
+Radiation
+
+Raw and clean data are available.
+
+Variable Descriptions:
+R4NR: R4 net radiation, units=Wm^-2
+R4PAR: R4 photosynthetic active radiation, units=mmol photons m^-2 S^-1
+R5NR: R5 net radiation, units=Wm^-2
+R7PAR: R&amp; photosynthetic active radiation, units=mmol photons m^-2 s^-1
+
+Radiation data are available for plot numbers 4(R4), 5(R5), and 7(R7).
+]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070801 104406 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Lisa_Olsen/FACE/duke_micromet.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[DUKE FACE MICROMET]]></Product_number>
+      <Product_title><![CDATA[Duke FACE Micrometeorological Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[FACTS-I ]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[Duke Forest FACE Experiment]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[FACTS I - Duke Forest  FACE ]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/face/DUKE/duke_home.shtml]]></Site_URL>
+        <Site_data_file><![CDATA[http://public.ornl.gov/face/DUKE/duke_data_co2weather.shtml]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://public.ornl.gov/face/DUKE/duke_data_co2weather.shtml]]></Data_site>
+      <Variable><![CDATA[DOY]]></Variable>
+      <Variable><![CDATA[Time]]></Variable>
+      <Variable><![CDATA[<U>]]></Variable>
+      <Variable><![CDATA[<V>]]></Variable>
+      <Variable><![CDATA[<W>]]></Variable>
+      <Variable><![CDATA[<T>]]></Variable>
+      <Variable><![CDATA[Rn]]></Variable>
+      <Variable><![CDATA[ustd]]></Variable>
+      <Variable><![CDATA[vstd]]></Variable>
+      <Variable><![CDATA[wstd]]></Variable>
+      <Variable><![CDATA[tstd]]></Variable>
+      <Variable><![CDATA[q2std]]></Variable>
+      <Variable><![CDATA[co2std]]></Variable>
+      <Variable><![CDATA[rnstd]]></Variable>
+      <Variable><![CDATA[u*]]></Variable>
+      <Variable><![CDATA[v*]]></Variable>
+      <Variable><![CDATA[H]]></Variable>
+      <Variable><![CDATA[LEwq2b]]></Variable>
+      <Variable><![CDATA[<wco2b>]]></Variable>
+      <Variable><![CDATA[<WD>]]></Variable>
+      <Variable><![CDATA[wdstd]]></Variable>
+      <Variable><![CDATA[cc(x,y)]]></Variable>
+      <Variable><![CDATA[Day/Time]]></Variable>
+      <Descriptive_file><![CDATA[http://public.ornl.gov/face/duke/data/_readme.txt]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/met_data/temp-rh-vpd/2004_current/air_temp/AT_readme.txtAT_readme.txt
+
+Air Temperature
+
+Raw, clean and gap-filled data are available.
+
+Variable Descriptions:
+R*ut: upper canopy temperature, units=deg C
+R*lt: lower canopy temperature, units=deg C
+R*uat: upper canopy aspirated temperature, units=deg C
+R*lat: lower canopy aspirated temperature, units=deg C
+R*at: air temperature, units=deg C
+
+Note: R* refers to plot number (1-8).
+      R*ut and R*lt are available for plots 1-6(R1-R6).
+      R*uat and R*ult are available for plots 1(R1) and 4(R4).
+      R*at is available for plots 7(R7) and 8(R8).  
+
+]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/met_data/precip-rad-par/2004_current/precipitation/PRECIP_readme.txtPRECIP_readme.txt
+
+Precipitation
+
+Raw, clean and gap-filled data are available.
+
+Variable Descriptions:
+R*PT: precipitation throughfall, units=mm
+R*PO: precipitation, units=mm
+
+Note: R* refers to plot number R(1-8).
+      PT was measured at plots 1(R1),2(R2),3(R3),4(R4),5(R5),6(R6), and 8(R8).
+      PO was measured at plots 4(R4) and 7(R7).
+      A single measurement representing PO at FACE is available as gap-filled data.
+]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/met_data/temp-rh-vpd/2004_current/humidity/RH_readme.txtRH_readme.txt
+
+Humidity
+
+Raw, clean and gap-filled data are available.
+
+Variable Description:
+R*urh:  upper canopy relative humidity, units=absolute
+R*usvp: upper canopy saturated vapor pressure, units=kPa
+R*uvpd: upper canopy vapor pressure deficit, units=kPa
+R*lrh:  lower canopy relative humidity, units=absolute
+R*lsvp: lower canopy saturated vapor pressure, units=kPa
+R*lvpd: lower canopy vapor pressure deficit, units=kPa
+R*uarh: upper canopy aspirated relative humidity, units=absolute
+R*uasvp: upper canopy aspirated saturated vapor pressure, units=kPa
+R*uavpd: upper canopy aspirated vapor pressure deficit, units=kPa
+R*larh: lower canopy aspirated relative humidity, units=absolute
+R*lasvp: lower canopy aspirated saturated vapor pressure, units=kPa
+R*lavpd: lower canopy aspirated vapor pressure deficit, units=kPa
+
+Note: R* refers to plot number (1-8)
+]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/met_data/precip-rad-par/2004_current/radiation/RAD_readme.txtRAD_readme.txt
+
+Radiation
+
+Raw and clean data are available.
+
+Variable Descriptions:
+R4NR: R4 net radiation, units=Wm^-2
+R4PAR: R4 photosynthetic active radiation, units=mmol photons m^-2 S^-1
+R5NR: R5 net radiation, units=Wm^-2
+R7PAR: R&amp; photosynthetic active radiation, units=mmol photons m^-2 s^-1
+
+Radiation data are available for plot numbers 4(R4), 5(R5), and 7(R7).
+]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070710]]></Most_recent_date_of_data_publication>
+      <Data_file_location></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Precipitation, Net radiation, and PAR data files (1998, rings 4 and 5):
+First four columns show precipitation (mm) and net radiation (W/m^2).
+Ring 4 measures overstory precipitation (po), and ring 5 measures throughfall (pt).
+The last data column shows PAR (millimol/m^2*s).
+
+Air temperature, Relative Humidity, SVP, and VPD (r1 - r6):
+Data columns are organised by ring number.
+For each ring there is:
+- Temperature (Degrees C)
+- Relative humidity (absolute values)
+- SVP (Saturated Vapor Pressure - kPa)
+- VPD (Vapor Pressure Deficit - kPa)
+measurements are done at 2/3 of canopy height
+
+Note: gap-filled data are available for some variables and years.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

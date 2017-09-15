@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Kaiser, D. P. ]]></origin>
+        <title><![CDATA[Trends in Total Cloud Amount Over China ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/clouds/kaiser/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Trends in Total Cloud Amount Over China ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19510101]]></begdate>
+          <enddate><![CDATA[19941213]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[total cloud amount]]></themekey>
+        <themekey><![CDATA[TRENDS-CLOUDS]]></themekey>
+        <themekey><![CDATA[China]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 124026</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 093615 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[total cloud amount]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CLOUDS]]></Keywords>
+    <Keywords><![CDATA[China]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Dale P. Kaiser
+Carbon Dioxide Information Analysis Center,
+,
+CITE AS: Kaiser, D.P. 1999. Trends in Total Cloud Amount Over China. In . Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. doi: 10.3334/CDIAC/cli.008
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 093615 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.008]]></Product_number>
+      <Product_title><![CDATA[Trends in Total Cloud Amount Over China ]]></Product_title>
+      <Author>
+        <Name><![CDATA[Kaiser, D. P. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center, Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Thematic_area><![CDATA[Cloud and Sunshine Data]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[China]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/clouds/kaiser/kaiser98.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/clouds/kaiser/anndep.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/clouds/kaiser/autdep.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/clouds/kaiser/regmeans.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/clouds/kaiser/regtrends.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/clouds/kaiser/sprdep.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/clouds/kaiser/sumdep.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/clouds/kaiser/windep.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[east]]></Variable>
+      <Variable><![CDATA[ENW]]></Variable>
+      <Variable><![CDATA[NE]]></Variable>
+      <Variable><![CDATA[north]]></Variable>
+      <Variable><![CDATA[period]]></Variable>
+      <Variable><![CDATA[south]]></Variable>
+      <Variable><![CDATA[SW]]></Variable>
+      <Variable><![CDATA[Tibet]]></Variable>
+      <Variable><![CDATA[WNW]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/clouds/kaiser/kaiser98.htmlDale P. Kaiser
+Carbon Dioxide Information Analysis Center,
+,
+CITE AS: Kaiser, D.P. 1999. Trends in Total Cloud Amount Over China. In . Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. doi: 10.3334/CDIAC/cli.008
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19990914]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19990914]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/clouds/kaiser/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[40KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ Station and regional trends in annual and seasonal mean cloud amount clearly indicate decreasing total cloud amount over much of China from the early to mid-1950s through 1994. Trends in annual mean total cloud amount were found to be quite similar for midday and midnight observations. Since daytime cloud observations are generally considered more trustworthy, the analysis emphasis was placed on midday data. Most stations in central, eastern, and northeastern China show statistically significant decreases of 1-3% sky cover per decade. Annual and seasonal trends for selected regions of China show that the strongest and most consistent evidence for decreasing cloud amount is seen for the North and Northeast regions of China, where decreases ranging from 1-2% sky cover per decade (about 4.5-9% over the period of record) are observed.
+<br><br>
+ The relative percentage change in cloud amount for the eight China regions may be assessed using the table of regional mean cloud amounts in conjunction with the table of regional cloud amount trends. For example, the autumn midday cloud amount trend for North China is -1.0% per decade. Over 1951-1994, the autumn mean midday total cloud amount for North China is 47.0%. Therefore the roughly 4.4% decrease in total cloud amount over the period (percent sky cover) may interpreted as a decrease of nearly 10% in the amount of autumn cloud amount observed over the region referred to as North China.
+<br><br>
+ The decreasing trends in cloud amount over some China regions are especially interesting in light of recent temperature trends observed over China. Several studies (e.g., Karl et al. 1993; Easterling et al. 1997) have shown significant increasing trends in daily minimum temperatures over much of China since 1951. The largest increases in minimum temperature have been observed in the northeastern part of the country, precisely where the strongest decreasing trends in total cloud amount are observed. Increases in cloud amount have been offered as a possible explanation for increased minimum temperatures in other parts of the world (e.g., Karl et al. 1993). In China, it seems that some different mechanism(s) must be considered for understanding the observed increase in minimum temperatures, perhaps relating to atmospheric circulation or urbanization effects not fully removed from the temperature record.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

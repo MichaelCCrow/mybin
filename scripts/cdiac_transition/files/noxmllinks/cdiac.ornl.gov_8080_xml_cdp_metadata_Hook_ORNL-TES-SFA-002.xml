@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Jagadamma, S]]></origin>
+        <origin><![CDATA[Mayes, M.A.]]></origin>
+        <origin><![CDATA[Steinweg, J.M.]]></origin>
+        <origin><![CDATA[Wang, G.]]></origin>
+        <origin><![CDATA[Post, W.M.]]></origin>
+        <title><![CDATA[Organic Carbon Sorption and Decomposition in Selected Global Soils]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://tes-sfa.ornl.gov/node/80]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Organic Carbon Sorption and Decomposition in Selected Global Soils]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20110501]]></begdate>
+          <enddate><![CDATA[20120831]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Microbial-ENzyme-mediated Decomposition(MEND)]]></themekey>
+        <themekey><![CDATA[MEND Model]]></themekey>
+        <themekey><![CDATA[U.S. DOE Office of Science]]></themekey>
+        <themekey><![CDATA[Organic Carbon]]></themekey>
+        <themekey><![CDATA[Sorption]]></themekey>
+        <themekey><![CDATA[Decomposition]]></themekey>
+        <themekey><![CDATA[Soils]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140623 101710</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Les Hookhookla@ornl.gov865-241-4846]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20140620 141625 by 160.91.28.114</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Microbial-ENzyme-mediated Decomposition(MEND)]]></Keywords>
+    <Keywords><![CDATA[MEND Model]]></Keywords>
+    <Keywords><![CDATA[U.S. DOE Office of Science]]></Keywords>
+    <Keywords><![CDATA[Organic Carbon]]></Keywords>
+    <Keywords><![CDATA[Sorption]]></Keywords>
+    <Keywords><![CDATA[Decomposition]]></Keywords>
+    <Keywords><![CDATA[Soils]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20140620 141625 by 160.91.28.114</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[ORNL TES-SFA-002]]></Product_number>
+      <Product_title><![CDATA[Organic Carbon Sorption and Decomposition in Selected Global Soils]]></Product_title>
+      <Author>
+        <Name><![CDATA[Jagadamma, S]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mayes, M.A.]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Steinweg, J.M.]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wang, G.]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Post, W.M.]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[organic carbon decomposition in soils]]></Thematic_area>
+      <Thematic_area><![CDATA[soil carbon]]></Thematic_area>
+      <Thematic_area><![CDATA[laboratory experiment]]></Thematic_area>
+      <Thematic_area><![CDATA[global soils]]></Thematic_area>
+      <Thematic_area><![CDATA[May 1, 2011 through August 31, 2012.]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[See User's Guide for global soil site locations]]></Site_name>
+        <Site_URL><![CDATA[http://tes-sfa.ornl.gov/]]></Site_URL>
+        <Site_data_file><![CDATA[http://tes-sfa.ornl.gov/node/80]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[See Data Dictionary in User's Guide]]></Variable>
+      <Descriptive_file><![CDATA[http://tes-sfa.ornl.gov/sites/default/files/Soil_C_Decomp_Users_Guide_20140616.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20140616]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20140616]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://tes-sfa.ornl.gov/node/80]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Les Hook]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[hookla@ornl.gov]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[865-241-4846]]></CDIAC_contact>
+      <Notes><![CDATA[This data set reports the results of lab-scale experiments conducted to investigate the dynamics of organic carbon (C) decomposition from several soils from temperate, tropical, arctic, and sub-arctic environments. Results were used to test the newly developed soil microbe decomposition C model -- Microbial-ENzyme-mediated Decomposition (MEND) (Wang et al., 2013).
+
+We conducted a series of laboratory-scale experiments to better understand the microbial processing of organic C in response to diverse substrates and soil types, and to provide data to create an improved mechanistic model of cycling of organic C in soils. The interaction of diverse substrate types was determined in batch sorption experiments and the microbial decomposition of these compounds was determined by long-term incubation experiments. We used radiocarbon labeling approach in order to study the turnover of added substrate 14C through different C pools and to separately quantify the respiration of substrate 14C and native soil organic carbon (SOC).
+
+Cite this data set as follows:  
+Jagadamma, S., Mayes, M.A., Steinweg, J.M., Wang, G., Post, W.M. 2014. Organic Carbon Sorption and Decomposition in Selected Global Soils. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, U.S.A. http://dx.doi.org/10.3334/CDIAC/ornlsfa.002
+]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

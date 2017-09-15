@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Allison, C. E.]]></origin>
+        <origin><![CDATA[Francey, R. J.]]></origin>
+        <origin><![CDATA[Krummel, P. B.]]></origin>
+        <title><![CDATA[delta 13C in CO2 from the CSIRO GASLAB Flask Sampling Network]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[delta 13C in CO2 from the CSIRO GASLAB Flask Sampling Network]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19900301]]></begdate>
+          <enddate><![CDATA[20011231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[atmospheric ]]></themekey>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[flask air samples]]></themekey>
+        <themekey><![CDATA[isotope analysis]]></themekey>
+        <themekey><![CDATA[gas chromatography]]></themekey>
+        <themekey><![CDATA[VPDB-CO2 scale ]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 122900</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.govThomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 094558 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[atmospheric ]]></Keywords>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[flask air samples]]></Keywords>
+    <Keywords><![CDATA[isotope analysis]]></Keywords>
+    <Keywords><![CDATA[gas chromatography]]></Keywords>
+    <Keywords><![CDATA[VPDB-CO2 scale ]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[, CSIRO Sampling Network
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 094558 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.024]]></Product_number>
+      <Product_title><![CDATA[delta 13C in CO2 from the CSIRO GASLAB Flask Sampling Network]]></Product_title>
+      <Author>
+        <Name><![CDATA[Allison, C. E.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Francey, R. J.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Krummel, P. B.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Isotopes in Greenhouse Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alert, NWT, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/allcsiro-alt.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/all_altmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/graphics/alc_c13co2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Ferguson, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/allcsiro-cferg.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/all_cfamm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/graphics/cfa_c13co2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/allcsiro-cgrim.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/all_cgamm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/graphics/cga_c13co2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Estevan Point, BC, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/allcsiro-estpo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/all_epcmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/graphics/epc_c13co2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Macquarie Island, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/allcsiro-macq.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/all_maqmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/graphics/mqa_c13co2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii, USA]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/allcsiro-mlo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/all_mlomm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/graphics/mlu_c13co2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mawson, Antartica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/allcsiro-mawson.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/all_mawmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/graphics/maa_c13co2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Shetland Islands, Scotland]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/allcsiro-shetland.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/all_sismm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/graphics/sis_c13co2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/allcsiro-spo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/all_spomm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/graphics/spu_c13co2.jpg]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Month]]></Variable>
+      <Variable><![CDATA[Annual Average]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/allison-csiro/allcsiro_gaslab.html, CSIRO Sampling Network
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20030228]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20030228]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/allison-csiro/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[2500 kb]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Measurements have been made on air collected in flasks at these nine sites through the CSIRO GASLAB worldwide network. Flasks are filled with air at these sites and returned to the CSIRO GASLAB for analysis; typical sample storage times for flasks collected at these nine sites range from a few weeks to a few months. No significant effect on the stable carbon isotopic composition, delta 13C, has been detected as a consequence of the sample storage time. 
+<br><br>
+For stable isotope analysis, CO2 was extracted from the air in the flasks using an automated cryogenic trapping system. Prior to stable isotopic analysis, the concentrations of CO2, and N2O were measured in all samples using gas chromatography (Francey et al., 1996). The CO2 and N2O concentrations were used to perform ion corrections on the stable isotope measurements required as a consequence of extracting the isobaric N2O from air with the CO2. 
+<br><br>
+The average annual decrease of about 0.02 per mil per year over the last 10 years reflects the growing influence of fossil-fuel carbon in the atmosphere. Additional influences of temporal variations in oceanic and terrestrial components of the global carbon cycle are also evident (see, for example, Francey et al., 1995; Allison et al., 2001; Francey et al., 2001).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

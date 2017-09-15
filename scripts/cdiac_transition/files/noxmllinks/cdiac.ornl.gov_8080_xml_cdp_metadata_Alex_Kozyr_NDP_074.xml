@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Millero, F. J. ]]></origin>
+        <origin><![CDATA[Fiol, S.]]></origin>
+        <origin><![CDATA[Campbell, D. M.]]></origin>
+        <origin><![CDATA[Parrilla, G.]]></origin>
+        <title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Hesperides Cruise in the Atlantic Ocean (WOCE Section A5, July 14 - August 15, 1992)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp074/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Hesperides Cruise in the Atlantic Ocean (WOCE Section A5, July 14 - August 15, 1992)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19920714]]></begdate>
+          <enddate><![CDATA[19920815]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[total carbon dioxide]]></themekey>
+        <themekey><![CDATA[total alkalinity]]></themekey>
+        <themekey><![CDATA[hydrographic stations]]></themekey>
+        <themekey><![CDATA[pH]]></themekey>
+        <themekey><![CDATA[oceanographic cruise]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[hydrographic]]></themekey>
+        <themekey><![CDATA[chemical data ]]></themekey>
+        <themekey><![CDATA[R/V Hesperides Cruise ]]></themekey>
+        <themekey><![CDATA[Atlantic Ocean]]></themekey>
+        <themekey><![CDATA[World Ocean Circulation Experiment ]]></themekey>
+        <themekey><![CDATA[WOCE ]]></themekey>
+        <themekey><![CDATA[Section A5]]></themekey>
+        <themekey><![CDATA[NDP-074]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 124247</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 150505 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[total carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[total alkalinity]]></Keywords>
+    <Keywords><![CDATA[hydrographic stations]]></Keywords>
+    <Keywords><![CDATA[pH]]></Keywords>
+    <Keywords><![CDATA[oceanographic cruise]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[hydrographic]]></Keywords>
+    <Keywords><![CDATA[chemical data ]]></Keywords>
+    <Keywords><![CDATA[R/V Hesperides Cruise ]]></Keywords>
+    <Keywords><![CDATA[Atlantic Ocean]]></Keywords>
+    <Keywords><![CDATA[World Ocean Circulation Experiment ]]></Keywords>
+    <Keywords><![CDATA[WOCE ]]></Keywords>
+    <Keywords><![CDATA[Section A5]]></Keywords>
+    <Keywords><![CDATA[NDP-074]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 150505 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp074]]></Product_number>
+      <Product_title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Hesperides Cruise in the Atlantic Ocean (WOCE Section A5, July 14 - August 15, 1992)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Millero, F. J. ]]></Name>
+        <Company><![CDATA[Rosenstiel School of Marine and Atmospheric Science]]></Company>
+        <Organization><![CDATA[University of Miami]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Fiol, S.]]></Name>
+        <Company><![CDATA[Rosenstiel School of Marine and Atmospheric Science]]></Company>
+        <Organization><![CDATA[University of Miami]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Campbell, D. M.]]></Name>
+        <Company><![CDATA[Rosenstiel School of Marine and Atmospheric Science]]></Company>
+        <Organization><![CDATA[University of Miami]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Parrilla, G.]]></Name>
+        <Company><![CDATA[Instituto Espanol de Oceanografa]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Atlantic Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_074/ndp074.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp074/a05.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp074/a05_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp074/a5sta.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[sta]]></Variable>
+      <Variable><![CDATA[cast]]></Variable>
+      <Variable><![CDATA[samp]]></Variable>
+      <Variable><![CDATA[bot]]></Variable>
+      <Variable><![CDATA[pre]]></Variable>
+      <Variable><![CDATA[ctdtmp]]></Variable>
+      <Variable><![CDATA[ctdsal]]></Variable>
+      <Variable><![CDATA[ctdoxy]]></Variable>
+      <Variable><![CDATA[theta]]></Variable>
+      <Variable><![CDATA[sal]]></Variable>
+      <Variable><![CDATA[oxy]]></Variable>
+      <Variable><![CDATA[silca]]></Variable>
+      <Variable><![CDATA[nitrat]]></Variable>
+      <Variable><![CDATA[nitrit]]></Variable>
+      <Variable><![CDATA[phspht]]></Variable>
+      <Variable><![CDATA[talk]]></Variable>
+      <Variable><![CDATA[tcarb]]></Variable>
+      <Variable><![CDATA[pH]]></Variable>
+      <Variable><![CDATA[qualt]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_074/ndp074.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp074/ndp074.txt]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp074/ndp074.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp074/stainv.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20000601]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20000601]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp074/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[11.8MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data documentation discusses the procedures and methods used to measure total carbon dioxide (TCO2), total alkalinity (TALK), and pH at hydrographic stations during the R/V Hesp&#195;&#131;&#194;&#169;rides oceanographic cruise in the Atlantic Ocean (Section A5). Conducted as part of the World Ocean Circulation Experiment (WOCE), the cruise began in Cadiz, Spain, on July 14, 1992, and ended in Miami, Florida, on August 15, 1992. Measurements made along WOCE Section A5 included CTD pressure, temperature, salinity, and oxygen; and bottle salinity, oxygen, phosphate, nitrate, nitrite, silicate, TCO2, TALK, and pH.
+<br><br>
+ The TALK, TCO2, and pH were determined from titrations of seawater collected at 33 stations. The titration systems for measuring TALK and TCO2 were calibrated in the laboratory with certified reference materials (CRMs) before the cruise to ensure that they gave reliable results for these parameters. Standard reference seawater provided by Andrew Dickson of Scripps Institution of Oceanography (SIO) was used at sea to monitor the performance of the titration systems. The results agree with the laboratory results to +/- 2 micro-mol/kg for TALK and +/- 1 micro-mol/kg for TCO2. The titration systems used to measure pH were calibrated with TRIS seawater buffers prepared in the laboratory and measured with an H2, Pt/AgCl, Ag electrode. The initial electromotive force (emf) of the titrations was used to determine the pH. The values of pH are thought to be reliable to +/- 0.01 and are internally consistent with the measured values of TALK and TCO2 to +/- 7 micro-mol/kg. The measured carbon dioxide system parameters have been used to calculate the in situ values of the fugacity of CO2 (fCO2) for the surface water. The surface results are briefly discussed.
+<br><br>
+ WOCE section A5 is located at 24.5 degrees N along the meridional overturn in the Atlantic Ocean. The maximum heat transfer in the North Atlantic Ocean occurs at 24 degrees north; warming in the ocean at this latitude goes down to 3000 m. This section has been studied for a number of years and thus can be used to examine the changes that have occurred in the North Atlantic deep waters. This section has also been studied in the past using inverse methods to look at the movement of CO2 to and from the North Atlantic.
+<br><br>
+ The WOCE Section A5 data set is available free of charge as a numeric data package (NDP) from the Carbon Dioxide Information Analysis Center. The NDP consists of two oceanographic data files, two FORTRAN 77 programs, a documentation file, and this printed report, which describes the contents and format of all files as well as the procedures and methods used to obtain the data. Instructions on how to access the data are provided. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

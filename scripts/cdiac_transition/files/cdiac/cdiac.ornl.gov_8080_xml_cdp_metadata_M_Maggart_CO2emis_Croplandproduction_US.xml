@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Nelson, R. G.]]></origin>
+        <origin><![CDATA[Hellwinckel, C. H.]]></origin>
+        <origin><![CDATA[Brandt, C. C. ]]></origin>
+        <origin><![CDATA[West, T. O. ]]></origin>
+        <origin><![CDATA[De La Torre Ugarte, D. G. ]]></origin>
+        <origin><![CDATA[Marland, G. ]]></origin>
+        <title><![CDATA[Energy Use and Carbon Dioxide Emissions from Cropland Production in the United States, 1990-2004]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/M_Maggart/CO2emis_Croplandproduction_US.xml]]></onlink>
+        <onlink></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Energy Use and Carbon Dioxide Emissions from Cropland Production in the United States, 1990-2004]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19900101]]></begdate>
+          <enddate><![CDATA[20041231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Gigajoule]]></themekey>
+        <themekey><![CDATA[Megagram]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide Emissions]]></themekey>
+        <themekey><![CDATA[Cropland]]></themekey>
+        <themekey><![CDATA[United States]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 114619</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20090713 152616 by 160.91.18.49</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Gigajoule]]></Keywords>
+    <Keywords><![CDATA[Megagram]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide Emissions]]></Keywords>
+    <Keywords><![CDATA[Cropland]]></Keywords>
+    <Keywords><![CDATA[United States]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20090713 152616 by 160.91.18.49</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/M_Maggart/CO2emis_Croplandproduction_US.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/tcm.011]]></Product_number>
+      <Product_title><![CDATA[Energy Use and Carbon Dioxide Emissions from Cropland Production in the United States, 1990-2004]]></Product_title>
+      <Author>
+        <Name><![CDATA[Nelson, R. G.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hellwinckel, C. H.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Brandt, C. C. ]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[West, T. O. ]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[De La Torre Ugarte, D. G. ]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Marland, G. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Lab]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Cyle]]></Thematic_area>
+      <Thematic_area><![CDATA[Soil Carbon]]></Thematic_area>
+      <Thematic_area><![CDATA[Terrestrial Carbon Management]]></Thematic_area>
+      <Site_info>
+        <Site_name></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Megagram C for CO2 ]]></Variable>
+      <Variable><![CDATA[Gigajoule for energy ]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/carbonmanagement/cropfossilemissions/&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/carbonmanagement/cropfossilemissions/onsiteE_90_04.xls]]></Data_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/carbonmanagement/cropfossilemissions/totalE90_04.xls]]></Data_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/carbonmanagement/cropfossilemissions/onsiteC90_04.xls]]></Data_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/carbonmanagement/cropfossilemissions/totalC90_04.xls]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20080101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Tom A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[These data represent energy use and fossil-fuel CO2 emissions associated with cropland production in the U.S. Energy use and emissions occurring on the farm are referred to as on-site energy and on-site emissions. Energy use and emissions associated with cropland production that occur off the farm (e.g., use of electricity, energy and emissions associated with fertilizer and pesticide production) are referred to as off-site energy and off-site emissions. The combination of on-site and off-site energy and carbon is referred to as total energy and total carbon, respectively.
+
+Data provided here are for on-site and total energy and associated CO2 emissions. Units are Megagram C for CO2 estimates and Gigajoule for energy estimates. Data are distributed in spreadsheet formats (Excel and CSV) and in spatial data format (ArcGIS Shapefile). ArcGIS Shapefiles are zipped and will need to be unzipped once downloaded.
+
+]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

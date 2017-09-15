@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Steele, L. P.]]></origin>
+        <origin><![CDATA[Krummel, P. B.]]></origin>
+        <origin><![CDATA[Langenfelds, R. L.]]></origin>
+        <title><![CDATA[Mixing Ratios of Atmospheric Trace Gases from the CSIRO GASLAB Global Monitoring Network
+]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Mixing Ratios of Atmospheric Trace Gases from the CSIRO GASLAB Global Monitoring Network
+]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19840406]]></begdate>
+          <enddate><![CDATA[20011231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180]]></westbc>
+        <eastbc><![CDATA[180]]></eastbc>
+        <northbc><![CDATA[90]]></northbc>
+        <southbc><![CDATA[-90]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric]]></themekey>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[CH4]]></themekey>
+        <themekey><![CDATA[Methane]]></themekey>
+        <themekey><![CDATA[CO]]></themekey>
+        <themekey><![CDATA[Carbon Monoxide]]></themekey>
+        <themekey><![CDATA[H2]]></themekey>
+        <themekey><![CDATA[Hydrogen]]></themekey>
+        <themekey><![CDATA[Carbon Isotope]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 133746</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 160108 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric]]></Keywords>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[CH4]]></Keywords>
+    <Keywords><![CDATA[Methane]]></Keywords>
+    <Keywords><![CDATA[CO]]></Keywords>
+    <Keywords><![CDATA[Carbon Monoxide]]></Keywords>
+    <Keywords><![CDATA[H2]]></Keywords>
+    <Keywords><![CDATA[Hydrogen]]></Keywords>
+    <Keywords><![CDATA[Carbon Isotope]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;GASLAB Network
+L.P. Steele, P.R. Krummel, and R.L. Langenfelds
+Data are available for four atmospheric trace gases at nine stationary sites 
+and one moving platform (aircraft over Cape Grim, Tasmania, and Bass Strait, 
+between the Australian continent and Tasmania). The trace gases are carbon 
+dioxide (CO), methane 
+(CH), carbon monoxide (CO), and hydrogen
+(H 
+are also included in this database. The nine stationary sites are, from 
+north to south: Alert, Canada; Shetland Islands, Scotland; Estevan Point, Canada; 
+Mauna Loa, Hawaii; Cape Ferguson, Australia; Cape Grim, Australia (Tasmania); 
+Macquarie Island, Australia; Mawson, Antarctica; and the South Pole station, 
+Antarctica.
+are the two most effective anthropogenic greenhouse gases; CO and 
+H influence concentrations of the hydroxyl 
+radical (OH), thereby affecting the main sink for atmospheric 
+CH 
+is produced in a sequence of reactions following the reaction of OH with 
+CH. Additional reactions involving these 
+compounds and their importance for atmospheric chemistry are discussed by 
+Langenfelds et al., Global Biogeochemical Cycles 16(3), 2002. The 
+C isotope data are useful in identifying 
+sources of atmospheric CO
+Details of the instruments and their calibration, analysis procedures, and 
+reporting standards are given in separate readme files for each gas 
+(e.g., , 
+, 
+, 
+, 
+). Additional discussion of 
+calibration and error terms for all four gases and &amp;delta;C is provided in the file: 
+(
+Questionable or flawed data are left in this data base and flagged, and the 
+user is cautioned accordingly. The "readme" files provide explanations of each 
+data flag symbol. Interpretations of results obtained by analysis of this 
+database should be examined to be sure they do not result from the use of 
+data that are questionable or unacceptable for the particular analysis.
+Data from aircraft flights over Bass Strait are particularly variable because 
+a) more than one air mass may be sampled on any particular flight, b) samples 
+are taken at varying altitudes, and c) the plume from the heavily populated 
+Melbourne area is occasionally sampled. Such data points often represent valid 
+samples and analyses, and they may be useful for certain investigations; 
+therefore, they are not flagged. CDIAC recommends contacting the providers of 
+these data before performing any detailed analyses.
+ The date given corresponds
+to the first data available for analysis, although flask sampling began 2 to 13
+months earlier, depending on station.
+ Data are available from
+the last half of September, 1984; otherwise, the period of available data
+begins in February of 1985.
+ Data are available from
+June 1988 and August 1990, otherwise, the record of available data begins in late July of 1991.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 160108 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[DB1021]]></Product_number>
+      <Product_title><![CDATA[Mixing Ratios of Atmospheric Trace Gases from the CSIRO GASLAB Global Monitoring Network
+]]></Product_title>
+      <Author>
+        <Name><![CDATA[Steele, L. P.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization]]></Company>
+        <Organization><![CDATA[Atmospheric Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Krummel, P. B.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization]]></Company>
+        <Organization><![CDATA[Atmospheric Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Langenfelds, R. L.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization]]></Company>
+        <Organization><![CDATA[Atmospheric Research]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Aircraft]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/13CO2/aia13co2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO2/aiaco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CH4/aiach4.dat ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO/aiaco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/H2/aiah2.dat ]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Alert, Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/13CO2/alc13co2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO2/alcco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CH4/alcch4.dat ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO/alcco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/H2/alch2.dat ]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Ferguson, Australia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/13CO2/cfa13co2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO2/cfaco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CH4/cfach4.dat ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO/cfaco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/H2/cfah2.dat ]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Australia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/13CO2/cga13co2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO2/cgaco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CH4/cgach4.dat ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO/cgaco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/H2/cgah2.dat ]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Estevan Point, Canada]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/13CO2/epc13co2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO2/epcco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CH4/epcch4.dat ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO/epcco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/H2/epch2.dat ]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mawson, Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/13CO2/maa13co2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO2/maaco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CH4/maach4.dat ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO/maaco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/H2/maah2.dat ]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/13CO2/mlu13co2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO2/mluco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CH4/mluch4.dat ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO/mluco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/H2/mluh2.dat ]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Macquarie Island, Australia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/13CO2/mqa13co2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO2/mqaco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CH4/mqach4.dat ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO/mqaco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/H2/mqah2.dat ]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Shetland Islands, Scotland]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/13CO2/sis13co2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO2/sisco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CH4/sisch4.dat ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO/sisco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/H2/sish2.dat ]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/13CO2/spu13co2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO2/spuco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CH4/spuch4.dat ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/CO/spuco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/H2/spuh2.dat ]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[station ID]]></Variable>
+      <Variable><![CDATA[sampling time]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Variable><![CDATA[day]]></Variable>
+      <Variable><![CDATA[month]]></Variable>
+      <Variable><![CDATA[hour]]></Variable>
+      <Variable><![CDATA[minute]]></Variable>
+      <Variable><![CDATA[flask ID]]></Variable>
+      <Variable><![CDATA[sample collection method code]]></Variable>
+      <Variable><![CDATA[mixing ratio]]></Variable>
+      <Variable><![CDATA[isotope delta value ]]></Variable>
+      <Variable><![CDATA[data quality]]></Variable>
+      <Variable><![CDATA[selection flag]]></Variable>
+      <Variable><![CDATA[analytical instrument code]]></Variable>
+      <Variable><![CDATA[first analysis date]]></Variable>
+      <Variable><![CDATA[universal analysis number]]></Variable>
+      <Variable><![CDATA[sampling altitude]]></Variable>
+      <Variable><![CDATA[sampling latitude]]></Variable>
+      <Variable><![CDATA[sampling longitude]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/db/db1021/db1021.html &#187;&#160;GASLAB Network
+L.P. Steele, P.R. Krummel, and R.L. Langenfelds
+Data are available for four atmospheric trace gases at nine stationary sites 
+and one moving platform (aircraft over Cape Grim, Tasmania, and Bass Strait, 
+between the Australian continent and Tasmania). The trace gases are carbon 
+dioxide (CO), methane 
+(CH), carbon monoxide (CO), and hydrogen
+(H 
+are also included in this database. The nine stationary sites are, from 
+north to south: Alert, Canada; Shetland Islands, Scotland; Estevan Point, Canada; 
+Mauna Loa, Hawaii; Cape Ferguson, Australia; Cape Grim, Australia (Tasmania); 
+Macquarie Island, Australia; Mawson, Antarctica; and the South Pole station, 
+Antarctica.
+are the two most effective anthropogenic greenhouse gases; CO and 
+H influence concentrations of the hydroxyl 
+radical (OH), thereby affecting the main sink for atmospheric 
+CH 
+is produced in a sequence of reactions following the reaction of OH with 
+CH. Additional reactions involving these 
+compounds and their importance for atmospheric chemistry are discussed by 
+Langenfelds et al., Global Biogeochemical Cycles 16(3), 2002. The 
+C isotope data are useful in identifying 
+sources of atmospheric CO
+Details of the instruments and their calibration, analysis procedures, and 
+reporting standards are given in separate readme files for each gas 
+(e.g., , 
+, 
+, 
+, 
+). Additional discussion of 
+calibration and error terms for all four gases and &amp;delta;C is provided in the file: 
+(
+Questionable or flawed data are left in this data base and flagged, and the 
+user is cautioned accordingly. The "readme" files provide explanations of each 
+data flag symbol. Interpretations of results obtained by analysis of this 
+database should be examined to be sure they do not result from the use of 
+data that are questionable or unacceptable for the particular analysis.
+Data from aircraft flights over Bass Strait are particularly variable because 
+a) more than one air mass may be sampled on any particular flight, b) samples 
+are taken at varying altitudes, and c) the plume from the heavily populated 
+Melbourne area is occasionally sampled. Such data points often represent valid 
+samples and analyses, and they may be useful for certain investigations; 
+therefore, they are not flagged. CDIAC recommends contacting the providers of 
+these data before performing any detailed analyses.
+ The date given corresponds
+to the first data available for analysis, although flask sampling began 2 to 13
+months earlier, depending on station.
+ Data are available from
+the last half of September, 1984; otherwise, the period of available data
+begins in February of 1985.
+ Data are available from
+June 1988 and August 1990, otherwise, the record of available data begins in late July of 1991.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/calib.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20030403]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20030505]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1021/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[3 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Data are available for four atmospheric trace gases at nine stationary sites and one moving platform (aircraft over Cape Grim, Tasmania, and Bass Strait, between the Australian continent and Tasmania). The trace gases are carbon dioxide (CO2), methane (CH4), carbon monoxide (CO), and hydrogen (H2). Measurements of delta 13C from CO2 are also included in this database. The nine stationary sites are, from north to south: Alert, Canada; Shetland Islands, Scotland; Estevan Point, Canada; Mauna Loa, Hawaii; Cape Ferguson, Australia; Cape Grim, Australia (Tasmania); Macquarie Island, Australia; Mawson, Antarctica; and the South Pole station, Antarctica.
+<br><br>
+CO2 and CH4 are the two most effective anthropogenic greenhouse gases; CO and H2 influence concentrations of the hydroxyl radical (OH), thereby affecting the main sink for atmospheric CH4. H2 is produced in a sequence of reactions following the reaction of OH with CH4. Additional reactions involving these compounds and their importance for atmospheric chemistry are discussed by Langenfelds et al., Global Biogeochemical Cycles 16(3), 2002. The 13C isotope data are useful in identifying sources of atmospheric CO2. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

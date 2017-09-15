@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Katsumoto, M.]]></origin>
+        <title><![CDATA[Monitoring of Greenhouse Gases, Tracer Species and Meteorological Factors at Hateruma and Cape Ochi-ishi Stations]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[cdiac.ess-dive.lbl.gov]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Monitoring of Greenhouse Gases, Tracer Species and Meteorological Factors at Hateruma and Cape Ochi-ishi Stations]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19931001]]></begdate>
+          <enddate><![CDATA[19981231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[CH4]]></themekey>
+        <themekey><![CDATA[Methane]]></themekey>
+        <themekey><![CDATA[N2O]]></themekey>
+        <themekey><![CDATA[daily]]></themekey>
+        <themekey><![CDATA[monthly]]></themekey>
+        <themekey><![CDATA[hourly]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 141826</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 161508 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[CH4]]></Keywords>
+    <Keywords><![CDATA[Methane]]></Keywords>
+    <Keywords><![CDATA[N2O]]></Keywords>
+    <Keywords><![CDATA[daily]]></Keywords>
+    <Keywords><![CDATA[monthly]]></Keywords>
+    <Keywords><![CDATA[hourly]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 161508 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[Greenhouse_Gases]]></Product_number>
+      <Product_title><![CDATA[Monitoring of Greenhouse Gases, Tracer Species and Meteorological Factors at Hateruma and Cape Ochi-ishi Stations]]></Product_title>
+      <Author>
+        <Name><![CDATA[Katsumoto, M.]]></Name>
+        <Company><![CDATA[National Insistute for Environmental Studies]]></Company>
+        <Organization><![CDATA[Center for Global Environmental Research]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Greenhouse Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Tracer Species]]></Thematic_area>
+      <Thematic_area><![CDATA[Meteorological Factors]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric_Trace_Gases_offline]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Hateruma Island, Okinawa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[hatch4daily1996-1998ver201.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[hatch4hourly1996ver201.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[hatch4hourly1997ver201.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[hatch4monthly1996-1998ver201.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[hatch4hourly1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[hatco2hourly1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[hatco2daily1993-1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[hatco2monthly1993-1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[hatn2odaily1996-1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[hatn2omonthly1996-1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[hatco2hourly1997ver201.txt]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Ochi-ishi, Hokkaido]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ochch4hourly1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[ochco2hourly1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[ochch4daily1995-1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[ochch4monthly1995-1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[ochco2daily1995-1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[ochco2monthly1995-1998.txt]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Parameter: CH4]]></Variable>
+      <Variable><![CDATA[Parameter: CO2]]></Variable>
+      <Variable><![CDATA[Parameter: N2O]]></Variable>
+      <Variable><![CDATA[Units of CO2 concentration: ppmv]]></Variable>
+      <Variable><![CDATA[Units of CH4 concentration: ppbv]]></Variable>
+      <Variable><![CDATA[Unit of N2O concentration: ppbv]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Month]]></Variable>
+      <Variable><![CDATA[Day]]></Variable>
+      <Variable><![CDATA[Hour]]></Variable>
+      <Variable><![CDATA[N]]></Variable>
+      <Variable><![CDATA[Standard Deviation]]></Variable>
+      <Variable><![CDATA[Flag]]></Variable>
+      <Variable><![CDATA[Latitude]]></Variable>
+      <Variable><![CDATA[Longitude]]></Variable>
+      <Variable><![CDATA[Altitude]]></Variable>
+      <Variable><![CDATA[Air Intake Height]]></Variable>
+      <Variable><![CDATA[Station Name]]></Variable>
+      <Variable><![CDATA[Wind Direction]]></Variable>
+      <Variable><![CDATA[Wind speed]]></Variable>
+      <Variable><![CDATA[Surface Temperature]]></Variable>
+      <Variable><![CDATA[Atmospheic Pressure]]></Variable>
+      <Descriptive_file><![CDATA[g0-00k00p00-201.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19941201]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19981231]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[cdiac.ess-dive.lbl.gov]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  The Center for Global Environmental Research/National Institute for Environmental Studies/Japan Environment Agency has been conducting greenhouse-gas monitoring at two ground-based stations at Hateruma Island and Cape Ochi-ishi, respectively.  Information on these stations and the methods of monitoring chemical species and meteorological factors is provided within the descriptive file.
+<br><br>
+  The concentrations of greenhouse gasses (GHGs) such as CO2, CH4, and N2O at two stations are continuously monitored to observe trends in background concentrations in Japan.  Concentration data for atmospheric gases sampled at Monitoring Station-Hateruma, the southernmost inhabited island in Japan, should be representative of conditions in the southern Japan region.  Monitoring at Hateruma started in October 1993.  To obtain atmospheric background data for the northern region of Japan, monitoring at Cape Ochi-ishi, Hokkaido commenced in September 1995.
+<br><br>
+Information about this data can also be found in the Journal of Geophysical Research]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

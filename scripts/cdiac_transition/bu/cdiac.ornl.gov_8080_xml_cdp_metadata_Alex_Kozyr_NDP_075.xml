@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Dickson, A. G.]]></origin>
+        <origin><![CDATA[Keeling, C. D.]]></origin>
+        <origin><![CDATA[Guenther, P. R.]]></origin>
+        <origin><![CDATA[Bullister, J. L. ]]></origin>
+        <title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V John V. Vickers Cruise in the Pacific Ocean (WOCE Section P13, NOAA CGC92 Cruise, August 4 - October 21, 1992)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_075.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp075/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V John V. Vickers Cruise in the Pacific Ocean (WOCE Section P13, NOAA CGC92 Cruise, August 4 - October 21, 1992)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19920804]]></begdate>
+          <enddate><![CDATA[19921021]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[coulometry]]></themekey>
+        <themekey><![CDATA[World Ocean Circulation Experiment]]></themekey>
+        <themekey><![CDATA[Pacific Ocean]]></themekey>
+        <themekey><![CDATA[hydrographic measurements]]></themekey>
+        <themekey><![CDATA[alkalinity]]></themekey>
+        <themekey><![CDATA[carbon cycle]]></themekey>
+        <themekey><![CDATA[NDP-075]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 124323</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 150557 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[coulometry]]></Keywords>
+    <Keywords><![CDATA[World Ocean Circulation Experiment]]></Keywords>
+    <Keywords><![CDATA[Pacific Ocean]]></Keywords>
+    <Keywords><![CDATA[hydrographic measurements]]></Keywords>
+    <Keywords><![CDATA[alkalinity]]></Keywords>
+    <Keywords><![CDATA[carbon cycle]]></Keywords>
+    <Keywords><![CDATA[NDP-075]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 150557 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_075.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp075]]></Product_number>
+      <Product_title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V John V. Vickers Cruise in the Pacific Ocean (WOCE Section P13, NOAA CGC92 Cruise, August 4 - October 21, 1992)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Dickson, A. G.]]></Name>
+        <Company><![CDATA[Scripps Institution of Oceanography]]></Company>
+        <Organization><![CDATA[University of California]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Keeling, C. D.]]></Name>
+        <Company><![CDATA[Scripps Institution of Oceanography]]></Company>
+        <Organization><![CDATA[University of California]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Guenther, P. R.]]></Name>
+        <Company><![CDATA[Scripps Institution of Oceanography]]></Company>
+        <Organization><![CDATA[University of California]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bullister, J. L. ]]></Name>
+        <Company><![CDATA[Pacific Marine Environmental Laboratory]]></Company>
+        <Organization><![CDATA[National Oceanic and Atmospheric Administration]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/oceans/ndp_075/ndp075.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp075/p13.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp075/p13_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp075/p13sta.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[expo]]></Variable>
+      <Variable><![CDATA[sect]]></Variable>
+      <Variable><![CDATA[stat]]></Variable>
+      <Variable><![CDATA[cast]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Variable><![CDATA[latdcm]]></Variable>
+      <Variable><![CDATA[londcm]]></Variable>
+      <Variable><![CDATA[depth]]></Variable>
+      <Variable><![CDATA[sta]]></Variable>
+      <Variable><![CDATA[cast]]></Variable>
+      <Variable><![CDATA[samp]]></Variable>
+      <Variable><![CDATA[bot]]></Variable>
+      <Variable><![CDATA[pre]]></Variable>
+      <Variable><![CDATA[ctdtmp]]></Variable>
+      <Variable><![CDATA[ctdsal]]></Variable>
+      <Variable><![CDATA[ctdoxy]]></Variable>
+      <Variable><![CDATA[theta]]></Variable>
+      <Variable><![CDATA[sal]]></Variable>
+      <Variable><![CDATA[oxy]]></Variable>
+      <Variable><![CDATA[silca]]></Variable>
+      <Variable><![CDATA[nitrat]]></Variable>
+      <Variable><![CDATA[nitrit]]></Variable>
+      <Variable><![CDATA[phspht]]></Variable>
+      <Variable><![CDATA[cfc11]]></Variable>
+      <Variable><![CDATA[cfc12]]></Variable>
+      <Variable><![CDATA[tcarb]]></Variable>
+      <Variable><![CDATA[talk]]></Variable>
+      <Variable><![CDATA[qualt]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/ndp_075/ndp075.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp075/ndp075.txt]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp075/ndp075.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp075/p13dat.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp075/stainv.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20001201]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20001201]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp075/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[19.3MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data documentation discusses the procedures and methods used to measure total carbon dioxide (TCO2) and total alkalinity (TALK) at hydrographic stations during the R/V John V. Vickers oceanographic cruise in the Pacific Ocean (Section P13). Conducted as part of the World Ocean Circulation Experiment (WOCE) and the National Oceanic and Atmospheric Administration's Climate and Global Change Program, the cruise began in Los Angeles, California, on August 4, 1992, with a transit line (Leg 0) to Dutch Harbor, Alaska. On August 16, the ship departed Dutch Harbor on Leg 1 of WOCE section P13. On September 15, the R/V John V. Vickers arrived in Kwajalein, Marshall Islands, for emergency repairs, and after 11 days in port departed for Leg 2 of Section P13 on September 26. The cruise ended on October 21 in Noumea, New Caledonia. Measurements made along WOCE Section P13 included pressure, temperature, salinity [measured by a conductivity, temperature, and depth sensor (CTD)], bottle salinity, bottle oxygen, phosphate, nitrate, nitrite, silicate, chlorofluorocarbons (CFC-11, CFC-12, TCO2, and TALK.
+<br><br>
+ The TCO2 was measured by coulometry using a Single-Operator Multiparameter Metabolic Analyzer (SOMMA). The overall precision and accuracy of the analyses was +/- 2 micro-mol/kg. Samples collected for TALK were measured by potentiometric titration; precision was +/- 2 micro-mol/kg. The CO2-related measurements aboard the R/V John V. Vickers were supported by the U.S. Department of Energy.
+<br><br>
+ The WOCE Section P13 data set is available free of charge as a numeric data package (NDP) from the Carbon Dioxide Information Analysis Center. The NDP consists of two oceanographic data files, two FORTRAN 90 data-retrieval routine files, a documentation file, and this printed report, which describes the contents and format of all files as well as the procedures and methods used to obtain the data. Instructions on how to access the data are provided. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

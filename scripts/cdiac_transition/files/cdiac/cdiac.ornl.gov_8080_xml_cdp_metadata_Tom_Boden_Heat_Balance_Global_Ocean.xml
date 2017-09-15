@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Vickers, D.]]></origin>
+        <origin><![CDATA[Esbensen, S. K.]]></origin>
+        <origin><![CDATA[Kushnir, Y.]]></origin>
+        <title><![CDATA[Atlas of the Heat Balance of the Global Ocean]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Heat_Balance_Global_Ocean.xml]]></onlink>
+        <onlink></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atlas of the Heat Balance of the Global Ocean]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19810101]]></begdate>
+          <enddate><![CDATA[19811231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Heat]]></themekey>
+        <themekey><![CDATA[Balance]]></themekey>
+        <themekey><![CDATA[Global]]></themekey>
+        <themekey><![CDATA[Ocean]]></themekey>
+        <themekey><![CDATA[Atlas]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050809 161600</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 161600 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Heat]]></Keywords>
+    <Keywords><![CDATA[Balance]]></Keywords>
+    <Keywords><![CDATA[Global]]></Keywords>
+    <Keywords><![CDATA[Ocean]]></Keywords>
+    <Keywords><![CDATA[Atlas]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 161600 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Heat_Balance_Global_Ocean.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[Heat_Balance]]></Product_number>
+      <Product_title><![CDATA[Atlas of the Heat Balance of the Global Ocean]]></Product_title>
+      <Author>
+        <Name><![CDATA[Vickers, D.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization><![CDATA[Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Esbensen, S. K.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization><![CDATA[Climate Research Institute]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kushnir, Y.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization><![CDATA[Climate Research Institute]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Heat Balance]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[data.request.res.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ektape.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ektape.doc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp.ins.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Data field: Surface Wind Speed]]></Variable>
+      <Variable><![CDATA[Data field: Sea Surface Temperature]]></Variable>
+      <Variable><![CDATA[Data field: Sea - Air Temperature Difference]]></Variable>
+      <Variable><![CDATA[Data field: Air Temperature]]></Variable>
+      <Variable><![CDATA[Data field: Specific Humidity]]></Variable>
+      <Variable><![CDATA[Data field: Sea - Air Specific Humidity Difference]]></Variable>
+      <Variable><![CDATA[Data field: Cloudiness]]></Variable>
+      <Variable><![CDATA[Data field: Sea Level Pressure]]></Variable>
+      <Variable><![CDATA[Data field: Available Solar Radiation]]></Variable>
+      <Variable><![CDATA[Data field: Net Upward Longwave Flux]]></Variable>
+      <Variable><![CDATA[Data field: Net Downward Radiative Flux]]></Variable>
+      <Variable><![CDATA[Data field: Latent Heat Flux]]></Variable>
+      <Variable><![CDATA[Data field: Sensible Heat Flux]]></Variable>
+      <Variable><![CDATA[Data field: Net Downward Heat Flux]]></Variable>
+      <Variable><![CDATA[Density field: Surface Wind Speed]]></Variable>
+      <Variable><![CDATA[Density field: Sea Surface Temperature]]></Variable>
+      <Variable><![CDATA[Density field: Sea - Air Temperature Difference]]></Variable>
+      <Variable><![CDATA[Density field: Air Temperature]]></Variable>
+      <Variable><![CDATA[Density field: Specific Humidity]]></Variable>
+      <Variable><![CDATA[Density field: Sea - Air Specific Humidity Difference]]></Variable>
+      <Variable><![CDATA[Density field: Sea Level Pressure]]></Variable>
+      <Variable><![CDATA[Density field: Net Upward Longwave Flux]]></Variable>
+      <Variable><![CDATA[Density field: Latent Heat Flux]]></Variable>
+      <Variable><![CDATA[Density field: Sensible Heat Flux]]></Variable>
+      <Variable><![CDATA[Density field: Net Downward Heat Flux]]></Variable>
+      <Descriptive_file></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19810101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19811231]]></Most_recent_date_of_data_publication>
+      <Data_file_location></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  The data set contains the 4X5 degree world domain basic variable and heat budget component fields, and their associated data density fields, as compiled by S. K. Esbensen and Y. Kushnir at the Climate Research Institute at Oregon State University in 1981.  CRI report number 29 contains a description of the derivation of these fields]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

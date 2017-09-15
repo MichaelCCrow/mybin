@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Brounshtein, A. M.]]></origin>
+        <origin><![CDATA[Faber, E. V.]]></origin>
+        <origin><![CDATA[Shashkov, A. A.]]></origin>
+        <title><![CDATA[Atmospheric CO2 Concentrations Derived from Flask Samples Collected at U.S.S.R.-Operated Sampling Sites (1991) ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CO2 Concentrations Derived from Flask Samples Collected at U.S.S.R.-Operated Sampling Sites (1991) ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19830102]]></begdate>
+          <enddate><![CDATA[19910325]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[35.5 ]]></westbc>
+        <eastbc><![CDATA[169.99 ]]></eastbc>
+        <northbc><![CDATA[76.1 ]]></northbc>
+        <southbc><![CDATA[52.75 ]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2 Concentrations]]></themekey>
+        <themekey><![CDATA[U.S.S.R.]]></themekey>
+        <themekey><![CDATA[Teriberka Station]]></themekey>
+        <themekey><![CDATA[Ocean Station Charlie]]></themekey>
+        <themekey><![CDATA[Bering Island]]></themekey>
+        <themekey><![CDATA[Kotelny Island]]></themekey>
+        <themekey><![CDATA[St. Petersburg]]></themekey>
+        <themekey><![CDATA[World Meteorological Organization]]></themekey>
+        <themekey><![CDATA[Main Geophysical Observatory]]></themekey>
+        <themekey><![CDATA[NDP-033]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 144709</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164157 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2 Concentrations]]></Keywords>
+    <Keywords><![CDATA[U.S.S.R.]]></Keywords>
+    <Keywords><![CDATA[Teriberka Station]]></Keywords>
+    <Keywords><![CDATA[Ocean Station Charlie]]></Keywords>
+    <Keywords><![CDATA[Bering Island]]></Keywords>
+    <Keywords><![CDATA[Kotelny Island]]></Keywords>
+    <Keywords><![CDATA[St. Petersburg]]></Keywords>
+    <Keywords><![CDATA[World Meteorological Organization]]></Keywords>
+    <Keywords><![CDATA[Main Geophysical Observatory]]></Keywords>
+    <Keywords><![CDATA[NDP-033]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[This NDP represents the first CDIAC data package to result from our involvement with Soviet scientists as part of Working Group (WG) VIII of the U.S.-U.S.S.R. Joint Committee on Cooperation in the Field of Environmental Protection. The U.S.-U.S.S.R. Agreement on Protection of the Environment, established in 1972, covers a wide
+variety of areas, including environmental pollution, the urban environment, nature preserves, arctic and subarctic ecological systems, earthquake prediction, and institutional measures for environmental protection. WG VIII is concerned with the influence of environmental changes on climate. CDIAC's activities have been conducted under the auspices of WG VIII's "Data Exchange Management" project. (The four other WG VIII projects deal with climate change, atmospheric composition, clouds and radiation fluxes, and stratospheric ozone.) In addition to the Main Geophysical Observatory, other Soviet institutions that have been cooperating with CDIAC in the exchange of CO
+ concentrations, calculated from available individual flask measurements for the four sites, have increased from 352.38 parts per million by volume (ppmv) in 1988 to 354.97 ppmv in 1990 for Teriberka Station, 343.52 ppmv in 1983 to 355.68 ppmv in 1990 for Ocean Station Charlie, 345.19 ppmv in 1986 to
+354.93 ppmv in 1990 for Bering Island, and 351.96 ppmv in 1987 to 356.05 ppmv in 1990 for Kotelny Island. The atmospheric CO measurements from each site show a pronounced annual seasonal oscillation caused by photosynthetic depletion during the northern growing season. The amplitudes of these seasonal oscillations are quite
+large (10 to 30 ppmv) and are consistent with measurement records from other northern-latitude locations.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164157 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.ndp033]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CO2 Concentrations Derived from Flask Samples Collected at U.S.S.R.-Operated Sampling Sites (1991) ]]></Product_title>
+      <Author>
+        <Name><![CDATA[Brounshtein, A. M.]]></Name>
+        <Company><![CDATA[Hydrometeorological Service of the U.S.S.R.]]></Company>
+        <Organization><![CDATA[Main Geophysical Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Faber, E. V.]]></Name>
+        <Company><![CDATA[Hydrometeorological Service of the U.S.S.R.]]></Company>
+        <Organization><![CDATA[Main Geophysical Observatory ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Shashkov, A. A.]]></Name>
+        <Company><![CDATA[Hydrometeorological Service of the U.S.S.R.]]></Company>
+        <Organization><![CDATA[Main Geophysical Observatory ]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Bering Island, Russia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp033.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/bering.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Kotelny Island, Russia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/kotelny.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Teriberka Station, Russia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/teriberk.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ocean Station Charlie, Atlantic Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/stationc.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Atmospheric CO2 concentration (ppmv)]]></Variable>
+      <Variable><![CDATA[Data quality flag ]]></Variable>
+      <Variable><![CDATA[Flask difference]]></Variable>
+      <Variable><![CDATA[Sampling date and time (Year Month Day and Time)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp033.htmlThis NDP represents the first CDIAC data package to result from our involvement with Soviet scientists as part of Working Group (WG) VIII of the U.S.-U.S.S.R. Joint Committee on Cooperation in the Field of Environmental Protection. The U.S.-U.S.S.R. Agreement on Protection of the Environment, established in 1972, covers a wide
+variety of areas, including environmental pollution, the urban environment, nature preserves, arctic and subarctic ecological systems, earthquake prediction, and institutional measures for environmental protection. WG VIII is concerned with the influence of environmental changes on climate. CDIAC's activities have been conducted under the auspices of WG VIII's "Data Exchange Management" project. (The four other WG VIII projects deal with climate change, atmospheric composition, clouds and radiation fluxes, and stratospheric ozone.) In addition to the Main Geophysical Observatory, other Soviet institutions that have been cooperating with CDIAC in the exchange of CO
+ concentrations, calculated from available individual flask measurements for the four sites, have increased from 352.38 parts per million by volume (ppmv) in 1988 to 354.97 ppmv in 1990 for Teriberka Station, 343.52 ppmv in 1983 to 355.68 ppmv in 1990 for Ocean Station Charlie, 345.19 ppmv in 1986 to
+354.93 ppmv in 1990 for Bering Island, and 351.96 ppmv in 1987 to 356.05 ppmv in 1990 for Kotelny Island. The atmospheric CO measurements from each site show a pronounced annual seasonal oscillation caused by photosynthetic depletion during the northern growing season. The amplitudes of these seasonal oscillations are quite
+large (10 to 30 ppmv) and are consistent with measurement records from other northern-latitude locations.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/ndp033.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/bering.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/kotelny.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/ndp033.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/ndp033.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/stationc.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/teriberk.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19910101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19910101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp033/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[61.0KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This NDP represents the first CDIAC data package to result from our involvement with Soviet scientists as part of Working Group (WG) VIII of the U.S.-U.S.S.R. Joint Committee on Cooperation in the Field of Environmental Protection. The U.S.-U.S.S.R. Agreement on Protection of the Environment, established in 1972, covers a wide variety of areas, including environmental pollution, the urban environment, nature preserves, arctic and subarctic ecological systems, earthquake prediction, and institutional measures for environmental protection. WG VIII is concerned with the influence of environmental changes on climate. CDIAC's activities have been conducted under the auspices of WG VIII's Data Exchange Management project. (The four other WG VIII projects deal with climate change, atmospheric composition, clouds and radiation fluxes, and stratospheric ozone.) In addition to the Main Geophysical Observatory, other Soviet institutions that have been cooperating with CDIAC in the exchange of CO2 and climate-related data include the All-Union Research Institute of Hydrometeorological Information (Obninsk) and the State Hydrological Institute (St. Petersburg).
+<br><br>
+ NDP-033 presents daily atmospheric CO2 concentrations from four U.S.S.R.-operated sampling sites [Teriberka Station (69 degrees 12': N, 35d egrees 06' E), Ocean Station Charlie (52 degrees 45' N, 35 degrees 30' W), Bering Island (55 degrees 12' N, 165 degrees 59' E), and Kotelny Island (76 degrees 06' N, 137 degrees 54' E)]. The period of record varies by station, with the earliest measurements dating back to 1983 and recent estimates from early 1991. These CO2 concentrations are derived from air samples collected in 1.5-L stainless steel electropolished flasks and later analyzed at the Main Geophysical Observatory (St. Petersburg, U.S.S.R.) with a nondispersive infrared gas analyzer. Measurements not meeting wind direction, wind speed, interflask agreement, and climate-condition criteria were either discarded or flagged. All measurements have been corrected for drift biases introduced during flask storage.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

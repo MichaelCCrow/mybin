@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Novelli, P. C.]]></origin>
+        <origin><![CDATA[Masarie, K. A.]]></origin>
+        <title><![CDATA[Atmospheric CO Mixing Ratios NOAA/CMDL Cooperative Air Sampling Network, 1988-1993]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/TJ_Blasing/DB1011.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CO Mixing Ratios NOAA/CMDL Cooperative Air Sampling Network, 1988-1993]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19880724]]></begdate>
+          <enddate><![CDATA[19930629]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-177.367]]></westbc>
+        <eastbc><![CDATA[174.100]]></eastbc>
+        <northbc><![CDATA[82.450]]></northbc>
+        <southbc><![CDATA[-40.683]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[CO Measurements]]></themekey>
+        <themekey><![CDATA[CO Mixing Ratios]]></themekey>
+        <themekey><![CDATA[Flushing]]></themekey>
+        <themekey><![CDATA[Pressurizing Glass Flasks]]></themekey>
+        <themekey><![CDATA[Gas Chromatography]]></themekey>
+        <themekey><![CDATA[Mercuric Oxide Reduction Detection]]></themekey>
+        <themekey><![CDATA[DB1011 ]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140110 100702</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 155441 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[CO Measurements]]></Keywords>
+    <Keywords><![CDATA[CO Mixing Ratios]]></Keywords>
+    <Keywords><![CDATA[Flushing]]></Keywords>
+    <Keywords><![CDATA[Pressurizing Glass Flasks]]></Keywords>
+    <Keywords><![CDATA[Gas Chromatography]]></Keywords>
+    <Keywords><![CDATA[Mercuric Oxide Reduction Detection]]></Keywords>
+    <Keywords><![CDATA[DB1011 ]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 155441 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/TJ_Blasing/DB1011.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.db1011]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CO Mixing Ratios NOAA/CMDL Cooperative Air Sampling Network, 1988-1993]]></Product_title>
+      <Author>
+        <Name><![CDATA[Novelli, P. C.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Masarie, K. A.]]></Name>
+        <Company><![CDATA[University of Colorado]]></Company>
+        <Organization><![CDATA[Cooperative Institute for Research in Environmental Sciences ]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Monoxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alert, N.W.T.]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ascension Island, Atlantic Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/asc.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/ascmm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Baltic Sea (Balanga Queen)]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[St. David's head, Bermuda]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/bme.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/bmemm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Southhampton, Bermuda]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/bmw.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/bmwmm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Barrow, Alaska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/brw.co ]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/brwmm.co ]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cold Bay, Alaska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/cgo.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/cgomm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Christmas Island, Pacific Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/chr.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/chrmm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Meares, Oregon]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Guam, Mariana Islands]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/gmi.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/gmimm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Dewejra Point, Gozo]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hegyhatsal]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Heimaey, Vestmannaeyjar]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Grifton, North Carolina]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tenerife, Canary Islands]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Key Biscayne, Florida]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/key.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/keymm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Kumukahi, Hawaii ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/kum.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/kummm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mould Bay, N.W.T. ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mace Head, Count Galway ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/mht.co ]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/mhtmm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sand Island, Midway ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/mlo.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/mlomm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Niwot Ridge, Colorado]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/nwr.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/nwrmm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean (California Star)]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean (Wellington Star)]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Qinghai Province]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/qpc.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/qpcmm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ragged Pt., St. Phillip's Parish ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South China Sea (Carla A. Hills)]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South China Sea (Great Promise)]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mahe Island, Seychelles]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/sey.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/seymm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Shemya Island, Alaska]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tutuila, American Samoa]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/smo.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/smomm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tae-ahn Peninsula]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/complete/tap.co]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/month/tapmm.co]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Wendover, Utah ]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ulaan Uul]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[data selection]]></Variable>
+      <Variable><![CDATA[data quality flag]]></Variable>
+      <Variable><![CDATA[flask ID]]></Variable>
+      <Variable><![CDATA[mean CO mixing ratio (ppb)]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Variable><![CDATA[month]]></Variable>
+      <Variable><![CDATA[day]]></Variable>
+      <Variable><![CDATA[hour]]></Variable>
+      <Variable><![CDATA[minute]]></Variable>
+      <Variable><![CDATA[site]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/db1011.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ornl.gov/ftp/db1011/db1011.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19941018]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19941018]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/db1011/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[1.5 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Individual site files provide CO mixing ratios in parts per billion (ppb) (ppb = parts in 109 by mole fraction) based on measurements from the NOAA/CMDL Cooperative Air Sampling Network beginning 1988. Data are provided through June 1993 for stations at which the first sample was collected before July 1991. Below is a list of locations from which samples of air are collected and analyzed for CO. Data not included in this ftp directory may be obtained by contacting the project PI. A listing of all sites in the air sampling network used for CO measurements (as of 9/94) are given in the table below. The table includes the three letter code used to identify each site, the location of the site, latitude and longitude (in degrees and minutes), the altitude of the sampling location (in meters above mean sea level), the start and end dates for sampling CO, the country, and the cooperating agency. Shipboard sampling occurs every 5 degrees of latitude for two cruise tracks: the Wellington Star (PAW), and California Star (OPC) between North America and Australia or New Zealand, and every 3 degrees latitude between Hong Kong and Singapore for Carla A. Hills and Great Promise (SCS) (data not yet available). Sampling frequencies are approximately weekly for the fixed sites, and average one sample every 3 weeks per latitude zone for PAW and OPC, and about one sample every week per latitude for SCS. The air samples are collected by two general methods: flushing and then pressurizing glass flasks with a pump or opening a stopcock on an evacuated glass flask. (See Lang et al., 1990a,b for details of the sampling network, the equipment and procedures.) During each sampling event a pair of flasks is filled in series.
+<br><br>
+All samples were analyzed for CO at the NOAA/CMDL laboratory in Boulder by gas chromatography with mercuric oxide reduction detection, and all measurements are referenced to the CMDL CO scale (Novelli et al., 1991, Novelli et al., 1994).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

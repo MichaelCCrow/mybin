@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Dickson, A. G.]]></origin>
+        <origin><![CDATA[Goyet, C.]]></origin>
+        <title><![CDATA[Handbook of Methods for the Analysis of the Various Parameters of the Carbon Dioxide System in Sea Water]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/CDIAC_074.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/cdiac74/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Handbook of Methods for the Analysis of the Various Parameters of the Carbon Dioxide System in Sea Water]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19900101]]></begdate>
+          <enddate><![CDATA[19981231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Handbook of Methods]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[Sea Water]]></themekey>
+        <themekey><![CDATA[Seawater]]></themekey>
+        <themekey><![CDATA[Total Alkalinity in Sea Water]]></themekey>
+        <themekey><![CDATA[Water Sampling]]></themekey>
+        <themekey><![CDATA[Quality Assurance]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050808 152159</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 152159 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Handbook of Methods]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[Sea Water]]></Keywords>
+    <Keywords><![CDATA[Seawater]]></Keywords>
+    <Keywords><![CDATA[Total Alkalinity in Sea Water]]></Keywords>
+    <Keywords><![CDATA[Water Sampling]]></Keywords>
+    <Keywords><![CDATA[Quality Assurance]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+A Handbook of Methods for the analysis of carbon dioxide parameters in
+sea water was prepared by the DOE Carbon Dioxide Survey Science Team.
+Printed copies of this Handbook are available on request from the
+Carbon Dioxide Information and Analysis Center in Oak Ridge, Tennessee,
+USA, and can be reached by email at 
+ - Recommended standard operating procedures (SOPs)
+&#239;&#187;&#191;
+&#160;
+&#160;|&#160;
+&#160;
+&#160;|&#160;
+&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;maintained by &#160;
+&#160;|&#160;
+&#160;Last modified: 16 Jun 2010]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 152159 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/CDIAC_074.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[CDIAC-074]]></Product_number>
+      <Product_title><![CDATA[Handbook of Methods for the Analysis of the Various Parameters of the Carbon Dioxide System in Sea Water]]></Product_title>
+      <Author>
+        <Name><![CDATA[Dickson, A. G.]]></Name>
+        <Company><![CDATA[Marine Physical Laboratory]]></Company>
+        <Organization><![CDATA[University of California, San Diego]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Goyet, C.]]></Name>
+        <Company><![CDATA[Woods Hole Oceanographic Institution]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[CDIAC Publications]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/handbook.html]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Handbook]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/handbook.html&#239;&#187;&#191;
+A Handbook of Methods for the analysis of carbon dioxide parameters in
+sea water was prepared by the DOE Carbon Dioxide Survey Science Team.
+Printed copies of this Handbook are available on request from the
+Carbon Dioxide Information and Analysis Center in Oak Ridge, Tennessee,
+USA, and can be reached by email at 
+ - Recommended standard operating procedures (SOPs)
+&#239;&#187;&#191;
+&#160;
+&#160;|&#160;
+&#160;
+&#160;|&#160;
+&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;&#160;
+&#160;|&#160;
+&#160;maintained by &#160;
+&#160;|&#160;
+&#160;Last modified: 16 Jun 2010]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19940901]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19940901]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/cdiac74/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The collection of extensive, reliable, oceanic carbon data is a key component of the Joint Global Ocean Flux Study (JGOFS).  A portion of the U.S. JGOFS oceanic carbon dioxide measurements will be made during the World Ocean Circulation Experiment (WOCE) Hydrographic Program with funding from the U.S. Department of Energy (DOE) Special Research Grant Program 89-7A: Global survey of the carbon dioxide in the oceans.  A science team has been formed from the investigators supported by the DOE to plan and co-ordinate the various activities needed to produce high quality oceanic carbon dioxide measurements under the program.
+<br><br>
+This handbook was prepared at the request of, and with the active participation of, that science team.  The procedures detailed in the following pages have been agreed on by the members of the science team and describe well tested-methods.  They are intended to provide standard operating procedures (SOPs), together with the appropriate quality control plan, for measurements made as part of this survey.  These are not the only measurement techniques in use for the parameters of the oceanic carbon system; however, they do represent the current state-of-the-art for ship-board measurements.
+<br><br>
+In the end, we hope that this handbook can serve widely as a clear and unambiguous guide to other investigators who are setting up to analyze the various parameters of the carbon dioxide system in sea water.  We envision it as an evolving document, updated where necessary, much in the fashion of a computer manual.  The editors will welcome comments and suggestions for use in preparing future revisions.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

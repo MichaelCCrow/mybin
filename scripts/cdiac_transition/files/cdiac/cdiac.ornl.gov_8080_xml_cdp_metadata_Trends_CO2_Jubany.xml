@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Ciattaglia, Luigi]]></origin>
+        <origin><![CDATA[Rafanelli, Claudio]]></origin>
+        <origin><![CDATA[Rodriguez, Horacio]]></origin>
+        <origin><![CDATA[Araujo, Jorge]]></origin>
+        <title><![CDATA[Atmospheric CO2 record from continuous measurements at Jubany Station, Antarctica ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/CO2/Jubany.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CO2 record from continuous measurements at Jubany Station, Antarctica ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19940301]]></begdate>
+          <enddate><![CDATA[20081231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[58.40]]></westbc>
+        <eastbc><![CDATA[58.40]]></eastbc>
+        <northbc><![CDATA[62.14]]></northbc>
+        <southbc><![CDATA[62.14]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[atmospheric CO2 concentrations]]></themekey>
+        <themekey><![CDATA[atmospheric CO2 Mixing Ratios]]></themekey>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[Jubany]]></themekey>
+        <themekey><![CDATA[Antarctica]]></themekey>
+        <themekey><![CDATA[atmospheric carbon dioxide]]></themekey>
+        <themekey><![CDATA[continuous air samples]]></themekey>
+        <themekey><![CDATA[continuous CO2 measurements]]></themekey>
+        <themekey><![CDATA[in situ CO2 measurements]]></themekey>
+        <themekey><![CDATA[gas chromatography]]></themekey>
+        <themekey><![CDATA[Ciattaglia]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 123019</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 094730 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[atmospheric CO2 concentrations]]></Keywords>
+    <Keywords><![CDATA[atmospheric CO2 Mixing Ratios]]></Keywords>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[Jubany]]></Keywords>
+    <Keywords><![CDATA[Antarctica]]></Keywords>
+    <Keywords><![CDATA[atmospheric carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[continuous air samples]]></Keywords>
+    <Keywords><![CDATA[continuous CO2 measurements]]></Keywords>
+    <Keywords><![CDATA[in situ CO2 measurements]]></Keywords>
+    <Keywords><![CDATA[gas chromatography]]></Keywords>
+    <Keywords><![CDATA[Ciattaglia]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Luigi Ciattaglia and Claudio Rafanelli
+CNR-IFA Area Ricerca Tor Vergata 00133 
+Horacio Rodriguez and Jorge Araujo
+DNA-IAA
+Cerrito 1248
+Jubany Station, Antarctica
+62&#176; 14' S, 58&#176; 40' W
+CITE AS: Ciattaglia, L., C. Rafanelli, H. Rodriguez, and J. Araujo. 2010. Atmospheric CO record from continuous measurements at Jubany Station, Antarctica, in Trends Online: A Compendium of Data on Global Change, Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 094730 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/CO2/Jubany.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.015]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CO2 record from continuous measurements at Jubany Station, Antarctica ]]></Product_title>
+      <Author>
+        <Name><![CDATA[Ciattaglia, Luigi]]></Name>
+        <Company><![CDATA[CNR/IFA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rafanelli, Claudio]]></Name>
+        <Company><![CDATA[CNR/IFA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rodriguez, Horacio]]></Name>
+        <Company><![CDATA[DNA-IAA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Araujo, Jorge]]></Name>
+        <Company><![CDATA[DNA-IAA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Jubany Station, Antarctica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/jubany.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/Jubany_2009_Monthly.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/Jubany_2009_Daily.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/jubany.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[annual]]></Variable>
+      <Variable><![CDATA[Apr]]></Variable>
+      <Variable><![CDATA[Aug]]></Variable>
+      <Variable><![CDATA[Dec]]></Variable>
+      <Variable><![CDATA[Feb]]></Variable>
+      <Variable><![CDATA[Jan]]></Variable>
+      <Variable><![CDATA[Jul]]></Variable>
+      <Variable><![CDATA[Jun]]></Variable>
+      <Variable><![CDATA[Mar]]></Variable>
+      <Variable><![CDATA[May]]></Variable>
+      <Variable><![CDATA[Nov]]></Variable>
+      <Variable><![CDATA[Oct]]></Variable>
+      <Variable><![CDATA[Sep]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/jubany.htmlLuigi Ciattaglia and Claudio Rafanelli
+CNR-IFA Area Ricerca Tor Vergata 00133 
+Horacio Rodriguez and Jorge Araujo
+DNA-IAA
+Cerrito 1248
+Jubany Station, Antarctica
+62&#176; 14' S, 58&#176; 40' W
+CITE AS: Ciattaglia, L., C. Rafanelli, H. Rodriguez, and J. Araujo. 2010. Atmospheric CO record from continuous measurements at Jubany Station, Antarctica, in Trends Online: A Compendium of Data on Global Change, Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19971027]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20100308]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[2600 kb]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The measuring system is based on a Siemens Nondispersive infrared gas analyzer equipped with a serial interface controlled by software running on a PC. Atmospheric water vapor and humidity contained in the cylinders are removed by passing air for approximately one minute through a U glass tube placed in a cryogenic trap (-70 degrees C). The air intake is located on a 10m-high mast situated 40m away from the laboratory building. The Jubany Laboratory has now at its disposal a set of 6 CO2-in-air station whose concentration, versus the World Meteorological Organizations's standard scale, was determined at the United States' National Oceanic and Atmospheric Administration's Climate Monitoring and Diagnosticcs Laboratory. The analyzer scale is automatically recalibrated every 3 hours by using two working standards (zero and span) which differ by 20-25 ppm. The accuracy achieved in the calibration phase and in the atmospheric CO2 measurement permits reporting to + or - 0.1 ppm.
+<br><br>
+On the basis of annual averages calculated from monthly averages, CO2 levels at Jubany have risen from 356.75 in 1994 to 384.74 in 2009. The reduced and poorly defined concentration peak of 1997-1998 was also observed at other Antarctic stations in the WMO Global Atmospheric Watch network, and may have been caused by any one or a combination of several things, including sea surface temperature anomalies, air temperature anomalies, and changes in general atmospheric circulation. Among all the factors affecting the atmospheric CO2 concentration the most convincing cause seems related to the 1997-1998 El Nino and subsequent La Nina episodes. The hypothesis is based on the behavior of SOI and CO2 concentrations at several Antarctic and non-Antarctic sites and from cross correlations between the two parameters.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

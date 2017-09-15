@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Arking, A.]]></origin>
+        <origin><![CDATA[Ridgway, B.]]></origin>
+        <origin><![CDATA[Clough, T.]]></origin>
+        <origin><![CDATA[Iacono, M.]]></origin>
+        <origin><![CDATA[Fomin, B.]]></origin>
+        <origin><![CDATA[Trotsenko, A. ]]></origin>
+        <origin><![CDATA[Freidenreich, S.]]></origin>
+        <origin><![CDATA[Schwarzkopf, D.]]></origin>
+        <title><![CDATA[ICRCCM Infrared (Clear-Sky) Line-by Line Radiative Fluxes]]></title>
+        <geoform><![CDATA[Model Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[ICRCCM Infrared (Clear-Sky) Line-by Line Radiative Fluxes]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[1900000]]></begdate>
+          <enddate><![CDATA[1900000]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[flux]]></themekey>
+        <themekey><![CDATA[ozone-mixing ratios]]></themekey>
+        <themekey><![CDATA[temperature]]></themekey>
+        <themekey><![CDATA[water vapor]]></themekey>
+        <themekey><![CDATA[DB1002]]></themekey>
+        <themekey><![CDATA[climate model]]></themekey>
+        <themekey><![CDATA[model intercomparison]]></themekey>
+        <themekey><![CDATA[ICRCCM]]></themekey>
+        <themekey><![CDATA[radiation codes]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20121009 103204</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 161654 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[flux]]></Keywords>
+    <Keywords><![CDATA[ozone-mixing ratios]]></Keywords>
+    <Keywords><![CDATA[temperature]]></Keywords>
+    <Keywords><![CDATA[water vapor]]></Keywords>
+    <Keywords><![CDATA[DB1002]]></Keywords>
+    <Keywords><![CDATA[climate model]]></Keywords>
+    <Keywords><![CDATA[model intercomparison]]></Keywords>
+    <Keywords><![CDATA[ICRCCM]]></Keywords>
+    <Keywords><![CDATA[radiation codes]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 161654 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/sar.db1002]]></Product_number>
+      <Product_title><![CDATA[ICRCCM Infrared (Clear-Sky) Line-by Line Radiative Fluxes]]></Product_title>
+      <Author>
+        <Name><![CDATA[Arking, A.]]></Name>
+        <Company><![CDATA[Applied Research Corporation]]></Company>
+        <Organization><![CDATA[NASA Goddard Laboratory for Atmospheres]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ridgway, B.]]></Name>
+        <Company><![CDATA[Applied Research Corporation]]></Company>
+        <Organization><![CDATA[NASSA Goddard Laboratory for Atmospheres]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Clough, T.]]></Name>
+        <Company><![CDATA[Atmospheric Environmental Research, Inc.]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Iacono, M.]]></Name>
+        <Company><![CDATA[Atmospheric Environmental Research, Inc.]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Fomin, B.]]></Name>
+        <Company><![CDATA[Russian Research Center Kurchatov Institute]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Trotsenko, A. ]]></Name>
+        <Company><![CDATA[Russian Research Center Kurchatov Institute]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Freidenreich, S.]]></Name>
+        <Company><![CDATA[Princeton University]]></Company>
+        <Organization><![CDATA[NOAA Geophysical Fluid Dynamics Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schwarzkopf, D.]]></Name>
+        <Company><![CDATA[Princeton University]]></Company>
+        <Organization><![CDATA[NOAA Geophysical Fluid Dynamics Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Solar and Atmospheric Radiation]]></Thematic_area>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1002.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/data/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[alayer(j)]]></Variable>
+      <Variable><![CDATA[atmlbl]]></Variable>
+      <Variable><![CDATA[bandv1(k)]]></Variable>
+      <Variable><![CDATA[bandv2(k)]]></Variable>
+      <Variable><![CDATA[first4]]></Variable>
+      <Variable><![CDATA[flgctm]]></Variable>
+      <Variable><![CDATA[fluxdn(j]]></Variable>
+      <Variable><![CDATA[fluxdn(nlevel]]></Variable>
+      <Variable><![CDATA[fluxnt(j]]></Variable>
+      <Variable><![CDATA[fluxup(1]]></Variable>
+      <Variable><![CDATA[fluxup(j]]></Variable>
+      <Variable><![CDATA[fluxup(nlevel]]></Variable>
+      <Variable><![CDATA[heatrt(j]]></Variable>
+      <Variable><![CDATA[icase]]></Variable>
+      <Variable><![CDATA[iphase]]></Variable>
+      <Variable><![CDATA[k)]]></Variable>
+      <Variable><![CDATA[nbands]]></Variable>
+      <Variable><![CDATA[nlayer]]></Variable>
+      <Variable><![CDATA[nlevel]]></Variable>
+      <Variable><![CDATA[olayer(j)]]></Variable>
+      <Variable><![CDATA[player(j)]]></Variable>
+      <Variable><![CDATA[plevel(j)]]></Variable>
+      <Variable><![CDATA[ppmch4]]></Variable>
+      <Variable><![CDATA[ppmco2]]></Variable>
+      <Variable><![CDATA[ppmn2o]]></Variable>
+      <Variable><![CDATA[psurf]]></Variable>
+      <Variable><![CDATA[pthair]]></Variable>
+      <Variable><![CDATA[pthch4]]></Variable>
+      <Variable><![CDATA[pthco2]]></Variable>
+      <Variable><![CDATA[pthh2o]]></Variable>
+      <Variable><![CDATA[pthn2o]]></Variable>
+      <Variable><![CDATA[ptho3]]></Variable>
+      <Variable><![CDATA[ptrop]]></Variable>
+      <Variable><![CDATA[tlayer(j)]]></Variable>
+      <Variable><![CDATA[tlevel(j)]]></Variable>
+      <Variable><![CDATA[tropdn(k)]]></Variable>
+      <Variable><![CDATA[tropup(k)]]></Variable>
+      <Variable><![CDATA[tsurf]]></Variable>
+      <Variable><![CDATA[wlayer(j)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1002.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/db1002.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/brief.f]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/checksum.f]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/format93.f]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/idl_binary]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/idl_plot]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/idl_scan]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/label.f]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/rfm93.f]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/table.f]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/wfm93.f]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19940101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19940101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ICRCCM-radiative_fluxes/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[214 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The intercomparison of Radiation Codes in Climate Models (ICRCCM) study was launched under the auspices of the World Meteorological Organization and with the support of the U.S. Department of Energy to document differences in results obtained with various radiation codes and radiation parameterizations in general circulation models (GCMs). ICRCCM produced benchmark, longwave, line-by-line (LBL) fluxes that may be compared against each other and against models of lower spectral resolution.
+<br><br>
+During ICRCCM, infrared fluxes and cooling rates for several standard model atmospheres with varying concentrations of water vapor, carbon dioxide, and ozone were calculated with LBL methods at resolutions of 0.01 cm-1 or higher. For comparison with other models, values were summed for the IR spectrum and given at intervals of 5 or 10 cm-1.
+<br><br>
+This archive contains fluxes for ICRCCM-prescribed clear-sky cases. Radiative flux and cooling-rate profiles are given for specified atmospheric profiles for temperature, water vapor, and ozone-mixing ratios. The archive contains 328 files, including spectral summaries, formatted data files, and a variety of programs (i.e., C-shell scripts, FORTRAN codes, and IDL programs) to read, reformat, and display data. Collectively, these files require approximately 59 MB of disk space.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Multi-Agency Consortium]]></origin>
+        <title><![CDATA[National Land Cover]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tris_West/National_Land_Cover.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/datasets/spatial/NLCD92/NLCD92.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[National Land Cover]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-127.982673]]></westbc>
+        <eastbc><![CDATA[-65.225464]]></eastbc>
+        <northbc><![CDATA[51.652449]]></northbc>
+        <southbc><![CDATA[22.846802]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[National Land Cover Data]]></themekey>
+        <themekey><![CDATA[NLCD]]></themekey>
+        <themekey><![CDATA[Land cover]]></themekey>
+        <themekey><![CDATA[land use]]></themekey>
+        <themekey><![CDATA[Remote sensing]]></themekey>
+        <themekey><![CDATA[Landsat]]></themekey>
+        <themekey><![CDATA[United States]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tris West; email: westto@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tris West; email: westto@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090623 170336</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tris West; email: westto@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 151750 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[National Land Cover Data]]></Keywords>
+    <Keywords><![CDATA[NLCD]]></Keywords>
+    <Keywords><![CDATA[Land cover]]></Keywords>
+    <Keywords><![CDATA[land use]]></Keywords>
+    <Keywords><![CDATA[Remote sensing]]></Keywords>
+    <Keywords><![CDATA[Landsat]]></Keywords>
+    <Keywords><![CDATA[United States]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[
+2. ERDAS Imagine. The unzipped files are 13.9 GB.
+Imagine file: 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 151750 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tris_West/National_Land_Cover.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[National Land Cover]]></Product_number>
+      <Product_title><![CDATA[National Land Cover]]></Product_title>
+      <Author>
+        <Name><![CDATA[Multi-Agency Consortium]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[US Geological Survey (USGS)]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Land Cover]]></Thematic_area>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[United States ]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/datasets/spatial/NLCD92/NLCD92.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://edc2.usgs.gov/scripts/mapserv.exe?map=d%3A%5CInetpub%5Cwwwroot%5Clccp%5Cnlcd%5Cnlcd.map&amp;zoomsize=2]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Land Cover]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/datasets/spatial/NLCD92/NLCD92.html
+2. ERDAS Imagine. The unzipped files are 13.9 GB.
+Imagine file: 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20041213]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/datasets/spatial/NLCD92/NLCD92.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Tris West; email: westto@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Abstract:<br>
+This data set is one complete raster coverage of the USGS National Land Cover Data (NLCD). The NLCD is a 21-class, land cover classification of the contiguous United States. It is derived from early to mid-1990s Landsat Thematic Mapper satellite data. A complete description of this data can found at http://landcover.usgs.gov/natllandcover.asp.
+<br><br>
+Purpose:<br>
+The NLCD data is distributed by the USGS EROS Data Center for each U.S. state. The spatial data set distributed here represents the processing of State files into one contiguous raster coverage file for the United States. The single raster coverage is intended for use in spatial analyses for the U.S. Individual State coverages can be downloaded separately from http://landcover.usgs.gov/natllandcover.asp]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

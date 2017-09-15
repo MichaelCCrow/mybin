@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Manning, M. R.]]></origin>
+        <origin><![CDATA[Melhuish, W. H.]]></origin>
+        <title><![CDATA[Atmospheric 14C record from Wellington, New Zealand ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/CO2/welling.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric 14C record from Wellington, New Zealand ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19541215]]></begdate>
+          <enddate><![CDATA[19930629]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[174.800]]></westbc>
+        <eastbc><![CDATA[174.800]]></eastbc>
+        <northbc><![CDATA[-41.300]]></northbc>
+        <southbc><![CDATA[-41.300]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric 14CO2 measurements]]></themekey>
+        <themekey><![CDATA[delta 14C]]></themekey>
+        <themekey><![CDATA[Wellington]]></themekey>
+        <themekey><![CDATA[Manning]]></themekey>
+        <themekey><![CDATA[New Zealand]]></themekey>
+        <themekey><![CDATA[C14]]></themekey>
+        <themekey><![CDATA[Atmospheric C14]]></themekey>
+        <themekey><![CDATA[Atmospheric Carbon Isotope]]></themekey>
+        <themekey><![CDATA[delta 13C]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 161901</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 095603 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric 14CO2 measurements]]></Keywords>
+    <Keywords><![CDATA[delta 14C]]></Keywords>
+    <Keywords><![CDATA[Wellington]]></Keywords>
+    <Keywords><![CDATA[Manning]]></Keywords>
+    <Keywords><![CDATA[New Zealand]]></Keywords>
+    <Keywords><![CDATA[C14]]></Keywords>
+    <Keywords><![CDATA[Atmospheric C14]]></Keywords>
+    <Keywords><![CDATA[Atmospheric Carbon Isotope]]></Keywords>
+    <Keywords><![CDATA[delta 13C]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+&amp;delta;C from Wellington
+M.R. Manning, W.H. Melhuish
+National Institute of Water and Atmospheric Research, Ltd.,
+Climate Division,
+Gracefield Road, Gracefield,
+P.O. Box 31-311,
+Wellington, New Zealand
+CITE AS: Manning, M.R., and W.H. Melhuish. 1994. Atmospheric &#948;C record from Wellington. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 095603 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/CO2/welling.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[TRENDS-CO2]]></Product_number>
+      <Product_title><![CDATA[Atmospheric 14C record from Wellington, New Zealand ]]></Product_title>
+      <Author>
+        <Name><![CDATA[Manning, M. R.]]></Name>
+        <Company><![CDATA[National Institute of Water and Atmospheric Research, Ltd.]]></Company>
+        <Organization><![CDATA[Climate Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Melhuish, W. H.]]></Name>
+        <Company><![CDATA[National Institute of Water and Atmospheric Research, Ltd. ]]></Company>
+        <Organization><![CDATA[Climate Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Wellington, New Zealand]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/welling.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/welling.195]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/well-gr.htm]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[d14C]]></Variable>
+      <Variable><![CDATA[day]]></Variable>
+      <Variable><![CDATA[err]]></Variable>
+      <Variable><![CDATA[exposure]]></Variable>
+      <Variable><![CDATA[lab]]></Variable>
+      <Variable><![CDATA[month]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Variable><![CDATA[d13C]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/welling.html &#187;&#160;
+&amp;delta;C from Wellington
+M.R. Manning, W.H. Melhuish
+National Institute of Water and Atmospheric Research, Ltd.,
+Climate Division,
+Gracefield Road, Gracefield,
+P.O. Box 31-311,
+Wellington, New Zealand
+CITE AS: Manning, M.R., and W.H. Melhuish. 1994. Atmospheric &#948;C record from Wellington. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19971126]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19971126]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Trays containing ~2 L of 5 normal NaOH carbonate-free solution are typically exposed for intervals of 1-2 weeks, and the atmospheric CO2 absorbed during that time is recovered by acid evolution. Considerable fractionation occurs during absorption into the NaOH solution, and the standard fractionation correction (Stuiver and Polach 1977) is used to determine a delta 14C value corrected to delta 13C = -25 per mil.
+Some samples reported here were taken using BaOH solution or with extended tray exposure times. These variations in procedure do not appear to affect the results (Manning et al. 1990). A few early measurements were made by bubbling air through columns of NaOH for several hours. These samples have higher delta 13C values. Greater details on the sampling methods are provided in Manning et al. (1990) and Rafter and Fergusson (1959). 
+<br><br>
+These measurements of 14C in atmospheric CO2 at Wellington constitute one of the longest isotopic records available, particularly for the Southern Hemisphere, and support the overall decline in atmospheric 14CO2 reported by others. The 14C record for Wellington in 1965 shows a peak occurring roughly 1 year later than that observed in the Northern Hemisphere (Nydal and Lovseth 1983; Levin et al. 1985).
+<br><br>
+Manning et al. (1990) reported a seasonal component for the Wellington record and a cycle of decreasing amplitude for the seasonal component. Manning et al. (1990) reported that up to 1980, the cycle had a maximum in March and a minimum in August along with a negative anomaly in December. The amplitude of the cycle for this period decreased steadily from a peak-to-peak range of 20 per mil in 1966 to 3 per mil in 1980. From 1980 onwards, Manning et al. (1990) found that a different cycle emerged: the new cycle had an amplitude of ~5 per mil, a maximum in July-August, and a minimum in January. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

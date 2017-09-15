@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Francey, R. J.]]></origin>
+        <origin><![CDATA[Allison, C. E.]]></origin>
+        <title><![CDATA[In Situ delta 13CO2 from Cape Grim, Tasmania, Australia: 1982-1993]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1014/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[In Situ delta 13CO2 from Cape Grim, Tasmania, Australia: 1982-1993]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19820119]]></begdate>
+          <enddate><![CDATA[19931217]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[144.683]]></westbc>
+        <eastbc><![CDATA[144.683]]></eastbc>
+        <northbc><![CDATA[-40.683]]></northbc>
+        <southbc><![CDATA[-40.683]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2 concentrations]]></themekey>
+        <themekey><![CDATA[Atmospheric CO2 Mixing Ratios]]></themekey>
+        <themekey><![CDATA[in situ]]></themekey>
+        <themekey><![CDATA[Infrared Gas Analyzer]]></themekey>
+        <themekey><![CDATA[carbon 13 ratio]]></themekey>
+        <themekey><![CDATA[oxygen 18 ratio]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050803 124645</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 094228 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2 concentrations]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO2 Mixing Ratios]]></Keywords>
+    <Keywords><![CDATA[in situ]]></Keywords>
+    <Keywords><![CDATA[Infrared Gas Analyzer]]></Keywords>
+    <Keywords><![CDATA[carbon 13 ratio]]></Keywords>
+    <Keywords><![CDATA[oxygen 18 ratio]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ from Cape Grim, Australia
+R.J. Francey and C.E. Allison
+CSIRO, Division of Atmospheric Research,
+Private Bag No. 1,
+&#948;45 = (SA45 - ST45) / ST45
+Cape Grim, Tasmania, Australia
+Promontory seashore
+40&#176;41' S, 144&#176;41' E
+CITE AS: Francey, R.J., and C.E. Allison. 1998. In situ &#948; from Cape Grim, Tasmania, Australia: 1982-1993. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 094228 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[TRENDS-OTHER ATMOSPHERIC TRACE GASES]]></Product_number>
+      <Product_title><![CDATA[In Situ delta 13CO2 from Cape Grim, Tasmania, Australia: 1982-1993]]></Product_title>
+      <Author>
+        <Name><![CDATA[Francey, R. J.]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Allison, C. E.]]></Name>
+        <Company><![CDATA[CSIRO ]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Research ]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/capegrim.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1014/isotope.cgo]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/cgoc13.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[height]]></Variable>
+      <Variable><![CDATA[tear]]></Variable>
+      <Variable><![CDATA[d13C]]></Variable>
+      <Variable><![CDATA[d18O]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/capegrim.html from Cape Grim, Australia
+R.J. Francey and C.E. Allison
+CSIRO, Division of Atmospheric Research,
+Private Bag No. 1,
+&#948;45 = (SA45 - ST45) / ST45
+Cape Grim, Tasmania, Australia
+Promontory seashore
+40&#176;41' S, 144&#176;41' E
+CITE AS: Francey, R.J., and C.E. Allison. 1998. In situ &#948; from Cape Grim, Tasmania, Australia: 1982-1993. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980726]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980726]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1014/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[25k]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Air samples are collected during baseline condition episodes at a frequency of around one sample per week. Baseline conditions are characterized by wind direction in the sector 190-280 degrees, condensation nucleus concentration below 600 cm3, and steady, continuous CO2 concentrations (variation +/- 0.2 ppmv per hour). The Cape Grim in situ extraction line is based on 3 high-efficiency glass U-tube traps with internal cooling coils. A vacuum pump draws air from either the 10 m or 70 m intakes, and sampling alternates between the two intakes. The air from the intakes is dried with a trap inmersed in an alcohol bath at a temperature of about -80 degrees C. CO2 is collected in a second trap immersed in liquid nitrogen. A third liquid nitrogen trap guards against oil vapor back-steaming from the vacuum pump. Air flow is maintained for 2 hours, usually during late morning, at 300 mL/min. After this time, the trap holding the CO2 is raised to the alcohol bath temperature, and the CO2 is transferred cryogenically into a 100 mL glass flask for transport to CSIRO's Division of Atmospheric Research in Aspendale.
+<br><br>
+The Cape Grim in situ record is possibly the most accurate representation of global atmospheric delta 13C behavior during the 1980s and 1990s. Changes in delta 13C of atmospheric CO2 are useful in elucidating the relative roles of oceanic and terrestrial uptake of CO2 from fossil fuel emissions. Francey et al. (1995) observed a gradual decrease in delta 13C for Cape Grim for 1982 to 1993, but with a pronounced flattening from 1988 to 1990. Francey et al. (1995) reported the flattening of the trend from 1988 to 1990 appears to involve the terrestrial carbon cycle.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

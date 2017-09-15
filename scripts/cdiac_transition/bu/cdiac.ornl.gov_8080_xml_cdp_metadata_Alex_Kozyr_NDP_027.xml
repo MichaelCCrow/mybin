@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Ostlund, H. G.]]></origin>
+        <origin><![CDATA[Stuiver, M.]]></origin>
+        <title><![CDATA[GEOSECS Atlantic, Pacific, Indian, and Mediterranean Radiocarbon Data]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_027.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp027/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[GEOSECS Atlantic, Pacific, Indian, and Mediterranean Radiocarbon Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19720727]]></begdate>
+          <enddate><![CDATA[19780421]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.]]></westbc>
+        <eastbc><![CDATA[180.]]></eastbc>
+        <northbc><![CDATA[74.933]]></northbc>
+        <southbc><![CDATA[-69.3]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[14C]]></themekey>
+        <themekey><![CDATA[delta 14C]]></themekey>
+        <themekey><![CDATA[depth]]></themekey>
+        <themekey><![CDATA[latitude and longitude]]></themekey>
+        <themekey><![CDATA[potential temperature]]></themekey>
+        <themekey><![CDATA[salinity]]></themekey>
+        <themekey><![CDATA[sample number]]></themekey>
+        <themekey><![CDATA[Geochemical Surveys]]></themekey>
+        <themekey><![CDATA[Carbon 14]]></themekey>
+        <themekey><![CDATA[Quantitative Chemical Analysis]]></themekey>
+        <themekey><![CDATA[Atlantic Ocean]]></themekey>
+        <themekey><![CDATA[Pacific Ocean]]></themekey>
+        <themekey><![CDATA[Indian Ocean]]></themekey>
+        <themekey><![CDATA[NDP-027]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 121850</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 141349 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[14C]]></Keywords>
+    <Keywords><![CDATA[delta 14C]]></Keywords>
+    <Keywords><![CDATA[depth]]></Keywords>
+    <Keywords><![CDATA[latitude and longitude]]></Keywords>
+    <Keywords><![CDATA[potential temperature]]></Keywords>
+    <Keywords><![CDATA[salinity]]></Keywords>
+    <Keywords><![CDATA[sample number]]></Keywords>
+    <Keywords><![CDATA[Geochemical Surveys]]></Keywords>
+    <Keywords><![CDATA[Carbon 14]]></Keywords>
+    <Keywords><![CDATA[Quantitative Chemical Analysis]]></Keywords>
+    <Keywords><![CDATA[Atlantic Ocean]]></Keywords>
+    <Keywords><![CDATA[Pacific Ocean]]></Keywords>
+    <Keywords><![CDATA[Indian Ocean]]></Keywords>
+    <Keywords><![CDATA[NDP-027]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 141349 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_027.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp027]]></Product_number>
+      <Product_title><![CDATA[GEOSECS Atlantic, Pacific, Indian, and Mediterranean Radiocarbon Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[Ostlund, H. G.]]></Name>
+        <Company><![CDATA[University of Miami]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Stuiver, M.]]></Name>
+        <Company><![CDATA[University of Washington]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Atlantic Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp027/ndp027.atl]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp027/ndp027.pac]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Indian Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp027/ndp027.ind]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mediterranean Sea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[BDEPTH]]></Variable>
+      <Variable><![CDATA[BOT]]></Variable>
+      <Variable><![CDATA[C14]]></Variable>
+      <Variable><![CDATA[CARB14]]></Variable>
+      <Variable><![CDATA[CAST]]></Variable>
+      <Variable><![CDATA[CODE]]></Variable>
+      <Variable><![CDATA[CRUISE]]></Variable>
+      <Variable><![CDATA[DAY]]></Variable>
+      <Variable><![CDATA[DEGLAT]]></Variable>
+      <Variable><![CDATA[DEGLON]]></Variable>
+      <Variable><![CDATA[DEPTH]]></Variable>
+      <Variable><![CDATA[FIVESQ]]></Variable>
+      <Variable><![CDATA[HEMLAT]]></Variable>
+      <Variable><![CDATA[HEMLON]]></Variable>
+      <Variable><![CDATA[LONTEN]]></Variable>
+      <Variable><![CDATA[MINLAT]]></Variable>
+      <Variable><![CDATA[MINLON]]></Variable>
+      <Variable><![CDATA[MINTEN]]></Variable>
+      <Variable><![CDATA[MONTH]]></Variable>
+      <Variable><![CDATA[MREC]]></Variable>
+      <Variable><![CDATA[NATION]]></Variable>
+      <Variable><![CDATA[NUMDET]]></Variable>
+      <Variable><![CDATA[NUMOBS]]></Variable>
+      <Variable><![CDATA[ODEPTH]]></Variable>
+      <Variable><![CDATA[ONESQ]]></Variable>
+      <Variable><![CDATA[ROSID]]></Variable>
+      <Variable><![CDATA[SALIN]]></Variable>
+      <Variable><![CDATA[SDEPTH]]></Variable>
+      <Variable><![CDATA[SQ]]></Variable>
+      <Variable><![CDATA[STATN]]></Variable>
+      <Variable><![CDATA[TEMP]]></Variable>
+      <Variable><![CDATA[TWOSQ]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/ndp_027/ndp027.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp027/ndp027.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp027/ndp027.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp027/ndp027.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19880101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19880101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp027/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[257KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Radiocarbon data for the Atlantic, Pacific, and Indian oceans were obtained between 1972 and 1977 as part of the Geochemical Ocean Section Study (GEOSECS) cruises during which more than 2200 water samples were collected. Some Mediterranean Sea data were also collected. Samples for 14C were collected at 124 stations, and approximately 18 samples were collected at each station from intervals throughout the water column. The data included in the data base are ship position (latitude and longitude), sample number, depth, potential temperature, salinity, and delta 14C. The GEOSECS data sets allow a better understanding of large-scale oceanic transport and mixing and the establishment of the gross rate of deep-ocean circulation. The data are in three files (radiocarbon data for the Atlantic, Pacific, and Indian Oceans) ranging in size from 39.9 to 50.4 kB.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

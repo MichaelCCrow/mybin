@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Weiss, R. F.]]></origin>
+        <origin><![CDATA[Van Woy, F. A.]]></origin>
+        <origin><![CDATA[Salameh, P. K.]]></origin>
+        <title><![CDATA[Surface Water and Atmospheric CO2 and Nitrous Oxide Observations by Shipboard Automated Gas Chromatography: Results from Expeditions Between 1977 and 1990]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_044.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp044/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Surface Water and Atmospheric CO2 and Nitrous Oxide Observations by Shipboard Automated Gas Chromatography: Results from Expeditions Between 1977 and 1990]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19771201]]></begdate>
+          <enddate><![CDATA[19900416]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-177.637]]></westbc>
+        <eastbc><![CDATA[175.740]]></eastbc>
+        <northbc><![CDATA[70.027]]></northbc>
+        <southbc><![CDATA[-55.230]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[Nitrous Oxide]]></themekey>
+        <themekey><![CDATA[Surface Water Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[Oxide ]]></themekey>
+        <themekey><![CDATA[Observations]]></themekey>
+        <themekey><![CDATA[Shipboard ]]></themekey>
+        <themekey><![CDATA[Automated Gas Chromatography]]></themekey>
+        <themekey><![CDATA[Gas Chromatography]]></themekey>
+        <themekey><![CDATA[Expeditions]]></themekey>
+        <themekey><![CDATA[Nitrous oxide]]></themekey>
+        <themekey><![CDATA[Atmospheric carbon dioxide]]></themekey>
+        <themekey><![CDATA[oceanic surveys]]></themekey>
+        <themekey><![CDATA[Weiss]]></themekey>
+        <themekey><![CDATA[Van Woy]]></themekey>
+        <themekey><![CDATA[Salameh]]></themekey>
+        <themekey><![CDATA[cruise ship]]></themekey>
+        <themekey><![CDATA[hydrographic stations]]></themekey>
+        <themekey><![CDATA[University of California]]></themekey>
+        <themekey><![CDATA[Scripps Institution of Oceanography]]></themekey>
+        <themekey><![CDATA[NDP-044]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 122652</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 143159 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[Nitrous Oxide]]></Keywords>
+    <Keywords><![CDATA[Surface Water Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[Oxide ]]></Keywords>
+    <Keywords><![CDATA[Observations]]></Keywords>
+    <Keywords><![CDATA[Shipboard ]]></Keywords>
+    <Keywords><![CDATA[Automated Gas Chromatography]]></Keywords>
+    <Keywords><![CDATA[Gas Chromatography]]></Keywords>
+    <Keywords><![CDATA[Expeditions]]></Keywords>
+    <Keywords><![CDATA[Nitrous oxide]]></Keywords>
+    <Keywords><![CDATA[Atmospheric carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[oceanic surveys]]></Keywords>
+    <Keywords><![CDATA[Weiss]]></Keywords>
+    <Keywords><![CDATA[Van Woy]]></Keywords>
+    <Keywords><![CDATA[Salameh]]></Keywords>
+    <Keywords><![CDATA[cruise ship]]></Keywords>
+    <Keywords><![CDATA[hydrographic stations]]></Keywords>
+    <Keywords><![CDATA[University of California]]></Keywords>
+    <Keywords><![CDATA[Scripps Institution of Oceanography]]></Keywords>
+    <Keywords><![CDATA[NDP-044]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 143159 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_044.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp044]]></Product_number>
+      <Product_title><![CDATA[Surface Water and Atmospheric CO2 and Nitrous Oxide Observations by Shipboard Automated Gas Chromatography: Results from Expeditions Between 1977 and 1990]]></Product_title>
+      <Author>
+        <Name><![CDATA[Weiss, R. F.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Scripps Institution of Oceanography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Van Woy, F. A.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Scripps Institution of Oceanography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Salameh, P. K.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Scripps Institution of Oceanography]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Atlantic Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp044/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp044/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Indian, Southern Ocean]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp044/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Indian, Red Sea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp044/]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[ Mediterranean Sea]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp044/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[DATEDA]]></Variable>
+      <Variable><![CDATA[DATEMO]]></Variable>
+      <Variable><![CDATA[DATEYR]]></Variable>
+      <Variable><![CDATA[H2OTMP]]></Variable>
+      <Variable><![CDATA[HEADER]]></Variable>
+      <Variable><![CDATA[LAT]]></Variable>
+      <Variable><![CDATA[LATHEM]]></Variable>
+      <Variable><![CDATA[LON]]></Variable>
+      <Variable><![CDATA[LONHEM]]></Variable>
+      <Variable><![CDATA[PRESS]]></Variable>
+      <Variable><![CDATA[SAMPTYP]]></Variable>
+      <Variable><![CDATA[TIME]]></Variable>
+      <Variable><![CDATA[XCO2]]></Variable>
+      <Variable><![CDATA[XN2O]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/ndp_044/ndp044_read.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp044/ndp044.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp044/ndp044.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp044/ndp044.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19920101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19920101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp044/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[7.92MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This document presents the reults of surface water and atmospheric carbon dioxide (CO2) and nitrous oxide (N2O) measurements carried out by shipboard gas chromatography over the period 1977-1990. These data include results from 11 different oceanic surveys for a total of 41 expedition legs. Collectively, they represent a globally distributed sampling that includes locations in the Atlantic, Pacific, Indian, and Southern Oceans, as well as the Mediterranean and Red Seas.
+<br><br>
+ The measurements were made by an automated high-precision shipboard gas chromatographic system developed during the late 1970s and used extensively over the intervening years. This instrument measures CO2 by flame ionization after quantitative reaction to methane in a stream of hydrogen. Nitrous oxide is measured by a separate electron capture detector. the chromatographic system measures 196 dry-gas samples a day, divided equally among the atmosphere, gas equilibrated with surface water, a low-range gas standard, and a high-range gas standard.
+<br><br>
+ These data constitute one of the most extensive records available of CO2 and, particularly, N2O in marine air and surface seawater. the data will be valuable in modeling applications dealing with the ocean's role in the global cycles of carbon and nitrogen, in studies of ocean-atmosphere dynamics, and in studies evaluating other methodologies for determining pCO2.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

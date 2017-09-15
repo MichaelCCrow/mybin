@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Steele, L. P.]]></origin>
+        <origin><![CDATA[Krummel, P. B.]]></origin>
+        <origin><![CDATA[Langenfelds, R. L.]]></origin>
+        <title><![CDATA[Atmospheric H2 Concentrations from the CSIRO GASLAB Flask Sampling Network ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Other_atm_gas/CSIRO_H2.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/trends/otheratg/csiro-h2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric H2 Concentrations from the CSIRO GASLAB Flask Sampling Network ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19920101]]></begdate>
+          <enddate><![CDATA[20011231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric ]]></themekey>
+        <themekey><![CDATA[H2]]></themekey>
+        <themekey><![CDATA[Hydrogen]]></themekey>
+        <themekey><![CDATA[Flask air samples]]></themekey>
+        <themekey><![CDATA[Mercuric oxide reduction]]></themekey>
+        <themekey><![CDATA[Gas detector]]></themekey>
+        <themekey><![CDATA[Gas chromatography ]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050803 125328</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 100615 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric ]]></Keywords>
+    <Keywords><![CDATA[H2]]></Keywords>
+    <Keywords><![CDATA[Hydrogen]]></Keywords>
+    <Keywords><![CDATA[Flask air samples]]></Keywords>
+    <Keywords><![CDATA[Mercuric oxide reduction]]></Keywords>
+    <Keywords><![CDATA[Gas detector]]></Keywords>
+    <Keywords><![CDATA[Gas chromatography ]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 100615 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Other_atm_gas/CSIRO_H2.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[TRENDS-OTHER ATMOSPHERIC TRACE GASES]]></Product_number>
+      <Product_title><![CDATA[Atmospheric H2 Concentrations from the CSIRO GASLAB Flask Sampling Network ]]></Product_title>
+      <Author>
+        <Name><![CDATA[Steele, L. P.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Krummel, P. B.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Langenfelds, R. L.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alert, NWT, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-alth2.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/csiro-h2/alth2_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-alerth2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Ferguson, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-cfergh2.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/csiro-h2/cfergh2_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-cfergh2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-cgrimh2.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/csiro-h2/cgrimh2_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-cgrimh2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Estevan Point, BC, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-estpoh2.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/csiro-h2/estpoh2_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-estpoh2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Macquarie Island, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-macqh2.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/csiro-h2/macqh2_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-macqh2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii, USA]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-mloh2.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/csiro-h2/mloh2_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-mloh2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mawson, Antartica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-mawsonh2.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/csiro-h2/mawsonh2_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-mawsonh2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Shetland Islands, Scotland]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-shetlandh2.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/csiro-h2/shetlandh2_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-shetlandh2.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-spoh2.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/csiro-h2/spoh2_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro-spoh2.jpg]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Month]]></Variable>
+      <Variable><![CDATA[Annual Average]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-h2/csiro_gaslabh2.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20030330]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20030330]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/trends/otheratg/csiro-h2/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[2400 kb]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[An annual cycle of H2 is evident, reflecting the seasonal nature of some of the major sources and sinks (Novelli et al., 1999). Annual average concentrations since 1992 have varied between 473 and 499 ppb, peaking in 1998. The annual increase for H2 at Alert was highest in 1998, the same year in which the maximum globally averaged growth rate occurred (Langenfelds et al., 2002).
+<br><br>
+An annual cycle of H2 is evident, reflecting the seasonal nature of some of the major sources and sinks (Novelli et al., 1999). Annual average concentrations since 1992 have varied between 514 and 531 ppb, peaking in 1999. The maximum globally averaged growth rate for H2 occurred during 1998 (Langenfelds et al., 2002).
+<br><br>
+An annual cycle of H2 is evident, reflecting the seasonal nature of some of the major sources and sinks (Novelli et al., 1999). Annual average concentrations since 1992 have varied between 515 and 535 ppb, peaking in 1999. The maximum globally averaged growth rate for H2 occurred during 1998 (Langenfelds et al., 2002).
+<br><br>
+An annual cycle of H2 is evident, reflecting the seasonal nature of some of the major sources and sinks (Novelli et al., 1999). Annual average concentrations since 1993 have varied between 498 and 518 ppb, peaking in 1999. The greatest increases at Estevan Point occurred between 1995 and 1997; preceding the maximum globally averaged increase, which occurred during 1998 (Langenfelds et al., 2002).
+<br><br>
+An annual cycle of H2 is evident, reflecting the seasonal nature of some of the major sources and sinks (Novelli et al., 1999). Annual average concentrations since 1992 have varied between 515 and 535 ppb, peaking in 1998. The maximum increase at Macquarie Island Loa occurred from 1997-1998; the maximum globally averaged growth rate for H2 occurred in 1998 (Langenfelds et al., 2002).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

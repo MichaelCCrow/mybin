@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Blasing, T. J. ]]></origin>
+        <origin><![CDATA[Marland, G.]]></origin>
+        <origin><![CDATA[Broniak, C. T.]]></origin>
+        <title><![CDATA[Estimates of Annual Fossil-Fuel CO2 Emitted for Each State in the U.S.A. and the District of Columbia for Each Year from 1960 through 2001]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/emis_mon/stateemis/emis_state.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Estimates of Annual Fossil-Fuel CO2 Emitted for Each State in the U.S.A. and the District of Columbia for Each Year from 1960 through 2001]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19600101]]></begdate>
+          <enddate><![CDATA[20011231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[Emissions]]></themekey>
+        <themekey><![CDATA[trends]]></themekey>
+        <themekey><![CDATA[energy]]></themekey>
+        <themekey><![CDATA[Fossil Fuel]]></themekey>
+        <themekey><![CDATA[Annual]]></themekey>
+        <themekey><![CDATA[CO2 ]]></themekey>
+        <themekey><![CDATA[State ]]></themekey>
+        <themekey><![CDATA[U.S.A. ]]></themekey>
+        <themekey><![CDATA[District of Columbia ]]></themekey>
+        <themekey><![CDATA[D. C. ]]></themekey>
+        <themekey><![CDATA[1960 ]]></themekey>
+        <themekey><![CDATA[2001]]></themekey>
+        <themekey><![CDATA[Coal ]]></themekey>
+        <themekey><![CDATA[Petroleum]]></themekey>
+        <themekey><![CDATA[Natural Gas]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T. J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T. J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 163605</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T. J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 152910 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[Emissions]]></Keywords>
+    <Keywords><![CDATA[trends]]></Keywords>
+    <Keywords><![CDATA[energy]]></Keywords>
+    <Keywords><![CDATA[Fossil Fuel]]></Keywords>
+    <Keywords><![CDATA[Annual]]></Keywords>
+    <Keywords><![CDATA[CO2 ]]></Keywords>
+    <Keywords><![CDATA[State ]]></Keywords>
+    <Keywords><![CDATA[U.S.A. ]]></Keywords>
+    <Keywords><![CDATA[District of Columbia ]]></Keywords>
+    <Keywords><![CDATA[D. C. ]]></Keywords>
+    <Keywords><![CDATA[1960 ]]></Keywords>
+    <Keywords><![CDATA[2001]]></Keywords>
+    <Keywords><![CDATA[Coal ]]></Keywords>
+    <Keywords><![CDATA[Petroleum]]></Keywords>
+    <Keywords><![CDATA[Natural Gas]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;USA State-Level Emission Estimates
+T.J. Blasing and Gregg Marland
+Carbon Dioxide Information Analysis Center, Environmental Sciences Division, 
+Christine Broniak
+Department of Agricultural &amp; Resource Economics, Oregon State University, 
+Consumption data for coal, petroleum, and natural gas are multiplied by 
+their respective thermal conversion factors, which are in units of heat energy 
+per unit of fuel consumed (i.e., per cubic foot, barrel, or ton), to calculate 
+the amount of heat energy derived from fuel combustion. The thermal conversion 
+factors are given in Appendix A of each issue of Monthly Energy Review, published 
+by the Energy Information Administration (EIA) of the U.S. Department of 
+Energy (DOE). Results are expressed in terms of heat energy obtained from 
+each fuel type. These energy values were obtained from the State Energy Data Report 
+(EIA, 2003a), 
+(
+http://www.eia.doe.gov/emeu/states/sep_use/total/csv/use_csv.html), and 
+served as our basic input. The energy data are also available in hard copy from the 
+Energy Information Administration, U.S. Department of Energy, as the State 
+Energy Data Report (EIA, 2003a,b).
+These energy consumption data were multiplied by their respective carbon 
+dioxide emission factors, which are called carbon content coefficients by 
+the U.S. Environmental Protection Agency (EPA). These factors quantify the 
+mass of oxidized carbon per unit of energy released from a fuel. In the U.S.A., 
+they are typically expressed in units of teragrams of carbon 
+(Tg-C = 10 grams of carbon) per quadrillion 
+British thermal units (quadrillion Btu = 10 Btu, 
+or "quad"), and are highest for coal and lowest for natural gas. Our results are 
+given in teragrams of , 
+multiply by 44/12 (= 3.67).
+Carbon content coefficients for various fuels are given in Tables 2-16 through 2-20 of 
+Annex 2 in EPA (2004), and (for coal) in Appendix E of EIA (2003b). Emissions factors 
+we used for coal from 1980 through 1999 are from Appendix E of EIA (2003b). 
+Because emissions factors were not available for all years for which we have energy data, 
+the 1980 values were used for preceding years, and 1999 values were used for years 2000 
+and 2001. Because carbon dioxide emission factors changed very litte, if at all, from 
+year-to-year (typically less than 1% of their longer-term average) the use of 1980 values 
+for prior years did not appear to have any affect on our results at the national level. 
+However, caution is suggested for detailed interpretation of variability of carbon 
+emissions from coal in individual states that import much of their coal so that the 
+locations of the producing mines may vary widely from year to year. Caution is also 
+suggested when using state data with abrupt increases or decreases in carbon emitted 
+from one fuel. Usually, these are real changes that can be traced back to the 
+installation of a natural gas pipeline or the opening of a large facility in a small 
+state. However, in some cases (e.g., the abrupt increase in natural gas use in 
+Rhode Island in 1992) the cause of an abrupt change in emissions values is not clear, 
+and more detailed investigation is suggested before making conclusions about such 
+changes. For assistance, begin by contacting 
+The energy data we used are categorized by end use; for coal and natural 
+gas, end uses largely include fuel for energy production, with only a small 
+or negligible percentage going to non-fuel uses. End uses for petroleum are 
+vastly more complicated, and include petrochemicals used in the manufacture 
+of plastic products (e.g., bags, toys, prosthetic limbs) and fabrics (e.g., nylon 
+and polyester) as well as waxes, asphalt, graphite, lubricants, solvents waxes, etc. 
+The carbon in some petroleum products (e.g., lubricants) is largely oxidized while 
+virtually none of the carbon is oxidized in others (e.g., asphalt, waxes). The 
+energy amount that would be realized from the oxidation of 100% of any petroleum 
+product was multiplied by the fraction that is assumed to be actually oxidized, 
+and the rest of the carbon was assumed to be sequestered. The sequestered fractions 
+used to estimate the amounts of carbon dioxide release during consumption are 
+given in Table 2-32 of EPA (2004). This procedure led to higher values of oxidized 
+carbon than earlier procedures incorporating the assumption that all carbon in 
+these products was sequestered.
+The carbon dioxide emission factors for some petroleum products vary from 
+year to year due to factors such as changing blends of motor gasoline. Carbon 
+coefficients we used for petroleum products from 1990 forward are given by the 
+EPA in Table 2-17 and 2-19, in Annex 2 of EPA (2004). Values 
+for 1984-1989 are given in Table A1 of EIA (1995); for years prior to 1984, the 
+1984 values were used. Because year-to year changes in carbon coefficients for 
+petroleum products are less than 1% of their longer-term averages, the use of 
+constant (1984) values for prior years did not noticeably affect our results.
+Data are available for over 30 different petroleum products, with the exact 
+breakdown varying somewhat from year to year. These products have been treated 
+individually until the final step of the estimation, at which time 
+CO emissions were summed and attributed 
+to liquid petroleum products.
+Natural gas is almost all methane or other combustible hydrocarbons, with only 
+a very small fraction of impurities such as sulfur and heavy metals; its carbon 
+coefficient is, therefore, relatively small and practically constant. The 
+carbon coefficient for natural gas is given in Table 2-19 in Annex 2 of EPA (2004), as 
+a constant of 14.47 Tg-C/quad.
+These carbon emissions estimates were ultimately derived from values of fuel 
+consumed at full combustion: in billions of cubic feet for natural gas; in 
+millions of barrels, for petroleum products, and in thousand of short tons, 
+for coal. In reality, a small percentage of carbon is released as soot, ash, 
+or long-lived hydrocarbons. We assume that combustion is only 99 per cent 
+complete; which is the same factor used by the EPA (EPA 2004, Table 2-16 of 
+Annex 2) except that EPA used a factor of 0.995 for natural gas for liquid 
+petroleum gas (LPG).
+, 
+results are presented here in terms of the mass of carbon only (multiply the 
+mass of carbon by 44/12 to convert to CO). 
+We assume that any carbon emitted to the atmosphere as CO will soon be 
+converted to CO
+Differences from other (CDIAC) emissions estimates: Marland et al. (2004) have 
+presented estimates of annual carbon dioxide emissions (as carbon) from fossil 
+fuel consumption for all countries. The annual values presented there for the 
+U.S.A. differ slightly from the national sums of the state data presented here 
+for 3 primary reasons.
+In order to provide comparable estimates for all 
+countries, Marland et al. have relied on energy data from the United Nations 
+whereas this analysis relies on energy data directly from DOE. United Nations 
+data are presumably derived from the same DOE 
+data sets but differences in detail occur due to differences in units, categories, 
+accounting conventions, and the complexity of handling large amounts of data.
+Estimates from the United Nations data are based on "apparent consumption," which 
+is defined as production + imports - exports - changes in stocks; whereas the 
+U.S. DOE data provide direct estimates of consumption. There are systematic 
+differences between these two data sets that are attributable to data sampling 
+and collection; the data sets differ by around 2%.
+The Marland et al. estimates 
+are for CO emissions during fuel combustion 
+whereas the estimates here include a contribution from the oxidation of petrochemical 
+products that are used for non-fuel purposes, such as lubricants and petroleum coke.
+As a consequence of these 3 factors, the national estimates presented here tend to 
+be higher than those of Marland et al. even though they do not yet account for carbon 
+oxidized during gas flaring or from the calcining of limestone during manufacture of 
+cement [when combined, these processes represent about 1 per cent of the total 
+anthropogenic carbon emissions from the U.S. (Marland et al., 2004)]. We believe 
+the estimates presented here provide a more complete account of total national 
+emissions. However, for comparing U.S. emissions with those of other nations, 
+we still recommend the use of the U.S. data in Marland et al., 2004, which are 
+derived similarly for all nations, and systematic errors applicable to any one 
+nation are likely to apply to other nations as well. Neither set of total emissions 
+estimates includes carbon from bunker fuels, i.e. (fuels that are loaded in the 
+U.S. but used by planes and ships in international commerce). Marland et al. (2004) 
+provide carbon esissions estimates for bunker fuels, but they are not included 
+in the totals as given.
+These estimates of total annual carbon emissions for the USA have been compared 
+with estimates derived from monthly data using similar methods. These estimates 
+are consistently about 1.5% greater than those derived from the monthly data; the 
+reason for this is not presently known.
+Total carbon emissions almost doubled from 1960-2001, increasing from 790 Teragrams/year 
+(Tg/yr) to 1542 Tg/yr. For the United States as a whole, and for many individual states, 
+carbon emissions peaked sometime in the 1970s, declined in the early 1980s, and then 
+resumed growth at a rate somewhat less than that before 1970. Per capita emissions 
+have shown a much more modest increase since the decline in the early 1980s, and have 
+not yet returned to the 1970s levels of around 6 Mg per person per year. This has 
+been especially true for states whose energy supply is largely petroleum dependent.
+Coal had the most rapid increase of the three fuels, both in total carbon (301 Tg/year 
+increase) and in percentage (221% of its 1960 value by 2001). Per capita coal emissions 
+grew from 1.38 Megagrams/person (Mg/person) to 1.93 Mg/person, or to 140% of their 1960 
+value, while per capita emissions of oil increased to only 115%, and per capita emissions 
+of natural gas increased to only 116%, of their 1960 value. The states differ widely 
+in per capita emissions for year 2001; California emitted about 3 Mg/capita while Wyoming 
+emitted more than 10 times that (about 34 Mg/person).
+Carbon emissions from coal combustion have increased sharply in states that export 
+electricity produced from local deposits of low-sulfur coal, so that states with low 
+populations and large repositories of low-sulfur coal (e.g., North Dakota and Wyoming) 
+are emitting about 10 times the carbon per capita (from coal, oil, and gas, combined) 
+of more heavily populated states, such as California, that are importing electricity 
+generated from coal combustion. 
+EIA (Energy Information Administration, U.S. Department of Energy) 1995. Emissions of 
+Greenhouse gases in the United States: 1987-1994. DOE/EIA-0573(94), Office of Integrated 
+Analysis and Forecasting, Washington DC.
+EIA (Energy Information Administration, U.S. Department of Energy) 2003a. State Energy 
+Data Report. 
+http://www.eia.doe.gov/emeu/states/sep_use/total/csv/use_csv.html
+EIA (Energy Information Administration, U.S. Department of Energy) 2003b. State Energy 
+Data 2000: Consumption, Technical Notes, 
+http://www.eia.doe.gov/emeu/states/_use_multistate.html
+EPA (U.S. Environmental Protection Agency) 2004. Inventory of Greenhouse Gas Emissions and 
+Sinks: 1990-2002, EPA 430-R-04-003, U.S. Environmental Protection Agency, Washington D.C., 
+308 pp. plus annexes, available electronically from:
+Marland, G., T.A. Boden, and R.J. Andres. 2004. Global, Regional, and National Fossil-Fuel 
+CO Emissions. In Trends: A Compendium of Data on Global 
+Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, 
+U.S. Department of Energy, Oak Ridge, TN, U.S.A., available electronically 
+from: 
+CITE AS: Blasing, T.J., C.T. Broniak, and G. Marland, 2004. Estimates of Annual Fossil-Fuel CO Emitted for Each State in the U.S.A. and the District of Columbia for Each Year from 1960 through 2001. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, TN, U.S.A. doi 10.3334/CDIAC/00003
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 152910 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/00003]]></Product_number>
+      <Product_title><![CDATA[Estimates of Annual Fossil-Fuel CO2 Emitted for Each State in the U.S.A. and the District of Columbia for Each Year from 1960 through 2001]]></Product_title>
+      <Author>
+        <Name><![CDATA[Blasing, T. J. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Marland, G.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Broniak, C. T.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization><![CDATA[Department of Agricultural &amp; Resource Economics]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Fossil-Fuel CO2 Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[United States]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/emis_mon/stateemis/emis_state.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/emis_mon/stateemis/graphics/graphics.html]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/emis_mon/stateemis/percapbystate.csv]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Years (1960 - 2001)]]></Variable>
+      <Variable><![CDATA[State: Coal]]></Variable>
+      <Variable><![CDATA[State: Oil]]></Variable>
+      <Variable><![CDATA[State: Gas]]></Variable>
+      <Variable><![CDATA[United States: Coal]]></Variable>
+      <Variable><![CDATA[United States: Oil]]></Variable>
+      <Variable><![CDATA[United States: Gas]]></Variable>
+      <Variable><![CDATA[United States: Total]]></Variable>
+      <Variable><![CDATA[United States/Capita: Coal]]></Variable>
+      <Variable><![CDATA[United States/Capita: Oil]]></Variable>
+      <Variable><![CDATA[United States/Capita: Gas]]></Variable>
+      <Variable><![CDATA[United States/Capita: Total/Capita]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/emis_mon/stateemis/emis_state.html &#187;&#160;USA State-Level Emission Estimates
+T.J. Blasing and Gregg Marland
+Carbon Dioxide Information Analysis Center, Environmental Sciences Division, 
+Christine Broniak
+Department of Agricultural &amp; Resource Economics, Oregon State University, 
+Consumption data for coal, petroleum, and natural gas are multiplied by 
+their respective thermal conversion factors, which are in units of heat energy 
+per unit of fuel consumed (i.e., per cubic foot, barrel, or ton), to calculate 
+the amount of heat energy derived from fuel combustion. The thermal conversion 
+factors are given in Appendix A of each issue of Monthly Energy Review, published 
+by the Energy Information Administration (EIA) of the U.S. Department of 
+Energy (DOE). Results are expressed in terms of heat energy obtained from 
+each fuel type. These energy values were obtained from the State Energy Data Report 
+(EIA, 2003a), 
+(
+http://www.eia.doe.gov/emeu/states/sep_use/total/csv/use_csv.html), and 
+served as our basic input. The energy data are also available in hard copy from the 
+Energy Information Administration, U.S. Department of Energy, as the State 
+Energy Data Report (EIA, 2003a,b).
+These energy consumption data were multiplied by their respective carbon 
+dioxide emission factors, which are called carbon content coefficients by 
+the U.S. Environmental Protection Agency (EPA). These factors quantify the 
+mass of oxidized carbon per unit of energy released from a fuel. In the U.S.A., 
+they are typically expressed in units of teragrams of carbon 
+(Tg-C = 10 grams of carbon) per quadrillion 
+British thermal units (quadrillion Btu = 10 Btu, 
+or "quad"), and are highest for coal and lowest for natural gas. Our results are 
+given in teragrams of , 
+multiply by 44/12 (= 3.67).
+Carbon content coefficients for various fuels are given in Tables 2-16 through 2-20 of 
+Annex 2 in EPA (2004), and (for coal) in Appendix E of EIA (2003b). Emissions factors 
+we used for coal from 1980 through 1999 are from Appendix E of EIA (2003b). 
+Because emissions factors were not available for all years for which we have energy data, 
+the 1980 values were used for preceding years, and 1999 values were used for years 2000 
+and 2001. Because carbon dioxide emission factors changed very litte, if at all, from 
+year-to-year (typically less than 1% of their longer-term average) the use of 1980 values 
+for prior years did not appear to have any affect on our results at the national level. 
+However, caution is suggested for detailed interpretation of variability of carbon 
+emissions from coal in individual states that import much of their coal so that the 
+locations of the producing mines may vary widely from year to year. Caution is also 
+suggested when using state data with abrupt increases or decreases in carbon emitted 
+from one fuel. Usually, these are real changes that can be traced back to the 
+installation of a natural gas pipeline or the opening of a large facility in a small 
+state. However, in some cases (e.g., the abrupt increase in natural gas use in 
+Rhode Island in 1992) the cause of an abrupt change in emissions values is not clear, 
+and more detailed investigation is suggested before making conclusions about such 
+changes. For assistance, begin by contacting 
+The energy data we used are categorized by end use; for coal and natural 
+gas, end uses largely include fuel for energy production, with only a small 
+or negligible percentage going to non-fuel uses. End uses for petroleum are 
+vastly more complicated, and include petrochemicals used in the manufacture 
+of plastic products (e.g., bags, toys, prosthetic limbs) and fabrics (e.g., nylon 
+and polyester) as well as waxes, asphalt, graphite, lubricants, solvents waxes, etc. 
+The carbon in some petroleum products (e.g., lubricants) is largely oxidized while 
+virtually none of the carbon is oxidized in others (e.g., asphalt, waxes). The 
+energy amount that would be realized from the oxidation of 100% of any petroleum 
+product was multiplied by the fraction that is assumed to be actually oxidized, 
+and the rest of the carbon was assumed to be sequestered. The sequestered fractions 
+used to estimate the amounts of carbon dioxide release during consumption are 
+given in Table 2-32 of EPA (2004). This procedure led to higher values of oxidized 
+carbon than earlier procedures incorporating the assumption that all carbon in 
+these products was sequestered.
+The carbon dioxide emission factors for some petroleum products vary from 
+year to year due to factors such as changing blends of motor gasoline. Carbon 
+coefficients we used for petroleum products from 1990 forward are given by the 
+EPA in Table 2-17 and 2-19, in Annex 2 of EPA (2004). Values 
+for 1984-1989 are given in Table A1 of EIA (1995); for years prior to 1984, the 
+1984 values were used. Because year-to year changes in carbon coefficients for 
+petroleum products are less than 1% of their longer-term averages, the use of 
+constant (1984) values for prior years did not noticeably affect our results.
+Data are available for over 30 different petroleum products, with the exact 
+breakdown varying somewhat from year to year. These products have been treated 
+individually until the final step of the estimation, at which time 
+CO emissions were summed and attributed 
+to liquid petroleum products.
+Natural gas is almost all methane or other combustible hydrocarbons, with only 
+a very small fraction of impurities such as sulfur and heavy metals; its carbon 
+coefficient is, therefore, relatively small and practically constant. The 
+carbon coefficient for natural gas is given in Table 2-19 in Annex 2 of EPA (2004), as 
+a constant of 14.47 Tg-C/quad.
+These carbon emissions estimates were ultimately derived from values of fuel 
+consumed at full combustion: in billions of cubic feet for natural gas; in 
+millions of barrels, for petroleum products, and in thousand of short tons, 
+for coal. In reality, a small percentage of carbon is released as soot, ash, 
+or long-lived hydrocarbons. We assume that combustion is only 99 per cent 
+complete; which is the same factor used by the EPA (EPA 2004, Table 2-16 of 
+Annex 2) except that EPA used a factor of 0.995 for natural gas for liquid 
+petroleum gas (LPG).
+, 
+results are presented here in terms of the mass of carbon only (multiply the 
+mass of carbon by 44/12 to convert to CO). 
+We assume that any carbon emitted to the atmosphere as CO will soon be 
+converted to CO
+Differences from other (CDIAC) emissions estimates: Marland et al. (2004) have 
+presented estimates of annual carbon dioxide emissions (as carbon) from fossil 
+fuel consumption for all countries. The annual values presented there for the 
+U.S.A. differ slightly from the national sums of the state data presented here 
+for 3 primary reasons.
+In order to provide comparable estimates for all 
+countries, Marland et al. have relied on energy data from the United Nations 
+whereas this analysis relies on energy data directly from DOE. United Nations 
+data are presumably derived from the same DOE 
+data sets but differences in detail occur due to differences in units, categories, 
+accounting conventions, and the complexity of handling large amounts of data.
+Estimates from the United Nations data are based on "apparent consumption," which 
+is defined as production + imports - exports - changes in stocks; whereas the 
+U.S. DOE data provide direct estimates of consumption. There are systematic 
+differences between these two data sets that are attributable to data sampling 
+and collection; the data sets differ by around 2%.
+The Marland et al. estimates 
+are for CO emissions during fuel combustion 
+whereas the estimates here include a contribution from the oxidation of petrochemical 
+products that are used for non-fuel purposes, such as lubricants and petroleum coke.
+As a consequence of these 3 factors, the national estimates presented here tend to 
+be higher than those of Marland et al. even though they do not yet account for carbon 
+oxidized during gas flaring or from the calcining of limestone during manufacture of 
+cement [when combined, these processes represent about 1 per cent of the total 
+anthropogenic carbon emissions from the U.S. (Marland et al., 2004)]. We believe 
+the estimates presented here provide a more complete account of total national 
+emissions. However, for comparing U.S. emissions with those of other nations, 
+we still recommend the use of the U.S. data in Marland et al., 2004, which are 
+derived similarly for all nations, and systematic errors applicable to any one 
+nation are likely to apply to other nations as well. Neither set of total emissions 
+estimates includes carbon from bunker fuels, i.e. (fuels that are loaded in the 
+U.S. but used by planes and ships in international commerce). Marland et al. (2004) 
+provide carbon esissions estimates for bunker fuels, but they are not included 
+in the totals as given.
+These estimates of total annual carbon emissions for the USA have been compared 
+with estimates derived from monthly data using similar methods. These estimates 
+are consistently about 1.5% greater than those derived from the monthly data; the 
+reason for this is not presently known.
+Total carbon emissions almost doubled from 1960-2001, increasing from 790 Teragrams/year 
+(Tg/yr) to 1542 Tg/yr. For the United States as a whole, and for many individual states, 
+carbon emissions peaked sometime in the 1970s, declined in the early 1980s, and then 
+resumed growth at a rate somewhat less than that before 1970. Per capita emissions 
+have shown a much more modest increase since the decline in the early 1980s, and have 
+not yet returned to the 1970s levels of around 6 Mg per person per year. This has 
+been especially true for states whose energy supply is largely petroleum dependent.
+Coal had the most rapid increase of the three fuels, both in total carbon (301 Tg/year 
+increase) and in percentage (221% of its 1960 value by 2001). Per capita coal emissions 
+grew from 1.38 Megagrams/person (Mg/person) to 1.93 Mg/person, or to 140% of their 1960 
+value, while per capita emissions of oil increased to only 115%, and per capita emissions 
+of natural gas increased to only 116%, of their 1960 value. The states differ widely 
+in per capita emissions for year 2001; California emitted about 3 Mg/capita while Wyoming 
+emitted more than 10 times that (about 34 Mg/person).
+Carbon emissions from coal combustion have increased sharply in states that export 
+electricity produced from local deposits of low-sulfur coal, so that states with low 
+populations and large repositories of low-sulfur coal (e.g., North Dakota and Wyoming) 
+are emitting about 10 times the carbon per capita (from coal, oil, and gas, combined) 
+of more heavily populated states, such as California, that are importing electricity 
+generated from coal combustion. 
+EIA (Energy Information Administration, U.S. Department of Energy) 1995. Emissions of 
+Greenhouse gases in the United States: 1987-1994. DOE/EIA-0573(94), Office of Integrated 
+Analysis and Forecasting, Washington DC.
+EIA (Energy Information Administration, U.S. Department of Energy) 2003a. State Energy 
+Data Report. 
+http://www.eia.doe.gov/emeu/states/sep_use/total/csv/use_csv.html
+EIA (Energy Information Administration, U.S. Department of Energy) 2003b. State Energy 
+Data 2000: Consumption, Technical Notes, 
+http://www.eia.doe.gov/emeu/states/_use_multistate.html
+EPA (U.S. Environmental Protection Agency) 2004. Inventory of Greenhouse Gas Emissions and 
+Sinks: 1990-2002, EPA 430-R-04-003, U.S. Environmental Protection Agency, Washington D.C., 
+308 pp. plus annexes, available electronically from:
+Marland, G., T.A. Boden, and R.J. Andres. 2004. Global, Regional, and National Fossil-Fuel 
+CO Emissions. In Trends: A Compendium of Data on Global 
+Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, 
+U.S. Department of Energy, Oak Ridge, TN, U.S.A., available electronically 
+from: 
+CITE AS: Blasing, T.J., C.T. Broniak, and G. Marland, 2004. Estimates of Annual Fossil-Fuel CO Emitted for Each State in the U.S.A. and the District of Columbia for Each Year from 1960 through 2001. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, TN, U.S.A. doi 10.3334/CDIAC/00003
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20040901]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20040901]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/emis_mon/stateemis/emis_state.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[T. J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[These estimates of total annual carbon emissions for the USA have been compared with estimates derived from monthly data using similar methods. These estimates are consistently about 1.5% greater than those derived from the monthly data; the reason for this is not presently known.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

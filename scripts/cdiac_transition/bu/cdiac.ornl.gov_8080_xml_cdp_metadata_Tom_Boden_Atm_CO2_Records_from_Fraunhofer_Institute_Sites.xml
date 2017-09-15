@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Sladkovic, R.]]></origin>
+        <origin><![CDATA[Scheel, H. E.]]></origin>
+        <origin><![CDATA[Seiler, W.]]></origin>
+        <title><![CDATA[Monthly Atmospheric CO2 Records from Sites Operated by the Fraunhofer Institute for Atmospheric Environmental Research]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/Atm_CO2_Records_from_Fraunhofer_Institute_Sites.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Monthly Atmospheric CO2 Records from Sites Operated by the Fraunhofer Institute for Atmospheric Environmental Research]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19780101]]></begdate>
+          <enddate><![CDATA[19921231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2 Concentration]]></themekey>
+        <themekey><![CDATA[Atmospheric CO2 Mixing Ratio]]></themekey>
+        <themekey><![CDATA[Continuous Sampling]]></themekey>
+        <themekey><![CDATA[in situ]]></themekey>
+        <themekey><![CDATA[Infrared Gas Analyzer]]></themekey>
+        <themekey><![CDATA[Germany]]></themekey>
+        <themekey><![CDATA[Fraunhofer Institute]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120904 153901</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 154117 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2 Concentration]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO2 Mixing Ratio]]></Keywords>
+    <Keywords><![CDATA[Continuous Sampling]]></Keywords>
+    <Keywords><![CDATA[in situ]]></Keywords>
+    <Keywords><![CDATA[Infrared Gas Analyzer]]></Keywords>
+    <Keywords><![CDATA[Germany]]></Keywords>
+    <Keywords><![CDATA[Fraunhofer Institute]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 154117 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/Atm_CO2_Records_from_Fraunhofer_Institute_Sites.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.021]]></Product_number>
+      <Product_title><![CDATA[Monthly Atmospheric CO2 Records from Sites Operated by the Fraunhofer Institute for Atmospheric Environmental Research]]></Product_title>
+      <Author>
+        <Name><![CDATA[Sladkovic, R.]]></Name>
+        <Company><![CDATA[Fraunhofer Institute for Atmospheric Environmental Research]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Scheel, H. E.]]></Name>
+        <Company><![CDATA[Fraunhofer Institute for Atmospheric Environmental Research]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Seiler, W.]]></Name>
+        <Company><![CDATA[Fraunhofer Institute for Atmospheric Environmental Research]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Garmisch-Partenkirchen, Germany]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/fra-gp.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/garmisch.151]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/fra-gpgr.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Wank Peak, Germany]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/fra-wp.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/wank.153]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/fra-wpgr.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Zugspite, Germany]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/fra-zu.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/zugspitz.155]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/fra-zugr.htm]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Annual Atmospheric CO2]]></Variable>
+      <Variable><![CDATA[Monthly Atmospheric CO2]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/co2/fra.htm]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19971231]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19971231]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Ambient air at three sites has been measured continuously using a nondispersive infrared (NDIR) analyzer with a flowing reference gas. Every 24 hours, two CO2-in-N2 working standards are passed into the instrument for calibration. The water vapor content of both the ambient air and the calibration gases is conditioned to a dew point of about 1 degree C. The mixing ratios of the working standards are related to two primary CO2-in-N2 standards (312 and 387 ppmv) based on the 1974 Keeling scale (WMO X74 scale), which are kept in the laboratory. Details on the measurements through 1985 are given by Reiter et al. (1986). ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

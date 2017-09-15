@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Oram, D. E.]]></origin>
+        <origin><![CDATA[Sturges, W. T.]]></origin>
+        <origin><![CDATA[Penkett, S. A.]]></origin>
+        <origin><![CDATA[McCulloch, A.]]></origin>
+        <origin><![CDATA[Fraser, P. J.]]></origin>
+        <title><![CDATA[Atmospheric Fluoroform (CHF3, HFC-23) at Cape Grim, Tasmania ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Other_atm_gas/Oram.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/oram/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric Fluoroform (CHF3, HFC-23) at Cape Grim, Tasmania ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19780426]]></begdate>
+          <enddate><![CDATA[19951123]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[145]]></westbc>
+        <eastbc><![CDATA[145]]></eastbc>
+        <northbc><![CDATA[-41]]></northbc>
+        <southbc><![CDATA[-41]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[fluoroform]]></themekey>
+        <themekey><![CDATA[CHF3]]></themekey>
+        <themekey><![CDATA[HFC-23]]></themekey>
+        <themekey><![CDATA[TRENDS-OTHER ATMOSPHERIC TRACE GASES]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090707 153202</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 100812 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[fluoroform]]></Keywords>
+    <Keywords><![CDATA[CHF3]]></Keywords>
+    <Keywords><![CDATA[HFC-23]]></Keywords>
+    <Keywords><![CDATA[TRENDS-OTHER ATMOSPHERIC TRACE GASES]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;CHF3, HFC-23 at Cape Grim, Tasmania
+ and P. J.
+Fraser
+,
+University of East Anglia,
+Norwich NR4 7TJ,
+United Kingdom
+,
+Safety and Environment Department, Runcorn,
+Cheshire, WA7 4QD,
+United Kingdom
+,
+Division of Atmospheric Research,
+Commonwealth Scientific and Industrial Research Organization,
+Private Bag No. 1, Aspendale,
+The measured concentration of fluoroform at Cape Grim has increased from about 2 pptv in early
+1978 to about 11 pptv by late 1995. The current growth rate is 0.55 pptv per year over the period
+1990-1995, or about 5% per year relative to the late 1995 value.
+CITE AS: Oram, D.E., W.T. Sturges, S.A. Penkett, A. McCulloch, and P.J. Fraser. 2000. Atmospheric Fluoroform (CHF. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 100812 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Other_atm_gas/Oram.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.003]]></Product_number>
+      <Product_title><![CDATA[Atmospheric Fluoroform (CHF3, HFC-23) at Cape Grim, Tasmania ]]></Product_title>
+      <Author>
+        <Name><![CDATA[Oram, D. E.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[School of Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sturges, W. T.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[School of Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Penkett, S. A.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[School of Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[McCulloch, A.]]></Name>
+        <Company><![CDATA[ICI Chemicals and Polymer Ltd.]]></Company>
+        <Organization><![CDATA[Safety and Environment Department]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Fraser, P. J.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization]]></Company>
+        <Organization><![CDATA[CR for Southern Hemisphere Meteorology, Division of Atmoshperic Research]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/oram/oram.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/oram/oramdata.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/oram/oram.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[fluoroform]]></Variable>
+      <Variable><![CDATA[CHF3]]></Variable>
+      <Variable><![CDATA[HFC-23]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/oram/oram.html &#187;&#160;CHF3, HFC-23 at Cape Grim, Tasmania
+ and P. J.
+Fraser
+,
+University of East Anglia,
+Norwich NR4 7TJ,
+United Kingdom
+,
+Safety and Environment Department, Runcorn,
+Cheshire, WA7 4QD,
+United Kingdom
+,
+Division of Atmospheric Research,
+Commonwealth Scientific and Industrial Research Organization,
+Private Bag No. 1, Aspendale,
+The measured concentration of fluoroform at Cape Grim has increased from about 2 pptv in early
+1978 to about 11 pptv by late 1995. The current growth rate is 0.55 pptv per year over the period
+1990-1995, or about 5% per year relative to the late 1995 value.
+CITE AS: Oram, D.E., W.T. Sturges, S.A. Penkett, A. McCulloch, and P.J. Fraser. 2000. Atmospheric Fluoroform (CHF. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20001214]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20001214]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/oram/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[3k]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ The sampling and analytical methods are described more fully in Oram et al. (1998). In summary, air samples were taken from the archive of Cape Grim, Tasmania (41 degrees S, 145 degrees E) air samples collected from 1978 through 1995. Comparisons of CFC-11, CFC-12, CFC-113, CH3CCl3, and CH4 data between archive samples and corresponding in-situ samples for the same dates confirm that the archive samples are both representative and stable over time. Samples were analyzed by gas chromatography-mass spectrometry (GC-MS), using a KCl-passivated alumina PLOT column. Fluoroform was monitored on mass 69 (CF3^+). The analytical precision (one standard deviation of the mean) for two or three replicate analyses was typically +/- 1% of the mean measured value. The overall uncertainty of the observed data is +/- 10%, taking into account uncertainties in the preparation of the primary standards, the purity of the fluoroform used to make the primary standards, as well as the analytical precision.
+<br><br>
+The measured concentration of fluoroform at Cape Grim has increased from about 2 pptv in early 1978 to about 11 pptv by late 1995. The current growth rate is 0.55 pptv per year over the period 1990-1995, or about 5% per year relative to the late 1995 value.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

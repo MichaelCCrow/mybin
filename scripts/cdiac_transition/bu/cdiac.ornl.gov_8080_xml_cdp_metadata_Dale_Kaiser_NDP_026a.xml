@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Hahn, C. J.]]></origin>
+        <origin><![CDATA[Warren, S. G.]]></origin>
+        <origin><![CDATA[London, J.]]></origin>
+        <title><![CDATA[Climatological Data For Clouds Over the Globe From Surface Observations, 1982-1991: The Total Cloud Edition (NDP-026A)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_026a.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Climatological Data For Clouds Over the Globe From Surface Observations, 1982-1991: The Total Cloud Edition (NDP-026A)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19811201]]></begdate>
+          <enddate><![CDATA[19911130]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[0.000]]></westbc>
+        <eastbc><![CDATA[-10.000]]></eastbc>
+        <northbc><![CDATA[87.500]]></northbc>
+        <southbc><![CDATA[-88.750]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Occurrence of Sky-Obscured due to Fog]]></themekey>
+        <themekey><![CDATA[Occurrence of Sky-Obscured due to Precipitation]]></themekey>
+        <themekey><![CDATA[Occurrence of Clear Sky]]></themekey>
+        <themekey><![CDATA[Total Cloud Cover]]></themekey>
+        <themekey><![CDATA[NDP-026A]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120924 164941</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 163240 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Occurrence of Sky-Obscured due to Fog]]></Keywords>
+    <Keywords><![CDATA[Occurrence of Sky-Obscured due to Precipitation]]></Keywords>
+    <Keywords><![CDATA[Occurrence of Clear Sky]]></Keywords>
+    <Keywords><![CDATA[Total Cloud Cover]]></Keywords>
+    <Keywords><![CDATA[NDP-026A]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Routine, synoptic surface weather reports from ships and land stations over the entire globe, for the10-year period December 1981 through November 1991, were processed for total cloud cover and the frequencies of occurrence of clear sky, sky-obscured due to precipitation, and sky-obscured due to fog. Archived data, consisting of various
+annual, seasonal and monthly averages, are provided in grid boxes that are typically 2.5&#176; &#215; 2.5&#176; for land and 5&#176; &#215; 5&#176; for ocean. Day and nighttime averages are also given separately for each season. Several derived quantities, such as interannual variations and annual and diurnal harmonics, are provided as well. This data set incorporates an improved representation of nighttime cloudiness by utilizing only those nighttime observations for which the illuminance due to moonlight exceeds a specified threshold. This reduction in the night-detection bias increases the computed global average total cloud cover by about 2%. The impact on computed diurnal cycles is even greater, particularly over the oceans where it is found (in contrast to previous surface-based climatologies), that cloudiness is often greater at night than during the day.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 163240 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_026a.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp026a]]></Product_number>
+      <Product_title><![CDATA[Climatological Data For Clouds Over the Globe From Surface Observations, 1982-1991: The Total Cloud Edition (NDP-026A)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Hahn, C. J.]]></Name>
+        <Company><![CDATA[University of Colorado ]]></Company>
+        <Organization><![CDATA[Cooperative Institute for Research in Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Warren, S. G.]]></Name>
+        <Company><![CDATA[University of Washington]]></Company>
+        <Organization><![CDATA[Department of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[London, J.]]></Name>
+        <Company><![CDATA[University of Colorado]]></Company>
+        <Organization><![CDATA[Department of Astrophysical, Planetary and Atmospheric Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/ndp026a.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file03.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file04.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file05.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file06.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file07.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file08.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file09.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file10.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file11.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file12.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file13.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file14.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file15.Z ]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/file16.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[amp]]></Variable>
+      <Variable><![CDATA[amt]]></Variable>
+      <Variable><![CDATA[avg]]></Variable>
+      <Variable><![CDATA[box]]></Variable>
+      <Variable><![CDATA[clat]]></Variable>
+      <Variable><![CDATA[clon]]></Variable>
+      <Variable><![CDATA[fmt]]></Variable>
+      <Variable><![CDATA[fq]]></Variable>
+      <Variable><![CDATA[frl]]></Variable>
+      <Variable><![CDATA[iav]]></Variable>
+      <Variable><![CDATA[idn]]></Variable>
+      <Variable><![CDATA[imoon]]></Variable>
+      <Variable><![CDATA[lo]]></Variable>
+      <Variable><![CDATA[lob]]></Variable>
+      <Variable><![CDATA[mgrp]]></Variable>
+      <Variable><![CDATA[nbxs]]></Variable>
+      <Variable><![CDATA[nlsta]]></Variable>
+      <Variable><![CDATA[nobs]]></Variable>
+      <Variable><![CDATA[nsn]]></Variable>
+      <Variable><![CDATA[nt]]></Variable>
+      <Variable><![CDATA[nyrs]]></Variable>
+      <Variable><![CDATA[phase]]></Variable>
+      <Variable><![CDATA[sd]]></Variable>
+      <Variable><![CDATA[size]]></Variable>
+      <Variable><![CDATA[sn]]></Variable>
+      <Variable><![CDATA[span]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Variable><![CDATA[trnd]]></Variable>
+      <Variable><![CDATA[type]]></Variable>
+      <Variable><![CDATA[unc]]></Variable>
+      <Variable><![CDATA[vaf]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/ndp026a.htmlRoutine, synoptic surface weather reports from ships and land stations over the entire globe, for the10-year period December 1981 through November 1991, were processed for total cloud cover and the frequencies of occurrence of clear sky, sky-obscured due to precipitation, and sky-obscured due to fog. Archived data, consisting of various
+annual, seasonal and monthly averages, are provided in grid boxes that are typically 2.5&#176; &#215; 2.5&#176; for land and 5&#176; &#215; 5&#176; for ocean. Day and nighttime averages are also given separately for each season. Several derived quantities, such as interannual variations and annual and diurnal harmonics, are provided as well. This data set incorporates an improved representation of nighttime cloudiness by utilizing only those nighttime observations for which the illuminance due to moonlight exceeds a specified threshold. This reduction in the night-detection bias increases the computed global average total cloud cover by about 2%. The impact on computed diurnal cycles is even greater, particularly over the oceans where it is found (in contrast to previous surface-based climatologies), that cloudiness is often greater at night than during the day.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/ndp026a.doc]]></Data_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/ndp026a.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/rd2921f]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19941001]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19941001]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026a/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[78.1 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Routine, synoptic surface weather reports from ships and land stations over the entire globe, for the 10-year period December 1981 through November 1991, were processed for total cloud cover and the frequencies of occurrence of clear sky, sky-obscured due to precipitation, and sky-obscured due to fog. Archived data, consisting of various annual, seasonal and monthly averages, are provided in grid boxes that are typically 2.5 degrees &#195;&#131;&#226;&#239;&#191;&#189;&#148; 2.5 degrees for land and 5 degrees &#195;&#131;&#226;&#239;&#191;&#189;&#148; 5 degrees for ocean. Day and nighttime averages are also given separately for each season. Several derived quantities, such as interannual variations and annual and diurnal harmonics, are provided as well. This data set incorporates an improved representation of nighttime cloudiness by utilizing only those nighttime observations for which the illuminance due to moonlight exceeds a specified threshold. This reduction in the night-detection bias increases the computed global average total cloud cover by about 2%. The impact on computed diurnal cycles is even greater, particularly over the oceans where it is found (in contrast to previous surface-based climatologies), that cloudiness is often greater at night than during the day.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

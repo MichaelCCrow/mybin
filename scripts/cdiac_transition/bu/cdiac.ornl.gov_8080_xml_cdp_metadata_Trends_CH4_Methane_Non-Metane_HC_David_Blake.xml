@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Blake, D.]]></origin>
+        <title><![CDATA[Methane, Nonmethane Hydrocarbons, Alkyl Nitrates, and Chlorinated Carbon Compounds including 3 Chlorofluorocarbons (CFC-11, CFC-12, and CFC-113) in Whole-air Samples]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/CH4/Methane_Non-Metane_HC_David_Blake.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/trends/otheratg/blake/blake.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Methane, Nonmethane Hydrocarbons, Alkyl Nitrates, and Chlorinated Carbon Compounds including 3 Chlorofluorocarbons (CFC-11, CFC-12, and CFC-113) in Whole-air Samples]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19790401]]></begdate>
+          <enddate><![CDATA[20121231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Methane]]></themekey>
+        <themekey><![CDATA[Nonmethane Hydrocarbons]]></themekey>
+        <themekey><![CDATA[Alkyl Nitrates]]></themekey>
+        <themekey><![CDATA[CFC-11]]></themekey>
+        <themekey><![CDATA[CFC-12]]></themekey>
+        <themekey><![CDATA[CFC-113]]></themekey>
+        <themekey><![CDATA[Methyl chloroform]]></themekey>
+        <themekey><![CDATA[Carbon tetrachloride]]></themekey>
+        <themekey><![CDATA[Tetrachloroethene]]></themekey>
+        <themekey><![CDATA[Chloroform]]></themekey>
+        <themekey><![CDATA[Propane]]></themekey>
+        <themekey><![CDATA[i-Butane]]></themekey>
+        <themekey><![CDATA[n-Butane]]></themekey>
+        <themekey><![CDATA[Halon 1211]]></themekey>
+        <themekey><![CDATA[Ethane]]></themekey>
+        <themekey><![CDATA[Ethyne]]></themekey>
+        <themekey><![CDATA[Chlorinated Carbon Compounds]]></themekey>
+        <themekey><![CDATA[Chlorofluorocarbons]]></themekey>
+        <themekey><![CDATA[CFC-11]]></themekey>
+        <themekey><![CDATA[CFC-12]]></themekey>
+        <themekey><![CDATA[CFC-113]]></themekey>
+        <themekey><![CDATA[Whole-air]]></themekey>
+        <themekey><![CDATA[Donald Blake]]></themekey>
+        <themekey><![CDATA[Trends Methane]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[ftp://cdiac.ornl.gov/trends/otheratg/blake/]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140110 101014</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 163330 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Methane]]></Keywords>
+    <Keywords><![CDATA[Nonmethane Hydrocarbons]]></Keywords>
+    <Keywords><![CDATA[Alkyl Nitrates]]></Keywords>
+    <Keywords><![CDATA[CFC-11]]></Keywords>
+    <Keywords><![CDATA[CFC-12]]></Keywords>
+    <Keywords><![CDATA[CFC-113]]></Keywords>
+    <Keywords><![CDATA[Methyl chloroform]]></Keywords>
+    <Keywords><![CDATA[Carbon tetrachloride]]></Keywords>
+    <Keywords><![CDATA[Tetrachloroethene]]></Keywords>
+    <Keywords><![CDATA[Chloroform]]></Keywords>
+    <Keywords><![CDATA[Propane]]></Keywords>
+    <Keywords><![CDATA[i-Butane]]></Keywords>
+    <Keywords><![CDATA[n-Butane]]></Keywords>
+    <Keywords><![CDATA[Halon 1211]]></Keywords>
+    <Keywords><![CDATA[Ethane]]></Keywords>
+    <Keywords><![CDATA[Ethyne]]></Keywords>
+    <Keywords><![CDATA[Chlorinated Carbon Compounds]]></Keywords>
+    <Keywords><![CDATA[Chlorofluorocarbons]]></Keywords>
+    <Keywords><![CDATA[CFC-11]]></Keywords>
+    <Keywords><![CDATA[CFC-12]]></Keywords>
+    <Keywords><![CDATA[CFC-113]]></Keywords>
+    <Keywords><![CDATA[Whole-air]]></Keywords>
+    <Keywords><![CDATA[Donald Blake]]></Keywords>
+    <Keywords><![CDATA[Trends Methane]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;Atmospheric Trace Gases in Whole-Air Samples
+Donald Blake
+Department of Chemistry,
+University of California Irvine,
+Whole-air samples are collected in conditioned, evacuated, 2-L stainless steel canisters; each canister
+is filled to ambient pressure over a period of about 1 minute (approximately 20 seconds to 2 minutes).
+These canisters are returned to the University of California at Irvine for chromatographic analysis.
+Analysis for methane includes gas chromatography with flame ionization, as discussed
+in 
+Methane concentrations are reported for dry air, and are made relative to a primary standard purchased
+from the Matheson Gas Company in 1977 and to a National Bureau of Standards standard purchased in
+August 1982. Analytical precision is better than 2 parts per billion by volume. For additional
+details for methane measurements, and some discussion about methane trends, see
+.
+Samples were cooled to allow
+the more volatile components (e.g., argon, nitrogen, and oxygen) to be pumped away; the less volatile
+components were then revolatilized by immersing the sample loop in hot (80&#176;C) water and
+subsequently flushed into a helium carrier flow. After chromatographic analysis, air from each
+sample was subjected to electron-capture analysis to distinguish between organic nitrates and
+halocarbons, flame ionization which is sensitive to hydrocarbons, and mass spectroscopy for unambiguous
+compound identification and selected ion monitoring. Signal from electron-capture and flame-ionization
+detectors was routed to an integrator which produced hard copies of the analog responses, and
+signals from all systems were routed to computers for further analysis. Each resulting chromatogram
+was manually modified, and each peak was individually checked, to assure that the large range of
+compound abundances and potential coelutors did not adversely affect quantification.
+Multiple standards were employed; working standards were run every 2 hours and calibrated standards
+were run twice daily. Standard gases used are discussed in 
+For the compounds included
+in this data set, precision can be taken as within 3%, and, in most cases, to within 2%. For specific
+details on measurements of each gas, see 
+Concentrations of each substance for all locations are plotted vs time to show
+general temporal trends. The latitudinal distributions of concentrations, for all
+dates, are also plotted. The sampling locations are varied so a general picture
+of the global changes is given. The site
+gives data about many of the same substances at a few latitudinally distributed
+sites where concentrations are measured much more frequently so as to provide
+continuous time series.
+Methane concentrations had been rising prior to the mid 1990's when they began
+to level off. A tendency for reduced concentrations during the summer months
+in both hemispheres is related to increased production of hydroxyl (OH) radicals
+under conditions of extended sunlight and increased humidity, and associated
+destruction of methane and several nonmethane hydrocarbons that are subject to
+hydroxyl attack. The graphs of concentrations vs. latitude show that methane,
+as well as several nonmethane hydrocarbons, have their highest concentrations
+at mid-to-high latitudes in the Northern-Hemisphere. This largely reflects
+their source regions. However some substances (e.g., CFC-12) were largely
+produced in the Northern Hemisphere but have a rather flat distribution over
+all latitudes. This reflects discontinued emissions, so that the source regions
+are no longer clearly evident while the remaining amounts have been evenly
+mixed throughout the atmosphere.
+Concentrations of CFCs 11 and 113 have declined in recent years, in response
+to the Montreal Protocol of the late 1980's. CFC-12 has also begun to decline,
+but the decline was delayed due to: (1) a longer atmospheric
+lifetime than CFC-11 or CFC-113, (2) its use in long-lasting appliances such as
+home refrigerators, and, possibly (3) particularly extensive stockpiling at the global scale,
+due to a perceived lack of suitable replacement at the time production decreases
+were being mandated. It is also difficult to find suitable replacements for some
+other substances. For example, Halon 1211 is a particularly effective fire
+extinguishing agent that has remained in use in many countries. Therefore, Halon 1211
+concentrations have not declined. A large increase in spatial variance around 2001
+may be at least partly due to a leak in one of the system lines. Checking with
+principal investigators to identify such problems is always advised before drawing
+conclusions from these data.
+Since about 1990, trends in methyl chloroform and carbon tetrachloride have
+been sharply downward, reflecting the phasing out of these substances due to
+their toxic effects. Methyl chloroform has a much shorter atmospheric lifetime
+than carbon tetrachloride, so methyl chloroform has declined to less than 10% of
+its pre-1990 levels and is currently in the range of 10 parts per trillion, by
+volume (pptv). Tetrachloroethene is a relatively short-lived compound
+that has been used as a dry cleaner and degreaser. It has also shown a recent
+decline in concentration. These chloroform data only go back to 1996, and AGAGE chloroform
+data only to 1994, so effects of any earlier declines that may have occurred are not evident.
+The alkyl nitrates (methyl, ethyl, and propyl nitrates) have a variety of
+natural and anthropogenic sources. Concentrations of these compounds were
+decreasing slightly until late 2003, when increases occurred, followed by more
+recent large-percentage fluctuations. The cause of these fluctuations has not been determined, but
+the graph of latitudinal distribution and the locations of the anomalously
+high concentrations suggest natural sources.
+The alkanes (ethane, butane, and propane) and ethyne (acetylene) are used
+as fuel in torches, lighters and gas stoves. In general, concentrations of
+these substances have not changed appreciably since 1996. The atmospheric
+lifetimes of these substances vary throughout the year, being shortest in
+summer when oxidative reactions with hydroxyl radicals (OH) are particularly
+frequent due to the abundance OH at that time of year. In the table below,
+these lifetimes are simply given as "less than one year" due to the low
+likelihood of survival through a summer, regardless of time of emission.
+Less than one year*
+Fuels, Torches, Lighters, Gas Stoves
+CDIAC thanks Don Blake, University of California, Irvine,
+and Ray Wang, Georgia Institute of Technology for their help in updating the information
+in this table.
+Blake, N. J., D. R. Blake, B. C. Sive, A. S. Katzenstein, S. Meinardi, O. W.,
+Wingenter, E. L., Atlas F., Flocke, B. A., Ridley, and F. S. Rowland. 2003. The seasonal
+evolution of NMHC's and light alkyl nitrates at middle to high northern latitudes
+during TOPSE. 108 (D4), pp. 7-1 to 7-16. Special Section:
+Tropospheric Ozone Production about the Spring Equinox (TOPSE).
+Please cite this Web page as:
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 163330 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/CH4/Methane_Non-Metane_HC_David_Blake.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.002]]></Product_number>
+      <Product_title><![CDATA[Methane, Nonmethane Hydrocarbons, Alkyl Nitrates, and Chlorinated Carbon Compounds including 3 Chlorofluorocarbons (CFC-11, CFC-12, and CFC-113) in Whole-air Samples]]></Product_title>
+      <Author>
+        <Name><![CDATA[Blake, D.]]></Name>
+        <Company><![CDATA[University of California Irvine]]></Company>
+        <Organization><![CDATA[Department of Chemistry]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Methane]]></Thematic_area>
+      <Thematic_area><![CDATA[Nonmethane Hydrocarbons]]></Thematic_area>
+      <Thematic_area><![CDATA[Alkyl Nitrates]]></Thematic_area>
+      <Thematic_area><![CDATA[Chlorinated Carbon Compounds]]></Thematic_area>
+      <Thematic_area><![CDATA[Chlorofluorocarbons]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Worldwide]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/blake/blake.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/blake/graphics.html]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/blake/data.html]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[ftp://cdiac.ornl.gov/trends/otheratg/blake/]]></Data_site>
+      <Variable><![CDATA[Can]]></Variable>
+      <Variable><![CDATA[Month-Day-Year]]></Variable>
+      <Variable><![CDATA[Latitude]]></Variable>
+      <Variable><![CDATA[Longitude]]></Variable>
+      <Variable><![CDATA[CH4 (ppmv)]]></Variable>
+      <Variable><![CDATA[Location]]></Variable>
+      <Variable><![CDATA[CFC-11]]></Variable>
+      <Variable><![CDATA[CFC-12]]></Variable>
+      <Variable><![CDATA[CFC-113]]></Variable>
+      <Variable><![CDATA[H-1211]]></Variable>
+      <Variable><![CDATA[Carbon Tetrachloride]]></Variable>
+      <Variable><![CDATA[Tetrachloroethene]]></Variable>
+      <Variable><![CDATA[Chloroform]]></Variable>
+      <Variable><![CDATA[methyl chloroform]]></Variable>
+      <Variable><![CDATA[Ethane (pptv)]]></Variable>
+      <Variable><![CDATA[Ethyne (pptv)]]></Variable>
+      <Variable><![CDATA[Propane (pptv)]]></Variable>
+      <Variable><![CDATA[i-Butane (pptv)]]></Variable>
+      <Variable><![CDATA[n-Butane (pptv)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/blake/blake.html &#187;&#160;Atmospheric Trace Gases in Whole-Air Samples
+Donald Blake
+Department of Chemistry,
+University of California Irvine,
+Whole-air samples are collected in conditioned, evacuated, 2-L stainless steel canisters; each canister
+is filled to ambient pressure over a period of about 1 minute (approximately 20 seconds to 2 minutes).
+These canisters are returned to the University of California at Irvine for chromatographic analysis.
+Analysis for methane includes gas chromatography with flame ionization, as discussed
+in 
+Methane concentrations are reported for dry air, and are made relative to a primary standard purchased
+from the Matheson Gas Company in 1977 and to a National Bureau of Standards standard purchased in
+August 1982. Analytical precision is better than 2 parts per billion by volume. For additional
+details for methane measurements, and some discussion about methane trends, see
+.
+Samples were cooled to allow
+the more volatile components (e.g., argon, nitrogen, and oxygen) to be pumped away; the less volatile
+components were then revolatilized by immersing the sample loop in hot (80&#176;C) water and
+subsequently flushed into a helium carrier flow. After chromatographic analysis, air from each
+sample was subjected to electron-capture analysis to distinguish between organic nitrates and
+halocarbons, flame ionization which is sensitive to hydrocarbons, and mass spectroscopy for unambiguous
+compound identification and selected ion monitoring. Signal from electron-capture and flame-ionization
+detectors was routed to an integrator which produced hard copies of the analog responses, and
+signals from all systems were routed to computers for further analysis. Each resulting chromatogram
+was manually modified, and each peak was individually checked, to assure that the large range of
+compound abundances and potential coelutors did not adversely affect quantification.
+Multiple standards were employed; working standards were run every 2 hours and calibrated standards
+were run twice daily. Standard gases used are discussed in 
+For the compounds included
+in this data set, precision can be taken as within 3%, and, in most cases, to within 2%. For specific
+details on measurements of each gas, see 
+Concentrations of each substance for all locations are plotted vs time to show
+general temporal trends. The latitudinal distributions of concentrations, for all
+dates, are also plotted. The sampling locations are varied so a general picture
+of the global changes is given. The site
+gives data about many of the same substances at a few latitudinally distributed
+sites where concentrations are measured much more frequently so as to provide
+continuous time series.
+Methane concentrations had been rising prior to the mid 1990's when they began
+to level off. A tendency for reduced concentrations during the summer months
+in both hemispheres is related to increased production of hydroxyl (OH) radicals
+under conditions of extended sunlight and increased humidity, and associated
+destruction of methane and several nonmethane hydrocarbons that are subject to
+hydroxyl attack. The graphs of concentrations vs. latitude show that methane,
+as well as several nonmethane hydrocarbons, have their highest concentrations
+at mid-to-high latitudes in the Northern-Hemisphere. This largely reflects
+their source regions. However some substances (e.g., CFC-12) were largely
+produced in the Northern Hemisphere but have a rather flat distribution over
+all latitudes. This reflects discontinued emissions, so that the source regions
+are no longer clearly evident while the remaining amounts have been evenly
+mixed throughout the atmosphere.
+Concentrations of CFCs 11 and 113 have declined in recent years, in response
+to the Montreal Protocol of the late 1980's. CFC-12 has also begun to decline,
+but the decline was delayed due to: (1) a longer atmospheric
+lifetime than CFC-11 or CFC-113, (2) its use in long-lasting appliances such as
+home refrigerators, and, possibly (3) particularly extensive stockpiling at the global scale,
+due to a perceived lack of suitable replacement at the time production decreases
+were being mandated. It is also difficult to find suitable replacements for some
+other substances. For example, Halon 1211 is a particularly effective fire
+extinguishing agent that has remained in use in many countries. Therefore, Halon 1211
+concentrations have not declined. A large increase in spatial variance around 2001
+may be at least partly due to a leak in one of the system lines. Checking with
+principal investigators to identify such problems is always advised before drawing
+conclusions from these data.
+Since about 1990, trends in methyl chloroform and carbon tetrachloride have
+been sharply downward, reflecting the phasing out of these substances due to
+their toxic effects. Methyl chloroform has a much shorter atmospheric lifetime
+than carbon tetrachloride, so methyl chloroform has declined to less than 10% of
+its pre-1990 levels and is currently in the range of 10 parts per trillion, by
+volume (pptv). Tetrachloroethene is a relatively short-lived compound
+that has been used as a dry cleaner and degreaser. It has also shown a recent
+decline in concentration. These chloroform data only go back to 1996, and AGAGE chloroform
+data only to 1994, so effects of any earlier declines that may have occurred are not evident.
+The alkyl nitrates (methyl, ethyl, and propyl nitrates) have a variety of
+natural and anthropogenic sources. Concentrations of these compounds were
+decreasing slightly until late 2003, when increases occurred, followed by more
+recent large-percentage fluctuations. The cause of these fluctuations has not been determined, but
+the graph of latitudinal distribution and the locations of the anomalously
+high concentrations suggest natural sources.
+The alkanes (ethane, butane, and propane) and ethyne (acetylene) are used
+as fuel in torches, lighters and gas stoves. In general, concentrations of
+these substances have not changed appreciably since 1996. The atmospheric
+lifetimes of these substances vary throughout the year, being shortest in
+summer when oxidative reactions with hydroxyl radicals (OH) are particularly
+frequent due to the abundance OH at that time of year. In the table below,
+these lifetimes are simply given as "less than one year" due to the low
+likelihood of survival through a summer, regardless of time of emission.
+Less than one year*
+Fuels, Torches, Lighters, Gas Stoves
+CDIAC thanks Don Blake, University of California, Irvine,
+and Ray Wang, Georgia Institute of Technology for their help in updating the information
+in this table.
+Blake, N. J., D. R. Blake, B. C. Sive, A. S. Katzenstein, S. Meinardi, O. W.,
+Wingenter, E. L., Atlas F., Flocke, B. A., Ridley, and F. S. Rowland. 2003. The seasonal
+evolution of NMHC's and light alkyl nitrates at middle to high northern latitudes
+during TOPSE. 108 (D4), pp. 7-1 to 7-16. Special Section:
+Tropospheric Ozone Production about the Spring Equinox (TOPSE).
+Please cite this Web page as:
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/trends/otheratg/blake/]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20050601]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20130331]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/trends/otheratg/blake/blake.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Whole-air samples are collected in conditioned, evacuated, 2-L stainless steel canisters; each canister is filled to ambient pressure over a period of about 1 minute (approximately 20 seconds to 2 minutes). These canisters are returned to the University of California at Irvine for chromatographic analysis.
+<br><br>
+Analysis for methane includes gas chromatography with flame ionization, as discussed in Simpson, et al. Methane concentrations are reported for dry air, and are made relative to a primary standard purchased from the Matheson Gas Company in 1977 and to a National Bureau of Standards standard purchased in August 1982. Analytical precision is better than 2 parts per billion by volume. For additional details for methane measurements, and some discussion about methane trends, see Simpson, et al. 
+<br><br>
+Concentrations of each substance for all locations are plotted vs time to show general temporal trends. The latitudinal distribution of concentrations, for all dates, are also plotted. The sampling locations are varied so a general picture of the global changes is given. The AGAGE site gives data about many of the same substances at a few latitudinally distributed sites where concentrations are measured much more frequently so as to provide continuous time series.
+<br><br>
+Methane concentrations had been rising prior to the mid 1990's when they began to level off. A tendency for reduced concentrations during the summer months in both hemispheres is related to increased production of hydroxyl (OH) radicals under conditions of extended sunlight and increased humidity, and associated destruction of methane and several nonmethane hydrocarbons that are subject to hydroxyl attack. The graphs of concentrations vs. latitude show that methane, as well as several nonmethane hydrocarbons, have their highest concentrations at mid-to-high latitudes in the Northern-Hemisphere. This largely reflects their source regions. However some substances (e.g., CFC-12) were largely produced in the Northern Hemisphere but have a rather flat distribution over all latitudes. This reflects discontinued emissions, so that the source regions are no longer clearly evident while the remaining amounts have been evenly mixed throughout the atmosphere. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

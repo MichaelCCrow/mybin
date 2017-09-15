@@ -1,0 +1,29 @@
+#!/bin/bash
+
+#if [ $# = 1 ]; then
+#    app="Firefox"
+#fi
+#if [ $# = 2 ]; then
+#    if [ $2 = "Firefox" || $2 = "Chrome" || $2 = "Safari" ]; then
+#        app=$2
+#    else echo "invalid browser"; exit
+#    fi
+#fi
+#if [ $# -gt 2 ]; then
+#    echo "num:: $#"
+#    echo "only supply the string to google and an optional browser choice :: default is Firefox"
+#    exit
+#fi
+
+############################################
+# Short-form script to google with Firefox
+# and without need to quote search string.
+############################################
+
+app="Firefox"
+search=""
+echo "Googling: ${@}"
+for term in $@; do
+    search="$search%20$term"
+done
+open -a $app "https://www.google.com/search?q=$search"

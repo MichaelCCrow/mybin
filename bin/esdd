@@ -1,0 +1,15 @@
+#!/bin/bash
+
+if [ $# -gt 0 ]; then
+ if [ $# = 1 ]; then
+  if [[ $1 = 'mcu' || $1 = 'mcutomcat' ]]; then
+    echo "ssh $1@edddrupal-dev"
+    ssh $1@esddrupal-dev
+    else echo "invalid username: $1"
+  fi
+ else echo "too many args"
+ fi
+else
+  echo "ssh mcu@edddrupal-dev"
+  ssh mcu@esddrupal-dev
+fi

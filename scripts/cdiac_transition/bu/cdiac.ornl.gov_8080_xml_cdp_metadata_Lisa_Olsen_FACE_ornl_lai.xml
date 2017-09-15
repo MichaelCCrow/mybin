@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Norby, R.J.]]></origin>
+        <origin><![CDATA[Tharp, M.L.]]></origin>
+        <title><![CDATA[ORNL FACE Leaf Area Index (LAI)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Lisa_Olsen/FACE/ornl_lai.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_1999.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2000.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2001.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2002.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2003.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2004.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2005.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2006.dat]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[ORNL FACE Leaf Area Index (LAI)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19990422]]></begdate>
+          <enddate><![CDATA[20061112]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-84.33]]></westbc>
+        <eastbc><![CDATA[-84.33]]></eastbc>
+        <northbc><![CDATA[35.9]]></northbc>
+        <southbc><![CDATA[35.9]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[CO2 enrichment]]></themekey>
+        <themekey><![CDATA[FACE]]></themekey>
+        <themekey><![CDATA[LAI]]></themekey>
+        <themekey><![CDATA[Leaf Area Index]]></themekey>
+        <themekey><![CDATA[ORNL FACE]]></themekey>
+        <themekey><![CDATA[sweetgum]]></themekey>
+        <themekey><![CDATA[Liquidambar Styraciflua]]></themekey>
+        <themekey><![CDATA[vegetation response]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070731 124455</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070731 123538 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[CO2 enrichment]]></Keywords>
+    <Keywords><![CDATA[FACE]]></Keywords>
+    <Keywords><![CDATA[LAI]]></Keywords>
+    <Keywords><![CDATA[Leaf Area Index]]></Keywords>
+    <Keywords><![CDATA[ORNL FACE]]></Keywords>
+    <Keywords><![CDATA[sweetgum]]></Keywords>
+    <Keywords><![CDATA[Liquidambar Styraciflua]]></Keywords>
+    <Keywords><![CDATA[vegetation response]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[                  FREE AIR CO2 ENRICHMENT (FACE) DATA REPORT:
+                             DAILY LEAF AREA INDEX 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+QUALITY-ASSURANCE CHECKS AND DATA-PROCESSING ACTIVITIES PERFORMED BY THE FACE 
+   PROJECT AND CDIAC
+-----------------------------------------------------------------------------
+
+
+X-Y scattergrams of daily leaf area (LAI) were used to check for outliers, 
+and the scattergrams were evaluated for consistency.
+
+
+LIST OF FILES 
+-------------
+
+Leaf area data are available for 1999-2009.  There is a daily file 
+for each year which contains the leaf area index values (m2/m2).
+
+This report documents 11 files with filenames of the form lai_A.dat, where A 
+denotes the year (1999 through 2009).  The files are as follows:
+
+lai_1999.dat       1999 daily LAI data
+lai_2000.dat       2000 daily LAI data
+lai_2001.dat       2001 daily LAI data
+lai_2002.dat       2002 daily LAI data 
+lai_2003.dat       2003 daily LAI data 
+lai_2004.dat       2004 daily LAI data 
+lai_2005.dat       2005 daily LAI data 
+lai_2006.dat       2006 daily LAI data 
+lai_2007.dat       2007 daily LAI data 
+lai_2008.dat       2008 daily LAI data 
+lai_2009.dat       2009 daily LAI data 
+
+
+DESCRIPTION and FORMAT OF THE ASCII DATA FILES
+----------------------------------------------
+
+
+Leaf area index (LAI, total one-sided leaf area above a unit of ground area)
+was calculated for each plot for every day of the growing season.
+Leaf area production in the spring was calculated from the fractional
+transmittance of PAR (T), which was calculated from daily total PAR above
+and below the canopy. A curve was fit to ln(T)/-k data, where
+the extinction coefficient k was set such that maximum leaf area
+production at budset (early to mid July) was equal to that determined
+from litter basket collections. A canopy-averaged value of leaf mass per
+unit leaf area was used to convert abscised leaf mass in litter baskets to
+green leaf area. A curve was fit through litter basket data to generate
+cumulative daily leaf area loss, which was subtracted from the leaf area
+production curve to generate daily LAI.
+
+The data were generated for the elevated CO2 rings 1 and 2, and 
+the ambient CO2 rings 3, 4, and 5.  The following reference describes 
+these data in more detail:  Norby RJ, Sholtis JD, Gunderson CA,
+Jawdy SS. 2003. Leaf dynamics of a deciduous forest canopy: no
+response to elevated CO2. Oecologia, DOI 10.1007/s00442-003-1296-2
+
+
+Contents and format of the daily files, lai_*.dat.
+
+Variable   Variable  Variable  Starting  Ending  Units      Definition and
+           type      width     column    column             comments
+
+YEAR       Integer   4         1         4       y          Year
+DOY        Integer   3         6         8       d          Day of the year
+                                                            (1 = 1 January, 
+                                                            ..., 365 or 366 
+                                                            = 31 December)
+RING       Integer   1         12        12                 Experimental ring
+                                                            1 = elevated CO2
+                                                            2 = elevated CO2
+                                                            3 = ambient CO2
+                                                            4 = ambient CO2
+                                                            5 = ambient CO2
+LAI        Real      5         16        20      m2/m2      Leaf area index 
+
+
+PARTIAL LISTINGS OF THE ASCII DATA FILES
+----------------------------------------
+
+
+Format and contents of the ASCII hourly data file lai_1999.dat.
+
+First five data records:
+
+1999 112   1    0.00
+1999 112   2    0.00
+1999 112   3    0.00
+1999 112   4    0.00
+1999 112   5    0.03
+
+Last five data records:
+
+1999 318   1    0.04
+1999 318   2    0.07
+1999 318   3    0.05
+1999 318   4    0.10
+1999 318   5    0.03
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2000.dat.
+
+First five data records:
+
+2000 117   1    0.03
+2000 117   2    0.21
+2000 117   3    0.04
+2000 117   4    0.08
+2000 117   5    0.21
+
+Last five data records:
+
+2000 312   1    0.00
+2000 312   2    0.02
+2000 312   3    0.01
+2000 312   4    0.00
+2000 312   5    0.00
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2001.dat.
+
+First five data records:
+
+2001 112   1    0.00
+2001 112   2    0.00
+2001 112   3    0.26
+2001 112   4    0.15
+2001 112   5    0.00
+
+Last five data records:
+
+2001 314   1    0.01
+2001 314   2    0.07
+2001 314   3    0.00
+2001 314   4    0.06
+2001 314   5    0.00
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2002.dat.
+
+First five data records:
+
+2002 108   1    0.00
+2002 108   2    0.00
+2002 108   3    0.00
+2002 108   4    0.00
+2002 108   5    0.11
+
+Last five data records:
+
+2002 331   1    0.00
+2002 331   2    0.00
+2002 331   3    0.00
+2002 331   4    0.00
+2002 331   5    0.01
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2003.dat.
+
+First five data records:
+
+2003 108   1    0.02
+2003 108   2    0.06
+2003 108   3    0.00
+2003 108   4    0.00
+2003 108   5    0.00
+
+Last five data records:
+
+2003 317   1    0.01
+2003 317   2    0.01
+2003 317   3    0.01
+2003 317   4    0.02
+2003 317   5    0.01
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2004.dat.
+
+First five data records:
+
+2004 105   1    0.00
+2004 105   2    0.00
+2004 105   3    0.10
+2004 105   4    0.00
+2004 105   5    0.00
+
+Last five data records:
+
+2004 299   1    0.17
+2004 299   2    0.20
+2004 299   3    0.15
+2004 299   4    0.18
+2004 299   5    0.12
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2005.dat.
+
+First five data records:
+
+2005 101   1    0.00
+2005 101   2    0.00
+2005 101   3    0.12
+2005 101   4    0.00
+2005 101   5    0.00
+
+Last five data records:
+
+2005 321   1    0.01
+2005 321   2    0.01
+2005 321   3    0.01
+2005 321   4    0.02
+2005 321   5    0.01
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2006.dat.
+
+First five data records:
+
+2006 104   1    0.00
+2006 104   2    0.00
+2006 104   3    0.05
+2006 104   4    0.00
+2006 104   5    0.00
+
+Last five data records:
+
+2006 316   1    0.01
+2006 316   2    0.03
+2006 316   3    0.03
+2006 316   4    0.00
+2006 316   5    0.01
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2007.dat.
+
+First five data records:
+
+2007 104   1    0.01
+2007 104   2    0.00
+2007 104   3    0.01
+2007 104   4    0.00
+2007 104   5    0.00
+
+Last five data records:
+
+2007 333   1    0.01
+2007 333   2    0.01
+2007 333   3    0.02
+2007 333   4    0.01
+2007 333   5    0.01
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2008.dat.
+
+First five data records:
+
+2008 112   1    0.00
+2008 112   2    0.00
+2008 112   3    0.00
+2008 112   4    0.00
+2008 112   5    0.00
+
+Last five data records:
+
+2008 324   1    0.00
+2008 324   2    0.00
+2008 324   3    0.00
+2008 324   4    0.00
+2008 324   5    0.00
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2009.dat.
+
+First five data records:
+
+2009 113   1    0.00
+2009 113   2    0.00
+2009 113   3    0.00
+2009 113   4    0.00
+2009 113   5    0.00
+
+Last five data records:
+
+2009 317   1    0.00
+2009 317   2    0.00
+2009 317   3    0.00
+2009 317   4    0.00
+2009 317   5    0.00
+
+
+--------------------------------------------
+
+Since these daily leaf area index files are space-delimited ASCII text, 
+the files can be imported to spreadsheet software such as Excel or Lotus
+for processing.
+
+
+SAS, FORTRAN, and C CODES TO ACCESS THE DATA
+--------------------------------------------
+
+
+The following is SAS code to read daily files, lai_*.dat.
+
+
+/* SAS CODE TO READ FILE lai_2002.dat. */
+
+DATA LAIDAT;
+
+   INFILE "lai_2002.dat";
+
+   IF _N_ = 1 THEN DO;
+      INPUT ////////;  /* READ HEADER INFORMATION */
+   END;
+
+   INPUT YEAR 1-4 DOY 6-8 RING 12 LAI 16-20; 
+
+RUN;
+
+
+**********
+
+The following is FORTRAN code to read daily files, lai_*.dat.
+
+
+      PROGRAM LAIDAT
+
+C     FORTRAN CODE TO READ THE FILE lai_2002.dat.
+
+      REAL LAI 
+
+      INTEGER YEAR, DOY, RING
+
+      CHARACTER*62 HEADER
+
+      OPEN(UNIT = 2, FILE = 'lai_2002.dat', STATUS = 'OLD')
+
+      DO I = 1,9
+         READ(2,'(A)') HEADER
+      ENDDO
+
+   10 READ(2,*, END = 20)
+     #   YEAR, DOY, RING, LAI 
+
+      GO TO 10
+
+   20 CLOSE(2)
+
+      STOP
+      END
+
+
+**********
+
+The following is C code to read daily files, lai_*.dat.
+
+
+#include  stdio.h 
+#include  stdlib.h 
+#include  string.h 
+
+/* C program to read lai_2002.dat. */
+
+int main(int argc, char *argv[])
+
+{
+
+   int rec;
+   int YEAR, DOY, RING;
+
+   float LAI;
+
+   char header[65];
+
+   FILE *lai_fp;
+
+   if((lai_fp = fopen("./lai_2002.dat", "r")) == NULL) {
+      fprintf(stderr, "Error opening file lai_2002.dat.\n");
+      exit(EXIT_FAILURE);
+   }
+
+   for(rec = 1; rec  = 9; rec++) {
+      fgets(header, 64, lai_fp);
+      header[strlen(header)] = '\0'; 
+   }
+
+   while(!feof(lai_fp)) {
+      if (fscanf(lai_fp, "%d %d %d %f\n", 
+         &amp;YEAR, &amp;DOY, &amp;RING, &amp;LAI) == 4);  
+      else
+         fprintf(stderr, "Check the number of variables in lai_2002.dat\n");
+   }
+
+   return;
+}
+
+**********
+
+]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070731 123538 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Lisa_Olsen/FACE/ornl_lai.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[ORNL FACE LAI]]></Product_number>
+      <Product_title><![CDATA[ORNL FACE Leaf Area Index (LAI)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Norby, R.J.]]></Name>
+        <Company><![CDATA[Environmental Sciences Division]]></Company>
+        <Organization><![CDATA[Oak Ridge National Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Tharp, M.L.]]></Name>
+        <Company><![CDATA[Environmental Sciences Division]]></Company>
+        <Organization><![CDATA[Oak Ridge National Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Oak Ridge National Laboratory FACE Experiment]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/face/ORNL/ornl_home.shtml]]></Site_URL>
+        <Site_data_file><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml]]></Data_site>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Variable><![CDATA[DOY]]></Variable>
+      <Variable><![CDATA[RING]]></Variable>
+      <Variable><![CDATA[LAI (m2/m2)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai.txt                  FREE AIR CO2 ENRICHMENT (FACE) DATA REPORT:
+                             DAILY LEAF AREA INDEX 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+QUALITY-ASSURANCE CHECKS AND DATA-PROCESSING ACTIVITIES PERFORMED BY THE FACE 
+   PROJECT AND CDIAC
+-----------------------------------------------------------------------------
+
+
+X-Y scattergrams of daily leaf area (LAI) were used to check for outliers, 
+and the scattergrams were evaluated for consistency.
+
+
+LIST OF FILES 
+-------------
+
+Leaf area data are available for 1999-2009.  There is a daily file 
+for each year which contains the leaf area index values (m2/m2).
+
+This report documents 11 files with filenames of the form lai_A.dat, where A 
+denotes the year (1999 through 2009).  The files are as follows:
+
+lai_1999.dat       1999 daily LAI data
+lai_2000.dat       2000 daily LAI data
+lai_2001.dat       2001 daily LAI data
+lai_2002.dat       2002 daily LAI data 
+lai_2003.dat       2003 daily LAI data 
+lai_2004.dat       2004 daily LAI data 
+lai_2005.dat       2005 daily LAI data 
+lai_2006.dat       2006 daily LAI data 
+lai_2007.dat       2007 daily LAI data 
+lai_2008.dat       2008 daily LAI data 
+lai_2009.dat       2009 daily LAI data 
+
+
+DESCRIPTION and FORMAT OF THE ASCII DATA FILES
+----------------------------------------------
+
+
+Leaf area index (LAI, total one-sided leaf area above a unit of ground area)
+was calculated for each plot for every day of the growing season.
+Leaf area production in the spring was calculated from the fractional
+transmittance of PAR (T), which was calculated from daily total PAR above
+and below the canopy. A curve was fit to ln(T)/-k data, where
+the extinction coefficient k was set such that maximum leaf area
+production at budset (early to mid July) was equal to that determined
+from litter basket collections. A canopy-averaged value of leaf mass per
+unit leaf area was used to convert abscised leaf mass in litter baskets to
+green leaf area. A curve was fit through litter basket data to generate
+cumulative daily leaf area loss, which was subtracted from the leaf area
+production curve to generate daily LAI.
+
+The data were generated for the elevated CO2 rings 1 and 2, and 
+the ambient CO2 rings 3, 4, and 5.  The following reference describes 
+these data in more detail:  Norby RJ, Sholtis JD, Gunderson CA,
+Jawdy SS. 2003. Leaf dynamics of a deciduous forest canopy: no
+response to elevated CO2. Oecologia, DOI 10.1007/s00442-003-1296-2
+
+
+Contents and format of the daily files, lai_*.dat.
+
+Variable   Variable  Variable  Starting  Ending  Units      Definition and
+           type      width     column    column             comments
+
+YEAR       Integer   4         1         4       y          Year
+DOY        Integer   3         6         8       d          Day of the year
+                                                            (1 = 1 January, 
+                                                            ..., 365 or 366 
+                                                            = 31 December)
+RING       Integer   1         12        12                 Experimental ring
+                                                            1 = elevated CO2
+                                                            2 = elevated CO2
+                                                            3 = ambient CO2
+                                                            4 = ambient CO2
+                                                            5 = ambient CO2
+LAI        Real      5         16        20      m2/m2      Leaf area index 
+
+
+PARTIAL LISTINGS OF THE ASCII DATA FILES
+----------------------------------------
+
+
+Format and contents of the ASCII hourly data file lai_1999.dat.
+
+First five data records:
+
+1999 112   1    0.00
+1999 112   2    0.00
+1999 112   3    0.00
+1999 112   4    0.00
+1999 112   5    0.03
+
+Last five data records:
+
+1999 318   1    0.04
+1999 318   2    0.07
+1999 318   3    0.05
+1999 318   4    0.10
+1999 318   5    0.03
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2000.dat.
+
+First five data records:
+
+2000 117   1    0.03
+2000 117   2    0.21
+2000 117   3    0.04
+2000 117   4    0.08
+2000 117   5    0.21
+
+Last five data records:
+
+2000 312   1    0.00
+2000 312   2    0.02
+2000 312   3    0.01
+2000 312   4    0.00
+2000 312   5    0.00
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2001.dat.
+
+First five data records:
+
+2001 112   1    0.00
+2001 112   2    0.00
+2001 112   3    0.26
+2001 112   4    0.15
+2001 112   5    0.00
+
+Last five data records:
+
+2001 314   1    0.01
+2001 314   2    0.07
+2001 314   3    0.00
+2001 314   4    0.06
+2001 314   5    0.00
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2002.dat.
+
+First five data records:
+
+2002 108   1    0.00
+2002 108   2    0.00
+2002 108   3    0.00
+2002 108   4    0.00
+2002 108   5    0.11
+
+Last five data records:
+
+2002 331   1    0.00
+2002 331   2    0.00
+2002 331   3    0.00
+2002 331   4    0.00
+2002 331   5    0.01
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2003.dat.
+
+First five data records:
+
+2003 108   1    0.02
+2003 108   2    0.06
+2003 108   3    0.00
+2003 108   4    0.00
+2003 108   5    0.00
+
+Last five data records:
+
+2003 317   1    0.01
+2003 317   2    0.01
+2003 317   3    0.01
+2003 317   4    0.02
+2003 317   5    0.01
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2004.dat.
+
+First five data records:
+
+2004 105   1    0.00
+2004 105   2    0.00
+2004 105   3    0.10
+2004 105   4    0.00
+2004 105   5    0.00
+
+Last five data records:
+
+2004 299   1    0.17
+2004 299   2    0.20
+2004 299   3    0.15
+2004 299   4    0.18
+2004 299   5    0.12
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2005.dat.
+
+First five data records:
+
+2005 101   1    0.00
+2005 101   2    0.00
+2005 101   3    0.12
+2005 101   4    0.00
+2005 101   5    0.00
+
+Last five data records:
+
+2005 321   1    0.01
+2005 321   2    0.01
+2005 321   3    0.01
+2005 321   4    0.02
+2005 321   5    0.01
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2006.dat.
+
+First five data records:
+
+2006 104   1    0.00
+2006 104   2    0.00
+2006 104   3    0.05
+2006 104   4    0.00
+2006 104   5    0.00
+
+Last five data records:
+
+2006 316   1    0.01
+2006 316   2    0.03
+2006 316   3    0.03
+2006 316   4    0.00
+2006 316   5    0.01
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2007.dat.
+
+First five data records:
+
+2007 104   1    0.01
+2007 104   2    0.00
+2007 104   3    0.01
+2007 104   4    0.00
+2007 104   5    0.00
+
+Last five data records:
+
+2007 333   1    0.01
+2007 333   2    0.01
+2007 333   3    0.02
+2007 333   4    0.01
+2007 333   5    0.01
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2008.dat.
+
+First five data records:
+
+2008 112   1    0.00
+2008 112   2    0.00
+2008 112   3    0.00
+2008 112   4    0.00
+2008 112   5    0.00
+
+Last five data records:
+
+2008 324   1    0.00
+2008 324   2    0.00
+2008 324   3    0.00
+2008 324   4    0.00
+2008 324   5    0.00
+
+**********
+
+Format and contents of the ASCII hourly data file lai_2009.dat.
+
+First five data records:
+
+2009 113   1    0.00
+2009 113   2    0.00
+2009 113   3    0.00
+2009 113   4    0.00
+2009 113   5    0.00
+
+Last five data records:
+
+2009 317   1    0.00
+2009 317   2    0.00
+2009 317   3    0.00
+2009 317   4    0.00
+2009 317   5    0.00
+
+
+--------------------------------------------
+
+Since these daily leaf area index files are space-delimited ASCII text, 
+the files can be imported to spreadsheet software such as Excel or Lotus
+for processing.
+
+
+SAS, FORTRAN, and C CODES TO ACCESS THE DATA
+--------------------------------------------
+
+
+The following is SAS code to read daily files, lai_*.dat.
+
+
+/* SAS CODE TO READ FILE lai_2002.dat. */
+
+DATA LAIDAT;
+
+   INFILE "lai_2002.dat";
+
+   IF _N_ = 1 THEN DO;
+      INPUT ////////;  /* READ HEADER INFORMATION */
+   END;
+
+   INPUT YEAR 1-4 DOY 6-8 RING 12 LAI 16-20; 
+
+RUN;
+
+
+**********
+
+The following is FORTRAN code to read daily files, lai_*.dat.
+
+
+      PROGRAM LAIDAT
+
+C     FORTRAN CODE TO READ THE FILE lai_2002.dat.
+
+      REAL LAI 
+
+      INTEGER YEAR, DOY, RING
+
+      CHARACTER*62 HEADER
+
+      OPEN(UNIT = 2, FILE = 'lai_2002.dat', STATUS = 'OLD')
+
+      DO I = 1,9
+         READ(2,'(A)') HEADER
+      ENDDO
+
+   10 READ(2,*, END = 20)
+     #   YEAR, DOY, RING, LAI 
+
+      GO TO 10
+
+   20 CLOSE(2)
+
+      STOP
+      END
+
+
+**********
+
+The following is C code to read daily files, lai_*.dat.
+
+
+#include  stdio.h 
+#include  stdlib.h 
+#include  string.h 
+
+/* C program to read lai_2002.dat. */
+
+int main(int argc, char *argv[])
+
+{
+
+   int rec;
+   int YEAR, DOY, RING;
+
+   float LAI;
+
+   char header[65];
+
+   FILE *lai_fp;
+
+   if((lai_fp = fopen("./lai_2002.dat", "r")) == NULL) {
+      fprintf(stderr, "Error opening file lai_2002.dat.\n");
+      exit(EXIT_FAILURE);
+   }
+
+   for(rec = 1; rec  = 9; rec++) {
+      fgets(header, 64, lai_fp);
+      header[strlen(header)] = '\0'; 
+   }
+
+   while(!feof(lai_fp)) {
+      if (fscanf(lai_fp, "%d %d %d %f\n", 
+         &amp;YEAR, &amp;DOY, &amp;RING, &amp;LAI) == 4);  
+      else
+         fprintf(stderr, "Check the number of variables in lai_2002.dat\n");
+   }
+
+   return;
+}
+
+**********
+
+]]></Descriptive_file>
+      <Data_file><![CDATA[lai_1999.dat]]></Data_file>
+      <Data_file><![CDATA[lai_2000.dat]]></Data_file>
+      <Data_file><![CDATA[lai_2001.dat]]></Data_file>
+      <Data_file><![CDATA[lai_2002.dat]]></Data_file>
+      <Data_file><![CDATA[lai_2003.dat]]></Data_file>
+      <Data_file><![CDATA[lai_2004.dat]]></Data_file>
+      <Data_file><![CDATA[lai_2005.dat]]></Data_file>
+      <Data_file><![CDATA[lai_2006.dat]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070710]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_1999.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2000.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2001.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2002.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2003.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2004.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2005.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_2006.dat]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Leaf area data are available for 1999-2006.  There is a daily file 
+for each year which contains the leaf area index values (m2/m2).
+Leaf area index (LAI, total one-sided leaf area above a unit of ground area)
+was calculated for each plot for every day of the growing season.
+Leaf area production in the spring was calculated from the fractional
+transmittance of PAR (T), which was calculated from daily total PAR above
+and below the canopy. A curve was fit to ln(T)/-k data, where
+the extinction coefficient k was set such that maximum leaf area
+production at budset (early to mid July) was equal to that determined
+from litter basket collections. A canopy-averaged value of leaf mass per
+unit leaf area was used to convert abscised leaf mass in litter baskets to
+green leaf area. A curve was fit through litter basket data to generate
+cumulative daily leaf area loss, which was subtracted from the leaf area
+production curve to generate daily LAI.
+
+The data were generated for the elevated CO2 rings 1 and 2, and 
+the ambient CO2 rings 3, 4, and 5.  The following reference describes 
+these data in more detail:  Norby RJ, Sholtis JD, Gunderson CA,
+Jawdy SS. 2003. Leaf dynamics of a deciduous forest canopy: no
+response to elevated CO2. Oecologia, DOI 10.1007/s00442-003-1296-2]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

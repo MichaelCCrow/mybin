@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Tans, P. P.]]></origin>
+        <origin><![CDATA[ Conway, T.J.]]></origin>
+        <title><![CDATA[Monthly Atmospheric CO2 Mixing Ratios from the NOAA CMDL Carbon Cycle Cooperative Global Air Sampling Network, 1968-2002]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NOAA_CMDLMonthAtmCO2MixingRatios.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/cmdl-flask.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Monthly Atmospheric CO2 Mixing Ratios from the NOAA CMDL Carbon Cycle Cooperative Global Air Sampling Network, 1968-2002]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19680101]]></begdate>
+          <enddate><![CDATA[20021231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric]]></themekey>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[NOAA]]></themekey>
+        <themekey><![CDATA[CMDL]]></themekey>
+        <themekey><![CDATA[mixing ratio]]></themekey>
+        <themekey><![CDATA[Climate Monitoring]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 114547</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20120905 114535 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric]]></Keywords>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[NOAA]]></Keywords>
+    <Keywords><![CDATA[CMDL]]></Keywords>
+    <Keywords><![CDATA[mixing ratio]]></Keywords>
+    <Keywords><![CDATA[Climate Monitoring]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Pieter P. Tans and Thomas J. Conway
+CITE AS: Tans, Pieter P. and T.J. Conway, 2005. Monthly Atmospheric CO Mixing Ratios from the NOAA CMDL Carbon Cycle Cooperative Global Air Sampling Network, 1968-2002. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20120905 114535 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NOAA_CMDLMonthAtmCO2MixingRatios.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[NOAA/CMDL]]></Product_number>
+      <Product_title><![CDATA[Monthly Atmospheric CO2 Mixing Ratios from the NOAA CMDL Carbon Cycle Cooperative Global Air Sampling Network, 1968-2002]]></Product_title>
+      <Author>
+        <Name><![CDATA[Tans, P. P.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[ Conway, T.J.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Climate Monitoring and Diagnostics Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric CO2]]></Thematic_area>
+      <Thematic_area><![CDATA[Mixing Ratios]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Assekrem, Algeria]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/ask.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/askmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/askgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tutuila, American Samoa]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/smo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/smomm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/smogr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Halley Station, Antarctica, U.K.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/hba.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/hbamm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/hbagr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Palmer Station, Antarctica, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/psa.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/psamm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/psagr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/spo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/spomm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/spogr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Syowa Station, Antarctica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/syo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/syomm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/syogr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tierra Del Fuego, La Redonda Isla, Argentina]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/tdf.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/tdfmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/tdfgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Grim, Tasmania, Australia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/cgo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/cgomm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/cgogr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ragged Point, Barbados]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/rpb.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/rpbmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/rpbgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Alert, Nunavut, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/alt.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/altmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/altgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mould Bay, Nunavut, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/mbc.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/mbcmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/mbcgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Easter Island, Chile]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/eic.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/eicmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/eicgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mt. Waliguan, China, People's Republic of]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/wlg.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/wlgmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/wlggr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Amsterdam Island, France]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/ams.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/amsmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/amsgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Crozet Island, France]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/crz.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/crzmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/crzgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Summit, Greenland]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/sum.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/summm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/sumgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mariana Island, Guam]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/gmi.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/gmimm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/gmigr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hegyhatsal, Hungary]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/hun.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/hunmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/hungr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Storhofdi, Vestmannaeyjar, Iceland]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/ice.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/icemm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/icegr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mace Head, County Galway, Ireland]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/mhd.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/mhdmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/mhdgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sede Boker, Negev Desert, Israel]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/wis.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/wismm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/wisgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Plateau Assy, Kazakhstan]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/kzm.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/kzmmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/kzmgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sary Taukum, Kazakhstan]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/kzd.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/kzdmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/kzdgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Christmas Island, Kiribati, Republic of]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/chr.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/chrmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/chrgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tae-ahn Peninsula, Korea, Republic of]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/tap.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/tapmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/tapgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Dwejra Point, Gozo, Malta]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/goz.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/gozmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/gozgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ulaan Uul, Mongolia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/uum.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/uummm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/uumgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Gobabeb, Namibia]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/nmb.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/nmbmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/nmbgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ny-Alesund, Svalbard (Norway and Sweden) ]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/zep.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/zepmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/zepgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Baltic Sea, Poland]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/bal.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/balmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/balgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Terceira Island, Azores, Portugal]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/azr.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/azrmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/azrgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Black Sea, Constanta, Romania]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/bsc.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/bscmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/bscgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mahe Island, Seychelles]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/sey.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/seymm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/seygr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tenerife, Canary Islands, Spain]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/izo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/izomm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/izogr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ascension Island, United Kingdom]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/asc.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/ascmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/ascgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[St. Davids Head, Bermuda, United Kingdom]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/bme.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/bmemm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/bmegr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tudo Hill, Bermuda, United Kingdom]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/bmw.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/bmwmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/bmwgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Barrow, Alaska, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/brw.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/brwmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/brwgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Kumukahi, Hawaii, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/kum.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/kummm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/kumgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Meares, Oregon, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/cmo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/cmomm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/cmogr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cold Bay, Alaska, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/cba.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/cbamm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/cbagr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Grifton, North Carolina, U.S.A]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/itn.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/itnmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/itngr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Key Biscayne, Florida, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/key.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/keymm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/keygr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/mlo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/mlomm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/mlogr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Niwot Ridge, Colorado, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/nwr.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/nwrmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/nwrgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Park Falls, Wisconsin, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/lef.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/lefmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/lefgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Point Arena, California, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/pta.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/ptamm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/ptagr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ocean Station C, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/stc.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/stcmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/stcgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sand Island, Midway, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/mid.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/midmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/midgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Shemya Island, Alaska, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/shm.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/shmmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/shmgr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[St. Croix, Virgin Islands, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/avi.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/avimm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/avigr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Wendover, Utah, U.S.A.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/uta.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/utamm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/utagr.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ocean Station M, Norway]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/stm.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/cmdl-flask/stmmm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/graphics/stmgr.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[January]]></Variable>
+      <Variable><![CDATA[February]]></Variable>
+      <Variable><![CDATA[March]]></Variable>
+      <Variable><![CDATA[April]]></Variable>
+      <Variable><![CDATA[May]]></Variable>
+      <Variable><![CDATA[June]]></Variable>
+      <Variable><![CDATA[July]]></Variable>
+      <Variable><![CDATA[August]]></Variable>
+      <Variable><![CDATA[September]]></Variable>
+      <Variable><![CDATA[October]]></Variable>
+      <Variable><![CDATA[November]]></Variable>
+      <Variable><![CDATA[December]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/cmdl-flask.htmlPieter P. Tans and Thomas J. Conway
+CITE AS: Tans, Pieter P. and T.J. Conway, 2005. Monthly Atmospheric CO Mixing Ratios from the NOAA CMDL Carbon Cycle Cooperative Global Air Sampling Network, 1968-2002. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20050401]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20050401]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/trends/co2/cmdl-flask/cmdl-flask.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Starting in 1968, air samples were collected in cylindrical glass flasks tapered at both ends to ground glass stopcocks lubricated with hydrocarbon grease. At several sites from 1980 to 1985 samples were also collected in spherical 5-L flasks equipped with a single ground glass stopcock. These flasks were filled by the evacuation method described below. In 1983, measurements of CH4 in the flask samples were begun. Experiments at this time revealed that CO mixing ratios increased with time in the greased flasks. In 1989, 0.5-L glass flasks equipped with glass piston Teflon O-ring stopcocks were introduced into the network so CO could be measured in addition to CO2 and CH4. In 1990, measurements of 13C/12C and 18O/16O of CO2 in the flask samples were begun. The precision of the isotopic measurements was better with larger volume flasks, so in 1991 2.5-L glass flasks with two Teflon O-ring stopcocks began to replace the 0.5-L flasks. In 1994, the conversion of the network to 2.5-L flasks was completed. Samples continue to be collected in 2.5-L flasks.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

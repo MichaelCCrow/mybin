@@ -1,0 +1,29 @@
+#!/bin/bash
+
+############################################
+# Long-form script to google with optional
+# specified browser and search string 
+# surrounded by quotes. 
+############################################
+
+if [ $# = 1 ]; then
+    app="Firefox"
+fi
+if [ $# = 2 ]; then
+    if [ $2 = "Firefox" || $2 = "Chrome" || $2 = "Safari" ]; then
+        app=$2
+    else echo "invalid browser"; exit
+    fi
+fi
+if [ $# -gt 2 ]; then
+    echo "num:: $#"
+    echo "only supply the string to google and an optional browser choice :: default is Firefox"
+    exit
+fi
+
+search=""
+echo "Googling: $@"
+for term in $@; do
+    search="$search%20$term"
+done
+open -a $app "https://www.google.com/search?q=$search"

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Sabine, C. L.]]></origin>
+        <origin><![CDATA[Key, R. M.]]></origin>
+        <origin><![CDATA[Hall, M.]]></origin>
+        <title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Thomas G. Thompson Cruise in the Pacific Ocean (WOCE Section P10, October 5 - November 10, 1993)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_071.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Thomas G. Thompson Cruise in the Pacific Ocean (WOCE Section P10, October 5 - November 10, 1993)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19931012]]></begdate>
+          <enddate><![CDATA[19931109]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[140.753]]></westbc>
+        <eastbc><![CDATA[149.342]]></eastbc>
+        <northbc><![CDATA[35.167]]></northbc>
+        <southbc><![CDATA[-4.015]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[TALK]]></themekey>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[bottle oxygen]]></themekey>
+        <themekey><![CDATA[bottle salinity]]></themekey>
+        <themekey><![CDATA[chlorofluorocarbons (CFC-11 CFC-12)]]></themekey>
+        <themekey><![CDATA[delta 14C]]></themekey>
+        <themekey><![CDATA[nitrate]]></themekey>
+        <themekey><![CDATA[nitrite]]></themekey>
+        <themekey><![CDATA[phosphate]]></themekey>
+        <themekey><![CDATA[pressure]]></themekey>
+        <themekey><![CDATA[salinity measured by (CTD)]]></themekey>
+        <themekey><![CDATA[silicate]]></themekey>
+        <themekey><![CDATA[temperature]]></themekey>
+        <themekey><![CDATA[underway pCO2]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[hydrographic data]]></themekey>
+        <themekey><![CDATA[chemical data ]]></themekey>
+        <themekey><![CDATA[cruise]]></themekey>
+        <themekey><![CDATA[R/V Thomas G. Thompson Cruise ]]></themekey>
+        <themekey><![CDATA[Pacific Ocean ]]></themekey>
+        <themekey><![CDATA[WOCE Section P10]]></themekey>
+        <themekey><![CDATA[NDP-071]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 124115</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 150345 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[TALK]]></Keywords>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[bottle oxygen]]></Keywords>
+    <Keywords><![CDATA[bottle salinity]]></Keywords>
+    <Keywords><![CDATA[chlorofluorocarbons (CFC-11 CFC-12)]]></Keywords>
+    <Keywords><![CDATA[delta 14C]]></Keywords>
+    <Keywords><![CDATA[nitrate]]></Keywords>
+    <Keywords><![CDATA[nitrite]]></Keywords>
+    <Keywords><![CDATA[phosphate]]></Keywords>
+    <Keywords><![CDATA[pressure]]></Keywords>
+    <Keywords><![CDATA[salinity measured by (CTD)]]></Keywords>
+    <Keywords><![CDATA[silicate]]></Keywords>
+    <Keywords><![CDATA[temperature]]></Keywords>
+    <Keywords><![CDATA[underway pCO2]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[hydrographic data]]></Keywords>
+    <Keywords><![CDATA[chemical data ]]></Keywords>
+    <Keywords><![CDATA[cruise]]></Keywords>
+    <Keywords><![CDATA[R/V Thomas G. Thompson Cruise ]]></Keywords>
+    <Keywords><![CDATA[Pacific Ocean ]]></Keywords>
+    <Keywords><![CDATA[WOCE Section P10]]></Keywords>
+    <Keywords><![CDATA[NDP-071]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 150345 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_071.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp071]]></Product_number>
+      <Product_title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Thomas G. Thompson Cruise in the Pacific Ocean (WOCE Section P10, October 5 - November 10, 1993)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Sabine, C. L.]]></Name>
+        <Company><![CDATA[Princeton University]]></Company>
+        <Organization><![CDATA[Department of Geosciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Key, R. M.]]></Name>
+        <Company><![CDATA[Princeton University]]></Company>
+        <Organization><![CDATA[Department of Geosciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hall, M.]]></Name>
+        <Company><![CDATA[Woods Hole Oceanographic Institution]]></Company>
+        <Organization><![CDATA[Department of Physical Oceanography]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_071/ndp071.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/p10.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/p10pco2a.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/p10pco2w.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/p10sta.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[sursal]]></Variable>
+      <Variable><![CDATA[alkali]]></Variable>
+      <Variable><![CDATA[atmpre]]></Variable>
+      <Variable><![CDATA[bot]]></Variable>
+      <Variable><![CDATA[c14er]]></Variable>
+      <Variable><![CDATA[cast]]></Variable>
+      <Variable><![CDATA[ctdoxy]]></Variable>
+      <Variable><![CDATA[ctdsal]]></Variable>
+      <Variable><![CDATA[ctdtmp]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[dc14]]></Variable>
+      <Variable><![CDATA[depth]]></Variable>
+      <Variable><![CDATA[eqtmp]]></Variable>
+      <Variable><![CDATA[expo]]></Variable>
+      <Variable><![CDATA[jdate]]></Variable>
+      <Variable><![CDATA[latdcm]]></Variable>
+      <Variable><![CDATA[latit]]></Variable>
+      <Variable><![CDATA[londcm]]></Variable>
+      <Variable><![CDATA[longit]]></Variable>
+      <Variable><![CDATA[nitrat]]></Variable>
+      <Variable><![CDATA[nitrit]]></Variable>
+      <Variable><![CDATA[oxy]]></Variable>
+      <Variable><![CDATA[phspht]]></Variable>
+      <Variable><![CDATA[pre]]></Variable>
+      <Variable><![CDATA[qflag]]></Variable>
+      <Variable><![CDATA[qualt]]></Variable>
+      <Variable><![CDATA[sal]]></Variable>
+      <Variable><![CDATA[samp]]></Variable>
+      <Variable><![CDATA[sect]]></Variable>
+      <Variable><![CDATA[silca]]></Variable>
+      <Variable><![CDATA[sta]]></Variable>
+      <Variable><![CDATA[stat]]></Variable>
+      <Variable><![CDATA[surtmp]]></Variable>
+      <Variable><![CDATA[tcarb]]></Variable>
+      <Variable><![CDATA[theta]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Variable><![CDATA[xco2a]]></Variable>
+      <Variable><![CDATA[xco2eq]]></Variable>
+      <Variable><![CDATA[xco2sst]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_071/ndp071.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/ndp071.txt]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/readme.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/p10dat.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/p10pco2a.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/p10pco2w.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/stainv.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19990724]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19990724]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp071/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[3.16MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data documentation discusses the procedures and methods used to measure total carbon dioxide (TCO2), total alkalinity (TALK), and radiocarbon (delta 14C), at hydrographic stations, as well as the underway partial pressure of CO2 (pCO2) during the R/V Thomas G. Thompson oceanographic cruise in the Pacific Ocean (Section P10). Conducted as part of the World Ocean Circulation Experiment (WOCE), the cruise began in Suva, Fiji, on October 5, 1993, and ended in Yokohama, Japan, on November 10, 1993. Measurements made along WOCE Section P10 included pressure, temperature, salinity [measured by conductivity, temperature, and depth sensor (CTD)], bottle salinity, bottle oxygen, phosphate, nitrate, nitrite, silicate, chlorofluorocarbons (CFC-11 , CFC-12), TCO2, TALK, delta 14C, and underway pCO2.
+<br><br>
+ The TCO2 was measured by coulometry using a Single-Operator Multiparameter Metabolic Analyzer (SOMMA). The overall precision and accuracy of the analyses was +/- 2 micro-mol/kg. Samples collected for TALK were measured by potentiometric titration; precision was +/- 4 micro-mol/kg. Small volume samples collected for 14C were sent to shore and measured by use of an accelerator mass spectrometry technique. Underway xCO2 was measured by infrared photometry with a precision of +/- 1 micro-atm. The CO2-related measurements aboard the R/V Thomas G. Thompson were supported by the U.S. Department of Energy.
+<br><br>
+ P10 is the western most section of the U.S. WOCE survey of the North Pacific Ocean. It is important for understanding the dynamics of the far western equatorial Pacific. The results from this cruise can be used to infer the relative magnitude of various tracers to the North Pacific from the South China Sea and the Sea of Japan. WOCE Section P10 also provides a transect across the Kuroshio Current which can be used to better understand the northward transport of heat, salt, and other important ocean tracers. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

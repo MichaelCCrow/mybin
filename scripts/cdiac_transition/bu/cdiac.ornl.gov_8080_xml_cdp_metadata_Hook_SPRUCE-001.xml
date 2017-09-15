@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Paul J. Hanson]]></origin>
+        <title><![CDATA[Spruce and Peatland Responses Under Climatic and Environmental Change (SPRUCE)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Hook/SPRUCE-001.xml]]></onlink>
+        <onlink><![CDATA[http://mnspruce.ornl.gov/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Spruce and Peatland Responses Under Climatic and Environmental Change (SPRUCE)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20090815]]></begdate>
+          <enddate></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-93.48283]]></westbc>
+        <eastbc><![CDATA[-93.48283]]></eastbc>
+        <northbc><![CDATA[47.50285]]></northbc>
+        <southbc><![CDATA[47.50285]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[SPRUCE Experiment]]></themekey>
+        <themekey><![CDATA[ORNL]]></themekey>
+        <themekey><![CDATA[U.S. DOE Office of Science]]></themekey>
+        <themekey><![CDATA[Marcell Experimental Forest]]></themekey>
+        <themekey><![CDATA[Northern Research Station]]></themekey>
+        <themekey><![CDATA[U.S. Forest Service]]></themekey>
+        <themekey><![CDATA[climate change]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20110114 174410</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Les Hookhookla@ornl.gov865-241-4846]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20110114 174228 by 160.91.29.101</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[SPRUCE Experiment]]></Keywords>
+    <Keywords><![CDATA[ORNL]]></Keywords>
+    <Keywords><![CDATA[U.S. DOE Office of Science]]></Keywords>
+    <Keywords><![CDATA[Marcell Experimental Forest]]></Keywords>
+    <Keywords><![CDATA[Northern Research Station]]></Keywords>
+    <Keywords><![CDATA[U.S. Forest Service]]></Keywords>
+    <Keywords><![CDATA[climate change]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20110114 174228 by 160.91.29.101</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Hook/SPRUCE-001.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[SPRUCE-001]]></Product_number>
+      <Product_title><![CDATA[Spruce and Peatland Responses Under Climatic and Environmental Change (SPRUCE)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Paul J. Hanson]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate Change]]></Thematic_area>
+      <Thematic_area><![CDATA[Elevated temperature]]></Thematic_area>
+      <Thematic_area><![CDATA[Elevated carbon dioxide]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[USDA Forest Service, Marcell Experimental Forest (MEF)]]></Site_name>
+        <Site_URL><![CDATA[http://mnspruce.ornl.gov/]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Project web site]]></Variable>
+      <Descriptive_file></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://mnspruce.ornl.gov/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Les Hook]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[hookla@ornl.gov]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[865-241-4846]]></CDIAC_contact>
+      <Notes><![CDATA[Research sponsored by the Office of Biological and Environmental Research within the U.S. Department of Energy's Office of Science.
+
+The SPRUCE experiment is a multi-year cooperative interaction among scientists of the Oak Ridge National Laboratory operated by UT-Battelle, LLC and the U.S. Forest Service, Northern Research Station, Marcell Experimental Forest.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

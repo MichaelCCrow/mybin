@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Gornitz, V. M.]]></origin>
+        <origin><![CDATA[White, T. W.]]></origin>
+        <title><![CDATA[Coastal Hazards Data Base for the U.S. Gulf Coast]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Coastal Hazards Data Base for the U.S. Gulf Coast]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[1900000]]></begdate>
+          <enddate><![CDATA[1900000]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-100.00]]></westbc>
+        <eastbc><![CDATA[-80.00]]></eastbc>
+        <northbc><![CDATA[32.00]]></northbc>
+        <southbc><![CDATA[24.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Coast]]></themekey>
+        <themekey><![CDATA[Elevation]]></themekey>
+        <themekey><![CDATA[Erosion]]></themekey>
+        <themekey><![CDATA[Geology]]></themekey>
+        <themekey><![CDATA[Geomorphology]]></themekey>
+        <themekey><![CDATA[Sea Level]]></themekey>
+        <themekey><![CDATA[Tide Range]]></themekey>
+        <themekey><![CDATA[Wave Height]]></themekey>
+        <themekey><![CDATA[NDP-043B]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145303</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164531 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Coast]]></Keywords>
+    <Keywords><![CDATA[Elevation]]></Keywords>
+    <Keywords><![CDATA[Erosion]]></Keywords>
+    <Keywords><![CDATA[Geology]]></Keywords>
+    <Keywords><![CDATA[Geomorphology]]></Keywords>
+    <Keywords><![CDATA[Sea Level]]></Keywords>
+    <Keywords><![CDATA[Tide Range]]></Keywords>
+    <Keywords><![CDATA[Wave Height]]></Keywords>
+    <Keywords><![CDATA[NDP-043B]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164531 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/ssr.ndp043b]]></Product_number>
+      <Product_title><![CDATA[Coastal Hazards Data Base for the U.S. Gulf Coast]]></Product_title>
+      <Author>
+        <Name><![CDATA[Gornitz, V. M.]]></Name>
+        <Company><![CDATA[National Aeronautics and Space Administration ]]></Company>
+        <Organization><![CDATA[Goddard Institute for Space Studies]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[White, T. W.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Coastal Sensitivity to Sea Level Rise]]></Thematic_area>
+      <Thematic_area><![CDATA[Other]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[U. S. Gulf Coast]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp043b.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcgrid.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcgrid.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcline.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcline.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcoast.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcoast.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcpoint.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcpoint.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcrisk.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcrisk.e00]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[comma]]></Variable>
+      <Variable><![CDATA[elavg]]></Variable>
+      <Variable><![CDATA[elmax]]></Variable>
+      <Variable><![CDATA[elmin]]></Variable>
+      <Variable><![CDATA[elnum]]></Variable>
+      <Variable><![CDATA[elr]]></Variable>
+      <Variable><![CDATA[eravg]]></Variable>
+      <Variable><![CDATA[ermax]]></Variable>
+      <Variable><![CDATA[ermin]]></Variable>
+      <Variable><![CDATA[ernum]]></Variable>
+      <Variable><![CDATA[err]]></Variable>
+      <Variable><![CDATA[gl]]></Variable>
+      <Variable><![CDATA[glr]]></Variable>
+      <Variable><![CDATA[gm]]></Variable>
+      <Variable><![CDATA[gmr]]></Variable>
+      <Variable><![CDATA[id]]></Variable>
+      <Variable><![CDATA[lsr]]></Variable>
+      <Variable><![CDATA[lsr ]]></Variable>
+      <Variable><![CDATA[name]]></Variable>
+      <Variable><![CDATA[num]]></Variable>
+      <Variable><![CDATA[slc]]></Variable>
+      <Variable><![CDATA[slg]]></Variable>
+      <Variable><![CDATA[sllat]]></Variable>
+      <Variable><![CDATA[sllong]]></Variable>
+      <Variable><![CDATA[slname]]></Variable>
+      <Variable><![CDATA[slr]]></Variable>
+      <Variable><![CDATA[sls]]></Variable>
+      <Variable><![CDATA[slyr]]></Variable>
+      <Variable><![CDATA[travg]]></Variable>
+      <Variable><![CDATA[trid]]></Variable>
+      <Variable><![CDATA[trlat]]></Variable>
+      <Variable><![CDATA[trlong]]></Variable>
+      <Variable><![CDATA[trlvl]]></Variable>
+      <Variable><![CDATA[trmax]]></Variable>
+      <Variable><![CDATA[trname]]></Variable>
+      <Variable><![CDATA[trnum]]></Variable>
+      <Variable><![CDATA[trr]]></Variable>
+      <Variable><![CDATA[whavg]]></Variable>
+      <Variable><![CDATA[whmax]]></Variable>
+      <Variable><![CDATA[whr]]></Variable>
+      <Variable><![CDATA[whsd]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp043b.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/ndp043.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcgrid.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcgrid.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcline.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcline.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcoast.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcoast.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcpoint.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcpoint.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcrisk.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/gcrisk.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19940601]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19940601]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp043b/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[14 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This document describes the contents of a digital data base that may be used to identify coastlines along the U.S. Gulf Coast at risk to sea-level rise. The data base integrates point, line, and polygon data for the U.S. Gulf Coast into 0.25 degree latitude by 0.25 degree longitude grid cells and into 1:2,000,000 digitized line segments that can be used by raster or vector geographic information systems (GIS) as well as by non-GIS data base systems. Each coastal grid cell and line segment contains data on elevations, geology, geomorphology, sea-level trends, shoreline displacement (erosion/accretion), tidal ranges, and wave heights.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Birdwell, K. R.]]></origin>
+        <origin><![CDATA[Daniels, R. C.]]></origin>
+        <title><![CDATA[Global Geographic Information System Data Base of Storm Occurrences and Other Climatic Phenomena Affecting Coastal Zones (1991)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global Geographic Information System Data Base of Storm Occurrences and Other Climatic Phenomena Affecting Coastal Zones (1991)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[1900000]]></begdate>
+          <enddate><![CDATA[1900000]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Cyclonicity]]></themekey>
+        <themekey><![CDATA[Extratropical Cyclogeneses]]></themekey>
+        <themekey><![CDATA[Hurricanes]]></themekey>
+        <themekey><![CDATA[Birdwell]]></themekey>
+        <themekey><![CDATA[Daniels]]></themekey>
+        <themekey><![CDATA[Influence of winds in monsoon regions]]></themekey>
+        <themekey><![CDATA[Polar lows]]></themekey>
+        <themekey><![CDATA[Sea-ice concentrations]]></themekey>
+        <themekey><![CDATA[Super typhoons]]></themekey>
+        <themekey><![CDATA[Tropical storms]]></themekey>
+        <themekey><![CDATA[Storm Occurrences]]></themekey>
+        <themekey><![CDATA[Storms]]></themekey>
+        <themekey><![CDATA[Tropical cyclones]]></themekey>
+        <themekey><![CDATA[Extratropical cyclones]]></themekey>
+        <themekey><![CDATA[Polar air cloud vortices (polar lows)]]></themekey>
+        <themekey><![CDATA[Winds in monsoon regions]]></themekey>
+        <themekey><![CDATA[Sea-ice concentrations]]></themekey>
+        <themekey><![CDATA[NDP-035]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 123849</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 142153 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Cyclonicity]]></Keywords>
+    <Keywords><![CDATA[Extratropical Cyclogeneses]]></Keywords>
+    <Keywords><![CDATA[Hurricanes]]></Keywords>
+    <Keywords><![CDATA[Birdwell]]></Keywords>
+    <Keywords><![CDATA[Daniels]]></Keywords>
+    <Keywords><![CDATA[Influence of winds in monsoon regions]]></Keywords>
+    <Keywords><![CDATA[Polar lows]]></Keywords>
+    <Keywords><![CDATA[Sea-ice concentrations]]></Keywords>
+    <Keywords><![CDATA[Super typhoons]]></Keywords>
+    <Keywords><![CDATA[Tropical storms]]></Keywords>
+    <Keywords><![CDATA[Storm Occurrences]]></Keywords>
+    <Keywords><![CDATA[Storms]]></Keywords>
+    <Keywords><![CDATA[Tropical cyclones]]></Keywords>
+    <Keywords><![CDATA[Extratropical cyclones]]></Keywords>
+    <Keywords><![CDATA[Polar air cloud vortices (polar lows)]]></Keywords>
+    <Keywords><![CDATA[Winds in monsoon regions]]></Keywords>
+    <Keywords><![CDATA[Sea-ice concentrations]]></Keywords>
+    <Keywords><![CDATA[NDP-035]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 142153 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp035]]></Product_number>
+      <Product_title><![CDATA[Global Geographic Information System Data Base of Storm Occurrences and Other Climatic Phenomena Affecting Coastal Zones (1991)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Birdwell, K. R.]]></Name>
+        <Company><![CDATA[Murray State University]]></Company>
+        <Organization><![CDATA[Miami University]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Daniels, R. C.]]></Name>
+        <Company><![CDATA[Department of Geoscience]]></Company>
+        <Organization><![CDATA[Department of Geography]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp035.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/hcstate.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/hcstate.bna]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/hcstate.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/lowpc.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/lowpc.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/monsoon.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/monsoon.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/polarlow.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/polarlow.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/seaice.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/seaice.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/tc10.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/tc10.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/tc50.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/tc50.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/xcnorth.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/xcnorth.e00]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[AREA]]></Variable>
+      <Variable><![CDATA[C1]]></Variable>
+      <Variable><![CDATA[C2]]></Variable>
+      <Variable><![CDATA[C3]]></Variable>
+      <Variable><![CDATA[C4]]></Variable>
+      <Variable><![CDATA[C5]]></Variable>
+      <Variable><![CDATA[CFAG]]></Variable>
+      <Variable><![CDATA[CFAN]]></Variable>
+      <Variable><![CDATA[CFAP]]></Variable>
+      <Variable><![CDATA[CFDC]]></Variable>
+      <Variable><![CDATA[CFFE]]></Variable>
+      <Variable><![CDATA[CFJA]]></Variable>
+      <Variable><![CDATA[CFJL]]></Variable>
+      <Variable><![CDATA[CFJN]]></Variable>
+      <Variable><![CDATA[CFMR]]></Variable>
+      <Variable><![CDATA[CFMY]]></Variable>
+      <Variable><![CDATA[CFNV]]></Variable>
+      <Variable><![CDATA[CFOB]]></Variable>
+      <Variable><![CDATA[CFSP]]></Variable>
+      <Variable><![CDATA[CGAG]]></Variable>
+      <Variable><![CDATA[CGAN]]></Variable>
+      <Variable><![CDATA[CGAP]]></Variable>
+      <Variable><![CDATA[CGDC]]></Variable>
+      <Variable><![CDATA[CGFE]]></Variable>
+      <Variable><![CDATA[CGJ]]></Variable>
+      <Variable><![CDATA[CGJA]]></Variable>
+      <Variable><![CDATA[CGJL]]></Variable>
+      <Variable><![CDATA[CGMR]]></Variable>
+      <Variable><![CDATA[CGMY]]></Variable>
+      <Variable><![CDATA[CGNV]]></Variable>
+      <Variable><![CDATA[CGOB]]></Variable>
+      <Variable><![CDATA[CGSP]]></Variable>
+      <Variable><![CDATA[COMMA]]></Variable>
+      <Variable><![CDATA[CYCJA]]></Variable>
+      <Variable><![CDATA[CYCJL]]></Variable>
+      <Variable><![CDATA[CYCLONE]]></Variable>
+      <Variable><![CDATA[HCSTATE]]></Variable>
+      <Variable><![CDATA[HCSTATEID]]></Variable>
+      <Variable><![CDATA[LOWA2AN]]></Variable>
+      <Variable><![CDATA[LOWA2JA]]></Variable>
+      <Variable><![CDATA[LOWA2JL]]></Variable>
+      <Variable><![CDATA[LOWAAN]]></Variable>
+      <Variable><![CDATA[LOWAJA]]></Variable>
+      <Variable><![CDATA[LOWAJL]]></Variable>
+      <Variable><![CDATA[LOWNAN]]></Variable>
+      <Variable><![CDATA[LOWNJA]]></Variable>
+      <Variable><![CDATA[LOWNJL]]></Variable>
+      <Variable><![CDATA[LOWS2AN]]></Variable>
+      <Variable><![CDATA[LOWS2JA]]></Variable>
+      <Variable><![CDATA[LOWS2JL]]></Variable>
+      <Variable><![CDATA[LOWSAN]]></Variable>
+      <Variable><![CDATA[LOWSJA]]></Variable>
+      <Variable><![CDATA[LOWSJL]]></Variable>
+      <Variable><![CDATA[LP]]></Variable>
+      <Variable><![CDATA[LPID]]></Variable>
+      <Variable><![CDATA[MON]]></Variable>
+      <Variable><![CDATA[MONID]]></Variable>
+      <Variable><![CDATA[MONSOON]]></Variable>
+      <Variable><![CDATA[PERIMETER]]></Variable>
+      <Variable><![CDATA[PL]]></Variable>
+      <Variable><![CDATA[PLID]]></Variable>
+      <Variable><![CDATA[POLARLOW]]></Variable>
+      <Variable><![CDATA[SEAICE]]></Variable>
+      <Variable><![CDATA[SI]]></Variable>
+      <Variable><![CDATA[SIID]]></Variable>
+      <Variable><![CDATA[SPIRAL]]></Variable>
+      <Variable><![CDATA[STY]]></Variable>
+      <Variable><![CDATA[TC10]]></Variable>
+      <Variable><![CDATA[TC10ID]]></Variable>
+      <Variable><![CDATA[TC50]]></Variable>
+      <Variable><![CDATA[TC50ID]]></Variable>
+      <Variable><![CDATA[TCV]]></Variable>
+      <Variable><![CDATA[TS]]></Variable>
+      <Variable><![CDATA[TY]]></Variable>
+      <Variable><![CDATA[XCNORTH]]></Variable>
+      <Variable><![CDATA[XCNORTHID]]></Variable>
+      <Variable><![CDATA[ZONE]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp035.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/ndp035.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/hcstate.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/hcstate.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/lowpc.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/lowpc.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/monsoon.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/monsoon.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/polarlow.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/polarlow.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/seaice.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/seaice.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/tc10.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/tc10.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/tc50.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/tc50.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/xcnorth.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/xcnorth.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp035/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[25.6MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This NDP is unique in that it represents CDIAC's first offering of ARC/INFO^TM export data files and equivalent flat ASCII data files that may be used by raster or vector geographic information systems (GISs). The data set contains 61 variables, including information on tropical storms, hurricanes, super typhoons, extratropical cyclogeneses, polar lows, cyclonicity, influence of winds in monsoon regions, and sea-ice concentrations. Increased availability of source data has made it possible to extend the area of these data variables to regional or global coverages. All data variables except five are referenced to 1 degree x 1 degree or 5 degrees x 5 degrees grid cells of latitude and longitude. These data help meet the demand for new and improved climatologies of storm events and may be used in climate research studies, including the verification of general circulation models and the calculation of storm-recurrence intervals.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

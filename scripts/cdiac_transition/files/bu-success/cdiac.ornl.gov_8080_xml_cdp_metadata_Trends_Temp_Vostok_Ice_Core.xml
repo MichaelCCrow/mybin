@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Petit, J. R.]]></origin>
+        <origin><![CDATA[Raynaud, D.]]></origin>
+        <origin><![CDATA[Lorius, C.]]></origin>
+        <origin><![CDATA[Delaygue, G.]]></origin>
+        <origin><![CDATA[Jouzel, J.]]></origin>
+        <origin><![CDATA[Barkov, N. I.]]></origin>
+        <origin><![CDATA[Kotlyakov, V. M.]]></origin>
+        <title><![CDATA[Historical Isotopic Temperature Record from the Vostok Ice Core]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/Temp/Vostok_Ice_Core.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/temp/vostok/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Historical Isotopic Temperature Record from the Vostok Ice Core]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[420000BP0101]]></begdate>
+          <enddate><![CDATA[2003present0]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[106.80]]></westbc>
+        <eastbc><![CDATA[106.80]]></eastbc>
+        <northbc><![CDATA[-78.467]]></northbc>
+        <southbc><![CDATA[-78.467 ]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Antarctic temperature]]></themekey>
+        <themekey><![CDATA[deuterium]]></themekey>
+        <themekey><![CDATA[ice core]]></themekey>
+        <themekey><![CDATA[TRENDS-TEMPERATURE]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 163928</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 101522 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Antarctic temperature]]></Keywords>
+    <Keywords><![CDATA[deuterium]]></Keywords>
+    <Keywords><![CDATA[ice core]]></Keywords>
+    <Keywords><![CDATA[TRENDS-TEMPERATURE]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+J.R. Petit, D. Raynaud, and C. Lorius
+Laboratoire de Glaciogie et G&amp;eacute;ophysique de l'Environnement, CNRS,
+J. Jouzel and G. Delaygue
+Laboratoire des Sciences du Climat et de l'Environnement (LSCE), CEA/CNRS,
+N.I. Barkov
+Arctic and Antarctic Research Institute, Beringa Street 38, 199397 St. Petersburg,
+Russia
+V.M. Kotlyakov
+CITE AS: Petit, J.R., D. Raynaud, C. Lorius, J. Jouzel, G. Delaygue, N.I. Barkov, and V.M. Kotlyakov. 2000. Historical isotopic temperature record from the Vostok ice core. In .Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. doi: 10.3334/CDIAC/cli.006
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 101522 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/Temp/Vostok_Ice_Core.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.006]]></Product_number>
+      <Product_title><![CDATA[Historical Isotopic Temperature Record from the Vostok Ice Core]]></Product_title>
+      <Author>
+        <Name><![CDATA[Petit, J. R.]]></Name>
+        <Company><![CDATA[Laboratoire de Glaciogie et Geophysique de l'Environnement, CNRS]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Raynaud, D.]]></Name>
+        <Company><![CDATA[Laboratoire de Glaciogie et Geophysique de l'Environnement, CNRS]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lorius, C.]]></Name>
+        <Company><![CDATA[Laboratoire de Glaciogie et Geophysique de l'Environnement, CNRS]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Delaygue, G.]]></Name>
+        <Company><![CDATA[Laboratoire des Sciences du Climat et de l'Environnement (LSCE), CEA/CNRS]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jouzel, J.]]></Name>
+        <Company><![CDATA[Laboratoire des Sciences du Climat et de l'Environnement (LSCE), CEA/CNRS]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Barkov, N. I.]]></Name>
+        <Company><![CDATA[Arctic and Antarctic Research Institute]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kotlyakov, V. M.]]></Name>
+        <Company><![CDATA[Institute of Geography]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Temperature - Global]]></Thematic_area>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Vostok, Antarctica ]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/temp/vostok/jouz_tem.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/temp/vostok/vostok.1999.temp.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/temp/vostok/graphics/tempplot5.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[deuterium content]]></Variable>
+      <Variable><![CDATA[age of the ice]]></Variable>
+      <Variable><![CDATA[depth]]></Variable>
+      <Variable><![CDATA[temperature variation]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/temp/vostok/jouz_tem.html&#239;&#187;&#191;
+J.R. Petit, D. Raynaud, and C. Lorius
+Laboratoire de Glaciogie et G&amp;eacute;ophysique de l'Environnement, CNRS,
+J. Jouzel and G. Delaygue
+Laboratoire des Sciences du Climat et de l'Environnement (LSCE), CEA/CNRS,
+N.I. Barkov
+Arctic and Antarctic Research Institute, Beringa Street 38, 199397 St. Petersburg,
+Russia
+V.M. Kotlyakov
+CITE AS: Petit, J.R., D. Raynaud, C. Lorius, J. Jouzel, G. Delaygue, N.I. Barkov, and V.M. Kotlyakov. 2000. Historical isotopic temperature record from the Vostok ice core. In .Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. doi: 10.3334/CDIAC/cli.006
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20000101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/temp/vostok/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[194KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ The strong correlation between atmospheric greenhouse-gas concentrations and Antarctic temperature, previously described by Barnola et al. (1987), is confirmed by the extension of the Vostok ice-core record (Petit et al. 1999). From the extended Vostok record, Petit et al. (1999) concluded that present-day atmospheric burdens of carbon dioxide and methane seem to have been unprecedented during the past 420,000 years. Temperature variations estimated from deuterium were similar for the last two glacial periods (Jouzel et al. 1996), and the detailed &#195;&#142;&#194;&#180;Dice record confirms the main features of the third and fourth climate cycles described by Petit et al. (1997). The records also indicate both similarities and differences between successive interglacial periods. Although the third and fourth climate cycles are of shorter duration than the first two cycles in the Vostok record, all four climate cycles show a similar sequence of a warm interglacial, followed by colder glacial events, and ending with a rapid return to an interglacial period. Minimum temperatures are within 1 degree C for the four climate cycles. The overall amplitude of the glacial-interglacial temperature change is ~8 degrees C for the temperature above the inversion level and ~12 degrees C for surface temperatures. Climate cycles deduced from the Vostok ice core appear to be more uniform than those in deep-sea core records (Petit et al. 1999).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Haszpra, L.  ]]></origin>
+        <title><![CDATA[Atmospheric CO2 record from in situ measurements at K-puszta, Hungary]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/CO2/Kpuszta.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/trends/co2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CO2 record from in situ measurements at K-puszta, Hungary]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19810601]]></begdate>
+          <enddate><![CDATA[19971231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[19.550]]></westbc>
+        <eastbc><![CDATA[19.550]]></eastbc>
+        <northbc><![CDATA[46.967]]></northbc>
+        <southbc><![CDATA[46.967]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2 Concentrations]]></themekey>
+        <themekey><![CDATA[Atmospheric CO2 Mixing Ratios]]></themekey>
+        <themekey><![CDATA[Infrared Gas Analyzer]]></themekey>
+        <themekey><![CDATA[in situ]]></themekey>
+        <themekey><![CDATA[Haszpra]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 161334</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 094810 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2 Concentrations]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO2 Mixing Ratios]]></Keywords>
+    <Keywords><![CDATA[Infrared Gas Analyzer]]></Keywords>
+    <Keywords><![CDATA[in situ]]></Keywords>
+    <Keywords><![CDATA[Haszpra]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+K-Puszta, Hungary
+L&amp;aacute;szl&amp;oacute; Haszpra
+,
+Institute for Atmospheric Physics,
+ Department for Analysis of Atmospheric Environment, H-1675,
+K-puszta, Hungary
+Forest clearing
+46&#176;58' N, 19&#176;33' E
+CITE AS: Haszpra, L. 1998. Atmospheric CO record from in situ measurements at K-puszta, Hungary. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 094810 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/CO2/Kpuszta.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.014]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CO2 record from in situ measurements at K-puszta, Hungary]]></Product_title>
+      <Author>
+        <Name><![CDATA[Haszpra, L.  ]]></Name>
+        <Company><![CDATA[Hungarian Meteorological Service]]></Company>
+        <Organization><![CDATA[Institute for Atmospheric Physics]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide ]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[K-puszta, Hungary]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/co2/kpuszta.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/co2/kpuszta.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/co2/graphics/kpuszta.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[ann]]></Variable>
+      <Variable><![CDATA[Apr]]></Variable>
+      <Variable><![CDATA[Aug]]></Variable>
+      <Variable><![CDATA[Dec]]></Variable>
+      <Variable><![CDATA[Feb]]></Variable>
+      <Variable><![CDATA[Jan]]></Variable>
+      <Variable><![CDATA[Jul]]></Variable>
+      <Variable><![CDATA[Jun]]></Variable>
+      <Variable><![CDATA[Mar]]></Variable>
+      <Variable><![CDATA[May]]></Variable>
+      <Variable><![CDATA[Nov]]></Variable>
+      <Variable><![CDATA[Oct]]></Variable>
+      <Variable><![CDATA[Sep]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/co2/kpuszta.html &#187;&#160;
+K-Puszta, Hungary
+L&amp;aacute;szl&amp;oacute; Haszpra
+,
+Institute for Atmospheric Physics,
+ Department for Analysis of Atmospheric Environment, H-1675,
+K-puszta, Hungary
+Forest clearing
+46&#176;58' N, 19&#176;33' E
+CITE AS: Haszpra, L. 1998. Atmospheric CO record from in situ measurements at K-puszta, Hungary. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980223]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980223]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/trends/co2/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Air samples are collected continuously through an air intake located 10 m above ground. The air samples and standard gases to be analyzed are saturated by water vapor at room temperature and cooled to 4 degrees C. This stabilizes the water content of the gas to be analyzed and makes it possible to compensate for the influence of the water content on the measurement. Determinations of CO2 are made through the use of a Siemens Ultramat 3 nondispersive infrared (NDIR) analyzer. The instrument is regularly calibrated against CO2-in-air standards obtained from NOAA CMDL Carbon Cycle Group.
+<br><br>
+The yearly mean atmospheric CO2 concentration at K-puszta, Hungary increased from 354.1 parts per million (ppm) in 1981 to 377.0 ppm in 1997. Because the K-puszta station is located in a clearing of a forested area on the Hungarian Great Plain, it is subject to significant biospheric effects. As a result, the record from K-puszta shows high seasonal and interannual variability. However, the trends and temporal features of the K-puszta record parallel those observed at other Northern Hemisphere baseline air pollution monitoring stations (Haszpra 1995).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

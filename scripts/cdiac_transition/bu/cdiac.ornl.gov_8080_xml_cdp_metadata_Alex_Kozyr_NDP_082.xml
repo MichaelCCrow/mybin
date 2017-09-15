@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Johnson, K. M.]]></origin>
+        <origin><![CDATA[Key, R. M.]]></origin>
+        <origin><![CDATA[Millero, F. J.]]></origin>
+        <origin><![CDATA[Sabine, C. L.]]></origin>
+        <origin><![CDATA[Wallace, D. W. R.]]></origin>
+        <origin><![CDATA[Winn, C. D.]]></origin>
+        <origin><![CDATA[Erickson, K.]]></origin>
+        <origin><![CDATA[Friis, K.]]></origin>
+        <origin><![CDATA[Galanter, M.]]></origin>
+        <origin><![CDATA[Goen, J.]]></origin>
+        <origin><![CDATA[Rotter, R.]]></origin>
+        <origin><![CDATA[Thomas, C.]]></origin>
+        <origin><![CDATA[Wilke, R. J.]]></origin>
+        <origin><![CDATA[Takahashi, T.]]></origin>
+        <origin><![CDATA[Sutherland, S.]]></origin>
+        <title><![CDATA[Carbon Dioxide, Hydrographic, and Chemical Data Obtained During the R/V Knorr Cruise in the North Atlantic Ocean on WOCE Sections AR24 (November 2-December 5, 1996) and A24, A20, and A22 (May 30-Sept.3, 1997)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_082.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Carbon Dioxide, Hydrographic, and Chemical Data Obtained During the R/V Knorr Cruise in the North Atlantic Ocean on WOCE Sections AR24 (November 2-December 5, 1996) and A24, A20, and A22 (May 30-Sept.3, 1997)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19961024]]></begdate>
+          <enddate><![CDATA[19970903]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[total carbon dioxide (TCO2) ]]></themekey>
+        <themekey><![CDATA[total alkalinity (TALK)]]></themekey>
+        <themekey><![CDATA[North Atlantic Ocean]]></themekey>
+        <themekey><![CDATA[World Ocean Circulation Experiment (WOCE)]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[partial pressure of CO2]]></themekey>
+        <themekey><![CDATA[coulometry ]]></themekey>
+        <themekey><![CDATA[gas chromatography]]></themekey>
+        <themekey><![CDATA[hydrographic measurements]]></themekey>
+        <themekey><![CDATA[carbon cycle]]></themekey>
+        <themekey><![CDATA[R/V Knorr Cruise 147-2]]></themekey>
+        <themekey><![CDATA[R/V Knorr Cruise 151-2 ]]></themekey>
+        <themekey><![CDATA[R/V Knorr Cruise 151-3]]></themekey>
+        <themekey><![CDATA[R/V Knorr Cruise 151-4]]></themekey>
+        <themekey><![CDATA[NDP-082]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 125417</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 151534 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[total carbon dioxide (TCO2) ]]></Keywords>
+    <Keywords><![CDATA[total alkalinity (TALK)]]></Keywords>
+    <Keywords><![CDATA[North Atlantic Ocean]]></Keywords>
+    <Keywords><![CDATA[World Ocean Circulation Experiment (WOCE)]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[partial pressure of CO2]]></Keywords>
+    <Keywords><![CDATA[coulometry ]]></Keywords>
+    <Keywords><![CDATA[gas chromatography]]></Keywords>
+    <Keywords><![CDATA[hydrographic measurements]]></Keywords>
+    <Keywords><![CDATA[carbon cycle]]></Keywords>
+    <Keywords><![CDATA[R/V Knorr Cruise 147-2]]></Keywords>
+    <Keywords><![CDATA[R/V Knorr Cruise 151-2 ]]></Keywords>
+    <Keywords><![CDATA[R/V Knorr Cruise 151-3]]></Keywords>
+    <Keywords><![CDATA[R/V Knorr Cruise 151-4]]></Keywords>
+    <Keywords><![CDATA[NDP-082]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 151534 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_082.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp082]]></Product_number>
+      <Product_title><![CDATA[Carbon Dioxide, Hydrographic, and Chemical Data Obtained During the R/V Knorr Cruise in the North Atlantic Ocean on WOCE Sections AR24 (November 2-December 5, 1996) and A24, A20, and A22 (May 30-Sept.3, 1997)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Johnson, K. M.]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization><![CDATA[Department of Applied Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Key, R. M.]]></Name>
+        <Company><![CDATA[Princeton University]]></Company>
+        <Organization><![CDATA[Department of Geosciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Millero, F. J.]]></Name>
+        <Company><![CDATA[University of Miami]]></Company>
+        <Organization><![CDATA[Rosenstiel School of Marine and Atmospheric Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sabine, C. L.]]></Name>
+        <Company><![CDATA[Pacific Marine Environmental Laboratory]]></Company>
+        <Organization><![CDATA[NOAA]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wallace, D. W. R.]]></Name>
+        <Company><![CDATA[Institute for Marine Sciences, Kiel, Germany]]></Company>
+        <Organization><![CDATA[Institute for Marine Sciences, Kiel, Germany]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Winn, C. D.]]></Name>
+        <Company><![CDATA[Hawaii Pacific University]]></Company>
+        <Organization><![CDATA[Hawaii Pacific University]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Erickson, K.]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization><![CDATA[Department of Applied Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Friis, K.]]></Name>
+        <Company><![CDATA[Institute for Marine Sciences, Kiel, Germany]]></Company>
+        <Organization><![CDATA[Institute for Marine Sciences, Kiel, Germany]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Galanter, M.]]></Name>
+        <Company><![CDATA[University of Miami]]></Company>
+        <Organization><![CDATA[Rosenstiel School of Marine and Atmospheric Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Goen, J.]]></Name>
+        <Company><![CDATA[University of Miami]]></Company>
+        <Organization><![CDATA[Rosenstiel School of Marine and Atmospheric Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rotter, R.]]></Name>
+        <Company><![CDATA[Princeton University]]></Company>
+        <Organization><![CDATA[Department of Geosciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Thomas, C.]]></Name>
+        <Company><![CDATA[Princeton University]]></Company>
+        <Organization><![CDATA[Department of Geosciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wilke, R. J.]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization><![CDATA[Department of Applied Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Takahashi, T.]]></Name>
+        <Company><![CDATA[Lamont-Doherty Earth Observatory]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory, Palisades, NY]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sutherland, S.]]></Name>
+        <Company><![CDATA[Lamont-Doherty Earth Observatory]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory, Palisades, NY]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/oceans/ndp_082/ndp082.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/a20.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/a20sta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/a22.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/a22sta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/a24.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/a24sta.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/ar24.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/ar24sta.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[pCO2]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/ndp_082/ndp082.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[NA_ODV_data.txt]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ndp082.txt]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ndp082pdf.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/a20_hy1.csv]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/a22_hy1.csv]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/a24_hy1.csv]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/ar24_hy1.csv]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20030901]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20030901]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp082/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[12.8 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This documentation describes the procedures and methods used to measure total carbon dioxide (TCO2) total alkalinity (TALK), and partial pressure of CO2 (pCO2) at hydrographic stations on the North Atlantic Ocean sections AR24, A24, A20, and A22 taken during the R/V Knorr Cruises 147-2, 151-2, 151-3, and 151-4 in 1996 and 1997. Conducted as part of the World Ocean Circulation Experiment (WOCE), the expeditions began at Woods Hole, Massachusetts, on October 24, 1996, and ended at Woods Hole on September 3, 1997. Instructions for accessing the data are provided.
+<br><br>
+ A total of 5,614 water samples were analyzed for discrete TCO2 using two single-operator multiparameter metabolic analyzers (SOMMAs) coupled to a coulometer for extracting and detecting CO2. The overall accuracy of the TCO2 determination was +/- 1.59 micro-mol/kg. The TALK was determined in a total of 6,088 discrete samples on all sections by potentiometric titration using an automated titration system developed at the University of Miami. The accuracy of the TALK determination was +/- 3 micro-mol/kg. A total of 2,465 discrete water samples were collected for determination of pCO2 in sea water on sections A24, A20, and A22. The pCO2 was measured by means of an equilibrator-IR system by scientists from Lamont-Doherty Earth Observatory. The precision of the measurements was estimated to be about +/- 0.15%, based on the reproducibility of the replicate equilibrations on a single hydrographic station. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

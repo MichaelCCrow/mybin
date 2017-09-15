@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Sterin, A. M.]]></origin>
+        <title><![CDATA[Tropospheric and Lower Stratospheric Temperature Anomalies Based on Global Radiosonde Network Data]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Temp/Sterin.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/trends/temp/sterin/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Tropospheric and Lower Stratospheric Temperature Anomalies Based on Global Radiosonde Network Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19580101]]></begdate>
+          <enddate><![CDATA[20001231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[TRENDS-TEMPERATURE]]></themekey>
+        <themekey><![CDATA[Tropospheric]]></themekey>
+        <themekey><![CDATA[Lower Stratospheric ]]></themekey>
+        <themekey><![CDATA[Temperature ]]></themekey>
+        <themekey><![CDATA[Anomalies ]]></themekey>
+        <themekey><![CDATA[Radiosonde]]></themekey>
+        <themekey><![CDATA[Climate]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090714 162157</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 101431 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[TRENDS-TEMPERATURE]]></Keywords>
+    <Keywords><![CDATA[Tropospheric]]></Keywords>
+    <Keywords><![CDATA[Lower Stratospheric ]]></Keywords>
+    <Keywords><![CDATA[Temperature ]]></Keywords>
+    <Keywords><![CDATA[Anomalies ]]></Keywords>
+    <Keywords><![CDATA[Radiosonde]]></Keywords>
+    <Keywords><![CDATA[Climate]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Alexander M. Sterin
+Russian Research Institute for Hydrometeorological Information-World Data Center (RIHMI-WDC),
+CITE AS: Sterin, A.M., 2007. Radiosonde Temperature Anomalies in the Troposphere and Lower Stratosphere for the Globe, Hemispheres, and Latitude Zones. In . Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, U.S.A. doi: 10.3334/CDIAC/cli.004
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 101431 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Temp/Sterin.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.004]]></Product_number>
+      <Product_title><![CDATA[Tropospheric and Lower Stratospheric Temperature Anomalies Based on Global Radiosonde Network Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[Sterin, A. M.]]></Name>
+        <Company><![CDATA[Russian Research Institute for Hydrometeorological Information-World Data Center (RIHMI-WDC]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Temperature - Global]]></Thematic_area>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/sterin/globe.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/sterin/graphics/globe.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tropics]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/sterin/tropics.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/sterin/graphics/tropics.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Northern Extratropics]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/sterin/nextro.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/sterin/graphics/nextro.jpg]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Southern Extratropics]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/temp/sterin/soxtro.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/temp/sterin/graphics/soxtro.jpg]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[zone]]></Variable>
+      <Variable><![CDATA[latitude belt]]></Variable>
+      <Variable><![CDATA[Linear trends (Deg. C/decade)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/temp/sterin/sterin.htmlAlexander M. Sterin
+Russian Research Institute for Hydrometeorological Information-World Data Center (RIHMI-WDC),
+CITE AS: Sterin, A.M., 2007. Radiosonde Temperature Anomalies in the Troposphere and Lower Stratosphere for the Globe, Hemispheres, and Latitude Zones. In . Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, U.S.A. doi: 10.3334/CDIAC/cli.004
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20010628]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20010628]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/trends/temp/sterin/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[21.2KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ The estimates of linear trends in these temperature anomaly time series indicates strong cooling in the lower stratosphere. This cooling occurs both in the full-length time series (beginning in 1958) and in shorter time series (beginning in 1979 for comparison with the MSU time series). According to estimates contained in Sterin (2000), the temperature trends in the lower stratosphere, which reflect this evident cooling are, for the Globe, -0.236 degrees C/decade for the series beginning in 1961 and ending in 1999, and about -0.458 degrees C/decade for the series beginning in 1979 and ending in 1999. For the troposphere, the trend estimates are positive for long series (those beginning in 1958 and 1961). This is in good agreement with the global warming found in other empirical data and global climate model output. For shorter series beginning in 1979, trend estimates are very sensitive to the exact choice of series ending year. The trend estimates for the troposphere based on radiosonde data are in concordance with those obtained from MSU observations.
+<br><br>
+According to estimates contained in Sterin (2000), the temperature trends in the troposphere for the Globe are +0.060 degrees C/decade for the series beginning in 1961 and ending in 1999 (+0.051 degrees C/decade for the series beginning in 1958 and ending in 1999), and are about +0.010 degrees C/decade for the series beginning in 1979 and ending in 1999. This slight warming trend is, to a large extent, a result of adding 1998 data, which reflect the very strong El Nino phenomenon of that year. However, for the tropospheric temperature trends over the globe estimated for the 1979-1997 series, a slight cooling (-0.03 degrees C/decade) is found. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

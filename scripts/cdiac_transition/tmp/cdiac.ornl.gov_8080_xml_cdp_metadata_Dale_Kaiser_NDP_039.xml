@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Shiyan, T.]]></origin>
+        <origin><![CDATA[Congbin, F.]]></origin>
+        <origin><![CDATA[Zhaomei, Z.]]></origin>
+        <origin><![CDATA[Qingyun, Z.]]></origin>
+        <title><![CDATA[Two Long-term Instrumental Climatic Data Bases of the People's Republic of China]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Two Long-term Instrumental Climatic Data Bases of the People's Republic of China]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18410101]]></begdate>
+          <enddate><![CDATA[190019610]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[75.980]]></westbc>
+        <eastbc><![CDATA[131.980]]></eastbc>
+        <northbc><![CDATA[53.470]]></northbc>
+        <southbc><![CDATA[19.230]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[China]]></themekey>
+        <themekey><![CDATA[People's Republic of China]]></themekey>
+        <themekey><![CDATA[Atmospheric Pressure]]></themekey>
+        <themekey><![CDATA[Cloud Amount]]></themekey>
+        <themekey><![CDATA[Dominant wind direction]]></themekey>
+        <themekey><![CDATA[Dominant wind frequency]]></themekey>
+        <themekey><![CDATA[Extreme temperature]]></themekey>
+        <themekey><![CDATA[Precipitation]]></themekey>
+        <themekey><![CDATA[Regional climate change]]></themekey>
+        <themekey><![CDATA[Relative humidity]]></themekey>
+        <themekey><![CDATA[Snow cover]]></themekey>
+        <themekey><![CDATA[Sunshine duration]]></themekey>
+        <themekey><![CDATA[Temperature]]></themekey>
+        <themekey><![CDATA[Wind speed]]></themekey>
+        <themekey><![CDATA[Chinese Academy of Sciences]]></themekey>
+        <themekey><![CDATA[NDP-039]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 123919</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 142547 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[China]]></Keywords>
+    <Keywords><![CDATA[People's Republic of China]]></Keywords>
+    <Keywords><![CDATA[Atmospheric Pressure]]></Keywords>
+    <Keywords><![CDATA[Cloud Amount]]></Keywords>
+    <Keywords><![CDATA[Dominant wind direction]]></Keywords>
+    <Keywords><![CDATA[Dominant wind frequency]]></Keywords>
+    <Keywords><![CDATA[Extreme temperature]]></Keywords>
+    <Keywords><![CDATA[Precipitation]]></Keywords>
+    <Keywords><![CDATA[Regional climate change]]></Keywords>
+    <Keywords><![CDATA[Relative humidity]]></Keywords>
+    <Keywords><![CDATA[Snow cover]]></Keywords>
+    <Keywords><![CDATA[Sunshine duration]]></Keywords>
+    <Keywords><![CDATA[Temperature]]></Keywords>
+    <Keywords><![CDATA[Wind speed]]></Keywords>
+    <Keywords><![CDATA[Chinese Academy of Sciences]]></Keywords>
+    <Keywords><![CDATA[NDP-039]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 142547 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp039]]></Product_number>
+      <Product_title><![CDATA[Two Long-term Instrumental Climatic Data Bases of the People's Republic of China]]></Product_title>
+      <Author>
+        <Name><![CDATA[Shiyan, T.]]></Name>
+        <Company><![CDATA[Institute of Atmospheric Physics]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Congbin, F.]]></Name>
+        <Company><![CDATA[Institute of Atmospheric Physics ]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Zhaomei, Z.]]></Name>
+        <Company><![CDATA[Institute of Atmospheric Physics ]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Qingyun, Z.]]></Name>
+        <Company><![CDATA[Institute of Atmospheric Physics ]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[People's Republic of China]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp039.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc50527.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc50557.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc50632.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc50745.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc50953.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc51431.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc51463.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc52203.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc52533.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc52652.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc52866.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc52889.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc53463.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc53614.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc53646.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc53772.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc54094.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc54161.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc54342.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc54511.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc54527.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc54602.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc54662.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc54765.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc54823.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc54857.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc55591.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc56033.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc56137.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc56146.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc56294.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc56374.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc56444.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc56571.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc56739.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc56778.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc57006.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc57036.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc57083.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc57127.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc57461.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc57494.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc57516.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc57679.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc57745.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc57816.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58027.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58144.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58238.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58367.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58424.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58457.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58606.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58633.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58659.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58847.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc58921.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc59046.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc59134.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc59265.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc59287.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc59316.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc59431.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc59658.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prc59758.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/prec205.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/sta65.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/temp205.dat.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[BEGYR]]></Variable>
+      <Variable><![CDATA[CLD]]></Variable>
+      <Variable><![CDATA[CLDF]]></Variable>
+      <Variable><![CDATA[DATA]]></Variable>
+      <Variable><![CDATA[DFLAG]]></Variable>
+      <Variable><![CDATA[ELEV]]></Variable>
+      <Variable><![CDATA[EXMN]]></Variable>
+      <Variable><![CDATA[EXMNF]]></Variable>
+      <Variable><![CDATA[EXMX]]></Variable>
+      <Variable><![CDATA[EXMXF]]></Variable>
+      <Variable><![CDATA[GAPS]]></Variable>
+      <Variable><![CDATA[LAT]]></Variable>
+      <Variable><![CDATA[LON]]></Variable>
+      <Variable><![CDATA[MEANMN]]></Variable>
+      <Variable><![CDATA[MEANMX]]></Variable>
+      <Variable><![CDATA[MEANT]]></Variable>
+      <Variable><![CDATA[MEANTF]]></Variable>
+      <Variable><![CDATA[MNF]]></Variable>
+      <Variable><![CDATA[MON]]></Variable>
+      <Variable><![CDATA[MXF]]></Variable>
+      <Variable><![CDATA[PBEGYR]]></Variable>
+      <Variable><![CDATA[PRECF]]></Variable>
+      <Variable><![CDATA[PRECIP]]></Variable>
+      <Variable><![CDATA[PRES]]></Variable>
+      <Variable><![CDATA[PRESF]]></Variable>
+      <Variable><![CDATA[RECF]]></Variable>
+      <Variable><![CDATA[RFLAG]]></Variable>
+      <Variable><![CDATA[RH]]></Variable>
+      <Variable><![CDATA[RHF]]></Variable>
+      <Variable><![CDATA[SEQNUM]]></Variable>
+      <Variable><![CDATA[SNOW]]></Variable>
+      <Variable><![CDATA[SNOWF]]></Variable>
+      <Variable><![CDATA[STANUM]]></Variable>
+      <Variable><![CDATA[STNAME]]></Variable>
+      <Variable><![CDATA[SUN]]></Variable>
+      <Variable><![CDATA[SUNF]]></Variable>
+      <Variable><![CDATA[TBEGYR]]></Variable>
+      <Variable><![CDATA[WDIR]]></Variable>
+      <Variable><![CDATA[WDIRF]]></Variable>
+      <Variable><![CDATA[WFREQ]]></Variable>
+      <Variable><![CDATA[WFREQF]]></Variable>
+      <Variable><![CDATA[WSPD]]></Variable>
+      <Variable><![CDATA[WSPDF]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp039.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/ndp039.doc]]></Data_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/ndp039.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/dat205.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/dat205.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/dat65.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/dat65.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/gaps65.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/gaps65.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/inv205.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/inv205.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/inv65.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/inv65.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19970109]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp039/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[8.69MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ Two long-term instrumental data bases containing meteorological observations from the People's Republic of China (PRC) are presented in this NDP. The first version of this database extended through 1988 and was made available in 1991 as CDIAC NDP-039. This update of the database includes data through 1993. These data sets were compiled in accordance with a joint research agreement signed by the U.S. Department of Energy and the PRC Chinese Academy of Sciences (CAS) on Aug. 19, 1987. CAS has provided records from 267 stations, partitioned into two networks of 65 and 205 stations, with three stations common to both data bases.
+<br><br>
+ The 65-station-network data contain monthly means, extremes, or totals of barometric pressure, air temperature, precipitation amount, relative humidity, sunshine duration, cloud amount, dominant wind direction and frequency, wind speed, and number of days with snow cover. Station histories are available from 59 of the 65 stations.
+<br><br>
+ The 205-station-network data contain monthly mean temperatures and monthly precipitation totals; however, station histories are not currently available. Sixteen stations from these data sets (13 from the 65-station, 3 from the 205-station) have temperature and/or precipitation records beginning before 1900, whereas the remaining stations began observing in the early to mid-1900s.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

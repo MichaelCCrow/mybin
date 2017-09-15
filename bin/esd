@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Simple script to make connecting to esddrupal faster.
+
+if [[ $# == 1 ]]; then
+    echo -e "\nlogging in as $@"
+    echo -e "ssh $@@esddrupal-prod\n"
+    ssh $@@esddrupal-prod
+else 
+    echo -e "\nlogging in as mcutomcat"
+    echo -e "ssh mcutomcat@esddrupal-prod\n"
+    ssh mcutomcat@esddrupal-prod
+fi
+

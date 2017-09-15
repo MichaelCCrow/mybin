@@ -1,0 +1,1374 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Sober, J.]]></origin>
+        <origin><![CDATA[Jones, W.S.]]></origin>
+        <origin><![CDATA[Karnosky, D.F.]]></origin>
+        <title><![CDATA[Aspen FACE CO2 Data]]></title>
+        <geoform></geoform>
+        <onlink></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Aspen FACE CO2 Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19980501]]></begdate>
+          <enddate><![CDATA[20041017]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[FACTS II]]></themekey>
+        <themekey><![CDATA[ASPEN FACE]]></themekey>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[vegetation response]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://public.ornl.gov/face/ASPEN/aspen_data_co2weather.shtml]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070801 102008</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070801 092619 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[FACTS II]]></Keywords>
+    <Keywords><![CDATA[ASPEN FACE]]></Keywords>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[vegetation response]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[FREE AIR CO2 ENRICHMENT (FACE) DATA REPORT:
+FACTS-II (RHINELANDER, WISCONSIN) (http://cdiac.ess-dive.lbl.gov/programs/FACE/facts-IIdata/factsIIdata.html)
+CO2 DATA
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+QUALITY-ASSURANCE CHECKS AND DATA-PROCESSING ACTIVITIES PERFORMED BY THE
+FACTS-II FACE PROJECT AND CDIAC
+-----------------------------------------------------------------------------
+
+All data were checked for appropriate format.
+
+For each variable, the range of values was checked for unrealistically
+large or small values.
+
+The CO2 values were checked for consecutively repeating identical values.
+
+The DOY (day of the year) values were verified from the specified combinations of MONTH and DAY.
+
+
+LIST OF FILES 
+-------------
+File name          File description
+
+co21998r1-2.csv    1998 co2 data from ring 1.2
+co21998r1-4.csv    1998 co2 data from ring 1.4
+co21998r2-2.csv    1998 co2 data from ring 2.2
+co21998r2-4.csv    1998 co2 data from ring 2.4
+co21998r3-2.csv    1998 co2 data from ring 3.2
+co21998r3-4.csv    1998 co2 data from ring 3.4
+co21999r1-2.csv    1999 co2 data from ring 1.2
+co21999r1-4.csv    1999 co2 data from ring 1.4
+co21999r2-2.csv    1999 co2 data from ring 2.2
+co21999r2-4.csv    1999 co2 data from ring 2.4
+co21999r3-2.csv    1999 co2 data from ring 3.2
+co21999r3-4.csv    1999 co2 data from ring 3.4
+co22000r1-2.csv    2000 co2 data from ring 1.2
+co22000r1-4.csv    2000 co2 data from ring 1.4
+co22000r2-2.csv    2000 co2 data from ring 2.2
+co22000r2-4.csv    2000 co2 data from ring 2.4
+co22000r3-2.csv    2000 co2 data from ring 3.2
+co22000r3-4.csv    2000 co2 data from ring 3.4
+co22001r1-2.csv    2001 co2 data from ring 1.2
+co22001r1-4.csv    2001 co2 data from ring 1.4
+co22001r2-2.csv    2001 co2 data from ring 2.2
+co22001r2-4.csv    2001 co2 data from ring 2.4
+co22001r3-2.csv    2001 co2 data from ring 3.2
+co22001r3-4.csv    2001 co2 data from ring 3.4
+co22002r1-2.csv    2002 co2 data from ring 1.2
+co22002r1-4.csv    2002 co2 data from ring 1.4
+co22002r2-2.csv    2002 co2 data from ring 2.2
+co22002r2-4.csv    2002 co2 data from ring 2.4
+co22002r3-2.csv    2002 co2 data from ring 3.2
+co22002r3-4.csv    2002 co2 data from ring 3.4
+co22004r1-2.csv    2004 co2 data from ring 1.2
+co22004r1-4.csv    2004 co2 data from ring 1.4
+co22004r2-2.csv    2004 co2 data from ring 2.2
+co22004r2-4.csv    2004 co2 data from ring 2.4
+co22004r3-2.csv    2004 co2 data from ring 3.2
+co22004r3-4.csv    2004 co2 data from ring 3.4
+
+
+
+DESCRIPTION and FORMAT OF THE ASCII DATA FILES
+----------------------------------------------
+The files described herein are all ascii comma-delimited (also known as comma-separated-variable) files,
+in which columns are of varying width and, consequently, lines are of varying length. Variables within
+a line are separated by commas. Commas do not appear in the files except as separators between variables.
+The first line in each data file is a header, providing the variable names.
+
+**********
+Contents and format of the files co2*.csv:
+
+Column  Variable  Units  Definition and comments
+
+1       YEAR      y      Year, in CCYY format
+
+2       RING             Experimental ring
+
+3       MONTH     m      Month of the year (1 = January, ..., 12 = December)
+
+4       DAY       d      Day of the month (1 through 31)
+
+5       HOUR      h      Hour (0 through 23)
+
+6       N                Number of observations (after excluding missing and
+                         outlying values) used to derive mean
+
+7       CO2       ppm    Arithmetic mean concentration of CO2
+
+8       DOY       d      Day of the year (1 = 1 January, ..., 365 or 366 = 31 December)
+
+
+The missing-value indicator in this file is -999.99 for the variable CO2.
+
+
+PARTIAL LISTINGS OF THE ASCII DATA FILES
+----------------------------------------
+Partial listing of the ASCII CO2 file, co21998r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,1.2,5,1,8,33,442.35,121
+1998,1.2,5,1,9,59,545.91,121
+
+Last two data records:
+
+1998,1.2,10,13,14,60,493.89,286
+1998,1.2,10,13,15,17,392.07,286
+
+
+Partial listing of the ASCII CO2 file, co21998r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,1.4,5,1,21,59,352.74,121
+1998,1.4,5,1,23,59,356.39,121
+
+Last two data records:
+
+1998,1.4,10,13,11,60,-999.99,286
+1998,1.4,10,13,14,60,-999.99,286
+
+
+Partial listing of the ASCII CO2 file, co21998r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,2.2,5,1,11,53,401.05,121
+1998,2.2,5,1,12,60,545.53,121
+
+Last two data records:
+
+1998,2.2,10,13,14,60,473.6,286
+1998,2.2,10,13,15,17,355.26,286
+
+
+Partial listing of the ASCII CO2 file, co21998r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,2.4,5,1,11,53,403.88,121
+1998,2.4,5,1,12,60,539.58,121
+
+Last two data records:
+
+1998,2.4,10,13,14,60,477.84,286
+1998,2.4,10,13,15,16,351.91,286
+
+
+Partial listing of the ASCII CO2 file, co21998r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,3.2,5,1,12,9,358.19,121
+1998,3.2,5,1,13,59,527.37,121
+
+Last two data records:
+
+1998,3.2,10,13,13,59,473.59,286
+1998,3.2,10,13,14,19,336.17,286
+
+
+Partial listing of the ASCII CO2 file, co21998r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,3.4,5,1,13,9,346.11,121
+1998,3.4,5,1,14,59,400.98,121
+
+Last two data records:
+
+1998,3.4,9,30,22,59,350.86,273
+1998,3.4,9,30,23,60,355.64,273
+
+
+Partial listing of the ASCII CO2 file, co21999r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,1.2,5,10,12,60,566.7,130
+1999,1.2,5,10,13,58,553.66,130
+
+Last two data records:
+
+1999,1.2,9,30,14,58,544.86,273
+1999,1.2,9,30,15,1,561.7,273
+
+
+Partial listing of the ASCII CO2 file, co21999r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,1.4,5,10,12,60,571.19,130
+1999,1.4,5,10,13,57,558,130
+
+Last two data records:
+
+1999,1.4,9,30,14,59,417.55,273
+1999,1.4,9,30,15,1,507.6,273
+
+
+Partial listing of the ASCII CO2 file, co21999r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,2.2,5,10,12,60,557.29,130
+1999,2.2,5,10,13,57,554.09,130
+
+Last two data records:
+
+1999,2.2,9,30,14,58,409.39,273
+1999,2.2,9,30,15,1,510,273
+
+
+Partial listing of the ASCII CO2 file, co21999r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,2.4,5,10,12,58,559.44,130
+1999,2.4,5,10,13,58,560.38,130
+
+Last two data records:
+
+1999,2.4,9,30,14,60,418.71,273
+1999,2.4,9,30,15,1,520.3,273
+
+
+Partial listing of the ASCII CO2 file, co21999r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,3.2,5,10,12,59,558.17,130
+1999,3.2,5,10,13,59,555.33,130
+
+Last two data records:
+
+1999,3.2,9,30,14,60,541.07,273
+1999,3.2,9,30,15,1,517.8,273
+
+
+Partial listing of the ASCII CO2 file, co21999r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,3.4,5,10,12,59,562.89,130
+1999,3.4,5,10,13,59,551.95,130
+
+Last two data records:
+
+1999,3.4,9,30,14,60,468.19,273
+1999,3.4,9,30,15,1,498.5,273
+
+
+Partial listing of the ASCII CO2 file, co22000r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,1.2,5,15,12,60,549.94,136
+2000,1.2,5,15,13,58,561.91,136
+
+Last two data records:
+
+2000,1.2,9,30,22,55,362.49,274
+2000,1.2,9,30,23,60,363.76,274
+
+
+Partial listing of the ASCII CO2 file, co22000r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,1.4,5,15,12,60,542.12,136
+2000,1.4,5,15,13,59,559.35,136
+
+Last two data records:
+
+2000,1.4,9,30,22,58,349.48,274
+2000,1.4,9,30,23,60,350.53,274
+
+
+Partial listing of the ASCII CO2 file, co22000r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,2.2,5,15,12,60,540.99,136
+2000,2.2,5,15,13,57,569.13,136
+
+Last two data records:
+
+2000,2.2,9,30,22,57,350.71,274
+2000,2.2,9,30,23,58,351.89,274
+
+
+Partial listing of the ASCII CO2 file, co22000r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,2.4,5,15,12,60,551.63,136
+2000,2.4,5,15,13,58,557.17,136
+
+Last two data records:
+
+2000,2.4,9,30,22,59,357.06,274
+2000,2.4,9,30,23,60,358.21,274
+
+
+Partial listing of the ASCII CO2 file, co22000r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,3.2,5,15,12,60,537.42,136
+2000,3.2,5,15,13,59,580.66,136
+
+Last two data records:
+
+2000,3.2,9,30,22,59,351.48,274
+2000,3.2,9,30,23,58,352.84,274
+
+
+Partial listing of the ASCII CO2 file, co22000r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,3.4,5,15,12,60,532.72,136
+2000,3.4,5,15,13,59,544.14,136
+
+Last two data records:
+
+2000,3.4,9,30,22,55,350.52,274
+2000,3.4,9,30,23,60,350.98,274
+
+
+Partial listing of the ASCII CO2 file, co22001r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,1.2,5,11,11,22,559.11,131
+2001,1.2,5,11,12,59,539.65,131
+
+Last two data records:
+
+2001,1.2,10,3,22,60,381.78,276
+2001,1.2,10,3,23,58,387.05,276
+
+
+Partial listing of the ASCII CO2 file, co22001r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,1.4,5,11,11,22,547.94,131
+2001,1.4,5,11,12,59,522.77,131
+
+Last two data records:
+
+2001,1.4,10,3,22,60,389.85,276
+2001,1.4,10,3,23,59,393.68,276
+
+
+Partial listing of the ASCII CO2 file, co22001r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,2.2,5,11,11,22,564,131
+2001,2.2,5,11,12,59,534.94,131
+
+Last two data records:
+
+2001,2.2,10,3,22,60,381.25,276
+2001,2.2,10,3,23,57,384.93,276
+
+
+Partial listing of the ASCII CO2 file, co22001r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,2.4,5,11,11,22,573.85,131
+2001,2.4,5,11,12,60,539.08,131
+
+Last two data records:
+
+2001,2.4,10,3,22,60,384.37,276
+2001,2.4,10,3,23,58,386.77,276
+
+
+Partial listing of the ASCII CO2 file, co22001r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,3.2,5,11,11,22,552.66,131
+2001,3.2,5,11,12,57,542.43,131
+
+Last two data records:
+
+2001,3.2,10,3,22,58,386.58,276
+2001,3.2,10,3,23,58,390.49,276
+
+
+Partial listing of the ASCII CO2 file, co22001r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,3.4,5,11,11,22,538.15,131
+2001,3.4,5,11,12,59,536.33,131
+
+Last two data records:
+
+2001,3.4,10,3,22,59,382.83,276
+2001,3.4,10,3,23,59,388.54,276
+
+
+Partial listing of the ASCII CO2 file, co22002r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,1.2,5,28,0,57,396.56,148
+2002,1.2,5,28,1,58,390.52,148
+
+Last two data records:
+
+2002,1.2,10,12,10,57,562.13,285
+2002,1.2,10,12,11,10,552.81,285
+
+
+Partial listing of the ASCII CO2 file, co22002r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,1.4,5,28,0,59,393.54,148
+2002,1.4,5,28,1,59,394.66,148
+
+Last two data records:
+
+2002,1.4,10,12,10,58,555.02,285
+2002,1.4,10,12,11,10,581.56,285
+
+
+Partial listing of the ASCII CO2 file, co22002r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,2.2,5,28,0,57,401.35,148
+2002,2.2,5,28,1,59,390.63,148
+
+Last two data records:
+
+2002,2.2,10,12,10,56,553.42,285
+2002,2.2,10,12,11,12,580.12,285
+
+
+Partial listing of the ASCII CO2 file, co22002r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,2.4,5,28,0,58,404.03,148
+2002,2.4,5,28,1,59,391.36,148
+
+Last two data records:
+
+2002,2.4,10,12,10,58,562.91,285
+2002,2.4,10,12,11,12,583.64,285
+
+
+Partial listing of the ASCII CO2 file, co22002r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,3.2,5,28,0,59,398.9,148
+2002,3.2,5,28,1,59,388.59,148
+
+Last two data records:
+
+2002,3.2,10,12,10,59,564.35,285
+2002,3.2,10,12,11,10,574.29,285
+
+
+Partial listing of the ASCII CO2 file, co22002r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,3.4,5,28,0,58,410.76,148
+2002,3.4,5,28,1,59,390.18,148
+
+Last two data records:
+
+2002,3.4,10,12,10,58,552.14,285
+2002,3.4,10,12,11,11,574.31,285
+
+
+Partial listing of the ASCII CO2 file, co22004r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,1.2,5,21,0,56,405.61,142
+2004,1.2,5,21,1,60,442.41,142
+
+Last two data records:
+
+2004,1.2,10,17,15,60,368.08,291
+2004,1.2,10,17,16,41,368.69,291
+
+
+Partial listing of the ASCII CO2 file, co22004r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,1.4,5,21,0,56,391.94,142
+2004,1.4,5,21,1,60,394.88,142
+
+Last two data records:
+
+2004,1.4,10,17,15,60,585.19,291
+2004,1.4,10,17,16,41,551.72,291
+
+
+Partial listing of the ASCII CO2 file, co22004r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,2.2,5,21,0,58,391.97,142
+2004,2.2,5,21,1,58,396.2,142
+
+Last two data records:
+
+2004,2.2,10,17,15,60,587.83,291
+2004,2.2,10,17,16,41,561.56,291
+
+
+Partial listing of the ASCII CO2 file, co22004r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,2.4,5,21,0,57,391.71,142
+2004,2.4,5,21,1,60,397.54,142
+
+Last two data records:
+
+2004,2.4,10,17,15,60,583.47,291
+2004,2.4,10,17,16,41,571.37,291
+
+
+Partial listing of the ASCII CO2 file, co22004r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,3.2,5,21,0,58,404.61,142
+2004,3.2,5,21,1,59,454.51,142
+
+Last two data records:
+
+2004,3.2,10,17,15,60,585.17,291
+2004,3.2,10,17,16,41,569.14,291
+
+
+Partial listing of the ASCII CO2 file, co22004r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,3.4,5,21,0,58,379.78,142
+2004,3.4,5,21,1,59,383.69,142
+
+Last two data records:
+
+2004,3.4,10,17,15,60,583.3,291
+2004,3.4,10,17,16,41,543.9,291
+
+
+**********
+]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070801 092619 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[ASPEN FACE CO2 DATA]]></Product_number>
+      <Product_title><![CDATA[Aspen FACE CO2 Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[Sober, J.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jones, W.S.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Karnosky, D.F.]]></Name>
+        <Company><![CDATA[Michigan Technological University]]></Company>
+        <Organization><![CDATA[FACTS-II ASPEN FACE]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[FACTS II - Aspen FACE ]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/face/ASPEN/aspen_home.shtml]]></Site_URL>
+        <Site_data_file><![CDATA[http://public.ornl.gov/face/ASPEN/aspen_data_co2weather.shtml]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://public.ornl.gov/face/ASPEN/aspen_data_co2weather.shtml]]></Data_site>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Variable><![CDATA[RING]]></Variable>
+      <Variable><![CDATA[MONTH]]></Variable>
+      <Variable><![CDATA[DAY]]></Variable>
+      <Variable><![CDATA[HOUR]]></Variable>
+      <Variable><![CDATA[N]]></Variable>
+      <Variable><![CDATA[CO2 (ppm)]]></Variable>
+      <Variable><![CDATA[DOY]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/facts-IIdata/co2.txtFREE AIR CO2 ENRICHMENT (FACE) DATA REPORT:
+FACTS-II (RHINELANDER, WISCONSIN) (http://cdiac.ess-dive.lbl.gov/programs/FACE/facts-IIdata/factsIIdata.html)
+CO2 DATA
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+QUALITY-ASSURANCE CHECKS AND DATA-PROCESSING ACTIVITIES PERFORMED BY THE
+FACTS-II FACE PROJECT AND CDIAC
+-----------------------------------------------------------------------------
+
+All data were checked for appropriate format.
+
+For each variable, the range of values was checked for unrealistically
+large or small values.
+
+The CO2 values were checked for consecutively repeating identical values.
+
+The DOY (day of the year) values were verified from the specified combinations of MONTH and DAY.
+
+
+LIST OF FILES 
+-------------
+File name          File description
+
+co21998r1-2.csv    1998 co2 data from ring 1.2
+co21998r1-4.csv    1998 co2 data from ring 1.4
+co21998r2-2.csv    1998 co2 data from ring 2.2
+co21998r2-4.csv    1998 co2 data from ring 2.4
+co21998r3-2.csv    1998 co2 data from ring 3.2
+co21998r3-4.csv    1998 co2 data from ring 3.4
+co21999r1-2.csv    1999 co2 data from ring 1.2
+co21999r1-4.csv    1999 co2 data from ring 1.4
+co21999r2-2.csv    1999 co2 data from ring 2.2
+co21999r2-4.csv    1999 co2 data from ring 2.4
+co21999r3-2.csv    1999 co2 data from ring 3.2
+co21999r3-4.csv    1999 co2 data from ring 3.4
+co22000r1-2.csv    2000 co2 data from ring 1.2
+co22000r1-4.csv    2000 co2 data from ring 1.4
+co22000r2-2.csv    2000 co2 data from ring 2.2
+co22000r2-4.csv    2000 co2 data from ring 2.4
+co22000r3-2.csv    2000 co2 data from ring 3.2
+co22000r3-4.csv    2000 co2 data from ring 3.4
+co22001r1-2.csv    2001 co2 data from ring 1.2
+co22001r1-4.csv    2001 co2 data from ring 1.4
+co22001r2-2.csv    2001 co2 data from ring 2.2
+co22001r2-4.csv    2001 co2 data from ring 2.4
+co22001r3-2.csv    2001 co2 data from ring 3.2
+co22001r3-4.csv    2001 co2 data from ring 3.4
+co22002r1-2.csv    2002 co2 data from ring 1.2
+co22002r1-4.csv    2002 co2 data from ring 1.4
+co22002r2-2.csv    2002 co2 data from ring 2.2
+co22002r2-4.csv    2002 co2 data from ring 2.4
+co22002r3-2.csv    2002 co2 data from ring 3.2
+co22002r3-4.csv    2002 co2 data from ring 3.4
+co22004r1-2.csv    2004 co2 data from ring 1.2
+co22004r1-4.csv    2004 co2 data from ring 1.4
+co22004r2-2.csv    2004 co2 data from ring 2.2
+co22004r2-4.csv    2004 co2 data from ring 2.4
+co22004r3-2.csv    2004 co2 data from ring 3.2
+co22004r3-4.csv    2004 co2 data from ring 3.4
+
+
+
+DESCRIPTION and FORMAT OF THE ASCII DATA FILES
+----------------------------------------------
+The files described herein are all ascii comma-delimited (also known as comma-separated-variable) files,
+in which columns are of varying width and, consequently, lines are of varying length. Variables within
+a line are separated by commas. Commas do not appear in the files except as separators between variables.
+The first line in each data file is a header, providing the variable names.
+
+**********
+Contents and format of the files co2*.csv:
+
+Column  Variable  Units  Definition and comments
+
+1       YEAR      y      Year, in CCYY format
+
+2       RING             Experimental ring
+
+3       MONTH     m      Month of the year (1 = January, ..., 12 = December)
+
+4       DAY       d      Day of the month (1 through 31)
+
+5       HOUR      h      Hour (0 through 23)
+
+6       N                Number of observations (after excluding missing and
+                         outlying values) used to derive mean
+
+7       CO2       ppm    Arithmetic mean concentration of CO2
+
+8       DOY       d      Day of the year (1 = 1 January, ..., 365 or 366 = 31 December)
+
+
+The missing-value indicator in this file is -999.99 for the variable CO2.
+
+
+PARTIAL LISTINGS OF THE ASCII DATA FILES
+----------------------------------------
+Partial listing of the ASCII CO2 file, co21998r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,1.2,5,1,8,33,442.35,121
+1998,1.2,5,1,9,59,545.91,121
+
+Last two data records:
+
+1998,1.2,10,13,14,60,493.89,286
+1998,1.2,10,13,15,17,392.07,286
+
+
+Partial listing of the ASCII CO2 file, co21998r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,1.4,5,1,21,59,352.74,121
+1998,1.4,5,1,23,59,356.39,121
+
+Last two data records:
+
+1998,1.4,10,13,11,60,-999.99,286
+1998,1.4,10,13,14,60,-999.99,286
+
+
+Partial listing of the ASCII CO2 file, co21998r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,2.2,5,1,11,53,401.05,121
+1998,2.2,5,1,12,60,545.53,121
+
+Last two data records:
+
+1998,2.2,10,13,14,60,473.6,286
+1998,2.2,10,13,15,17,355.26,286
+
+
+Partial listing of the ASCII CO2 file, co21998r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,2.4,5,1,11,53,403.88,121
+1998,2.4,5,1,12,60,539.58,121
+
+Last two data records:
+
+1998,2.4,10,13,14,60,477.84,286
+1998,2.4,10,13,15,16,351.91,286
+
+
+Partial listing of the ASCII CO2 file, co21998r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,3.2,5,1,12,9,358.19,121
+1998,3.2,5,1,13,59,527.37,121
+
+Last two data records:
+
+1998,3.2,10,13,13,59,473.59,286
+1998,3.2,10,13,14,19,336.17,286
+
+
+Partial listing of the ASCII CO2 file, co21998r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1998,3.4,5,1,13,9,346.11,121
+1998,3.4,5,1,14,59,400.98,121
+
+Last two data records:
+
+1998,3.4,9,30,22,59,350.86,273
+1998,3.4,9,30,23,60,355.64,273
+
+
+Partial listing of the ASCII CO2 file, co21999r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,1.2,5,10,12,60,566.7,130
+1999,1.2,5,10,13,58,553.66,130
+
+Last two data records:
+
+1999,1.2,9,30,14,58,544.86,273
+1999,1.2,9,30,15,1,561.7,273
+
+
+Partial listing of the ASCII CO2 file, co21999r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,1.4,5,10,12,60,571.19,130
+1999,1.4,5,10,13,57,558,130
+
+Last two data records:
+
+1999,1.4,9,30,14,59,417.55,273
+1999,1.4,9,30,15,1,507.6,273
+
+
+Partial listing of the ASCII CO2 file, co21999r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,2.2,5,10,12,60,557.29,130
+1999,2.2,5,10,13,57,554.09,130
+
+Last two data records:
+
+1999,2.2,9,30,14,58,409.39,273
+1999,2.2,9,30,15,1,510,273
+
+
+Partial listing of the ASCII CO2 file, co21999r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,2.4,5,10,12,58,559.44,130
+1999,2.4,5,10,13,58,560.38,130
+
+Last two data records:
+
+1999,2.4,9,30,14,60,418.71,273
+1999,2.4,9,30,15,1,520.3,273
+
+
+Partial listing of the ASCII CO2 file, co21999r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,3.2,5,10,12,59,558.17,130
+1999,3.2,5,10,13,59,555.33,130
+
+Last two data records:
+
+1999,3.2,9,30,14,60,541.07,273
+1999,3.2,9,30,15,1,517.8,273
+
+
+Partial listing of the ASCII CO2 file, co21999r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+1999,3.4,5,10,12,59,562.89,130
+1999,3.4,5,10,13,59,551.95,130
+
+Last two data records:
+
+1999,3.4,9,30,14,60,468.19,273
+1999,3.4,9,30,15,1,498.5,273
+
+
+Partial listing of the ASCII CO2 file, co22000r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,1.2,5,15,12,60,549.94,136
+2000,1.2,5,15,13,58,561.91,136
+
+Last two data records:
+
+2000,1.2,9,30,22,55,362.49,274
+2000,1.2,9,30,23,60,363.76,274
+
+
+Partial listing of the ASCII CO2 file, co22000r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,1.4,5,15,12,60,542.12,136
+2000,1.4,5,15,13,59,559.35,136
+
+Last two data records:
+
+2000,1.4,9,30,22,58,349.48,274
+2000,1.4,9,30,23,60,350.53,274
+
+
+Partial listing of the ASCII CO2 file, co22000r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,2.2,5,15,12,60,540.99,136
+2000,2.2,5,15,13,57,569.13,136
+
+Last two data records:
+
+2000,2.2,9,30,22,57,350.71,274
+2000,2.2,9,30,23,58,351.89,274
+
+
+Partial listing of the ASCII CO2 file, co22000r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,2.4,5,15,12,60,551.63,136
+2000,2.4,5,15,13,58,557.17,136
+
+Last two data records:
+
+2000,2.4,9,30,22,59,357.06,274
+2000,2.4,9,30,23,60,358.21,274
+
+
+Partial listing of the ASCII CO2 file, co22000r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,3.2,5,15,12,60,537.42,136
+2000,3.2,5,15,13,59,580.66,136
+
+Last two data records:
+
+2000,3.2,9,30,22,59,351.48,274
+2000,3.2,9,30,23,58,352.84,274
+
+
+Partial listing of the ASCII CO2 file, co22000r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2000,3.4,5,15,12,60,532.72,136
+2000,3.4,5,15,13,59,544.14,136
+
+Last two data records:
+
+2000,3.4,9,30,22,55,350.52,274
+2000,3.4,9,30,23,60,350.98,274
+
+
+Partial listing of the ASCII CO2 file, co22001r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,1.2,5,11,11,22,559.11,131
+2001,1.2,5,11,12,59,539.65,131
+
+Last two data records:
+
+2001,1.2,10,3,22,60,381.78,276
+2001,1.2,10,3,23,58,387.05,276
+
+
+Partial listing of the ASCII CO2 file, co22001r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,1.4,5,11,11,22,547.94,131
+2001,1.4,5,11,12,59,522.77,131
+
+Last two data records:
+
+2001,1.4,10,3,22,60,389.85,276
+2001,1.4,10,3,23,59,393.68,276
+
+
+Partial listing of the ASCII CO2 file, co22001r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,2.2,5,11,11,22,564,131
+2001,2.2,5,11,12,59,534.94,131
+
+Last two data records:
+
+2001,2.2,10,3,22,60,381.25,276
+2001,2.2,10,3,23,57,384.93,276
+
+
+Partial listing of the ASCII CO2 file, co22001r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,2.4,5,11,11,22,573.85,131
+2001,2.4,5,11,12,60,539.08,131
+
+Last two data records:
+
+2001,2.4,10,3,22,60,384.37,276
+2001,2.4,10,3,23,58,386.77,276
+
+
+Partial listing of the ASCII CO2 file, co22001r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,3.2,5,11,11,22,552.66,131
+2001,3.2,5,11,12,57,542.43,131
+
+Last two data records:
+
+2001,3.2,10,3,22,58,386.58,276
+2001,3.2,10,3,23,58,390.49,276
+
+
+Partial listing of the ASCII CO2 file, co22001r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2001,3.4,5,11,11,22,538.15,131
+2001,3.4,5,11,12,59,536.33,131
+
+Last two data records:
+
+2001,3.4,10,3,22,59,382.83,276
+2001,3.4,10,3,23,59,388.54,276
+
+
+Partial listing of the ASCII CO2 file, co22002r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,1.2,5,28,0,57,396.56,148
+2002,1.2,5,28,1,58,390.52,148
+
+Last two data records:
+
+2002,1.2,10,12,10,57,562.13,285
+2002,1.2,10,12,11,10,552.81,285
+
+
+Partial listing of the ASCII CO2 file, co22002r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,1.4,5,28,0,59,393.54,148
+2002,1.4,5,28,1,59,394.66,148
+
+Last two data records:
+
+2002,1.4,10,12,10,58,555.02,285
+2002,1.4,10,12,11,10,581.56,285
+
+
+Partial listing of the ASCII CO2 file, co22002r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,2.2,5,28,0,57,401.35,148
+2002,2.2,5,28,1,59,390.63,148
+
+Last two data records:
+
+2002,2.2,10,12,10,56,553.42,285
+2002,2.2,10,12,11,12,580.12,285
+
+
+Partial listing of the ASCII CO2 file, co22002r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,2.4,5,28,0,58,404.03,148
+2002,2.4,5,28,1,59,391.36,148
+
+Last two data records:
+
+2002,2.4,10,12,10,58,562.91,285
+2002,2.4,10,12,11,12,583.64,285
+
+
+Partial listing of the ASCII CO2 file, co22002r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,3.2,5,28,0,59,398.9,148
+2002,3.2,5,28,1,59,388.59,148
+
+Last two data records:
+
+2002,3.2,10,12,10,59,564.35,285
+2002,3.2,10,12,11,10,574.29,285
+
+
+Partial listing of the ASCII CO2 file, co22002r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2002,3.4,5,28,0,58,410.76,148
+2002,3.4,5,28,1,59,390.18,148
+
+Last two data records:
+
+2002,3.4,10,12,10,58,552.14,285
+2002,3.4,10,12,11,11,574.31,285
+
+
+Partial listing of the ASCII CO2 file, co22004r1-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,1.2,5,21,0,56,405.61,142
+2004,1.2,5,21,1,60,442.41,142
+
+Last two data records:
+
+2004,1.2,10,17,15,60,368.08,291
+2004,1.2,10,17,16,41,368.69,291
+
+
+Partial listing of the ASCII CO2 file, co22004r1-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,1.4,5,21,0,56,391.94,142
+2004,1.4,5,21,1,60,394.88,142
+
+Last two data records:
+
+2004,1.4,10,17,15,60,585.19,291
+2004,1.4,10,17,16,41,551.72,291
+
+
+Partial listing of the ASCII CO2 file, co22004r2-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,2.2,5,21,0,58,391.97,142
+2004,2.2,5,21,1,58,396.2,142
+
+Last two data records:
+
+2004,2.2,10,17,15,60,587.83,291
+2004,2.2,10,17,16,41,561.56,291
+
+
+Partial listing of the ASCII CO2 file, co22004r2-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,2.4,5,21,0,57,391.71,142
+2004,2.4,5,21,1,60,397.54,142
+
+Last two data records:
+
+2004,2.4,10,17,15,60,583.47,291
+2004,2.4,10,17,16,41,571.37,291
+
+
+Partial listing of the ASCII CO2 file, co22004r3-2.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,3.2,5,21,0,58,404.61,142
+2004,3.2,5,21,1,59,454.51,142
+
+Last two data records:
+
+2004,3.2,10,17,15,60,585.17,291
+2004,3.2,10,17,16,41,569.14,291
+
+
+Partial listing of the ASCII CO2 file, co22004r3-4.csv:
+
+Header line and first two data records:
+
+YEAR,RING,MONTH,DAY,HOUR,N,CO2,DOY
+2004,3.4,5,21,0,58,379.78,142
+2004,3.4,5,21,1,59,383.69,142
+
+Last two data records:
+
+2004,3.4,10,17,15,60,583.3,291
+2004,3.4,10,17,16,41,543.9,291
+
+
+**********
+]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070710]]></Most_recent_date_of_data_publication>
+      <Data_file_location></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[File names follow this format:  co21998r1-2.csv    1998 co2 data from ring 1.2]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Colombo, T.  ]]></origin>
+        <origin><![CDATA[Santaguida, R.]]></origin>
+        <title><![CDATA[Atmospheric CO2 record from in situ measurements at Mt. Cimone, Italy]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/CO2/mtcim.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CO2 record from in situ measurements at Mt. Cimone, Italy]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19790301]]></begdate>
+          <enddate><![CDATA[19971231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[10.700]]></westbc>
+        <eastbc><![CDATA[10.700]]></eastbc>
+        <northbc><![CDATA[44.183]]></northbc>
+        <southbc><![CDATA[44.183]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2 Concentrations]]></themekey>
+        <themekey><![CDATA[Atmospheric CO2 Mixing Ratios]]></themekey>
+        <themekey><![CDATA[Infrared Gas Analyzer]]></themekey>
+        <themekey><![CDATA[in situ]]></themekey>
+        <themekey><![CDATA[Colombo]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 161541</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 095120 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2 Concentrations]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO2 Mixing Ratios]]></Keywords>
+    <Keywords><![CDATA[Infrared Gas Analyzer]]></Keywords>
+    <Keywords><![CDATA[in situ]]></Keywords>
+    <Keywords><![CDATA[Colombo]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+Mt. Cimone
+Tiziano Colombo and Riccardo Santaguida
+Italian Meteorological Service,
+Via delle Ville, 100-41029
+Mt. Cimone, Italy
+Mountain top
+44&#176;11' N, 10&#176;42' E
+CITE AS: Colombo, T., and R. Santaguida. 1998. Atmospheric CO record from in situ measurements at Mt. Cimone. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 095120 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/CO2/mtcim.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.016]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CO2 record from in situ measurements at Mt. Cimone, Italy]]></Product_title>
+      <Author>
+        <Name><![CDATA[Colombo, T.  ]]></Name>
+        <Company><![CDATA[Italian Meteorological Service]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Santaguida, R.]]></Name>
+        <Company><![CDATA[Italian Meteorological Service]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases ]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Mt. Cimone, Italy]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/mtcim.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/mtcimone.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/mtcimone.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Annual Atmospheric CO2]]></Variable>
+      <Variable><![CDATA[Monthly CO2]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/mtcim.html &#187;&#160;
+Mt. Cimone
+Tiziano Colombo and Riccardo Santaguida
+Italian Meteorological Service,
+Via delle Ville, 100-41029
+Mt. Cimone, Italy
+Mountain top
+44&#176;11' N, 10&#176;42' E
+CITE AS: Colombo, T., and R. Santaguida. 1998. Atmospheric CO record from in situ measurements at Mt. Cimone. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980120]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980120]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Continuous atmospheric CO2 measurements have been carried out at Mt. Cimone since 1979. Since December 1988, air samples have also been collected approximately once per week in a pair of 2-L, electropolished, stainless steel cylindrical flasks. From 1979 until December 1988, a Hartmann and Braun URAS-2T NDIR gas analyzer was used for CO2 determinations. Currently, CO2 determinations are made through the use of a Siemens Ultramat-5E NDIR gas analyzer. Water vapor is eliminated by passing the air through a U-tube placed in an alcohol bath at -600 degrees C. Calibration of the Ultramat-5E is accomplished by using two CO2-in-air working standard gases. These working standard gas concentrations are checked 10 days apart against three CO2-in-air mixtures that serve as secondary standards. The secondary standards are checked every 6 months against five other CO2-in-air primary standards. Hourly CO2 values are routinely plotted together with wind data. Anomalous concentrations and those affected by instrument failures or local sources are rejected. Atmospheric CO2 concentrations from Mt. Cimone are reported in the 1993 WMO/Scripps mole fraction scale. For further details on the measurement apparatus and sampling techniques used at Mt. Cimone, see Cundari et al. (1990).
+<br><br>
+Mt. Cimone observatory, a station of the Italian Meteorological Service, has been participating in the WMO-BAPMoN program since 1978. The atmospheric CO2 record from Mt. Cimone represents the longest continuous record available for the Mediterranean area. From 1980 to 1997, the annual mean atmospheric CO2 concentration at Mt. Cimone rose from 336.79 parts per million by volume (ppmv) to 364.34 ppmv. The annual increase was ~1.5 ppmv per year. The seasonal oscillation for this same time period has a mean amplitude of 16 ppmv for raw data and 12 ppmv for selected data. This seasonal amplitude is attributable to photosynthetic depletion from vegetation below the timberline at Mt. Cimone and to the relationship between CO2 concentrations and wind direction. Ciattaglia et al. (1987) found a relationship between the behavior of selected CO2 data with prevailing winds [i.e., SW (180-290 degrees) and NE (0-90 degrees) winds] and episodes of Sahara dust transport: during winter, NE winds bring the high CO2 concentrations on measurement site, whereas SW winds are characterized by lower concentrations; during summer, the situation is reversed. During the cold season, Saharan transports are characterized by low CO2 and by small record variability, whereas, when these episodes occur during hot periods, CO2 concentrations show values above average. Bonasoni et al. (1996) showed the connection between Saharan dust transports and CO2 concentrations in the warm and cold seasons at Mt. Cimone.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

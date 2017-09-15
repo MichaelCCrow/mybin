@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Barnola, J. M.]]></origin>
+        <origin><![CDATA[Raynaud, D.]]></origin>
+        <origin><![CDATA[Lorius, C.]]></origin>
+        <origin><![CDATA[Barkov, N. I.]]></origin>
+        <title><![CDATA[Historical Atmospheric CO2 record derived from the Vostok ice core]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/vostok.icecore.co2]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Historical Atmospheric CO2 record derived from the Vostok ice core]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[414160BP]]></begdate>
+          <enddate><![CDATA[2,342BP]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[106.800]]></westbc>
+        <eastbc><![CDATA[106.800]]></eastbc>
+        <northbc><![CDATA[-78.467]]></northbc>
+        <southbc><![CDATA[-78.467]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[air temperature]]></themekey>
+        <themekey><![CDATA[atmospheric CO2 concentrations]]></themekey>
+        <themekey><![CDATA[ice core]]></themekey>
+        <themekey><![CDATA[Vostok]]></themekey>
+        <themekey><![CDATA[Atmospheric CO2 Mixing Ratio]]></themekey>
+        <themekey><![CDATA[Antarctica]]></themekey>
+        <themekey><![CDATA[Historical Atmospheric CO2 Concentrations]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email:  blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email:  blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 161834</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email:  blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 095519 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[air temperature]]></Keywords>
+    <Keywords><![CDATA[atmospheric CO2 concentrations]]></Keywords>
+    <Keywords><![CDATA[ice core]]></Keywords>
+    <Keywords><![CDATA[Vostok]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO2 Mixing Ratio]]></Keywords>
+    <Keywords><![CDATA[Antarctica]]></Keywords>
+    <Keywords><![CDATA[Historical Atmospheric CO2 Concentrations]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+Vostok Ice Core
+J.-M. Barnola, D. Raynaud, C. Lorius
+Laboratoire de Glaciologie et de G&amp;eacute;ophysique de l'Environnement,
+CNRS, BP96,
+N.I. Barkov
+Arctic and Antarctic Research Institute,
+Beringa Street 38, 199397,
+Vostok, Antarctica
+78&#176;28' S, 106&#176;48'E
+CITE AS: Barnola, J.-M., D. Raynaud, C. Lorius, and N.I. Barkov. 2003. Historical CO record from the Vostok ice core. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 095519 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.009]]></Product_number>
+      <Product_title><![CDATA[Historical Atmospheric CO2 record derived from the Vostok ice core]]></Product_title>
+      <Author>
+        <Name><![CDATA[Barnola, J. M.]]></Name>
+        <Company><![CDATA[Laboratoire de Glaciologie et de Geophysique de l'Environnement]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Raynaud, D.]]></Name>
+        <Company><![CDATA[Laboratoire de Glaciologie et de Geophysique de l'Environnement]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lorius, C.]]></Name>
+        <Company><![CDATA[Laboratoire de Glaciologie et de Geophysique de l'Environnement]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Barkov, N. I.]]></Name>
+        <Company><![CDATA[Arctic and Antarctic Research Institute]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide ]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Vostok, Antarctica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/vostok.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/vostok.icecore.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/vostok.co2.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[CO2 concentration]]></Variable>
+      <Variable><![CDATA[depth]]></Variable>
+      <Variable><![CDATA[mean age of the air]]></Variable>
+      <Variable><![CDATA[mean age of the ice]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/vostok.html &#187;&#160;
+Vostok Ice Core
+J.-M. Barnola, D. Raynaud, C. Lorius
+Laboratoire de Glaciologie et de G&amp;eacute;ophysique de l'Environnement,
+CNRS, BP96,
+N.I. Barkov
+Arctic and Antarctic Research Institute,
+Beringa Street 38, 199397,
+Vostok, Antarctica
+78&#176;28' S, 106&#176;48'E
+CITE AS: Barnola, J.-M., D. Raynaud, C. Lorius, and N.I. Barkov. 2003. Historical CO record from the Vostok ice core. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19990801]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/vostok.icecore.co2]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email:  blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[In January 1998, the collaborative ice-drilling project between Russia, the United States, and France at the Russian Vostok station in East Antarctica yielded the deepest ice core ever recovered, reaching a depth of 3,623 m (Petit et al. 1997, 1999). Ice cores are unique with their entrapped air inclusions enabling direct records of past changes in atmospheric trace-gas composition. Preliminary data indicate the Vostok ice-core record extends through four climate cycles, with ice slightly older than 400 kyr (Petit et al. 1997, 1999). Because air bubbles do not close at the surface of the ice sheet but only near the firn-ice transition (that is, at ~90 m below the surface at Vostok), the air extracted from the ice is younger than the surrounding ice (Barnola et al. 1991). Using semiempirical models of densification applied to past Vostok climate conditions, Barnola et al. (1991) reported that the age difference between air and ice may be ~6000 years during the coldest periods instead of ~4000 years, as previously assumed. Ice samples were cut with a bandsaw in a cold room (at about -15 degrees C) as close as possible to the center of the core in order to avoid surface contamination (Barnola et al. 1983). Gas extraction and measurements were performed with the Grenoble analytical setup, which involved crushing the ice sample (~40 g) under vacuum in a stainless steel container without melting it, expanding the gas released during the crushing in a pre-evacuated sampling loop, and analyzing the CO2 concentrations by gas chromatography (Barnola et al. 1983). The analytical system, except for the stainless steel container in which the ice was crushed, was calibrated for each ice sample measurement with a standard mixture of CO2 in nitrogen and oxygen. For further details on the experimental procedures and the dating of the successive ice layers at Vostok, see Barnola et al. (1987, 1991), Lorius et al. (1985), and Petit et al. (1999).
+<br><br>
+There is a close correlation between Antarctic temperature and atmospheric concentrations of CO2 (Barnola et al. 1987). The extension of the Vostok CO2 record shows that the main trends of CO2 are similar for each glacial cycle. Major transitions from the lowest to the highest values are associated with glacial-interglacial transitions. During these transitions, the atmospheric concentrations of CO2 rises from 180 to 280-300 ppmv (Petit et al. 1999). The extension of the Vostok CO2 record shows the present-day levels of CO2 are unprecedented during the past 420 kyr. Pre-industrial Holocene levels (~280 ppmv) are found during all interglacials, with the highest values (~300 ppmv) found approximately 323 kyr BP. When the Vostok ice core data were compared with other ice core data (Delmas et al. 1980; Neftel et al. 1982) for the past 30,000 - 40,000 years, good agreement was found between the records: all show low CO2 values [~200 parts per million by volume (ppmv)] during the Last Glacial Maximum and increased atmospheric CO2 concentrations associated with the glacial-Holocene transition. According to Barnola et al. (1991) and Petit et al. (1999) these measurements indicate that, at the beginning of the deglaciations, the CO2 increase either was in phase or lagged by less than ~1000 years with respect to the Antarctic temperature, whereas it clearly lagged behind the temperature at the onset of the glaciations.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

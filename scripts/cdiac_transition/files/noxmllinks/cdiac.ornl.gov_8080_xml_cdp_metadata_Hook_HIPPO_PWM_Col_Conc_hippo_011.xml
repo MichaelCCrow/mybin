@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Wofsy, S.C.]]></origin>
+        <origin><![CDATA[Daube, B.C.]]></origin>
+        <origin><![CDATA[Jimenez, R.]]></origin>
+        <origin><![CDATA[Kort, E.]]></origin>
+        <origin><![CDATA[Pittman, J.V.]]></origin>
+        <origin><![CDATA[Park, S.]]></origin>
+        <origin><![CDATA[Commane, R.]]></origin>
+        <origin><![CDATA[Xiang, B.]]></origin>
+        <origin><![CDATA[Santoni, G.]]></origin>
+        <origin><![CDATA[Jacob, D.]]></origin>
+        <origin><![CDATA[Fisher, J.]]></origin>
+        <origin><![CDATA[Pickett-Heaps, C.]]></origin>
+        <origin><![CDATA[Wang, H.]]></origin>
+        <origin><![CDATA[Wecht, K.]]></origin>
+        <origin><![CDATA[Wang, Q.-Q.]]></origin>
+        <origin><![CDATA[Stephens, B.B.]]></origin>
+        <origin><![CDATA[Shertz, S.]]></origin>
+        <origin><![CDATA[Watt, A.S.]]></origin>
+        <origin><![CDATA[Romashkin, P.]]></origin>
+        <origin><![CDATA[Campos, T.]]></origin>
+        <origin><![CDATA[Haggerty, J.]]></origin>
+        <origin><![CDATA[Cooper, W.A.]]></origin>
+        <origin><![CDATA[Rogers, D.]]></origin>
+        <origin><![CDATA[Beaton, S.]]></origin>
+        <origin><![CDATA[Hendershot, R.]]></origin>
+        <origin><![CDATA[Elkins, J.W.]]></origin>
+        <origin><![CDATA[Fahey, D.W.]]></origin>
+        <origin><![CDATA[Gao, R.S.]]></origin>
+        <origin><![CDATA[Moore, F.]]></origin>
+        <origin><![CDATA[Montzka, S.A.]]></origin>
+        <origin><![CDATA[Schwarz, J.P.]]></origin>
+        <origin><![CDATA[Perring, A.E.]]></origin>
+        <origin><![CDATA[Hurst, D.]]></origin>
+        <origin><![CDATA[Miller, B.R.]]></origin>
+        <origin><![CDATA[Sweeney, C.]]></origin>
+        <origin><![CDATA[Oltmans, S.]]></origin>
+        <origin><![CDATA[Nance, D.]]></origin>
+        <origin><![CDATA[Hintsa, E.]]></origin>
+        <origin><![CDATA[Dutton, G.]]></origin>
+        <origin><![CDATA[Watts, L.A.]]></origin>
+        <origin><![CDATA[Spackman, J.R.]]></origin>
+        <origin><![CDATA[Rosenlof, K.H.]]></origin>
+        <origin><![CDATA[Ray, E.A.]]></origin>
+        <origin><![CDATA[Hall, B.]]></origin>
+        <origin><![CDATA[Zondlo, M.A.]]></origin>
+        <origin><![CDATA[Diao, M.]]></origin>
+        <origin><![CDATA[Keeling, R.]]></origin>
+        <origin><![CDATA[Bent, J.]]></origin>
+        <origin><![CDATA[Atlas, E.L.]]></origin>
+        <origin><![CDATA[Lueb, R.]]></origin>
+        <origin><![CDATA[Mahoney, M.J.]]></origin>
+        <title><![CDATA[HIPPO Pressure-Weighted Mean Total, 10-km, 100-m Column Concentrations (R_20121129)]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://hippo.ornl.gov/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[HIPPO Pressure-Weighted Mean Total, 10-km, 100-m Column Concentrations (R_20121129)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20090108]]></begdate>
+          <enddate><![CDATA[20110908]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-84]]></westbc>
+        <eastbc><![CDATA[128.2]]></eastbc>
+        <northbc><![CDATA[87.04313]]></northbc>
+        <southbc><![CDATA[-67.15801]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[HIPPO]]></themekey>
+        <themekey><![CDATA[ORNL]]></themekey>
+        <themekey><![CDATA[climate change]]></themekey>
+        <themekey><![CDATA[Carbon Cycle]]></themekey>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[O2:N2 ratio]]></themekey>
+        <themekey><![CDATA[CH4]]></themekey>
+        <themekey><![CDATA[CO]]></themekey>
+        <themekey><![CDATA[N2O]]></themekey>
+        <themekey><![CDATA[13CO2:12CO2]]></themekey>
+        <themekey><![CDATA[H2]]></themekey>
+        <themekey><![CDATA[SF6]]></themekey>
+        <themekey><![CDATA[COS]]></themekey>
+        <themekey><![CDATA[CFCs]]></themekey>
+        <themekey><![CDATA[HFCs]]></themekey>
+        <themekey><![CDATA[HCFCs]]></themekey>
+        <themekey><![CDATA[atmospheric greenhouse gases]]></themekey>
+        <themekey><![CDATA[aircraft measurements]]></themekey>
+        <themekey><![CDATA[South Pole]]></themekey>
+        <themekey><![CDATA[Arctic]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[Wofsy, S. C., B. C. Daube, R. Jimenez, E. Kort, J. V. Pittman, S. Park, R. Commane, B. Xiang, G. Santoni, D. Jacob, J. Fisher, C. Pickett-Heaps, H. Wang, K. Wecht, Q.-Q. Wang, B. B. Stephens, S. Shertz, A.S. Watt, P. Romashkin, T. Campos, J. Haggerty, W. A. Cooper, D. Rogers, S. Beaton, R. Hendershot, J. W. Elkins, D. W. Fahey, R. S. Gao, F. Moore, S. A. Montzka, J. P. Schwarz, A. E. Perring, D. Hurst, B. R. Miller, C. Sweeney, S. Oltmans, D. Nance, E. Hintsa, G. Dutton, L. A. Watts, J. R. Spackman, K. H. Rosenlof, E. A. Ray, B. Hall, M. A. Zondlo, M. Diao, R. Keeling, J. Bent, E. L. Atlas, R. Lueb, M. J. Mahoney. 2012. HIPPO Pressure-Weighted Mean Total, 10-km, 100-m Column Concentrations (R_20121129). Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee, U.S.A. http://dx.doi.org/10.3334/CDIAC/hippo_011 (Release 20121129)]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20130206 144613</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Les Hookhookla@ornl.gov865-241-4846]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20130206 143043 by 160.91.29.159</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[HIPPO]]></Keywords>
+    <Keywords><![CDATA[ORNL]]></Keywords>
+    <Keywords><![CDATA[climate change]]></Keywords>
+    <Keywords><![CDATA[Carbon Cycle]]></Keywords>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[O2:N2 ratio]]></Keywords>
+    <Keywords><![CDATA[CH4]]></Keywords>
+    <Keywords><![CDATA[CO]]></Keywords>
+    <Keywords><![CDATA[N2O]]></Keywords>
+    <Keywords><![CDATA[13CO2:12CO2]]></Keywords>
+    <Keywords><![CDATA[H2]]></Keywords>
+    <Keywords><![CDATA[SF6]]></Keywords>
+    <Keywords><![CDATA[COS]]></Keywords>
+    <Keywords><![CDATA[CFCs]]></Keywords>
+    <Keywords><![CDATA[HFCs]]></Keywords>
+    <Keywords><![CDATA[HCFCs]]></Keywords>
+    <Keywords><![CDATA[atmospheric greenhouse gases]]></Keywords>
+    <Keywords><![CDATA[aircraft measurements]]></Keywords>
+    <Keywords><![CDATA[South Pole]]></Keywords>
+    <Keywords><![CDATA[Arctic]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20130206 143043 by 160.91.29.159</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[HIPPO-011]]></Product_number>
+      <Product_title><![CDATA[HIPPO Pressure-Weighted Mean Total, 10-km, 100-m Column Concentrations (R_20121129)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Wofsy, S.C.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Daube, B.C.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jimenez, R.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kort, E.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pittman, J.V.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Park, S.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Commane, R.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Xiang, B.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Santoni, G.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jacob, D.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Fisher, J.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pickett-Heaps, C.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wang, H.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wecht, K.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wang, Q.-Q.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Stephens, B.B.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Shertz, S.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Watt, A.S.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Romashkin, P.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Campos, T.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Haggerty, J.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Cooper, W.A.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rogers, D.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Beaton, S.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hendershot, R.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Elkins, J.W.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Fahey, D.W.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Gao, R.S.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Moore, F.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Montzka, S.A.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schwarz, J.P.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Perring, A.E.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hurst, D.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Miller, B.R.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sweeney, C.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Oltmans, S.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Nance, D.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hintsa, E.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Dutton, G.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Watts, L.A.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Spackman, J.R.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rosenlof, K.H.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ray, E.A.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hall, B.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Zondlo, M.A.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Diao, M.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Keeling, R.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bent, J.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Atlas, E.L.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lueb, R.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mahoney, M.J.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Climate Change]]></Thematic_area>
+      <Thematic_area><![CDATA[carbon dioxide]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[HIPPO Missions 1 - 5]]></Site_name>
+        <Site_URL><![CDATA[http://hippo.ornl.gov/]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[Wofsy, S. C., B. C. Daube, R. Jimenez, E. Kort, J. V. Pittman, S. Park, R. Commane, B. Xiang, G. Santoni, D. Jacob, J. Fisher, C. Pickett-Heaps, H. Wang, K. Wecht, Q.-Q. Wang, B. B. Stephens, S. Shertz, A.S. Watt, P. Romashkin, T. Campos, J. Haggerty, W. A. Cooper, D. Rogers, S. Beaton, R. Hendershot, J. W. Elkins, D. W. Fahey, R. S. Gao, F. Moore, S. A. Montzka, J. P. Schwarz, A. E. Perring, D. Hurst, B. R. Miller, C. Sweeney, S. Oltmans, D. Nance, E. Hintsa, G. Dutton, L. A. Watts, J. R. Spackman, K. H. Rosenlof, E. A. Ray, B. Hall, M. A. Zondlo, M. Diao, R. Keeling, J. Bent, E. L. Atlas, R. Lueb, M. J. Mahoney. 2012. HIPPO Pressure-Weighted Mean Total, 10-km, 100-m Column Concentrations (R_20121129). Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee, U.S.A. http://dx.doi.org/10.3334/CDIAC/hippo_011 (Release 20121129)]]></Data_site>
+      <Variable><![CDATA[See Data Dictionary]]></Variable>
+      <Descriptive_file><![CDATA[HIPPO PWM Column Conc User's Guide]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/HIPPO/HIPPO_all_docs/HIPPO_PWCM_users_guide_20121204.pdf]]></Descriptive_file>
+      <Descriptive_file><![CDATA[Data Dictionary]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/HIPPO/HIPPO_all_docs/HIPPO_data_dictionary.xls]]></Descriptive_file>
+      <Descriptive_file><![CDATA[Instrument Descriptions]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/HIPPO/HIPPO_all_docs/HIPPO_Instrument_Descriptions_20121116.doc]]></Descriptive_file>
+      <Descriptive_file><![CDATA[HIPPO 1 Data Quality Report]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20121129]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20121129]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://hippo.ornl.gov/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Les Hook]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[hookla@ornl.gov]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[865-241-4846]]></CDIAC_contact>
+      <Notes><![CDATA[The pressure-weighted mean column concentrations of parameters reported in this data set are estimates of the quantities that would be observed from a total column instrument at the top of each profile, i.e., from an airplane looking down or from a satellite (but without the upper atmosphere contribution). Measurements were taken from the dedicated HIPPO Gulfstream V (GV) research aircraft. These are the mean concentrations for each defined profile. There were 787 profiles flown during all 5 Missions. There are five space-delimited format ASCII files included with this data set. They have been compressed into one *.zip file for convenient download.
+
+Values from the 10-second merge data set have been aggregated as pressure-weighted mean concentrations for the defined vertical column intervals. The variable &#226;&#239;&#191;&#189;&#156;n.prof&#226;&#239;&#191;&#189;&#157; in the data file identifies values used in the calculations. HIPPO flew 787 atmospheric column profiles of varying minimum and maximum altitudes -- most profiles reached 8 or 9 km but 1 profile at the start and 1 profile at the end of each flight went as high as 12 to 15 km.
+
+The total column concentrations include data to the top of every profile. The 10-km concentrations are limited to data below 10 km. (Most profiles reach only 8 or 9 km and thus their 10 km values will be the same as their total column values.) The 100-m interval concentrations for profiles cover a range of altitude interval mid-points from 50 - 14,950 m.
+
+These mean concentrations are derived from results reported in the Merged 10-second data product (cite). Included with each observation are averaged NSF/NCAR G-V aircraft altitude, latitude, and longitude position measurements
+Only observations meeting profile flight criteria were used in these calculations. Level flight periods were excluded. Values from the 10-second merge data set have been aggregated as pressure-weighted mean concentrations for the defined vertical column intervals.
+
+Pressure-weighted mean concentrations were calculated over the specified altitude interval, where PWMC=sum(parameter*PSXC)/sum(PSXC). PSXC is the reference static pressure from the GV Paroscientific Model 1000 sensor. Intervals with no measurements are &#226;&#239;&#191;&#189;&#156;NA&#226;&#239;&#191;&#189;&#157;.
+
+Wofsy, S. C., B. C. Daube, R. Jimenez, E. Kort, J. V. Pittman, S. Park, R. Commane, B. Xiang, G. Santoni, D. Jacob, J. Fisher, C. Pickett-Heaps, H. Wang, K. Wecht, Q.-Q. Wang, B. B. Stephens, S. Shertz, A.S. Watt, P. Romashkin, T. Campos, J. Haggerty, W. A. Cooper, D. Rogers, S. Beaton, R. Hendershot, J. W. Elkins, D. W. Fahey, R. S. Gao, F. Moore, S. A. Montzka, J. P. Schwarz, A. E. Perring, D. Hurst, B. R. Miller, C. Sweeney, S. Oltmans, D. Nance, E. Hintsa, G. Dutton, L. A. Watts, J. R. Spackman, K. H. Rosenlof, E. A. Ray, B. Hall, M. A. Zondlo, M. Diao, R. Keeling, J. Bent, E. L. Atlas, R. Lueb, M. J. Mahoney. 2012. HIPPO Pressure-Weighted Mean Total, 10-km, 100-m Column Concentrations (R_20121129). Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee, U.S.A. http://dx.doi.org/10.3334/CDIAC/hippo_011 (Release 20121129)]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

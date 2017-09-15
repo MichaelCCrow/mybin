@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Kittel, T. G. F.]]></origin>
+        <origin><![CDATA[Rosenbloom, N. A.]]></origin>
+        <origin><![CDATA[Painter, T. H.]]></origin>
+        <origin><![CDATA[Schimel, D. S.]]></origin>
+        <origin><![CDATA[Fisher, H. H.]]></origin>
+        <origin><![CDATA[Grimsdell, A.]]></origin>
+        <origin><![CDATA[Daly, C.]]></origin>
+        <title><![CDATA[VEMAP - Phase I Database:  An Integrated INPUT Dataset for ECOSYSTEM and Vegetation Modeling for the Conterminous United States]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/VEMAP_Phase_I_Database.xml]]></onlink>
+        <onlink><![CDATA[/hoss/data2/tab/VEMAP_Phase1/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[VEMAP - Phase I Database:  An Integrated INPUT Dataset for ECOSYSTEM and Vegetation Modeling for the Conterminous United States]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18950101]]></begdate>
+          <enddate><![CDATA[19931231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[VEMAP]]></themekey>
+        <themekey><![CDATA[Vegetation/Ecosystem Modeling and Analysis Project]]></themekey>
+        <themekey><![CDATA[Phase I Database]]></themekey>
+        <themekey><![CDATA[Vegetation Ecosystem Modeling]]></themekey>
+        <themekey><![CDATA[Monthly]]></themekey>
+        <themekey><![CDATA[Daily]]></themekey>
+        <themekey><![CDATA[Temperature]]></themekey>
+        <themekey><![CDATA[Solar Radiation]]></themekey>
+        <themekey><![CDATA[Model Intercomparison]]></themekey>
+        <themekey><![CDATA[Conterminous United States]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden, email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden, email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 122108</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden, email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050810 083255 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[VEMAP]]></Keywords>
+    <Keywords><![CDATA[Vegetation/Ecosystem Modeling and Analysis Project]]></Keywords>
+    <Keywords><![CDATA[Phase I Database]]></Keywords>
+    <Keywords><![CDATA[Vegetation Ecosystem Modeling]]></Keywords>
+    <Keywords><![CDATA[Monthly]]></Keywords>
+    <Keywords><![CDATA[Daily]]></Keywords>
+    <Keywords><![CDATA[Temperature]]></Keywords>
+    <Keywords><![CDATA[Solar Radiation]]></Keywords>
+    <Keywords><![CDATA[Model Intercomparison]]></Keywords>
+    <Keywords><![CDATA[Conterminous United States]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ Climate 
+ &amp; Scenario Time Series for the U.S. National Assessment
+ VEMAP 
+ Users GuideHistorical 
+ &amp; Scenario Climate AnimationVEMAP 
+ Mailing List]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050810 083255 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/VEMAP_Phase_I_Database.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[VEMAP]]></Product_number>
+      <Product_title><![CDATA[VEMAP - Phase I Database:  An Integrated INPUT Dataset for ECOSYSTEM and Vegetation Modeling for the Conterminous United States]]></Product_title>
+      <Author>
+        <Name><![CDATA[Kittel, T. G. F.]]></Name>
+        <Company><![CDATA[National Center for Atmospheric Research]]></Company>
+        <Organization><![CDATA[Climate and Global Dynamics Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rosenbloom, N. A.]]></Name>
+        <Company><![CDATA[National Center for Atmospheric Research]]></Company>
+        <Organization><![CDATA[Climate and Global Dynamics Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Painter, T. H.]]></Name>
+        <Company><![CDATA[National Center for Atmospheric Research]]></Company>
+        <Organization><![CDATA[Climate and Global Dynamics Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schimel, D. S.]]></Name>
+        <Company><![CDATA[National Center for Atmospheric Research]]></Company>
+        <Organization><![CDATA[Climate and Global Dynamics Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Fisher, H. H.]]></Name>
+        <Company><![CDATA[National Center for Atmospheric Research]]></Company>
+        <Organization><![CDATA[Climate and Global Dynamics Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Grimsdell, A.]]></Name>
+        <Company><![CDATA[National Center for Atmospheric Research]]></Company>
+        <Organization><![CDATA[Climate and Global Dynamics Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Daly, C.]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization><![CDATA[Department of Botany and Plant Pathology]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Ecosystem]]></Thematic_area>
+      <Thematic_area><![CDATA[Vegetation Modeling]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[United States]]></Site_name>
+        <Site_URL><![CDATA[http://www.cgd.ucar.edu/vemap/]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/DAILY]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/DOCS]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/GEOG]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/IMAGES]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/MONTHLY]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/Progras]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/README.VEM]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/SCENARIO]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/SITEFILE]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/SOIL]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/VEMAPDOC.PS]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/VEMAP_Phase1/VEMAPDOC.TXT]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Precipication(mm)]]></Variable>
+      <Variable><![CDATA[Maximum temperature (C)]]></Variable>
+      <Variable><![CDATA[Minimum temperature (C)]]></Variable>
+      <Variable><![CDATA[Mean relative humidity (%)]]></Variable>
+      <Variable><![CDATA[Vapor Pressure (mb)]]></Variable>
+      <Variable><![CDATA[Total incident Solar Radiation (kJ/m2)]]></Variable>
+      <Variable><![CDATA[fraction of potential total solar radiation at top of atmosphere (0-1)]]></Variable>
+      <Variable><![CDATA[fraction of potential total incident solar radiation at surface (0-1)]]></Variable>
+      <Variable><![CDATA[mean irradiance (W/m2)]]></Variable>
+      <Variable><![CDATA[potential total solar radiation at surface (kJ/m2)]]></Variable>
+      <Variable><![CDATA[fraction of potential total incident solar radiation (kJ/m2)]]></Variable>
+      <Variable><![CDATA[Grid cell]]></Variable>
+      <Variable><![CDATA[elevation]]></Variable>
+      <Variable><![CDATA[Vegetation Code]]></Variable>
+      <Variable><![CDATA[State ID]]></Variable>
+      <Variable><![CDATA[12 Month Values]]></Variable>
+      <Variable><![CDATA[Latitude]]></Variable>
+      <Variable><![CDATA[Longitude]]></Variable>
+      <Variable><![CDATA[Mean Temperature]]></Variable>
+      <Variable><![CDATA[Surface Wind Speed (m/s)]]></Variable>
+      <Variable><![CDATA[Surface Air Temperature (C)]]></Variable>
+      <Variable><![CDATA[Area (km**2)]]></Variable>
+      <Variable><![CDATA[Mode Area (%)]]></Variable>
+      <Variable><![CDATA[Bulk Density (g/cm**3)]]></Variable>
+      <Variable><![CDATA[Clay (% by weight)]]></Variable>
+      <Variable><![CDATA[Rock Fragments (% by volume)]]></Variable>
+      <Variable><![CDATA[Sand (% by weight)]]></Variable>
+      <Variable><![CDATA[Silt (% by weight)]]></Variable>
+      <Variable><![CDATA[Soil organic Carbon (0-100 cm) (Mega-grams of Carbon/hectare)]]></Variable>
+      <Variable><![CDATA[Soil organic Carbon (0-20 cm) (Mega-grams of Carbon/hectare)]]></Variable>
+      <Variable><![CDATA[Water holding capacity (cm H2O)]]></Variable>
+      <Variable><![CDATA[Depth (cm)]]></Variable>
+      <Descriptive_file><![CDATA[http://www.cgd.ucar.edu/vemap/ Climate 
+ &amp; Scenario Time Series for the U.S. National Assessment
+ VEMAP 
+ Users GuideHistorical 
+ &amp; Scenario Climate AnimationVEMAP 
+ Mailing List]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19950101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19951231]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/hoss/data2/tab/VEMAP_Phase1/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden, email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ The Vegetation/Ecosystem Modeling and Analysis Project (VEMAP) is an ongoing multi-institutional, international effort addressing the response of biogeography and biogeochemistry models to environmental variability in climate and other drivers in both space and time domains.  The VEMAP input database for the Phase I model intercomparison includes compiled and model-generated datasets of long-term mean climate, soils, vegetation, and climate change scenarios for the conterminous United States.  The data are on a 0.5 degree latitude/longitude grid.  The data files include a VEMAP User's Guide, selected data and model output images, and README files under each data subdirectory to explain individual files.  Updates and additional information on VEMAP can be found at http://www.cgd.ucar.edu/vemap.  
+<br><br>
+ Development of the VEMAP database was supported by NASA, Electronic Power Research Institute (EPRI), USDA Forest Service, and NSF through the University Corporation for Atmospheric Research's Climate System Modeling Program.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

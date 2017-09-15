@@ -1,0 +1,25 @@
+#!/bin/bash
+
+if [[ $# < 1 ]]; then
+	echo -e "\n########################################"
+	echo -e "Provide arguments surrounded by quotes. \nArguments should be descriptive instructions\nfor each argument."
+	echo -e "########################################\n"
+else
+
+newinst=""
+
+inputs=("${@:1}")
+for k in "${!inputs[@]}"; do
+    newinst=$newinst"## $((k+1))) ${inputs[$k]} \n"
+done
+
+newinst=$newinst"##                     "
+
+echo -e "\n\
+#########################
+##                     
+## Instructions:       
+$newinst
+#########################\n"
+
+fi

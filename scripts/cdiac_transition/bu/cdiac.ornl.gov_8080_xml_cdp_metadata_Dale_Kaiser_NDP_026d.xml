@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Hahn, C. J.]]></origin>
+        <origin><![CDATA[Warren, S. G.]]></origin>
+        <origin><![CDATA[Eastman, R.]]></origin>
+        <title><![CDATA[Cloud Climatology for Land Stations Worldwide, 1971-2009 (NDP-026D)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_026d.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026d/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Cloud Climatology for Land Stations Worldwide, 1971-2009 (NDP-026D)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19710101]]></begdate>
+          <enddate><![CDATA[20091231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[0.000]]></westbc>
+        <eastbc><![CDATA[-5.000]]></eastbc>
+        <northbc><![CDATA[87.500]]></northbc>
+        <southbc><![CDATA[-65.000]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Cloud Type Amounts]]></themekey>
+        <themekey><![CDATA[Cloud Type Co-occurrences]]></themekey>
+        <themekey><![CDATA[Cloud Type Frequencies]]></themekey>
+        <themekey><![CDATA[Harmonic Analyses of Annual and Diurnal Cycles]]></themekey>
+        <themekey><![CDATA[Interannual Cloud Variations and Trends]]></themekey>
+        <themekey><![CDATA[Low Cloud Base Heights]]></themekey>
+        <themekey><![CDATA[Total Cloud Cover]]></themekey>
+        <themekey><![CDATA[NDP-026D]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120924 165142</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 163604 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Cloud Type Amounts]]></Keywords>
+    <Keywords><![CDATA[Cloud Type Co-occurrences]]></Keywords>
+    <Keywords><![CDATA[Cloud Type Frequencies]]></Keywords>
+    <Keywords><![CDATA[Harmonic Analyses of Annual and Diurnal Cycles]]></Keywords>
+    <Keywords><![CDATA[Interannual Cloud Variations and Trends]]></Keywords>
+    <Keywords><![CDATA[Low Cloud Base Heights]]></Keywords>
+    <Keywords><![CDATA[Total Cloud Cover]]></Keywords>
+    <Keywords><![CDATA[NDP-026D]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[C. J. Hahn
+Dept. of Atmospheric Sciences,
+S. G. Warren
+Dept. of Atmospheric Sciences,
+R. Eastman
+Dept. of Atmospheric Sciences,
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 163604 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_026d.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp026.d]]></Product_number>
+      <Product_title><![CDATA[Cloud Climatology for Land Stations Worldwide, 1971-2009 (NDP-026D)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Hahn, C. J.]]></Name>
+        <Company><![CDATA[University of Arizona]]></Company>
+        <Organization><![CDATA[Department of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Warren, S. G.]]></Name>
+        <Company><![CDATA[University of Washington]]></Company>
+        <Organization><![CDATA[Department of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Eastman, R.]]></Name>
+        <Company><![CDATA[University of Washington]]></Company>
+        <Organization><![CDATA[Department of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp026d/ndp026d.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026d/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[cloud type co-occurrences]]></Variable>
+      <Variable><![CDATA[cloud types over land]]></Variable>
+      <Variable><![CDATA[cloud types over ocean]]></Variable>
+      <Variable><![CDATA[harmonic analyses for land]]></Variable>
+      <Variable><![CDATA[harmonic analyses for ocean]]></Variable>
+      <Variable><![CDATA[interannual variation and trends land]]></Variable>
+      <Variable><![CDATA[interannual variation and trends ocean]]></Variable>
+      <Variable><![CDATA[land-fraction]]></Variable>
+      <Variable><![CDATA[latitude]]></Variable>
+      <Variable><![CDATA[longitude]]></Variable>
+      <Variable><![CDATA[number of land stations]]></Variable>
+      <Variable><![CDATA[total cloud over land]]></Variable>
+      <Variable><![CDATA[total cloud over ocean]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp026d/ndp026d.htmlC. J. Hahn
+Dept. of Atmospheric Sciences,
+S. G. Warren
+Dept. of Atmospheric Sciences,
+R. Eastman
+Dept. of Atmospheric Sciences,
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20120801]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026d/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[422 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Surface synoptic weather reports for 26 years were processed to provide a climatology of clouds for each of over 5000 land-based weather stations with long periods of record both day and night. For each station, this digital archive includes: multi-year annual, seasonal and monthly averages for day and night separately; seasonal and monthly averages by year; averages for eight times per day; and analyses of the first harmonic for the annual and diurnal cycles. Averages are given for total cloud cover, clear-sky frequency, and 9 cloud types: 5 in the low level (fog, St, Sc, Cu, Cb), 3 in the middle level (Ns, As, Ac) and one in the high level (all cirriform clouds combined). Cloud amounts and frequencies of occurrence are given for all types. In addition, non-overlapped amounts are given for middle and high cloud types, and average base heights are given for low cloud types. Nighttime averages were obtained by using only those reports that met an illuminance criterion (i.e., made under adequate moonlight or twilight), thus making possible the determination of diurnal cycles and nighttime trends for cloud types.
+<br><br>
+The database itself consists of 433 data files held in 8 directories. Most of the 433 files have been compressed using unix; their total size is approximately 436 MB (about 1.57 GB when uncompressed). Also included is an original README file containing brief documentation of the database, a PDF file of the full database documentation, and an ASCII text version of the full database documentation. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

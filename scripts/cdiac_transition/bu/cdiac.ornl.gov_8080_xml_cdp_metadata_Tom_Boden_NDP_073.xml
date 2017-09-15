@@ -1,0 +1,4169 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Jones, M. H.]]></origin>
+        <origin><![CDATA[Curtis, P. S.]]></origin>
+        <title><![CDATA[Database of Herbaceous Vegetation Responses to Elevated Atmospheric CO2]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_073.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp073/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Database of Herbaceous Vegetation Responses to Elevated Atmospheric CO2]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[1900000]]></begdate>
+          <enddate><![CDATA[1900000]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[atmospheric CO2]]></themekey>
+        <themekey><![CDATA[herbaceous vegetation]]></themekey>
+        <themekey><![CDATA[database ]]></themekey>
+        <themekey><![CDATA[vegetation responses ]]></themekey>
+        <themekey><![CDATA[elevated atmospheric CO2]]></themekey>
+        <themekey><![CDATA[NDP-073]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 150935</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 165142 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[atmospheric CO2]]></Keywords>
+    <Keywords><![CDATA[herbaceous vegetation]]></Keywords>
+    <Keywords><![CDATA[database ]]></Keywords>
+    <Keywords><![CDATA[vegetation responses ]]></Keywords>
+    <Keywords><![CDATA[elevated atmospheric CO2]]></Keywords>
+    <Keywords><![CDATA[NDP-073]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Contributed by
+Michael H. Jones
+Peter S. Curtis
+Department of Evolution, Ecology, and Organismal Biology
+Prepared by Robert M. Cushman and Antoinette L. Brenkert
+Carbon Dioxide Information Analysis Center
+Publication No. 4909
+Prepared for the
+Prepared by the
+Carbon Dioxide Information Analysis Center
+Oak Ridge, Tennessee 37831-6290
+managed by
+LOCKHEED MARTIN ENERGY RESEARCH CORP.
+for the
+under contract DE-AC05-96OR22464
+PAP_NO = 3034
+PARAM = PN
+SOURCE = F1
+X_ELEV = 44.400
+SE_ELEV = 0.100
+CV*_ELEV = 0.694
+and
+PAP_NO = 2723
+PARAM = PN
+SOURCE = F4
+X_ELEV = 40.120
+SE_ELEV = 0.505
+PAP_NO = 2184
+PARAM = TILLERS
+SOURCE = T2
+X_ELEV = 726.000
+SE_ELEV = 52.000
+CV*_ELEV = 28.203
+and
+PAP_NO = 2717
+PARAM = TILLERS
+SOURCE = F1
+X_ELEV = 4.590
+SE_ELEV = 0.400
+ 38AGWT G PLANT-1 TRITICUM AESTIVUM ANGIO GRASS_CC3 GRASS
+330
+660UL L-1 461.45 GC SEED H2O LO 10 ML PL-1 D-1 F4
+3.61 -9.99 -9.99 -9.99 10 5.13 -9.99 -9.99 -9.99 10 .
+ 38AGWT G PLANT-1 TRITICUM AESTIVUM ANGIO GRASS_CC3 GRASS
+330
+660UL L-1 371.45 GC SEED H2O CTL 40 ML PL-1 D-1 F4
+2.98 -9.99 -9.99 -9.99 10 3.97 -9.99 -9.99 -9.99 10 .
+ 3042PN UMOL M-2 S-1 ZEA MAYS ANGIO GRASS_CC4 GRASS 330
+640UBAR 305 GH SEED FERT HI . F2
+64.80 2.10 5.94 9.45 8 52.40 0.90 2.55 5.01 8 Y
+ 3042PN UMOL M-2 S-1 ZEA MAYS ANGIO GRASS_CC4 GRASS 330
+640UBAR 305 GH SEED FERT LO . F2
+27.90 1.84 5.20 19.24 8 21.90 2.10 5.94 27.97 8 Y
+*SAS data retrieval routine to read ndp073.dat;
+data ndp073;
+infile 'ndp073.dat';
+input PAP_NO 6. @7 PARAM $char7. P_UNIT $ 14-27 GENUS $ 28-40
+ SPECIES $ 41-53 DIV1 $ 54-59 DIV2 $ 60-66 DIV3 $ 67-71
+ DIV4 $ 72-77 AMB $ 78-80 ELEV $ 81-84
+ CO2_UNIT $ 85-94 TIME $ 95-99 POT $ 100-112 MTHD $ 113-116
+ STOCK $ 117-125 XTRT $ 126-131 LEVEL $ 132-138 QUANT $ 139-155
+ SOURCE $ 156-161 X_AMB 162-169 SE_AMB 170-177 SD_AMB 178-185
+ CV_AMB 186-192 N_AMB 193-197 X_ELEV 198-206 SE_ELEV 207-213
+ SD_ELEV 214-221 CV_ELEV 222-229 N_ELEV 230-235 SDC $ 236-238 ;
+* In the above INPUT statement, the variables CV*_AMB and CV*_ELEV have
+ been renamed CV_AMB and CV_ELEV, respectively.;
+proc print;
+run;
+C *** Fortran program to read the file "ndp073.dat"
+C
+ INTEGER PAP_NO, N_AMB, N_ELEV
+C
+ REAL X_AMB, SE_AMB, SD_AMB, CV_AMB, X_ELEV, SE_ELEV,
+ + SD_ELEV, CV_ELEV
+C
+ CHARACTER PARAM*7, P_UNIT*14, GENUS*13, SPECIES*13, DIV1*6,
+ + DIV2*7, DIV3*5, DIV4*6, AMB*3, ELEV*4, CO2_UNIT*10,
+ + TIME*5, POT*13, MTHD*4, STOCK*9, XTRT*6, LEVEL*7,
+ + QUANT*17, SOURCE*6, SDC*3
+C
+ OPEN (UNIT=1, FILE='ndp073.dat')
+C
+C Note that the variables CV*_AMB and CV*_ELEV have
+C been renamed CV_AMB and CV_ELEV, respectively
+C
+ 10 READ (1,100,END=99) PAP_NO, PARAM, P_UNIT, GENUS, SPECIES,
+ + DIV1, DIV2, DIV3, DIV4, AMB, ELEV, CO2_UNIT, TIME, POT,
+ + MTHD, STOCK, XTRT, LEVEL, QUANT, SOURCE, X_AMB, SE_AMB,
+ + SD_AMB, CV_AMB, N_AMB, X_ELEV, SE_ELEV, SD_ELEV, CV_ELEV,
+ + N_ELEV, SDC
+C
+ 100 FORMAT (I6,A7,A14,2A13,A6,A7,A5,A6,A3,A4,A10,A5,A13,A4,A9,
+ + A6,A7,A17,A6,3F8.2,F7.2,I5,F9.2,F7.2,2F8.2,I6,A3)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+Agropyron caninum
+Agropyron smithii
+Agrostis capillaris
+Andropogon gerardii
+Avena barbata
+Avena fatua
+Avena sativa
+Bouteloua curtipendula
+Bouteloua eriopoda
+Bouteloua gracilis
+Briza subaristata
+Bromus erectus
+Bromus hordaeceus
+Bromus willdenowii
+Calamagrostis epigejos
+Carex curvula
+Dactylis glomerata
+Digitaria macroblephara
+Digitaria sanguinalis
+Echinochloa crusgalli
+Eleusine indica
+Eriophorum vaginatum
+Festuca arundinacea
+Festuca durviscula
+Festuca elatior
+Festuca idahoensis
+Festuca ovina
+Festuca pratense
+Festuca rupicola
+Festuca vivipara
+Hordeum vulgare
+Lolium boucheanum
+Lolium multiflorum
+Lolium perenne
+Nardus stricta
+Oryza sativa
+Panicum antidotale
+Panicum laxum
+Panicum millioides
+Pascopyrum smithii
+Paspalum dilatatum
+Pennisetum clandestinum
+Phalaris aquatica
+Phleum pratense
+Poa alpina
+Poa annua
+Poa pratensis
+Puccinellia maritima
+Rottboellia exaltata
+Schizachyrium scoparium
+Scirpus olneyi
+Setaria faberi
+Sorghum bicolor
+Sorghum helpense
+Spartina patens
+Sporobolus kentrophyllus
+Stipa occidentalis
+Themeda triandra
+Triticum aestivum
+Vulpia microstachys
+38. Andre, M., and H. Du Cloux. 1993. Interaction of CO2 Enrichment and Water
+Limitations on Photosynthesis and Water-Use Efficiency in Wheat. Plant
+Physiology and Biochemistry 31:103-112.
+186. Drake, B. G. 1992. A Field Study of the Effects of Elevated CO2 on
+Ecosystem Processes in a Chesapeake Bay Wetland. Australian Journal of Botany
+40:579-595.
+488. Nie, D., H. He, M. B. Kirkham, and E. T. Kanemasu. 1992. Photosynthesis
+of a C3 Grass and a C4 Grass under Elevated CO2. Photosynthetica 26:189-198.
+618. Ryle, G. J. A., C. E. Powell, and V. Tewson. 1992. Effect of elevated co2
+on photosynthesis, respiration and growth of perennial ryegrass. Journal of
+Experimental Botany 43:811-818.
+754. Ziska, L. H., and J. A. Bunce. 1993. Inhibition of Whole Plant
+Respiration by Elevated CO2 as Modified by Growth Temperature. Physiologia
+Plantarum 87:459-466.
+765. Baker, J. T., L. H. Allen Jr., and K. J. Boote. 1992. Response of Rice to
+Carbon Dioxide and Temperature. Agricultural and Forest Meteorology
+60:153-166.
+2066. Samarakoon, A. B., W. J. Muller, and R. M. Gifford. 1995. Transpiration
+and leaf area under elevated CO2: Effects of soil water status and genotype in
+wheat. Australian Journal of Plant Physiology 22:33-44.
+2119. Greer, D. H., W. A. Laing, and B. D. Campbell. 1995. Photosynthetic
+responses of thirteen pasture species to elevated CO2 and temperature.
+Australian Journal of Plant Physiology 22:713-722.
+2125. Baxter, R., M. Gantley, T. W. Ashenden, and J. F. Farrar. 1994. Effects
+of elevated carbon dioxide on three grass species from montane pasture.
+Journal of Experimental Botany 45:1267-1287.
+2132. Rao, M. V., B. A. Hale, and D. P. Ormrod. 1995. Amelioration of
+ozone-induced oxidative damage in wheat plants grown under high carbon
+dioxide. Plant Physiology 109:421-432.
+2133. Tuba, Z., K. Szente, and J. Koch. 1994. Response of photosynthesis,
+stomatal conductance, water use efficiency and production to long-term
+elevated CO2 in winter wheat. Journal of Plant Physiology 144:661-668.
+2158. Gloser, J., and M. Bartak. 1994. Net photosynthesis, growth rate and
+biomass allocation in a rhizomatous grass Icalamagrostis epigejos grown at
+elevated CO2 concentration. Photosynthetica 30(1):143-150.
+2159. Ziska, L. H., and J. A. Bunce. 1994. Increasing growth temperature
+reduces the stimulatory effect of elevated CO2 on photosynthesis or biomass in
+two perennial species. Physiologia Plantarum 91:183-190.
+2168. Knapp, A. K., E. P. Hamerlynck, and C. E. Owensby. 1993. Photosynthetic
+and water relations responses to elevated CO2 in the C4 grass Andropogon
+geradii. International Journal of Plant Science 154(4):459-466.
+2184. Saebo, A., and L. M. Mortensen. 1995. Growth and regrowth of Phleum
+pratense, Lolium perenne, Trifolium repens and Trifolium pratense at normal
+and elevated O2 concentration. Agriculture, Ecosystems and Environment
+55:29-35.
+2192. Knapp, A. K., J. T. Fahnestock, and C. E. Owensby. 1994. Elevated
+atmospheric O2 alters stomatal responses to variable sunlight in a C4 grass.
+Plant, Cell and Environment 17:189-195.
+2202. Wilsey, B. J., S. J. McNaughton, and J. S. Coleman. 1994. Will increases
+in atmospheric O2 affect regrowth following grazing in C4 grasses from
+tropical grasslands? Oecologia 99:141-144.
+2208. Crush, J. R. 1994. Elevated atmospheric O2 concentration and rhizosphere
+nitrogen fixation in four forage plants. New Zealand Journal of Agricultural
+Research 37:455-463.
+2211. Morgan, J. A., W. G. Knight, L. M. Dudley, and H. W. Hunt. 1994.
+Enhanced root system C-sink activity, water relations and aspects fo nutrient
+acquisistion in mycotrophic Bouteloua gracilis subjected to CO2 enrichment.
+Plant and Soil 165:139-146.
+2227. Bowler, J. M., and M. C. Press. 1993. Growth responses of two
+contrasting upland grass species to elevated CO2 and nitrogen concentration.
+New Phytologist 124:515-522.
+2229. Mitchell, R. A. C., V. J. Mitchell, S. P. Driscoll, J. Franklin, and D.
+W. Lawlor. 1993. Effects of increased CO2 concentration and temperature on
+growth and yield of winter wheat at two levels of nitrogen application. Plant,
+Cell and Environment 16:521-529.
+2246. Baxter, R., T. W. Ashenden, T. H. Sparks, and J. F. Farrar. 1994.
+Effects of elevated carbon dioxide on three montane grass species. Journal of
+Experimental Botany 45 (272):305-315.
+2300. Bassirirad, H., D. T. Tissue, J. F. Reynolds, and F. S. Chapin. 1996.
+Response of Eriophorum vaginatum to CO2 enrichment at different soil
+temperature: effects on growth, root respiration and PO-4 uptake kinetics. New
+Phytologist 133:423-430.
+2312. Wilsey, B. J. 1996. Urea additions and defoliation affect plant
+responses to elevated CO2 in a C3 grassland from Yellowstone National Park.
+Oecologia 108:321-327.
+2315. Casella, E., J. F. Soussana, and P. Loiseau. 1996. Long-term effects of
+CO2 enrichment and temperature increase on a temperate grass sward. 1.
+Productivity and water use. Plant and Soil 182:83-99.
+2316. Soussana, J. F., E. Casella, and P. Loiseau. 1996. Long-term effects of
+CO2 enrichment and temperature increase on a temperate grass sward. 2. Plant
+nitrogen budgets and root fraction. Plant and Soil 182:101-114.
+2329. Jones, M. B., M. Jongen, and T. Doyle. 1996. Effects of elevated carbon
+dioxide concentrations on agricultural grassland production. Agricultural and
+Forest Meteorology 79:243-252.
+2330. Stewart, J., and C. Potvin. 1996. Effects of elevated CO2 on an
+artificial grassland community: competition, invasion and neighbourhood area.
+Functional Ecology 10:157-166.
+2337. Saebo, A., and L. M. Mortensen. 1996. The influence of elevated CO2
+concentration on growth of seven grasses and one clover species in a cool
+maritime climate. Acta Agriculturae Scandinavia Section B-Sorland Plant
+Science 46:49-54.
+2341. Schappi, B., and C. Korner. 1996. Growth responses of an alpine
+grassland to elevated CO2. Oecologia 105:43-52.
+2342. Jackson, R. B., and H. L. Reynolds. 1996. Nitrate and ammonium uptake
+for single and mixed species communities grown at elevated CO2. Oecologia
+105:74-80.
+2345. Hakala, K., and T. Mela. 1996. The effects of prolonged exposure to
+elevated temperatures and elevated CO2 leveles on the growth, yield and dry
+matter partitioning of filed-sown meadow fescue. Agricultural and Food Science
+in Finland 5(3):285-298.
+2347. Jackson, R. B., Y. Luo, Z. G. Cardon, O. E. Sala, C. B. Field, and H. A.
+Mooney. 1995. Photosynthesis, growth and density for the dominant species in a
+CO2 enriched grassland. Journal of Biogeography 22:221-225.
+2350. Teughels, H., I. Nijs, P. Van Hecke, and I. Impens. 1995. Competition in
+a global change environment: The importance of different plant traits for
+competitive success. Journal of Biogeography 22:297-305.
+2351. Campbell, B. D., W. A. Laing, D. H. Gree, J. R. Crush, H. Clark, D. Y.
+WIlliamson, and M. D. J. Given. 1995. Variation in grassland populations and
+species and the implications for community responses to elevated CO2. Journal
+of Biogeography 22:315-322.
+2357. Chu, C. C., C. B. Field, and H. A. Mooney. 1996. Effects of CO2 and
+nutrient enrichment on tissue quality of two California annuals. Oecologia
+107:433-440.
+2358. Ferris, R., I. Niy, T. Bejaeghe, and I. Impens. 1996. Contrasting CO2
+and temperature effects on leaf growth of perennial rye grass in spring and
+summer. Journal of Experimental Botany 47:1033-1043.
+2362. Wheeler, T. R., G. R. Batts, R. H. Ellis, P. Hadley, and J. J. L.
+Morison. 1996. Growth and yield of winter wheat (Triticum aestium) crops in
+response to CO2 and temperature. Journal of Agricultural Science 127:37-48.
+2363. Volin, J. C., and P. B. Reich. 1996. Interaction of elevated CO2 and O3
+on growth, photosynthesis and respiration of three perennial species grown in
+low and high nitrogen. Physiologia Plantarum 97:674-684.
+2364. Miglietta, F., A. Giuntoli, and M. Bindi. 1996. The effect of free air
+carbon dioxide enrichment (FACE) and soil nitrogen availability on the
+photosynthetic capacity of wheat. Photosynthesis Research 47:281-290.
+2366. Ziska, L. H., W. Weerakoon, O. S. Namuco, and R. Pamplona. 1996.
+Influence of nitrogen on the elevated CO2 response in field-grown rice.
+Australian Journal of Plant Physiology 23:45-52.
+2367. Saebo, A., and L. M. Mortensen. 1996. Growth, morphology and yield of
+wheat, barley and oats grown at elevated atmospheric CO2 concentration in a
+cool maritime climate. Agriculture, Ecosystems and Environment 57:9-15.
+2369. Ziska, L. H., P. A. Manalo, and R. A. Ordonez. 1996. Intraspecific
+variaiton in the response of rice (Oryza sativa L) to increased CO2 and
+temeprature: growth and yield response of seventeen cultivars. Journal of
+Experimental Botany 47:1353-1359.
+2372. Nijs, I., H. Teughels, H. Blum, G. Hendrey, and I. Impens. 1996.
+Simulation of climate change with infrared heaters reduces the productivity of
+Lolium perenne L in summer. Environmental and Experimental Botany 36:271-280.
+2379. Veisz, O., N. Harnos, L. Szunies, and T. Tischner. 1996. Overwintering
+of winter cereals in Hungary in the case of global warming. Euphytica
+92:249-253.
+2383. Nijs, I., and I. Impens. 1996. Effects of elevated CO2 concentration and
+climate-warming on photosynthesis during winter in Lolium perenne. Journal of
+Experimental Botany 47:915-924.
+2387. Leadley, P. W., and J. Stocklin. 1996. Effects of elevated CO2 on model
+calcareous grasslands: Community, species, and genotype responses. Global
+Change Biology 2:389-397.
+2395. Tuba, Z., K. Szente, Z. Nagy, Z. Csintalan, and J. Koch. 1996. Responses
+of CO2 assimilation, transpiration and water use efficiency to long-term
+elevated CO2 in perennial C3 xeric loess steppe species. Journal of Plant
+Physiology 148:356-361.
+2398. Mortensen, L. M., and A. Saebo. 1996. The effects of elevated CO2
+concentration on growth of Phleum pratense L. in different parts of the growth
+season. Acta Agriculturaie Scandinavia Section B-Soil and Plant Science
+46:128-134.
+2401. Jackson, R. B., and A. L. Reynolds. 1996. Nitrate and annomium uptake
+for single- and mixed species communities grown at elevated CO2. Oecologia
+105:74-80.
+2403. Fanymeier, A., U. Geuters, U. Hesstein, H. Sandhagel, A. Hoffmann, B.
+Vermebren, and A. J. Jager. 1996. Effects of elevated CO2, nitrogen supply and
+tropospheric ozone on spring wheat. 1. Growth and Yields. Environmental
+Pollution 91:381-390.
+2407. Kinball, B. A., P. J. Pinter, R. L. Garcia, R. L. La Mort, G. W. Wall,
+D. J. Hunsaker, G. WEchsung, F. Wechsung, and T. Kartschall. 1995.
+Productivity and water use of wheat under free-air CO2 enrichment. Global
+Change Biology 1:429-442.
+2420. Hunt, H. W., E. T. Elliot, J. K. Detling, J. A. Morgan, and D. X. Chen.
+1996. Responses of a C3 and a C4 perennial grass to elevated CO2 and
+temperature under different water regimes. Global Change Biology 2:35-47.
+2427. Samarakoon, A. B., and R. M. Gifford. 1996. Elevated CO2 effects on
+water use and growth of maize in wet and drying soils. Australian Journal of
+Plant Physiology 23:53-62.
+2430. Ruget, F., O. Bethenod, and L. Combe. 1996. Repercussions of increased
+atmospheric CO2 on maize morphogenesis and growth for various temperature and
+radiation levels. Maydica 41:181-191.
+2440. Frank, A. B., and A. Bauer. 1996. Temperature, nitrogen and carbon
+dioxide effects on spring wheat development and spikelet numbers. Crop Science
+36:659-665.
+2441. Read, J. J., and J. A. Morgan. 1996. Growth and partitioning in
+Pascopyrum smithii (C3) and Bouteloua graciles (C4) as influenced by carbon
+dioxide and temperature. Annals of Botany 77:487-496.
+2443. Polley, H. W., H. B. Johnson, H. S. Mayeux, D. A. Brown, and J. W. C.
+White. 1996. Leaf and plant water use efficiency of C4 species grown at
+glacial to elevated CO2 concentrations. International Journal of Plant
+Sciences 157:164-170.
+2444. Bowler, J. M., and M. C. Press. 1996. Effects of elevated CO2 nitrogen
+form and concentration on growth and photosynthesis of a fast- adn
+slow-growing grass. New Phytologist 132:391-401.
+2448. RowlandBamford, A. J., J. T. Baker, H. L. Allen, and G. Bowes. 1996.
+Interactions of CO2 enrichment and temperature on carbohydrate accumulation
+and partitioning in rice. Environmental and Experimental Botany 36:111-124.
+2454. Bagash, D. Z., M. J. Paul, M. A. J. Parry, A. J. Keys, and D. W. Lawlor.
+1995. Increased capacity for photosynthesis in wheat grown at elevated CO2.
+The relationship between electron-transport and carbon metabolism. Planta
+197:482-489.
+2468. Rao, M. V., and L. J. Dekok. 1994. Interactive effects of high CO2 and
+SO2 on growth and antioxidant levels in wheat. Phyton-Annales Rei Botanicae
+34:279-290.
+2474. Newbery, R. M., J. Wolfenden, T. A. Mansfield, and A. F. Harrison. 1995.
+Nitrogen, phosphorus and potassium uptake and demand Agrostis capillaria. The
+influence of elevated CO2 and nutrient supply. New Phytologist 130:565-574.
+2480. Lenssen, G. M., W. E. Vandium, P. Jak, and J. Roxema. 1995. The response
+of Aster tripolium and Puccinellia maritima to atmospheric carbon dioxide
+enrichment and their interaction with flooding and salinity. Aquatic Botany
+50:181-192.
+2492. Schenk, U., R. Maderscheid, J. Hugen, and H. J. Weigel. 1995. Effects of
+CO2 enrichment and intraspecific competition on biomass partitioning, nitrogen
+content, and microbial biomass carbon in soil of perennial rye grass and white
+clover. Journal of Experimental Botany 46:987-993.
+2502. Jacob, J., C. Greitner, and B. G. Drake. 1995. Acclimation of
+photosynthesis in relation to Rubisco and non-structural carbohydrate contents
+and in-situ carboxylase activity in Scirpus olnei grown at elevated CO2 in the
+field. Plant, Cell and Environment 18:875-884.
+2503. Jongen, M., M. B. Jones, T. Hebeisen, H. Blum, and G. Hendrey. 1995. The
+effects of elevated CO2 concentrations on the root growth of Lolium perenne
+and Trifolium repens grown in a FACE system. Global Change Biology 1:361-371.
+2504. Kleemola, J., J. Peltonen, and P. Peltonen-Sainio. 1994. Apical
+development and growth of Barley under different CO2 and nitrogen regimes.
+Journal of Agronomy and Crop Science 173:79-92.
+2510. Demothes, M. A. G., and D. Knoppik. 1994. Effects of long term enhanced
+CO2 partial pressure on gas exchange parameters and saccharide pools of wheat
+leaves. Photosynthetica 30:435-445.
+2521. Balaguer, L., J. D. Barnes, A. Panicucci, and A. M. Borland. 1995.
+Production and utilization of assimilates in wheat leaves exposed to elevated
+O3 and/or CO2. New Phytologist 129:557-568.
+2522. Barnes, J. D., J. H. Ollerenshaw, and C. P. Whitfield. 1995. Effects of
+elevated CO2 and/or O3 on growth, development and physiology of wheat. Global
+Change Biology 1:129-142.
+2525. Hattenschwiler, S., and C. Korner. 1996. System-level adjustments to
+elevated CO2 in model spruce ecosystems. Global Change Biology 2:377-387.
+2531. Owensby, C. E., P. I. Coyne, J. M. Ham, L. M. Avea, and A. K. Knapp.
+1993. Biomass production in a tallgrass prairie ecosystem exposed to ambient
+and elevated CO2. Ecological Applications 3:644-653.
+2541. Jackson, R. B., O. E. Sala, C. B. Field, and H. A. Mooney. 1994. CO2
+alters water use, carbon gain, and yield for the dominant species in a natural
+grassland. Oecologia 98:257-262.
+2547. Baker, J. T., L. H. Allen, and K. J. Boote 1992. Temperature effects on
+rice at elevated CO2 concentration. Journal of Experimental Botany 43:959-964.
+2579. Billes, G., H. Rouhier, and P. Bottner. 1993. Modifications of the
+carbon and nitrogen allocations in the plant Triticum aestivum L. soil system
+in response to increased atmospheric CO2 concentration. Plant and Soil
+157:215-225.
+2580. Baker, J. T., S. L. Albrecht, D. Pan, L. H. Allen, N. B. Pickering, and
+K. J. Boote. 1994. Carbon dioxide and temperature effects on rice (Oryza
+sativa L., CV 1R-72). Soil and Crop Science Society of Florida, Proceedings
+53:90-97.
+2595. Santruce, J., H. Santurckova, J. Kueton, M. Simkoua, and K. Rohacek.
+1994. The effect of elevated CO2 concentration on photosynthetic CO2 fixation,
+respiration and carbon economy of wheat plants. Rostlinna Vyroba 40:689-696.
+2597. Ingaurdsen, C., and B. Veierskov. 1994. Response of young barley plants
+to CO2 enrichment. Journal of Experimental Botany 45:1373-1378.
+2644. Reeves, D. W., H. H. Royers, S. A. Prior, C. W. Wood, and G. B. Runion.
+1994. Elevated atmospheric carbon dioxide effects on sorghum and soybean
+nutrient status. Journal of Plant Nutrition 17:1939-1954.
+2654. Jackson, R. B., Y. Lou, Z. G. Cardon, O. E. Sala, C. B. Field, and H. A.
+Mooney. 1995. Photosynthesis, growth and density for the dominant species in a
+CO2 enriched grassland. Journal of Biogeography 22:221-225.
+2666. Samarakoon, A. B., and R. M. Gifford. 1995. Soil water content under
+plants at high CO2 concentrations and interaction with the direct CO2 effects:
+A species comparison. Journal of Biogeography 22:193-202.
+2669. Schenk, U., A. J. Jager, and H. J. Weigel. 1996. Nitrogen supply
+determine responses of yeild and biomass partitioning of perennial rye grass
+to elevated atmospheric carbon dioxide concentrations. Journal of Plant
+Nurtition 19:1423-1440.
+2692. Kimball, B. A., P. J. P. Pinter, R. L. Garcia, R. L. LaMorte, G. W.
+Wall, D. J. Hunsaker, G. Wechsung, F. Wechsong, and T. Kartschall. 1995.
+Productivity and water use of wheat under free-air CO2. Global Change Biology
+1:429-442.
+2698. Potvin, C., and L. Vasseur. 1997. Long-term CO2 enrichment of a pasture
+community: species richness, dominance, and succession. Ecology 78:666-677.
+2709. Hebeisen, T., A. Luscher, and J. Nosberger. 1997. Effects of elevated
+atmospheric CO2 and nitrogen fertilisation on yield of Trifolium repens and
+Lolium perenne. Acta Oecologica/Oecologia Plantarum 18:277-284.
+2710. Hebeisen, T., A. Luscher, S. Zanetti, B. U. Fischer, U. A. Hartwig, M.
+Frehner, G. R. Hendrey, H. Blum, and J. Nosberger. 1997. Growth response of
+Trifolium repens L and Lolium perenne L as monocultures and bi-species mixture
+to free air CO2 enrichment and management. Global Change Biology 3:149-160.
+2711. Ghannoum, O., S. vonCaemmerer, E. W. R. Barlow, and J. P. Conroy. 1997.
+The effect of CO2 enrichment and irradiance on the growth, morphology and gas
+exchange of a C3 (Panicum laxum) and a C4 (Panicum antidotale) grass.
+Australian Journal of Plant Physiology 24:227-237.
+2715. Cotrufo, M. F., and A. Gorissen. 1997. Elevated CO2 enhances
+below-ground C allocation in three perennial grass species at different levels
+of N availibility. New Phytologist 137:421-431.
+2718. Wilsey, B. J., J. S. Coleman, and S. J. McNaughton. 1997. Effects of
+elevated CO2 and defoliation of grasses: A comparative ecosystem approach.
+Ecological Applications 7:844-853.
+2723. Stirling, C. M., P. A. Davey, T. G. Williams, and S. P. Long. 1997.
+Acclimation of photosynthesis to elevated CO2 and temperature in five British
+native species of contrasting functional type. Global Change Biology
+3:237-246.
+2735. Nijs, I., and I. Impens. 1997. An analysis of the balance between root
+and shoot activity in Lolium perenne cv Melvina. Effects of CO2 concentration
+and air temperature. New Phytologist 135:81-91.
+2737. Mortensen, L. M. 1997. Effects of carbon dioxide concentrations on three
+grass species grown in mixture in two soil types at different ozone
+concentrations or temperatures. Acta Agriculturae Scandinavica, Section B,
+Soil and Plant Sciences 47:14-19.
+2756. Hamerlynck, E. P., C. A. McAllister, A. K. Knapp, J. M. Ham, and C. E.
+Owensby. 1997. Photosynthetic gas exchange and water relation responses of
+three tallgrass prairie species to elevated carbon dioxide and moderate
+drought. International Journal of Plant Sciences 158:608-616.
+2758. Stocker, R., P. W. Leadley, and C. Korner. 1997. Carbon and water fluxes
+in a calcareous grassland under elevated CO2. Functional Ecology 11:222-230.
+2785. Hungate, B. A., J. Canadell, and F. S. Chapin. 1996. Plant species
+mediate changes in soil microbial N in response to elevated CO2. Ecology
+77:2505-2515.
+2793. Fitter, A. H., G. K. Self, J. Wolfenden, M. M. I. vanVuuren, T. K.
+Brown, L. Williamson, J. D. Graves, and D. Robinson. 1996. Root production and
+mortality under elevated atmospheric carbon dioxide. Plant and Soil
+187:299-306.
+2802. Casela, E., and J. F. Soussana. 1997. Long-term effects of CO2
+enrichment and temperature increase on the carbon balance of a temperate grass
+sward. Journal of Experimental Botany 48:1309-1321.
+2821. Schapendonk, A. H. C. M., P. Dijkstra, J. Groenwold, C. S. Pot, and S.
+C. vandeGeijn. 1997. Carbon balance and water use effciency of frequently cut
+Lolium perenne L swards at elevated carbon dioxide. Global Change Biology
+3:207-216.
+2834. Baxter, R., T. W. Ashenden, and J. F. Farrar. 1997. Effect of elevated
+CO2 and nutrient status on growth, dry matter partitioning and nutrient
+content of Poa alpina var vivipara L. Journal of Experimental Botany
+48:1477-1486.
+2835. Bassirirad, H., J. F. Reynolds, R. A. Virginia, and M. H. Brunelle.
+1997. Growth and root NO3- and PO43- uptake capacity of three desert species
+in response to atmospheric CO2 enrichment. Australian Journal of Plant
+Physiology 24:353-358.
+2839. Lin, W. H., L. H. Ziska, O. S. Namuco, and K. Bai. 1997. The interaction
+of high temperature and elevated CO2 on photosynthetic acclimation of single
+leaves of rice in situ. Physiologia Plantarum 99:178-184.
+2855. Wolf, J. 1996. Effects of nutrient supply (NPK) on spring wheat response
+to elevated atmospheric CO2. Plant and Soil 185:113-123.
+2856. Nakamura, T., M. Osaki, T. Koike, Y. T. Hanba, E. Wada, and T. Tadano.
+1997. Effect of CO2 enrichment on carbon and nitrogen interaction in wheat and
+soybean. Soil Science and Plant Nutrition 43:789-798.
+2892. McKee, I. F., J. F. Bullimore, and S. P. Long. 1997. Will elevated CO2
+concentrations protect the yield of wheat from O3 damage? . Plant, Cell and
+Environment 20:77-84.
+2893. Manderscheid, R., and H. J. Weigel. 1997. Photosynthetic and growth
+responses of old and modern spring wheat cultivars to atmospheric CO2
+enrichment. Agriculture, Ecosystems and Environment 64:65-73.
+2895. Sicher, R. C., and J. A. Bunce. 1997. Relationship of photosynthetic
+acclimation to changes of Rubisco activity in field-grown winter wheat and
+barley during growth in elevated carbon dioxide. Photosynthesis Research
+52:27-38.
+2911. Mulholland, B. J., J. Craigon, C. R. Black, J. J. Colls, J. Atherton,
+and G. Landon. 1997. Impact of elevated atmospheric CO2 and O3 on gas exchange
+and chlorophyll content in spring wheat (Triticum aestivum L). Journal of
+Experimental Botany 48:1853-1863.
+2919. VanVuuren, M. M. I., D. Robinson, A. H. Fitter, S. D. Chasalow, L.
+Williamson, and J. A. Raven. 1997. Effects of elevated atmospheric CO2 and
+soil water availability on root biomass, root length, and N, P and K uptake by
+wheat. New Phytologist 135:455-465.
+2924. Vu, J. C. V., L. H. Allen, K. J. Boote, and G. Bowes. 1997. Effects of
+elevated CO2 and temperature on photosynthesis and Rubisco in rice and
+soybean. Plant, Cell and Environment 20:68-76.
+2928. Ziska, L. H., O. Namuco, T. Moya, and J. Quilang. 1997. Growth and yield
+response of field-grown tropical rice to increasing carbon dioxide and air
+temperature. Agronomy Journal 89:45-53.
+2935. Baker, J. T., L. H. Allen, K. J. Boote, and N. B. Pickering. 1997. Rice
+responses to drought under carbon dioxide enrichment. 1. Growth and yield.
+Global Change Biology 3:119-128.
+3033. Patterson, D. T., and E. P. Flint. 1980. Potential effects of global
+atmospheric CO2 enrichment on the growth and competitiveness of C3 and C4 weed
+and crop plants. Weed Science 28:71-75.
+3034. Potvin, C., and B. R. Strain. 1985. Photosynthetic response to growth
+temperature and CO2 enrichment in two species of C4 grasses. Canadian Journal
+of Botany 63:483-487.
+3035. Potvin, C., and B. R. Strain. 1985. Effects of CO2 enrichment and
+temperature on growth in two C4 weeds, Enchinochloa crus-galli and Eleusine
+indica. Canadian Journal of Botany 63:1495-1499.
+3036. Sionit, N., and D. T. Patterson. 1984. Responses of C4 grasses to
+atmospheric CO2 enrichment. I. Effect of irradiance. Oecologia 65:30-34.
+3038. Carter, D. R., and K. M. Peterson. 1983. Effects of a CO2 enriched
+atmosphere on the growth and competitive interaction of a C3 and a C4 grass.
+Oecologia 58:188-193.
+3041. Morison, J. I. L., and R. M. Giford. 1984. Plant growth and water use
+with limited water supply in high CO2 concentrations. II. Plant dry weight,
+partitioning, and water use efficiency. Australian Journal of Plant Physiology
+11:375-384.
+3042. Wong, S. C. 1979. elevated atmospheric partial pressure of CO2 and plant
+growth. I. Interactions of nitrogen nutrition and photosynthetic capacity in
+C3 and C4 plants. Oecologia 44:68-74.
+Listed are
+paper number (PAP_NO, as defined in Sect. 9.)
+ CO2 exposure facility
+ light
+ temperature
+ watering
+ humidity
+ nutrient
+ interacting treatment
+ biome
+ location, and
+ comments.
+Abbreviations are as described in the body of this report for data files
+ndp073.dat and ndp073.wk1.
+38
+ GC
+ 600+/-90 UE M-2 S-1
+ 14/10
+ 24/18
+ 40 OR 10 ML PL-1 D-1
+ 0.588235294
+ HOAGLAND'S
+ H2O
+ GRASS
+ EU
+186
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ NONE
+ CO2 ONLY
+ WETL
+ NA
+488
+ GH
+ AMBIENT
+ AMBIENT
+ FIELD CAPACITY OR NONE
+ NONE
+ CO2 AND WATER
+ GRASS
+ NA
+ 2ND YEAR; NO TEMP DATA; FIELD PLANTS.
+618
+ GC
+ AMB
+ 12H
+ 20/15 C (DAY/NIGHT)
+ WW
+ AMB
+ NITRATE' SOLUTION
+ NONE
+ GRASS
+ EU
+ .
+754
+ GC
+ 0.6 MMOL M-2 S-1
+ 14 H
+ "15, 20, 25, 30 DEG C CONSTANT DAY/NIGHT"
+ WW
+ &gt;50 %
+ COMPLETE NUTRIENT SOLUTION ADDED DAILY
+ TEMP
+ MEAD
+ NA
+ MAINTENANCE RESPIRATION RECORDED HERE. GROWTH RESPIRATION
+ ALSO REPORTED ONE GC PER CO2 TREATMENT
+765
+ GC
+ AMB
+ AMB
+ .
+ WW
+ .
+ .
+ TEMP
+ GRASS_C
+ NA
+ CONTROL: 28/21/25 C; HI: 40/33/37 C
+2066
+ GH
+ 24.8 MOL M-2 D-1
+ 16 H
+ 20/14
+ .
+ .
+ COMPLETE FERTILIZER ADDED
+ H2O
+ GRASS_C
+ AU
+ TWO VARIETIES USED
+2119
+ GC
+ 700 UMOL M-2 S-1
+ 1/12/00
+ 12/7; 18/13; 28/23
+ WW
+ 0.4/0.3 +- 0.05 KPA VPD
+ HALF-STRENGTH HOAGLAND'S
+ TEMP
+ GRASS
+ AU
+ "USABLE DATA ON 4 SPP ONLY, FOR PN"
+2125
+ OTC
+ AMB
+ AMB
+ AMB
+ WW DAILY FC
+ AMB
+ 0.2 MOL M-3 N AND 0.05 MOL M-3 P
+ CO2 ONLY
+ GRASS
+ EU
+ "OTHER NUTRIENT DATA, EFFICIENCIES - P,"
+2132
+ GC
+ 500 UMOL M-2 S-1
+ 14/10
+ 25/18
+ WW
+ 50-70
+ HOAGLAND'S ALTERNATE DAYS
+ O3
+ GRASS
+ NA
+2133
+ OTC
+ AMB
+ AMB
+ AMB
+ .
+ .
+ NPK APPLIED
+ .
+ GRASS_C
+ EU
+2158
+ GC
+ 200 UMOL M-2 S-1
+ 16 H
+ 220
+ WW
+ 0.8
+ SURPLUS NUTRIENTS
+ NONE
+ BOREAL
+ EU
+ "1 GC AT EACH CO2 LEVEL. QY, RHZWT, LWR, LAR"
+2159
+ GC
+ .6 MMOL M-25-1
+ 14H
+ "15,20,25,30"
+ WW
+ &gt;50%
+ """COMPLETE"" IN DAILY WATER"
+ TEMP
+ GRASS
+ NA
+2168
+ OTC
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ NONE
+ GRASS
+ NA
+ 1991 PRECIPITATION: 17.1 CM; 1992 PRECIPITATION: 26.8 CM; SAMPLE
+ SIZE INFERRED FROM DESIGN. LFY.MD
+2184
+ OTC
+ AMBIENT
+ 15-18
+ 12-Nov
+ AMB AND DRIP
+ .
+ ADDED WITH DRIP WATER; AMT NOT STATED
+ HARVEST
+ GRASS
+ EU
+ CLIPPED TO 5CM AT EACH HARVEST
+2192
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ .
+ CO2
+ GRASS
+ NA
+ "DATA USED FROM LAST MEASUREMENT PRIOR TO SHADING, F2."
+2202
+ GC
+ 725-890 UE
+ .
+ .
+ WW
+ .
+ HOAGLAND'S; 2 G/M2 N WEEKLY
+ CLIPPING TO 5 CM
+ GRASS
+ AF
+ C4; SPOROBOLUS KENTROPHYLLUS; ADDT'L LF NUTRIENTS AVAILABLE IN T1
+2208
+ GC
+ 700 UMOL M-2
+ 12 H
+ .
+ WW
+ AMB
+ FERT
+ TEMP
+ GRASS_C
+ NA
+ THERE ARE TWO LOLIUM HYBRIDS (2N AND 4N). EACH ONE WAS TREATED
+AS A
+ SPECIES.
+2211
+ GH
+ ~900 UMOL M-2 S-1
+ 14/10
+ 25/16
+ WW
+ 35/90
+ NONE
+ NONE
+ GRASS
+ NA
+2227
+ GC
+ 600 UMOL M-2 S-1 AT SEEDLING HT
+ 15/9
+ 20/15
+ WW
+ 65/70
+ 0.8 NM NH4NO3 + 50% LONG ASHTON SOLUTION
+ "HI N, LOW N"
+ GRASS
+ EU
+2229
+ GC
+ AMB
+ .
+ +4C
+ .
+ .
+ HI/LOW
+ TEMP/FERT
+ GRASS_C
+ EU
+2246
+ OTC
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ WW
+ AMBIENT
+ "WEEKLY 1/5 MODIFIED LONG ASHTON- 0.2 MOL M-3 N, 0.05 MOL M-3 P"
+ NONE
+ GRASS
+ EU
+ "NAR, LAR, LWR"
+2300
+ GC
+ 800 UMOL/M2S ACTIVE RADIATION
+ 18 H
+ 15 C
+ WATERED DAILY TO SATURATION
+ .
+ HALF-STRENGTH MODIFIED HOAGLAND SOLUTION WITH AMMONIUM
+NITRATE AND P
+ CONCENTRATION OF 32 PPM
+ "SOIL TEMPERATURE (5,15, AND 25 C)"
+ TUNDRA
+ NA
+ THIS STUDY FOCUSES ON THE EFFECTS OF SOIL TEMPERATURE. RATE OF PO4
+ ABSORPTION WAS LEFT OUT.
+2312
+ GC
+ 615 UE (603-621)
+ 23/11
+ 100 ML EACH 3 D
+ NOT CONTROLLED
+ C= HOAGLAND'S T=HOAGLAND'S + UREA (40 G/M2)
+ "UREA, CLIPPING"
+ GRASS
+ NA
+ RINSED SAND; CONTROLS HAD HOAGLAND'S
+2315
+ GH
+ AMB/SEASONAL
+ AMB/SEASONAL
+ AMB/SEASONAL
+ SEASONAL; SUMMER WW/DEFICIT
+ .
+ N-= 160 KG/HA YR; N+=530 KG/HA YR
+ "N HI, LO"
+ GRASS
+ EU
+ 2 YR STUDY; MICROCLIMATE DETAILS AVAIL. PKS ALSO APPLIED. DATA
+USED
+FROM
+ SUMMER DROUGHT ONLY.
+2316
+ GH
+ AMB
+ AMB
+ AMB
+ IRRIGATION AT AMB LEVELS
+ AMB
+ 160 OR 530 KG N HA-1 YR-1
+ FERT
+ GRASS
+ EU
+ "PLASTIC TUNNELS. SWARDS, SOWN. PERIODIC CLIPPING OF ALL PLOTS."
+2329
+ OTC
+ REDUCED ~20%
+ AMB
+ "AMB + 1-2 DAY, 0-1 NIGHT"
+ WW
+ .
+ NPK; 600 KG N/HA FOR SEASON
+ CLIPPING
+ GRASS
+ EU
+ SOWN IN GROUND. DATA FROM 2 GROWING SEASONS. CO2 TMNT YR-ROUND
+2330
+ OTC and GC
+ "OTC= AMBIENT, GC NOT AVAILABLE"
+ "OTC=AMBIENT, GC=NOT AVAILABLE"
+ "OTC= AMBIENT, GC= FOLLOWED AMBIENT"
+ "OTC= AMBIENT, GC= EVERY 1-3 DAYS"
+ "OTC= AMBIENT, GC= NOT AVAILABLE"
+ GROWTH CHAMBERS; 5-10-15 NPK PLUS MICRONUTRIENTS. 2 ML/H EVERY TWO
+WEEKS
+ COMPETITION AND METHOD (OTC AND GC)
+ GRASS
+ NA
+ "GC (PH = 6.5) PHOTOPERIOD, LIGHT AND HUMIDITY ARE REPORTED IN
+WANT,
+ LECHOWICZ AND POTWIN (1994). COMPETING SPECIES (TRIFOLIUM REPENS,
+POA
+ PRATENSIS, PHLEUM PRATENSE, AGROSTIS STOLONIFERA) NO INDIVIDUAL
+POTS."
+2337
+ OTC
+ AMB
+ AMB
+ AMB; X=11.3
+ DRIP
+ AMB
+ "YES, UNKNOWN"
+ NONE
+ MEAD
+ EU
+ COMMON SPP + CULTIVARS; NORWAY; MARITIME
+2341
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB/WW
+ AMB
+ NPK 1.5:1:1.5; =40 KG N HA-1 Y-1
+ "CO2, NUTRIENTS"
+ EU
+ 3 YR EXP. OTCS UP 98-108 D Y-1. SOME DATA ALSO FROM YEARS 1 &amp; 2
+2342
+ OTC
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ "N, P, K 20 G M-2, 120 DAY TIME-RELEASE OSMOCOTE"
+ "ADDITIONAL NUTRIENTS N, P, K"
+ GRASS
+ NA
+ MONOCULTURES OF SIX SPECIES AND ONE MIXED COMMUNITY. SERPENTIME
+SOIL
+2345
+ otc
+ amb
+ AMR
+ AMB; AMB +3
+ WW
+ .
+ NPK + NUTRIENTS
+ TEMP
+ GRASS
+ EU
+ OTCS PLACED IN GH FOR WARMING
+2347
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ NONE
+ CO2 ONLY
+ GRASS
+ NA
+ JASPER RIDGE
+2350
+ GH
+ AMB
+ AMB
+ 17
+ WW
+ .
+ 7 G M-2 N; 5 G M-2 P; 7 G M-2 K
+ CLIPPING EVERY 4 WK
+ GRASS
+ EU
+ "ALSO INCLUDED TEMP, CO2 X TEMP, MIXTURES OF SPP"
+2351
+ GC
+ 700 UMOL M-2 S-1
+ 12
+ 12/7; 18/13; 28/23
+ WW
+ .
+ HALF-STRENGTH HOAGLAND'S GX D-1
+ TEMP
+ GRASS
+ AU
+ GROWN IN STERILE SAND
+2357
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ OSMOCOTE: 20 G M
+ NUTRIENTS
+ GRASS
+ NA
+ JASPER RIDGE
+2358
+ GH
+ AMB; 640 UMOL M-2 S-1
+ AMB; 640 UMOL M-2 S-1
+ 13-26
+ WW
+ 0.08
+ 13 G N M-2; 3.18 G P M-2; 10.61 G K M-2
+ TEMP (+4)
+ GRASS
+ EU
+ GERMINATION IN POTS IN FIELD; CO2 BEGAN AFTER ~6.5 MONTHS
+2362
+ GH
+ AMB
+ AMB
+ 13;10
+ WW
+ .
+ NOT LIMITING
+ NONE
+ GRASS
+ EU
+ TUNNELS = GH
+2363
+ GC
+ 552 UMOL M-2 S-1
+ 14 H
+ 26/21
+ WW
+ 60-70%
+ HALF STRENGTH HOAGLAND'S; N=6 OR .5 mM
+ O3 + FERT
+ GRASS
+ NA
+ "OZONE = 3 +/- .3, 92 +/- .4 nMOL MOL-1; FERT = 6 OR .5 nM N.
+ MACRONUTRIENTS SAME FOR HI/LO FERT TMNT."
+2364
+ FACE
+ AMB
+ .
+ .
+ .
+ .
+ .
+ .
+ GRASS_C
+ EU
+ MINIFACE
+2366
+ OTC
+ 89% OF AMB
+ AMB
+ 32 / 24.9
+ WW
+ .
+ .
+ FERT
+ GRASS_C
+ AS
+ NO SUPPLEMENTAL N
+2367
+ OTC
+ AMB
+ AMB
+ AMB
+ WW
+ .
+ IRRIGATED WITH NUTRIENT ENRICHED WATER
+ NONE
+ GRASS_C
+ EU
+ .
+2369
+ GH
+ AMB
+ AMB
+ 29/21 OR 37/29
+ WW
+ 70 +/- 5
+ PROVIDED
+ WETL
+ WETL
+ AS
+ 29/21= CTL; 37/29 = HI TEMP (PC.1354). 17 CULTIVARS TREATED AS REPS
+2372
+ FACE
+ AMB
+ AMB
+ "AMB/AMB+2.5, 18-30"
+ WW
+ AMB
+ 7 G N M-2
+ TEMP
+ GRASS
+ EU
+ "TEMP INCREASE USING INFRA-RED LAMPS ALL MATERIAL CLIPPED PRIOR
+ TO START OF TEMP TMT. EFFECTIVE CO2 DURATION USED. 12- AGWT, LFN, PN"
+2379
+ GC
+ AMB
+ AMB
+ AMB
+ .
+ .
+ .
+ NONE
+ GRASS_C
+ EU
+ 10 CULTIVARS TREATED AS REPS.
+2383
+ GH
+ .
+ AMB
+ AMB AND AMB+4
+ WW
+ .
+ FERTILIZED
+ TEMP
+ GRASS_C
+ EU
+2387
+ GH
+ AMB- ~MAX=800 UMOL M-2 S-1
+ "16, W LIGHTS"
+ 18/10-24/18
+ WW 1X WK-1
+ .
+ NO ADDITIONAL
+ "330, 500, 660 UL L-1 CO2"
+ GRASS
+ EU
+ "CALCEROUS GRASSLAND. SPP AND ECOSYS 76 PLANTS/ CONTAINER
+ REPRESENTING FIELD %, PESTICIDES USED."
+2395
+ OTC
+ AMB
+ AMB
+ AMB
+ WATERED OCCASIONALLY
+ AMB
+ .
+ .
+ GRASS
+ EU
+ THE SPECIES GROW IN A XERIC TEMPERATE LOESS STEPPE.
+2398
+ OTC
+ AMB
+ AMB
+ AMB (~11)
+ WW
+ ..
+ "ADDED, BUT NOT SPECIFIC; SEE TEXT."
+ SEASONALITY
+ GRASS
+ EU
+ USING GRAND MEANS AND SE ONLY; NOT USING SEASONAL DATA.
+2401
+ OTC
+ AMB
+ AMB
+ AMB
+ WW
+ AMB
+ LOW/HI NPK
+ FERT
+ GRASS
+ NA
+2403
+ OTC
+ AMB
+ AMB
+ AMB
+ WW
+ .
+ 150 KG N HA-1 AND 270 KG N HA-1
+ FERT/OZONE
+ GRASS_C
+ EU
+2407
+ FACE
+ AMB
+ AMB
+ 3 C LESS THAN AMB
+ WW + DROUGHT
+ .
+ .
+ H2O
+ GRASS_C
+ NA
+ .
+2420
+ GC
+ 550 UMOL M-2 S-1
+ SEASONAL
+ SEASONAL
+ WW
+ .
+ NONE
+ TEMP
+ GRASS
+ NA
+ "WATER TMT ALSO, BUT NOT USED IN DATASET. ""WINTER"" TEMP = 3"
+2427
+ GH
+ AMB + SUPPL (28.4 MOL M-2 S-1)
+ 16
+ 28/22
+ WW/DRY
+ .
+ 5KG M-3 15:10:10:2 NPK MG 3 MO RELEASE
+ H2O
+ GRASS
+ AU
+2430
+ GH
+ AMB 2-3.9 MJ M-2 D-1
+ AMB
+ 19 - 22.5
+ WW
+ .
+ SUPPLEMENTED
+ NONE
+ GRASS
+ EU
+ NOT USING 1992 DATA
+2440
+ GC
+ 1115 UMOL M-2 S-1
+ 16/8
+ 25/15
+ WW
+ .
+ N= 0 OR 300 KG HA-1; P= 56 KG HA-1; K= 46 KG HA-1
+ "FERT, TEMP"
+ GRASS
+ NA
+2441
+ GC
+ 1000 UMOL M-2 S-1
+ 12/12/98
+ "DAY 20, 35; NIGHT 15"
+ WW
+ 60/~100
+ HALF STRENGTH HOAGLAND'S; =400 UL L-1 N
+ TEMP 20 = CTL
+ GRASS
+ NA
+2443
+ GH
+ SEASONAL
+ SEASONAL
+ SEASONAL
+ WW
+ .
+ HOAGLAND'S + - N; SEE METHODS AND RESULTS
+ NONE. SEE RESULTS
+ GRASS
+ NA
+ "N HAD NO EFFECT ON PN, OR APPARENTLY ON TOTWT"
+2444
+ GC
+ 600 UMOL/M2S PFD
+ 15 H
+ 20/15 DEGREES C
+ WW
+ "65/70 % (DAY,NIGHT)"
+ "NITROGEN CONCENTRATIONS (.01, .1, 1.0, AND 5.0 MG N/L)"
+ NITROGEN CONCENTRATIONS BY N SUPPLY (AMMONIUM OR NITRATE)
+ GRASS
+ EU
+ SAMPLE SIZE OF GAS EXCHANGE MEASUREMENTS WAS USED FOR ALL
+MEASUREMENTS
+ BECAUSE IT WAS THE ONLY ONE AVAILABLE. AGROSTIS CAPILLARIS IS A FAST
+ GROWING GRASS. NARDUS ESTRICTA IS A SLOW GROWING GRASS.
+2448
+ GC
+ AMB
+ AMB
+ AMB
+ WW
+ .
+ .
+ TEMP
+ GRASS_C
+ NA
+ .
+2454
+ GC
+ AMB
+ 14 HR
+ AMB
+ WW
+ 60-70%RH
+ NUTRIENTS SUPPLEMENTED TWICE A WEEK
+ NONE
+ GRASS
+ EU
+ .
+2468
+ GC
+ 200 UMOL M-2 S-1
+ 14H
+ 19/15 C
+ .
+ .
+ .
+ .
+ GRASS_C
+ EU
+ ANOTHER SET OF DATA (CO2 * SO2) CAN BE EXTRACTED
+2474
+ GH
+ AMBIENT
+ AMBIENT
+ .
+ WW
+ .
+ MODIFIED HOAGLANDS
+ "N= 5, 20, OR 50 MG L-1; P= 2, 11, OR 30 MG L-1; K=5, 20, 50 MG L-1"
+ GRASS
+ EU
+ "CO2= AMB, AMB+250...1:1 SAND:PEAT; DATA TAKEN FROM P=3 + K=3 ONLY.
+ AGN, AGC, AGK, AGP"
+2480
+ GH
+ 200 UMOL M-2 S-1
+ 14 H
+ 25/18
+ "WW, FLD"
+ .
+ NATIVE SOIL
+ "FLD, SALT"
+ WETL
+ EU
+ PLANTS ROTATED BETWEEN 2 GHS
+2492
+ GC
+ 220-250 UMOL M-2 S-1
+ 14/10
+ 23.5/19
+ 80% OF FIELD CAPACITY
+ 30/55
+ "194 MG N, 13 MG P, 24 MG K, 39 MG MG POT-1"
+ DENSITY
+ GRASS
+ EU
+ "USING LOWEST AND HIGHEST DENSITIES ONLY, AS REPS"
+2502
+ OTC
+ AMB
+ AMB
+ AMB
+ PRECIP
+ AMB
+ NONE
+ NONE
+ WETL
+ NA
+ "SAME PARAMETERS WERE MEASURED AT DIFFERENT YEARS AND/OR THE
+SAME YEAR,
+ BUT DIFFERENT MONTHS. EACH MONTH AND/OR YEAR WAS CONSIDERED A
+SEPARATE
+ DATA POINT BECAUSE TIME OF EXPOSITION CHANGED. THE PAPER INCLUDES
+DATA
+ ON LEAF RUBISCO AND LEAF SOLUBLE PROTEIN."
+2503
+ FACE
+ AMB
+ AMB
+ SEASONAL; -5-25
+ AMB
+ SEASONAL
+ N (100 OR 420 KG HA-1 Y-1); 120 KG HA-1 P205; 240 KG HA-1 K2O; 16 KG HA-1
+ MGO
+ FERT: 100 OR 420 KG N HA-1 Y-1
+ GRASS
+ EU
+ OOT IN GROWTH BAGS. ETHANOL SOLUBLE TNC USED IN DATABASE.
+WATER-
+SOLUBLE
+ TNC ALSO AVAILABLE.
+2504
+ GH
+ AMB; 180 UMOL M-2 S-1 + 100 UMOL M-2 S-1
+ 16/8
+ 20
+ WW
+ .
+ HI N=54 G M-2; LO N=9.5 G M-2; + OTHER NUTRIENTS
+ FERT
+ GRASS
+ EU
+ .
+2510
+ GC
+ AMB
+ .
+ AMB
+ WW
+ AMB
+ FERTILIZED WEEKLY
+ .
+ .
+ EU
+2521
+ GC
+ 500 UMOL M-2 S-1
+ 13.5 H
+ 23/17
+ WW
+ 60-70
+ .
+ OZONE
+ GRASS_C
+ EU
+ .
+2522
+ GC
+ 500 UMOL M-2 S-1
+ 14/10
+ 24/14
+ WW
+ 65+/-5
+ INITIAL AND EVERY 21 DAYS
+ O3
+ GRASS
+ EU
+2525
+ OTC
+ AMB
+ AMB
+ AMB
+ WW
+ AMB
+ .
+ .
+ WETL
+ NA
+ CARBON CONTENT WITH SE/SD &amp; N; ADDT'L VAR
+2531
+ OTC
+ AMB - 11%
+ AMB
+ AMB
+ AMB
+ AMB
+ NONE
+ NONE
+ GRASS
+ NA
+ CO2 FROM APRIL/ MAY THRU OCT EACH OF 3 YRS
+2541
+ OTC
+ AMB
+ AMB
+ AMB+
+ AMB
+ AMB
+ NO ADDITIONAL
+ CO2
+ GRASS
+ NA
+ "JASPER RIDGE. GS, E, LFY, PN, SEEDS, HT, AGWT, WVE, DNSITY,
+ ISOTOPE, SEED WT, FRUITWT, SEED C, SEED N."
+2547
+ GH
+ AMB
+ AMB
+ 28/21/25(H20)
+ WW
+ .
+ NPK INITIAL; VARIABLE N ADDED DURING SEASON
+ CO2 ONLY APPROPRIATE
+ WETL
+ NA
+2579
+ GC
+ 1000 UMOL M-2 S-1
+ 16/8
+ 23/16
+ WW
+ 70-80
+ ALL: 4.6 MG P; 5.8 MG K; N= 0 OR 32 MG POT-1
+ FERT
+ .
+ .
+2580
+ GH
+ amb
+ amb
+ 32/23; 35/26; 38/29
+ ww
+ .
+ "12.6, 6.3, 6.3, G N M-2 AT 7, 31 + 63 D"
+ NONE
+ WETL
+ NA
+ .
+2595
+ GC
+ 350 UMOL M-2 S-1
+ 15/9
+ 20/17
+ WW
+ .
+ .
+ .
+ .
+ .
+2597
+ GH
+ AMB
+ AMB
+ AMB
+ WW
+ .
+ .
+ NONE
+ GRASS_C
+ EU
+ .
+2644
+ OTC
+ AMB
+ AMB
+ AMB
+ WW
+ .
+ 101 KG N HA-1; SEE ALSO T1
+ NONE
+ GRASS
+ NA
+2654
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ NONE
+ GRASS
+ NA
+ JASPER RIDGE
+2666
+ GH
+ AMB 25-29 MOL M-2 D-1
+ 16 H
+ 20/14
+ WW / DRY
+ .
+ SOLUBLE OR SLOW RELEASE ADDED
+ H2O
+ GRASS_C
+ AU
+2669
+ GC
+ 220-250 UMOL M-2 S-1
+ 14/10
+ 17-Dec
+ WW
+ 0.571428571
+ N: 0 OR 765 MG POT-1; 114 MG P; 193 MG K; 26 MG MG
+ FERT
+ GRASS
+ EU
+ USING ONLY CTL; HIGHEST FERT LEVELS
+2692
+ FACE
+ AMB
+ AMB
+ 32/23; 35/26; 38/29
+ WET/DRY
+ AMB
+ NON-LIMITING; REPEATED APPLICATIONS
+ H2O
+ GRASS
+ NA
+ DRY = HALF OF WET (WW). USE WET AS CTL
+2698
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ NONE
+ NONE
+ GRASS
+ NA
+ "SUM Y EXPERIMENT. 2 OTC'S W/ CO2, OTC'S - CO2"
+2709
+ FACE
+ AMB
+ AMB
+ AMB
+ .
+ .
+ .
+ FERT/COMP
+ GRASS
+ EU
+ TIME ASSUMED TO BE 730 BECAUSE AGWT WAS SUM OF TWO SEASONS
+2710
+ FACE
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ LO: 10-14 G N M-2 Y-1; HI: 42-56 G N M-2 Y-1
+ DEFOL: 4 OR 7-8 Y-1; FERT
+ GRASS
+ EU
+ MET IN TABLE 1
+2711
+ GH
+ 9.2 + 24.9 MOL M-2 S-1
+ AMB
+ 30/25
+ WW
+ &gt;90
+ "30 MG N POT-1 + 60 G N POT-1, SEASONALLY"
+ LIGHT
+ GRASS
+ AU
+2715
+ GC
+ 300 UMOL M-2 S-1
+ 16/8
+ 18/4
+ WW; 14% H20
+ 0.928571429
+ 28 MG P + 50 MG K KG-1 + N TREATMENTS
+ N 8KG N HA-1 OR 278 KG N HA-1
+ GRASS
+ EU
+2718
+ GC
+ 794
+ AMB
+ 25/13 (DAY/NIGHT)
+ WW
+ AMB
+ HOAGLAND'S SOLUTION EVERY 3 D
+ DEFOL
+ GRASS
+ NA
+ .
+2723
+ GH
+ 85-90% AMB
+ 14-H
+ AMB/AMB + 3 C
+ WW
+ AMB
+ .
+ TEMP
+ .
+ EU
+ GS WITH NO SE/SD. Vc MAX WITH SE/SD AND N IN FIG. 4
+2735
+ GH
+ AMB
+ AMB
+ "AMB, AMB+4"
+ WW
+ AMB
+ 10 G M-2 N; 15 G M-2 P; 15 G M-2 K
+ TEMP
+ GRASS
+ EU
+ 80% OF UVB
+2737
+ GH
+ 25 MOL M-2 DAY-1
+ 16/8
+ 17
+ WW
+ 65
+ "COMPLETE, INCLUDE 188 MG L-1 N"
+ "O3, SOIL"
+ GRASS
+ EU
+ O3 NOT USED FOR PHYL DATASET
+2756
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB + DROUGHT
+ AMB
+ NONE
+ H2O
+ GRASS
+ NA
+ "UNDISTURBED TALL GRASS PRAIRIE; EARLY, MID + LATE SEASON DATA;
+EXP.
+RAN
+ 4Y PRIOR TO THIS STUDY"
+2758
+ OTC
+ AMB
+ AMB
+ AMB
+ .
+ .
+ .
+ NONE
+ GRASS
+ EU
+ .
+2785
+ OTC
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ HI FERT TRT ONLY
+ FERT. 20 G M-2 NPK OSMOCOTE
+ GRASS
+ NA
+ JASPER RIDGE. SERPENTINE SOIL
+2793
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ .
+ .
+ GRASS
+ EU
+ MINI-RHIZOTRONE. DATA USED FROM 10 CM
+2802
+ GH (TUNNEL)
+ AMB
+ AMB
+ 0.3 C HIGHER DURING DAY; 0.2 C LOWER AT NIGHT
+ .
+ .
+ FERT
+ GRASS
+ EU
+ .
+2821
+ GH
+ 79% OF AMB
+ AMB
+ AMB
+ WW
+ .
+ 8 G N M-2 PER 24 DAYS
+ CO2
+ GRASS
+ EU
+2834
+ GC
+ 750 UMOL M-2 S-1
+ 16/8
+ 16
+ WW
+ 0.54 KPA
+ 0.2 OR 2.5 MOL M-3 N; 0.04 OR 0.5 MOL M-3 P
+ LOW N+LOW P OR HI N + HI P
+ GRASS
+ EU
+ "P, OTHER MINERALS"
+2835
+ GC
+ 1000 UMOL M-2 S-1
+ 16
+ 30/20
+ WW
+ 0.0025
+ "HOAGLAND'S, ALTERNATE WATERING"
+ .
+ GRASS
+ NA
+2839
+ OTC
+ 85% OF AMB
+ AMB
+ "25/29 ( AMB, AMB+4)"
+ WW
+ .
+ 220 KG N HA-1
+ TEMP
+ WETL
+ AS
+2855
+ GH
+ AMB+
+ 16/8
+ 20/15
+ WW
+ 70
+ NPK (HOAGLAND'S) OR 0.1 N (MODIFIED HOAGLAND'S)
+ FERT
+ GRASS
+ EU
+2856
+ GH
+ AMB
+ AMB
+ 26/16 C DAY/NIGHT
+ WW
+ .
+ .
+ FERT
+ GRASS_C
+ AS
+ .
+2892
+ GC
+ 645 UMOL M-2 S-1
+ 16/8
+ 24/18
+ WW
+ .
+ MODIFIED SHIVE'S SOLUTION
+ O3
+ GRASS
+ EU
+ TIME FOR BIOMASS ASSUMED &gt; 42 D; SEE FIG 6
+2893
+ OTC
+ AMB
+ AMB
+ 19
+ WW
+ 67-71%
+ 0.4 G L-1 N; 0.3 G L-1 P205; 0.4 G L-1 K20
+ NONE
+ GRASS_C
+ EU
+ INTRODUCED IN 1890
+2895
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ .
+ .
+ NONE
+ GRASS
+ NA
+2911
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ O3
+ GRASS
+ EU
+ CTL O3 = 26-29 NMOL MOL-1; HI O3= 84 NMOL MOL-1 AVE FOR ALL DAYS
+2919
+ GC
+ AMB
+ AMB
+ 15 C MEAN
+ .
+ .
+ "150 MG N, 18.1 MG P AND 34 MG K"
+ H20
+ GRASS_C
+ EU
+2924
+ GH
+ AMB; PN &gt;1200 UMOL M-2 S-1
+ AMB
+ 32/23; 35/26; 38/29
+ WW
+ .
+ "P, K= 9 G M-2; N (UREA) 12.6-6.3 G M-2 X3 DATES"
+ TEMP
+ WETL
+ NA
+2928
+ OTC
+ 85% OF AMB
+ AMB
+ X= 25; AMB+4
+ WW
+ .
+ N: 110 KG HA-1 WET SEASON; 220 KG HA-1 DRY
+ TEMP
+ WETL
+ AS
+ DATA ON DEVELOPMENT STAGES
+2935
+ OTC
+ AMB
+ .
+ 28/21 (DAY / NIGHT)
+ .
+ .
+ .
+ H2O
+ GRASS_C
+ NA
+ SPAR: SOIL-PLANT-ATMOSPHERE-RESEARCH CHAMBER
+3034
+ GC
+ 1000 UMOL M-2 S-1
+ 14/10
+ 28/22; 24/18; 21/25
+ WW
+ 70
+ .
+ TEMP. NOTE ECOTYPES
+ GRASS
+ NA
+ "TEMPS: MISS: CTL=28, L0=2, . ; N.C: CTL=24, LO=21, HI=28; QUEBEC:
+ CTL=21, . , HI =28"
+3033
+ GC
+ 65 UE M-2 S-1
+ 14/10
+ 28/22
+ WW
+ 0.7
+ HALF STRENGTH HOAGLANDS
+ NONE
+ MIXED
+ NA
+3035
+ GC
+ 1000 UMOL M-2 S-1
+ 14/10
+ 28/22; 24/18; 21/15
+ WW
+ 70
+ .
+ TEMP NOTE ECOTYPES
+ GRASS
+ NA
+ "TEMPS: MISS: CTL=28, LO=21, . ; N.C: CTL=24, LO-21, HI=28; QUEBEC:
+ CTL=21, . , HI=28"
+3036
+ GC
+ 150 OR 1000 UMOL M-2 S-1
+ 14/10
+ 29/23
+ WW
+ 70
+ HALF STRENGTH HOAGLANDS
+ LIGHT
+ GRASS
+ NA
+3038
+ GH
+ AMB
+ AMB
+ 34
+ WW
+ .
+ .
+ NONE
+ GRASS
+ NA
+ MIXED AND UNMIXED CULTURES
+3042
+ GH
+ AMB; 2ME M-2 S-1
+ AMB
+ 32/20
+ WW
+ 50-70
+ "4 LEVELS OF HENITTS: 24,12, 4, OR MM NITRATE"
+ FERT
+ GRASS_C
+ NA
+ ONLY MAIZE DATA WERE TAKEN
+3401
+ GH
+ AMB + LOW INTENSITY INCANDESCENT
+ 1/16/00
+ 28/23
+ "AT PLANTING ONLY, DRYING THEREAFTER"
+ 60-70
+ ..
+ H20
+ GRASS
+ AU
+ ASSUMING THAT TIME COURSE FOR WATER LOSS IS SIMILAR FOR ALL GRASS
+SPECIES
+ (USING WHEAT (COMPANION PAPER)); WE USE TIME CLASSES FOR ANALYSES.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 165142 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_073.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/vrc.ndp073]]></Product_number>
+      <Product_title><![CDATA[Database of Herbaceous Vegetation Responses to Elevated Atmospheric CO2]]></Product_title>
+      <Author>
+        <Name><![CDATA[Jones, M. H.]]></Name>
+        <Company><![CDATA[Ohio State University]]></Company>
+        <Organization><![CDATA[Department of Evolution, Ecology, and Organismal Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Curtis, P. S.]]></Name>
+        <Company><![CDATA[Ohio State University]]></Company>
+        <Organization><![CDATA[Department of Evolution, Ecology, and Organismal Biology]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation Response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Herbaceous Vegetation Responses]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp073/ndp073.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp073/ndp073.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp073/comments.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp073/refs.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[AMB]]></Variable>
+      <Variable><![CDATA[CO2_UNIT]]></Variable>
+      <Variable><![CDATA[CV_AMB]]></Variable>
+      <Variable><![CDATA[CV_ELEV]]></Variable>
+      <Variable><![CDATA[DIV1]]></Variable>
+      <Variable><![CDATA[DIV2]]></Variable>
+      <Variable><![CDATA[DIV3]]></Variable>
+      <Variable><![CDATA[DIV4]]></Variable>
+      <Variable><![CDATA[ELEV]]></Variable>
+      <Variable><![CDATA[GENUS]]></Variable>
+      <Variable><![CDATA[LEVEL]]></Variable>
+      <Variable><![CDATA[MTHD]]></Variable>
+      <Variable><![CDATA[N_AMB]]></Variable>
+      <Variable><![CDATA[N_ELEV]]></Variable>
+      <Variable><![CDATA[PAP_NO]]></Variable>
+      <Variable><![CDATA[PARAM]]></Variable>
+      <Variable><![CDATA[POT]]></Variable>
+      <Variable><![CDATA[P_UNIT]]></Variable>
+      <Variable><![CDATA[QUANT]]></Variable>
+      <Variable><![CDATA[SDC]]></Variable>
+      <Variable><![CDATA[SD_AMB]]></Variable>
+      <Variable><![CDATA[SD_ELEV]]></Variable>
+      <Variable><![CDATA[SE_AMB]]></Variable>
+      <Variable><![CDATA[SE_ELEV]]></Variable>
+      <Variable><![CDATA[SOURCE]]></Variable>
+      <Variable><![CDATA[SPECIES]]></Variable>
+      <Variable><![CDATA[STOCK]]></Variable>
+      <Variable><![CDATA[TIME]]></Variable>
+      <Variable><![CDATA[XTRT]]></Variable>
+      <Variable><![CDATA[X_AMB]]></Variable>
+      <Variable><![CDATA[X_ELEV]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp073/ndp073.htmlContributed by
+Michael H. Jones
+Peter S. Curtis
+Department of Evolution, Ecology, and Organismal Biology
+Prepared by Robert M. Cushman and Antoinette L. Brenkert
+Carbon Dioxide Information Analysis Center
+Publication No. 4909
+Prepared for the
+Prepared by the
+Carbon Dioxide Information Analysis Center
+Oak Ridge, Tennessee 37831-6290
+managed by
+LOCKHEED MARTIN ENERGY RESEARCH CORP.
+for the
+under contract DE-AC05-96OR22464
+PAP_NO = 3034
+PARAM = PN
+SOURCE = F1
+X_ELEV = 44.400
+SE_ELEV = 0.100
+CV*_ELEV = 0.694
+and
+PAP_NO = 2723
+PARAM = PN
+SOURCE = F4
+X_ELEV = 40.120
+SE_ELEV = 0.505
+PAP_NO = 2184
+PARAM = TILLERS
+SOURCE = T2
+X_ELEV = 726.000
+SE_ELEV = 52.000
+CV*_ELEV = 28.203
+and
+PAP_NO = 2717
+PARAM = TILLERS
+SOURCE = F1
+X_ELEV = 4.590
+SE_ELEV = 0.400
+ 38AGWT G PLANT-1 TRITICUM AESTIVUM ANGIO GRASS_CC3 GRASS
+330
+660UL L-1 461.45 GC SEED H2O LO 10 ML PL-1 D-1 F4
+3.61 -9.99 -9.99 -9.99 10 5.13 -9.99 -9.99 -9.99 10 .
+ 38AGWT G PLANT-1 TRITICUM AESTIVUM ANGIO GRASS_CC3 GRASS
+330
+660UL L-1 371.45 GC SEED H2O CTL 40 ML PL-1 D-1 F4
+2.98 -9.99 -9.99 -9.99 10 3.97 -9.99 -9.99 -9.99 10 .
+ 3042PN UMOL M-2 S-1 ZEA MAYS ANGIO GRASS_CC4 GRASS 330
+640UBAR 305 GH SEED FERT HI . F2
+64.80 2.10 5.94 9.45 8 52.40 0.90 2.55 5.01 8 Y
+ 3042PN UMOL M-2 S-1 ZEA MAYS ANGIO GRASS_CC4 GRASS 330
+640UBAR 305 GH SEED FERT LO . F2
+27.90 1.84 5.20 19.24 8 21.90 2.10 5.94 27.97 8 Y
+*SAS data retrieval routine to read ndp073.dat;
+data ndp073;
+infile 'ndp073.dat';
+input PAP_NO 6. @7 PARAM $char7. P_UNIT $ 14-27 GENUS $ 28-40
+ SPECIES $ 41-53 DIV1 $ 54-59 DIV2 $ 60-66 DIV3 $ 67-71
+ DIV4 $ 72-77 AMB $ 78-80 ELEV $ 81-84
+ CO2_UNIT $ 85-94 TIME $ 95-99 POT $ 100-112 MTHD $ 113-116
+ STOCK $ 117-125 XTRT $ 126-131 LEVEL $ 132-138 QUANT $ 139-155
+ SOURCE $ 156-161 X_AMB 162-169 SE_AMB 170-177 SD_AMB 178-185
+ CV_AMB 186-192 N_AMB 193-197 X_ELEV 198-206 SE_ELEV 207-213
+ SD_ELEV 214-221 CV_ELEV 222-229 N_ELEV 230-235 SDC $ 236-238 ;
+* In the above INPUT statement, the variables CV*_AMB and CV*_ELEV have
+ been renamed CV_AMB and CV_ELEV, respectively.;
+proc print;
+run;
+C *** Fortran program to read the file "ndp073.dat"
+C
+ INTEGER PAP_NO, N_AMB, N_ELEV
+C
+ REAL X_AMB, SE_AMB, SD_AMB, CV_AMB, X_ELEV, SE_ELEV,
+ + SD_ELEV, CV_ELEV
+C
+ CHARACTER PARAM*7, P_UNIT*14, GENUS*13, SPECIES*13, DIV1*6,
+ + DIV2*7, DIV3*5, DIV4*6, AMB*3, ELEV*4, CO2_UNIT*10,
+ + TIME*5, POT*13, MTHD*4, STOCK*9, XTRT*6, LEVEL*7,
+ + QUANT*17, SOURCE*6, SDC*3
+C
+ OPEN (UNIT=1, FILE='ndp073.dat')
+C
+C Note that the variables CV*_AMB and CV*_ELEV have
+C been renamed CV_AMB and CV_ELEV, respectively
+C
+ 10 READ (1,100,END=99) PAP_NO, PARAM, P_UNIT, GENUS, SPECIES,
+ + DIV1, DIV2, DIV3, DIV4, AMB, ELEV, CO2_UNIT, TIME, POT,
+ + MTHD, STOCK, XTRT, LEVEL, QUANT, SOURCE, X_AMB, SE_AMB,
+ + SD_AMB, CV_AMB, N_AMB, X_ELEV, SE_ELEV, SD_ELEV, CV_ELEV,
+ + N_ELEV, SDC
+C
+ 100 FORMAT (I6,A7,A14,2A13,A6,A7,A5,A6,A3,A4,A10,A5,A13,A4,A9,
+ + A6,A7,A17,A6,3F8.2,F7.2,I5,F9.2,F7.2,2F8.2,I6,A3)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+Agropyron caninum
+Agropyron smithii
+Agrostis capillaris
+Andropogon gerardii
+Avena barbata
+Avena fatua
+Avena sativa
+Bouteloua curtipendula
+Bouteloua eriopoda
+Bouteloua gracilis
+Briza subaristata
+Bromus erectus
+Bromus hordaeceus
+Bromus willdenowii
+Calamagrostis epigejos
+Carex curvula
+Dactylis glomerata
+Digitaria macroblephara
+Digitaria sanguinalis
+Echinochloa crusgalli
+Eleusine indica
+Eriophorum vaginatum
+Festuca arundinacea
+Festuca durviscula
+Festuca elatior
+Festuca idahoensis
+Festuca ovina
+Festuca pratense
+Festuca rupicola
+Festuca vivipara
+Hordeum vulgare
+Lolium boucheanum
+Lolium multiflorum
+Lolium perenne
+Nardus stricta
+Oryza sativa
+Panicum antidotale
+Panicum laxum
+Panicum millioides
+Pascopyrum smithii
+Paspalum dilatatum
+Pennisetum clandestinum
+Phalaris aquatica
+Phleum pratense
+Poa alpina
+Poa annua
+Poa pratensis
+Puccinellia maritima
+Rottboellia exaltata
+Schizachyrium scoparium
+Scirpus olneyi
+Setaria faberi
+Sorghum bicolor
+Sorghum helpense
+Spartina patens
+Sporobolus kentrophyllus
+Stipa occidentalis
+Themeda triandra
+Triticum aestivum
+Vulpia microstachys
+38. Andre, M., and H. Du Cloux. 1993. Interaction of CO2 Enrichment and Water
+Limitations on Photosynthesis and Water-Use Efficiency in Wheat. Plant
+Physiology and Biochemistry 31:103-112.
+186. Drake, B. G. 1992. A Field Study of the Effects of Elevated CO2 on
+Ecosystem Processes in a Chesapeake Bay Wetland. Australian Journal of Botany
+40:579-595.
+488. Nie, D., H. He, M. B. Kirkham, and E. T. Kanemasu. 1992. Photosynthesis
+of a C3 Grass and a C4 Grass under Elevated CO2. Photosynthetica 26:189-198.
+618. Ryle, G. J. A., C. E. Powell, and V. Tewson. 1992. Effect of elevated co2
+on photosynthesis, respiration and growth of perennial ryegrass. Journal of
+Experimental Botany 43:811-818.
+754. Ziska, L. H., and J. A. Bunce. 1993. Inhibition of Whole Plant
+Respiration by Elevated CO2 as Modified by Growth Temperature. Physiologia
+Plantarum 87:459-466.
+765. Baker, J. T., L. H. Allen Jr., and K. J. Boote. 1992. Response of Rice to
+Carbon Dioxide and Temperature. Agricultural and Forest Meteorology
+60:153-166.
+2066. Samarakoon, A. B., W. J. Muller, and R. M. Gifford. 1995. Transpiration
+and leaf area under elevated CO2: Effects of soil water status and genotype in
+wheat. Australian Journal of Plant Physiology 22:33-44.
+2119. Greer, D. H., W. A. Laing, and B. D. Campbell. 1995. Photosynthetic
+responses of thirteen pasture species to elevated CO2 and temperature.
+Australian Journal of Plant Physiology 22:713-722.
+2125. Baxter, R., M. Gantley, T. W. Ashenden, and J. F. Farrar. 1994. Effects
+of elevated carbon dioxide on three grass species from montane pasture.
+Journal of Experimental Botany 45:1267-1287.
+2132. Rao, M. V., B. A. Hale, and D. P. Ormrod. 1995. Amelioration of
+ozone-induced oxidative damage in wheat plants grown under high carbon
+dioxide. Plant Physiology 109:421-432.
+2133. Tuba, Z., K. Szente, and J. Koch. 1994. Response of photosynthesis,
+stomatal conductance, water use efficiency and production to long-term
+elevated CO2 in winter wheat. Journal of Plant Physiology 144:661-668.
+2158. Gloser, J., and M. Bartak. 1994. Net photosynthesis, growth rate and
+biomass allocation in a rhizomatous grass Icalamagrostis epigejos grown at
+elevated CO2 concentration. Photosynthetica 30(1):143-150.
+2159. Ziska, L. H., and J. A. Bunce. 1994. Increasing growth temperature
+reduces the stimulatory effect of elevated CO2 on photosynthesis or biomass in
+two perennial species. Physiologia Plantarum 91:183-190.
+2168. Knapp, A. K., E. P. Hamerlynck, and C. E. Owensby. 1993. Photosynthetic
+and water relations responses to elevated CO2 in the C4 grass Andropogon
+geradii. International Journal of Plant Science 154(4):459-466.
+2184. Saebo, A., and L. M. Mortensen. 1995. Growth and regrowth of Phleum
+pratense, Lolium perenne, Trifolium repens and Trifolium pratense at normal
+and elevated O2 concentration. Agriculture, Ecosystems and Environment
+55:29-35.
+2192. Knapp, A. K., J. T. Fahnestock, and C. E. Owensby. 1994. Elevated
+atmospheric O2 alters stomatal responses to variable sunlight in a C4 grass.
+Plant, Cell and Environment 17:189-195.
+2202. Wilsey, B. J., S. J. McNaughton, and J. S. Coleman. 1994. Will increases
+in atmospheric O2 affect regrowth following grazing in C4 grasses from
+tropical grasslands? Oecologia 99:141-144.
+2208. Crush, J. R. 1994. Elevated atmospheric O2 concentration and rhizosphere
+nitrogen fixation in four forage plants. New Zealand Journal of Agricultural
+Research 37:455-463.
+2211. Morgan, J. A., W. G. Knight, L. M. Dudley, and H. W. Hunt. 1994.
+Enhanced root system C-sink activity, water relations and aspects fo nutrient
+acquisistion in mycotrophic Bouteloua gracilis subjected to CO2 enrichment.
+Plant and Soil 165:139-146.
+2227. Bowler, J. M., and M. C. Press. 1993. Growth responses of two
+contrasting upland grass species to elevated CO2 and nitrogen concentration.
+New Phytologist 124:515-522.
+2229. Mitchell, R. A. C., V. J. Mitchell, S. P. Driscoll, J. Franklin, and D.
+W. Lawlor. 1993. Effects of increased CO2 concentration and temperature on
+growth and yield of winter wheat at two levels of nitrogen application. Plant,
+Cell and Environment 16:521-529.
+2246. Baxter, R., T. W. Ashenden, T. H. Sparks, and J. F. Farrar. 1994.
+Effects of elevated carbon dioxide on three montane grass species. Journal of
+Experimental Botany 45 (272):305-315.
+2300. Bassirirad, H., D. T. Tissue, J. F. Reynolds, and F. S. Chapin. 1996.
+Response of Eriophorum vaginatum to CO2 enrichment at different soil
+temperature: effects on growth, root respiration and PO-4 uptake kinetics. New
+Phytologist 133:423-430.
+2312. Wilsey, B. J. 1996. Urea additions and defoliation affect plant
+responses to elevated CO2 in a C3 grassland from Yellowstone National Park.
+Oecologia 108:321-327.
+2315. Casella, E., J. F. Soussana, and P. Loiseau. 1996. Long-term effects of
+CO2 enrichment and temperature increase on a temperate grass sward. 1.
+Productivity and water use. Plant and Soil 182:83-99.
+2316. Soussana, J. F., E. Casella, and P. Loiseau. 1996. Long-term effects of
+CO2 enrichment and temperature increase on a temperate grass sward. 2. Plant
+nitrogen budgets and root fraction. Plant and Soil 182:101-114.
+2329. Jones, M. B., M. Jongen, and T. Doyle. 1996. Effects of elevated carbon
+dioxide concentrations on agricultural grassland production. Agricultural and
+Forest Meteorology 79:243-252.
+2330. Stewart, J., and C. Potvin. 1996. Effects of elevated CO2 on an
+artificial grassland community: competition, invasion and neighbourhood area.
+Functional Ecology 10:157-166.
+2337. Saebo, A., and L. M. Mortensen. 1996. The influence of elevated CO2
+concentration on growth of seven grasses and one clover species in a cool
+maritime climate. Acta Agriculturae Scandinavia Section B-Sorland Plant
+Science 46:49-54.
+2341. Schappi, B., and C. Korner. 1996. Growth responses of an alpine
+grassland to elevated CO2. Oecologia 105:43-52.
+2342. Jackson, R. B., and H. L. Reynolds. 1996. Nitrate and ammonium uptake
+for single and mixed species communities grown at elevated CO2. Oecologia
+105:74-80.
+2345. Hakala, K., and T. Mela. 1996. The effects of prolonged exposure to
+elevated temperatures and elevated CO2 leveles on the growth, yield and dry
+matter partitioning of filed-sown meadow fescue. Agricultural and Food Science
+in Finland 5(3):285-298.
+2347. Jackson, R. B., Y. Luo, Z. G. Cardon, O. E. Sala, C. B. Field, and H. A.
+Mooney. 1995. Photosynthesis, growth and density for the dominant species in a
+CO2 enriched grassland. Journal of Biogeography 22:221-225.
+2350. Teughels, H., I. Nijs, P. Van Hecke, and I. Impens. 1995. Competition in
+a global change environment: The importance of different plant traits for
+competitive success. Journal of Biogeography 22:297-305.
+2351. Campbell, B. D., W. A. Laing, D. H. Gree, J. R. Crush, H. Clark, D. Y.
+WIlliamson, and M. D. J. Given. 1995. Variation in grassland populations and
+species and the implications for community responses to elevated CO2. Journal
+of Biogeography 22:315-322.
+2357. Chu, C. C., C. B. Field, and H. A. Mooney. 1996. Effects of CO2 and
+nutrient enrichment on tissue quality of two California annuals. Oecologia
+107:433-440.
+2358. Ferris, R., I. Niy, T. Bejaeghe, and I. Impens. 1996. Contrasting CO2
+and temperature effects on leaf growth of perennial rye grass in spring and
+summer. Journal of Experimental Botany 47:1033-1043.
+2362. Wheeler, T. R., G. R. Batts, R. H. Ellis, P. Hadley, and J. J. L.
+Morison. 1996. Growth and yield of winter wheat (Triticum aestium) crops in
+response to CO2 and temperature. Journal of Agricultural Science 127:37-48.
+2363. Volin, J. C., and P. B. Reich. 1996. Interaction of elevated CO2 and O3
+on growth, photosynthesis and respiration of three perennial species grown in
+low and high nitrogen. Physiologia Plantarum 97:674-684.
+2364. Miglietta, F., A. Giuntoli, and M. Bindi. 1996. The effect of free air
+carbon dioxide enrichment (FACE) and soil nitrogen availability on the
+photosynthetic capacity of wheat. Photosynthesis Research 47:281-290.
+2366. Ziska, L. H., W. Weerakoon, O. S. Namuco, and R. Pamplona. 1996.
+Influence of nitrogen on the elevated CO2 response in field-grown rice.
+Australian Journal of Plant Physiology 23:45-52.
+2367. Saebo, A., and L. M. Mortensen. 1996. Growth, morphology and yield of
+wheat, barley and oats grown at elevated atmospheric CO2 concentration in a
+cool maritime climate. Agriculture, Ecosystems and Environment 57:9-15.
+2369. Ziska, L. H., P. A. Manalo, and R. A. Ordonez. 1996. Intraspecific
+variaiton in the response of rice (Oryza sativa L) to increased CO2 and
+temeprature: growth and yield response of seventeen cultivars. Journal of
+Experimental Botany 47:1353-1359.
+2372. Nijs, I., H. Teughels, H. Blum, G. Hendrey, and I. Impens. 1996.
+Simulation of climate change with infrared heaters reduces the productivity of
+Lolium perenne L in summer. Environmental and Experimental Botany 36:271-280.
+2379. Veisz, O., N. Harnos, L. Szunies, and T. Tischner. 1996. Overwintering
+of winter cereals in Hungary in the case of global warming. Euphytica
+92:249-253.
+2383. Nijs, I., and I. Impens. 1996. Effects of elevated CO2 concentration and
+climate-warming on photosynthesis during winter in Lolium perenne. Journal of
+Experimental Botany 47:915-924.
+2387. Leadley, P. W., and J. Stocklin. 1996. Effects of elevated CO2 on model
+calcareous grasslands: Community, species, and genotype responses. Global
+Change Biology 2:389-397.
+2395. Tuba, Z., K. Szente, Z. Nagy, Z. Csintalan, and J. Koch. 1996. Responses
+of CO2 assimilation, transpiration and water use efficiency to long-term
+elevated CO2 in perennial C3 xeric loess steppe species. Journal of Plant
+Physiology 148:356-361.
+2398. Mortensen, L. M., and A. Saebo. 1996. The effects of elevated CO2
+concentration on growth of Phleum pratense L. in different parts of the growth
+season. Acta Agriculturaie Scandinavia Section B-Soil and Plant Science
+46:128-134.
+2401. Jackson, R. B., and A. L. Reynolds. 1996. Nitrate and annomium uptake
+for single- and mixed species communities grown at elevated CO2. Oecologia
+105:74-80.
+2403. Fanymeier, A., U. Geuters, U. Hesstein, H. Sandhagel, A. Hoffmann, B.
+Vermebren, and A. J. Jager. 1996. Effects of elevated CO2, nitrogen supply and
+tropospheric ozone on spring wheat. 1. Growth and Yields. Environmental
+Pollution 91:381-390.
+2407. Kinball, B. A., P. J. Pinter, R. L. Garcia, R. L. La Mort, G. W. Wall,
+D. J. Hunsaker, G. WEchsung, F. Wechsung, and T. Kartschall. 1995.
+Productivity and water use of wheat under free-air CO2 enrichment. Global
+Change Biology 1:429-442.
+2420. Hunt, H. W., E. T. Elliot, J. K. Detling, J. A. Morgan, and D. X. Chen.
+1996. Responses of a C3 and a C4 perennial grass to elevated CO2 and
+temperature under different water regimes. Global Change Biology 2:35-47.
+2427. Samarakoon, A. B., and R. M. Gifford. 1996. Elevated CO2 effects on
+water use and growth of maize in wet and drying soils. Australian Journal of
+Plant Physiology 23:53-62.
+2430. Ruget, F., O. Bethenod, and L. Combe. 1996. Repercussions of increased
+atmospheric CO2 on maize morphogenesis and growth for various temperature and
+radiation levels. Maydica 41:181-191.
+2440. Frank, A. B., and A. Bauer. 1996. Temperature, nitrogen and carbon
+dioxide effects on spring wheat development and spikelet numbers. Crop Science
+36:659-665.
+2441. Read, J. J., and J. A. Morgan. 1996. Growth and partitioning in
+Pascopyrum smithii (C3) and Bouteloua graciles (C4) as influenced by carbon
+dioxide and temperature. Annals of Botany 77:487-496.
+2443. Polley, H. W., H. B. Johnson, H. S. Mayeux, D. A. Brown, and J. W. C.
+White. 1996. Leaf and plant water use efficiency of C4 species grown at
+glacial to elevated CO2 concentrations. International Journal of Plant
+Sciences 157:164-170.
+2444. Bowler, J. M., and M. C. Press. 1996. Effects of elevated CO2 nitrogen
+form and concentration on growth and photosynthesis of a fast- adn
+slow-growing grass. New Phytologist 132:391-401.
+2448. RowlandBamford, A. J., J. T. Baker, H. L. Allen, and G. Bowes. 1996.
+Interactions of CO2 enrichment and temperature on carbohydrate accumulation
+and partitioning in rice. Environmental and Experimental Botany 36:111-124.
+2454. Bagash, D. Z., M. J. Paul, M. A. J. Parry, A. J. Keys, and D. W. Lawlor.
+1995. Increased capacity for photosynthesis in wheat grown at elevated CO2.
+The relationship between electron-transport and carbon metabolism. Planta
+197:482-489.
+2468. Rao, M. V., and L. J. Dekok. 1994. Interactive effects of high CO2 and
+SO2 on growth and antioxidant levels in wheat. Phyton-Annales Rei Botanicae
+34:279-290.
+2474. Newbery, R. M., J. Wolfenden, T. A. Mansfield, and A. F. Harrison. 1995.
+Nitrogen, phosphorus and potassium uptake and demand Agrostis capillaria. The
+influence of elevated CO2 and nutrient supply. New Phytologist 130:565-574.
+2480. Lenssen, G. M., W. E. Vandium, P. Jak, and J. Roxema. 1995. The response
+of Aster tripolium and Puccinellia maritima to atmospheric carbon dioxide
+enrichment and their interaction with flooding and salinity. Aquatic Botany
+50:181-192.
+2492. Schenk, U., R. Maderscheid, J. Hugen, and H. J. Weigel. 1995. Effects of
+CO2 enrichment and intraspecific competition on biomass partitioning, nitrogen
+content, and microbial biomass carbon in soil of perennial rye grass and white
+clover. Journal of Experimental Botany 46:987-993.
+2502. Jacob, J., C. Greitner, and B. G. Drake. 1995. Acclimation of
+photosynthesis in relation to Rubisco and non-structural carbohydrate contents
+and in-situ carboxylase activity in Scirpus olnei grown at elevated CO2 in the
+field. Plant, Cell and Environment 18:875-884.
+2503. Jongen, M., M. B. Jones, T. Hebeisen, H. Blum, and G. Hendrey. 1995. The
+effects of elevated CO2 concentrations on the root growth of Lolium perenne
+and Trifolium repens grown in a FACE system. Global Change Biology 1:361-371.
+2504. Kleemola, J., J. Peltonen, and P. Peltonen-Sainio. 1994. Apical
+development and growth of Barley under different CO2 and nitrogen regimes.
+Journal of Agronomy and Crop Science 173:79-92.
+2510. Demothes, M. A. G., and D. Knoppik. 1994. Effects of long term enhanced
+CO2 partial pressure on gas exchange parameters and saccharide pools of wheat
+leaves. Photosynthetica 30:435-445.
+2521. Balaguer, L., J. D. Barnes, A. Panicucci, and A. M. Borland. 1995.
+Production and utilization of assimilates in wheat leaves exposed to elevated
+O3 and/or CO2. New Phytologist 129:557-568.
+2522. Barnes, J. D., J. H. Ollerenshaw, and C. P. Whitfield. 1995. Effects of
+elevated CO2 and/or O3 on growth, development and physiology of wheat. Global
+Change Biology 1:129-142.
+2525. Hattenschwiler, S., and C. Korner. 1996. System-level adjustments to
+elevated CO2 in model spruce ecosystems. Global Change Biology 2:377-387.
+2531. Owensby, C. E., P. I. Coyne, J. M. Ham, L. M. Avea, and A. K. Knapp.
+1993. Biomass production in a tallgrass prairie ecosystem exposed to ambient
+and elevated CO2. Ecological Applications 3:644-653.
+2541. Jackson, R. B., O. E. Sala, C. B. Field, and H. A. Mooney. 1994. CO2
+alters water use, carbon gain, and yield for the dominant species in a natural
+grassland. Oecologia 98:257-262.
+2547. Baker, J. T., L. H. Allen, and K. J. Boote 1992. Temperature effects on
+rice at elevated CO2 concentration. Journal of Experimental Botany 43:959-964.
+2579. Billes, G., H. Rouhier, and P. Bottner. 1993. Modifications of the
+carbon and nitrogen allocations in the plant Triticum aestivum L. soil system
+in response to increased atmospheric CO2 concentration. Plant and Soil
+157:215-225.
+2580. Baker, J. T., S. L. Albrecht, D. Pan, L. H. Allen, N. B. Pickering, and
+K. J. Boote. 1994. Carbon dioxide and temperature effects on rice (Oryza
+sativa L., CV 1R-72). Soil and Crop Science Society of Florida, Proceedings
+53:90-97.
+2595. Santruce, J., H. Santurckova, J. Kueton, M. Simkoua, and K. Rohacek.
+1994. The effect of elevated CO2 concentration on photosynthetic CO2 fixation,
+respiration and carbon economy of wheat plants. Rostlinna Vyroba 40:689-696.
+2597. Ingaurdsen, C., and B. Veierskov. 1994. Response of young barley plants
+to CO2 enrichment. Journal of Experimental Botany 45:1373-1378.
+2644. Reeves, D. W., H. H. Royers, S. A. Prior, C. W. Wood, and G. B. Runion.
+1994. Elevated atmospheric carbon dioxide effects on sorghum and soybean
+nutrient status. Journal of Plant Nutrition 17:1939-1954.
+2654. Jackson, R. B., Y. Lou, Z. G. Cardon, O. E. Sala, C. B. Field, and H. A.
+Mooney. 1995. Photosynthesis, growth and density for the dominant species in a
+CO2 enriched grassland. Journal of Biogeography 22:221-225.
+2666. Samarakoon, A. B., and R. M. Gifford. 1995. Soil water content under
+plants at high CO2 concentrations and interaction with the direct CO2 effects:
+A species comparison. Journal of Biogeography 22:193-202.
+2669. Schenk, U., A. J. Jager, and H. J. Weigel. 1996. Nitrogen supply
+determine responses of yeild and biomass partitioning of perennial rye grass
+to elevated atmospheric carbon dioxide concentrations. Journal of Plant
+Nurtition 19:1423-1440.
+2692. Kimball, B. A., P. J. P. Pinter, R. L. Garcia, R. L. LaMorte, G. W.
+Wall, D. J. Hunsaker, G. Wechsung, F. Wechsong, and T. Kartschall. 1995.
+Productivity and water use of wheat under free-air CO2. Global Change Biology
+1:429-442.
+2698. Potvin, C., and L. Vasseur. 1997. Long-term CO2 enrichment of a pasture
+community: species richness, dominance, and succession. Ecology 78:666-677.
+2709. Hebeisen, T., A. Luscher, and J. Nosberger. 1997. Effects of elevated
+atmospheric CO2 and nitrogen fertilisation on yield of Trifolium repens and
+Lolium perenne. Acta Oecologica/Oecologia Plantarum 18:277-284.
+2710. Hebeisen, T., A. Luscher, S. Zanetti, B. U. Fischer, U. A. Hartwig, M.
+Frehner, G. R. Hendrey, H. Blum, and J. Nosberger. 1997. Growth response of
+Trifolium repens L and Lolium perenne L as monocultures and bi-species mixture
+to free air CO2 enrichment and management. Global Change Biology 3:149-160.
+2711. Ghannoum, O., S. vonCaemmerer, E. W. R. Barlow, and J. P. Conroy. 1997.
+The effect of CO2 enrichment and irradiance on the growth, morphology and gas
+exchange of a C3 (Panicum laxum) and a C4 (Panicum antidotale) grass.
+Australian Journal of Plant Physiology 24:227-237.
+2715. Cotrufo, M. F., and A. Gorissen. 1997. Elevated CO2 enhances
+below-ground C allocation in three perennial grass species at different levels
+of N availibility. New Phytologist 137:421-431.
+2718. Wilsey, B. J., J. S. Coleman, and S. J. McNaughton. 1997. Effects of
+elevated CO2 and defoliation of grasses: A comparative ecosystem approach.
+Ecological Applications 7:844-853.
+2723. Stirling, C. M., P. A. Davey, T. G. Williams, and S. P. Long. 1997.
+Acclimation of photosynthesis to elevated CO2 and temperature in five British
+native species of contrasting functional type. Global Change Biology
+3:237-246.
+2735. Nijs, I., and I. Impens. 1997. An analysis of the balance between root
+and shoot activity in Lolium perenne cv Melvina. Effects of CO2 concentration
+and air temperature. New Phytologist 135:81-91.
+2737. Mortensen, L. M. 1997. Effects of carbon dioxide concentrations on three
+grass species grown in mixture in two soil types at different ozone
+concentrations or temperatures. Acta Agriculturae Scandinavica, Section B,
+Soil and Plant Sciences 47:14-19.
+2756. Hamerlynck, E. P., C. A. McAllister, A. K. Knapp, J. M. Ham, and C. E.
+Owensby. 1997. Photosynthetic gas exchange and water relation responses of
+three tallgrass prairie species to elevated carbon dioxide and moderate
+drought. International Journal of Plant Sciences 158:608-616.
+2758. Stocker, R., P. W. Leadley, and C. Korner. 1997. Carbon and water fluxes
+in a calcareous grassland under elevated CO2. Functional Ecology 11:222-230.
+2785. Hungate, B. A., J. Canadell, and F. S. Chapin. 1996. Plant species
+mediate changes in soil microbial N in response to elevated CO2. Ecology
+77:2505-2515.
+2793. Fitter, A. H., G. K. Self, J. Wolfenden, M. M. I. vanVuuren, T. K.
+Brown, L. Williamson, J. D. Graves, and D. Robinson. 1996. Root production and
+mortality under elevated atmospheric carbon dioxide. Plant and Soil
+187:299-306.
+2802. Casela, E., and J. F. Soussana. 1997. Long-term effects of CO2
+enrichment and temperature increase on the carbon balance of a temperate grass
+sward. Journal of Experimental Botany 48:1309-1321.
+2821. Schapendonk, A. H. C. M., P. Dijkstra, J. Groenwold, C. S. Pot, and S.
+C. vandeGeijn. 1997. Carbon balance and water use effciency of frequently cut
+Lolium perenne L swards at elevated carbon dioxide. Global Change Biology
+3:207-216.
+2834. Baxter, R., T. W. Ashenden, and J. F. Farrar. 1997. Effect of elevated
+CO2 and nutrient status on growth, dry matter partitioning and nutrient
+content of Poa alpina var vivipara L. Journal of Experimental Botany
+48:1477-1486.
+2835. Bassirirad, H., J. F. Reynolds, R. A. Virginia, and M. H. Brunelle.
+1997. Growth and root NO3- and PO43- uptake capacity of three desert species
+in response to atmospheric CO2 enrichment. Australian Journal of Plant
+Physiology 24:353-358.
+2839. Lin, W. H., L. H. Ziska, O. S. Namuco, and K. Bai. 1997. The interaction
+of high temperature and elevated CO2 on photosynthetic acclimation of single
+leaves of rice in situ. Physiologia Plantarum 99:178-184.
+2855. Wolf, J. 1996. Effects of nutrient supply (NPK) on spring wheat response
+to elevated atmospheric CO2. Plant and Soil 185:113-123.
+2856. Nakamura, T., M. Osaki, T. Koike, Y. T. Hanba, E. Wada, and T. Tadano.
+1997. Effect of CO2 enrichment on carbon and nitrogen interaction in wheat and
+soybean. Soil Science and Plant Nutrition 43:789-798.
+2892. McKee, I. F., J. F. Bullimore, and S. P. Long. 1997. Will elevated CO2
+concentrations protect the yield of wheat from O3 damage? . Plant, Cell and
+Environment 20:77-84.
+2893. Manderscheid, R., and H. J. Weigel. 1997. Photosynthetic and growth
+responses of old and modern spring wheat cultivars to atmospheric CO2
+enrichment. Agriculture, Ecosystems and Environment 64:65-73.
+2895. Sicher, R. C., and J. A. Bunce. 1997. Relationship of photosynthetic
+acclimation to changes of Rubisco activity in field-grown winter wheat and
+barley during growth in elevated carbon dioxide. Photosynthesis Research
+52:27-38.
+2911. Mulholland, B. J., J. Craigon, C. R. Black, J. J. Colls, J. Atherton,
+and G. Landon. 1997. Impact of elevated atmospheric CO2 and O3 on gas exchange
+and chlorophyll content in spring wheat (Triticum aestivum L). Journal of
+Experimental Botany 48:1853-1863.
+2919. VanVuuren, M. M. I., D. Robinson, A. H. Fitter, S. D. Chasalow, L.
+Williamson, and J. A. Raven. 1997. Effects of elevated atmospheric CO2 and
+soil water availability on root biomass, root length, and N, P and K uptake by
+wheat. New Phytologist 135:455-465.
+2924. Vu, J. C. V., L. H. Allen, K. J. Boote, and G. Bowes. 1997. Effects of
+elevated CO2 and temperature on photosynthesis and Rubisco in rice and
+soybean. Plant, Cell and Environment 20:68-76.
+2928. Ziska, L. H., O. Namuco, T. Moya, and J. Quilang. 1997. Growth and yield
+response of field-grown tropical rice to increasing carbon dioxide and air
+temperature. Agronomy Journal 89:45-53.
+2935. Baker, J. T., L. H. Allen, K. J. Boote, and N. B. Pickering. 1997. Rice
+responses to drought under carbon dioxide enrichment. 1. Growth and yield.
+Global Change Biology 3:119-128.
+3033. Patterson, D. T., and E. P. Flint. 1980. Potential effects of global
+atmospheric CO2 enrichment on the growth and competitiveness of C3 and C4 weed
+and crop plants. Weed Science 28:71-75.
+3034. Potvin, C., and B. R. Strain. 1985. Photosynthetic response to growth
+temperature and CO2 enrichment in two species of C4 grasses. Canadian Journal
+of Botany 63:483-487.
+3035. Potvin, C., and B. R. Strain. 1985. Effects of CO2 enrichment and
+temperature on growth in two C4 weeds, Enchinochloa crus-galli and Eleusine
+indica. Canadian Journal of Botany 63:1495-1499.
+3036. Sionit, N., and D. T. Patterson. 1984. Responses of C4 grasses to
+atmospheric CO2 enrichment. I. Effect of irradiance. Oecologia 65:30-34.
+3038. Carter, D. R., and K. M. Peterson. 1983. Effects of a CO2 enriched
+atmosphere on the growth and competitive interaction of a C3 and a C4 grass.
+Oecologia 58:188-193.
+3041. Morison, J. I. L., and R. M. Giford. 1984. Plant growth and water use
+with limited water supply in high CO2 concentrations. II. Plant dry weight,
+partitioning, and water use efficiency. Australian Journal of Plant Physiology
+11:375-384.
+3042. Wong, S. C. 1979. elevated atmospheric partial pressure of CO2 and plant
+growth. I. Interactions of nitrogen nutrition and photosynthetic capacity in
+C3 and C4 plants. Oecologia 44:68-74.
+Listed are
+paper number (PAP_NO, as defined in Sect. 9.)
+ CO2 exposure facility
+ light
+ temperature
+ watering
+ humidity
+ nutrient
+ interacting treatment
+ biome
+ location, and
+ comments.
+Abbreviations are as described in the body of this report for data files
+ndp073.dat and ndp073.wk1.
+38
+ GC
+ 600+/-90 UE M-2 S-1
+ 14/10
+ 24/18
+ 40 OR 10 ML PL-1 D-1
+ 0.588235294
+ HOAGLAND'S
+ H2O
+ GRASS
+ EU
+186
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ NONE
+ CO2 ONLY
+ WETL
+ NA
+488
+ GH
+ AMBIENT
+ AMBIENT
+ FIELD CAPACITY OR NONE
+ NONE
+ CO2 AND WATER
+ GRASS
+ NA
+ 2ND YEAR; NO TEMP DATA; FIELD PLANTS.
+618
+ GC
+ AMB
+ 12H
+ 20/15 C (DAY/NIGHT)
+ WW
+ AMB
+ NITRATE' SOLUTION
+ NONE
+ GRASS
+ EU
+ .
+754
+ GC
+ 0.6 MMOL M-2 S-1
+ 14 H
+ "15, 20, 25, 30 DEG C CONSTANT DAY/NIGHT"
+ WW
+ &gt;50 %
+ COMPLETE NUTRIENT SOLUTION ADDED DAILY
+ TEMP
+ MEAD
+ NA
+ MAINTENANCE RESPIRATION RECORDED HERE. GROWTH RESPIRATION
+ ALSO REPORTED ONE GC PER CO2 TREATMENT
+765
+ GC
+ AMB
+ AMB
+ .
+ WW
+ .
+ .
+ TEMP
+ GRASS_C
+ NA
+ CONTROL: 28/21/25 C; HI: 40/33/37 C
+2066
+ GH
+ 24.8 MOL M-2 D-1
+ 16 H
+ 20/14
+ .
+ .
+ COMPLETE FERTILIZER ADDED
+ H2O
+ GRASS_C
+ AU
+ TWO VARIETIES USED
+2119
+ GC
+ 700 UMOL M-2 S-1
+ 1/12/00
+ 12/7; 18/13; 28/23
+ WW
+ 0.4/0.3 +- 0.05 KPA VPD
+ HALF-STRENGTH HOAGLAND'S
+ TEMP
+ GRASS
+ AU
+ "USABLE DATA ON 4 SPP ONLY, FOR PN"
+2125
+ OTC
+ AMB
+ AMB
+ AMB
+ WW DAILY FC
+ AMB
+ 0.2 MOL M-3 N AND 0.05 MOL M-3 P
+ CO2 ONLY
+ GRASS
+ EU
+ "OTHER NUTRIENT DATA, EFFICIENCIES - P,"
+2132
+ GC
+ 500 UMOL M-2 S-1
+ 14/10
+ 25/18
+ WW
+ 50-70
+ HOAGLAND'S ALTERNATE DAYS
+ O3
+ GRASS
+ NA
+2133
+ OTC
+ AMB
+ AMB
+ AMB
+ .
+ .
+ NPK APPLIED
+ .
+ GRASS_C
+ EU
+2158
+ GC
+ 200 UMOL M-2 S-1
+ 16 H
+ 220
+ WW
+ 0.8
+ SURPLUS NUTRIENTS
+ NONE
+ BOREAL
+ EU
+ "1 GC AT EACH CO2 LEVEL. QY, RHZWT, LWR, LAR"
+2159
+ GC
+ .6 MMOL M-25-1
+ 14H
+ "15,20,25,30"
+ WW
+ &gt;50%
+ """COMPLETE"" IN DAILY WATER"
+ TEMP
+ GRASS
+ NA
+2168
+ OTC
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ NONE
+ GRASS
+ NA
+ 1991 PRECIPITATION: 17.1 CM; 1992 PRECIPITATION: 26.8 CM; SAMPLE
+ SIZE INFERRED FROM DESIGN. LFY.MD
+2184
+ OTC
+ AMBIENT
+ 15-18
+ 12-Nov
+ AMB AND DRIP
+ .
+ ADDED WITH DRIP WATER; AMT NOT STATED
+ HARVEST
+ GRASS
+ EU
+ CLIPPED TO 5CM AT EACH HARVEST
+2192
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ .
+ CO2
+ GRASS
+ NA
+ "DATA USED FROM LAST MEASUREMENT PRIOR TO SHADING, F2."
+2202
+ GC
+ 725-890 UE
+ .
+ .
+ WW
+ .
+ HOAGLAND'S; 2 G/M2 N WEEKLY
+ CLIPPING TO 5 CM
+ GRASS
+ AF
+ C4; SPOROBOLUS KENTROPHYLLUS; ADDT'L LF NUTRIENTS AVAILABLE IN T1
+2208
+ GC
+ 700 UMOL M-2
+ 12 H
+ .
+ WW
+ AMB
+ FERT
+ TEMP
+ GRASS_C
+ NA
+ THERE ARE TWO LOLIUM HYBRIDS (2N AND 4N). EACH ONE WAS TREATED
+AS A
+ SPECIES.
+2211
+ GH
+ ~900 UMOL M-2 S-1
+ 14/10
+ 25/16
+ WW
+ 35/90
+ NONE
+ NONE
+ GRASS
+ NA
+2227
+ GC
+ 600 UMOL M-2 S-1 AT SEEDLING HT
+ 15/9
+ 20/15
+ WW
+ 65/70
+ 0.8 NM NH4NO3 + 50% LONG ASHTON SOLUTION
+ "HI N, LOW N"
+ GRASS
+ EU
+2229
+ GC
+ AMB
+ .
+ +4C
+ .
+ .
+ HI/LOW
+ TEMP/FERT
+ GRASS_C
+ EU
+2246
+ OTC
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ WW
+ AMBIENT
+ "WEEKLY 1/5 MODIFIED LONG ASHTON- 0.2 MOL M-3 N, 0.05 MOL M-3 P"
+ NONE
+ GRASS
+ EU
+ "NAR, LAR, LWR"
+2300
+ GC
+ 800 UMOL/M2S ACTIVE RADIATION
+ 18 H
+ 15 C
+ WATERED DAILY TO SATURATION
+ .
+ HALF-STRENGTH MODIFIED HOAGLAND SOLUTION WITH AMMONIUM
+NITRATE AND P
+ CONCENTRATION OF 32 PPM
+ "SOIL TEMPERATURE (5,15, AND 25 C)"
+ TUNDRA
+ NA
+ THIS STUDY FOCUSES ON THE EFFECTS OF SOIL TEMPERATURE. RATE OF PO4
+ ABSORPTION WAS LEFT OUT.
+2312
+ GC
+ 615 UE (603-621)
+ 23/11
+ 100 ML EACH 3 D
+ NOT CONTROLLED
+ C= HOAGLAND'S T=HOAGLAND'S + UREA (40 G/M2)
+ "UREA, CLIPPING"
+ GRASS
+ NA
+ RINSED SAND; CONTROLS HAD HOAGLAND'S
+2315
+ GH
+ AMB/SEASONAL
+ AMB/SEASONAL
+ AMB/SEASONAL
+ SEASONAL; SUMMER WW/DEFICIT
+ .
+ N-= 160 KG/HA YR; N+=530 KG/HA YR
+ "N HI, LO"
+ GRASS
+ EU
+ 2 YR STUDY; MICROCLIMATE DETAILS AVAIL. PKS ALSO APPLIED. DATA
+USED
+FROM
+ SUMMER DROUGHT ONLY.
+2316
+ GH
+ AMB
+ AMB
+ AMB
+ IRRIGATION AT AMB LEVELS
+ AMB
+ 160 OR 530 KG N HA-1 YR-1
+ FERT
+ GRASS
+ EU
+ "PLASTIC TUNNELS. SWARDS, SOWN. PERIODIC CLIPPING OF ALL PLOTS."
+2329
+ OTC
+ REDUCED ~20%
+ AMB
+ "AMB + 1-2 DAY, 0-1 NIGHT"
+ WW
+ .
+ NPK; 600 KG N/HA FOR SEASON
+ CLIPPING
+ GRASS
+ EU
+ SOWN IN GROUND. DATA FROM 2 GROWING SEASONS. CO2 TMNT YR-ROUND
+2330
+ OTC and GC
+ "OTC= AMBIENT, GC NOT AVAILABLE"
+ "OTC=AMBIENT, GC=NOT AVAILABLE"
+ "OTC= AMBIENT, GC= FOLLOWED AMBIENT"
+ "OTC= AMBIENT, GC= EVERY 1-3 DAYS"
+ "OTC= AMBIENT, GC= NOT AVAILABLE"
+ GROWTH CHAMBERS; 5-10-15 NPK PLUS MICRONUTRIENTS. 2 ML/H EVERY TWO
+WEEKS
+ COMPETITION AND METHOD (OTC AND GC)
+ GRASS
+ NA
+ "GC (PH = 6.5) PHOTOPERIOD, LIGHT AND HUMIDITY ARE REPORTED IN
+WANT,
+ LECHOWICZ AND POTWIN (1994). COMPETING SPECIES (TRIFOLIUM REPENS,
+POA
+ PRATENSIS, PHLEUM PRATENSE, AGROSTIS STOLONIFERA) NO INDIVIDUAL
+POTS."
+2337
+ OTC
+ AMB
+ AMB
+ AMB; X=11.3
+ DRIP
+ AMB
+ "YES, UNKNOWN"
+ NONE
+ MEAD
+ EU
+ COMMON SPP + CULTIVARS; NORWAY; MARITIME
+2341
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB/WW
+ AMB
+ NPK 1.5:1:1.5; =40 KG N HA-1 Y-1
+ "CO2, NUTRIENTS"
+ EU
+ 3 YR EXP. OTCS UP 98-108 D Y-1. SOME DATA ALSO FROM YEARS 1 &amp; 2
+2342
+ OTC
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ "N, P, K 20 G M-2, 120 DAY TIME-RELEASE OSMOCOTE"
+ "ADDITIONAL NUTRIENTS N, P, K"
+ GRASS
+ NA
+ MONOCULTURES OF SIX SPECIES AND ONE MIXED COMMUNITY. SERPENTIME
+SOIL
+2345
+ otc
+ amb
+ AMR
+ AMB; AMB +3
+ WW
+ .
+ NPK + NUTRIENTS
+ TEMP
+ GRASS
+ EU
+ OTCS PLACED IN GH FOR WARMING
+2347
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ NONE
+ CO2 ONLY
+ GRASS
+ NA
+ JASPER RIDGE
+2350
+ GH
+ AMB
+ AMB
+ 17
+ WW
+ .
+ 7 G M-2 N; 5 G M-2 P; 7 G M-2 K
+ CLIPPING EVERY 4 WK
+ GRASS
+ EU
+ "ALSO INCLUDED TEMP, CO2 X TEMP, MIXTURES OF SPP"
+2351
+ GC
+ 700 UMOL M-2 S-1
+ 12
+ 12/7; 18/13; 28/23
+ WW
+ .
+ HALF-STRENGTH HOAGLAND'S GX D-1
+ TEMP
+ GRASS
+ AU
+ GROWN IN STERILE SAND
+2357
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ OSMOCOTE: 20 G M
+ NUTRIENTS
+ GRASS
+ NA
+ JASPER RIDGE
+2358
+ GH
+ AMB; 640 UMOL M-2 S-1
+ AMB; 640 UMOL M-2 S-1
+ 13-26
+ WW
+ 0.08
+ 13 G N M-2; 3.18 G P M-2; 10.61 G K M-2
+ TEMP (+4)
+ GRASS
+ EU
+ GERMINATION IN POTS IN FIELD; CO2 BEGAN AFTER ~6.5 MONTHS
+2362
+ GH
+ AMB
+ AMB
+ 13;10
+ WW
+ .
+ NOT LIMITING
+ NONE
+ GRASS
+ EU
+ TUNNELS = GH
+2363
+ GC
+ 552 UMOL M-2 S-1
+ 14 H
+ 26/21
+ WW
+ 60-70%
+ HALF STRENGTH HOAGLAND'S; N=6 OR .5 mM
+ O3 + FERT
+ GRASS
+ NA
+ "OZONE = 3 +/- .3, 92 +/- .4 nMOL MOL-1; FERT = 6 OR .5 nM N.
+ MACRONUTRIENTS SAME FOR HI/LO FERT TMNT."
+2364
+ FACE
+ AMB
+ .
+ .
+ .
+ .
+ .
+ .
+ GRASS_C
+ EU
+ MINIFACE
+2366
+ OTC
+ 89% OF AMB
+ AMB
+ 32 / 24.9
+ WW
+ .
+ .
+ FERT
+ GRASS_C
+ AS
+ NO SUPPLEMENTAL N
+2367
+ OTC
+ AMB
+ AMB
+ AMB
+ WW
+ .
+ IRRIGATED WITH NUTRIENT ENRICHED WATER
+ NONE
+ GRASS_C
+ EU
+ .
+2369
+ GH
+ AMB
+ AMB
+ 29/21 OR 37/29
+ WW
+ 70 +/- 5
+ PROVIDED
+ WETL
+ WETL
+ AS
+ 29/21= CTL; 37/29 = HI TEMP (PC.1354). 17 CULTIVARS TREATED AS REPS
+2372
+ FACE
+ AMB
+ AMB
+ "AMB/AMB+2.5, 18-30"
+ WW
+ AMB
+ 7 G N M-2
+ TEMP
+ GRASS
+ EU
+ "TEMP INCREASE USING INFRA-RED LAMPS ALL MATERIAL CLIPPED PRIOR
+ TO START OF TEMP TMT. EFFECTIVE CO2 DURATION USED. 12- AGWT, LFN, PN"
+2379
+ GC
+ AMB
+ AMB
+ AMB
+ .
+ .
+ .
+ NONE
+ GRASS_C
+ EU
+ 10 CULTIVARS TREATED AS REPS.
+2383
+ GH
+ .
+ AMB
+ AMB AND AMB+4
+ WW
+ .
+ FERTILIZED
+ TEMP
+ GRASS_C
+ EU
+2387
+ GH
+ AMB- ~MAX=800 UMOL M-2 S-1
+ "16, W LIGHTS"
+ 18/10-24/18
+ WW 1X WK-1
+ .
+ NO ADDITIONAL
+ "330, 500, 660 UL L-1 CO2"
+ GRASS
+ EU
+ "CALCEROUS GRASSLAND. SPP AND ECOSYS 76 PLANTS/ CONTAINER
+ REPRESENTING FIELD %, PESTICIDES USED."
+2395
+ OTC
+ AMB
+ AMB
+ AMB
+ WATERED OCCASIONALLY
+ AMB
+ .
+ .
+ GRASS
+ EU
+ THE SPECIES GROW IN A XERIC TEMPERATE LOESS STEPPE.
+2398
+ OTC
+ AMB
+ AMB
+ AMB (~11)
+ WW
+ ..
+ "ADDED, BUT NOT SPECIFIC; SEE TEXT."
+ SEASONALITY
+ GRASS
+ EU
+ USING GRAND MEANS AND SE ONLY; NOT USING SEASONAL DATA.
+2401
+ OTC
+ AMB
+ AMB
+ AMB
+ WW
+ AMB
+ LOW/HI NPK
+ FERT
+ GRASS
+ NA
+2403
+ OTC
+ AMB
+ AMB
+ AMB
+ WW
+ .
+ 150 KG N HA-1 AND 270 KG N HA-1
+ FERT/OZONE
+ GRASS_C
+ EU
+2407
+ FACE
+ AMB
+ AMB
+ 3 C LESS THAN AMB
+ WW + DROUGHT
+ .
+ .
+ H2O
+ GRASS_C
+ NA
+ .
+2420
+ GC
+ 550 UMOL M-2 S-1
+ SEASONAL
+ SEASONAL
+ WW
+ .
+ NONE
+ TEMP
+ GRASS
+ NA
+ "WATER TMT ALSO, BUT NOT USED IN DATASET. ""WINTER"" TEMP = 3"
+2427
+ GH
+ AMB + SUPPL (28.4 MOL M-2 S-1)
+ 16
+ 28/22
+ WW/DRY
+ .
+ 5KG M-3 15:10:10:2 NPK MG 3 MO RELEASE
+ H2O
+ GRASS
+ AU
+2430
+ GH
+ AMB 2-3.9 MJ M-2 D-1
+ AMB
+ 19 - 22.5
+ WW
+ .
+ SUPPLEMENTED
+ NONE
+ GRASS
+ EU
+ NOT USING 1992 DATA
+2440
+ GC
+ 1115 UMOL M-2 S-1
+ 16/8
+ 25/15
+ WW
+ .
+ N= 0 OR 300 KG HA-1; P= 56 KG HA-1; K= 46 KG HA-1
+ "FERT, TEMP"
+ GRASS
+ NA
+2441
+ GC
+ 1000 UMOL M-2 S-1
+ 12/12/98
+ "DAY 20, 35; NIGHT 15"
+ WW
+ 60/~100
+ HALF STRENGTH HOAGLAND'S; =400 UL L-1 N
+ TEMP 20 = CTL
+ GRASS
+ NA
+2443
+ GH
+ SEASONAL
+ SEASONAL
+ SEASONAL
+ WW
+ .
+ HOAGLAND'S + - N; SEE METHODS AND RESULTS
+ NONE. SEE RESULTS
+ GRASS
+ NA
+ "N HAD NO EFFECT ON PN, OR APPARENTLY ON TOTWT"
+2444
+ GC
+ 600 UMOL/M2S PFD
+ 15 H
+ 20/15 DEGREES C
+ WW
+ "65/70 % (DAY,NIGHT)"
+ "NITROGEN CONCENTRATIONS (.01, .1, 1.0, AND 5.0 MG N/L)"
+ NITROGEN CONCENTRATIONS BY N SUPPLY (AMMONIUM OR NITRATE)
+ GRASS
+ EU
+ SAMPLE SIZE OF GAS EXCHANGE MEASUREMENTS WAS USED FOR ALL
+MEASUREMENTS
+ BECAUSE IT WAS THE ONLY ONE AVAILABLE. AGROSTIS CAPILLARIS IS A FAST
+ GROWING GRASS. NARDUS ESTRICTA IS A SLOW GROWING GRASS.
+2448
+ GC
+ AMB
+ AMB
+ AMB
+ WW
+ .
+ .
+ TEMP
+ GRASS_C
+ NA
+ .
+2454
+ GC
+ AMB
+ 14 HR
+ AMB
+ WW
+ 60-70%RH
+ NUTRIENTS SUPPLEMENTED TWICE A WEEK
+ NONE
+ GRASS
+ EU
+ .
+2468
+ GC
+ 200 UMOL M-2 S-1
+ 14H
+ 19/15 C
+ .
+ .
+ .
+ .
+ GRASS_C
+ EU
+ ANOTHER SET OF DATA (CO2 * SO2) CAN BE EXTRACTED
+2474
+ GH
+ AMBIENT
+ AMBIENT
+ .
+ WW
+ .
+ MODIFIED HOAGLANDS
+ "N= 5, 20, OR 50 MG L-1; P= 2, 11, OR 30 MG L-1; K=5, 20, 50 MG L-1"
+ GRASS
+ EU
+ "CO2= AMB, AMB+250...1:1 SAND:PEAT; DATA TAKEN FROM P=3 + K=3 ONLY.
+ AGN, AGC, AGK, AGP"
+2480
+ GH
+ 200 UMOL M-2 S-1
+ 14 H
+ 25/18
+ "WW, FLD"
+ .
+ NATIVE SOIL
+ "FLD, SALT"
+ WETL
+ EU
+ PLANTS ROTATED BETWEEN 2 GHS
+2492
+ GC
+ 220-250 UMOL M-2 S-1
+ 14/10
+ 23.5/19
+ 80% OF FIELD CAPACITY
+ 30/55
+ "194 MG N, 13 MG P, 24 MG K, 39 MG MG POT-1"
+ DENSITY
+ GRASS
+ EU
+ "USING LOWEST AND HIGHEST DENSITIES ONLY, AS REPS"
+2502
+ OTC
+ AMB
+ AMB
+ AMB
+ PRECIP
+ AMB
+ NONE
+ NONE
+ WETL
+ NA
+ "SAME PARAMETERS WERE MEASURED AT DIFFERENT YEARS AND/OR THE
+SAME YEAR,
+ BUT DIFFERENT MONTHS. EACH MONTH AND/OR YEAR WAS CONSIDERED A
+SEPARATE
+ DATA POINT BECAUSE TIME OF EXPOSITION CHANGED. THE PAPER INCLUDES
+DATA
+ ON LEAF RUBISCO AND LEAF SOLUBLE PROTEIN."
+2503
+ FACE
+ AMB
+ AMB
+ SEASONAL; -5-25
+ AMB
+ SEASONAL
+ N (100 OR 420 KG HA-1 Y-1); 120 KG HA-1 P205; 240 KG HA-1 K2O; 16 KG HA-1
+ MGO
+ FERT: 100 OR 420 KG N HA-1 Y-1
+ GRASS
+ EU
+ OOT IN GROWTH BAGS. ETHANOL SOLUBLE TNC USED IN DATABASE.
+WATER-
+SOLUBLE
+ TNC ALSO AVAILABLE.
+2504
+ GH
+ AMB; 180 UMOL M-2 S-1 + 100 UMOL M-2 S-1
+ 16/8
+ 20
+ WW
+ .
+ HI N=54 G M-2; LO N=9.5 G M-2; + OTHER NUTRIENTS
+ FERT
+ GRASS
+ EU
+ .
+2510
+ GC
+ AMB
+ .
+ AMB
+ WW
+ AMB
+ FERTILIZED WEEKLY
+ .
+ .
+ EU
+2521
+ GC
+ 500 UMOL M-2 S-1
+ 13.5 H
+ 23/17
+ WW
+ 60-70
+ .
+ OZONE
+ GRASS_C
+ EU
+ .
+2522
+ GC
+ 500 UMOL M-2 S-1
+ 14/10
+ 24/14
+ WW
+ 65+/-5
+ INITIAL AND EVERY 21 DAYS
+ O3
+ GRASS
+ EU
+2525
+ OTC
+ AMB
+ AMB
+ AMB
+ WW
+ AMB
+ .
+ .
+ WETL
+ NA
+ CARBON CONTENT WITH SE/SD &amp; N; ADDT'L VAR
+2531
+ OTC
+ AMB - 11%
+ AMB
+ AMB
+ AMB
+ AMB
+ NONE
+ NONE
+ GRASS
+ NA
+ CO2 FROM APRIL/ MAY THRU OCT EACH OF 3 YRS
+2541
+ OTC
+ AMB
+ AMB
+ AMB+
+ AMB
+ AMB
+ NO ADDITIONAL
+ CO2
+ GRASS
+ NA
+ "JASPER RIDGE. GS, E, LFY, PN, SEEDS, HT, AGWT, WVE, DNSITY,
+ ISOTOPE, SEED WT, FRUITWT, SEED C, SEED N."
+2547
+ GH
+ AMB
+ AMB
+ 28/21/25(H20)
+ WW
+ .
+ NPK INITIAL; VARIABLE N ADDED DURING SEASON
+ CO2 ONLY APPROPRIATE
+ WETL
+ NA
+2579
+ GC
+ 1000 UMOL M-2 S-1
+ 16/8
+ 23/16
+ WW
+ 70-80
+ ALL: 4.6 MG P; 5.8 MG K; N= 0 OR 32 MG POT-1
+ FERT
+ .
+ .
+2580
+ GH
+ amb
+ amb
+ 32/23; 35/26; 38/29
+ ww
+ .
+ "12.6, 6.3, 6.3, G N M-2 AT 7, 31 + 63 D"
+ NONE
+ WETL
+ NA
+ .
+2595
+ GC
+ 350 UMOL M-2 S-1
+ 15/9
+ 20/17
+ WW
+ .
+ .
+ .
+ .
+ .
+2597
+ GH
+ AMB
+ AMB
+ AMB
+ WW
+ .
+ .
+ NONE
+ GRASS_C
+ EU
+ .
+2644
+ OTC
+ AMB
+ AMB
+ AMB
+ WW
+ .
+ 101 KG N HA-1; SEE ALSO T1
+ NONE
+ GRASS
+ NA
+2654
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ NONE
+ GRASS
+ NA
+ JASPER RIDGE
+2666
+ GH
+ AMB 25-29 MOL M-2 D-1
+ 16 H
+ 20/14
+ WW / DRY
+ .
+ SOLUBLE OR SLOW RELEASE ADDED
+ H2O
+ GRASS_C
+ AU
+2669
+ GC
+ 220-250 UMOL M-2 S-1
+ 14/10
+ 17-Dec
+ WW
+ 0.571428571
+ N: 0 OR 765 MG POT-1; 114 MG P; 193 MG K; 26 MG MG
+ FERT
+ GRASS
+ EU
+ USING ONLY CTL; HIGHEST FERT LEVELS
+2692
+ FACE
+ AMB
+ AMB
+ 32/23; 35/26; 38/29
+ WET/DRY
+ AMB
+ NON-LIMITING; REPEATED APPLICATIONS
+ H2O
+ GRASS
+ NA
+ DRY = HALF OF WET (WW). USE WET AS CTL
+2698
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ NONE
+ NONE
+ GRASS
+ NA
+ "SUM Y EXPERIMENT. 2 OTC'S W/ CO2, OTC'S - CO2"
+2709
+ FACE
+ AMB
+ AMB
+ AMB
+ .
+ .
+ .
+ FERT/COMP
+ GRASS
+ EU
+ TIME ASSUMED TO BE 730 BECAUSE AGWT WAS SUM OF TWO SEASONS
+2710
+ FACE
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ LO: 10-14 G N M-2 Y-1; HI: 42-56 G N M-2 Y-1
+ DEFOL: 4 OR 7-8 Y-1; FERT
+ GRASS
+ EU
+ MET IN TABLE 1
+2711
+ GH
+ 9.2 + 24.9 MOL M-2 S-1
+ AMB
+ 30/25
+ WW
+ &gt;90
+ "30 MG N POT-1 + 60 G N POT-1, SEASONALLY"
+ LIGHT
+ GRASS
+ AU
+2715
+ GC
+ 300 UMOL M-2 S-1
+ 16/8
+ 18/4
+ WW; 14% H20
+ 0.928571429
+ 28 MG P + 50 MG K KG-1 + N TREATMENTS
+ N 8KG N HA-1 OR 278 KG N HA-1
+ GRASS
+ EU
+2718
+ GC
+ 794
+ AMB
+ 25/13 (DAY/NIGHT)
+ WW
+ AMB
+ HOAGLAND'S SOLUTION EVERY 3 D
+ DEFOL
+ GRASS
+ NA
+ .
+2723
+ GH
+ 85-90% AMB
+ 14-H
+ AMB/AMB + 3 C
+ WW
+ AMB
+ .
+ TEMP
+ .
+ EU
+ GS WITH NO SE/SD. Vc MAX WITH SE/SD AND N IN FIG. 4
+2735
+ GH
+ AMB
+ AMB
+ "AMB, AMB+4"
+ WW
+ AMB
+ 10 G M-2 N; 15 G M-2 P; 15 G M-2 K
+ TEMP
+ GRASS
+ EU
+ 80% OF UVB
+2737
+ GH
+ 25 MOL M-2 DAY-1
+ 16/8
+ 17
+ WW
+ 65
+ "COMPLETE, INCLUDE 188 MG L-1 N"
+ "O3, SOIL"
+ GRASS
+ EU
+ O3 NOT USED FOR PHYL DATASET
+2756
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB + DROUGHT
+ AMB
+ NONE
+ H2O
+ GRASS
+ NA
+ "UNDISTURBED TALL GRASS PRAIRIE; EARLY, MID + LATE SEASON DATA;
+EXP.
+RAN
+ 4Y PRIOR TO THIS STUDY"
+2758
+ OTC
+ AMB
+ AMB
+ AMB
+ .
+ .
+ .
+ NONE
+ GRASS
+ EU
+ .
+2785
+ OTC
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ AMBIENT
+ HI FERT TRT ONLY
+ FERT. 20 G M-2 NPK OSMOCOTE
+ GRASS
+ NA
+ JASPER RIDGE. SERPENTINE SOIL
+2793
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ .
+ .
+ GRASS
+ EU
+ MINI-RHIZOTRONE. DATA USED FROM 10 CM
+2802
+ GH (TUNNEL)
+ AMB
+ AMB
+ 0.3 C HIGHER DURING DAY; 0.2 C LOWER AT NIGHT
+ .
+ .
+ FERT
+ GRASS
+ EU
+ .
+2821
+ GH
+ 79% OF AMB
+ AMB
+ AMB
+ WW
+ .
+ 8 G N M-2 PER 24 DAYS
+ CO2
+ GRASS
+ EU
+2834
+ GC
+ 750 UMOL M-2 S-1
+ 16/8
+ 16
+ WW
+ 0.54 KPA
+ 0.2 OR 2.5 MOL M-3 N; 0.04 OR 0.5 MOL M-3 P
+ LOW N+LOW P OR HI N + HI P
+ GRASS
+ EU
+ "P, OTHER MINERALS"
+2835
+ GC
+ 1000 UMOL M-2 S-1
+ 16
+ 30/20
+ WW
+ 0.0025
+ "HOAGLAND'S, ALTERNATE WATERING"
+ .
+ GRASS
+ NA
+2839
+ OTC
+ 85% OF AMB
+ AMB
+ "25/29 ( AMB, AMB+4)"
+ WW
+ .
+ 220 KG N HA-1
+ TEMP
+ WETL
+ AS
+2855
+ GH
+ AMB+
+ 16/8
+ 20/15
+ WW
+ 70
+ NPK (HOAGLAND'S) OR 0.1 N (MODIFIED HOAGLAND'S)
+ FERT
+ GRASS
+ EU
+2856
+ GH
+ AMB
+ AMB
+ 26/16 C DAY/NIGHT
+ WW
+ .
+ .
+ FERT
+ GRASS_C
+ AS
+ .
+2892
+ GC
+ 645 UMOL M-2 S-1
+ 16/8
+ 24/18
+ WW
+ .
+ MODIFIED SHIVE'S SOLUTION
+ O3
+ GRASS
+ EU
+ TIME FOR BIOMASS ASSUMED &gt; 42 D; SEE FIG 6
+2893
+ OTC
+ AMB
+ AMB
+ 19
+ WW
+ 67-71%
+ 0.4 G L-1 N; 0.3 G L-1 P205; 0.4 G L-1 K20
+ NONE
+ GRASS_C
+ EU
+ INTRODUCED IN 1890
+2895
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ .
+ .
+ NONE
+ GRASS
+ NA
+2911
+ OTC
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ AMB
+ O3
+ GRASS
+ EU
+ CTL O3 = 26-29 NMOL MOL-1; HI O3= 84 NMOL MOL-1 AVE FOR ALL DAYS
+2919
+ GC
+ AMB
+ AMB
+ 15 C MEAN
+ .
+ .
+ "150 MG N, 18.1 MG P AND 34 MG K"
+ H20
+ GRASS_C
+ EU
+2924
+ GH
+ AMB; PN &gt;1200 UMOL M-2 S-1
+ AMB
+ 32/23; 35/26; 38/29
+ WW
+ .
+ "P, K= 9 G M-2; N (UREA) 12.6-6.3 G M-2 X3 DATES"
+ TEMP
+ WETL
+ NA
+2928
+ OTC
+ 85% OF AMB
+ AMB
+ X= 25; AMB+4
+ WW
+ .
+ N: 110 KG HA-1 WET SEASON; 220 KG HA-1 DRY
+ TEMP
+ WETL
+ AS
+ DATA ON DEVELOPMENT STAGES
+2935
+ OTC
+ AMB
+ .
+ 28/21 (DAY / NIGHT)
+ .
+ .
+ .
+ H2O
+ GRASS_C
+ NA
+ SPAR: SOIL-PLANT-ATMOSPHERE-RESEARCH CHAMBER
+3034
+ GC
+ 1000 UMOL M-2 S-1
+ 14/10
+ 28/22; 24/18; 21/25
+ WW
+ 70
+ .
+ TEMP. NOTE ECOTYPES
+ GRASS
+ NA
+ "TEMPS: MISS: CTL=28, L0=2, . ; N.C: CTL=24, LO=21, HI=28; QUEBEC:
+ CTL=21, . , HI =28"
+3033
+ GC
+ 65 UE M-2 S-1
+ 14/10
+ 28/22
+ WW
+ 0.7
+ HALF STRENGTH HOAGLANDS
+ NONE
+ MIXED
+ NA
+3035
+ GC
+ 1000 UMOL M-2 S-1
+ 14/10
+ 28/22; 24/18; 21/15
+ WW
+ 70
+ .
+ TEMP NOTE ECOTYPES
+ GRASS
+ NA
+ "TEMPS: MISS: CTL=28, LO=21, . ; N.C: CTL=24, LO-21, HI=28; QUEBEC:
+ CTL=21, . , HI=28"
+3036
+ GC
+ 150 OR 1000 UMOL M-2 S-1
+ 14/10
+ 29/23
+ WW
+ 70
+ HALF STRENGTH HOAGLANDS
+ LIGHT
+ GRASS
+ NA
+3038
+ GH
+ AMB
+ AMB
+ 34
+ WW
+ .
+ .
+ NONE
+ GRASS
+ NA
+ MIXED AND UNMIXED CULTURES
+3042
+ GH
+ AMB; 2ME M-2 S-1
+ AMB
+ 32/20
+ WW
+ 50-70
+ "4 LEVELS OF HENITTS: 24,12, 4, OR MM NITRATE"
+ FERT
+ GRASS_C
+ NA
+ ONLY MAIZE DATA WERE TAKEN
+3401
+ GH
+ AMB + LOW INTENSITY INCANDESCENT
+ 1/16/00
+ 28/23
+ "AT PLANTING ONLY, DRYING THEREAFTER"
+ 60-70
+ ..
+ H20
+ GRASS
+ AU
+ ASSUMING THAT TIME COURSE FOR WATER LOSS IS SIMILAR FOR ALL GRASS
+SPECIES
+ (USING WHEAT (COMPANION PAPER)); WE USE TIME CLASSES FOR ANALYSES.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp073/ndp073.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19991101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19991101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp073/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[921KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ To perform a statistically rigorous meta-analysis of research results on the response by herbaceous vegetation to increased atmospheric CO2 levels, a multiparameter database of responses was compiled from the published literature. Seventy-eight independent CO2-enrichment studies, covering 53 species and 26 response parameters, reported mean response, sample size, and variance of the response (either as standard deviation or standard error). An additional 43 studies, covering 25 species and 6 response parameters, did not report variances. This numeric data package accompanies the Carbon Dioxide Information Analysis Center's (CDIAC's) NDP- 072, which provides similar information for woody vegetation.
+<br><br>
+ This numeric data package contains a 30-field data set of CO2- exposure experiment responses by herbaceous plants (as both a flat ASCII file and a spreadsheet file), files listing the references to the CO2-exposure experiments and specific comments relevant to the data in the data sets, and this documentation file (which includes SAS and Fortran codes to read the ASCII data file; SAS is a registered trademark of the SAS Institute, Inc., Cary, North Carolina 27511). ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

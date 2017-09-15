@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Post, W. M. ]]></origin>
+        <origin><![CDATA[Kwon, K. C. ]]></origin>
+        <title><![CDATA[Soil Carbon Sequestration and Land-Use Change: Processes and Potential]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwon2000.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Soil Carbon Sequestration and Land-Use Change: Processes and Potential]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Land-use]]></themekey>
+        <themekey><![CDATA[Reforestation]]></themekey>
+        <themekey><![CDATA[Carbon Cycle]]></themekey>
+        <themekey><![CDATA[Carbon Sequestration]]></themekey>
+        <themekey><![CDATA[Soil Carbon]]></themekey>
+        <themekey><![CDATA[CARBON SEQUESTRATION-TERRESTRIAL]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Wilfred M. Post; email: postwmiii@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Wilfred M. Post; email: postwmiii@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 113704</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Wilfred M. Post; email: postwmiii@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 145653 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Land-use]]></Keywords>
+    <Keywords><![CDATA[Reforestation]]></Keywords>
+    <Keywords><![CDATA[Carbon Cycle]]></Keywords>
+    <Keywords><![CDATA[Carbon Sequestration]]></Keywords>
+    <Keywords><![CDATA[Soil Carbon]]></Keywords>
+    <Keywords><![CDATA[CARBON SEQUESTRATION-TERRESTRIAL]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;Sequestration and Land-Use Change
+ 6:317-327
+(2000)
+Oak Ridge National Laboratory
+P.O. Box 2008
+When agricultural land is no longer used for cultivation and allowed to
+revert to natural vegetation or replanted to perennial vegetation, soil
+organic carbon can accumulate. This accumulation process essentially
+reverses some of the effects responsible for soil organic carbon losses
+from when the land was converted from perennial vegetation. We discuss
+the essential elements of what is known about soil organic matter
+dynamics that may result in enhanced soil carbon sequestration with
+changes in land-use and soil management. We review literature that
+reports changes in soil organic carbon after changes in land-use that
+favour carbon accumulation. This data summary provides a guide to
+approximate rates of SOC sequestration that are possible with
+management, and indicates the relative importance of some factors that
+influence the rates of organic carbon sequestration in soil. There is a
+large variation in the length of time for and the rate at which carbon
+may accumulate in soil, related to the productivity of the recovering
+vegetation, physical and biological conditions in the soil, and the
+past history of soil organic carbon inputs and physical disturbance.
+Maximum rates of C accumulation during the early aggrading stage of
+perennial vegetation growth, while substantial, are usually much less
+than 100g C m. Average rates of
+accumulation are similar for forest or grassland establishment: 33.8 g
+C m,
+respectively. These observed rates of soil organic C accumulation, when
+combined with the small amount of land area involved, are insufficient
+to account for a significant fraction of the missing C in the global
+carbon cycle as accumulating in the soils of formerly agricultural land.
+Data summarized in bar charts, and a list of corrections in the form of
+email exchanges, are provided by Dr. Post on the following Web site: 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 145653 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/tcm.009]]></Product_number>
+      <Product_title><![CDATA[Soil Carbon Sequestration and Land-Use Change: Processes and Potential]]></Product_title>
+      <Author>
+        <Name><![CDATA[Post, W. M. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kwon, K. C. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Sequestration]]></Thematic_area>
+      <Thematic_area><![CDATA[Soil carbon]]></Thematic_area>
+      <Thematic_area><![CDATA[Afforestation]]></Thematic_area>
+      <Thematic_area><![CDATA[Terrestrial Carbon Management]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Cool temperate moist forest	]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable1.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable2.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Warm temperate thorn steppe]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable1.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable2.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Warm temperate dry forest]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable1.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable2.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Warm temperate moist forest]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable1.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable2.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Subtropical dry forest]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable1.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable2.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Subtropical moist forest]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable1.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable2.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Subtropical wet forest]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable1.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable2.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tropical moist forest]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable1.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable2.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tropical wet forest]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable1.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwonTable2.pdf]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Years since agriculture]]></Variable>
+      <Variable><![CDATA[Soil Sample depth (cm)]]></Variable>
+      <Variable><![CDATA[Max Rate of change(g m^-2 y^-1)]]></Variable>
+      <Variable><![CDATA[Average Rate of Change(g m^-2 y^-1)]]></Variable>
+      <Variable><![CDATA[Reference]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwon2000.html &#187;&#160;Sequestration and Land-Use Change
+ 6:317-327
+(2000)
+Oak Ridge National Laboratory
+P.O. Box 2008
+When agricultural land is no longer used for cultivation and allowed to
+revert to natural vegetation or replanted to perennial vegetation, soil
+organic carbon can accumulate. This accumulation process essentially
+reverses some of the effects responsible for soil organic carbon losses
+from when the land was converted from perennial vegetation. We discuss
+the essential elements of what is known about soil organic matter
+dynamics that may result in enhanced soil carbon sequestration with
+changes in land-use and soil management. We review literature that
+reports changes in soil organic carbon after changes in land-use that
+favour carbon accumulation. This data summary provides a guide to
+approximate rates of SOC sequestration that are possible with
+management, and indicates the relative importance of some factors that
+influence the rates of organic carbon sequestration in soil. There is a
+large variation in the length of time for and the rate at which carbon
+may accumulate in soil, related to the productivity of the recovering
+vegetation, physical and biological conditions in the soil, and the
+past history of soil organic carbon inputs and physical disturbance.
+Maximum rates of C accumulation during the early aggrading stage of
+perennial vegetation growth, while substantial, are usually much less
+than 100g C m. Average rates of
+accumulation are similar for forest or grassland establishment: 33.8 g
+C m,
+respectively. These observed rates of soil organic C accumulation, when
+combined with the small amount of land area involved, are insufficient
+to account for a significant fraction of the missing C in the global
+carbon cycle as accumulating in the soils of formerly agricultural land.
+Data summarized in bar charts, and a list of corrections in the form of
+email exchanges, are provided by Dr. Post on the following Web site: 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19990602]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19990806]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/postkwon2000/postkwon2000.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Wilfred M. Post; email: postwmiii@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[When agricultural land is no longer used for cultivation and allowed to revert to natural vegetation or replanted to perennial vegetation, soil organic carbon can accumulate. This accumulation process essentially reverses some of the effects responsible for soil organic carbon losses from when the land was converted from perennial vegetation. We discuss the essential elements of what is known about soil organic matter dynamics that may result in enhanced soil carbon sequestration with changes in land-use and soil management. We review literature that reports changes in soil organic carbon after changes in land-use that favour carbon accumulation. This data summary provides a guide to approximate rates of SOC sequestration that are possible with management, and indicates the relative importance of some factors that influence the rates of organic carbon sequestration in soil. There is a large variation in the length of time for and the rate at which carbon may accumulate in soil, related to the productivity of the recovering vegetation, physical and biological conditions in the soil, and the past history of soil organic carbon inputs and physical disturbance. Maximum rates of C accumulation during the early aggrading stage of perennial vegetation growth, while substantial, are usually much less than 100g C m-2 y-1. Average rates of accumulation are similar for forest or grassland establishment: 33.8 g C m-2 yr-1 and 33.2 g C m-2 yr-1, respectively. These observed rates of soil organic C accumulation, when combined with the small amount of land area involved, are insufficient to account for a significant fraction of the missing C in the global carbon cycle as accumulating in the soils of formerly agricultural land.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

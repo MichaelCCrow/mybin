@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Raich, J. W.]]></origin>
+        <origin><![CDATA[Potter, C. S.]]></origin>
+        <title><![CDATA[Global Patterns of CO2 Emissions from Soils on a 0.5 Degree Grid Cell Basis]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1015/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global Patterns of CO2 Emissions from Soils on a 0.5 Degree Grid Cell Basis]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[1900000]]></begdate>
+          <enddate><![CDATA[1900000]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.00]]></westbc>
+        <eastbc><![CDATA[180.00]]></eastbc>
+        <northbc><![CDATA[90.00]]></northbc>
+        <southbc><![CDATA[-90.00 ]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[Emissions]]></themekey>
+        <themekey><![CDATA[Microbes]]></themekey>
+        <themekey><![CDATA[Respiration]]></themekey>
+        <themekey><![CDATA[Roots]]></themekey>
+        <themekey><![CDATA[Soil]]></themekey>
+        <themekey><![CDATA[Carbon Release]]></themekey>
+        <themekey><![CDATA[Climate Change]]></themekey>
+        <themekey><![CDATA[Global Patterns]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 135005</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 155816 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[Emissions]]></Keywords>
+    <Keywords><![CDATA[Microbes]]></Keywords>
+    <Keywords><![CDATA[Respiration]]></Keywords>
+    <Keywords><![CDATA[Roots]]></Keywords>
+    <Keywords><![CDATA[Soil]]></Keywords>
+    <Keywords><![CDATA[Carbon Release]]></Keywords>
+    <Keywords><![CDATA[Climate Change]]></Keywords>
+    <Keywords><![CDATA[Global Patterns]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Contributed by:
+James W. Raich 
+ Iowa State University
+ Ames, IA 50011 USA 
+ Email: jraich@iastate.edu
+MS 242-2
+Moffett Field, CA 94035 USA
+Email: cpotter@gaia.arc.nasa.gov
+Prepared by L.M. Olsen.
+Carbon Dioxide Information Analysis
+Center
+Date Published: March, 1996 (Revised for the web: 2002)
+The Carbon Dioxide Information Analysis Center is a part of the
+Environmental
+Sciences Division of the  77.8 P gC/yr
+ STOP
+ END
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 155816 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.db1015]]></Product_number>
+      <Product_title><![CDATA[Global Patterns of CO2 Emissions from Soils on a 0.5 Degree Grid Cell Basis]]></Product_title>
+      <Author>
+        <Name><![CDATA[Raich, J. W.]]></Name>
+        <Company><![CDATA[Iowa State University]]></Company>
+        <Organization><![CDATA[Dept. of Botany]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Potter, C. S.]]></Name>
+        <Company><![CDATA[NASA Ames Research Center]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Trace Gas Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/db/db1015/db1015.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1015/landmask.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1015/rp-modelb.ann]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[CO2 flux (100g C/m2)]]></Variable>
+      <Variable><![CDATA[land]]></Variable>
+      <Variable><![CDATA[lsea]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/db/db1015/db1015.htmlContributed by:
+James W. Raich 
+ Iowa State University
+ Ames, IA 50011 USA 
+ Email: jraich@iastate.edu
+MS 242-2
+Moffett Field, CA 94035 USA
+Email: cpotter@gaia.arc.nasa.gov
+Prepared by L.M. Olsen.
+Carbon Dioxide Information Analysis
+Center
+Date Published: March, 1996 (Revised for the web: 2002)
+The Carbon Dioxide Information Analysis Center is a part of the
+Environmental
+Sciences Division of the  77.8 P gC/yr
+ STOP
+ END
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1015/db1015.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1015/db1015.txt]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19960301]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20020301]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1015/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[19.6 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[We use semi-mechanistic, empirically based statistical models to predict the spatial and temporal patterns of global carbon dioxide emissions from terrestrial soils. Emissions include the respiration of both soil organisms and plant roots. At the global scale, rates of soil CO2 efflux correlate significantly with temperature and precipitation; they do not correlate well with soil carbon pools, soil nitrogen pools, or soil C:N. Wetlands cover about 3% of the land area but diminish predicted CO2 emissions by only about 1%. The estimated annual flux of CO2 from soils to the atmosphere is estimated to be 76.5 Pg C yr-1, 1-9 Pg greater than previous global estimates, and 30-60% greater than terrestrial net primary productivity. Historic land cover changes are estimated to have reduced current annual soil CO2 emissions by 0.2-2.0 Pg C yr-1 in comparison with an undisturbed vegetation cover. Soil CO2 fluxes have a pronounced seasonal pattern in most locations, with maximum emissions coinciding with periods of active plant growth. Our models suggest that soils produce CO2 throughout the year and thereby contribute to the observed wintertime increases in atmospheric CO2 concentrations. Our derivation of statistically based estimates of soil CO2 emissions at a 0.5-degree latitude-by-longitude spatial and monthly temporal resolution represents the best-resolved estimate to date of global CO2 fluxes from soils and should facilitate investigations of net carbon exchanges between the atmosphere and terrestrial biosphere.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

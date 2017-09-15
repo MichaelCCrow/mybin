@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Keeling, C. D.]]></origin>
+        <origin><![CDATA[Whorf, T. P. ]]></origin>
+        <title><![CDATA[Monthly Atmospheric CO2 Records from Sites in the SIO Air Sampling Network]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-keel.htm]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Monthly Atmospheric CO2 Records from Sites in the SIO Air Sampling Network]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19570101]]></begdate>
+          <enddate><![CDATA[20041231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2 Concentration]]></themekey>
+        <themekey><![CDATA[Atmospheric Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[SIO]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[Scripps Institution of Oceanography]]></themekey>
+        <themekey><![CDATA[Mauna Loa, Hawaii]]></themekey>
+        <themekey><![CDATA[Barrow, Alaska]]></themekey>
+        <themekey><![CDATA[Cape Matatula, Samoa]]></themekey>
+        <themekey><![CDATA[South Pole, Antarctica]]></themekey>
+        <themekey><![CDATA[Alert, NWT, Canada]]></themekey>
+        <themekey><![CDATA[Cape Kumukahi]]></themekey>
+        <themekey><![CDATA[Christmas Island]]></themekey>
+        <themekey><![CDATA[Baring Head]]></themekey>
+        <themekey><![CDATA[Kermadec Island]]></themekey>
+        <themekey><![CDATA[La Jolla Pier]]></themekey>
+        <themekey><![CDATA[Flask Sampling]]></themekey>
+        <themekey><![CDATA[In-Situ Sampling]]></themekey>
+        <themekey><![CDATA[Infrared Gas Analyzer]]></themekey>
+        <themekey><![CDATA[Keeling]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 161206</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 152601 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2 Concentration]]></Keywords>
+    <Keywords><![CDATA[Atmospheric Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[SIO]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[Scripps Institution of Oceanography]]></Keywords>
+    <Keywords><![CDATA[Mauna Loa, Hawaii]]></Keywords>
+    <Keywords><![CDATA[Barrow, Alaska]]></Keywords>
+    <Keywords><![CDATA[Cape Matatula, Samoa]]></Keywords>
+    <Keywords><![CDATA[South Pole, Antarctica]]></Keywords>
+    <Keywords><![CDATA[Alert, NWT, Canada]]></Keywords>
+    <Keywords><![CDATA[Cape Kumukahi]]></Keywords>
+    <Keywords><![CDATA[Christmas Island]]></Keywords>
+    <Keywords><![CDATA[Baring Head]]></Keywords>
+    <Keywords><![CDATA[Kermadec Island]]></Keywords>
+    <Keywords><![CDATA[La Jolla Pier]]></Keywords>
+    <Keywords><![CDATA[Flask Sampling]]></Keywords>
+    <Keywords><![CDATA[In-Situ Sampling]]></Keywords>
+    <Keywords><![CDATA[Infrared Gas Analyzer]]></Keywords>
+    <Keywords><![CDATA[Keeling]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;SIO Air Sampling Network
+&#160;
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 152601 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[TRENDS:  Atmospheric Carbon Dioxide]]></Product_number>
+      <Product_title><![CDATA[Monthly Atmospheric CO2 Records from Sites in the SIO Air Sampling Network]]></Product_title>
+      <Author>
+        <Name><![CDATA[Keeling, C. D.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Scripps Institution of Oceanography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Whorf, T. P. ]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Scripps Institution of Oceanography]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Mauna Loa, Hawaii]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-mlo.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/maunaloa.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/mlo145e_thrudc04.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Barrow, Alaska]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-bar.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/barrsio.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/ptb77e_thrudc04.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Matatula, Samoa]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-sam.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/samsio.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/sam73e_thrudc04.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[South Pole, Antarctica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-spl.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/sposio.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/spo121e_thrudc04.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Alert, NWT, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-alt.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/altsio.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/alt45e_thrudc04.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape Kumukahi, Hawaii]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-kum.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/kumsio.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/kum64e_thrudc04.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Christmas Island, Kiribati]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-chr.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/chr.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/chr73e_thrudc04.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Baring Head, New Zealand]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-nzd.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/nzd.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/nzd55e_thrudc04.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Kermadec Island, Raoul Island]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-ker.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/ker.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/ker43e_thrudc04.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[La Jolla Pier, California]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-ljo.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/ljo.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/ljo86e_thrudc04.pdf]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Jan.]]></Variable>
+      <Variable><![CDATA[Feb.]]></Variable>
+      <Variable><![CDATA[Mar.]]></Variable>
+      <Variable><![CDATA[Apr.]]></Variable>
+      <Variable><![CDATA[May.]]></Variable>
+      <Variable><![CDATA[Jun.]]></Variable>
+      <Variable><![CDATA[Jul.]]></Variable>
+      <Variable><![CDATA[Aug.]]></Variable>
+      <Variable><![CDATA[Sep.]]></Variable>
+      <Variable><![CDATA[Oct.]]></Variable>
+      <Variable><![CDATA[Nov.]]></Variable>
+      <Variable><![CDATA[Dec.]]></Variable>
+      <Variable><![CDATA[Annual]]></Variable>
+      <Variable><![CDATA[Annual-Fitted]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-keel.html &#187;&#160;SIO Air Sampling Network
+&#160;
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20040101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20050501]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/sio-keel.htm]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The air sampling network used by the Scripps Institution of Oceanography (SIO) to determine atmospheric levels of carbon dioxide (CO2) consist of ten sites.  Sampling frequency and longevity varies by site.  At some sites air samples are collected continuously while at others evacuated glass flasks are used to collect air samples for subsequent analysis at SIO.  This database offers monthly and annual CO2 values from ten sites representative of background tropospheric conditions.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

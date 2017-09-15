@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Jones, P. D.]]></origin>
+        <origin><![CDATA[Wigley, T. M. L.]]></origin>
+        <origin><![CDATA[Wright, P. B.]]></origin>
+        <title><![CDATA[Global and Hemispheric Annual Temperature Variations Between 1854 and 1991]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_022.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp022/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global and Hemispheric Annual Temperature Variations Between 1854 and 1991]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18540101]]></begdate>
+          <enddate><![CDATA[19911231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Global Annual Temperature Variations]]></themekey>
+        <themekey><![CDATA[Hemispheric Annual Temperature Variations]]></themekey>
+        <themekey><![CDATA[El Nino]]></themekey>
+        <themekey><![CDATA[Southern Oscillation]]></themekey>
+        <themekey><![CDATA[Land Data]]></themekey>
+        <themekey><![CDATA[Marine Data]]></themekey>
+        <themekey><![CDATA[Meteorological Data]]></themekey>
+        <themekey><![CDATA[COADS]]></themekey>
+        <themekey><![CDATA[Sea Surface Temperatures]]></themekey>
+        <themekey><![CDATA[Marine Air Temperatures]]></themekey>
+        <themekey><![CDATA[NDP-022]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 123313</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 162628 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Global Annual Temperature Variations]]></Keywords>
+    <Keywords><![CDATA[Hemispheric Annual Temperature Variations]]></Keywords>
+    <Keywords><![CDATA[El Nino]]></Keywords>
+    <Keywords><![CDATA[Southern Oscillation]]></Keywords>
+    <Keywords><![CDATA[Land Data]]></Keywords>
+    <Keywords><![CDATA[Marine Data]]></Keywords>
+    <Keywords><![CDATA[Meteorological Data]]></Keywords>
+    <Keywords><![CDATA[COADS]]></Keywords>
+    <Keywords><![CDATA[Sea Surface Temperatures]]></Keywords>
+    <Keywords><![CDATA[Marine Air Temperatures]]></Keywords>
+    <Keywords><![CDATA[NDP-022]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[This data set contains estimates of global and hemispheric annual temperature variations,
+relative to a 1950 through 1979 reference period, for 1861 through 1991. The estimates
+are based on corrected land and ocean data. Land data were derived from meteorological
+data and fixed-position weather-ship data that were corrected for nonclimatic errors,
+such as station shifts and/or instrument changes. The marine data used were those in the
+Comprehensive Ocean-Atmosphere Data Set (COADS) compilation, which with updates covers
+to 1986. Updates to 1991 were made with hemispheric sea-surface temperature estimates
+produced by the U.K. Meteorological Office. Each record includes year and six annual
+temperature variations: one estimate each for the globe, the Northern Hemisphere,
+and the Southern Hemisphere and another estimate each that reflects an adjustment to
+account for the influence of El Ni&amp;ntilde;o/Southern Oscillation events. The data are
+in one file of 13 kB.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 162628 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_022.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp022]]></Product_number>
+      <Product_title><![CDATA[Global and Hemispheric Annual Temperature Variations Between 1854 and 1991]]></Product_title>
+      <Author>
+        <Name><![CDATA[Jones, P. D.]]></Name>
+        <Company><![CDATA[University of East Anglia  ]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wigley, T. M. L.]]></Name>
+        <Company><![CDATA[University of East Anglia  ]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wright, P. B.]]></Name>
+        <Company><![CDATA[University of East Anglia  ]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/ndp022.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp022/ndp022r2.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[GENSO ]]></Variable>
+      <Variable><![CDATA[GLOBE]]></Variable>
+      <Variable><![CDATA[IYEAR]]></Variable>
+      <Variable><![CDATA[NENSO]]></Variable>
+      <Variable><![CDATA[NHEM]]></Variable>
+      <Variable><![CDATA[SENSO]]></Variable>
+      <Variable><![CDATA[SHEM]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/ndp022.htmlThis data set contains estimates of global and hemispheric annual temperature variations,
+relative to a 1950 through 1979 reference period, for 1861 through 1991. The estimates
+are based on corrected land and ocean data. Land data were derived from meteorological
+data and fixed-position weather-ship data that were corrected for nonclimatic errors,
+such as station shifts and/or instrument changes. The marine data used were those in the
+Comprehensive Ocean-Atmosphere Data Set (COADS) compilation, which with updates covers
+to 1986. Updates to 1991 were made with hemispheric sea-surface temperature estimates
+produced by the U.K. Meteorological Office. Each record includes year and six annual
+temperature variations: one estimate each for the globe, the Northern Hemisphere,
+and the Southern Hemisphere and another estimate each that reflects an adjustment to
+account for the influence of El Ni&amp;ntilde;o/Southern Oscillation events. The data are
+in one file of 13 kB.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp022/ndp022r2.doc]]></Data_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp022/ndp022r2.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp022/ndp022r2.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp022/ndp022r2.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980224]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp022/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[20.2Kb]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This data set contains estimates of global and hemispheric annual temperature variations, relative to a 1950 through 1979 reference period, for 1861 through 1991. The estimates are based on corrected land and ocean data. Land data were derived from meteorological data and fixed-position weather-ship data that were corrected for nonclimatic errors, such as station shifts and/or instrument changes. The marine data used were those in the Comprehensive Ocean-Atmosphere Data Set (COADS) compilation, which with updates covers to 1986. Updates to 1991 were made with hemispheric sea-surface temperature estimates produced by the U.K. Meteorological Office. Each record includes year and six annual temperature variations: one estimate each for the globe, the Northern Hemisphere, and the Southern Hemisphere and another estimate each that reflects an adjustment to account for the influence of El Nino/Southern Oscillation events. The data are in one file of 13 kB.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

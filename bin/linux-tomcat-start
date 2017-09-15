@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh mcu@localhost -p 2222 'bash /usr/local/tomcatb/start'

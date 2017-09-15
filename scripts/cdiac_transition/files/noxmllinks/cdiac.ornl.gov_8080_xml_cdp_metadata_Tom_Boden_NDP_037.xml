@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Kimball, B. A.]]></origin>
+        <origin><![CDATA[Mauney, J. R.]]></origin>
+        <origin><![CDATA[La Morte, R. L. ]]></origin>
+        <origin><![CDATA[Guinn, G. ]]></origin>
+        <origin><![CDATA[Nakayama, F. S.]]></origin>
+        <origin><![CDATA[Radin, J. W.]]></origin>
+        <origin><![CDATA[Lakatos, E. A.]]></origin>
+        <origin><![CDATA[Michell, S. T.]]></origin>
+        <origin><![CDATA[Parker, L. L.]]></origin>
+        <origin><![CDATA[Peresta, G. J. ]]></origin>
+        <origin><![CDATA[Nixon III, P. E. ]]></origin>
+        <origin><![CDATA[Savoy, B.]]></origin>
+        <origin><![CDATA[Harris, S. M. ]]></origin>
+        <origin><![CDATA[MacDonald, R. ]]></origin>
+        <origin><![CDATA[Pros, H.]]></origin>
+        <origin><![CDATA[Martinez, J.  ]]></origin>
+        <title><![CDATA[CO2 Enrichment: Data on the Response of Cotton to Varying CO2 Irrigation, and Nitrogen]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp037/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2 Enrichment: Data on the Response of Cotton to Varying CO2 Irrigation, and Nitrogen]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19830601]]></begdate>
+          <enddate><![CDATA[19871231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-112.00]]></westbc>
+        <eastbc><![CDATA[-112.00]]></eastbc>
+        <northbc><![CDATA[33.40]]></northbc>
+        <southbc><![CDATA[33.40]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[Cotton]]></themekey>
+        <themekey><![CDATA[Nitrogen]]></themekey>
+        <themekey><![CDATA[Water]]></themekey>
+        <themekey><![CDATA[Irrigation]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide Enrichment]]></themekey>
+        <themekey><![CDATA[U.S. Water Conservation Laboratory]]></themekey>
+        <themekey><![CDATA[Cotton Research Laboratory]]></themekey>
+        <themekey><![CDATA[Soil and Water Science Department]]></themekey>
+        <themekey><![CDATA[University of Arizona]]></themekey>
+        <themekey><![CDATA[U.S. Department of Agriculture]]></themekey>
+        <themekey><![CDATA[NDP-037]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145136</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164322 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[Cotton]]></Keywords>
+    <Keywords><![CDATA[Nitrogen]]></Keywords>
+    <Keywords><![CDATA[Water]]></Keywords>
+    <Keywords><![CDATA[Irrigation]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide Enrichment]]></Keywords>
+    <Keywords><![CDATA[U.S. Water Conservation Laboratory]]></Keywords>
+    <Keywords><![CDATA[Cotton Research Laboratory]]></Keywords>
+    <Keywords><![CDATA[Soil and Water Science Department]]></Keywords>
+    <Keywords><![CDATA[University of Arizona]]></Keywords>
+    <Keywords><![CDATA[U.S. Department of Agriculture]]></Keywords>
+    <Keywords><![CDATA[NDP-037]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164322 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/vrc.ndp037]]></Product_number>
+      <Product_title><![CDATA[CO2 Enrichment: Data on the Response of Cotton to Varying CO2 Irrigation, and Nitrogen]]></Product_title>
+      <Author>
+        <Name><![CDATA[Kimball, B. A.]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[U.S. Water Conservation Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mauney, J. R.]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[Western Cotton Research Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[La Morte, R. L. ]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[U.S. Water Conservation Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Guinn, G. ]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[Western Cotton Research Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Nakayama, F. S.]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[U.S. Water Conservation Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Radin, J. W.]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[Western Cotton Research Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lakatos, E. A.]]></Name>
+        <Company><![CDATA[University of Arizona]]></Company>
+        <Organization><![CDATA[Soil and Water Science Department]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Michell, S. T.]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[U.S. Water Conservation Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Parker, L. L.]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[Western Cotton Research Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Peresta, G. J. ]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[U.S. Water Conservation Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Nixon III, P. E. ]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[U.S. Water Conservation Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Savoy, B.]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[Western Cotton Research Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Harris, S. M. ]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[U.S. Water Conservation Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[MacDonald, R. ]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[Western Cotton Research Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Pros, H.]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[Western Cotton Research Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Martinez, J.  ]]></Name>
+        <Company><![CDATA[U.S. Department of Agriculture, Agricultural Research Service]]></Company>
+        <Organization><![CDATA[U.S. Water Conservation Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation Response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Maricopa, Arizona]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp037.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp037/ndp037.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[CO2]]></Variable>
+      <Variable><![CDATA[CO2COD]]></Variable>
+      <Variable><![CDATA[EXPTNO]]></Variable>
+      <Variable><![CDATA[INSTE]]></Variable>
+      <Variable><![CDATA[IRRIG]]></Variable>
+      <Variable><![CDATA[JDOY]]></Variable>
+      <Variable><![CDATA[JEMRGD]]></Variable>
+      <Variable><![CDATA[JFLRJD]]></Variable>
+      <Variable><![CDATA[JNABSM]]></Variable>
+      <Variable><![CDATA[JNFLWM]]></Variable>
+      <Variable><![CDATA[JNGBLM]]></Variable>
+      <Variable><![CDATA[JNMBLM]]></Variable>
+      <Variable><![CDATA[JNNODM]]></Variable>
+      <Variable><![CDATA[JNSQRM]]></Variable>
+      <Variable><![CDATA[JSQRJD]]></Variable>
+      <Variable><![CDATA[NITRO]]></Variable>
+      <Variable><![CDATA[REP]]></Variable>
+      <Variable><![CDATA[RTNO]]></Variable>
+      <Variable><![CDATA[SITEE]]></Variable>
+      <Variable><![CDATA[XBIOM]]></Variable>
+      <Variable><![CDATA[XBLSM]]></Variable>
+      <Variable><![CDATA[XLAI]]></Variable>
+      <Variable><![CDATA[XLAIMX]]></Variable>
+      <Variable><![CDATA[XLTYLD]]></Variable>
+      <Variable><![CDATA[XPLTHT]]></Variable>
+      <Variable><![CDATA[XSDWT]]></Variable>
+      <Variable><![CDATA[XSDYLD]]></Variable>
+      <Variable><![CDATA[XSPB]]></Variable>
+      <Variable><![CDATA[XSTMBR]]></Variable>
+      <Variable><![CDATA[XWGBLH]]></Variable>
+      <Variable><![CDATA[XWLEFH]]></Variable>
+      <Variable><![CDATA[XWMBLH]]></Variable>
+      <Variable><![CDATA[XWROTH]]></Variable>
+      <Variable><![CDATA[XWSTMH]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Variable><![CDATA[YRCODE]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp037.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp037/IBSNAT.txt]]></Data_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp037/ndp037.txt]]></Data_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp037/suppl.wp]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp037/ndp037.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp037/ndp037.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp037/retrve.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19920601]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19920601]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp037/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[1.19MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This NDP presents data on the effects of continuous CO2 enrichment of cotton during five consecutive growing seasons, 1983 to 1987, under both optimal and limiting levels of water and nitrogen. Unlike many prior CO2-enrichment experiments in growth chambers or greenhouses, these studies were conducted on field-planted cotton at close to natural conditions with open-top chambers. Measurements were made on a variety of crop-response variables during the growing season and upon crop harvest. The initial experiment examined the effects of varying CO2 concentration only. During the following two seasons, the interactive effects of CO2 concentration and water availability were studied. During the final two seasons, the interactions among CO2 concentration, water availability, and nitrogen fertility were investigated.
+<br><br>
+ The data include identification variables (such as year, institution and site codes, and treatment regimens), intermediate growth measurements (such as plant height, leaf-area index, number of flowers, and dry weight of leaves) taken at various times during the growing season, and crop-harvest results (such as lint yield, seed yield, and total aboveground dry biomass). These data will be useful in studying the possible future effects on crop production of a doubling of global atmospheric CO2 concentrations and for validating crop-growth models designed to predict the effects of elevated CO2 on cotton growth. The data show that, for all five growing seasons and all experimental treatments, cotton yields and plant dry weights were increased significantly by CO2 enrichment.
+<br><br>
+ The NDP includes a 48.4-kB ASCII data file, FORTRAN and SAS computer codes for accessing the data, a descriptive file, and written documentation. The documentation includes a supplemental text that describes and presents data for many other parameters, including daily weather, soil profile properties (e.g., initial soil moisture and nitrogen conditions), and irrigation and fertilizer treatments. These additional data are available from CDIAC on magnetic media upon request.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

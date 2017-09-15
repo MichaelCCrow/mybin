@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Hanson, P.J.]]></origin>
+        <origin><![CDATA[Brice, D.]]></origin>
+        <origin><![CDATA[Garten, C.T.]]></origin>
+        <origin><![CDATA[Hook, L.A. ]]></origin>
+        <origin><![CDATA[Todd, D.E.]]></origin>
+        <title><![CDATA[SPRUCE S1 Bog Vegetation Allometric and Biomass Data: 2010-2011]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/SPRUCE-doi-004.xml]]></onlink>
+        <onlink><![CDATA[http://mnspruce.ornl.gov/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[SPRUCE S1 Bog Vegetation Allometric and Biomass Data: 2010-2011]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20090921]]></begdate>
+          <enddate><![CDATA[20090922]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-93.48283]]></westbc>
+        <eastbc><![CDATA[-93.48283]]></eastbc>
+        <northbc><![CDATA[47.50285]]></northbc>
+        <southbc><![CDATA[47.50285]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[SPRUCE Experiment]]></themekey>
+        <themekey><![CDATA[ORNL]]></themekey>
+        <themekey><![CDATA[U.S. DOE Office of Science]]></themekey>
+        <themekey><![CDATA[Marcell Experimental Forest]]></themekey>
+        <themekey><![CDATA[Vegetation Survey]]></themekey>
+        <themekey><![CDATA[Northern Research Station]]></themekey>
+        <themekey><![CDATA[U.S. Forest Service]]></themekey>
+        <themekey><![CDATA[climate change]]></themekey>
+        <themekey><![CDATA[dry mass]]></themekey>
+        <themekey><![CDATA[allometric equations]]></themekey>
+        <themekey><![CDATA[stem circumference]]></themekey>
+        <themekey><![CDATA[basal area]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140620 142613</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Les Hookhookla@ornl.gov865-241-4846]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20120903 162449 by 160.91.29.159</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[SPRUCE Experiment]]></Keywords>
+    <Keywords><![CDATA[ORNL]]></Keywords>
+    <Keywords><![CDATA[U.S. DOE Office of Science]]></Keywords>
+    <Keywords><![CDATA[Marcell Experimental Forest]]></Keywords>
+    <Keywords><![CDATA[Vegetation Survey]]></Keywords>
+    <Keywords><![CDATA[Northern Research Station]]></Keywords>
+    <Keywords><![CDATA[U.S. Forest Service]]></Keywords>
+    <Keywords><![CDATA[climate change]]></Keywords>
+    <Keywords><![CDATA[dry mass]]></Keywords>
+    <Keywords><![CDATA[allometric equations]]></Keywords>
+    <Keywords><![CDATA[stem circumference]]></Keywords>
+    <Keywords><![CDATA[basal area]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20120903 162449 by 160.91.29.159</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/SPRUCE-doi-004.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[SPRUCE-004]]></Product_number>
+      <Product_title><![CDATA[SPRUCE S1 Bog Vegetation Allometric and Biomass Data: 2010-2011]]></Product_title>
+      <Author>
+        <Name><![CDATA[Hanson, P.J.]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Brice, D.]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Garten, C.T.]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hook, L.A. ]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Todd, D.E.]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation Response to CO2 and Climate]]></Thematic_area>
+      <Thematic_area><![CDATA[Climate Change]]></Thematic_area>
+      <Thematic_area><![CDATA[Elevated temperature]]></Thematic_area>
+      <Thematic_area><![CDATA[Elevated carbon dioxide]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[USDA Forest Service, Marcell Experimental Forest (MEF)]]></Site_name>
+        <Site_URL><![CDATA[http://mnspruce.ornl.gov/]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://mnspruce.ornl.gov/SPRUCE_S1_Vegetation_Allometry/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[See Data Dictionary in User's Guide]]></Variable>
+      <Descriptive_file><![CDATA[ftp://mnspruce.ornl.gov/SPRUCE_S1_Vegetation_Allometry/SPRUCE_allometric_data_20120608.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20090921]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20090922]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://mnspruce.ornl.gov/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Les Hook]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[hookla@ornl.gov]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[865-241-4846]]></CDIAC_contact>
+      <Notes><![CDATA[This data set reports the results of measurements on sampled aboveground tissues of trees (Picea mariana and Larix laricina), shrubs (Ledum, Chamaedaphne, and Vaccinium), and ground layer vegetation (all species) of the S1 Bog located in areas adjacent to planned experimental study plots. Ground layer vegetation was sampled from both hummocks and hollows, within a 0.25 m2 plot, to evaluate total standing biomass of bog vegetation at or near the peak of annual production. Vegetation was harvested, processed, and measured in July of 2010 and again in June of 2011.
+The initial survey of vegetation and peat depth characteristics of the target bog was conducted to evaluate the logical locations for installing replicated experimental blocks for SPRUCE. The goal was to identify multiple locations of uniform aboveground vegetation and belowground peat depth for positioning experimental units within the bog.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

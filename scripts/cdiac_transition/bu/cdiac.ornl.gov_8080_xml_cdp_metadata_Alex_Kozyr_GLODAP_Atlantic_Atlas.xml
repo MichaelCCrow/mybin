@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Kozyr, A. K.]]></origin>
+        <title><![CDATA[GLODAP Atlantic Ocean Atlas for carbon-related parameters]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/GLODAP_Atlantic_Atlas.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/oceans/glodap/atlas/atlantic_map.htm]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[GLODAP Atlantic Ocean Atlas for carbon-related parameters]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atlantic]]></themekey>
+        <themekey><![CDATA[Ocean]]></themekey>
+        <themekey><![CDATA[GLODAP]]></themekey>
+        <themekey><![CDATA[Global Ocean Data Analysis Project]]></themekey>
+        <themekey><![CDATA[Atlas]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050808 160625</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 160625 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atlantic]]></Keywords>
+    <Keywords><![CDATA[Ocean]]></Keywords>
+    <Keywords><![CDATA[GLODAP]]></Keywords>
+    <Keywords><![CDATA[Global Ocean Data Analysis Project]]></Keywords>
+    <Keywords><![CDATA[Atlas]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 160625 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/GLODAP_Atlantic_Atlas.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[GLODAP-ATLANTIC]]></Product_number>
+      <Product_title><![CDATA[GLODAP Atlantic Ocean Atlas for carbon-related parameters]]></Product_title>
+      <Author>
+        <Name><![CDATA[Kozyr, A. K.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atlantic Ocean Atlas]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Atlantic Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/oceans/glodap/atlas/atlantic_map.htm]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Total Carbon Dioxide]]></Variable>
+      <Variable><![CDATA[Total Alkalinity]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/glodap/atlas/atlantic_map.htm]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/oceans/glodap/atlas/atlantic_map.htm]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This Atlas with point the user to specific information of the selected Cruise]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

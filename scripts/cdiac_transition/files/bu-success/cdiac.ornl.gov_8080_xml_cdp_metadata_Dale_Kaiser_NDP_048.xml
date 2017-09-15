@@ -1,0 +1,1977 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Razuvaev, V. N.]]></origin>
+        <origin><![CDATA[Apasova, E. B.]]></origin>
+        <origin><![CDATA[Martuganov, R. A.]]></origin>
+        <title><![CDATA[Six- and Three-Hourly Meteorological Observations from 223 U.S.S.R. Stations]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Dale_Kaiser/NDP_048.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Six- and Three-Hourly Meteorological Observations from 223 U.S.S.R. Stations]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18910101]]></begdate>
+          <enddate><![CDATA[19901231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[20.620]]></westbc>
+        <eastbc><![CDATA[-173.230]]></eastbc>
+        <northbc><![CDATA[73.500]]></northbc>
+        <southbc><![CDATA[35.280]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Russia]]></themekey>
+        <themekey><![CDATA[U.S.S.R.]]></themekey>
+        <themekey><![CDATA[Air Temperature]]></themekey>
+        <themekey><![CDATA[Atmospheric Phenomena]]></themekey>
+        <themekey><![CDATA[Cloud Amount]]></themekey>
+        <themekey><![CDATA[Cloud Height]]></themekey>
+        <themekey><![CDATA[Dew Point Temperature]]></themekey>
+        <themekey><![CDATA[Former Soviet Union]]></themekey>
+        <themekey><![CDATA[Hourly Data]]></themekey>
+        <themekey><![CDATA[Precipitation Amount]]></themekey>
+        <themekey><![CDATA[Relative Humidity]]></themekey>
+        <themekey><![CDATA[Sea Level Pressure]]></themekey>
+        <themekey><![CDATA[Soil Temperature]]></themekey>
+        <themekey><![CDATA[Visibility]]></themekey>
+        <themekey><![CDATA[Water Vapor Pressure]]></themekey>
+        <themekey><![CDATA[Weather Type]]></themekey>
+        <themekey><![CDATA[Wind Direction]]></themekey>
+        <themekey><![CDATA[Wind Speed]]></themekey>
+        <themekey><![CDATA[NDP-048]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 124123</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 143555 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Russia]]></Keywords>
+    <Keywords><![CDATA[U.S.S.R.]]></Keywords>
+    <Keywords><![CDATA[Air Temperature]]></Keywords>
+    <Keywords><![CDATA[Atmospheric Phenomena]]></Keywords>
+    <Keywords><![CDATA[Cloud Amount]]></Keywords>
+    <Keywords><![CDATA[Cloud Height]]></Keywords>
+    <Keywords><![CDATA[Dew Point Temperature]]></Keywords>
+    <Keywords><![CDATA[Former Soviet Union]]></Keywords>
+    <Keywords><![CDATA[Hourly Data]]></Keywords>
+    <Keywords><![CDATA[Precipitation Amount]]></Keywords>
+    <Keywords><![CDATA[Relative Humidity]]></Keywords>
+    <Keywords><![CDATA[Sea Level Pressure]]></Keywords>
+    <Keywords><![CDATA[Soil Temperature]]></Keywords>
+    <Keywords><![CDATA[Visibility]]></Keywords>
+    <Keywords><![CDATA[Water Vapor Pressure]]></Keywords>
+    <Keywords><![CDATA[Weather Type]]></Keywords>
+    <Keywords><![CDATA[Wind Direction]]></Keywords>
+    <Keywords><![CDATA[Wind Speed]]></Keywords>
+    <Keywords><![CDATA[NDP-048]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+Contributed by
+V. N. Razuvaev, E. B. Apasova, R. A. Martuganov
+All-Russian Research Institute
+of Hydrometeorological Information-World Data Centre
+Prepared by
+D. P. Kaiser and G. P. Marino
+)
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+Prepared for the
+Climate Change Research Division
+Office of Biological and Environmental Research
+U.S. Department of Energy
+Prepared by the
+Carbon Dioxide Information Analysis Center
+OAK RIDGE NATIONAL LABORATORY
+Oak Ridge, Tennessee 37831-6290
+managed by
+University of Tennessee-Battelle, LLC
+for the
+U.S. DEPARTMENT OF ENERGY
+V. N. Razuvaev, E. B. Apasova, R. A. Martuganov
+All-Russian Research Institute
+of Hydrometeorological Information-World Data Centre
+Fortran and SAS Data Retrieval Programs (.for and .sas files) - These files are provided for the benefit of users with FORTRAN or SAS on their systems, enabling them to read any of the data files in this database using these software packages. The program files are:
+ Variable Variable Starting Ending
+ Variable type width column column
+ SEQNUM Numeric 3 1 3
+ WMO Numeric 5 5 9
+ NAME Character 25 11 35
+ LAT Numeric 5 37 41
+ LON Numeric 7 43 49
+ ELEV Numeric 6 51 56
+ BMONTH Numeric 2 61 62
+ BYEAR Numeric 4 64 67
+ EMONTH Numeric 2 69 70
+ EYEAR Numeric 4 72 75
+ where
+ SEQNUM is the sequence number of the station in the data base (1-223);
+ WMO is the WMO No. of the station;
+ NAME is the name of the station;
+ LAT is the latitude of the station in decimal degrees north;
+ LON is the longitude of the station in decimal degrees east;
+ ELEV is the elevation of the station above sea level (meters) missing elevations
+ are coded as -999.9;
+ BMONTH is the beginning month of the station's period of record;
+ BYEAR is the beginning year of the station's period of record;
+ EMONTH is the ending month of the station's period of record; and
+ EYEAR is the ending year of the station's period of record.
+24966 - October 1, 1981
+25551 - January 1, 1982
+27648 - January 1, 1970
+27947 - April 1, 1981
+34123 - April 1, 1981
+ Variable Variable Starting Ending
+ Variable type width column column
+ WMO Numeric 5 1 5
+ TYPE Character 4 7 10
+ YEAR Numeric 4 12 15
+ MONTH Numeric 2 17 18
+ DAY Numeric 2 20 21
+ DIST Character 2 23 24
+ DIRECT Character 3 26 28
+ where
+ WMO is the WMO No. of the station;
+ TYPE is the type of change indicated by this entry. The possible values of TYPE
+ are as follows:
+ RAIN = rain gauge replacement (i.e., change from old-type gauge
+ to Tretyakov-type gauge). Each station will have only one
+ RAIN entry. When this type of entry is used, DIST and
+ DIRECT (described below) are not relevant and thus are
+ coded as blanks;
+ MOVE = station relocation. Each station will have at least one
+ MOVE entry. If a station moved on more than one
+ occasion, then separate entries are included for each
+ relocation. If a station never moved, then that station will
+ have only one MOVE entry; in this entry, YEAR,
+ MONTH, DAY, DIST, and DIRECT (described below) are
+ all coded as missing. In other words, if a station has only
+ one MOVE entry, and if all variables in that MOVE entry
+ are coded as missing, then the given station never moved;
+ YEAR is the year in which the change took place. Missing years are coded as
+ 999;
+ MONTH is the month in which the change took place. Missing months are coded
+ as 9;
+ DAY is the day on which the change took place. Missing days are coded as 9;
+ DIST is the distance (km) that the station was moved. Missing distances are
+ coded as 9. A distance of zero indicates that the station moved less than 1
+ km. DIST only applies to station relocation entries (i.e., lines in which
+ TYPE = MOVE). In rain gauge replacement entries (i.e., lines in which
+ TYPE = RAIN), DIST is not relevant and thus is coded as blanks; and
+ DIRECT is the direction in which the station was moved (e.g., N = north, SE =
+ southeast). Missing directions are coded as 99. DIRECT only applies to
+ station relocation entries (i.e., lines in which TYPE = MOVE). In rain
+ gauge replacement entries (i.e., lines in which TYPE = RAIN), DIRECT is
+ not relevant and thus is coded as blanks.
+ Variable Starting Ending
+ Variable width column column
+ WMO 5 1 5
+ YEAR 4 6 9
+ MONTH 2 10 11
+ DAY 2 12 13
+ HOUR 2 14 15
+ RH 3 16 18
+ RHQF 1 19 19
+ VAPORP 3 20 22
+ VAPQF 1 23 23
+ SLP 5 24 28
+ SLPQF 1 29 29
+ HDEF 3 30 32
+ HDEFQF 1 33 33
+ PCHR 1 34 34
+ PCHRQF 1 35 35
+ PTND 3 36 38
+ PTNDQF 1 39 39
+ VIS 2 40 41
+ VISCF 1 42 42
+ VISQF 1 43 43
+ HCLD 2 44 45
+ HCLDCF 1 46 46
+ HCLDQF 1 47 47
+ TDEW 3 48 50
+ TDEWQF 1 51 51
+ GRND 1 52 52
+ GRNDQF 1 53 53
+ TCLD 2 54 55
+ TCLDCF 1 56 56
+ TCLDQF 1 57 57
+ LCLD 2 58 59
+ LCLDCF 1 60 60
+ LCLDQF 1 61 61
+ WDIR 2 62 63
+ WDIRQF 1 64 64
+ WSPD 2 65 66
+ WSPDQF 1 67 67
+ PRCP 4 68 71
+ PRCPCF 1 72 72
+ PRCPQF 1 73 73
+ STAP 5 74 78
+ STAPQF 1 79 79
+ SOILT 3 80 82
+ SOILQF 1 83 83
+ W 1 84 84
+ WCF 1 85 85
+ WQF 1 86 86
+ WW 2 87 88
+ WWQF 1 89 89
+ AIRT 4 90 93
+ AIRTQF 1 94 94
+ APH1 1 95 95
+ APH1CF 1 96 96
+ APH1QF 1 97 97
+ APH2 1 98 98
+ APH2CF 1 99 99
+ APH2QF 1 100 100
+ APH3 1 101 101
+ APH3CF 1 102 102
+ APH3QF 1 103 103
+ APH4 1 104 104
+ APH4CF 1 105 105
+ APH4QF 1 106 106
+ APH5 1 107 107
+ APH5CF 1 108 108
+ APH5QF 1 109 109
+ APH6 1 110 110
+ APH6CF 1 111 111
+ APH6QF 1 112 112
+ APH7 1 113 113
+ APH7CF 1 114 114
+ APH7QF 1 115 115
+ CLDH 1 116 116
+ CLDHCF 1 117 117
+ CLDHQF 1 118 118
+ CLDM 1 119 119
+ CLDMQF 1 120 120
+ CLDL1 1 121 121
+ CLDL1F 1 122 122
+ CLDL2 1 123 123
+ CLDL2F 1 124 124
+ CLDL3 1 125 125
+ CLDL3F 1 126 126
+ WIR 1 127 127
+ WIRF 1 128 128
+ where
+ WMO is the WMO number of the station;
+ YEAR is the year (Greenwich) of the observations in the record;
+ MONTH is the month (Greenwich) of the observations in the record;
+ DAY is the day (Greenwich) of the observations in the record;
+ HOUR is the GMT of the observations in the record;
+ RH is the relative humidity of the air (expressed in percent) as determined by
+ use of a psychrometer. Relative humidity is defined as the ratio of the
+ observed vapor pressure to the saturation vapor pressure for the observed
+ air temperature. Values of observations may range from 0 to 100%.
+ Missing observations are coded as 999;
+ RHQF is the quality flag for the relative humidity observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ VAPORP is the water vapor pressure of the air [expressed in tenths of hectopascals
+ (hPa)] as determined by use of a psychrometer. The water vapor pressure
+ is the partial pressure of the water vapor contained in the air. Values of
+ observations considered valid may range from 0.0 to 95.0 hPa. Missing
+ observations are coded as 999;
+ VAPQF is the quality flag for the water vapor pressure observation (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ SLP is the sea level pressure of the air (expressed in tenths of hPa) as
+ determined by use of a barometer. Because a station would rarely be able
+ to position a barometer precisely at sea level, the air pressure measured at
+ a station is "reduced" to sea level by using a standard barometric height
+ formula. Values of observations considered valid may range from 900.0 to
+ 1100.0 hPa. At stations located above a certain elevation (500 m through
+ 1980; 800 m since 1981), air pressure is not reduced to sea level, but is
+ assigned the missing code 99999;
+ SLPQF is the quality flag for the sea level pressure observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ HDEF is the humidity deficit (saturation deficiency); the difference between the
+ saturation vapor pressure and the actual water vapor pressure at a given
+ temperature and pressure as measured in tenths of hPa. Valid values may
+ range from 0.0 to 95.0 hPa. Missing observations are coded as 999;
+ HDEFQF is the quality flag for the humidity deficit observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ PCHR is the pressure tendency characteristic, corresponding to the shape of the
+ barograph trace of air pressure at the station for the preceding 3-h period.
+ This is a coded value ranging from 0 to 8, as explained below (a missing
+ value is coded as 9):
+ 0 = increasing, then decreasing; pressure unchanged or higher than 3 h ago;
+ 1 = increasing, then steady; increasing, then weaker increase;
+ current pressure is higher than 3 h ago;
+ 2 = uniform or non-uniform increase; current pressure is higher than 3 h ago;
+ 3 = decreasing, then increasing; steady, then increasing; or
+ increasing, then increasing more rapidly; current pressure is
+ higher than 3 h ago;;
+ 4 = steady; pressure is the same as 3 h ago;
+ 5 = decreasing, then increasing; pressure is the same or lower than 3 h ago;
+ 6 = decreasing, then steady; or decreasing then decreasing more
+ slowly; current pressure is lower than 3 h ago;
+ 7 = decreasing steadily or unsteadily; current pressure is lower than 3 h ago;
+ 8 = increasing, then decreasing; steady, then decreasing; or
+ decreasing, then decreasing more quickly; current pressure is
+ lower than 3 h ago;
+ PCHRQF is the quality flag for the pressure tendency characteristic (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ PTND is the pressure tendency value (i.e., the absolute difference between the
+ current air pressure at the station and that which was observed 3 h before).
+ The sign of PTND is indicated by the value of PCHR: if PCHR is equal to
+ 0, 1, 2, or 3, then PTND is positive; if PCHR is equal to 4 then PTND
+ should equal 0; and, if PCHR is equal to 5, 6, 7, or 8, then PTND is
+ negative. Values are given in tenths of hPa; observations considered valid
+ may range from 0.0 to 20.0 hPa, and a missing observation is coded as
+ 999);
+ PTNDQF is the quality flag for the pressure tendency value (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ VIS is the horizontal visibility, given as a coded value indicating distance in
+ km. The horizontal visibility is defined as the maximum distance at which
+ an absolutely black body of rather large angular dimensions (over 15
+ angular min) can be distinguished against the background of the sky in
+ daylight, or the distance at which an unfocused light source of a given
+ intensity becomes indistinguishable at night. Horizontal visibility depends
+ on atmospheric phenomena. Thus, in the fog it can be reduced to zero,
+ while in clear arctic air it can reach hundreds of kilometers. Coded values
+ may range from 00 to 50 and from 56 to 99. Codes 00-50 and 56-89 are
+ used when visibility is measured using instruments; codes 90-99 are used
+ when visibility is estimated visually. The codes and their meanings are as
+ follows:
+ 00-50 = indicates visibility in tenths of km (i.e., 0.0 km to 5.0 km).
+ For example, 25 = 2.5 km (00 is the code for visibility less
+ than 0.1 km);
+ 51-55 = not used;
+ 56-80 = the range 6 km to 30 km. Visibility in whole kilometers
+ may be determined by subtracting 50 from the code, e.g., a
+ code of 65 indicates the visibility is 15 km;
+ 81 = 35 km;
+ 82 = 40 km;
+ 83 = 45 km;
+ 84 = 50 km;
+ 85 = 55 km;
+ 86 = 60 km;
+ 87 = 65 km;
+ 88 = 70 km;
+ 89 = &gt;70 km;
+ 90 = &lt;0.05 km;
+ 91 = 0.05 km;
+ 92 = 0.2 km;
+ 93 = 0.5 km;
+ 94 = 1 km (about 1/2 mile);
+ 95 = 2 km (about 1 mile);
+ 96 = 4 km (about 2 miles);
+ 97 = 10 km (about 6 miles);
+ 98 = 20 km (about 12 miles); and
+ 99 = &gt;50 km (&gt;30 miles).
+ If VIS = 99 with both the complement and quality flags set to 9 (see
+ below), the observation is missing.
+ VISCF is the horizontal visibility complement flag. VISCF = 0 indicates the
+ visibility corresponds to the value given for VIS; VISCF = 1 indicates the
+ visibility is actually greater than the value given for VIS; VISCF = 9
+ indicates a suspect or missing observation;
+ VISQF is the quality flag for the horizontal visibility value (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ HCLD is the height above ground of the base of the lowest cloud. This height is
+ usually coded in hundreds of meters, as detailed in the following:
+ 00 = less than or equal to 50 m with fog present;
+ 01-25 = 100 m to 2500 m, e.g., 10 = 1000 m;
+ 98 = no clouds below 2500 m, however there may be mid- or
+ high-level clouds whose height has not been determined;
+ 99 = no clouds or traces of clouds whose height has not been
+ determined; or observation is missing if both complement
+ and quality flags are set to 9 (see below);
+ HCLDCF is the complement flag for the lowest cloud height observation. A value of
+ 0 means the height was measured using instrumentation; a value of 1
+ indicates the height was estimated visually. This flag is set to 9 in the
+ case of a suspect or missing observation;
+ HCLDQF is the quality flag for the lowest cloud height observation (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ TDEW is the dew point temperature in whole degrees celsius. The dew point
+ temperature is defined as the temperature to which moist air must be
+ cooled, with air pressure and water vapor pressure held constant, in order
+ that it just reach saturation with respect to the water in the air. The dew
+ point is determined by using a psychrometer. Observations considered
+ valid may range from -70&#194;&#176; to +40&#194;&#176;C. Missing observations are coded as 999;
+ TDEWQF is the quality flag for the dew point temperature (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ GRND is the ground state, a visual observation of the state of the ground surface
+ in the vicinity of the station made usually near 0800 and 2000 LMT. This
+ is a coded value as detailed in the following:
+ 0 = surface of ground dry (no appreciable amount of dust or loose sand);
+ 1 = surface of ground moist (no pools);
+ 2 = surface of ground wet (standing water in small or large pools on surface);
+ 3 = surface of ground frozen;
+ 4 = glaze on ground, but no snow or melting snow;
+ 5 = ice, snow, or melting snow covering less than one-half of the ground;
+ 6 = ice, snow, or melting snow covering more than one-half of the ground;
+ 7 = ice, snow, or melting snow covering ground completely;
+ 8 = loose dry snow, dust, or sand covering more than one-half of the ground;
+ 9 = loose dry snow, dust, or sand covering ground completely (if GRNDQF = 0;
+ otherwise, the observation is missing);
+ GRNDQF is the quality flag for the ground state observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ TCLD is the total cloud amount, estimated visually by an observer according to a
+ 10-point system (i.e., in tenths of sky cover). A value of 0 indicates no
+ clouds present or &lt;1/10 sky cover, a value of 10 indicates an overcast sky
+ (with or without gaps amounting to &lt;1/10 sky cover; see explanation of
+ complement flag below), and a value of 99 indicates a missing
+ observation. The gaps between individual cloud elements, typical of some
+ cloud genera (e.g., altocumulus and stratocumulus) are not to be included
+ as part of the total cloud cover estimate (i.e., they are counted as clear sky);
+ TCLDCF is the total cloud amount complement flag. TCLDCF = 1 is used if
+ 10-point cloudiness (overcast) is observed with gaps; TCLDCF = 0 is
+ coded for all other valid cloud amounts; and TCLDCF = 9 indicates a
+ suspect or missing observation;
+ TCLDQF is the quality flag for the total cloud amount observation (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ LCLD is the low-cloud amount, estimated visually by an observer according to a
+ 10-point system (i.e., in tenths of sky cover). A value of 0 indicates no
+ low clouds present or &lt;1/10 of the sky is covered with low clouds. The
+ gaps between individual cloud elements, typical of some cloud genera
+ (e.g., stratocumulus and cumulus) are not to be included as part of the low
+ cloud cover estimate (i.e., they are counted as clear sky). Missing
+ observations are coded as 99;
+ LCLDCF is the low-cloud amount complement flag. TCLDCF = 1 is used if
+ 10-point cloudiness (overcast) is observed with gaps; TCLDCF = 0 is
+ coded for all other valid low-cloud amounts; and TCLDCF = 9 indicates a
+ suspect or missing observation;
+ LCLDQF is the quality flag for the total cloud amount observation (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ WDIR is the direction from which the wind is blowing, as measured 10-12 m
+ above ground level. This is a coded observation, the values for which are
+ given as follows:
+ Code Wind direction
+ ---- --------------
+ 00 = calm winds
+ 02 = NNE
+ 05 = NE
+ 07 = ENE
+ 09 = E
+ 11 = ESE
+ 14 = SE
+ 16 = SSE
+ 18 = S
+ 20 = SSW
+ 23 = SW
+ 25 = WSW
+ 27 = W
+ 29 = WNW
+ 32 = NW
+ 34 = NNW
+ 36 = N
+ 99 = variable winds (if WDIRQF = 0; otherwise, the observation is missing);
+ WDIRQF is the quality flag for the wind direction observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation). Missing
+ observations are coded as 99;
+ WSPD is the wind speed in m/s as measured 10-12 m above ground level.
+ Observations considered valid may range from 0 to 60 m/s;
+ WSPDQF is the quality flag for the wind speed observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ PRCP is the precipitation amount to the nearest tenth of a millimeter.
+ Observations considered valid may range from 0 to 5000 (0 mm to 500 mm).
+ Missing observations are coded as 9999. Rain gauges are positioned
+ 2 m above ground level, and were read at 0700 and 1900 LMT from 1936
+ through 1965. In 1946, the old-style gauge (exact type unknown) was
+ replaced with the Tretyakov-type gauge (see Appendix A for the date of
+ implementation at each site). Beginning in 1966, gauges were read at
+ 0300, 0900, 1500, and 2100 MLT in timezone 2; at 0300, 0600, 1500,
+ and 1800 MLT in zones 3-5; at 0300 and 1500 MLT in zones 6-8; at
+ 0000, 0300, 1200, and 1500 MLT in zones 9-11; and at 2100, 0300, 0900,
+ and 1500 MLT in zone 12. Also, beginning in 1966, wetting corrections
+ of 0.2 mm were applied to each hourly measurement. (Because four
+ observations per day were collected at stations in timezones 2-5 and
+ 9-12, four corrections were counted in the calculation of daily totals;
+ therefore, total daily corrections are higher for stations in these areas.)
+ From 1966 onward, readings at some stations were also taken at the
+ observing hours closest to 0800 and 2000 LMT. Beginning in 1986,
+ readings at 0300 and 1500 MLT were discontinued at all stations except
+ those in timezone 2. (The term "timezone" in the preceding corresponds
+ to assigning the numbers 1-12 to 12 timezones stretching from west to
+ east across the FSU. The timezone of each station in this
+ sense may be obtained by subtracting 1 from the value of the ZONE
+ variable in the file .)
+ PRCPCF is the precipitation amount complement flag. It is set to 1 if a trace of
+ precipitation has been measured, i.e., &lt;0.1 mm. This flag is set to 0 for all
+ other valid precipitation observations, and is set to 9 for suspect or missing
+ precipitation observations;
+ PRCPQF is the quality flag for the precipitation amount (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ STAP is the pressure of the air at station level (expressed in tenths of hPa) as
+ determined by use of a barometer. Values of observations considered valid
+ may range from 600.0 to 1100.0 hPa. Validity is of course assessed by
+ considering factors such as the station's elevation above sea level,
+ geographic location, season, and pressures at neighboring stations.
+ Missing observations are coded as 99999;
+ STAPQF is the quality flag for the station level pressure observation (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ SOILT is the soil surface temperature, expressed in whole degrees celsius. Soil
+ surface temperature is measured at a smooth, unshaded site that is devoid
+ of vegetation. When the ground is snow-covered, the thermometer is
+ placed on the snow surface and the temperature of the snow cover is
+ measured. Observations considered valid may range from -75 to +75&#194;&#176;C.
+ Missing observations are coded as 999;
+ SOILQF is the quality flag for the soil surface temperature (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ W is the past weather code, used in describing the meteorological conditions
+ observed between the past and current observations. At 0000, 0600, 1200,
+ and 1800 GMT this code describes weather from the previous 6-hour
+ period; at 0300, 0900, 1500, and 2100 GMT it describes weather for the
+ previous 3-hour period. The codes and their meanings are as follows:
+ 0 = clear sky or no more than 5/10s cloud amount;
+ 1 = variable sky; cloud amount was both less than and greater than
+ 5/10 sky cover during the preceding three hours;
+ 2 = overcast or cloud amount greater than 5/10s;
+ 3 = sand or dust storm, or drifting or blowing snow;
+ 4 = fog, ice fog, or thick haze or smoke;
+ 5 = drizzle;
+ 6 = rain;
+ 7 = snow, or rain and snow mixed;
+ 8 = shower(s);
+ 9 = thunderstorm, with or without precipitation (if WQF = 0;
+ otherwise, the observation is missing);
+ WCF is the past weather complement flag. It is set to 0 when used with the
+ previously defined past weather codes, however it is set to 1 for past
+ weather codes 3, 7, and 8 if the past weather also included a snowstorm.
+ The complement flag is set to 9 in the case of a suspect or missing past
+ weather observation;
+ WQF is the quality flag for the past weather observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ WW is the present weather code, reflecting the meteorological conditions at the
+ time of observation or during the preceding 1-h period. Codes range from
+ 00 to 99 and are defined as follows:
+ Code Present weather
+ ---- ---------------
+ 00-19 = no precipitation, fog, dust storm, sandstorm, drifting or
+ blowing snow at the station at the time of observation
+ and, except for codes 09 and 17, during preceding hour;
+ 00 = cloud development conditions unknown;
+ 01 = cloud generally dispersing;
+ 02 = state of sky on the whole unchanged;
+ 03 = clouds generally forming or developing;
+ 04 = visibility reduced by smoke or volcanic ash;
+ 05 = haze;
+ 06 = widespread dust in suspension in the air;
+ 07 = dust or sand raised by wind at or near the station at the
+ time of observation;
+ 08 = well developed dust whirl(s) seen at or near the station;
+ 09 = dust storm within sight;
+ 10 = mist, steam mist (light fog);
+ 11 = patches of shallow fog, or, from 1966 onward, ice fog;
+ 12 = more or less continuous shallow fog, or, from 1966
+ onward, ice fog;
+ 13 = lightning visible, no thunder heard;
+ 14 = precipitation within sight, not reaching the ground;
+ 15 = precipitation within sight, reaching the ground or the
+ surface of the sea, but distant (i.e., estimated to be
+ more than 5 km from the station);
+ 16 = precipitation within sight, reaching the ground or the
+ surface of the sea, near to, but not at the station;
+ 17 = thunderstorm, but no precipitation at the station or
+ within sight;
+ 18 = squall;
+ 19 = funnel cloud;
+ -----------------------------------------------------------------------
+ 20-29 = precipitation, fog, ice fog, or thunderstorm at the
+ station during the preceding hour but not at the time of
+ the observation;
+ 20 = drizzle or snow grains;
+ 21 = rain;
+ 22 = snow;
+ 23 = rain and snow or ice pellets;
+ 24 = freezing drizzle or freezing rain;
+ 25 = showers of rain;
+ 26 = showers of snow, or of rain and snow;
+ 27 = shower of hail, or ice pellets;
+ 28 = fog or ice fog;
+ 29 = thunderstorm;
+ -----------------------------------------------------------------------
+ 30-39 = dust storm or sandstorm, drifting or blowing snow at
+ the time of observation;
+ 30 = slight or moderate dust storm or sandstorm subsiding;
+ 31 = slight or moderate dust storm or sandstorm, no
+ appreciable change during the preceding hour;
+ 32 = slight or moderate dust storm or sandstorm, increasing;
+ 33 = severe dust storm or sandstorm, decreasing;
+ 34 = severe dust storm or sandstorm with no appreciable change;
+ 35 = severe dust storm or sandstorm, increasing;
+ 36 = slight or moderate drifting snow;
+ 37 = heavy drifting snow;
+ 38 = slight or moderate blowing snow;
+ 39 = heavy blowing snow;
+ -----------------------------------------------------------------------
+ 40-49 = fog or ice fog at the time of observation;
+ 40 = fog or ice fog near the station;
+ 41 = fog or ice fog in patches;
+ 42 = fog or ice fog decreasing, sky discernible;
+ 43 = fog or ice fog decreasing, sky not discernible;
+ 44 = fog, or, from 1966 onward, ice fog; sky discernible; no
+ appreciable change;
+ 45 = fog, or, from 1966 onward, ice fog; sky not
+ discernible; no appreciable change;
+ 46 = fog or ice fog, sky discernible, becoming thicker;
+ 47 = fog or ice fog, sky not discernible, becoming thicker;
+ 48 = fog, depositing rime, sky discernible;
+ 49 = fog, depositing rime, sky not discernible;
+ -----------------------------------------------------------------------
+ 50-59 = drizzle at the station at the time of observation;
+ 50 = drizzle intermittent, slight at time of observation;
+ 51 = drizzle continuous, slight at time of observation;
+ 52 = drizzle intermittent, moderate at time of observation;
+ 53 = drizzle continuous, moderate at time of observation;
+ 54 = drizzle intermittent, heavy at time of observation;
+ 55 = drizzle continuous, heavy at time of observation;
+ 56 = drizzle, freezing, slight;
+ 57 = drizzle, freezing, heavy;
+ 58 = drizzle and rain, moderate or heavy;
+ 59 = drizzle and rain, moderate or heavy;
+ -----------------------------------------------------------------------
+ 60-69 = rain at the station at the time of observation;
+ 60 = rain intermittent, slight;
+ 61 = rain continuous, slight;
+ 62 = rain intermittent, moderate;
+ 63 = rain continuous, moderate;
+ 64 = rain intermittent, heavy;
+ 65 = rain continuous, heavy;
+ 66 = rain, freezing, slight;
+ 67 = rain, freezing, moderate or heavy;
+ 68 = rain or drizzle and snow, slight;
+ 69 = rain or drizzle and snow, moderate or heavy;
+ -----------------------------------------------------------------------
+ 70-79 = solid precipitation not in showers at the time of
+ observation;
+ 70 = intermittent fall of snow flakes, slight;
+ 71 = continuous fall of snow flakes, slight;
+ 72 = intermittent fall of snow flakes, moderate;
+ 73 = continuous fall of snow flakes, moderate;
+ 74 = intermittent fall of snow flakes, heavy;
+ 75 = continuous fall of snow flakes, heavy;
+ 76 = diamond dust;
+ 77 = snow grains;
+ 78 = isolated starlike snow crystals;
+ 79 = ice pellets;
+ -----------------------------------------------------------------------
+ 80-90 = showery precipitation at the time of observation;
+ 80 = rain shower(s), slight;
+ 81 = rain shower(s), moderate or heavy;
+ 82 = rain shower(s), violent;
+ 83 = shower(s) of rain and snow mixed, slight;
+ 84 = shower(s) of rain and snow mixed, moderate or heavy;
+ 85 = snow shower(s), slight;
+ 86 = snow shower(s), moderate or heavy;
+ 87 = shower(s) of snow pellets or small hail, slight;
+ 88 = shower(s) of snow pellets or small hail, moderate or heavy;
+ 89 = shower(s) of hail, slight;
+ 90 = shower(s) of hail, moderate or heavy;
+ -----------------------------------------------------------------------
+ 91-99 = thunderstorm during the preceding hour or at the time
+ of observation;
+ 91 = slight rain at time of observation, thunderstorm during
+ the preceding hour;
+ 92 = moderate or heavy rain at time of observation,
+ thunderstorm during the preceding hour;
+ 93 = slight snow or hail at the time of observation,
+ thunderstorm during the preceding hour;
+ 94 = moderate or heavy snow or hail at the time of
+ observation, thunderstorm during preceding hour;
+ 95 = thunderstorm, slight or moderate with rain and/or snow
+ at the time of observation;
+ 96 = thunderstorm, slight or moderate with hail at the time
+ of observation;
+ 97 = thunderstorm, heavy, with rain or snow at time of
+ observation;
+ 98 = thunderstorm, combined with dust storm or sandstorm
+ at time of observation;
+ 99 = thunderstorm, heavy, with hail at the time of
+ observation (if WWQF = 0; otherwise, the observation
+ is missing);
+ WWQF is the quality flag for the present weather observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ AIRT is the air temperature (tenths of degrees celsius), measured 2 m above
+ ground or snow surface level. Observations considered valid may range
+ from -70.0&#194;&#176; to +55.0&#194;&#176;C. Missing observations are coded as 9999;
+ AIRTQF is the quality flag for air temperature (0 indicates a valid observation; 9
+ indicates a suspect or missing observation);
+ APH1-APH7 are seven atmospheric phenomena groups, used for reporting various
+ atmospheric phenomena during the ten minutes preceding the observation
+ hour. These phenomena are observed visually, as are estimates of their
+ intensity. Atmospheric phenomena intensity can be weak, moderate or
+ strong. The phenomena are described by means of codes that are
+ particular to each of the seven groups. A coded value of 0 indicates that
+ atmospheric phenomena were not observed at the time of observation.
+ Additional codes and their meanings are as follows:
+ APH1 group: 1 = not used;
+ 2 = not used;
+ 3 = dew;
+ 4 = rime;
+ 5 = crystalline frost, grain frost;
+ 6 = glazed frost;
+ 7 = rime and crystalline frost;
+ 8 = rime and glazed frost;
+ 9 = crystalline frost and glazed frost;
+ APH2 group: 1 = not used before 1966, from 1966 onward: snow haze;
+ 2 = haze;
+ 3 = mist;
+ 4 = ground fog;
+ 5 = crystalline fog, sky visible;
+ 6 = ice fog;
+ 7 = fog, sky visible;
+ 8 = fog;
+ 9 = not used before 1966, from 1966 onward: shallow ice fog;
+ APH3 group: 1 = drifting dust;
+ 2 = funnel cloud;
+ 3 = dust storm;
+ 4 = whirl;
+ 5 = drifting snow;
+ 6 = blowing snow;
+ 7 = blizzard;
+ 8 = snow storm;
+ 9 = not used;
+ APH4 group: 1 = before 1966: corona around sun/moon; not used
+ from 1966 onward;
+ 2 = sunshine;
+ 3 = before 1966: halo around sun/moon; not used from
+ 1966 onward;
+ 4 = snow grains and sunshine;
+ 5 = snow pellets and sunshine;
+ 6 = snow grains;
+ 7 = snow pellets;
+ 8 = ice pellets;
+ 9 = ice pellets and sunshine;
+ APH5 group: 1 = not used;
+ 2 = glazed rain;
+ 3 = drizzle;
+ 4 = rain;
+ 5 = rain shower;
+ 6 = glazed rain, rain;
+ 7 = glazed rain, rain shower;
+ 8 = not used;
+ 9 = not used;
+ APH6 group: 1 = not used;
+ 2 = mirage;
+ 3 = ice needles;
+ 4 = snow melting;
+ 5 = snow melting shower;
+ 6 = not used;
+ 7 = snow;
+ 8 = snow shower;
+ 9 = not used;
+ APH7 group: 1 = not used;
+ 2 = sea soaring (lake or river soaring);
+ 3 = polar lights;
+ 4 = sea soaring and polar lights;
+ 5 = summer lightning;
+ 6 = before 1966, thunderstorm in the distance; not used
+ from 1966 onward;
+ 7 = thunderstorm;
+ 8 = hail;
+ 9 = thunderstorm and hail;
+ APH1CF- are the corresponding complement flags for the seven atmospheric
+ APH7CF phenomena groups. These flags are used to denote whether or not an
+ observation has been made, and if so, to denote the intensity of the
+ phenomena. A complement flag of 0 accompanying an atmospheric
+ phenomena code of 0 means none of the phenomena in a particular group
+ have been observed. When accompanying a nonzero phenomena code, a
+ complement flag of 0 denotes phenomena of weak intensity, 1 denotes
+ moderate intensity, and 2 denotes strong intensity. A complement flag of
+ 9, when accompanied by a quality flag of 9 (see below) indicates a suspect
+ or missing observation;
+ APH1QF- are quality flags for the seven atmospheric phenomena groups (0 indicates
+ APH7QF a valid observation; 9 indicates a suspect or missing observation);
+ CLDH is the coded value for the high-level cloud type. High clouds are defined
+ as those with bases higher than 6000 m and include cirrus (Ci),
+ cirrocumulus (Cc), and cirrostratus (Cs) clouds. Codes have the following
+ meanings:
+ 0 = cloud type is not indicated, but low- or mid-level clouds
+ observed, with total cloud amount ranging anywhere from 1/10
+ to overcast with gaps; high-level clouds are absent or amount
+ to less than 1/10 sky cover;
+ 1 = Ci;
+ 2 = Cc;
+ 3 = Cs;
+ 4 = Ci and Cc;
+ 5 = Ci and Cs;
+ 6 = Cc and Cs;
+ 7 = Ci, Cc, and Cs;
+ 8 = high cloud presence and type cannot be determined because of
+ continuous fog or snowstorm; or high-level cloud presence and
+ type cannot be determined because of overcast conditions at
+ lower levels;
+ 9 = complete absence of clouds or, in the case of translucent fog,
+ clear in the zenith (if CLDHQF =0; otherwise the observation
+ is missing);
+ CLDHCF is the high-level cloud type complement flag. It is set to 0 when the
+ high-level cloud type has been determined with no fog present; set to 1
+ when the high-level cloud type has been determined with translucent fog
+ or when the high-level cloud type cannot be determined because of
+ continuous fog; and set to 9 if the high-level cloud type is suspect or
+ missing.
+ CLDHQF is the high-level cloud type quality flag (0 indicates a valid observation; 9
+ indicates a suspect or missing observation);
+ CLDM is the coded value for the mid-level cloud type. Mid-level clouds are
+ defined as those with bases between 2000 m and 6000 m; they include
+ altocumulus (Ac) and altostratus (As) clouds. Codes have the following
+ meanings:
+ 0 = cloud type is not indicated, but high-level clouds (amount
+ ranging from 1/10 to overcast) and/or low-level clouds (amount
+ ranging from 1/10 to overcast with gaps) observed; mid-level
+ clouds are absent or amount to less than 1/10 sky cover;
+ 1 = Ac;
+ 2 = As;
+ 3 = not used;
+ 4 = Ac and As;
+ 5-7 = not used;
+ 8 = mid-level cloud presence and type cannot be determined due to
+ fog or snowstorm; or mid-level cloud presence and type cannot
+ be determined because of overcast at lower levels;
+ 9 = complete absence of clouds or, in the case of translucent fog,
+ clear in the zenith (if CLDMQF =0; otherwise the observation
+ is missing);
+ CLDMQF is the mid-level cloud type quality flag (0 indicates a valid observation;
+ 9 indicates a suspect or missing observation);
+ CLDL1 is the first of three code groups for describing low-level cloud type.
+ Low-level clouds are defined as those with bases lower than 2000 m; they
+ include stratocumulus (Sc), stratus (St), nimbostratus (Ns), cumulus (Cu),
+ and cumulonimbus (Cb) clouds. Codes have the following meanings:
+ 0 = cloud type is not indicated, but high- or mid-level clouds
+ observed, with total cloud amount ranging anywhere from 1/10
+ to overcast; low-level clouds of the CLDL1 group (see below)
+ are absent or amount to less than 1/10 sky cover;
+ 1 = Cu;
+ 2 = Cb;
+ 3 = not used;
+ 4 = Cu and Cb;
+ 5-7 = not used;
+ 8 = low-level cloud presence and type cannot be determined due to
+ fog or snowstorm;
+ 9 = complete absence of clouds or, in the case of translucent fog,
+ clear in the zenith (if CLDL1F =0; otherwise the observation is
+ missing);
+ CLDL1F is the low-level cloud type quality flag for the first low-level cloud group
+ (0 indicates a valid observation; 9 indicates a suspect or missing
+ observation);
+ CLDL2 is the second of three code groups for describing low-level cloud type.
+ Low-level clouds are defined as those with bases lower than 2000 m; they
+ include stratocumulus (Sc), stratus (St), nimbostratus (Ns), cumulus (Cu),
+ and cumulonimbus (Cb) clouds. Codes have the following meanings:
+ 0 = cloud type is not indicated, but high- or mid-level clouds
+ observed, with total cloud amount ranging anywhere from 1/10
+ to overcast; low-level clouds of the CLDL2 group (see below)
+ are absent or amount to less than 1/10 sky cover;
+ 1 = St;
+ 2 = Sc;
+ 3 = not used;
+ 4 = St and Sc;
+ 5-7 = not used;
+ 8 = low-level cloud presence and type cannot be determined due to
+ fog or snowstorm;
+ 9 = complete absence of clouds or, in the case of translucent fog,
+ clear in the zenith (if CLDL2F =0; otherwise the observation is
+ missing);
+ CLDL2F is the low-level cloud type quality flag for the second low-level cloud
+ group. (0 indicates a valid observation; 9 indicates a suspect or missing
+ observation.);
+ CLDL3 is the third of three code groups for describing low-level cloud type.
+ Low-level clouds are defined as those with bases lower than 2000 m; they
+ include stratocumulus (Sc), stratus (St), nimbostratus (Ns), cumulus (Cu),
+ and cumulonimbus (Cb) clouds. Codes have the following meanings:
+ 0 = cloud type is not indicated, but high- or mid-level clouds
+ observed, with total cloud amount ranging anywhere from 1/10
+ to overcast; low-level clouds of the CLDL3 group (see below)
+ are absent or amount to less than 1/10 sky cover;
+ 1 = not used;
+ 2 = Ns;
+ 3 = fractostratus (Fs) and fractocumulus (Fc) of bad weather (also
+ known as scud);
+ 4-5 = not used;
+ 6 = Ns and Frnb;
+ 7 = not used;
+ 8 = low-level cloud presence and type cannot be determined due to
+ fog or snowstorm;
+ 9 = complete absence of clouds or, in the case of translucent fog,
+ clear in the zenith (if CLDL3F =0; otherwise the observation is missing);
+ CLDL3F is the low-level cloud type quality flag for the third low-level cloud group
+ (0 indicates a valid observation; 9 indicates a suspect or missing
+ observation);
+ WIR is the wind irregularity characteristic. It is a coded value used to describe
+ the wind speed as steady or gusty and the wind direction as constant or
+ variable. The wind is considered to be steady if its speed remains
+ essentially constant over the course of two minutes; otherwise it is
+ considered gusty. The wind direction is considered constant if over the
+ course of two minutes it varies within one compass point; otherwise it is
+ considered to be variable. Observations of this variable are only present in
+ the 6-hourly data records (i.e., in the pre-1966 data). The 3-hourly records
+ (1966 onward) contain a value of 9 to indicate missing data. For the pre-
+ 1966 data, a value of 9 is also used to indicate a missing value. Codes for
+ observations have the following meanings:
+ 0 = no wind;
+ 1 = steady speed, constant direction;
+ 2 = steady, variable;
+ 3 = gusty, constant;
+ 4 = gusty, variable;
+ 5 = characteristic is not defined;
+ 6 = the wind speed and direction at this hour are considered suspect.
+ WIRF is the wind irregularity characteristic quality flag (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation).
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 143555 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Dale_Kaiser/NDP_048.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp048]]></Product_number>
+      <Product_title><![CDATA[Six- and Three-Hourly Meteorological Observations from 223 U.S.S.R. Stations]]></Product_title>
+      <Author>
+        <Name><![CDATA[Razuvaev, V. N.]]></Name>
+        <Company><![CDATA[All-Russian Research Institute of Hydrometeorological Information]]></Company>
+        <Organization><![CDATA[World Data Centre]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Apasova, E. B.]]></Name>
+        <Company><![CDATA[All-Russian Research Institute of Hydrometeorological Information]]></Company>
+        <Organization><![CDATA[World Data Centre ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Martuganov, R. A.]]></Name>
+        <Company><![CDATA[All-Russian Research Institute of Hydrometeorological Information]]></Company>
+        <Organization><![CDATA[World Data Centre ]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Soviet Union]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp048/ndp048.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[AIRT]]></Variable>
+      <Variable><![CDATA[AIRTQF]]></Variable>
+      <Variable><![CDATA[APH1]]></Variable>
+      <Variable><![CDATA[APH1CF]]></Variable>
+      <Variable><![CDATA[APH1QF]]></Variable>
+      <Variable><![CDATA[APH2]]></Variable>
+      <Variable><![CDATA[APH2CF]]></Variable>
+      <Variable><![CDATA[APH2QF]]></Variable>
+      <Variable><![CDATA[APH3]]></Variable>
+      <Variable><![CDATA[APH3CF]]></Variable>
+      <Variable><![CDATA[APH3QF]]></Variable>
+      <Variable><![CDATA[APH4]]></Variable>
+      <Variable><![CDATA[APH4CF]]></Variable>
+      <Variable><![CDATA[APH4QF]]></Variable>
+      <Variable><![CDATA[APH5CF]]></Variable>
+      <Variable><![CDATA[APH5QF]]></Variable>
+      <Variable><![CDATA[APH6]]></Variable>
+      <Variable><![CDATA[APH6CF]]></Variable>
+      <Variable><![CDATA[APH6QF]]></Variable>
+      <Variable><![CDATA[APH7]]></Variable>
+      <Variable><![CDATA[APH7CF]]></Variable>
+      <Variable><![CDATA[APH7QF]]></Variable>
+      <Variable><![CDATA[BMONTH]]></Variable>
+      <Variable><![CDATA[BYEAR]]></Variable>
+      <Variable><![CDATA[CLDH]]></Variable>
+      <Variable><![CDATA[CLDHCF]]></Variable>
+      <Variable><![CDATA[CLDHQF]]></Variable>
+      <Variable><![CDATA[CLDL1]]></Variable>
+      <Variable><![CDATA[CLDL1F]]></Variable>
+      <Variable><![CDATA[CLDL2]]></Variable>
+      <Variable><![CDATA[CLDL2F]]></Variable>
+      <Variable><![CDATA[CLDL3]]></Variable>
+      <Variable><![CDATA[CLDL3F]]></Variable>
+      <Variable><![CDATA[CLDM]]></Variable>
+      <Variable><![CDATA[CLDMQF]]></Variable>
+      <Variable><![CDATA[DAY]]></Variable>
+      <Variable><![CDATA[DIRECT]]></Variable>
+      <Variable><![CDATA[DIST]]></Variable>
+      <Variable><![CDATA[ELEV]]></Variable>
+      <Variable><![CDATA[EMONTH]]></Variable>
+      <Variable><![CDATA[EYEAR]]></Variable>
+      <Variable><![CDATA[GAP]]></Variable>
+      <Variable><![CDATA[GRND]]></Variable>
+      <Variable><![CDATA[GRNDQF]]></Variable>
+      <Variable><![CDATA[HCLD]]></Variable>
+      <Variable><![CDATA[HCLDCF]]></Variable>
+      <Variable><![CDATA[HCLDQF]]></Variable>
+      <Variable><![CDATA[HDEF]]></Variable>
+      <Variable><![CDATA[HDEFQF]]></Variable>
+      <Variable><![CDATA[HOUR]]></Variable>
+      <Variable><![CDATA[LAT]]></Variable>
+      <Variable><![CDATA[LCLD]]></Variable>
+      <Variable><![CDATA[LCLDCF]]></Variable>
+      <Variable><![CDATA[LCLDQF]]></Variable>
+      <Variable><![CDATA[LON]]></Variable>
+      <Variable><![CDATA[MONTH]]></Variable>
+      <Variable><![CDATA[NAME]]></Variable>
+      <Variable><![CDATA[PCHR]]></Variable>
+      <Variable><![CDATA[PCHRQF]]></Variable>
+      <Variable><![CDATA[PRCP]]></Variable>
+      <Variable><![CDATA[PRCPCF]]></Variable>
+      <Variable><![CDATA[PRCPQF]]></Variable>
+      <Variable><![CDATA[PTND]]></Variable>
+      <Variable><![CDATA[PTNDQF]]></Variable>
+      <Variable><![CDATA[RH]]></Variable>
+      <Variable><![CDATA[RHQF]]></Variable>
+      <Variable><![CDATA[SEQNUM]]></Variable>
+      <Variable><![CDATA[SLP]]></Variable>
+      <Variable><![CDATA[SLPQF]]></Variable>
+      <Variable><![CDATA[SOILQF]]></Variable>
+      <Variable><![CDATA[SOILT]]></Variable>
+      <Variable><![CDATA[STAP]]></Variable>
+      <Variable><![CDATA[STAPQF]]></Variable>
+      <Variable><![CDATA[TCLD]]></Variable>
+      <Variable><![CDATA[TCLDCF]]></Variable>
+      <Variable><![CDATA[TCLDQF]]></Variable>
+      <Variable><![CDATA[TDEW]]></Variable>
+      <Variable><![CDATA[TDEWQF]]></Variable>
+      <Variable><![CDATA[TYPE]]></Variable>
+      <Variable><![CDATA[VAPORP]]></Variable>
+      <Variable><![CDATA[VAPQF]]></Variable>
+      <Variable><![CDATA[VIS]]></Variable>
+      <Variable><![CDATA[VISCF]]></Variable>
+      <Variable><![CDATA[VISQF]]></Variable>
+      <Variable><![CDATA[W]]></Variable>
+      <Variable><![CDATA[WCF]]></Variable>
+      <Variable><![CDATA[WDIR]]></Variable>
+      <Variable><![CDATA[WDIRQF]]></Variable>
+      <Variable><![CDATA[WIR]]></Variable>
+      <Variable><![CDATA[WIRF]]></Variable>
+      <Variable><![CDATA[WMO]]></Variable>
+      <Variable><![CDATA[WQF]]></Variable>
+      <Variable><![CDATA[WSPD]]></Variable>
+      <Variable><![CDATA[WSPDQF]]></Variable>
+      <Variable><![CDATA[WW]]></Variable>
+      <Variable><![CDATA[WWQF]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Variable><![CDATA[ZONE]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp048/ndp048.html&#239;&#187;&#191;
+Contributed by
+V. N. Razuvaev, E. B. Apasova, R. A. Martuganov
+All-Russian Research Institute
+of Hydrometeorological Information-World Data Centre
+Prepared by
+D. P. Kaiser and G. P. Marino
+)
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+Prepared for the
+Climate Change Research Division
+Office of Biological and Environmental Research
+U.S. Department of Energy
+Prepared by the
+Carbon Dioxide Information Analysis Center
+OAK RIDGE NATIONAL LABORATORY
+Oak Ridge, Tennessee 37831-6290
+managed by
+University of Tennessee-Battelle, LLC
+for the
+U.S. DEPARTMENT OF ENERGY
+V. N. Razuvaev, E. B. Apasova, R. A. Martuganov
+All-Russian Research Institute
+of Hydrometeorological Information-World Data Centre
+Fortran and SAS Data Retrieval Programs (.for and .sas files) - These files are provided for the benefit of users with FORTRAN or SAS on their systems, enabling them to read any of the data files in this database using these software packages. The program files are:
+ Variable Variable Starting Ending
+ Variable type width column column
+ SEQNUM Numeric 3 1 3
+ WMO Numeric 5 5 9
+ NAME Character 25 11 35
+ LAT Numeric 5 37 41
+ LON Numeric 7 43 49
+ ELEV Numeric 6 51 56
+ BMONTH Numeric 2 61 62
+ BYEAR Numeric 4 64 67
+ EMONTH Numeric 2 69 70
+ EYEAR Numeric 4 72 75
+ where
+ SEQNUM is the sequence number of the station in the data base (1-223);
+ WMO is the WMO No. of the station;
+ NAME is the name of the station;
+ LAT is the latitude of the station in decimal degrees north;
+ LON is the longitude of the station in decimal degrees east;
+ ELEV is the elevation of the station above sea level (meters) missing elevations
+ are coded as -999.9;
+ BMONTH is the beginning month of the station's period of record;
+ BYEAR is the beginning year of the station's period of record;
+ EMONTH is the ending month of the station's period of record; and
+ EYEAR is the ending year of the station's period of record.
+24966 - October 1, 1981
+25551 - January 1, 1982
+27648 - January 1, 1970
+27947 - April 1, 1981
+34123 - April 1, 1981
+ Variable Variable Starting Ending
+ Variable type width column column
+ WMO Numeric 5 1 5
+ TYPE Character 4 7 10
+ YEAR Numeric 4 12 15
+ MONTH Numeric 2 17 18
+ DAY Numeric 2 20 21
+ DIST Character 2 23 24
+ DIRECT Character 3 26 28
+ where
+ WMO is the WMO No. of the station;
+ TYPE is the type of change indicated by this entry. The possible values of TYPE
+ are as follows:
+ RAIN = rain gauge replacement (i.e., change from old-type gauge
+ to Tretyakov-type gauge). Each station will have only one
+ RAIN entry. When this type of entry is used, DIST and
+ DIRECT (described below) are not relevant and thus are
+ coded as blanks;
+ MOVE = station relocation. Each station will have at least one
+ MOVE entry. If a station moved on more than one
+ occasion, then separate entries are included for each
+ relocation. If a station never moved, then that station will
+ have only one MOVE entry; in this entry, YEAR,
+ MONTH, DAY, DIST, and DIRECT (described below) are
+ all coded as missing. In other words, if a station has only
+ one MOVE entry, and if all variables in that MOVE entry
+ are coded as missing, then the given station never moved;
+ YEAR is the year in which the change took place. Missing years are coded as
+ 999;
+ MONTH is the month in which the change took place. Missing months are coded
+ as 9;
+ DAY is the day on which the change took place. Missing days are coded as 9;
+ DIST is the distance (km) that the station was moved. Missing distances are
+ coded as 9. A distance of zero indicates that the station moved less than 1
+ km. DIST only applies to station relocation entries (i.e., lines in which
+ TYPE = MOVE). In rain gauge replacement entries (i.e., lines in which
+ TYPE = RAIN), DIST is not relevant and thus is coded as blanks; and
+ DIRECT is the direction in which the station was moved (e.g., N = north, SE =
+ southeast). Missing directions are coded as 99. DIRECT only applies to
+ station relocation entries (i.e., lines in which TYPE = MOVE). In rain
+ gauge replacement entries (i.e., lines in which TYPE = RAIN), DIRECT is
+ not relevant and thus is coded as blanks.
+ Variable Starting Ending
+ Variable width column column
+ WMO 5 1 5
+ YEAR 4 6 9
+ MONTH 2 10 11
+ DAY 2 12 13
+ HOUR 2 14 15
+ RH 3 16 18
+ RHQF 1 19 19
+ VAPORP 3 20 22
+ VAPQF 1 23 23
+ SLP 5 24 28
+ SLPQF 1 29 29
+ HDEF 3 30 32
+ HDEFQF 1 33 33
+ PCHR 1 34 34
+ PCHRQF 1 35 35
+ PTND 3 36 38
+ PTNDQF 1 39 39
+ VIS 2 40 41
+ VISCF 1 42 42
+ VISQF 1 43 43
+ HCLD 2 44 45
+ HCLDCF 1 46 46
+ HCLDQF 1 47 47
+ TDEW 3 48 50
+ TDEWQF 1 51 51
+ GRND 1 52 52
+ GRNDQF 1 53 53
+ TCLD 2 54 55
+ TCLDCF 1 56 56
+ TCLDQF 1 57 57
+ LCLD 2 58 59
+ LCLDCF 1 60 60
+ LCLDQF 1 61 61
+ WDIR 2 62 63
+ WDIRQF 1 64 64
+ WSPD 2 65 66
+ WSPDQF 1 67 67
+ PRCP 4 68 71
+ PRCPCF 1 72 72
+ PRCPQF 1 73 73
+ STAP 5 74 78
+ STAPQF 1 79 79
+ SOILT 3 80 82
+ SOILQF 1 83 83
+ W 1 84 84
+ WCF 1 85 85
+ WQF 1 86 86
+ WW 2 87 88
+ WWQF 1 89 89
+ AIRT 4 90 93
+ AIRTQF 1 94 94
+ APH1 1 95 95
+ APH1CF 1 96 96
+ APH1QF 1 97 97
+ APH2 1 98 98
+ APH2CF 1 99 99
+ APH2QF 1 100 100
+ APH3 1 101 101
+ APH3CF 1 102 102
+ APH3QF 1 103 103
+ APH4 1 104 104
+ APH4CF 1 105 105
+ APH4QF 1 106 106
+ APH5 1 107 107
+ APH5CF 1 108 108
+ APH5QF 1 109 109
+ APH6 1 110 110
+ APH6CF 1 111 111
+ APH6QF 1 112 112
+ APH7 1 113 113
+ APH7CF 1 114 114
+ APH7QF 1 115 115
+ CLDH 1 116 116
+ CLDHCF 1 117 117
+ CLDHQF 1 118 118
+ CLDM 1 119 119
+ CLDMQF 1 120 120
+ CLDL1 1 121 121
+ CLDL1F 1 122 122
+ CLDL2 1 123 123
+ CLDL2F 1 124 124
+ CLDL3 1 125 125
+ CLDL3F 1 126 126
+ WIR 1 127 127
+ WIRF 1 128 128
+ where
+ WMO is the WMO number of the station;
+ YEAR is the year (Greenwich) of the observations in the record;
+ MONTH is the month (Greenwich) of the observations in the record;
+ DAY is the day (Greenwich) of the observations in the record;
+ HOUR is the GMT of the observations in the record;
+ RH is the relative humidity of the air (expressed in percent) as determined by
+ use of a psychrometer. Relative humidity is defined as the ratio of the
+ observed vapor pressure to the saturation vapor pressure for the observed
+ air temperature. Values of observations may range from 0 to 100%.
+ Missing observations are coded as 999;
+ RHQF is the quality flag for the relative humidity observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ VAPORP is the water vapor pressure of the air [expressed in tenths of hectopascals
+ (hPa)] as determined by use of a psychrometer. The water vapor pressure
+ is the partial pressure of the water vapor contained in the air. Values of
+ observations considered valid may range from 0.0 to 95.0 hPa. Missing
+ observations are coded as 999;
+ VAPQF is the quality flag for the water vapor pressure observation (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ SLP is the sea level pressure of the air (expressed in tenths of hPa) as
+ determined by use of a barometer. Because a station would rarely be able
+ to position a barometer precisely at sea level, the air pressure measured at
+ a station is "reduced" to sea level by using a standard barometric height
+ formula. Values of observations considered valid may range from 900.0 to
+ 1100.0 hPa. At stations located above a certain elevation (500 m through
+ 1980; 800 m since 1981), air pressure is not reduced to sea level, but is
+ assigned the missing code 99999;
+ SLPQF is the quality flag for the sea level pressure observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ HDEF is the humidity deficit (saturation deficiency); the difference between the
+ saturation vapor pressure and the actual water vapor pressure at a given
+ temperature and pressure as measured in tenths of hPa. Valid values may
+ range from 0.0 to 95.0 hPa. Missing observations are coded as 999;
+ HDEFQF is the quality flag for the humidity deficit observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ PCHR is the pressure tendency characteristic, corresponding to the shape of the
+ barograph trace of air pressure at the station for the preceding 3-h period.
+ This is a coded value ranging from 0 to 8, as explained below (a missing
+ value is coded as 9):
+ 0 = increasing, then decreasing; pressure unchanged or higher than 3 h ago;
+ 1 = increasing, then steady; increasing, then weaker increase;
+ current pressure is higher than 3 h ago;
+ 2 = uniform or non-uniform increase; current pressure is higher than 3 h ago;
+ 3 = decreasing, then increasing; steady, then increasing; or
+ increasing, then increasing more rapidly; current pressure is
+ higher than 3 h ago;;
+ 4 = steady; pressure is the same as 3 h ago;
+ 5 = decreasing, then increasing; pressure is the same or lower than 3 h ago;
+ 6 = decreasing, then steady; or decreasing then decreasing more
+ slowly; current pressure is lower than 3 h ago;
+ 7 = decreasing steadily or unsteadily; current pressure is lower than 3 h ago;
+ 8 = increasing, then decreasing; steady, then decreasing; or
+ decreasing, then decreasing more quickly; current pressure is
+ lower than 3 h ago;
+ PCHRQF is the quality flag for the pressure tendency characteristic (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ PTND is the pressure tendency value (i.e., the absolute difference between the
+ current air pressure at the station and that which was observed 3 h before).
+ The sign of PTND is indicated by the value of PCHR: if PCHR is equal to
+ 0, 1, 2, or 3, then PTND is positive; if PCHR is equal to 4 then PTND
+ should equal 0; and, if PCHR is equal to 5, 6, 7, or 8, then PTND is
+ negative. Values are given in tenths of hPa; observations considered valid
+ may range from 0.0 to 20.0 hPa, and a missing observation is coded as
+ 999);
+ PTNDQF is the quality flag for the pressure tendency value (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ VIS is the horizontal visibility, given as a coded value indicating distance in
+ km. The horizontal visibility is defined as the maximum distance at which
+ an absolutely black body of rather large angular dimensions (over 15
+ angular min) can be distinguished against the background of the sky in
+ daylight, or the distance at which an unfocused light source of a given
+ intensity becomes indistinguishable at night. Horizontal visibility depends
+ on atmospheric phenomena. Thus, in the fog it can be reduced to zero,
+ while in clear arctic air it can reach hundreds of kilometers. Coded values
+ may range from 00 to 50 and from 56 to 99. Codes 00-50 and 56-89 are
+ used when visibility is measured using instruments; codes 90-99 are used
+ when visibility is estimated visually. The codes and their meanings are as
+ follows:
+ 00-50 = indicates visibility in tenths of km (i.e., 0.0 km to 5.0 km).
+ For example, 25 = 2.5 km (00 is the code for visibility less
+ than 0.1 km);
+ 51-55 = not used;
+ 56-80 = the range 6 km to 30 km. Visibility in whole kilometers
+ may be determined by subtracting 50 from the code, e.g., a
+ code of 65 indicates the visibility is 15 km;
+ 81 = 35 km;
+ 82 = 40 km;
+ 83 = 45 km;
+ 84 = 50 km;
+ 85 = 55 km;
+ 86 = 60 km;
+ 87 = 65 km;
+ 88 = 70 km;
+ 89 = &gt;70 km;
+ 90 = &lt;0.05 km;
+ 91 = 0.05 km;
+ 92 = 0.2 km;
+ 93 = 0.5 km;
+ 94 = 1 km (about 1/2 mile);
+ 95 = 2 km (about 1 mile);
+ 96 = 4 km (about 2 miles);
+ 97 = 10 km (about 6 miles);
+ 98 = 20 km (about 12 miles); and
+ 99 = &gt;50 km (&gt;30 miles).
+ If VIS = 99 with both the complement and quality flags set to 9 (see
+ below), the observation is missing.
+ VISCF is the horizontal visibility complement flag. VISCF = 0 indicates the
+ visibility corresponds to the value given for VIS; VISCF = 1 indicates the
+ visibility is actually greater than the value given for VIS; VISCF = 9
+ indicates a suspect or missing observation;
+ VISQF is the quality flag for the horizontal visibility value (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ HCLD is the height above ground of the base of the lowest cloud. This height is
+ usually coded in hundreds of meters, as detailed in the following:
+ 00 = less than or equal to 50 m with fog present;
+ 01-25 = 100 m to 2500 m, e.g., 10 = 1000 m;
+ 98 = no clouds below 2500 m, however there may be mid- or
+ high-level clouds whose height has not been determined;
+ 99 = no clouds or traces of clouds whose height has not been
+ determined; or observation is missing if both complement
+ and quality flags are set to 9 (see below);
+ HCLDCF is the complement flag for the lowest cloud height observation. A value of
+ 0 means the height was measured using instrumentation; a value of 1
+ indicates the height was estimated visually. This flag is set to 9 in the
+ case of a suspect or missing observation;
+ HCLDQF is the quality flag for the lowest cloud height observation (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ TDEW is the dew point temperature in whole degrees celsius. The dew point
+ temperature is defined as the temperature to which moist air must be
+ cooled, with air pressure and water vapor pressure held constant, in order
+ that it just reach saturation with respect to the water in the air. The dew
+ point is determined by using a psychrometer. Observations considered
+ valid may range from -70&#194;&#176; to +40&#194;&#176;C. Missing observations are coded as 999;
+ TDEWQF is the quality flag for the dew point temperature (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ GRND is the ground state, a visual observation of the state of the ground surface
+ in the vicinity of the station made usually near 0800 and 2000 LMT. This
+ is a coded value as detailed in the following:
+ 0 = surface of ground dry (no appreciable amount of dust or loose sand);
+ 1 = surface of ground moist (no pools);
+ 2 = surface of ground wet (standing water in small or large pools on surface);
+ 3 = surface of ground frozen;
+ 4 = glaze on ground, but no snow or melting snow;
+ 5 = ice, snow, or melting snow covering less than one-half of the ground;
+ 6 = ice, snow, or melting snow covering more than one-half of the ground;
+ 7 = ice, snow, or melting snow covering ground completely;
+ 8 = loose dry snow, dust, or sand covering more than one-half of the ground;
+ 9 = loose dry snow, dust, or sand covering ground completely (if GRNDQF = 0;
+ otherwise, the observation is missing);
+ GRNDQF is the quality flag for the ground state observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ TCLD is the total cloud amount, estimated visually by an observer according to a
+ 10-point system (i.e., in tenths of sky cover). A value of 0 indicates no
+ clouds present or &lt;1/10 sky cover, a value of 10 indicates an overcast sky
+ (with or without gaps amounting to &lt;1/10 sky cover; see explanation of
+ complement flag below), and a value of 99 indicates a missing
+ observation. The gaps between individual cloud elements, typical of some
+ cloud genera (e.g., altocumulus and stratocumulus) are not to be included
+ as part of the total cloud cover estimate (i.e., they are counted as clear sky);
+ TCLDCF is the total cloud amount complement flag. TCLDCF = 1 is used if
+ 10-point cloudiness (overcast) is observed with gaps; TCLDCF = 0 is
+ coded for all other valid cloud amounts; and TCLDCF = 9 indicates a
+ suspect or missing observation;
+ TCLDQF is the quality flag for the total cloud amount observation (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ LCLD is the low-cloud amount, estimated visually by an observer according to a
+ 10-point system (i.e., in tenths of sky cover). A value of 0 indicates no
+ low clouds present or &lt;1/10 of the sky is covered with low clouds. The
+ gaps between individual cloud elements, typical of some cloud genera
+ (e.g., stratocumulus and cumulus) are not to be included as part of the low
+ cloud cover estimate (i.e., they are counted as clear sky). Missing
+ observations are coded as 99;
+ LCLDCF is the low-cloud amount complement flag. TCLDCF = 1 is used if
+ 10-point cloudiness (overcast) is observed with gaps; TCLDCF = 0 is
+ coded for all other valid low-cloud amounts; and TCLDCF = 9 indicates a
+ suspect or missing observation;
+ LCLDQF is the quality flag for the total cloud amount observation (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ WDIR is the direction from which the wind is blowing, as measured 10-12 m
+ above ground level. This is a coded observation, the values for which are
+ given as follows:
+ Code Wind direction
+ ---- --------------
+ 00 = calm winds
+ 02 = NNE
+ 05 = NE
+ 07 = ENE
+ 09 = E
+ 11 = ESE
+ 14 = SE
+ 16 = SSE
+ 18 = S
+ 20 = SSW
+ 23 = SW
+ 25 = WSW
+ 27 = W
+ 29 = WNW
+ 32 = NW
+ 34 = NNW
+ 36 = N
+ 99 = variable winds (if WDIRQF = 0; otherwise, the observation is missing);
+ WDIRQF is the quality flag for the wind direction observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation). Missing
+ observations are coded as 99;
+ WSPD is the wind speed in m/s as measured 10-12 m above ground level.
+ Observations considered valid may range from 0 to 60 m/s;
+ WSPDQF is the quality flag for the wind speed observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ PRCP is the precipitation amount to the nearest tenth of a millimeter.
+ Observations considered valid may range from 0 to 5000 (0 mm to 500 mm).
+ Missing observations are coded as 9999. Rain gauges are positioned
+ 2 m above ground level, and were read at 0700 and 1900 LMT from 1936
+ through 1965. In 1946, the old-style gauge (exact type unknown) was
+ replaced with the Tretyakov-type gauge (see Appendix A for the date of
+ implementation at each site). Beginning in 1966, gauges were read at
+ 0300, 0900, 1500, and 2100 MLT in timezone 2; at 0300, 0600, 1500,
+ and 1800 MLT in zones 3-5; at 0300 and 1500 MLT in zones 6-8; at
+ 0000, 0300, 1200, and 1500 MLT in zones 9-11; and at 2100, 0300, 0900,
+ and 1500 MLT in zone 12. Also, beginning in 1966, wetting corrections
+ of 0.2 mm were applied to each hourly measurement. (Because four
+ observations per day were collected at stations in timezones 2-5 and
+ 9-12, four corrections were counted in the calculation of daily totals;
+ therefore, total daily corrections are higher for stations in these areas.)
+ From 1966 onward, readings at some stations were also taken at the
+ observing hours closest to 0800 and 2000 LMT. Beginning in 1986,
+ readings at 0300 and 1500 MLT were discontinued at all stations except
+ those in timezone 2. (The term "timezone" in the preceding corresponds
+ to assigning the numbers 1-12 to 12 timezones stretching from west to
+ east across the FSU. The timezone of each station in this
+ sense may be obtained by subtracting 1 from the value of the ZONE
+ variable in the file .)
+ PRCPCF is the precipitation amount complement flag. It is set to 1 if a trace of
+ precipitation has been measured, i.e., &lt;0.1 mm. This flag is set to 0 for all
+ other valid precipitation observations, and is set to 9 for suspect or missing
+ precipitation observations;
+ PRCPQF is the quality flag for the precipitation amount (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ STAP is the pressure of the air at station level (expressed in tenths of hPa) as
+ determined by use of a barometer. Values of observations considered valid
+ may range from 600.0 to 1100.0 hPa. Validity is of course assessed by
+ considering factors such as the station's elevation above sea level,
+ geographic location, season, and pressures at neighboring stations.
+ Missing observations are coded as 99999;
+ STAPQF is the quality flag for the station level pressure observation (0 indicates a
+ valid observation; 9 indicates a suspect or missing observation);
+ SOILT is the soil surface temperature, expressed in whole degrees celsius. Soil
+ surface temperature is measured at a smooth, unshaded site that is devoid
+ of vegetation. When the ground is snow-covered, the thermometer is
+ placed on the snow surface and the temperature of the snow cover is
+ measured. Observations considered valid may range from -75 to +75&#194;&#176;C.
+ Missing observations are coded as 999;
+ SOILQF is the quality flag for the soil surface temperature (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ W is the past weather code, used in describing the meteorological conditions
+ observed between the past and current observations. At 0000, 0600, 1200,
+ and 1800 GMT this code describes weather from the previous 6-hour
+ period; at 0300, 0900, 1500, and 2100 GMT it describes weather for the
+ previous 3-hour period. The codes and their meanings are as follows:
+ 0 = clear sky or no more than 5/10s cloud amount;
+ 1 = variable sky; cloud amount was both less than and greater than
+ 5/10 sky cover during the preceding three hours;
+ 2 = overcast or cloud amount greater than 5/10s;
+ 3 = sand or dust storm, or drifting or blowing snow;
+ 4 = fog, ice fog, or thick haze or smoke;
+ 5 = drizzle;
+ 6 = rain;
+ 7 = snow, or rain and snow mixed;
+ 8 = shower(s);
+ 9 = thunderstorm, with or without precipitation (if WQF = 0;
+ otherwise, the observation is missing);
+ WCF is the past weather complement flag. It is set to 0 when used with the
+ previously defined past weather codes, however it is set to 1 for past
+ weather codes 3, 7, and 8 if the past weather also included a snowstorm.
+ The complement flag is set to 9 in the case of a suspect or missing past
+ weather observation;
+ WQF is the quality flag for the past weather observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ WW is the present weather code, reflecting the meteorological conditions at the
+ time of observation or during the preceding 1-h period. Codes range from
+ 00 to 99 and are defined as follows:
+ Code Present weather
+ ---- ---------------
+ 00-19 = no precipitation, fog, dust storm, sandstorm, drifting or
+ blowing snow at the station at the time of observation
+ and, except for codes 09 and 17, during preceding hour;
+ 00 = cloud development conditions unknown;
+ 01 = cloud generally dispersing;
+ 02 = state of sky on the whole unchanged;
+ 03 = clouds generally forming or developing;
+ 04 = visibility reduced by smoke or volcanic ash;
+ 05 = haze;
+ 06 = widespread dust in suspension in the air;
+ 07 = dust or sand raised by wind at or near the station at the
+ time of observation;
+ 08 = well developed dust whirl(s) seen at or near the station;
+ 09 = dust storm within sight;
+ 10 = mist, steam mist (light fog);
+ 11 = patches of shallow fog, or, from 1966 onward, ice fog;
+ 12 = more or less continuous shallow fog, or, from 1966
+ onward, ice fog;
+ 13 = lightning visible, no thunder heard;
+ 14 = precipitation within sight, not reaching the ground;
+ 15 = precipitation within sight, reaching the ground or the
+ surface of the sea, but distant (i.e., estimated to be
+ more than 5 km from the station);
+ 16 = precipitation within sight, reaching the ground or the
+ surface of the sea, near to, but not at the station;
+ 17 = thunderstorm, but no precipitation at the station or
+ within sight;
+ 18 = squall;
+ 19 = funnel cloud;
+ -----------------------------------------------------------------------
+ 20-29 = precipitation, fog, ice fog, or thunderstorm at the
+ station during the preceding hour but not at the time of
+ the observation;
+ 20 = drizzle or snow grains;
+ 21 = rain;
+ 22 = snow;
+ 23 = rain and snow or ice pellets;
+ 24 = freezing drizzle or freezing rain;
+ 25 = showers of rain;
+ 26 = showers of snow, or of rain and snow;
+ 27 = shower of hail, or ice pellets;
+ 28 = fog or ice fog;
+ 29 = thunderstorm;
+ -----------------------------------------------------------------------
+ 30-39 = dust storm or sandstorm, drifting or blowing snow at
+ the time of observation;
+ 30 = slight or moderate dust storm or sandstorm subsiding;
+ 31 = slight or moderate dust storm or sandstorm, no
+ appreciable change during the preceding hour;
+ 32 = slight or moderate dust storm or sandstorm, increasing;
+ 33 = severe dust storm or sandstorm, decreasing;
+ 34 = severe dust storm or sandstorm with no appreciable change;
+ 35 = severe dust storm or sandstorm, increasing;
+ 36 = slight or moderate drifting snow;
+ 37 = heavy drifting snow;
+ 38 = slight or moderate blowing snow;
+ 39 = heavy blowing snow;
+ -----------------------------------------------------------------------
+ 40-49 = fog or ice fog at the time of observation;
+ 40 = fog or ice fog near the station;
+ 41 = fog or ice fog in patches;
+ 42 = fog or ice fog decreasing, sky discernible;
+ 43 = fog or ice fog decreasing, sky not discernible;
+ 44 = fog, or, from 1966 onward, ice fog; sky discernible; no
+ appreciable change;
+ 45 = fog, or, from 1966 onward, ice fog; sky not
+ discernible; no appreciable change;
+ 46 = fog or ice fog, sky discernible, becoming thicker;
+ 47 = fog or ice fog, sky not discernible, becoming thicker;
+ 48 = fog, depositing rime, sky discernible;
+ 49 = fog, depositing rime, sky not discernible;
+ -----------------------------------------------------------------------
+ 50-59 = drizzle at the station at the time of observation;
+ 50 = drizzle intermittent, slight at time of observation;
+ 51 = drizzle continuous, slight at time of observation;
+ 52 = drizzle intermittent, moderate at time of observation;
+ 53 = drizzle continuous, moderate at time of observation;
+ 54 = drizzle intermittent, heavy at time of observation;
+ 55 = drizzle continuous, heavy at time of observation;
+ 56 = drizzle, freezing, slight;
+ 57 = drizzle, freezing, heavy;
+ 58 = drizzle and rain, moderate or heavy;
+ 59 = drizzle and rain, moderate or heavy;
+ -----------------------------------------------------------------------
+ 60-69 = rain at the station at the time of observation;
+ 60 = rain intermittent, slight;
+ 61 = rain continuous, slight;
+ 62 = rain intermittent, moderate;
+ 63 = rain continuous, moderate;
+ 64 = rain intermittent, heavy;
+ 65 = rain continuous, heavy;
+ 66 = rain, freezing, slight;
+ 67 = rain, freezing, moderate or heavy;
+ 68 = rain or drizzle and snow, slight;
+ 69 = rain or drizzle and snow, moderate or heavy;
+ -----------------------------------------------------------------------
+ 70-79 = solid precipitation not in showers at the time of
+ observation;
+ 70 = intermittent fall of snow flakes, slight;
+ 71 = continuous fall of snow flakes, slight;
+ 72 = intermittent fall of snow flakes, moderate;
+ 73 = continuous fall of snow flakes, moderate;
+ 74 = intermittent fall of snow flakes, heavy;
+ 75 = continuous fall of snow flakes, heavy;
+ 76 = diamond dust;
+ 77 = snow grains;
+ 78 = isolated starlike snow crystals;
+ 79 = ice pellets;
+ -----------------------------------------------------------------------
+ 80-90 = showery precipitation at the time of observation;
+ 80 = rain shower(s), slight;
+ 81 = rain shower(s), moderate or heavy;
+ 82 = rain shower(s), violent;
+ 83 = shower(s) of rain and snow mixed, slight;
+ 84 = shower(s) of rain and snow mixed, moderate or heavy;
+ 85 = snow shower(s), slight;
+ 86 = snow shower(s), moderate or heavy;
+ 87 = shower(s) of snow pellets or small hail, slight;
+ 88 = shower(s) of snow pellets or small hail, moderate or heavy;
+ 89 = shower(s) of hail, slight;
+ 90 = shower(s) of hail, moderate or heavy;
+ -----------------------------------------------------------------------
+ 91-99 = thunderstorm during the preceding hour or at the time
+ of observation;
+ 91 = slight rain at time of observation, thunderstorm during
+ the preceding hour;
+ 92 = moderate or heavy rain at time of observation,
+ thunderstorm during the preceding hour;
+ 93 = slight snow or hail at the time of observation,
+ thunderstorm during the preceding hour;
+ 94 = moderate or heavy snow or hail at the time of
+ observation, thunderstorm during preceding hour;
+ 95 = thunderstorm, slight or moderate with rain and/or snow
+ at the time of observation;
+ 96 = thunderstorm, slight or moderate with hail at the time
+ of observation;
+ 97 = thunderstorm, heavy, with rain or snow at time of
+ observation;
+ 98 = thunderstorm, combined with dust storm or sandstorm
+ at time of observation;
+ 99 = thunderstorm, heavy, with hail at the time of
+ observation (if WWQF = 0; otherwise, the observation
+ is missing);
+ WWQF is the quality flag for the present weather observation (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation);
+ AIRT is the air temperature (tenths of degrees celsius), measured 2 m above
+ ground or snow surface level. Observations considered valid may range
+ from -70.0&#194;&#176; to +55.0&#194;&#176;C. Missing observations are coded as 9999;
+ AIRTQF is the quality flag for air temperature (0 indicates a valid observation; 9
+ indicates a suspect or missing observation);
+ APH1-APH7 are seven atmospheric phenomena groups, used for reporting various
+ atmospheric phenomena during the ten minutes preceding the observation
+ hour. These phenomena are observed visually, as are estimates of their
+ intensity. Atmospheric phenomena intensity can be weak, moderate or
+ strong. The phenomena are described by means of codes that are
+ particular to each of the seven groups. A coded value of 0 indicates that
+ atmospheric phenomena were not observed at the time of observation.
+ Additional codes and their meanings are as follows:
+ APH1 group: 1 = not used;
+ 2 = not used;
+ 3 = dew;
+ 4 = rime;
+ 5 = crystalline frost, grain frost;
+ 6 = glazed frost;
+ 7 = rime and crystalline frost;
+ 8 = rime and glazed frost;
+ 9 = crystalline frost and glazed frost;
+ APH2 group: 1 = not used before 1966, from 1966 onward: snow haze;
+ 2 = haze;
+ 3 = mist;
+ 4 = ground fog;
+ 5 = crystalline fog, sky visible;
+ 6 = ice fog;
+ 7 = fog, sky visible;
+ 8 = fog;
+ 9 = not used before 1966, from 1966 onward: shallow ice fog;
+ APH3 group: 1 = drifting dust;
+ 2 = funnel cloud;
+ 3 = dust storm;
+ 4 = whirl;
+ 5 = drifting snow;
+ 6 = blowing snow;
+ 7 = blizzard;
+ 8 = snow storm;
+ 9 = not used;
+ APH4 group: 1 = before 1966: corona around sun/moon; not used
+ from 1966 onward;
+ 2 = sunshine;
+ 3 = before 1966: halo around sun/moon; not used from
+ 1966 onward;
+ 4 = snow grains and sunshine;
+ 5 = snow pellets and sunshine;
+ 6 = snow grains;
+ 7 = snow pellets;
+ 8 = ice pellets;
+ 9 = ice pellets and sunshine;
+ APH5 group: 1 = not used;
+ 2 = glazed rain;
+ 3 = drizzle;
+ 4 = rain;
+ 5 = rain shower;
+ 6 = glazed rain, rain;
+ 7 = glazed rain, rain shower;
+ 8 = not used;
+ 9 = not used;
+ APH6 group: 1 = not used;
+ 2 = mirage;
+ 3 = ice needles;
+ 4 = snow melting;
+ 5 = snow melting shower;
+ 6 = not used;
+ 7 = snow;
+ 8 = snow shower;
+ 9 = not used;
+ APH7 group: 1 = not used;
+ 2 = sea soaring (lake or river soaring);
+ 3 = polar lights;
+ 4 = sea soaring and polar lights;
+ 5 = summer lightning;
+ 6 = before 1966, thunderstorm in the distance; not used
+ from 1966 onward;
+ 7 = thunderstorm;
+ 8 = hail;
+ 9 = thunderstorm and hail;
+ APH1CF- are the corresponding complement flags for the seven atmospheric
+ APH7CF phenomena groups. These flags are used to denote whether or not an
+ observation has been made, and if so, to denote the intensity of the
+ phenomena. A complement flag of 0 accompanying an atmospheric
+ phenomena code of 0 means none of the phenomena in a particular group
+ have been observed. When accompanying a nonzero phenomena code, a
+ complement flag of 0 denotes phenomena of weak intensity, 1 denotes
+ moderate intensity, and 2 denotes strong intensity. A complement flag of
+ 9, when accompanied by a quality flag of 9 (see below) indicates a suspect
+ or missing observation;
+ APH1QF- are quality flags for the seven atmospheric phenomena groups (0 indicates
+ APH7QF a valid observation; 9 indicates a suspect or missing observation);
+ CLDH is the coded value for the high-level cloud type. High clouds are defined
+ as those with bases higher than 6000 m and include cirrus (Ci),
+ cirrocumulus (Cc), and cirrostratus (Cs) clouds. Codes have the following
+ meanings:
+ 0 = cloud type is not indicated, but low- or mid-level clouds
+ observed, with total cloud amount ranging anywhere from 1/10
+ to overcast with gaps; high-level clouds are absent or amount
+ to less than 1/10 sky cover;
+ 1 = Ci;
+ 2 = Cc;
+ 3 = Cs;
+ 4 = Ci and Cc;
+ 5 = Ci and Cs;
+ 6 = Cc and Cs;
+ 7 = Ci, Cc, and Cs;
+ 8 = high cloud presence and type cannot be determined because of
+ continuous fog or snowstorm; or high-level cloud presence and
+ type cannot be determined because of overcast conditions at
+ lower levels;
+ 9 = complete absence of clouds or, in the case of translucent fog,
+ clear in the zenith (if CLDHQF =0; otherwise the observation
+ is missing);
+ CLDHCF is the high-level cloud type complement flag. It is set to 0 when the
+ high-level cloud type has been determined with no fog present; set to 1
+ when the high-level cloud type has been determined with translucent fog
+ or when the high-level cloud type cannot be determined because of
+ continuous fog; and set to 9 if the high-level cloud type is suspect or
+ missing.
+ CLDHQF is the high-level cloud type quality flag (0 indicates a valid observation; 9
+ indicates a suspect or missing observation);
+ CLDM is the coded value for the mid-level cloud type. Mid-level clouds are
+ defined as those with bases between 2000 m and 6000 m; they include
+ altocumulus (Ac) and altostratus (As) clouds. Codes have the following
+ meanings:
+ 0 = cloud type is not indicated, but high-level clouds (amount
+ ranging from 1/10 to overcast) and/or low-level clouds (amount
+ ranging from 1/10 to overcast with gaps) observed; mid-level
+ clouds are absent or amount to less than 1/10 sky cover;
+ 1 = Ac;
+ 2 = As;
+ 3 = not used;
+ 4 = Ac and As;
+ 5-7 = not used;
+ 8 = mid-level cloud presence and type cannot be determined due to
+ fog or snowstorm; or mid-level cloud presence and type cannot
+ be determined because of overcast at lower levels;
+ 9 = complete absence of clouds or, in the case of translucent fog,
+ clear in the zenith (if CLDMQF =0; otherwise the observation
+ is missing);
+ CLDMQF is the mid-level cloud type quality flag (0 indicates a valid observation;
+ 9 indicates a suspect or missing observation);
+ CLDL1 is the first of three code groups for describing low-level cloud type.
+ Low-level clouds are defined as those with bases lower than 2000 m; they
+ include stratocumulus (Sc), stratus (St), nimbostratus (Ns), cumulus (Cu),
+ and cumulonimbus (Cb) clouds. Codes have the following meanings:
+ 0 = cloud type is not indicated, but high- or mid-level clouds
+ observed, with total cloud amount ranging anywhere from 1/10
+ to overcast; low-level clouds of the CLDL1 group (see below)
+ are absent or amount to less than 1/10 sky cover;
+ 1 = Cu;
+ 2 = Cb;
+ 3 = not used;
+ 4 = Cu and Cb;
+ 5-7 = not used;
+ 8 = low-level cloud presence and type cannot be determined due to
+ fog or snowstorm;
+ 9 = complete absence of clouds or, in the case of translucent fog,
+ clear in the zenith (if CLDL1F =0; otherwise the observation is
+ missing);
+ CLDL1F is the low-level cloud type quality flag for the first low-level cloud group
+ (0 indicates a valid observation; 9 indicates a suspect or missing
+ observation);
+ CLDL2 is the second of three code groups for describing low-level cloud type.
+ Low-level clouds are defined as those with bases lower than 2000 m; they
+ include stratocumulus (Sc), stratus (St), nimbostratus (Ns), cumulus (Cu),
+ and cumulonimbus (Cb) clouds. Codes have the following meanings:
+ 0 = cloud type is not indicated, but high- or mid-level clouds
+ observed, with total cloud amount ranging anywhere from 1/10
+ to overcast; low-level clouds of the CLDL2 group (see below)
+ are absent or amount to less than 1/10 sky cover;
+ 1 = St;
+ 2 = Sc;
+ 3 = not used;
+ 4 = St and Sc;
+ 5-7 = not used;
+ 8 = low-level cloud presence and type cannot be determined due to
+ fog or snowstorm;
+ 9 = complete absence of clouds or, in the case of translucent fog,
+ clear in the zenith (if CLDL2F =0; otherwise the observation is
+ missing);
+ CLDL2F is the low-level cloud type quality flag for the second low-level cloud
+ group. (0 indicates a valid observation; 9 indicates a suspect or missing
+ observation.);
+ CLDL3 is the third of three code groups for describing low-level cloud type.
+ Low-level clouds are defined as those with bases lower than 2000 m; they
+ include stratocumulus (Sc), stratus (St), nimbostratus (Ns), cumulus (Cu),
+ and cumulonimbus (Cb) clouds. Codes have the following meanings:
+ 0 = cloud type is not indicated, but high- or mid-level clouds
+ observed, with total cloud amount ranging anywhere from 1/10
+ to overcast; low-level clouds of the CLDL3 group (see below)
+ are absent or amount to less than 1/10 sky cover;
+ 1 = not used;
+ 2 = Ns;
+ 3 = fractostratus (Fs) and fractocumulus (Fc) of bad weather (also
+ known as scud);
+ 4-5 = not used;
+ 6 = Ns and Frnb;
+ 7 = not used;
+ 8 = low-level cloud presence and type cannot be determined due to
+ fog or snowstorm;
+ 9 = complete absence of clouds or, in the case of translucent fog,
+ clear in the zenith (if CLDL3F =0; otherwise the observation is missing);
+ CLDL3F is the low-level cloud type quality flag for the third low-level cloud group
+ (0 indicates a valid observation; 9 indicates a suspect or missing
+ observation);
+ WIR is the wind irregularity characteristic. It is a coded value used to describe
+ the wind speed as steady or gusty and the wind direction as constant or
+ variable. The wind is considered to be steady if its speed remains
+ essentially constant over the course of two minutes; otherwise it is
+ considered gusty. The wind direction is considered constant if over the
+ course of two minutes it varies within one compass point; otherwise it is
+ considered to be variable. Observations of this variable are only present in
+ the 6-hourly data records (i.e., in the pre-1966 data). The 3-hourly records
+ (1966 onward) contain a value of 9 to indicate missing data. For the pre-
+ 1966 data, a value of 9 is also used to indicate a missing value. Codes for
+ observations have the following meanings:
+ 0 = no wind;
+ 1 = steady speed, constant direction;
+ 2 = steady, variable;
+ 3 = gusty, constant;
+ 4 = gusty, variable;
+ 5 = characteristic is not defined;
+ 6 = the wind speed and direction at this hour are considered suspect.
+ WIRF is the wind irregularity characteristic quality flag (0 indicates a valid
+ observation; 9 indicates a suspect or missing observation).
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/ndp048.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/data.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/data.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/gaps.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/gaps.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/history.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/history.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/invent.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/invent.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/timezone.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/timezone.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19950101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980301]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp048/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[643MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This database contains 6- and 3-hourly meteorological observations from a 223-station network of the former Soviet Union. These data have been made available through cooperation between the two principal climate data centers of the United States and the former Soviet Union: the National Climatic Data Center (NCDC), in Asheville, North Carolina, and the All-Russian Research Institute of Hydrometeorological Information--World Data Centre (RIHMI-WDC) in Obninsk, Russia. The first version of this database extended through the mid-1980s (ending year dependent upon station) and was made available in 1995 by the Carbon Dioxide Information Analysis Center (CDIAC) as NDP-048. This update of the database includes data through 1990. Station records consist of 6- and 3-hourly observations of some 24 meteorological variables including temperature, past and present weather type, precipitation amount, cloud amount and type, sea level pressure, relative humidity, and wind direction and speed. The 6-hourly observations extend from 1936 through 1965; the 3-hourly observations extend from 1966 through 1990. These data have undergone extensive quality assurance checks by RIHMI-WDC, NCDC, and CDIAC. The database represents a wealth of meteorological information for a large and climatologically important portion of the earth's land area, and should prove extremely useful for a wide variety of regional climate change studies.
+<br><br>
+ This numeric data package (NDP) consists of a printed document detailing the initial version of the database (Razuvaev et al. 1995) that extended through the mid-1980s, 15 updated data retrieval and documentation files, and 223 data files updated through 1990 (one per station; ~2.9 gigabytes total, in uncompressed form) that are available via the Internet through CDIAC's Web site or anonymous FTP (File Transfer Protocol) server, and upon request, various magnetic media.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

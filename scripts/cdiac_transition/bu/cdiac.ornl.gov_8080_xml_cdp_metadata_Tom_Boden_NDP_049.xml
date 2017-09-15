@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Stevens, C. M.]]></origin>
+        <title><![CDATA[Carbon-13 Isotopic Abundance and Concentration of Atmospheric Methane for Background Air in the Southern and Northern Hemispheres from 1978 to 1989 (1995) ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_049.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp049/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Carbon-13 Isotopic Abundance and Concentration of Atmospheric Methane for Background Air in the Southern and Northern Hemispheres from 1978 to 1989 (1995) ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19780404]]></begdate>
+          <enddate><![CDATA[19890507]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-170.57]]></westbc>
+        <eastbc><![CDATA[148.750]]></eastbc>
+        <northbc><![CDATA[70.000]]></northbc>
+        <southbc><![CDATA[-89.980]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[13C Isotopic Abundance Data]]></themekey>
+        <themekey><![CDATA[atmospheric CH4 Concentration]]></themekey>
+        <themekey><![CDATA[Carbon-13]]></themekey>
+        <themekey><![CDATA[Atmospheric Methane]]></themekey>
+        <themekey><![CDATA[Methane]]></themekey>
+        <themekey><![CDATA[Stevens]]></themekey>
+        <themekey><![CDATA[Argonne National Laboratory]]></themekey>
+        <themekey><![CDATA[Southern Hemisphere]]></themekey>
+        <themekey><![CDATA[Northern Hemisphere]]></themekey>
+        <themekey><![CDATA[NDP-049]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145516</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164633 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[13C Isotopic Abundance Data]]></Keywords>
+    <Keywords><![CDATA[atmospheric CH4 Concentration]]></Keywords>
+    <Keywords><![CDATA[Carbon-13]]></Keywords>
+    <Keywords><![CDATA[Atmospheric Methane]]></Keywords>
+    <Keywords><![CDATA[Methane]]></Keywords>
+    <Keywords><![CDATA[Stevens]]></Keywords>
+    <Keywords><![CDATA[Argonne National Laboratory]]></Keywords>
+    <Keywords><![CDATA[Southern Hemisphere]]></Keywords>
+    <Keywords><![CDATA[Northern Hemisphere]]></Keywords>
+    <Keywords><![CDATA[NDP-049]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[C in Methane, Southern and Northern Hemispheres
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164633 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_049.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.ndp049]]></Product_number>
+      <Product_title><![CDATA[Carbon-13 Isotopic Abundance and Concentration of Atmospheric Methane for Background Air in the Southern and Northern Hemispheres from 1978 to 1989 (1995) ]]></Product_title>
+      <Author>
+        <Name><![CDATA[Stevens, C. M.]]></Name>
+        <Company><![CDATA[Argonne National Laboratory]]></Company>
+        <Organization><![CDATA[Chemical Technology Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Northern Hemisphere]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/ndp049.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp049/ndp049.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Southern Hemisphere]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/ndp049.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp049/ndp049.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Analysis date (Year Month and Day)]]></Variable>
+      <Variable><![CDATA[Atmospheric C13 in CH4 levels (per mil) and corrected delta C13 levels (per mil)]]></Variable>
+      <Variable><![CDATA[Data quality flag]]></Variable>
+      <Variable><![CDATA[Sample #]]></Variable>
+      <Variable><![CDATA[Sampling date (Year Month and Day)]]></Variable>
+      <Variable><![CDATA[Sampling location (Location; Latitude and Longitude Coordinates)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/ndp049.htmlC in Methane, Southern and Northern Hemispheres
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp049/ndp049.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp049/ndp049.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp049/ndp049.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19950101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19950101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp049/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[366KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data package presents atmospheric CH4 concentration and 13C isotopic abundance data derived from air samples collected over the period 1978-1989 at globally distributed clean-air sites. The data set comprises 201 records, 166 from the Northern Hemisphere and 35 from the Southern Hemisphere. The air samples were collected mostly in rural or marine locations remote from large sources of CH4 and are considered representative of tropospheric background conditions. The air samples were processed by isolation of CH4 from air and conversion to CO2 for isotopic analysis by isotope ratio mass spectrometry.
+<br><br>
+ These data represent one of the earliest records of 13C isotopic yy!measurements for atmospheric methane and have been used to refine estimates of CH4 emissions, calculate annual growth rates of emissions from changing sources, and provide evidence for changes in the rate of atmospheric removal of CH4. The data records consist of sample collection date; number of samples combined for analysis; sampling location; analysis date; CH4 concentration; 13C isotopic abundance; and flag codes to indicate outliers, repeated analyses, and other information. The data are contained in one 21.5 kB file.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

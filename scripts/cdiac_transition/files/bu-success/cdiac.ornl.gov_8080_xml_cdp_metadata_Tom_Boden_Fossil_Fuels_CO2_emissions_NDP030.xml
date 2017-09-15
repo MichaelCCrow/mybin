@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Marland, G.]]></origin>
+        <origin><![CDATA[Boden, T. A.]]></origin>
+        <origin><![CDATA[Andres, R. J.]]></origin>
+        <title><![CDATA[Global, Regional, and National Fossil Fuel CO2 Emissions]]></title>
+        <geoform><![CDATA[Other]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Fossil_Fuels_CO2_emissions_NDP030.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp030/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global, Regional, and National Fossil Fuel CO2 Emissions]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[17510101]]></begdate>
+          <enddate><![CDATA[20141231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Fossil-Fuel CO2 Emissions]]></themekey>
+        <themekey><![CDATA[Carbon Cycle]]></themekey>
+        <themekey><![CDATA[Trace Gas Emissions]]></themekey>
+        <themekey><![CDATA[Fossil Fuels]]></themekey>
+        <themekey><![CDATA[CO2 emissions]]></themekey>
+        <themekey><![CDATA[Emissions]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[Gas Flaring]]></themekey>
+        <themekey><![CDATA[Global]]></themekey>
+        <themekey><![CDATA[Regional]]></themekey>
+        <themekey><![CDATA[National]]></themekey>
+        <themekey><![CDATA[Kyoto Protocol]]></themekey>
+        <themekey><![CDATA[Cement Production]]></themekey>
+        <themekey><![CDATA[Per capita]]></themekey>
+        <themekey><![CDATA[greenhouse gas emissions]]></themekey>
+        <themekey><![CDATA[fossil-fuel emissions]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20170307 161530</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070105 145046 by 160.91.18.20</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Fossil-Fuel CO2 Emissions]]></Keywords>
+    <Keywords><![CDATA[Carbon Cycle]]></Keywords>
+    <Keywords><![CDATA[Trace Gas Emissions]]></Keywords>
+    <Keywords><![CDATA[Fossil Fuels]]></Keywords>
+    <Keywords><![CDATA[CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[Emissions]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[Gas Flaring]]></Keywords>
+    <Keywords><![CDATA[Global]]></Keywords>
+    <Keywords><![CDATA[Regional]]></Keywords>
+    <Keywords><![CDATA[National]]></Keywords>
+    <Keywords><![CDATA[Kyoto Protocol]]></Keywords>
+    <Keywords><![CDATA[Cement Production]]></Keywords>
+    <Keywords><![CDATA[Per capita]]></Keywords>
+    <Keywords><![CDATA[greenhouse gas emissions]]></Keywords>
+    <Keywords><![CDATA[fossil-fuel emissions]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ Emissions 
+from Fossil-Fuel Burning, Cement Production, and Gas Flaring: 1751-2006 
+of the fossil-fuel CO2
+ emissions database replaces previous versions of the same database. 
+Users should replace earlier versions since estimates prior to 2006 may have changed. 
+For those needing earlier published versions, please contact CDIAC. Earlier versions 
+of the fossil-fuel CO emissions database are 
+archived at CDIAC, but not available on-line.
+Global, regional, and national annual estimates of CO 
+emissions from fossil fuel burning, cement production, and gas flaring have been calculated 
+through 2006, some as far back as 1751. These estimates, derived primarily from energy 
+statistics published by the United Nations, were calculated using the methods of Marland 
+and Rotty (1984). Cement production estimates from the U.S. Department of Interior's 
+Bureau of Mines were used to estimate CO emitted during 
+cement production. Emissions from gas flaring were derived primarily from U.N. data but 
+were supplemented with data from the U.S. Department of Energy's Energy Information 
+Administration, Rotty (1974), and with a few national estimates provided by G. Marland.
+ CDIAC Home ]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070105 145046 by 160.91.18.20</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Fossil_Fuels_CO2_emissions_NDP030.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[NDP-030]]></Product_number>
+      <Product_title><![CDATA[Global, Regional, and National Fossil Fuel CO2 Emissions]]></Product_title>
+      <Author>
+        <Name><![CDATA[Marland, G.]]></Name>
+        <Company><![CDATA[Appalachian State University]]></Company>
+        <Organization><![CDATA[Institute for Enviornment, Energy and Economics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Boden, T. A.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Andres, R. J.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Trace Gas Emissions]]></Thematic_area>
+      <Thematic_area><![CDATA[Fossil-Fuel CO2 Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp030.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp030/global.1751_2014.ems]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp030/nation.1751_2014.ems]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Bunker Fuels]]></Variable>
+      <Variable><![CDATA[Cement Production]]></Variable>
+      <Variable><![CDATA[Gas]]></Variable>
+      <Variable><![CDATA[Gas Flaring]]></Variable>
+      <Variable><![CDATA[Liquids]]></Variable>
+      <Variable><![CDATA[Per Capita]]></Variable>
+      <Variable><![CDATA[Solids]]></Variable>
+      <Variable><![CDATA[Total]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp030.html Emissions 
+from Fossil-Fuel Burning, Cement Production, and Gas Flaring: 1751-2006 
+of the fossil-fuel CO2
+ emissions database replaces previous versions of the same database. 
+Users should replace earlier versions since estimates prior to 2006 may have changed. 
+For those needing earlier published versions, please contact CDIAC. Earlier versions 
+of the fossil-fuel CO emissions database are 
+archived at CDIAC, but not available on-line.
+Global, regional, and national annual estimates of CO 
+emissions from fossil fuel burning, cement production, and gas flaring have been calculated 
+through 2006, some as far back as 1751. These estimates, derived primarily from energy 
+statistics published by the United Nations, were calculated using the methods of Marland 
+and Rotty (1984). Cement production estimates from the U.S. Department of Interior's 
+Bureau of Mines were used to estimate CO emitted during 
+cement production. Emissions from gas flaring were derived primarily from U.N. data but 
+were supplemented with data from the U.S. Department of Energy's Energy Information 
+Administration, Rotty (1974), and with a few national estimates provided by G. Marland.
+ CDIAC Home ]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp030/ndp030.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19850930]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20170307]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp030/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[3.5 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Publications containing historical energy statistics make it possible to estimate fossil fuel CO2 emissions back to 1751. Etemad et al. (1991) published a summary compilation that tabulates coal, brown coal, peat, and crude oil production by nation and year. Footnotes in the Etemad et al.(1991) publication extend the energy statistics time series back to 1751. Summary compilations of fossil fuel trade were published by Mitchell (1983, 1992, 1993, 1995). Mitchell's work tabulates solid and liquid fuel imports and exports by nation and year. These pre-1950 production and trade data were digitized and CO2 emission calculations were made following the procedures discussed in Marland and Rotty (1984) and Boden et al. (1995). Further details on the contents and processing of the historical energy statistics are provided in Andres et al. (1999).
+
+The 1950 to present CO2 emission estimates are derived primarily from energy statistics published by the United Nations (2017), using the methods of Marland and Rotty (1984). The energy statistics were compiled primarily from annual questionnaires distributed by the U.N. Statistical Office and supplemented by official national statistical publications. As stated in the introduction of the Statistical Yearbook, in a few cases, official sources are supplemented by other sources and estimates, where these have been subjected to professional scrutiny and debate and are consistent with other independent sources. Data from the U.S. Department of Interior's Geological Survey (USGS 2017) were used to estimate CO2 emitted during cement production. Values for emissions from gas flaring were derived primarily from U.N. data but were supplemented with data from the U.S. Department of Energy's Energy Information Administration (1994), Rotty (1974), and data provided by G. Marland. Greater details about these methods are provided in Marland and Rotty (1984), Boden et al. (1995), and Andres et al. (1999).
+
+Since 1751 just over 400 billion metric tonnes of carbon have been released to the atmosphere from the consumption of fossil fuels and cement production. Half of these fossil-fuel CO2 emissions have occurred since the late 1980s. The 2014 global fossil-fuel carbon emission estimate, 9855 million metric tons of carbon, represents an all-time high and a 0.8% increase over 2013 emissions. The slight increase continues a three-year trend of modest annual growth under 2% per year. This modest growth comes on the heels of a quick recovery from the 2008-2009 Global Financial Crisis which had obvious short-term economic and energy use consequences, particularly in North America and Europe.
+
+Globally, liquid and solid fuels accounted for 75.1% of the emissions from fossil-fuel burning and cement production in 2014. Combustion of gas fuels (e.g., natural gas) accounted for 18.5% (1823 million metric tons of carbon) of the total emissions from fossil fuels in 2014 and reflects a gradually increasing global utilization of natural gas. Emissions from cement production (568 million metric tons of carbon in 2014) have more than doubled in the last decade and now represent 5.8% of global CO2 releases from fossil-fuel burning and cement production. Gas flaring, which accounted for roughly 2% of global emissions during the 1970s, now accounts for less than 1% of global fossil-fuel releases.
+Since 1751 approximately 392 billion metric tonnes of carbon have been released to the atmosphere from the consumption of fossil fuels and cement production. Half of these fossil-fuel CO2 emissions have occurred since the mid 1980s. The 2013 global fossil-fuel carbon emission estimate, 9776 million metric tons of carbon, represents an all-time high and a 1.1% increase over 2012 emissions.  The increase continues a quick recovery from the 2008-2009 Global Financial Crisis which had obvious short-term economic and energy use consequences, particularly in North America and Europe.
+
+Globally, liquid and solid fuels accounted for 75.2% of the emissions from fossil-fuel burning and cement production in 2013. Combustion of gas fuels (e.g., natural gas) accounted for 18.5% (1806 million metric tons of carbon) of the total emissions from fossil fuels in 2013 and reflects a gradually increasing global utilization of natural gas. Emissions from cement production (554 million metric tons of carbon in 2013) have more than doubled in the last decade and now represent 5.7% of global CO2 releases from fossil-fuel burning and cement production. Gas flaring, which accounted for roughly 2% of global emissions during the 1970s, now accounts for less than 1% of global fossil-fuel releases.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

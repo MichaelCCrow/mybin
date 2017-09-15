@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Razuvaev, V. N.]]></origin>
+        <origin><![CDATA[Apasova, E. B.]]></origin>
+        <origin><![CDATA[Martuganov, R. A.]]></origin>
+        <title><![CDATA[Daily Temperature and Precipitation Data for 223 U.S.S.R. Stations]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Daily Temperature and Precipitation Data for 223 U.S.S.R. Stations]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18810101]]></begdate>
+          <enddate><![CDATA[19881231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[20.620]]></westbc>
+        <eastbc><![CDATA[-179.480]]></eastbc>
+        <northbc><![CDATA[73.500]]></northbc>
+        <southbc><![CDATA[35.280]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Maximum temperature]]></themekey>
+        <themekey><![CDATA[Mean temperature]]></themekey>
+        <themekey><![CDATA[Minimum temperature]]></themekey>
+        <themekey><![CDATA[Precipitation]]></themekey>
+        <themekey><![CDATA[U.S.S.R. Stations]]></themekey>
+        <themekey><![CDATA[Agreement on Protection of the Environment]]></themekey>
+        <themekey><![CDATA[Daily Temperature and Precipitation Data]]></themekey>
+        <themekey><![CDATA[Research Institute of Hydrometeorological Information]]></themekey>
+        <themekey><![CDATA[NDP-040]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 124019</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 142821 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Maximum temperature]]></Keywords>
+    <Keywords><![CDATA[Mean temperature]]></Keywords>
+    <Keywords><![CDATA[Minimum temperature]]></Keywords>
+    <Keywords><![CDATA[Precipitation]]></Keywords>
+    <Keywords><![CDATA[U.S.S.R. Stations]]></Keywords>
+    <Keywords><![CDATA[Agreement on Protection of the Environment]]></Keywords>
+    <Keywords><![CDATA[Daily Temperature and Precipitation Data]]></Keywords>
+    <Keywords><![CDATA[Research Institute of Hydrometeorological Information]]></Keywords>
+    <Keywords><![CDATA[NDP-040]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[V. N. Razuvaev, E. B. Apasova, R. A. Martuganov
+All-Russian Research Institute of Hydrometeorological Information-World Data Centre
+CITE AS: Razuvaev, V. N., E. G. Apasova, and R. A. Martuganov. 2008. Daily Temperature and Precipitation Data for 223 Former-USSR Stations. ORNL/CDIAC-56, NDP-040. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee. doi: 10.3334/CDIAC/cli.ndp040.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 142821 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp040]]></Product_number>
+      <Product_title><![CDATA[Daily Temperature and Precipitation Data for 223 U.S.S.R. Stations]]></Product_title>
+      <Author>
+        <Name><![CDATA[Razuvaev, V. N.]]></Name>
+        <Company><![CDATA[All-Russian Research Institute of Hydrometeorological Information]]></Company>
+        <Organization><![CDATA[World Data Centre]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Apasova, E. B.]]></Name>
+        <Company><![CDATA[All-Russian Research Institute of Hydrometeorological Information]]></Company>
+        <Organization><![CDATA[World Data Centre ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Martuganov, R. A.]]></Name>
+        <Company><![CDATA[All-Russian Research Institute of Hydrometeorological Information]]></Company>
+        <Organization><![CDATA[World Data Centre ]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[U.S.S.R.]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp040.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/station.history]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/station.inventory]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ussr1.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ussr2.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ussr3.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ussr4.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ussr5.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ussr6.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ussr7.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ussr8.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ussr9.data.Z ]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[DATA]]></Variable>
+      <Variable><![CDATA[DAY]]></Variable>
+      <Variable><![CDATA[DIRECT]]></Variable>
+      <Variable><![CDATA[DIST]]></Variable>
+      <Variable><![CDATA[ELEV]]></Variable>
+      <Variable><![CDATA[FLAGA]]></Variable>
+      <Variable><![CDATA[FLAGB]]></Variable>
+      <Variable><![CDATA[LAT]]></Variable>
+      <Variable><![CDATA[LON]]></Variable>
+      <Variable><![CDATA[LYR]]></Variable>
+      <Variable><![CDATA[MAXTFYR]]></Variable>
+      <Variable><![CDATA[MAXTMISS]]></Variable>
+      <Variable><![CDATA[MIDTFYR]]></Variable>
+      <Variable><![CDATA[MIDTMISS]]></Variable>
+      <Variable><![CDATA[MINTFYR]]></Variable>
+      <Variable><![CDATA[MINTMISS]]></Variable>
+      <Variable><![CDATA[MONTH]]></Variable>
+      <Variable><![CDATA[NAME]]></Variable>
+      <Variable><![CDATA[NOBS]]></Variable>
+      <Variable><![CDATA[PRCPFYR]]></Variable>
+      <Variable><![CDATA[PRCPMISS]]></Variable>
+      <Variable><![CDATA[TYPE]]></Variable>
+      <Variable><![CDATA[WMO]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp040.htmlV. N. Razuvaev, E. B. Apasova, R. A. Martuganov
+All-Russian Research Institute of Hydrometeorological Information-World Data Centre
+CITE AS: Razuvaev, V. N., E. G. Apasova, and R. A. Martuganov. 2008. Daily Temperature and Precipitation Data for 223 Former-USSR Stations. ORNL/CDIAC-56, NDP-040. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee. doi: 10.3334/CDIAC/cli.ndp040.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ndp040.doc]]></Data_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/ndp040.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/data.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/data.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/history.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/history.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/inventory.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/inventory.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp040/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[52.0MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ Under an international agreement, the National Climatic Data Center (NCDC) in Asheville, N.C., is exchanging climatological information with the Research Institute of Hydrometeorological Information in Obninsk, Russia. To expedite the dissemination of these data, CDIAC, with funding provided by NCDC, is distributing one of the more useful archives acquired through this exchange: a 223-station daily data set covering from 1881 to 1989. The data set contains (1) minimum, mean, and maximum daily temperatures; (2) daily precipitation; (3) station inventory information (i.e., WMO number, name, coordinates, and elevation); (4) station history (i.e., station relocation and rain-gage replacement information); and (5) quality-assurance information (i.e., flag codes that were assigned as a result of various data checks). The data are in 18 files.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

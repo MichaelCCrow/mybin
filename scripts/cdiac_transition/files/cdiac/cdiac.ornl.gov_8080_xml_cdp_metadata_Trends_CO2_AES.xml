@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Trivett, N. B. A. ]]></origin>
+        <origin><![CDATA[Hudec, V. C.]]></origin>
+        <origin><![CDATA[Wong, C. S.]]></origin>
+        <title><![CDATA[Atmospheric CO2 records from sites in the Atmospheric Environment Service (AES) Air Sampling Network]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/CO2/AES.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CO2 records from sites in the Atmospheric Environment Service (AES) Air Sampling Network]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19750701]]></begdate>
+          <enddate><![CDATA[19940131]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[atmospheric CO2 concentrations]]></themekey>
+        <themekey><![CDATA[Flask]]></themekey>
+        <themekey><![CDATA[Infrared Gas Analyzer]]></themekey>
+        <themekey><![CDATA[Atmospheric CO2 Mixing Ratio]]></themekey>
+        <themekey><![CDATA[Trivett]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 161118</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 093739 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[atmospheric CO2 concentrations]]></Keywords>
+    <Keywords><![CDATA[Flask]]></Keywords>
+    <Keywords><![CDATA[Infrared Gas Analyzer]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO2 Mixing Ratio]]></Keywords>
+    <Keywords><![CDATA[Trivett]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+Canadian Air Sampling Network
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 093739 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/CO2/AES.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.019]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CO2 records from sites in the Atmospheric Environment Service (AES) Air Sampling Network]]></Product_title>
+      <Author>
+        <Name><![CDATA[Trivett, N. B. A. ]]></Name>
+        <Company><![CDATA[Atmospheric Environment Service]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hudec, V. C.]]></Name>
+        <Company><![CDATA[Atmospheric Environment Service]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wong, C. S.]]></Name>
+        <Company><![CDATA[Institute of Ocean Sciences]]></Company>
+        <Organization><![CDATA[Marine Carbon Research Centre]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alert, Northwest Territories, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/aes-al.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/aes-algr.htm]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/alert.123]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cape St. James, British Columbia, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/aes-cj.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/csj.125]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/aes-cjgr.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Estevan Point, British Columbia, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/aes-ep.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/eppres.127]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/aes-epgr.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Sable Island, Nova Scotia, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/aes-si.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/sable.129]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/aes-sigr.htm]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[annual]]></Variable>
+      <Variable><![CDATA[Apr]]></Variable>
+      <Variable><![CDATA[Aug]]></Variable>
+      <Variable><![CDATA[Dec]]></Variable>
+      <Variable><![CDATA[Feb]]></Variable>
+      <Variable><![CDATA[Jan]]></Variable>
+      <Variable><![CDATA[Jul]]></Variable>
+      <Variable><![CDATA[Jun]]></Variable>
+      <Variable><![CDATA[Mar]]></Variable>
+      <Variable><![CDATA[May]]></Variable>
+      <Variable><![CDATA[Nov]]></Variable>
+      <Variable><![CDATA[Oct]]></Variable>
+      <Variable><![CDATA[Sep]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/aes.html &#187;&#160;
+Canadian Air Sampling Network
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19971003]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19971003]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Air samples are collected approximately once per week, between 12:00 and 16:00 local time, in a pair of evacuated 2-L thick-wall borosilicate glass flasks. Samples are collected under preferred conditions of wind speed and direction (i.e., upwind of the main station and when winds are strong and steady). The flasks are evacuated to pressures of ~1 x 10^-4 mbar or 0.01 Pa prior to being sent to the stations. The air is not dried during sample collection.
+<br><br>
+The Atmospheric Environment Service (AES) designed a new grab type flask in 1989. The new flasks are 2 L in volume and have single glass-barreled, high-vacuum stopcocks with double Buna-N o-ring seals. The flasks are made of borosilicate glass and have a UV protective plastic coating. Field tests are currently being carried out at Alert to assess the suitability of the new flasks. The new flask is being used during the same sampling period as the greased stopcock flask, and the results are being compared. It is hoped that the new flasks will soon replace the greased stopcock type flasks in the sampling network.
+<br><br>
+An alternate method of flask sampling, currently ongoing at Alert and Estevan Point, involves pressurizing a flask by using a pumping unit connected to a sample line. The flask has both an inlet valve and an outlet valve so that the flask can be completely flushed with sample air and any contamination can be removed from the flask before it is pressurized with sample air. Because of the possible advantages of this method, a new double-valved sampling flask was designed for use in a pressurized flask sampling program. The new 2-L flasks are composed of borosilicate glass and have two glass-barrelled, high-vacuum stopcocks with double Buna-N o-rings. The flasks are also plasticoated and have a specially designed internally anchored glass delivery inlet tube with outlet ports, to ensure complete flushing of the flask during sampling. A pressurized flask sampling program was implemented at Estevan Point in January 1993 and at Alert in June 1993. The pressurized samples will be directly compared with the evacuated grab samples taken during the same time period at the site.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Riggs, J.S]]></origin>
+        <origin><![CDATA[Tharp, M.L.]]></origin>
+        <origin><![CDATA[Norby, R.J.]]></origin>
+        <title><![CDATA[ORNL FACE CO2  Concentration Data		]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_1999.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2000.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2001.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2002.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2003.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2004.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2005.dat]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2006.dat]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[ORNL FACE CO2  Concentration Data		]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19990406]]></begdate>
+          <enddate><![CDATA[20061106]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-84.33]]></westbc>
+        <eastbc><![CDATA[-84.33]]></eastbc>
+        <northbc><![CDATA[35.9]]></northbc>
+        <southbc><![CDATA[35.9]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[CO2 enrichment]]></themekey>
+        <themekey><![CDATA[FACE]]></themekey>
+        <themekey><![CDATA[meteorological data]]></themekey>
+        <themekey><![CDATA[ORNL FACE]]></themekey>
+        <themekey><![CDATA[sweetgum]]></themekey>
+        <themekey><![CDATA[Liquidambar Styraciflua]]></themekey>
+        <themekey><![CDATA[vegetation response]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_co2weather.shtml]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070731 104648</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070731 084036 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[CO2 enrichment]]></Keywords>
+    <Keywords><![CDATA[FACE]]></Keywords>
+    <Keywords><![CDATA[meteorological data]]></Keywords>
+    <Keywords><![CDATA[ORNL FACE]]></Keywords>
+    <Keywords><![CDATA[sweetgum]]></Keywords>
+    <Keywords><![CDATA[Liquidambar Styraciflua]]></Keywords>
+    <Keywords><![CDATA[vegetation response]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[                  FREE AIR CO2 ENRICHMENT (FACE) DATA REPORT:
+                       CO2 CONCENTRATIONS 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+QUALITY-ASSURANCE CHECKS AND DATA-PROCESSING ACTIVITIES PERFORMED BY THE FACE 
+   PROJECT AND CDIAC
+-----------------------------------------------------------------------------
+
+
+For all variables in all files, the range of values was checked for unrealistic
+large or small values.  CO2 concentrations less than 330 ppm and greater than 
+2000 ppm were set to missing. 
+
+Hourly statistics were calculated for the CO2 concentrations measured at the
+FACE site when there were at least 30 good minute values.  Otherwise, hourly
+values were set to missing.
+
+
+LIST OF FILES 
+-------------
+
+CO2 concentration data are available for 1998-2009.  There is an hourly file 
+for each year which contains elevated and ambient CO2 concentrations.
+
+There are gap-filled CO2 concentration data files for 1998-2008 in the
+directory, gap_filled_data.
+
+This report documents 12 files with filenames of the form co2_A.dat, where A 
+denotes the year (1998 through 2009).  The files are as follows:
+
+co2_1998.dat       1998 hourly CO2 concentration data
+co2_1999.dat       1999 hourly CO2 concentration data
+co2_2000.dat       2000 hourly CO2 concentration data
+co2_2001.dat       2001 hourly CO2 concentration data
+co2_2002.dat       2002 hourly CO2 concentration data
+co2_2003.dat       2003 hourly CO2 concentration data
+co2_2004.dat       2004 hourly CO2 concentration data
+co2_2005.dat       2005 hourly CO2 concentration data
+co2_2006.dat       2006 hourly CO2 concentration data
+co2_2007.dat       2007 hourly CO2 concentration data
+co2_2008.dat       2008 hourly CO2 concentration data
+co2_2009.dat       2009 hourly CO2 concentration data
+
+
+DESCRIPTION and FORMAT OF THE ASCII DATA FILES
+----------------------------------------------
+
+
+These data files include FACE site measurements of CO2 concentrations
+for rings 1, 2, 4, and 5.  Rings 1 and 2 are elevated CO2 
+concentrations, and rings 4 and 5 are ambient CO2 concentrations. CO2 
+is sampled continuously from the top of the canopy at the center of each
+ring and is measured with a LiCor 6252 infrared gas analyzer located in 
+an instrument shed next to each ring.  Wind speed and wind direction
+above the canopy and solar angle also are recorded.  In addition, ambient
+CO2 concentrations (ring 0) measured at Building 0813, approximately 
+0.5 km from the FACE site, are included in the files.
+
+
+Contents and format of the hourly files, co2_*.dat.
+
+Variable   Variable  Variable  Starting  Ending  Units      Definition and
+           type      width     column    column             comments
+
+YEAR       Integer   4         1         4       y          Year
+DOY        Integer   3         8         10      d          Day of the year
+                                                            (1 = 1 January, 
+                                                            ..., 365 or 366 
+                                                            = 31 December)
+HOUR       Integer   2         15        16      h          Hour
+RING       Integer   1         22        22                 Experimental ring
+                                                            0 = ambient CO2,
+                                                            measured at 
+                                                            building 0813
+                                                            1 = elevated CO2
+                                                            2 = elevated CO2
+                                                            4 = ambient CO2
+                                                            5 = ambient CO2
+CO2        Real      7         25        31      ppm        CO2 concentration
+WIND       Real      6         34        39      m/s        Wind speed 
+WIND_DIR   Real      4         44        47      deg        Wind direction,
+                                                            where 0=N, 90 = E,
+                                                            180=S, and 270 = W 
+SOLAR_ANG  Real      7         54        60      deg        Solar angle above 
+                                                            (positive values)
+                                                            or below (negative 
+                                                            values) the horizon
+
+
+PARTIAL LISTINGS OF THE ASCII DATA FILES
+----------------------------------------
+
+
+The missing-value indicators for the variables in these files are -999.99 
+for CO2, -99.99 for WIND, -999 for WIND_DIR, and -999.99 for SOLAR_ANG.
+
+Format and contents of the ASCII hourly data file co2_1998.dat.
+
+First two data records:
+
+1998   108     7     0  -999.99    1.74      20        16.99
+1998   108     7     1   486.55    1.74      20        16.99
+
+Last two data records:
+
+1998   309     7     4   396.80    0.63     280         4.20
+1998   309     7     5   398.23    0.63     280         4.20
+
+**********
+
+Format and contents of the ASCII hourly data file co2_1999.dat.
+
+First two data records:
+
+1999    96    17     0  -999.99    2.70     180        15.56
+1999    96    17     1   532.91    2.70     180        15.56
+
+Last two data records:
+
+1999   307     6     4   428.96    0.46     280       -10.00
+1999   307     6     5   407.66    0.46     280       -10.00
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2000.dat.
+
+First two data records:
+
+2000    94     7     0   463.50    0.86     220        15.52
+2000    94     7     1   518.70    0.86     220        15.52
+
+Last two data records:
+
+2000   303    23     4   487.30    0.37     180       -65.10
+2000   303    23     5   463.80    0.37     180       -65.10
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2001.dat.
+
+First two data records:
+
+2001    99    11     0   385.90    2.35     220        57.38
+2001    99    11     1   498.47    2.35     220        57.38
+
+Last two data records:
+
+2001   299    12     4   384.11    7.42     280        41.53
+2001   299    12     5   380.68    7.42     280        41.53
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2002.dat.
+
+First two data records:
+
+2002   108    10     0   441.60    1.14     180        52.01
+2002   108    10     1   486.88    1.14     180        52.01
+
+Last two data records:
+
+2002   312     8     4   449.39    0.42     100        13.13
+2002   312     8     5   443.52    0.42     100        13.13
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2003.dat.
+
+First two data records:
+
+2003   104     9     0  -999.99    1.09     200        41.44
+2003   104     9     1   426.78    1.09     200        41.44
+
+Last two data records:
+
+2003   300    13     4   377.22    0.10     280        39.39
+2003   300    13     5   377.34    0.10     280        39.39
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2004.dat.
+
+First two data records:
+
+2004   114    10     0   476.50    2.46     240        54.56
+2004   114    10     1   464.47    2.46     240        54.56
+
+Last two data records:
+
+2004   289     8     4   377.63    0.65     220        18.52
+2004   289     8     5   376.75    0.65     220        18.52
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2005.dat.
+
+First two data records:
+
+2005   105     8     0   482.30  -99.99    -999      -999.99
+2005   105     8     1   412.01  -99.99    -999      -999.99
+
+Last two data records:
+
+2005   276    17     4   415.63    0.84       0         8.61
+2005   276    17     5   394.31    0.84       0         8.61
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2006.dat.
+
+First two data records:
+
+2006   111    16     0   382.50    1.28     340        32.41
+2006   111    16     1   555.33    1.28     340        32.41
+
+Last two data records:
+
+2006   310     9     4  -999.99    0.99     100        22.32
+2006   310     9     5  -999.99    0.99     100        22.32
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2007.dat.
+
+First two data records:
+
+2007   114    14     0   392.80    3.51     200        55.52
+2007   114    14     1   496.77    3.51     200        55.52
+
+Last two data records:
+
+2007   313    15     4   381.59    2.71     200        21.95
+2007   313    15     5   381.38    2.71     200        21.95
+
+Format and contents of the ASCII hourly data file co2_2008.dat.
+
+First two data records:
+
+2008   105     7     0   418.30    0.36     280        16.46
+2008   105     7     1   415.62    0.36     280        16.46
+
+Last two data records:
+
+2008   296    15     4   384.35    2.15      40        24.96
+2008   296    15     5   383.39    2.15      40        24.96
+
+Format and contents of the ASCII hourly data file co2_2009.dat.
+
+First two data records:
+
+2009   110     0     0   418.40    1.05     280       -42.48
+2009   110     0     1   418.23    1.05     280       -42.48
+
+Last two data records:
+
+2009   271    12     4   375.67    3.39     260        51.79
+2009   271    12     5   373.97    3.39     260        51.79
+
+
+SPREADSHEET SOFTWARE TO ACCESS THE DATA
+--------------------------------------------
+
+
+Since these hourly CO2 concentration files are space-delimited ASCII text, 
+the files can be imported to spreadsheet software such as Excel or Lotus for 
+processing.  A search and replace command can be used to replace the missing 
+values of -999.99, -999, and -99.99 with appropriate missing values for the 
+software being used. 
+
+
+SAS, FORTRAN, and C CODES TO ACCESS THE DATA
+--------------------------------------------
+
+
+The following is SAS code to read hourly files, co2_*.dat.
+
+
+/* SAS CODE TO READ FILE co2_2001.dat. */
+
+DATA CO2DAT;
+
+   INFILE "co2_2001.dat";
+
+   IF _N_ = 1 THEN DO;
+      INPUT ////////;  /* READ HEADER INFORMATION */
+   END;
+
+   INPUT YEAR 1-4 DOY 8-10 HOUR 15-16 RING 22 CO2 25-31 WIND 34-39 
+      WIND_DIR 44-47 SOLAR_ANG 54-60; 
+
+RUN;
+
+
+**********
+
+The following is Fortran code to read hourly files, co2_*.dat.
+
+
+      PROGRAM CO2DAT
+
+C     FORTRAN CODE TO READ THE FILE co2_2001.dat.
+
+      REAL CO2, WIND, WIND_DIR, SOLAR_ANG
+
+      INTEGER YEAR, DOY, HOUR, RING
+
+      CHARACTER*62 HEADER
+
+      OPEN(UNIT = 2, FILE = 'co2_2001.dat', STATUS = 'OLD')
+
+      DO I = 1,9
+         READ(2,'(A)') HEADER
+      ENDDO
+
+   10 READ(2,*, END = 20)
+     #   YEAR, DOY, HOUR, RING, CO2, WIND, WIND_DIR, SOLAR_ANG 
+
+      GO TO 10
+
+   20 CLOSE(2)
+
+      STOP
+      END
+
+
+**********
+
+The following is C code to read hourly files, co2_*.dat.
+
+
+#include  stdio.h 
+#include  stdlib.h 
+#include  string.h 
+
+/* C program to read co2_2001.dat. */
+
+int main(int argc, char *argv[])
+
+{
+
+   int rec;
+   int YEAR, DOY, HOUR, RING;
+
+   float CO2, WIND, WIND_DIR, SOLAR_ANG; 
+
+   char header[65];
+
+   FILE *co2_fp;
+
+   if((co2_fp = fopen("./co2_2001.dat", "r")) == NULL) {
+      fprintf(stderr, "Error opening file co2_2001.dat.\n");
+      exit(EXIT_FAILURE);
+   }
+
+   for(rec = 1; rec  = 9; rec++) {
+      fgets(header, 64, co2_fp);
+      header[strlen(header)] = '\0'; 
+   }
+
+   while(!feof(co2_fp)) {
+      if (fscanf(co2_fp, "%d %d %d %d %f %f %f %f\n", 
+         &amp;YEAR, &amp;DOY, &amp;HOUR, &amp;RING, &amp;CO2, &amp;WIND, &amp;WIND_DIR, &amp;SOLAR_ANG) == 8);  
+      else
+         fprintf(stderr, "Check the number of variables in co2_2001.dat\n");
+   }
+
+   return;
+}
+
+**********
+
+]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070731 084036 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[ORNL FACE CO2]]></Product_number>
+      <Product_title><![CDATA[ORNL FACE CO2  Concentration Data		]]></Product_title>
+      <Author>
+        <Name><![CDATA[Riggs, J.S]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[Oak Ridge National Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Tharp, M.L.]]></Name>
+        <Company><![CDATA[Environmental Sciences Division]]></Company>
+        <Organization><![CDATA[Oak Ridge National Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Norby, R.J.]]></Name>
+        <Company><![CDATA[Environmental Sciences Division]]></Company>
+        <Organization><![CDATA[Oak Ridge National Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Oak Ridge National Laboratory FACE Experiment]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/face/ORNL/ornl_home.shtml]]></Site_URL>
+        <Site_data_file><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_co2weather.shtml]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_co2weather.shtml]]></Data_site>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Variable><![CDATA[DOY]]></Variable>
+      <Variable><![CDATA[HOUR]]></Variable>
+      <Variable><![CDATA[RING]]></Variable>
+      <Variable><![CDATA[CO2 (ppm)]]></Variable>
+      <Variable><![CDATA[WIND (m/s)]]></Variable>
+      <Variable><![CDATA[WIND_DIR (deg)]]></Variable>
+      <Variable><![CDATA[SOLAR_ANG (deg)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2.txt                  FREE AIR CO2 ENRICHMENT (FACE) DATA REPORT:
+                       CO2 CONCENTRATIONS 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+QUALITY-ASSURANCE CHECKS AND DATA-PROCESSING ACTIVITIES PERFORMED BY THE FACE 
+   PROJECT AND CDIAC
+-----------------------------------------------------------------------------
+
+
+For all variables in all files, the range of values was checked for unrealistic
+large or small values.  CO2 concentrations less than 330 ppm and greater than 
+2000 ppm were set to missing. 
+
+Hourly statistics were calculated for the CO2 concentrations measured at the
+FACE site when there were at least 30 good minute values.  Otherwise, hourly
+values were set to missing.
+
+
+LIST OF FILES 
+-------------
+
+CO2 concentration data are available for 1998-2009.  There is an hourly file 
+for each year which contains elevated and ambient CO2 concentrations.
+
+There are gap-filled CO2 concentration data files for 1998-2008 in the
+directory, gap_filled_data.
+
+This report documents 12 files with filenames of the form co2_A.dat, where A 
+denotes the year (1998 through 2009).  The files are as follows:
+
+co2_1998.dat       1998 hourly CO2 concentration data
+co2_1999.dat       1999 hourly CO2 concentration data
+co2_2000.dat       2000 hourly CO2 concentration data
+co2_2001.dat       2001 hourly CO2 concentration data
+co2_2002.dat       2002 hourly CO2 concentration data
+co2_2003.dat       2003 hourly CO2 concentration data
+co2_2004.dat       2004 hourly CO2 concentration data
+co2_2005.dat       2005 hourly CO2 concentration data
+co2_2006.dat       2006 hourly CO2 concentration data
+co2_2007.dat       2007 hourly CO2 concentration data
+co2_2008.dat       2008 hourly CO2 concentration data
+co2_2009.dat       2009 hourly CO2 concentration data
+
+
+DESCRIPTION and FORMAT OF THE ASCII DATA FILES
+----------------------------------------------
+
+
+These data files include FACE site measurements of CO2 concentrations
+for rings 1, 2, 4, and 5.  Rings 1 and 2 are elevated CO2 
+concentrations, and rings 4 and 5 are ambient CO2 concentrations. CO2 
+is sampled continuously from the top of the canopy at the center of each
+ring and is measured with a LiCor 6252 infrared gas analyzer located in 
+an instrument shed next to each ring.  Wind speed and wind direction
+above the canopy and solar angle also are recorded.  In addition, ambient
+CO2 concentrations (ring 0) measured at Building 0813, approximately 
+0.5 km from the FACE site, are included in the files.
+
+
+Contents and format of the hourly files, co2_*.dat.
+
+Variable   Variable  Variable  Starting  Ending  Units      Definition and
+           type      width     column    column             comments
+
+YEAR       Integer   4         1         4       y          Year
+DOY        Integer   3         8         10      d          Day of the year
+                                                            (1 = 1 January, 
+                                                            ..., 365 or 366 
+                                                            = 31 December)
+HOUR       Integer   2         15        16      h          Hour
+RING       Integer   1         22        22                 Experimental ring
+                                                            0 = ambient CO2,
+                                                            measured at 
+                                                            building 0813
+                                                            1 = elevated CO2
+                                                            2 = elevated CO2
+                                                            4 = ambient CO2
+                                                            5 = ambient CO2
+CO2        Real      7         25        31      ppm        CO2 concentration
+WIND       Real      6         34        39      m/s        Wind speed 
+WIND_DIR   Real      4         44        47      deg        Wind direction,
+                                                            where 0=N, 90 = E,
+                                                            180=S, and 270 = W 
+SOLAR_ANG  Real      7         54        60      deg        Solar angle above 
+                                                            (positive values)
+                                                            or below (negative 
+                                                            values) the horizon
+
+
+PARTIAL LISTINGS OF THE ASCII DATA FILES
+----------------------------------------
+
+
+The missing-value indicators for the variables in these files are -999.99 
+for CO2, -99.99 for WIND, -999 for WIND_DIR, and -999.99 for SOLAR_ANG.
+
+Format and contents of the ASCII hourly data file co2_1998.dat.
+
+First two data records:
+
+1998   108     7     0  -999.99    1.74      20        16.99
+1998   108     7     1   486.55    1.74      20        16.99
+
+Last two data records:
+
+1998   309     7     4   396.80    0.63     280         4.20
+1998   309     7     5   398.23    0.63     280         4.20
+
+**********
+
+Format and contents of the ASCII hourly data file co2_1999.dat.
+
+First two data records:
+
+1999    96    17     0  -999.99    2.70     180        15.56
+1999    96    17     1   532.91    2.70     180        15.56
+
+Last two data records:
+
+1999   307     6     4   428.96    0.46     280       -10.00
+1999   307     6     5   407.66    0.46     280       -10.00
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2000.dat.
+
+First two data records:
+
+2000    94     7     0   463.50    0.86     220        15.52
+2000    94     7     1   518.70    0.86     220        15.52
+
+Last two data records:
+
+2000   303    23     4   487.30    0.37     180       -65.10
+2000   303    23     5   463.80    0.37     180       -65.10
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2001.dat.
+
+First two data records:
+
+2001    99    11     0   385.90    2.35     220        57.38
+2001    99    11     1   498.47    2.35     220        57.38
+
+Last two data records:
+
+2001   299    12     4   384.11    7.42     280        41.53
+2001   299    12     5   380.68    7.42     280        41.53
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2002.dat.
+
+First two data records:
+
+2002   108    10     0   441.60    1.14     180        52.01
+2002   108    10     1   486.88    1.14     180        52.01
+
+Last two data records:
+
+2002   312     8     4   449.39    0.42     100        13.13
+2002   312     8     5   443.52    0.42     100        13.13
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2003.dat.
+
+First two data records:
+
+2003   104     9     0  -999.99    1.09     200        41.44
+2003   104     9     1   426.78    1.09     200        41.44
+
+Last two data records:
+
+2003   300    13     4   377.22    0.10     280        39.39
+2003   300    13     5   377.34    0.10     280        39.39
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2004.dat.
+
+First two data records:
+
+2004   114    10     0   476.50    2.46     240        54.56
+2004   114    10     1   464.47    2.46     240        54.56
+
+Last two data records:
+
+2004   289     8     4   377.63    0.65     220        18.52
+2004   289     8     5   376.75    0.65     220        18.52
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2005.dat.
+
+First two data records:
+
+2005   105     8     0   482.30  -99.99    -999      -999.99
+2005   105     8     1   412.01  -99.99    -999      -999.99
+
+Last two data records:
+
+2005   276    17     4   415.63    0.84       0         8.61
+2005   276    17     5   394.31    0.84       0         8.61
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2006.dat.
+
+First two data records:
+
+2006   111    16     0   382.50    1.28     340        32.41
+2006   111    16     1   555.33    1.28     340        32.41
+
+Last two data records:
+
+2006   310     9     4  -999.99    0.99     100        22.32
+2006   310     9     5  -999.99    0.99     100        22.32
+
+**********
+
+Format and contents of the ASCII hourly data file co2_2007.dat.
+
+First two data records:
+
+2007   114    14     0   392.80    3.51     200        55.52
+2007   114    14     1   496.77    3.51     200        55.52
+
+Last two data records:
+
+2007   313    15     4   381.59    2.71     200        21.95
+2007   313    15     5   381.38    2.71     200        21.95
+
+Format and contents of the ASCII hourly data file co2_2008.dat.
+
+First two data records:
+
+2008   105     7     0   418.30    0.36     280        16.46
+2008   105     7     1   415.62    0.36     280        16.46
+
+Last two data records:
+
+2008   296    15     4   384.35    2.15      40        24.96
+2008   296    15     5   383.39    2.15      40        24.96
+
+Format and contents of the ASCII hourly data file co2_2009.dat.
+
+First two data records:
+
+2009   110     0     0   418.40    1.05     280       -42.48
+2009   110     0     1   418.23    1.05     280       -42.48
+
+Last two data records:
+
+2009   271    12     4   375.67    3.39     260        51.79
+2009   271    12     5   373.97    3.39     260        51.79
+
+
+SPREADSHEET SOFTWARE TO ACCESS THE DATA
+--------------------------------------------
+
+
+Since these hourly CO2 concentration files are space-delimited ASCII text, 
+the files can be imported to spreadsheet software such as Excel or Lotus for 
+processing.  A search and replace command can be used to replace the missing 
+values of -999.99, -999, and -99.99 with appropriate missing values for the 
+software being used. 
+
+
+SAS, FORTRAN, and C CODES TO ACCESS THE DATA
+--------------------------------------------
+
+
+The following is SAS code to read hourly files, co2_*.dat.
+
+
+/* SAS CODE TO READ FILE co2_2001.dat. */
+
+DATA CO2DAT;
+
+   INFILE "co2_2001.dat";
+
+   IF _N_ = 1 THEN DO;
+      INPUT ////////;  /* READ HEADER INFORMATION */
+   END;
+
+   INPUT YEAR 1-4 DOY 8-10 HOUR 15-16 RING 22 CO2 25-31 WIND 34-39 
+      WIND_DIR 44-47 SOLAR_ANG 54-60; 
+
+RUN;
+
+
+**********
+
+The following is Fortran code to read hourly files, co2_*.dat.
+
+
+      PROGRAM CO2DAT
+
+C     FORTRAN CODE TO READ THE FILE co2_2001.dat.
+
+      REAL CO2, WIND, WIND_DIR, SOLAR_ANG
+
+      INTEGER YEAR, DOY, HOUR, RING
+
+      CHARACTER*62 HEADER
+
+      OPEN(UNIT = 2, FILE = 'co2_2001.dat', STATUS = 'OLD')
+
+      DO I = 1,9
+         READ(2,'(A)') HEADER
+      ENDDO
+
+   10 READ(2,*, END = 20)
+     #   YEAR, DOY, HOUR, RING, CO2, WIND, WIND_DIR, SOLAR_ANG 
+
+      GO TO 10
+
+   20 CLOSE(2)
+
+      STOP
+      END
+
+
+**********
+
+The following is C code to read hourly files, co2_*.dat.
+
+
+#include  stdio.h 
+#include  stdlib.h 
+#include  string.h 
+
+/* C program to read co2_2001.dat. */
+
+int main(int argc, char *argv[])
+
+{
+
+   int rec;
+   int YEAR, DOY, HOUR, RING;
+
+   float CO2, WIND, WIND_DIR, SOLAR_ANG; 
+
+   char header[65];
+
+   FILE *co2_fp;
+
+   if((co2_fp = fopen("./co2_2001.dat", "r")) == NULL) {
+      fprintf(stderr, "Error opening file co2_2001.dat.\n");
+      exit(EXIT_FAILURE);
+   }
+
+   for(rec = 1; rec  = 9; rec++) {
+      fgets(header, 64, co2_fp);
+      header[strlen(header)] = '\0'; 
+   }
+
+   while(!feof(co2_fp)) {
+      if (fscanf(co2_fp, "%d %d %d %d %f %f %f %f\n", 
+         &amp;YEAR, &amp;DOY, &amp;HOUR, &amp;RING, &amp;CO2, &amp;WIND, &amp;WIND_DIR, &amp;SOLAR_ANG) == 8);  
+      else
+         fprintf(stderr, "Check the number of variables in co2_2001.dat\n");
+   }
+
+   return;
+}
+
+**********
+
+]]></Descriptive_file>
+      <Data_file><![CDATA[co2_1999.dat]]></Data_file>
+      <Data_file><![CDATA[co2_2000.dat]]></Data_file>
+      <Data_file><![CDATA[co2_2001.dat]]></Data_file>
+      <Data_file><![CDATA[co2_2002.dat]]></Data_file>
+      <Data_file><![CDATA[co2_2003.dat]]></Data_file>
+      <Data_file><![CDATA[co2_2004.dat]]></Data_file>
+      <Data_file><![CDATA[co2_2005.dat]]></Data_file>
+      <Data_file><![CDATA[co2_2006.dat]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070701]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_1999.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2000.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2001.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2002.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2003.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2004.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2005.dat]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/ornldata/co2_data/co2_2006.dat]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[CO2 concentration data are available for 1999-2006.  There is an hourly file 
+for each year which contains elevated and ambient CO2 concentrations.  The 
+2007 file will be updated as data become available.  These data files include FACE site measurements of CO2 concentrations
+for rings 1, 2, 4, and 5.  Rings 1 and 2 are elevated CO2 
+concentrations, and rings 4 and 5 are ambient CO2 concentrations. CO2 
+is sampled continuously from the top of the canopy at the center of each
+ring and is measured with a LiCor 6252 infrared gas analyzer located in 
+an instrument shed next to each ring.  Wind speed and wind direction
+above the canopy and solar angle also are recorded.  In addition, ambient
+CO2 concentrations (ring 0) measured at Building 0813, approximately 
+0.5 km from the FACE site, are included in the files.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

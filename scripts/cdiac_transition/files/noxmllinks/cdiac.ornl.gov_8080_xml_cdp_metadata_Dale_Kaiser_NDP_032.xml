@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Jones, P. D.]]></origin>
+        <origin><![CDATA[Limbert, D. W. S.]]></origin>
+        <title><![CDATA[Antarctic Surface Temperature and Pressure Data]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp032/old/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Antarctic Surface Temperature and Pressure Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19010101]]></begdate>
+          <enddate><![CDATA[20001231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-136.850]]></westbc>
+        <eastbc><![CDATA[166.750]]></eastbc>
+        <northbc><![CDATA[-60.733]]></northbc>
+        <southbc><![CDATA[-90.000]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[mean pressure]]></themekey>
+        <themekey><![CDATA[mean surface temperature]]></themekey>
+        <themekey><![CDATA[Antarctic]]></themekey>
+        <themekey><![CDATA[pressure data]]></themekey>
+        <themekey><![CDATA[meteorological stations]]></themekey>
+        <themekey><![CDATA[Antarctic region]]></themekey>
+        <themekey><![CDATA[weather stations]]></themekey>
+        <themekey><![CDATA[Antarctic station data]]></themekey>
+        <themekey><![CDATA[temperature trends]]></themekey>
+        <themekey><![CDATA[NDP-032]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090707 140303</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 141934 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[mean pressure]]></Keywords>
+    <Keywords><![CDATA[mean surface temperature]]></Keywords>
+    <Keywords><![CDATA[Antarctic]]></Keywords>
+    <Keywords><![CDATA[pressure data]]></Keywords>
+    <Keywords><![CDATA[meteorological stations]]></Keywords>
+    <Keywords><![CDATA[Antarctic region]]></Keywords>
+    <Keywords><![CDATA[weather stations]]></Keywords>
+    <Keywords><![CDATA[Antarctic station data]]></Keywords>
+    <Keywords><![CDATA[temperature trends]]></Keywords>
+    <Keywords><![CDATA[NDP-032]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+P. D. Jones and P. A. Reid*
+University of East Anglia
+,
+Edited by
+D. P. Kaiser
+)
+Carbon Dioxide Information Analysis Center
+Environmental Sciences Division
+Oak Ridge National Laboratory
+Prepared for the
+Environmental Sciences Division
+Office of Biological and Environmental Research
+U.S. Department of Energy
+Prepared by the
+Carbon Dioxide Information Analysis Center
+OAK RIDGE NATIONAL LABORATORY
+Oak Ridge, Tennessee 37831-6290
+managed by
+UT-BATTELLE, LLC
+for the
+U.S. DEPARTMENT OF ENERGY
+ Variable Variable Starting Ending
+Variable type width column column
+STANUM Numeric 5 1 5
+LAT Numeric 5 8 12
+LON Numeric 6 14 19
+NAME Character 22 24 45
+where
+STANUM is the WMO number of the station;
+LAT is the latitude of the station in decimal degrees
+ (times 100);
+LON is the longitude of the station in decimal degrees
+ (times 100). Positive longitudes are east of Greenwich;
+ negative longitudes are west of Greenwich;
+NAME is the name of the station.
+ Variable Variable Starting Ending
+Variable type width column column
+STANUM Numeric 5 2 6
+LAT Numeric 5 9 13
+LON Numeric 6 14 19
+NAME Character 22 24 45
+POR Character 8 56 63
+where
+STANUM is the WMO number of the station;
+LAT is the latitude of the station in decimal degrees
+ (times 100);
+LON is the longitude of the station in decimal degrees
+ (times 100). Positive longitudes are east of Greenwich;
+ negative longitudes are west of Greenwich;
+NAME is the name of the station;
+POR is the period of record represented in the data file for each
+ station. This character variable is "19012000" for all
+ stations, but most stations have far shorter records.
+ The POR is given this way for consistency, since for all
+ stations, 100 data records (1901-2000) are given even though
+ many years' data are filled with the missing data indicator,
+ "-999".
+ Variable Variable Starting Ending
+Variable type width column column
+YEAR Numeric 4 1 4
+JAN Numeric 5 5 9
+FEB Numeric 5 10 14
+MAR Numeric 5 15 19
+APR Numeric 5 20 24
+MAY Numeric 5 25 29
+JUN Numeric 5 30 34
+JUL Numeric 5 35 39
+AUG Numeric 5 40 44
+SEP Numeric 5 45 49
+OCT Numeric 5 50 54
+NOV Numeric 5 55 59
+DEC Numeric 5 60 64
+ANN Numeric 5 65 69
+where
+YEAR is the year of the data record;
+JAN-DEC are the monthly mean maximum temperatures, monthly mean
+ minimum temperatures, monthly mean temperatures, or monthly
+ mean sea level pressures, depending on the data file.
+ Temperatures are given in degrees Celsius (times 10), e.g.,
+ a temperature of -125 would indicate -12.5C. Sea level
+ pressure or station pressure is given in hectopascals
+ (times 10), e.g., a pressure of 9876 would indicate 987.6hPa.
+ Missing monthly data are indicated by the value -999;
+ANN is the annual mean of the 12 monthly means, given in the same
+ units as the monthly values. Missing annual data are
+ also indicated by the value -999.
+ Variable Variable Starting Ending
+Variable type width column column
+STANUM Numeric 5 1 5
+YEAR Numeric 4 7 10
+JAN Numeric 5 12 16
+FEB Numeric 5 18 22
+MAR Numeric 5 24 28
+APR Numeric 5 30 34
+MAY Numeric 5 36 40
+JUN Numeric 5 42 46
+JUL Numeric 5 48 52
+AUG Numeric 5 54 58
+SEP Numeric 5 60 64
+OCT Numeric 5 66 70
+NOV Numeric 5 72 76
+DEC Numeric 5 78 82
+ANN Numeric 5 84 88
+where
+STANUM is the WMO number of the station;
+YEAR is the year of the data record;
+JAN-DEC are the monthly mean maximum temperatures, monthly mean
+ minimum temperatures, monthly mean temperatures, or monthly
+ mean sea level pressures, depending on the data file.
+ Temperatures are given in degrees Celsius (times 10), e.g.,
+ a temperature of -125 would indicate -12.5C. Sea level
+ pressure or station pressure is given in hectopascals
+ (times 10), e.g., a pressure of 9876 would indicate 987.6hPa.
+ Missing monthly data are indicated by the value -999;
+ANN is the annual mean of the 12 monthly means, given in the same
+ units as the monthly values. Missing annual data are
+ also indicated by the value -999.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 141934 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp032]]></Product_number>
+      <Product_title><![CDATA[Antarctic Surface Temperature and Pressure Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[Jones, P. D.]]></Name>
+        <Company><![CDATA[University of East Anglia]]></Company>
+        <Organization><![CDATA[Climatic Research Unit]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Limbert, D. W. S.]]></Name>
+        <Company><![CDATA[British Antarctic Survey]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Antarctic]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp032/ndp032.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp032/old/ndp032.prs]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp032/old/ndp032.ps2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp032/old/ndp032.tm1]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp032/old/ndp032.tm2]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[ALTNUM]]></Variable>
+      <Variable><![CDATA[ALTUNT]]></Variable>
+      <Variable><![CDATA[FYEAR]]></Variable>
+      <Variable><![CDATA[IYEAR]]></Variable>
+      <Variable><![CDATA[LATDEG]]></Variable>
+      <Variable><![CDATA[LATHEM]]></Variable>
+      <Variable><![CDATA[LATMIN]]></Variable>
+      <Variable><![CDATA[LONDEG]]></Variable>
+      <Variable><![CDATA[LONHEM]]></Variable>
+      <Variable><![CDATA[LONMIN]]></Variable>
+      <Variable><![CDATA[N]]></Variable>
+      <Variable><![CDATA[PRESS]]></Variable>
+      <Variable><![CDATA[STATN]]></Variable>
+      <Variable><![CDATA[TEMP]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Variable><![CDATA[YR]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp032/ndp032.html&#239;&#187;&#191;
+P. D. Jones and P. A. Reid*
+University of East Anglia
+,
+Edited by
+D. P. Kaiser
+)
+Carbon Dioxide Information Analysis Center
+Environmental Sciences Division
+Oak Ridge National Laboratory
+Prepared for the
+Environmental Sciences Division
+Office of Biological and Environmental Research
+U.S. Department of Energy
+Prepared by the
+Carbon Dioxide Information Analysis Center
+OAK RIDGE NATIONAL LABORATORY
+Oak Ridge, Tennessee 37831-6290
+managed by
+UT-BATTELLE, LLC
+for the
+U.S. DEPARTMENT OF ENERGY
+ Variable Variable Starting Ending
+Variable type width column column
+STANUM Numeric 5 1 5
+LAT Numeric 5 8 12
+LON Numeric 6 14 19
+NAME Character 22 24 45
+where
+STANUM is the WMO number of the station;
+LAT is the latitude of the station in decimal degrees
+ (times 100);
+LON is the longitude of the station in decimal degrees
+ (times 100). Positive longitudes are east of Greenwich;
+ negative longitudes are west of Greenwich;
+NAME is the name of the station.
+ Variable Variable Starting Ending
+Variable type width column column
+STANUM Numeric 5 2 6
+LAT Numeric 5 9 13
+LON Numeric 6 14 19
+NAME Character 22 24 45
+POR Character 8 56 63
+where
+STANUM is the WMO number of the station;
+LAT is the latitude of the station in decimal degrees
+ (times 100);
+LON is the longitude of the station in decimal degrees
+ (times 100). Positive longitudes are east of Greenwich;
+ negative longitudes are west of Greenwich;
+NAME is the name of the station;
+POR is the period of record represented in the data file for each
+ station. This character variable is "19012000" for all
+ stations, but most stations have far shorter records.
+ The POR is given this way for consistency, since for all
+ stations, 100 data records (1901-2000) are given even though
+ many years' data are filled with the missing data indicator,
+ "-999".
+ Variable Variable Starting Ending
+Variable type width column column
+YEAR Numeric 4 1 4
+JAN Numeric 5 5 9
+FEB Numeric 5 10 14
+MAR Numeric 5 15 19
+APR Numeric 5 20 24
+MAY Numeric 5 25 29
+JUN Numeric 5 30 34
+JUL Numeric 5 35 39
+AUG Numeric 5 40 44
+SEP Numeric 5 45 49
+OCT Numeric 5 50 54
+NOV Numeric 5 55 59
+DEC Numeric 5 60 64
+ANN Numeric 5 65 69
+where
+YEAR is the year of the data record;
+JAN-DEC are the monthly mean maximum temperatures, monthly mean
+ minimum temperatures, monthly mean temperatures, or monthly
+ mean sea level pressures, depending on the data file.
+ Temperatures are given in degrees Celsius (times 10), e.g.,
+ a temperature of -125 would indicate -12.5C. Sea level
+ pressure or station pressure is given in hectopascals
+ (times 10), e.g., a pressure of 9876 would indicate 987.6hPa.
+ Missing monthly data are indicated by the value -999;
+ANN is the annual mean of the 12 monthly means, given in the same
+ units as the monthly values. Missing annual data are
+ also indicated by the value -999.
+ Variable Variable Starting Ending
+Variable type width column column
+STANUM Numeric 5 1 5
+YEAR Numeric 4 7 10
+JAN Numeric 5 12 16
+FEB Numeric 5 18 22
+MAR Numeric 5 24 28
+APR Numeric 5 30 34
+MAY Numeric 5 36 40
+JUN Numeric 5 42 46
+JUL Numeric 5 48 52
+AUG Numeric 5 54 58
+SEP Numeric 5 60 64
+OCT Numeric 5 66 70
+NOV Numeric 5 72 76
+DEC Numeric 5 78 82
+ANN Numeric 5 84 88
+where
+STANUM is the WMO number of the station;
+YEAR is the year of the data record;
+JAN-DEC are the monthly mean maximum temperatures, monthly mean
+ minimum temperatures, monthly mean temperatures, or monthly
+ mean sea level pressures, depending on the data file.
+ Temperatures are given in degrees Celsius (times 10), e.g.,
+ a temperature of -125 would indicate -12.5C. Sea level
+ pressure or station pressure is given in hectopascals
+ (times 10), e.g., a pressure of 9876 would indicate 987.6hPa.
+ Missing monthly data are indicated by the value -999;
+ANN is the annual mean of the 12 monthly means, given in the same
+ units as the monthly values. Missing annual data are
+ also indicated by the value -999.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp032/old/ndp032.fr1]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp032/old/ndp032.fr2]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp032/old/ndp032.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19890101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20011025]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp032/old/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[2.28MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This database contains monthly mean surface temperature and mean sea level pressure data from twenty-nine meteorological stations within the Antarctic region. The first version of this database was compiled at the Climatic Research Unit (CRU) of University of East Anglia, Norwich, United Kingdom. The database extended through 1988 and was made available in 1989 by the Carbon Dioxide Information Analysis Center (CDIAC) as a Numeric Data Package (NDP), NDP-032. This update of the database includes data through early 1999 for most stations (through 2000 for a few), and also includes all available mean monthly maximum and minimum temperature data. For many stations this means that over 40 years of data are now available, enough for many of the trends associated with recent warming to be more thoroughly examined. Much of the original version of this dataset was obtained from the World Weather Records (WWR) volumes (1951-1970), Monthly Climatic Data for the World (since 1961), and several other sources. Updating the station surface data involved requesting data from countries who have weather stations on Antarctica. Of particular importance within this study are the additional data obtained from Australia, Britain and New Zealand.
+<br><br>
+ Recording Antarctic station data is particularly prone to errors. This is mostly due to climatic extremes, the nature of Antarctic science, and the variability of meteorological staff at Antarctic stations (high turnover and sometimes untrained meteorological staff). For this compilation, as many sources as possible were contacted in order to obtain as close to official 'source' data as possible. Some error checking has been undertaken and hopefully the final result is as close to a definitive database as possible.
+<br><br>
+ This NDP consists of this html documentation file, an ASCII text version of this file, six temperature files (three original CRU files for monthly maximum, monthly minimum, and monthly mean temperature and three equivalent files slightly reformatted at CDIAC), two monthly mean pressure data files (one original CRU file and one slightly reformatted CDIAC version of the file), four graphics files that describe the station network and the nature of temperature and pressure trends, a file summarizing annual and mean-monthly trends in surface temperatures over Antarctica, a file summarizing monthly Antarctic surface temperature anomalies with respect to the period 1961-90, a station inventory file, and 3 FORTRAN and 3 SAS routines for reading the data that may be incorporated into analysis programs that users may devise. These 23 files have a total size of approximately 2 megabytes and are available via the Internet through CDIAC's Web site or anonymous FTP (File Transfer Protocol) server, and, upon request, various magnetic media.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Food and Agriculture Organization]]></origin>
+        <title><![CDATA[FAOSTAT National Land Use Statistics]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[/hoss/data2/tab/land-use/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[FAOSTAT National Land Use Statistics]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19610101]]></begdate>
+          <enddate><![CDATA[20050412]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[FAOSTAT]]></themekey>
+        <themekey><![CDATA[Food and Agriculture Organization of the United Nations]]></themekey>
+        <themekey><![CDATA[Land Use]]></themekey>
+        <themekey><![CDATA[National Land Use]]></themekey>
+        <themekey><![CDATA[Forested Land]]></themekey>
+        <themekey><![CDATA[Agricultural Land]]></themekey>
+        <themekey><![CDATA[Land Area]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120904 163253</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 160927 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[FAOSTAT]]></Keywords>
+    <Keywords><![CDATA[Food and Agriculture Organization of the United Nations]]></Keywords>
+    <Keywords><![CDATA[Land Use]]></Keywords>
+    <Keywords><![CDATA[National Land Use]]></Keywords>
+    <Keywords><![CDATA[Forested Land]]></Keywords>
+    <Keywords><![CDATA[Agricultural Land]]></Keywords>
+    <Keywords><![CDATA[Land Area]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 160927 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[FAOSTAT]]></Product_number>
+      <Product_title><![CDATA[FAOSTAT National Land Use Statistics]]></Product_title>
+      <Author>
+        <Name><![CDATA[Food and Agriculture Organization]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Land Use Statistics]]></Thematic_area>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[All countries of the world]]></Site_name>
+        <Site_URL><![CDATA[http://faostat.fao.org/faostat/default.jsp?language=EN&amp;version=ext&amp;hasbulk=0]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/afghanistan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/albania.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/algeria.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/americansamo.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/andorra.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/angola.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/antigua_barbuda.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/argentina.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/armenia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/aruba.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/australia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/austria.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/azerbaijan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/bahamas.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/bahrain.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/bangladesh.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/barbados.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/belarus.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/belgium_luxembourg.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/belize.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/benin.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/bermuda.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/bhutan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/bolivia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/bosnia_herzegovinia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/botswana.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/brazil.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/british_indian_ocean_terr.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/british_virgin_island.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/brunei.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/bulgaria.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/burkina_faso.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/burundi.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/cambodia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/cameroon.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/canada.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/canton_enderbury.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/cape_verde.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/cayman_islands.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/central_african_republic.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/chad.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/chile.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/china.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/christmas_island.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/cocos_island.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/columbia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/comoros.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/congo_democratic.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/congo_republic.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/cook_island.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/costa_rica.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/cote_ivoire.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/croatia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/cuba.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/cyprus.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/czechoslovakia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/czech_republic.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/denmark.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/djibouti.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/dominica.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/dominican_republic.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/ecuador.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/egypt.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/el_salvador.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/equatorial_guneia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/eritrea.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/estonia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/ethiopia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/ethiopia_pdr.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/faeroe_island.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/falkland_island.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/faoady.sas1bdat]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/fao.filename.log]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/fao.filename.lst]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/fao.filename.sas]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/fao.final.log]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/fao.final.lst]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/fao.final.sas]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/faoland.sas]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/fao_weights.rpt]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/fiji.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/final.sas7bdat]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/finland.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/fname.sas7bdat]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/france.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/french_guiana.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/french_polynesia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/gabon.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/gambia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/georgia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/germany.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/ghana.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/gibraltar.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/greece.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/greenland.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/grenada.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/guadeloupe.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/guam.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/guatamala.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/guinea_bissau.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/guinea.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/guyana.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/haiti.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/honduras.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/hungary.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/iceland.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/india.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/indonesia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/iran.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/iraq.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/ireland.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/israel.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/italy.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/jamaica.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/japan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/jordan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/kazakhstan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/kenya.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/kiribati.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/korea_north.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/korea_south.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/kuwait.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/kyrgyzsstan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/landunits.key]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/landuse.sas7dbat]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/laos.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/latvia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/lebanon.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/lesotho.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/liberia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/libya.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/liechtenstein.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/lithuania.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/macedonia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/madagascar.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/malawi.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/malaysia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/maldives.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/mali.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/malta.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/martinique.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/mauritania.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/mauritius.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/mexico.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/moldova.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/mongolia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/montserrat.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/morocco.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/mozambique.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/myanmar.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/namibia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/nauru.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/nepal.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/netherlands_antilles.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/netherlands.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/new_caledonia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/new_zealand.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/nicaragua.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/niger.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/nigeria.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/niue.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/norfolk_island.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/norway.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/oman.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/pacific_island_terr.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/pakistan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/palau.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/palestine.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/panama.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/papua_new_guinea.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/paraguay.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/peru.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/philippines.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/poland.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/portugal.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/puerto_rico.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/qatar.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/reunion.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/romania.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/russia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/rwanda.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/saint_helena.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/saint_kitts_nevis.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/saint_lucia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/saint_pierre_miquelon.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/saint_vincent_grenadines.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/samoa.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/san_marino.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/sao_tome_principe.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/saudi_arabia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/senegal.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/seychelles.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/sierra_leone.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/singapore.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/slovakia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/slovenia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/solomon_islands.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/somolia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/south_africa.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/spain.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/sri_lanka.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/sudan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/suriname.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/swaziland.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/sweden.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/switzerland.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/syria.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/tajikistan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/tanzania.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/thailand.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/timor_leste.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/togo.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/tokelau.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/tonga.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/trinidad_tobago.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/tunisia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/turkey.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/turkmenistan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/turks_caicos.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/tuvalu.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/uae.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/uganda.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/uk.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/ukraine.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/uruguay.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/usa.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/ussr.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/us_virgin_island.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/uzbekistan.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/vanuatu.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/venezuela.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/vietnam.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/wallis_futuna.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/water.sas7bdat]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/yemen.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/yugoslavia_fed_rep.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/yugoslavia_sfr.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/zambia.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/land-use/zimbabwe.csv]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Country]]></Variable>
+      <Variable><![CDATA[Item]]></Variable>
+      <Variable><![CDATA[Element]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Descriptive_file><![CDATA[http://faostat.fao.org/faostat/default.jsp?language=EN&amp;version=ext&amp;hasbulk=0]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20050401]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/hoss/data2/tab/land-use/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[FAOSTAT is an on-line and multilingual database currently containing over 3 million time-series records covering international statistics in the following areas:
+<br><br>
+* Production <br>
+* Land Use and Irrigation <br>
+* Trade <br>
+* Forest Products <br>
+* Food Balance Sheets <br>
+* Fishery Products <br>
+* Producer Prices <br>
+* Population <br>
+* Forestry Trade Flow <br>
+* Codex Alimentarius Food Quality Control <br>
+* Fertilizer and Pesticides <br>
+* Agricultural Machinery <br>
+* Food Aid Shipments <br>
+* Exports by Destination ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

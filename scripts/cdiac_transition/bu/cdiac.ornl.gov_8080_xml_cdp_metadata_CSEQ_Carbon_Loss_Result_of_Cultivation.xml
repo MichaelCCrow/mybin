@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Post, W. M. ]]></origin>
+        <origin><![CDATA[Mann, L. K. ]]></origin>
+        <title><![CDATA[Changes in Soil Organic Carbon and Nitrogen as a Result of Cultivation]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/CSEQ/Carbon_Loss_Result_of_Cultivation.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/programs/CSEQ/terrestrial/postmann1990/postmann1990.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Changes in Soil Organic Carbon and Nitrogen as a Result of Cultivation]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Changes]]></themekey>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[cultivation]]></themekey>
+        <themekey><![CDATA[soil organic Carbon]]></themekey>
+        <themekey><![CDATA[Nitrogen]]></themekey>
+        <themekey><![CDATA[result]]></themekey>
+        <themekey><![CDATA[Carbon Cycle]]></themekey>
+        <themekey><![CDATA[Carbon Sequestration]]></themekey>
+        <themekey><![CDATA[Soil carbon]]></themekey>
+        <themekey><![CDATA[deforestation]]></themekey>
+        <themekey><![CDATA[CARBON SEQUESTRATION-TERRESTRIAL]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Wilfred M. Post; email: postwmiii@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Wilfred M. Post; email: postwmiii@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090713 142110</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Wilfred M. Post; email: postwmiii@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 150006 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Changes]]></Keywords>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[cultivation]]></Keywords>
+    <Keywords><![CDATA[soil organic Carbon]]></Keywords>
+    <Keywords><![CDATA[Nitrogen]]></Keywords>
+    <Keywords><![CDATA[result]]></Keywords>
+    <Keywords><![CDATA[Carbon Cycle]]></Keywords>
+    <Keywords><![CDATA[Carbon Sequestration]]></Keywords>
+    <Keywords><![CDATA[Soil carbon]]></Keywords>
+    <Keywords><![CDATA[deforestation]]></Keywords>
+    <Keywords><![CDATA[CARBON SEQUESTRATION-TERRESTRIAL]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;Changes in Soil from Cultivation
+Oak Ridge National Laboratory
+P.O. Box 2008
+We assembed and analyzed a data base of soil organic carbon and
+nitrogen information from over 1100 profiles in order to explore
+factors related to the changes in storage of soil organic matter
+resulting from land conversion. The relationship between cultivated and
+uncultivated organic carbon and nitrogen storage in soils can be
+described by regression lines with uncultivated storage on the
+abscissa, and cultivated storage on the ordinate. The slope of the
+regression lines is less than 1 indicating that the amount of carbon or
+nitrogen lost is an increasing fraction of the intial amount stored in
+the soil. Average carbon loss for soils with high initial carbon is 23%
+for 1-meter depth. Average nitrogen loss for the same depth is 6%. In
+addition, for soils with very low uncultivated carbon or nitrogen
+storage, cultivation results in increases in storage. In soils with the
+same uncultivated carbon contents, profiles with higher C:N ratios lost
+more carbon than those with low C:N ratios, suggesting that
+decomposition of organic matter may, in general, be more limited by
+microbial ability to break carbon bonds than by nitrogen deficiency.
+The following soil profile data, representing both cultivated and
+uncultivated soils, were used in conjunction with paired plot data from
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 150006 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/CSEQ/Carbon_Loss_Result_of_Cultivation.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/tcm.006]]></Product_number>
+      <Product_title><![CDATA[Changes in Soil Organic Carbon and Nitrogen as a Result of Cultivation]]></Product_title>
+      <Author>
+        <Name><![CDATA[Post, W. M. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mann, L. K. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Sequestration]]></Thematic_area>
+      <Thematic_area><![CDATA[Soil carbon]]></Thematic_area>
+      <Thematic_area><![CDATA[cultivation]]></Thematic_area>
+      <Thematic_area><![CDATA[deforestation]]></Thematic_area>
+      <Thematic_area><![CDATA[Terrestrial Carbon Management]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/programs/CSEQ/terrestrial/postmann1990/postmann1990.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/programs/CSEQ/terrestrial/postmann1990/postandmann1990.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/programs/CSEQ/terrestrial/postmann1990/postmann1990data.pdf]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Soil Profile Numer]]></Variable>
+      <Variable><![CDATA[Soil ID ]]></Variable>
+      <Variable><![CDATA[Higher Depth (cm)]]></Variable>
+      <Variable><![CDATA[Lower Depth (cm)]]></Variable>
+      <Variable><![CDATA[Soil Nitrogen (%)]]></Variable>
+      <Variable><![CDATA[Soil Series Name]]></Variable>
+      <Variable><![CDATA[Surface Layer Horizon]]></Variable>
+      <Variable><![CDATA[Vegitation]]></Variable>
+      <Variable><![CDATA[Bulk Density (g/cm^3)]]></Variable>
+      <Variable><![CDATA[Soil C (%) ]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/programs/CSEQ/terrestrial/postmann1990/postmann1990.html &#187;&#160;Changes in Soil from Cultivation
+Oak Ridge National Laboratory
+P.O. Box 2008
+We assembed and analyzed a data base of soil organic carbon and
+nitrogen information from over 1100 profiles in order to explore
+factors related to the changes in storage of soil organic matter
+resulting from land conversion. The relationship between cultivated and
+uncultivated organic carbon and nitrogen storage in soils can be
+described by regression lines with uncultivated storage on the
+abscissa, and cultivated storage on the ordinate. The slope of the
+regression lines is less than 1 indicating that the amount of carbon or
+nitrogen lost is an increasing fraction of the intial amount stored in
+the soil. Average carbon loss for soils with high initial carbon is 23%
+for 1-meter depth. Average nitrogen loss for the same depth is 6%. In
+addition, for soils with very low uncultivated carbon or nitrogen
+storage, cultivation results in increases in storage. In soils with the
+same uncultivated carbon contents, profiles with higher C:N ratios lost
+more carbon than those with low C:N ratios, suggesting that
+decomposition of organic matter may, in general, be more limited by
+microbial ability to break carbon bonds than by nitrogen deficiency.
+The following soil profile data, representing both cultivated and
+uncultivated soils, were used in conjunction with paired plot data from
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19900101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19900101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/programs/CSEQ/terrestrial/postmann1990/postmann1990.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Wilfred M. Post; email: postwmiii@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[We assembed and analyzed a data base of soil organic carbon and nitrogen information from over 1100 profiles in order to explore factors related to the changes in storage of soil organic matter resulting from land conversion. The relationship between cultivated and uncultivated organic carbon and nitrogen storage in soils can be described by regression lines with uncultivated storage on the abscissa, and cultivated storage on the ordinate. The slope of the regression lines is less than 1 indicating that the amount of carbon or nitrogen lost is an increasing fraction of the intial amount stored in the soil. Average carbon loss for soils with high initial carbon is 23% for 1-meter depth. Average nitrogen loss for the same depth is 6%. In addition, for soils with very low uncultivated carbon or nitrogen storage, cultivation results in increases in storage. In soils with the same uncultivated carbon contents, profiles with higher C:N ratios lost more carbon than those with low C:N ratios, suggesting that decomposition of organic matter may, in general, be more limited by microbial ability to break carbon bonds than by nitrogen deficiency.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

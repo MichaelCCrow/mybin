@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Raich, J. W.]]></origin>
+        <origin><![CDATA[Potter, C. S.]]></origin>
+        <origin><![CDATA[Bhagawati, D.]]></origin>
+        <title><![CDATA[Interannual Variability in Global Soil Respiration on a 0.5 Degree Grid Cell Basis (1980-1994) - NDP-081				]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Interannual Variability in Global Soil Respiration on a 0.5 Degree Grid Cell Basis (1980-1994) - NDP-081				]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19800101]]></begdate>
+          <enddate><![CDATA[19941231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[180]]></westbc>
+        <eastbc><![CDATA[-180]]></eastbc>
+        <northbc><![CDATA[90]]></northbc>
+        <southbc><![CDATA[-90]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon release]]></themekey>
+        <themekey><![CDATA[climate change]]></themekey>
+        <themekey><![CDATA[global carbon cycle]]></themekey>
+        <themekey><![CDATA[global warming]]></themekey>
+        <themekey><![CDATA[model]]></themekey>
+        <themekey><![CDATA[soil carbon dioxide emissions	]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 132030</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 151430 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon release]]></Keywords>
+    <Keywords><![CDATA[climate change]]></Keywords>
+    <Keywords><![CDATA[global carbon cycle]]></Keywords>
+    <Keywords><![CDATA[global warming]]></Keywords>
+    <Keywords><![CDATA[model]]></Keywords>
+    <Keywords><![CDATA[soil carbon dioxide emissions	]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Department of Ecology, Evolution, and Organismal Biology
+Iowa State University
+Ames, IA 50011 USA
+Ecosystem Science and Technology Branch
+NASA Ames Research Center
+MS 242-2
+Department of Civil and Construction Engineering
+Iowa State University
+Prepared by L.M. Olsen.
+ = Carbon Dioxide
+CDIAC = Carbon Dioxide Information Analysis Center
+FTP = file transfer protocol
+QA = quality assurance
+GIS = geographic information system
+NetCDF = network common data form
+Used the daily data grids to derive monthly data grids by multiplying them by landarea (halfarea.e00 or halfarea.dat) and number of days per month (methods described by author). When these derived grids were compared with the monthly grids included with this data set, they differed slightly. These differences are probably the result of varying levels of precision in the software used to create them.
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+P.O. Box 2008
+Oak Ridge, Tennessee 37831-6290, U.S.A.
+Telephone: 1-865-574-3645
+Telefax: 1-865-574-2232
+Grid files of MONTHLY predicted soil CO
+Grid files of MONTHLY predicted soil CO
+Grid files containing MONTHLY MEAN soil CO
+Grid files containing MONTHLY MEAN soil CO
+Grid files containing predicted DAILY soil CO
+Grid files containing predicted DAILY soil CO
+NetCDF file composed of grids depicting MONTHLY predicted soil CO
+NetCDF file composed of grids depicting predicted DAILY soil CO
+A 0.5 degree lat/lon file with grid cell area information. Units are km
+A 0.5 degree lat/lon file with grid cell area information. Units are km
+A 0.5 degree land cover classification based on Defries et al. (1998). This file was used by the authors in the global summation of soil emissions by land cover type. The file is in ASCII format (Please see section below for description).
+A 0.5 degree land cover classification based on Defries et al. (1998). This file was used by the authors in the global summation of soil emissions by land cover type. The file is in ESRI export format (*e00). (Please see section below for description)
+NCOLS xxx
+NROWS xxx
+XLLCORNER xxx
+YLLCORNER xxx
+CELLSIZE xxx
+{NODATA_VALUE xxx}
+row 1
+row 2
+.
+.
+.
+row n
+These six lines (header) appear in all of the data files, e.g.:
+ncols 720
+nrows 360
+xllcorner -180
+yllcorner -90
+cellsize 0.5
+NODATA_value -9999
+ASCIIGRID (in_ascii_file) (out_grid) {INT | FLOAT}
+Arguments
+(in_ascii_file) - the ASCII file to be converted.
+(out_grid) - the name of the grid to be created.
+{INT | FLOAT} - the data type of the output grid.
+INT - an integer grid will be created.
+FLOAT - a floating-point grid will be created.
+Note: This data can also be imported into ArcView (with Spatial Analyst) and
+ArcGis as ASCII Raster data.
+IMPORT (option) (interchange_file) (output)
+Arguments
+(option) - GRID
+(interchange_file) - the name of the *e00 file to be converted
+(output) - a user specified output file
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 151430 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.ndp081]]></Product_number>
+      <Product_title><![CDATA[Interannual Variability in Global Soil Respiration on a 0.5 Degree Grid Cell Basis (1980-1994) - NDP-081				]]></Product_title>
+      <Author>
+        <Name><![CDATA[Raich, J. W.]]></Name>
+        <Company><![CDATA[Iowa State University]]></Company>
+        <Organization><![CDATA[Department of Ecology, Evolution, and Organismal Biology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Potter, C. S.]]></Name>
+        <Company><![CDATA[Ecosystem Science and Technology Branch]]></Company>
+        <Organization><![CDATA[NASA Ames Research Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bhagawati, D.]]></Name>
+        <Company><![CDATA[Iowa State University]]></Company>
+        <Organization><![CDATA[Department of Civil and Construction Engineering]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Trace Gas Emissions]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Thematic_area><![CDATA[Land Use and Ecosystems]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp081/ndp081.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/daily_dat.tar.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/daily_e00.tar.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/halfarea.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/halfarea.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/landcvr3.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/landcvr3.e00]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/monthly_dat.tar.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/monthly_e00.tar.gz ]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/monthly_means_dat.tar.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/monthly_means_e00.tar.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/sr_daily_0.5degree.nc.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/sr_total_0.5degree.nc.gz]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[MgC/gridcell/month]]></Variable>
+      <Variable><![CDATA[gC/m2/day]]></Variable>
+      <Variable><![CDATA[Mean MgC/gridcell/month]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp081/ndp081.htmlDepartment of Ecology, Evolution, and Organismal Biology
+Iowa State University
+Ames, IA 50011 USA
+Ecosystem Science and Technology Branch
+NASA Ames Research Center
+MS 242-2
+Department of Civil and Construction Engineering
+Iowa State University
+Prepared by L.M. Olsen.
+ = Carbon Dioxide
+CDIAC = Carbon Dioxide Information Analysis Center
+FTP = file transfer protocol
+QA = quality assurance
+GIS = geographic information system
+NetCDF = network common data form
+Used the daily data grids to derive monthly data grids by multiplying them by landarea (halfarea.e00 or halfarea.dat) and number of days per month (methods described by author). When these derived grids were compared with the monthly grids included with this data set, they differed slightly. These differences are probably the result of varying levels of precision in the software used to create them.
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+P.O. Box 2008
+Oak Ridge, Tennessee 37831-6290, U.S.A.
+Telephone: 1-865-574-3645
+Telefax: 1-865-574-2232
+Grid files of MONTHLY predicted soil CO
+Grid files of MONTHLY predicted soil CO
+Grid files containing MONTHLY MEAN soil CO
+Grid files containing MONTHLY MEAN soil CO
+Grid files containing predicted DAILY soil CO
+Grid files containing predicted DAILY soil CO
+NetCDF file composed of grids depicting MONTHLY predicted soil CO
+NetCDF file composed of grids depicting predicted DAILY soil CO
+A 0.5 degree lat/lon file with grid cell area information. Units are km
+A 0.5 degree lat/lon file with grid cell area information. Units are km
+A 0.5 degree land cover classification based on Defries et al. (1998). This file was used by the authors in the global summation of soil emissions by land cover type. The file is in ASCII format (Please see section below for description).
+A 0.5 degree land cover classification based on Defries et al. (1998). This file was used by the authors in the global summation of soil emissions by land cover type. The file is in ESRI export format (*e00). (Please see section below for description)
+NCOLS xxx
+NROWS xxx
+XLLCORNER xxx
+YLLCORNER xxx
+CELLSIZE xxx
+{NODATA_VALUE xxx}
+row 1
+row 2
+.
+.
+.
+row n
+These six lines (header) appear in all of the data files, e.g.:
+ncols 720
+nrows 360
+xllcorner -180
+yllcorner -90
+cellsize 0.5
+NODATA_value -9999
+ASCIIGRID (in_ascii_file) (out_grid) {INT | FLOAT}
+Arguments
+(in_ascii_file) - the ASCII file to be converted.
+(out_grid) - the name of the grid to be created.
+{INT | FLOAT} - the data type of the output grid.
+INT - an integer grid will be created.
+FLOAT - a floating-point grid will be created.
+Note: This data can also be imported into ArcView (with Spatial Analyst) and
+ArcGis as ASCII Raster data.
+IMPORT (option) (interchange_file) (output)
+Arguments
+(option) - GRID
+(interchange_file) - the name of the *e00 file to be converted
+(output) - a user specified output file
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/ndp081.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20030828]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20030828]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp081/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[We used a climate-driven regression model to develop spatially resolved estimates of soil-CO2 emissions from the terrestrial land surface for each month from January 1980 to December 1994, to evaluate the effects of interannual variations in climate on global soil-to-atmosphere CO2 fluxes. The mean annual global soil-CO2 flux over this 15-y period was estimated to be 80.4 (range 79.3-81.8) Pg C. Monthly variations in global soil-CO2 emissions followed closely the mean temperature cycle of the Northern Hemisphere. Globally, soil-CO2 emissions reached their minima in February and peaked in July and August. Tropical and subtropical evergreen broad-leaved forests contributed more soil-derived CO2 to the atmosphere than did any other vegetation type (~30% of the total) and exhibited a biannual cycle in their emissions. Soil-CO2 emissions in other biomes exhibited a single annual cycle that paralleled the seasonal temperature cycle. Interannual variability in estimated global soil-CO2 production is substantially less than is variability in net carbon uptake by plants (i.e., net primary productivity). Thus, soils appear to buffer atmospheric CO2 concentrations against far more dramatic seasonal and interannual differences in plant growth. Within seasonally dry biomes (savannas, bushlands, and deserts), interannual variability in soil-CO2 emmissions correlated significantly with interannual differences in precipitation. At the global scale, however, annual soil-CO2 fluxes correlated with mean annual temperature, with a slope of 3.3 PgCY-1 per degree Celsius. Although the distribution of precipitation influences seasonal and spatial patterns of soil-CO2 emissions, global warming is likely to stimulate CO2 emissions from soils.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

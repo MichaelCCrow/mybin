@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Hanson, P. J.]]></origin>
+        <origin><![CDATA[Todd, D. E.]]></origin>
+        <origin><![CDATA[Riggs, J. S.]]></origin>
+        <origin><![CDATA[Wolfe, M. E.]]></origin>
+        <origin><![CDATA[O'Neill, E. G.]]></origin>
+        <title><![CDATA[Walker Branch Throughfall Displacement Experiment Data Report: Site Characterization, System Performance, Weather, Species Composition, and Growth]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_078A.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Walker Branch Throughfall Displacement Experiment Data Report: Site Characterization, System Performance, Weather, Species Composition, and Growth]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19930101]]></begdate>
+          <enddate><![CDATA[20001231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-84.28]]></westbc>
+        <eastbc><![CDATA[-84.28]]></eastbc>
+        <northbc><![CDATA[35.97]]></northbc>
+        <southbc><![CDATA[35.97]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[forests]]></themekey>
+        <themekey><![CDATA[growth]]></themekey>
+        <themekey><![CDATA[leaf area index]]></themekey>
+        <themekey><![CDATA[litter]]></themekey>
+        <themekey><![CDATA[sapling]]></themekey>
+        <themekey><![CDATA[soil]]></themekey>
+        <themekey><![CDATA[soil temperature]]></themekey>
+        <themekey><![CDATA[soil water content]]></themekey>
+        <themekey><![CDATA[soil water potential]]></themekey>
+        <themekey><![CDATA[tree]]></themekey>
+        <themekey><![CDATA[weather]]></themekey>
+        <themekey><![CDATA[NDP-078A]]></themekey>
+        <themekey><![CDATA[NDP 78]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 151104</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 165212 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[forests]]></Keywords>
+    <Keywords><![CDATA[growth]]></Keywords>
+    <Keywords><![CDATA[leaf area index]]></Keywords>
+    <Keywords><![CDATA[litter]]></Keywords>
+    <Keywords><![CDATA[sapling]]></Keywords>
+    <Keywords><![CDATA[soil]]></Keywords>
+    <Keywords><![CDATA[soil temperature]]></Keywords>
+    <Keywords><![CDATA[soil water content]]></Keywords>
+    <Keywords><![CDATA[soil water potential]]></Keywords>
+    <Keywords><![CDATA[tree]]></Keywords>
+    <Keywords><![CDATA[weather]]></Keywords>
+    <Keywords><![CDATA[NDP-078A]]></Keywords>
+    <Keywords><![CDATA[NDP 78]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Contributed by
+Oak Ridge National Laboratory
+Oak Ridge National Laboratory
+Carbon Dioxide Information Analysis Center
+Date Published: July 2001
+Prepared for the
+Budget Activity Number KP 12 04 01 0
+Prepared by the
+Carbon Dioxide Information Analysis Center
+Oak Ridge, Tennessee 37831-6290
+managed by
+University of Tennessee-Battelle, LLC
+for the
+CDIAC = Carbon Dioxide Information Analysis Center
+CEC = cation exchange capacity
+CLR = canopy light ratio
+dbh = diameter at breast height
+FTP = file transfer protocol
+LAI = leaf area index
+NDP = numeric data package
+PAR = photosynthetically active radiation
+QA = quality assurance
+RelLAI = relative leaf area index
+TDE = Throughfall Displacement Experiment
+TDR = time-domain reflectometer
+CLR = 1-(PARu/PARo) Eq. 1
+RelLAI = (Observed CLR-baseline)/(Maximum CLR-baseline) Eq. 2
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified (other than some values of RHMIN, RHMEAN, and RHMAX &gt;100%).
+Result: No suspect data were identified (other than some values of RHMIN, RHMEAN, and RHMAX &gt;100%).
+Result: Some values of RH &gt;100%; 1502 occurrences of UQUAN &gt; QUAN were detected (with values of UQUAN minus QUAN ranging from 1 to 366 umol m
+Result: Some values of RH &gt;100%; 97 occurrences of UQUAN &gt; QUAN were detected (with values of UQUAN minus QUAN ranging from 1 to 6 umol m
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: All years had some values of relative LAI that were outside the range of 0.00 to 1.00 (minimum of -0.33 in 1994 and maximum of 1.05 in 1998); per instruction from the data contributor, these were set to missing. A few anomalously low values, such as 0.44 on day 289 in 1998, were detected; per instruction from the data contributor, these were not changed.
+ January 14, 1993 14 14 25.5 25.4 24.8 -0.04 -0.04 -0.04 26.2 26.6 26.5
+27.7 28.6 29.0 -0.02 -0.02 -0.02
+ February 24, 1993 55 55 26.6 25.6 25.1 -0.03 -0.04 -0.04 26.0 25.8 26.4
+26.3 26.8 28.5 -0.03 -0.03 -0.02
+ November 1, 2000 2862 306 6.6 -9.9 5.6 -1.83 -9.99 -2.77 -9.9 -9.9 -9.9
+-9.9 -9.9 -9.9 -9.99 -9.99 -9.99
+ December 15, 2000 2906 350 23.0 23.4 22.4 -0.05 -0.05 -0.06 23.8 22.4 21.9
+24.6 21.4 21.4 -0.04 -0.06 -0.06
+ 1993 14 14 26.5 25.9 24.4 26.2 24.6 25.4 24.2 25.5 24.7 -0.037 -0.039
+-0.043 -0.037 -0.045 -0.036 -0.044 -0.038 -0.039
+ 1993 55 55 27.1 26.7 26.5 26.7 24.5 25.4 24.9 25.6 25.1 -0.035 -0.035
+-0.033 -0.035 -0.045 -0.036 -0.040 -0.037 -0.037
+ 2000 306 2862 8.1 -9.9 5.0 -9.9 -9.9 -9.9 6.2 -9.9 4.9 -1.162 -9.999
+-3.641 -9.999 -9.999 -9.999 -2.104 -9.999 -3.632
+ 2000 350 2906 24.7 22.1 22.3 24.3 23.1 22.9 20.6 22.0 19.9 -0.046 -0.063
+-0.058 -0.047 -0.054 -0.050 -0.073 -0.060 -0.077
+ 1993 14 35W B 1 1 0 0 17.8
+ 1993 14 35W B 1 2 0 8 26.6
+ 2000 350 70D U 10 30 72 232 22.0
+ 2000 350 70D U 10 31 72 240 22.7
+W B 2 1 -999 -99.9 -9.9 -999 -99.9 -9.9
+W B 2 2 475 206.5 8.5 697 303.0 12.5
+D U 10 30 651 283.0 11.6 734 319.1 13.1
+D U 10 31 -999 -99.9 -9.9 -999 -99.9 -9.9
+ 1997 21 21.66 A 12.2
+ 1997 21 21.70 A 9.9
+ 2000 349 349.50 D 6.9
+ 2000 349 349.54 D 7.4
+ 1993 1 1 1.00 1 7.0 7.0
+ 1993 1 1 1.04 2 7.0 7.0
+ 1999 1 1 1.00 1 6.1571 7.4550 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -
+9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+ 1999 1 1 1.04 2 6.0109 7.3718 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -
+9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+ 2000 12 366 366.92 8783 -9.9999 -9.9999 3.10 5.50 6.90 7.40 4.20 7.00
+8.20 9.70 3.90 5.80 6.80 7.60
+ 2000 12 366 366.96 8784 -9.9999 -9.9999 3.00 5.50 6.90 7.40 4.10 7.00
+8.20 9.70 3.80 5.80 6.80 7.60
+ 1993 1 384 186 101 -3.3 5.5 16.5 21.5 76.8 101.5 5.0 6.1 7.5 -9.99
+ 1993 2 488 241 50 -11.7 3.8 20.0 16.5 67.9 101.6 6.0 7.8 9.5 -9.99
+ 2000 11 439 232 104 -6.5 8.0 25.1 15.0 68.4 100.0 6.7 12.2 17.8 1.40
+ 2000 12 376 189 75 -12.4 -0.5 11.5 31.7 71.2 99.8 3.2 6.7 10.0 1.60
+ 1993 1 8.04 3.61 66.8359 1.0 1.6 4.8 9.7 65.2 74.9 84.3 6.9
+6.9 7.0 -9.9
+ 1993 2 8.04 3.61 66.8359 0.0 1.6 4.9 9.7 65.2 75.0 84.3 6.7
+6.8 6.9 -9.9
+ 2000 365 8.90 4.70 57.0000 0.0 -10.5 -8.2 -6.3 63.0 71.1 83.3 3.7
+4.0 4.7 2.1
+ 2000 366 14.30 7.60 85.0000 0.0 -8.7 -6.3 -3.3 57.3 72.6 85.4 3.2
+3.6 3.9 1.4
+ 1993 1 1 1.00 0 0 0 -99 2.6 71.2 0.0 -9.9 7.0 0.213 -99
+ 1993 1 1 1.04 1 0 0 -99 2.4 71.8 0.0 2.6 7.0 0.206 -99
+ 1999 12 365 365.96 8759 0 0 0 11.2 65.9 0.0 2.5 9.7 0.454 0
+ 1999 12 365 366.00 8760 0 0 0 11.4 64.6 0.0 2.5 9.8 0.454 0
+ 2000 1 1 1.04 1 0 0 0 11.1 66.1 0.0 2.3 9.4 0.449 0
+ 2000 1 1 1.08 2 0 0 0 10.4 69.0 0.0 2.1 9.3 0.392 0
+ 2000 12 366 366.96 8783 0 0 0 -5.6 70.3 0.0 1.6 3.6 0.120 0
+ 2000 12 366 367.00 8784 0 0 0 -5.9 73.8 0.0 1.7 3.6 0.104 0
+ 30.0AR W U 8 2 61.6 11.9 -99.9 -99.9 9.9 9.9 10.9 11.4 12.1
+12.7 13.5
+ 32.0AR A B 2 16 15.1 122.5 -99.9 -99.9 10.4 10.4 11.5 12.3 12.9
+13.1 13.7
+ 6019.0CF D B 1 24 2.5 189.6 -99.9 -99.9 -99.9 -99.9 9.8 10.1 11.3
+10.3 10.4
+ 6020.0OA D B 1 23 0.8 182.4 -99.9 -99.9 -99.9 -99.9 12.1 12.2 12.5
+12.8 12.9
+ 1.0AR W U 9 2 1 2.12 2.32 -9.99 -9.99
+ 2.0AR W U 9 2 2 2.96 2.95 -9.99 -9.99
+>
+ 597.0QV D B 3 27 13 4.17 4.18 4.40 4.44
+ 598.0Carya D B 3 27 14 1.52 1.50 1.60 1.61
+ 1993 51AR A M 5 12 2673
+ 1993 52AR A M 5 12 2462
+ 2000 2992QA A M 6 13 1576
+ 2000 2996QP W M 5 9 2157
+1994 3001 AR W U 10 1 0.122
+1994 3002 AR A U 10 11 0.090
+2000 4027a CF A M 6 14 -9.999
+2000 5015a CF W B 3 8 -9.999
+ 1992 85 -9.99
+ 1992 86 -9.99
+ 2000 349 -9.99
+ 2000 350 -9.99
+/*** retrieval routine to read sw.dat ***/
+data sw ;
+infile '/home/cdp/ndp078a/sw.dat' ;
+input DATE $ 1-18 RDOY 19-23 DOY 24-27 W35WC 28-32 A35WC 33-37 D35WC 38-42
+ W35WP 43-48 A35WP 49-54 D35WP 55-60 W70WC 61-65 A70WC 66-70 D70WC 71-75
+ W3570WC 76-80 A3570WC 81-85 D3570WC 86-90 W3570WP 91-96 A3570WP 97-102
+ D3570WP 103-108 ;
+run ;
+C *** Fortran program to read the NDP-078a file "sw.dat"
+C
+ INTEGER RDOY, DOY
+ REAL W35WC, A35WC, D35WC, W35WP, A35WP, D35WP, W70WC,
+ + A70WC, D70WC, W3570WC, A3570WC, D3570WC, W3570WP,
+ + A3570WP, D3570WP
+ CHARACTER DATE*18
+C
+ OPEN (UNIT=1, FILE='sw.dat')
+C
+ 10 READ (1,100,END=99) DATE, RDOY, DOY, W35WC, A35WC, D35WC,
+ + W35WP, A35WP, D35WP, W70WD, A70WC, D70WC, W3570WC, A3570WC,
+ + D3570WC, W3570WP, A3570WP, D3570WP
+ 100 FORMAT (A18,I5,I4,3F5.1,3F6.2,6F5.1,3F6.2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read nine.dat ***/
+data nine ;
+infile '/home/cdp/ndp078a/nine.dat' ;
+input YEAR 1-5 DOY 6-9 RDOY 10-14 WBWC 15-19 WMWC 20-24 WUWC 25-29
+ ABWC 30-34 AMWC 35-39 AUWC 40-44 DBWC 45-49 DMWC 50-54 DUWC 55-59
+ WBWP 60-66 WMWP 67-73 WUWP 74-80 ABWP 81-87 AMWP 88-94
+ AUWP 95-101 DBWP 102-108 DMWP 109-115 DUWP 116-122 ;
+run ;
+C *** Fortran program to read the NDP-078a file "nine.dat"
+C
+ INTEGER YEAR, DOY, RDOY
+ REAL WBWC, WMWC, WUWC, ABWC, AUWC, DBWC, DMWC, DUWC,
+ + WBWP, WMWP, WUWP, ABWP, AMWP, AUWP, DBWP, EMWP,
+ + DUWP
+C
+ OPEN (UNIT=1, FILE='nine.dat')
+C
+ 10 READ (1,100,END=99) YEAR, DOY, RDOY, WBWC, WMWC, WUWC,
+ + ABWC, AMWC, AUWC, DBWC, DMWC, DUWC, WBWP, WMWP, WUWP,
+ + ABWP, AMWP, AUWP, DBWP, DMWP, DUWP
+ 100 FORMAT (I5,I4,I5,9F5.1,9F7.3)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read tdr.dat ***/
+data tdr ;
+infile '/home/cdp/ndp078a/tdr.dat' ;
+input YEAR 1-5 DOY 6-9 DEPTH 10-12 TREAT $ 13-14 SLOPE $ 15-16 Y 17-19
+ &amp;times; 20-22 YM 23-25 XM 26-29 SWC 30-34 ;
+run ;
+C *** Fortran program to read the NDP-078a file "tdr.dat"
+C
+ INTEGER YEAR, DOY, DEPTH, Y, X, YM, XM
+ REAL SWC
+ CHARACTER TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='tdr.test')
+C
+ 10 READ (1,100,END=99) YEAR, DOY, DEPTH, TREAT, SLOPE,
+ + Y, X, YM, XM, SWC
+ 100 FORMAT (I5,I4,I3,2A2,3I3,I4,F5.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read rocks.dat ***/
+data rocks ;
+infile '/home/cdp/ndp078a/rocks.dat' ;
+input TREAT $ 1-2 SLOPE $ 3-4 Y 5-7 &amp;times; 8-10
+ CFMASS30 11-15 CFVOL30 16-21 CFPCT30 22-26
+ CFMASS60 27-31 CFVOL60 32-37 CFPCT60 38-42 ;
+run ;
+C *** Fortran program to read the NDP-078a file "rocks.dat"
+C
+ INTEGER Y, X, CFMASS30, CFMASS60
+ REAL CFVOL30, CFPCT30, CFVOL60, CFPCT60
+ CHARACTER TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='rocks.dat')
+C
+ 10 READ (1,100,END=99) TREAT, SLOPE, Y, X, CFMASS30,
+ + CFVOL30, CFPCT30, CFMASS60, CFVOL60, CFPCT60
+ 100 FORMAT (2A2,2I3,2(I5,F6.1,F5.1))
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read littert.dat ***/
+data littert ;
+infile '/home/cdp/ndp078a/littert.dat' ;
+input YEAR 1-5 DOY 6-9 DFOY 10-16 TREAT $ 17-18 LITTERT 19-24 ;
+run ;
+C *** Fortran program to read the NDP-078a file "littert.dat"
+C
+ INTEGER YEAR, DOY
+ REAL DFOY
+ CHARACTER TREAT*2
+C
+ OPEN (UNIT=1, FILE='littert.dat')
+C
+ 10 READ (1,100,END=99) YEAR, DOY, DFOY, TREAT, LITTERT
+ 100 FORMAT (I5,I4,F7.2,A2,F6.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+*** retrieval routine to read st9398.dat ***/
+data st9398 ;
+infile '/home/cdp/ndp078a/st9398.dat' ;
+input YEAR 1-5 MOY 6-8 DOY 9-12 DFOY 13-19 HOY 20-24
+ ST10 25-30 ST35 31-36 ;
+run ;
+C *** Fortran program to read the NDP-078a file "st9398.dat"
+C
+ INTEGER YEAR, MOY, DOY, HOY
+ REAL DFOY, ST10, ST35
+C
+ OPEN (UNIT=1, FILE='st9398.dat')
+C
+ 10 READ (1,100,END=99) YEAR, MOY, DOY, DFOY, HOY, ST10, ST35
+ 100 FORMAT (I5,I3,I4,F7.2,I5,2F6.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read st9900.dat ***/
+data st9900 ;
+infile '/home/cdp/ndp078a/st9900.dat' ;
+input YEAR 1-5 MOY 6-8 DOY 9-12 DFOY 13-19 HOY 20-24
+ ST10 25-32 ST27 33-40 STW6 41-46 STW31 47-52
+ STW55 53-58 STW72 59-64 STA7 65-70 STA32 71-76
+ STA59 77-82 STA100 83-88 STD9 89-94 STD30 95-100
+ STD45 101-106 STD63 107-112 ;
+run ;
+C *** Fortran program to read the NDP-078a file "st9900.dat"
+C
+ INTEGER YEAR, MOY, DOY, HOY
+ REAL DFOY, ST10, ST27, STW6, STW31, STW55, STW72,
+ + STA7, STA32, STA59, STA100, STD9, STD30, STD45, STD63
+C
+ OPEN (UNIT=1, FILE='st9900.dat')
+C
+ 10 READ (1,100,END=99) YEAR, MOY, DOY, DFOY, HOY, ST10, ST27,
+ + STW6, STW31, STW55, STW72, STA7, STA32, STA59, STA100,
+ + STD9, STD30, STD45, STD63
+ 100 FORMAT (I5,I3,I4,F7.2,I5,2F8.4,12F6.2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read mweather.dat ***/
+data mweather ;
+infile '/home/cdp/ndp078a/mweather.dat' ;
+input YEAR 1-5 MONTH 6-8 QUAN 9-13 PYRAN 14-17 RAIN 18-21
+ ATMIN 22-27 ATMEAN 28-32 ATMAX 33-37 RHMIN 38-42
+ RHMEAN 43-47 RHMAX 48-53 STMIN 54-58 STMEAN 59-63
+ STMAX 64-68 WIND 69-74;
+run ;
+C *** Fortran program to read the NDP-078a file "mweather.dat"
+C
+ INTEGER YEAR, MONTH, QUAN, PYRAN, RAIN
+ REAL ATMIN, ATMEAN, ATMAX, RHMIN, RHMEAN, RHMAX,
+ + STMIN, STMEAN, STMAX, WIND
+C
+ OPEN (UNIT=1, FILE='mweather.dat')
+C
+ 10 READ (1,100,END=99) YEAR, MONTH, QUAN, PYRAN, RAIN,
+ + ATMIN, ATMEAN, ATMAX, RHMIN, RHMEAN, RHMAX, STMIN,
+ + STMEAN, STMAX, WIND
+ 100 FORMAT (I5,I3,I5,2I4,F6.1,4F5.1,F6.1,3F5.1,F6.2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read dweather.dat ***/
+data dweather ;
+infile '/home/cdp/ndp078a/dweather.dat' ;
+input YEAR 1-5 DOY 6-9 QUAN 10-15 PYRAN 16-21 RADMEAN 22-31
+ RAIN 32-37 ATMIN 38-43 ATMEAN 44-49 ATMAX 50-54 RHMIN 55-60
+ RHMEAN 61-66 RHMAX 67-72 STMIN 73-77 STMEAN 78-82
+ STMAX 83-87 WIND 88-92 ;
+run ;
+C *** Fortran program to read the NDP-078a file "dweather.dat"
+C
+ INTEGER YEAR, DOY, RAIN
+ REAL QUAN, PYRAN, RADMEAN, ATMIN, ATMEAN, ATMAX, RHMIN,
+ + RHMEAN, RHMAX, STMIN, STMEAN, STMAX, WIND
+C
+ OPEN (UNIT=1, FILE='dweather.dat')
+C
+ 10 READ (1,100,END=99) YEAR, DOY, QUAN, PYRAN, RADMEAN,
+ + RAIN, ATMIN, ATMEAN, ATMAX, RHMIN, RHMEAN, RHMAX, STMIN,
+ + STMEAN, STMAX, WIND
+ 100 FORMAT (I5,I4,2F6.2,F10.4,3F6.1,F5.1,3F6.1,4F5.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read hw9399.dat ***/
+data hw9399 ;
+infile '/home/cdp/ndp078a/hw9399.dat' ;
+input YEAR 1-5 MOY 6-8 DOY 9-12 DFOY 13-19 HOY 20-24
+ QUAN 25-29 PYRAN 30-34 UQUAN 35-39 AT 40-45
+ RH 46-51 RAIN 52-56 WIND 57-61 ST 62-66
+ VPD 67-73 SWISIS 74-78;
+run ;
+C *** Fortran program to read the NDP-078a file "hw9399.dat"
+C
+ INTEGER YEAR, MOY, DOY, HOY, QUAN, PYRAN, UQUAN, SWISIS
+ REAL DFOY, AT, RH, RAIN, WIND, ST, VPD
+C
+ OPEN (UNIT=1, FILE='hw9399.dat')
+C
+ 10 READ (1,100,END=99) YEAR, MOY, DOY, DFOY, HOY, QUAN,
+ + PYRAN, UQUAN, AT, RH, RAIN, WIND, ST, VPD, SWISIS
+ 100 FORMAT (I5,I3,I4,F7.2,4I5,2F6.1,3F5.1,F7.3,I5)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read hw00.dat ***/
+data hw00 ;
+infile '/home/cdp/ndp078a/hw00.dat' ;
+input YEAR 1-5 MOY 6-8 DOY 9-12 DFOY 13-19 HOY 20-24
+ QUAN 25-29 PYRAN 30-34 UQUAN 35-39 AT 40-45
+ RH 46-51 RAIN 52-56 WIND 57-61 ST 62-66
+ VPD 67-73 SWISIS 74-78;
+run ;
+C *** Fortran program to read the NDP-078a file "hw00.dat"
+C
+ INTEGER YEAR, MOY, DOY, HOY, QUAN, PYRAN, UQUAN, SWISIS
+ REAL DFOY, AT, RH, RAIN, WIND, ST, VPD
+C
+ OPEN (UNIT=1, FILE='hw00.dat')
+C
+ 10 READ (1,100,END=99) YEAR, MOY, DOY, DFOY, HOY, QUAN,
+ + PYRAN, UQUAN, AT, RH, RAIN, WIND, ST, VPD, SWISIS
+ 100 FORMAT (I5,I3,I4,F7.2,4I5,2F6.1,3F5.1,F7.3,I5)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read comptree.dat ***/
+data comptree ;
+infile '/home/cdp/ndp078a/comptree.dat' ;
+input ID 1-7 SPC $ 8-15 TREAT $ 16-17 SLOPE $ 18-19 Y 20-22 &amp;times; 23-25
+ YM 26-30 XM 31-36 D010693 37-42 D010694 43-48 D011294 49-54
+ D010695 55-60 D010796 61-66 D010797 67-72 D010998 73-78
+ D011299 79-84 D290101 85-90 ;
+run ;
+C *** Fortran program to read the NDP-078a file "comptree.dat"
+C
+ INTEGER Y, X
+ REAL ID, YM, XM, D010693, D010694, D011294, D010695,
+ + D010796, D010797, D010998, D011299, D290101
+ CHARACTER SPC*8, TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='comptree.dat')
+C
+ 10 READ (1,100,END=99) ID, SPC, TREAT, SLOPE, Y, X, YM,
+ + XM, D010693, D010694, D011294, D010695, D010796,
+ + D010797, D010998, D011299, D290101
+ 100 FORMAT (F7.1,A8,2A2,2I3,F5.1,10F6.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read compsap.dat ***/
+data compsap ;
+infile '/home/cdp/ndp078a/compsap.dat' ;
+input ORDER 1-6 SPC $ 7-15 TREAT $ 16-17 SLOPE $ 18-19 Y 20-21 &amp;times; 22-24
+ PLOTID 25-27 D1996 28-33 D1997 34-39 D1998 40-45 D1999 46-51 ;
+run ;
+C *** Fortran program to read the NDP-078a file "compsap.dat"
+C
+ INTEGER ORDER, Y, X, PLOTID
+ REAL D1996, D1997, D1998, D1999
+ CHARACTER SPC*9, TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='compsap.dat')
+C
+ 10 READ (1,100,END=99) ORDER, SPC, TREAT, SLOPE, Y, X,
+ + PLOTID, D1996, D1997, D1998, D1999
+ 100 FORMAT (F6.1,A9,2A2,I2,2I3,4F6.2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read atree.dat ***/
+data atree ;
+infile '/home/cdp/ndp078a/atree.dat' ;
+input YEAR 1-5 ID 6-10 SPC $ 11-13 TREAT $ 14-15 SLOPE $ 16-17 Y 18-20 &amp;times; 21-23
+ GROWTH 24-29 ;
+run ;
+C *** Fortran program to read the NDP-078a file "atree.dat"
+C
+ INTEGER YEAR, ID, Y, X, GROWTH
+ CHARACTER SPC*3, TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='atree.dat')
+C
+ 10 READ (1,100,END=99) YEAR, ID, SPC, TREAT, SLOPE,
+ + Y, X, GROWTH
+ 100 FORMAT (2I5,A3,2A2,2I3,I6)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read asapling.dat ***/
+data asapling ;
+infile '/home/cdp/ndp078a/asapling.dat' ;
+input YEAR 1-4 ID $5-12 SPC $ 13-15 TREAT $ 16-17 SLOPE $ 18-19 Y 20-22
+ &amp;times; 23-25 GROWTH 26-32 ;
+run ;
+C *** Fortran program to read the NDP-078a file "asapling.dat"
+C
+ INTEGER YEAR, Y, X
+ REAL GROWTH
+ CHARACTER ID*7, SPC*3, TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='asapling.dat')
+C
+ 10 READ (1,100,END=99) YEAR, ID, SPC, TREAT, SLOPE,
+ + Y, X, GROWTH
+ 100 FORMAT (I4,A8,A3,2A2,2I3,F7.3)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read rellai.dat ***/
+data rellai ;
+infile '/home/cdp/ndp078a/rellai.dat' ;
+input YEAR 1-5 DOY 6-9 RELLAI 10-15 ;
+run ;
+C *** Fortran program to read the NDP-078a file "rellai.dat"
+C
+ INTEGER YEAR, DOY
+ REAL RELLAI
+C
+ OPEN (UNIT=1, FILE='rellai.dat')
+C
+ 10 READ (1,100,END=99) YEAR, DOY, RELLAI
+ 100 FORMAT (I5,I4,F6.2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 165212 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_078A.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/vrc.ndp078]]></Product_number>
+      <Product_title><![CDATA[Walker Branch Throughfall Displacement Experiment Data Report: Site Characterization, System Performance, Weather, Species Composition, and Growth]]></Product_title>
+      <Author>
+        <Name><![CDATA[Hanson, P. J.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Todd, D. E.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Riggs, J. S.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Instrumentation and Controls Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wolfe, M. E.]]></Name>
+        <Company><![CDATA[Tennessee Valley Authority]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[O'Neill, E. G.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation Response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[East Tennessee ]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp078a/ndp078a.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/asapling.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/atree.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/compsap.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/comptree.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/dweather.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/hw00.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/hw9399.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/littert.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/mweather.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/nine.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/rellai.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/rocks.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/st9398.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/st9900.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/tdeambi.csi]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/tdeambi.dldsw.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/tdr.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[AIR TEMPERATURE]]></Variable>
+      <Variable><![CDATA[LEAF AREA INDEX]]></Variable>
+      <Variable><![CDATA[LITTER LAYER TEMPERATURE]]></Variable>
+      <Variable><![CDATA[PHOTOSYNTHETICALLY ACTIVE RADIATION]]></Variable>
+      <Variable><![CDATA[RAIN]]></Variable>
+      <Variable><![CDATA[RELATIVE HUMIDITY]]></Variable>
+      <Variable><![CDATA[SHORTWAVE RADIATION]]></Variable>
+      <Variable><![CDATA[SOIL ROCK CONTENT]]></Variable>
+      <Variable><![CDATA[SOIL TEMPERATURE]]></Variable>
+      <Variable><![CDATA[SOIL WATER CONTENT]]></Variable>
+      <Variable><![CDATA[SOIL WATER POTENTIAL]]></Variable>
+      <Variable><![CDATA[SPECIES COMPOSITION]]></Variable>
+      <Variable><![CDATA[TOTAL RADIATION]]></Variable>
+      <Variable><![CDATA[TREE GROWTH]]></Variable>
+      <Variable><![CDATA[VAPOR PRESSURE DEFICIT]]></Variable>
+      <Variable><![CDATA[WIND SPEED]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp078a/ndp078a.htmlContributed by
+Oak Ridge National Laboratory
+Oak Ridge National Laboratory
+Carbon Dioxide Information Analysis Center
+Date Published: July 2001
+Prepared for the
+Budget Activity Number KP 12 04 01 0
+Prepared by the
+Carbon Dioxide Information Analysis Center
+Oak Ridge, Tennessee 37831-6290
+managed by
+University of Tennessee-Battelle, LLC
+for the
+CDIAC = Carbon Dioxide Information Analysis Center
+CEC = cation exchange capacity
+CLR = canopy light ratio
+dbh = diameter at breast height
+FTP = file transfer protocol
+LAI = leaf area index
+NDP = numeric data package
+PAR = photosynthetically active radiation
+QA = quality assurance
+RelLAI = relative leaf area index
+TDE = Throughfall Displacement Experiment
+TDR = time-domain reflectometer
+CLR = 1-(PARu/PARo) Eq. 1
+RelLAI = (Observed CLR-baseline)/(Maximum CLR-baseline) Eq. 2
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified (other than some values of RHMIN, RHMEAN, and RHMAX &gt;100%).
+Result: No suspect data were identified (other than some values of RHMIN, RHMEAN, and RHMAX &gt;100%).
+Result: Some values of RH &gt;100%; 1502 occurrences of UQUAN &gt; QUAN were detected (with values of UQUAN minus QUAN ranging from 1 to 366 umol m
+Result: Some values of RH &gt;100%; 97 occurrences of UQUAN &gt; QUAN were detected (with values of UQUAN minus QUAN ranging from 1 to 6 umol m
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: No suspect data were identified.
+Result: All years had some values of relative LAI that were outside the range of 0.00 to 1.00 (minimum of -0.33 in 1994 and maximum of 1.05 in 1998); per instruction from the data contributor, these were set to missing. A few anomalously low values, such as 0.44 on day 289 in 1998, were detected; per instruction from the data contributor, these were not changed.
+ January 14, 1993 14 14 25.5 25.4 24.8 -0.04 -0.04 -0.04 26.2 26.6 26.5
+27.7 28.6 29.0 -0.02 -0.02 -0.02
+ February 24, 1993 55 55 26.6 25.6 25.1 -0.03 -0.04 -0.04 26.0 25.8 26.4
+26.3 26.8 28.5 -0.03 -0.03 -0.02
+ November 1, 2000 2862 306 6.6 -9.9 5.6 -1.83 -9.99 -2.77 -9.9 -9.9 -9.9
+-9.9 -9.9 -9.9 -9.99 -9.99 -9.99
+ December 15, 2000 2906 350 23.0 23.4 22.4 -0.05 -0.05 -0.06 23.8 22.4 21.9
+24.6 21.4 21.4 -0.04 -0.06 -0.06
+ 1993 14 14 26.5 25.9 24.4 26.2 24.6 25.4 24.2 25.5 24.7 -0.037 -0.039
+-0.043 -0.037 -0.045 -0.036 -0.044 -0.038 -0.039
+ 1993 55 55 27.1 26.7 26.5 26.7 24.5 25.4 24.9 25.6 25.1 -0.035 -0.035
+-0.033 -0.035 -0.045 -0.036 -0.040 -0.037 -0.037
+ 2000 306 2862 8.1 -9.9 5.0 -9.9 -9.9 -9.9 6.2 -9.9 4.9 -1.162 -9.999
+-3.641 -9.999 -9.999 -9.999 -2.104 -9.999 -3.632
+ 2000 350 2906 24.7 22.1 22.3 24.3 23.1 22.9 20.6 22.0 19.9 -0.046 -0.063
+-0.058 -0.047 -0.054 -0.050 -0.073 -0.060 -0.077
+ 1993 14 35W B 1 1 0 0 17.8
+ 1993 14 35W B 1 2 0 8 26.6
+ 2000 350 70D U 10 30 72 232 22.0
+ 2000 350 70D U 10 31 72 240 22.7
+W B 2 1 -999 -99.9 -9.9 -999 -99.9 -9.9
+W B 2 2 475 206.5 8.5 697 303.0 12.5
+D U 10 30 651 283.0 11.6 734 319.1 13.1
+D U 10 31 -999 -99.9 -9.9 -999 -99.9 -9.9
+ 1997 21 21.66 A 12.2
+ 1997 21 21.70 A 9.9
+ 2000 349 349.50 D 6.9
+ 2000 349 349.54 D 7.4
+ 1993 1 1 1.00 1 7.0 7.0
+ 1993 1 1 1.04 2 7.0 7.0
+ 1999 1 1 1.00 1 6.1571 7.4550 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -
+9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+ 1999 1 1 1.04 2 6.0109 7.3718 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -
+9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+ 2000 12 366 366.92 8783 -9.9999 -9.9999 3.10 5.50 6.90 7.40 4.20 7.00
+8.20 9.70 3.90 5.80 6.80 7.60
+ 2000 12 366 366.96 8784 -9.9999 -9.9999 3.00 5.50 6.90 7.40 4.10 7.00
+8.20 9.70 3.80 5.80 6.80 7.60
+ 1993 1 384 186 101 -3.3 5.5 16.5 21.5 76.8 101.5 5.0 6.1 7.5 -9.99
+ 1993 2 488 241 50 -11.7 3.8 20.0 16.5 67.9 101.6 6.0 7.8 9.5 -9.99
+ 2000 11 439 232 104 -6.5 8.0 25.1 15.0 68.4 100.0 6.7 12.2 17.8 1.40
+ 2000 12 376 189 75 -12.4 -0.5 11.5 31.7 71.2 99.8 3.2 6.7 10.0 1.60
+ 1993 1 8.04 3.61 66.8359 1.0 1.6 4.8 9.7 65.2 74.9 84.3 6.9
+6.9 7.0 -9.9
+ 1993 2 8.04 3.61 66.8359 0.0 1.6 4.9 9.7 65.2 75.0 84.3 6.7
+6.8 6.9 -9.9
+ 2000 365 8.90 4.70 57.0000 0.0 -10.5 -8.2 -6.3 63.0 71.1 83.3 3.7
+4.0 4.7 2.1
+ 2000 366 14.30 7.60 85.0000 0.0 -8.7 -6.3 -3.3 57.3 72.6 85.4 3.2
+3.6 3.9 1.4
+ 1993 1 1 1.00 0 0 0 -99 2.6 71.2 0.0 -9.9 7.0 0.213 -99
+ 1993 1 1 1.04 1 0 0 -99 2.4 71.8 0.0 2.6 7.0 0.206 -99
+ 1999 12 365 365.96 8759 0 0 0 11.2 65.9 0.0 2.5 9.7 0.454 0
+ 1999 12 365 366.00 8760 0 0 0 11.4 64.6 0.0 2.5 9.8 0.454 0
+ 2000 1 1 1.04 1 0 0 0 11.1 66.1 0.0 2.3 9.4 0.449 0
+ 2000 1 1 1.08 2 0 0 0 10.4 69.0 0.0 2.1 9.3 0.392 0
+ 2000 12 366 366.96 8783 0 0 0 -5.6 70.3 0.0 1.6 3.6 0.120 0
+ 2000 12 366 367.00 8784 0 0 0 -5.9 73.8 0.0 1.7 3.6 0.104 0
+ 30.0AR W U 8 2 61.6 11.9 -99.9 -99.9 9.9 9.9 10.9 11.4 12.1
+12.7 13.5
+ 32.0AR A B 2 16 15.1 122.5 -99.9 -99.9 10.4 10.4 11.5 12.3 12.9
+13.1 13.7
+ 6019.0CF D B 1 24 2.5 189.6 -99.9 -99.9 -99.9 -99.9 9.8 10.1 11.3
+10.3 10.4
+ 6020.0OA D B 1 23 0.8 182.4 -99.9 -99.9 -99.9 -99.9 12.1 12.2 12.5
+12.8 12.9
+ 1.0AR W U 9 2 1 2.12 2.32 -9.99 -9.99
+ 2.0AR W U 9 2 2 2.96 2.95 -9.99 -9.99
+>
+ 597.0QV D B 3 27 13 4.17 4.18 4.40 4.44
+ 598.0Carya D B 3 27 14 1.52 1.50 1.60 1.61
+ 1993 51AR A M 5 12 2673
+ 1993 52AR A M 5 12 2462
+ 2000 2992QA A M 6 13 1576
+ 2000 2996QP W M 5 9 2157
+1994 3001 AR W U 10 1 0.122
+1994 3002 AR A U 10 11 0.090
+2000 4027a CF A M 6 14 -9.999
+2000 5015a CF W B 3 8 -9.999
+ 1992 85 -9.99
+ 1992 86 -9.99
+ 2000 349 -9.99
+ 2000 350 -9.99
+/*** retrieval routine to read sw.dat ***/
+data sw ;
+infile '/home/cdp/ndp078a/sw.dat' ;
+input DATE $ 1-18 RDOY 19-23 DOY 24-27 W35WC 28-32 A35WC 33-37 D35WC 38-42
+ W35WP 43-48 A35WP 49-54 D35WP 55-60 W70WC 61-65 A70WC 66-70 D70WC 71-75
+ W3570WC 76-80 A3570WC 81-85 D3570WC 86-90 W3570WP 91-96 A3570WP 97-102
+ D3570WP 103-108 ;
+run ;
+C *** Fortran program to read the NDP-078a file "sw.dat"
+C
+ INTEGER RDOY, DOY
+ REAL W35WC, A35WC, D35WC, W35WP, A35WP, D35WP, W70WC,
+ + A70WC, D70WC, W3570WC, A3570WC, D3570WC, W3570WP,
+ + A3570WP, D3570WP
+ CHARACTER DATE*18
+C
+ OPEN (UNIT=1, FILE='sw.dat')
+C
+ 10 READ (1,100,END=99) DATE, RDOY, DOY, W35WC, A35WC, D35WC,
+ + W35WP, A35WP, D35WP, W70WD, A70WC, D70WC, W3570WC, A3570WC,
+ + D3570WC, W3570WP, A3570WP, D3570WP
+ 100 FORMAT (A18,I5,I4,3F5.1,3F6.2,6F5.1,3F6.2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read nine.dat ***/
+data nine ;
+infile '/home/cdp/ndp078a/nine.dat' ;
+input YEAR 1-5 DOY 6-9 RDOY 10-14 WBWC 15-19 WMWC 20-24 WUWC 25-29
+ ABWC 30-34 AMWC 35-39 AUWC 40-44 DBWC 45-49 DMWC 50-54 DUWC 55-59
+ WBWP 60-66 WMWP 67-73 WUWP 74-80 ABWP 81-87 AMWP 88-94
+ AUWP 95-101 DBWP 102-108 DMWP 109-115 DUWP 116-122 ;
+run ;
+C *** Fortran program to read the NDP-078a file "nine.dat"
+C
+ INTEGER YEAR, DOY, RDOY
+ REAL WBWC, WMWC, WUWC, ABWC, AUWC, DBWC, DMWC, DUWC,
+ + WBWP, WMWP, WUWP, ABWP, AMWP, AUWP, DBWP, EMWP,
+ + DUWP
+C
+ OPEN (UNIT=1, FILE='nine.dat')
+C
+ 10 READ (1,100,END=99) YEAR, DOY, RDOY, WBWC, WMWC, WUWC,
+ + ABWC, AMWC, AUWC, DBWC, DMWC, DUWC, WBWP, WMWP, WUWP,
+ + ABWP, AMWP, AUWP, DBWP, DMWP, DUWP
+ 100 FORMAT (I5,I4,I5,9F5.1,9F7.3)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read tdr.dat ***/
+data tdr ;
+infile '/home/cdp/ndp078a/tdr.dat' ;
+input YEAR 1-5 DOY 6-9 DEPTH 10-12 TREAT $ 13-14 SLOPE $ 15-16 Y 17-19
+ &amp;times; 20-22 YM 23-25 XM 26-29 SWC 30-34 ;
+run ;
+C *** Fortran program to read the NDP-078a file "tdr.dat"
+C
+ INTEGER YEAR, DOY, DEPTH, Y, X, YM, XM
+ REAL SWC
+ CHARACTER TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='tdr.test')
+C
+ 10 READ (1,100,END=99) YEAR, DOY, DEPTH, TREAT, SLOPE,
+ + Y, X, YM, XM, SWC
+ 100 FORMAT (I5,I4,I3,2A2,3I3,I4,F5.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read rocks.dat ***/
+data rocks ;
+infile '/home/cdp/ndp078a/rocks.dat' ;
+input TREAT $ 1-2 SLOPE $ 3-4 Y 5-7 &amp;times; 8-10
+ CFMASS30 11-15 CFVOL30 16-21 CFPCT30 22-26
+ CFMASS60 27-31 CFVOL60 32-37 CFPCT60 38-42 ;
+run ;
+C *** Fortran program to read the NDP-078a file "rocks.dat"
+C
+ INTEGER Y, X, CFMASS30, CFMASS60
+ REAL CFVOL30, CFPCT30, CFVOL60, CFPCT60
+ CHARACTER TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='rocks.dat')
+C
+ 10 READ (1,100,END=99) TREAT, SLOPE, Y, X, CFMASS30,
+ + CFVOL30, CFPCT30, CFMASS60, CFVOL60, CFPCT60
+ 100 FORMAT (2A2,2I3,2(I5,F6.1,F5.1))
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read littert.dat ***/
+data littert ;
+infile '/home/cdp/ndp078a/littert.dat' ;
+input YEAR 1-5 DOY 6-9 DFOY 10-16 TREAT $ 17-18 LITTERT 19-24 ;
+run ;
+C *** Fortran program to read the NDP-078a file "littert.dat"
+C
+ INTEGER YEAR, DOY
+ REAL DFOY
+ CHARACTER TREAT*2
+C
+ OPEN (UNIT=1, FILE='littert.dat')
+C
+ 10 READ (1,100,END=99) YEAR, DOY, DFOY, TREAT, LITTERT
+ 100 FORMAT (I5,I4,F7.2,A2,F6.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+*** retrieval routine to read st9398.dat ***/
+data st9398 ;
+infile '/home/cdp/ndp078a/st9398.dat' ;
+input YEAR 1-5 MOY 6-8 DOY 9-12 DFOY 13-19 HOY 20-24
+ ST10 25-30 ST35 31-36 ;
+run ;
+C *** Fortran program to read the NDP-078a file "st9398.dat"
+C
+ INTEGER YEAR, MOY, DOY, HOY
+ REAL DFOY, ST10, ST35
+C
+ OPEN (UNIT=1, FILE='st9398.dat')
+C
+ 10 READ (1,100,END=99) YEAR, MOY, DOY, DFOY, HOY, ST10, ST35
+ 100 FORMAT (I5,I3,I4,F7.2,I5,2F6.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read st9900.dat ***/
+data st9900 ;
+infile '/home/cdp/ndp078a/st9900.dat' ;
+input YEAR 1-5 MOY 6-8 DOY 9-12 DFOY 13-19 HOY 20-24
+ ST10 25-32 ST27 33-40 STW6 41-46 STW31 47-52
+ STW55 53-58 STW72 59-64 STA7 65-70 STA32 71-76
+ STA59 77-82 STA100 83-88 STD9 89-94 STD30 95-100
+ STD45 101-106 STD63 107-112 ;
+run ;
+C *** Fortran program to read the NDP-078a file "st9900.dat"
+C
+ INTEGER YEAR, MOY, DOY, HOY
+ REAL DFOY, ST10, ST27, STW6, STW31, STW55, STW72,
+ + STA7, STA32, STA59, STA100, STD9, STD30, STD45, STD63
+C
+ OPEN (UNIT=1, FILE='st9900.dat')
+C
+ 10 READ (1,100,END=99) YEAR, MOY, DOY, DFOY, HOY, ST10, ST27,
+ + STW6, STW31, STW55, STW72, STA7, STA32, STA59, STA100,
+ + STD9, STD30, STD45, STD63
+ 100 FORMAT (I5,I3,I4,F7.2,I5,2F8.4,12F6.2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read mweather.dat ***/
+data mweather ;
+infile '/home/cdp/ndp078a/mweather.dat' ;
+input YEAR 1-5 MONTH 6-8 QUAN 9-13 PYRAN 14-17 RAIN 18-21
+ ATMIN 22-27 ATMEAN 28-32 ATMAX 33-37 RHMIN 38-42
+ RHMEAN 43-47 RHMAX 48-53 STMIN 54-58 STMEAN 59-63
+ STMAX 64-68 WIND 69-74;
+run ;
+C *** Fortran program to read the NDP-078a file "mweather.dat"
+C
+ INTEGER YEAR, MONTH, QUAN, PYRAN, RAIN
+ REAL ATMIN, ATMEAN, ATMAX, RHMIN, RHMEAN, RHMAX,
+ + STMIN, STMEAN, STMAX, WIND
+C
+ OPEN (UNIT=1, FILE='mweather.dat')
+C
+ 10 READ (1,100,END=99) YEAR, MONTH, QUAN, PYRAN, RAIN,
+ + ATMIN, ATMEAN, ATMAX, RHMIN, RHMEAN, RHMAX, STMIN,
+ + STMEAN, STMAX, WIND
+ 100 FORMAT (I5,I3,I5,2I4,F6.1,4F5.1,F6.1,3F5.1,F6.2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read dweather.dat ***/
+data dweather ;
+infile '/home/cdp/ndp078a/dweather.dat' ;
+input YEAR 1-5 DOY 6-9 QUAN 10-15 PYRAN 16-21 RADMEAN 22-31
+ RAIN 32-37 ATMIN 38-43 ATMEAN 44-49 ATMAX 50-54 RHMIN 55-60
+ RHMEAN 61-66 RHMAX 67-72 STMIN 73-77 STMEAN 78-82
+ STMAX 83-87 WIND 88-92 ;
+run ;
+C *** Fortran program to read the NDP-078a file "dweather.dat"
+C
+ INTEGER YEAR, DOY, RAIN
+ REAL QUAN, PYRAN, RADMEAN, ATMIN, ATMEAN, ATMAX, RHMIN,
+ + RHMEAN, RHMAX, STMIN, STMEAN, STMAX, WIND
+C
+ OPEN (UNIT=1, FILE='dweather.dat')
+C
+ 10 READ (1,100,END=99) YEAR, DOY, QUAN, PYRAN, RADMEAN,
+ + RAIN, ATMIN, ATMEAN, ATMAX, RHMIN, RHMEAN, RHMAX, STMIN,
+ + STMEAN, STMAX, WIND
+ 100 FORMAT (I5,I4,2F6.2,F10.4,3F6.1,F5.1,3F6.1,4F5.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read hw9399.dat ***/
+data hw9399 ;
+infile '/home/cdp/ndp078a/hw9399.dat' ;
+input YEAR 1-5 MOY 6-8 DOY 9-12 DFOY 13-19 HOY 20-24
+ QUAN 25-29 PYRAN 30-34 UQUAN 35-39 AT 40-45
+ RH 46-51 RAIN 52-56 WIND 57-61 ST 62-66
+ VPD 67-73 SWISIS 74-78;
+run ;
+C *** Fortran program to read the NDP-078a file "hw9399.dat"
+C
+ INTEGER YEAR, MOY, DOY, HOY, QUAN, PYRAN, UQUAN, SWISIS
+ REAL DFOY, AT, RH, RAIN, WIND, ST, VPD
+C
+ OPEN (UNIT=1, FILE='hw9399.dat')
+C
+ 10 READ (1,100,END=99) YEAR, MOY, DOY, DFOY, HOY, QUAN,
+ + PYRAN, UQUAN, AT, RH, RAIN, WIND, ST, VPD, SWISIS
+ 100 FORMAT (I5,I3,I4,F7.2,4I5,2F6.1,3F5.1,F7.3,I5)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read hw00.dat ***/
+data hw00 ;
+infile '/home/cdp/ndp078a/hw00.dat' ;
+input YEAR 1-5 MOY 6-8 DOY 9-12 DFOY 13-19 HOY 20-24
+ QUAN 25-29 PYRAN 30-34 UQUAN 35-39 AT 40-45
+ RH 46-51 RAIN 52-56 WIND 57-61 ST 62-66
+ VPD 67-73 SWISIS 74-78;
+run ;
+C *** Fortran program to read the NDP-078a file "hw00.dat"
+C
+ INTEGER YEAR, MOY, DOY, HOY, QUAN, PYRAN, UQUAN, SWISIS
+ REAL DFOY, AT, RH, RAIN, WIND, ST, VPD
+C
+ OPEN (UNIT=1, FILE='hw00.dat')
+C
+ 10 READ (1,100,END=99) YEAR, MOY, DOY, DFOY, HOY, QUAN,
+ + PYRAN, UQUAN, AT, RH, RAIN, WIND, ST, VPD, SWISIS
+ 100 FORMAT (I5,I3,I4,F7.2,4I5,2F6.1,3F5.1,F7.3,I5)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read comptree.dat ***/
+data comptree ;
+infile '/home/cdp/ndp078a/comptree.dat' ;
+input ID 1-7 SPC $ 8-15 TREAT $ 16-17 SLOPE $ 18-19 Y 20-22 &amp;times; 23-25
+ YM 26-30 XM 31-36 D010693 37-42 D010694 43-48 D011294 49-54
+ D010695 55-60 D010796 61-66 D010797 67-72 D010998 73-78
+ D011299 79-84 D290101 85-90 ;
+run ;
+C *** Fortran program to read the NDP-078a file "comptree.dat"
+C
+ INTEGER Y, X
+ REAL ID, YM, XM, D010693, D010694, D011294, D010695,
+ + D010796, D010797, D010998, D011299, D290101
+ CHARACTER SPC*8, TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='comptree.dat')
+C
+ 10 READ (1,100,END=99) ID, SPC, TREAT, SLOPE, Y, X, YM,
+ + XM, D010693, D010694, D011294, D010695, D010796,
+ + D010797, D010998, D011299, D290101
+ 100 FORMAT (F7.1,A8,2A2,2I3,F5.1,10F6.1)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read compsap.dat ***/
+data compsap ;
+infile '/home/cdp/ndp078a/compsap.dat' ;
+input ORDER 1-6 SPC $ 7-15 TREAT $ 16-17 SLOPE $ 18-19 Y 20-21 &amp;times; 22-24
+ PLOTID 25-27 D1996 28-33 D1997 34-39 D1998 40-45 D1999 46-51 ;
+run ;
+C *** Fortran program to read the NDP-078a file "compsap.dat"
+C
+ INTEGER ORDER, Y, X, PLOTID
+ REAL D1996, D1997, D1998, D1999
+ CHARACTER SPC*9, TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='compsap.dat')
+C
+ 10 READ (1,100,END=99) ORDER, SPC, TREAT, SLOPE, Y, X,
+ + PLOTID, D1996, D1997, D1998, D1999
+ 100 FORMAT (F6.1,A9,2A2,I2,2I3,4F6.2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read atree.dat ***/
+data atree ;
+infile '/home/cdp/ndp078a/atree.dat' ;
+input YEAR 1-5 ID 6-10 SPC $ 11-13 TREAT $ 14-15 SLOPE $ 16-17 Y 18-20 &amp;times; 21-23
+ GROWTH 24-29 ;
+run ;
+C *** Fortran program to read the NDP-078a file "atree.dat"
+C
+ INTEGER YEAR, ID, Y, X, GROWTH
+ CHARACTER SPC*3, TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='atree.dat')
+C
+ 10 READ (1,100,END=99) YEAR, ID, SPC, TREAT, SLOPE,
+ + Y, X, GROWTH
+ 100 FORMAT (2I5,A3,2A2,2I3,I6)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read asapling.dat ***/
+data asapling ;
+infile '/home/cdp/ndp078a/asapling.dat' ;
+input YEAR 1-4 ID $5-12 SPC $ 13-15 TREAT $ 16-17 SLOPE $ 18-19 Y 20-22
+ &amp;times; 23-25 GROWTH 26-32 ;
+run ;
+C *** Fortran program to read the NDP-078a file "asapling.dat"
+C
+ INTEGER YEAR, Y, X
+ REAL GROWTH
+ CHARACTER ID*7, SPC*3, TREAT*2, SLOPE*2
+C
+ OPEN (UNIT=1, FILE='asapling.dat')
+C
+ 10 READ (1,100,END=99) YEAR, ID, SPC, TREAT, SLOPE,
+ + Y, X, GROWTH
+ 100 FORMAT (I4,A8,A3,2A2,2I3,F7.3)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+/*** retrieval routine to read rellai.dat ***/
+data rellai ;
+infile '/home/cdp/ndp078a/rellai.dat' ;
+input YEAR 1-5 DOY 6-9 RELLAI 10-15 ;
+run ;
+C *** Fortran program to read the NDP-078a file "rellai.dat"
+C
+ INTEGER YEAR, DOY
+ REAL RELLAI
+C
+ OPEN (UNIT=1, FILE='rellai.dat')
+C
+ 10 READ (1,100,END=99) YEAR, DOY, RELLAI
+ 100 FORMAT (I5,I4,F6.2)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/ndp078a.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20010701]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20010701]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp078a/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[17.8MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This numeric data package provides data sets, and accompanying documentation, on site characterization, system performance, weather, species composition, and growth for the Throughfall Displacement Experiment, which was established in the Walker Branch Watershed of East Tennessee to provide data on the responses of forests to altered precipitation regimes. The specific data sets include soil water content and potential, coarse fraction of the soil profile, litter layer temperature, soil temperature, monthly weather, daily weather, hourly weather, species composition of trees and saplings, mature tree and sapling annual growth, and relative leaf area index.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

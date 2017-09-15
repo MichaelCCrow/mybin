@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Horvath, E.]]></origin>
+        <origin><![CDATA[Kovacs, K.]]></origin>
+        <title><![CDATA[The United Nations Conversion Factor Statistics Database]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/United_Nat_Conversion_Fac_Stats_DB.xml]]></onlink>
+        <onlink><![CDATA[/hoss/data2/tab/factor2002/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[The United Nations Conversion Factor Statistics Database]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19500101]]></begdate>
+          <enddate><![CDATA[20021231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Conversion Factors]]></themekey>
+        <themekey><![CDATA[United Nations]]></themekey>
+        <themekey><![CDATA[UNSTAT]]></themekey>
+        <themekey><![CDATA[Fossil Fuel Emissions]]></themekey>
+        <themekey><![CDATA[Energy Statistics]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden, email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden, email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 121806</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden, email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050810 082930 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Conversion Factors]]></Keywords>
+    <Keywords><![CDATA[United Nations]]></Keywords>
+    <Keywords><![CDATA[UNSTAT]]></Keywords>
+    <Keywords><![CDATA[Fossil Fuel Emissions]]></Keywords>
+    <Keywords><![CDATA[Energy Statistics]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050810 082930 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/United_Nat_Conversion_Fac_Stats_DB.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[United_Nations_ConversionFactor_Statistics_DB]]></Product_number>
+      <Product_title><![CDATA[The United Nations Conversion Factor Statistics Database]]></Product_title>
+      <Author>
+        <Name><![CDATA[Horvath, E.]]></Name>
+        <Company><![CDATA[United Nations Statistics Division]]></Company>
+        <Organization><![CDATA[Environment and Energy Statistics Branch]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kovacs, K.]]></Name>
+        <Company><![CDATA[United Nations Statistics Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Conversion Factors]]></Thematic_area>
+      <Thematic_area><![CDATA[Fossil-Fuel CO2 Emissions]]></Thematic_area>
+      <Thematic_area><![CDATA[Other]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Most Industrialized Nations]]></Site_name>
+        <Site_URL><![CDATA[http://unstats.un.org/unsd/methods/m49/m49chang.htm]]></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/factor2002/ConvFct2002.txt]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Country Code (e.g. Germany...276)]]></Variable>
+      <Variable><![CDATA[Commodity codes, Primary Solid Fuels (ex. Animal Wastes, AW)]]></Variable>
+      <Variable><![CDATA[Commodity codes, Secondary Solid Fuels (ex. Brown coal coke, BK)]]></Variable>
+      <Variable><![CDATA[Commodity Source Type: Domestic - D]]></Variable>
+      <Variable><![CDATA[Commodity Source Type: Imported - I]]></Variable>
+      <Variable><![CDATA[Commodity Source Type: Consumption - C]]></Variable>
+      <Variable><![CDATA[Conversion Factor (Kcal/Kg)]]></Variable>
+      <Descriptive_file><![CDATA[http://unstats.un.org/unsd/methods/m49/m49chang.htm]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20000401]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20041231]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/hoss/data2/tab/factor2002/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden, email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Energy analysis involving interfuel comparison entails the conversion of energy commodities into a standardized unit of measurement.  To take into account the differences in heating values of various energy commodities, the conversion factors are often provided to enable conversion from original units to terajoules.  The UN conversion factors are expressed in kilocalories per kilogram (Kcal/Kg).  The standard conversion factor from kilocalaries to kilojoules is 4.1868.
+<br><br>
+For conversion factors not found in the UNSTAT database, the standard conversion factors given below should be used to multiply the quantity in original units (in thousand metric tons, unless otherwise indicated) to terajoules.
+<br><br>
+Solid Fuels:<br>
+Hard coal =29.3076 <br>
+Lignite	= 11.2834 <br>
+Peat = 9.5250 <br>
+Hard coal (patent fuel) briquettes = 29.3076 <br>
+Lignite briquettes = 19.6361 <br>
+Gas coke = 26.3768 <br>
+Coke-oven coke = 26.3768 <br>
+Brown coal coke	= 19.6361 
+<br><br>
+Liquid Fuels:<br>
+Crude petroleum	= 41.8680 <br>
+Natural gas liquids = 45.1923 <br> 
+Aviation gasoline = 43.9614 <br>
+Motor gasoline = 43.9614 <br>
+Natural gasoline = 44.8992 <br>
+Jet fuel = 43.1994 <br>
+Kerosene = 43.1994 <br> 
+Naphtha	= 44.1289 <br>
+White spirit/industrial spirit = 43.2078 <br> 
+Gas-diesel oil = 42.4960 <br>
+Residual fuel oil = 41.4996 <br>
+Lubricants = 42.1401 <br>
+Feedstocks = 43.9405 <br>
+Plant condensate = 44.3131 <br>
+Bitumen (asphalt)= 41.8000 <br>
+Petroleum wax = 43.3334 <br>
+Petroleum coke = 36.4000 <br>
+Other petroleum products = 42.4960 <br> 
+Liquefied petroleum gas	= 45.5440
+<br><br>
+Other energy sources:<br>
+Electricity (million kwh)= 3.6000 <br>
+Fuelwood (thousand m^3)	= 9.7680 <br>
+Charcoal = 28.8888 <br>
+Bagasse	= 7.7221 <br>
+Alcohol = 40.0000 <br>
+Animal wastes = 8.4000 <br>
+Vegetal wastes = 12.5000 <br>
+Other non-commercial sources = 8.4000]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

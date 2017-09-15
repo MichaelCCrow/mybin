@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Hahn, C. J.]]></origin>
+        <origin><![CDATA[Warren, S. G.]]></origin>
+        <origin><![CDATA[London, J.]]></origin>
+        <origin><![CDATA[Jenne, R. L.]]></origin>
+        <origin><![CDATA[Chervin, R. M.]]></origin>
+        <title><![CDATA[Climatological Data for Clouds Over the Globe from Surface Observations (NDP-026)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_026.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Climatological Data for Clouds Over the Globe from Surface Observations (NDP-026)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19300101]]></begdate>
+          <enddate><![CDATA[19791231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[0.000]]></westbc>
+        <eastbc><![CDATA[-5.000]]></eastbc>
+        <northbc><![CDATA[87.500]]></northbc>
+        <southbc><![CDATA[-65.000]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[cloud type amounts]]></themekey>
+        <themekey><![CDATA[cloud type co-occurrences]]></themekey>
+        <themekey><![CDATA[cloud type frequencies]]></themekey>
+        <themekey><![CDATA[harmonic analyses of annual and diurnal cycles]]></themekey>
+        <themekey><![CDATA[interannual cloud variations and trends]]></themekey>
+        <themekey><![CDATA[low cloud base heights]]></themekey>
+        <themekey><![CDATA[total cloud cover]]></themekey>
+        <themekey><![CDATA[NDP-026]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120924 164916</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 163144 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[cloud type amounts]]></Keywords>
+    <Keywords><![CDATA[cloud type co-occurrences]]></Keywords>
+    <Keywords><![CDATA[cloud type frequencies]]></Keywords>
+    <Keywords><![CDATA[harmonic analyses of annual and diurnal cycles]]></Keywords>
+    <Keywords><![CDATA[interannual cloud variations and trends]]></Keywords>
+    <Keywords><![CDATA[low cloud base heights]]></Keywords>
+    <Keywords><![CDATA[total cloud cover]]></Keywords>
+    <Keywords><![CDATA[NDP-026]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 163144 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_026.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp026]]></Product_number>
+      <Product_title><![CDATA[Climatological Data for Clouds Over the Globe from Surface Observations (NDP-026)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Hahn, C. J.]]></Name>
+        <Company><![CDATA[University of Colorado]]></Company>
+        <Organization><![CDATA[Cooperative Institute for Research in Environmental Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Warren, S. G.]]></Name>
+        <Company><![CDATA[University of Washington]]></Company>
+        <Organization><![CDATA[Department of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[London, J.]]></Name>
+        <Company><![CDATA[University of Colorado]]></Company>
+        <Organization><![CDATA[Department of Astrophysical, Planetary, and Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Jenne, R. L.]]></Name>
+        <Company><![CDATA[National Center for Atmospheric Research]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Chervin, R. M.]]></Name>
+        <Company><![CDATA[National Center for Atmospheric Research]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/ndp026.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f1]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f10.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f11.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f2.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f3.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f4.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f5.Z                             ]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f6.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f7.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f8]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f9]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[cloud type co-occurrences]]></Variable>
+      <Variable><![CDATA[cloud types over land]]></Variable>
+      <Variable><![CDATA[cloud types over ocean]]></Variable>
+      <Variable><![CDATA[harmonic analyses for land]]></Variable>
+      <Variable><![CDATA[harmonic analyses for ocean]]></Variable>
+      <Variable><![CDATA[interannual variation and trends land]]></Variable>
+      <Variable><![CDATA[interannual variation and trends ocean]]></Variable>
+      <Variable><![CDATA[land-fraction]]></Variable>
+      <Variable><![CDATA[latitude]]></Variable>
+      <Variable><![CDATA[longitude]]></Variable>
+      <Variable><![CDATA[number of land stations]]></Variable>
+      <Variable><![CDATA[total cloud over land]]></Variable>
+      <Variable><![CDATA[total cloud over ocean]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/ndp026.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.doc]]></Data_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/ndp026.f12]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp026/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[20.4 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[With some data from as early as 1930, global long-term monthly and/or seasonal total cloud cover, cloud type amounts and frequencies of occurrence, low cloud base heights, harmonic analyses of annual and diurnal cycles, interannual variations and trends, and cloud type co-occurrences have been compiled and presented in two atlases (Warren et al. 1988, 1990). These data were derived from land and ship synoptic weather reports from the SPOT archive of the Fleet Numerical Oceanography Center (FNOC) and from Release 1 of the Comprehensive Ocean-Atmosphere Data Set (COADS) for the years 1930-1979. The data are in 12 files (one containing latitude, longitude, land-fraction, and number of land stations for grid boxes; four containing total cloud, cloud types, harmonic analyses, and interannual variations and trends for land; four containing total cloud, cloud types, harmonic analyses, and interannual variations and trends for oceans; one containing first cloud analyses for the first year of the GARP Global Experiment (FGGE); one containing cloud-type co-occurrences for land and oceans; and one containing a FORTRAN program to read and produce maps).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Dr. Ray Nassar]]></origin>
+        <title><![CDATA[Scaling factors to improve the temporal and spatial distribution of CO2 emissions from global fossil fuel emission datasets]]></title>
+        <geoform><![CDATA[Other]]></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/nassar_scaling_factors.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/Nassar_Emissions_Scale_Factors/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Scaling factors to improve the temporal and spatial distribution of CO2 emissions from global fossil fuel emission datasets]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Scaling factors]]></themekey>
+        <themekey><![CDATA[Fossil fuel emissions]]></themekey>
+        <themekey><![CDATA[Global fossil fuel CO2 emissions]]></themekey>
+        <themekey><![CDATA[weekly scaling factors]]></themekey>
+        <themekey><![CDATA[diurnal scaling factors]]></themekey>
+        <themekey><![CDATA[scale factor maps]]></themekey>
+        <themekey><![CDATA[CO2 emission variability]]></themekey>
+        <themekey><![CDATA[NO2 emission variability]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[ftp://cdiac.ornl.gov/pub/Nassar_Emissions_Scale_Factors/]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Bob Andres (andresrj@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Bob Andres (andresrj@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20130121 153704</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Bob Andres (andresrj@ornl.gov)Tom Boden (bodenta@ornl.gov)]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20130115 142029 by 160.91.28.73</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Scaling factors]]></Keywords>
+    <Keywords><![CDATA[Fossil fuel emissions]]></Keywords>
+    <Keywords><![CDATA[Global fossil fuel CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[weekly scaling factors]]></Keywords>
+    <Keywords><![CDATA[diurnal scaling factors]]></Keywords>
+    <Keywords><![CDATA[scale factor maps]]></Keywords>
+    <Keywords><![CDATA[CO2 emission variability]]></Keywords>
+    <Keywords><![CDATA[NO2 emission variability]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20130115 142029 by 160.91.28.73</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/nassar_scaling_factors.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[2012JD018196]]></Product_number>
+      <Product_title><![CDATA[Scaling factors to improve the temporal and spatial distribution of CO2 emissions from global fossil fuel emission datasets]]></Product_title>
+      <Author>
+        <Name><![CDATA[Dr. Ray Nassar]]></Name>
+        <Company><![CDATA[Climate Research Division]]></Company>
+        <Organization><![CDATA[Environment Canada]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Fossil fuel CO2 emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[ftp://cdiac.ornl.gov/pub/Nassar_Emissions_Scale_Factors/]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[ftp://cdiac.ornl.gov/pub/Nassar_Emissions_Scale_Factors/]]></Data_site>
+      <Variable><![CDATA[weekly gridded scaling factor]]></Variable>
+      <Variable><![CDATA[daily gridded scaling factor]]></Variable>
+      <Descriptive_file><![CDATA[ftp://cdiac.ornl.gov/pub/Nassar_Emissions_Scale_Factors/README]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20130115]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20130115]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/Nassar_Emissions_Scale_Factors/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Bob Andres (andresrj@ornl.gov)]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[Tom Boden (bodenta@ornl.gov)]]></CDIAC_contact>
+      <Notes><![CDATA[Details on the resulting scaling factors were published in a 2013 Nassar et al. paper in JGR - Atmospheres]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Zinke, P. J.]]></origin>
+        <origin><![CDATA[Stangenberger, A. G.]]></origin>
+        <origin><![CDATA[Post, W. M.]]></origin>
+        <origin><![CDATA[Emanuel, W. R.]]></origin>
+        <origin><![CDATA[Olson, J. S.]]></origin>
+        <title><![CDATA[Worldwide Organic Soil Carbon and Nitrogen Data]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_018.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp018/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Worldwide Organic Soil Carbon and Nitrogen Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19650101]]></begdate>
+          <enddate><![CDATA[19841231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-179.00]]></westbc>
+        <eastbc><![CDATA[154.5]]></eastbc>
+        <northbc><![CDATA[79.00]]></northbc>
+        <southbc><![CDATA[-53.20]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Holdridge Life Zone]]></themekey>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Ecosystem]]></themekey>
+        <themekey><![CDATA[Elevation]]></themekey>
+        <themekey><![CDATA[Nitrogen]]></themekey>
+        <themekey><![CDATA[Parent Material]]></themekey>
+        <themekey><![CDATA[Soil]]></themekey>
+        <themekey><![CDATA[Soil Profile]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 144545</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164056 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Holdridge Life Zone]]></Keywords>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Ecosystem]]></Keywords>
+    <Keywords><![CDATA[Elevation]]></Keywords>
+    <Keywords><![CDATA[Nitrogen]]></Keywords>
+    <Keywords><![CDATA[Parent Material]]></Keywords>
+    <Keywords><![CDATA[Soil]]></Keywords>
+    <Keywords><![CDATA[Soil Profile]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164056 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_018.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.ndp018]]></Product_number>
+      <Product_title><![CDATA[Worldwide Organic Soil Carbon and Nitrogen Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[Zinke, P. J.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Department of Forestry and Resource Management]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Stangenberger, A. G.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Department of Forestry and Resource Management]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Post, W. M.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Emanuel, W. R.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Olson, J. S.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/ndp018.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp018/ndp018.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[CARBON]]></Variable>
+      <Variable><![CDATA[ELEV]]></Variable>
+      <Variable><![CDATA[HOLDRIDGE]]></Variable>
+      <Variable><![CDATA[LAT]]></Variable>
+      <Variable><![CDATA[LONG]]></Variable>
+      <Variable><![CDATA[NITROGEN]]></Variable>
+      <Variable><![CDATA[OLSON]]></Variable>
+      <Variable><![CDATA[PARENT]]></Variable>
+      <Variable><![CDATA[PROFILE]]></Variable>
+      <Variable><![CDATA[SOURCE]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/ndp018.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp018/ndp018.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp018/ndp018.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp018/ndp018.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19860901]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19860901]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp018/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[14 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This data base was begun with the collection and analysis of soil samples from California. Additional data came from soil surveys of Italy, Greece, Iran, Thailand, Vietnam, various tropical Amazonian areas, and U.S. forests and from the soil-survey literature. The analyzed samples were collected at uniform soil-depth increments and included bulk-density determinations. The data on each sample are soil profile number; soil profile carbon content; soil profile nitrogen content; sampling site latitude and longitude; site elevation; profile literature reference source; and soil profile codes for Holdridge life zone, Olson ecosystem type, and parent material. These data may be used to estimate the size of the soil organic carbon and nitrogen pools at equilibrium with natural soil-forming factors.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

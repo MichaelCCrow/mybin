@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Rios, A. F. ]]></origin>
+        <origin><![CDATA[Johnson, K. M. ]]></origin>
+        <origin><![CDATA[Avarez-Salgado, X. A. ]]></origin>
+        <origin><![CDATA[Arlen, L.]]></origin>
+        <origin><![CDATA[Billant, A.]]></origin>
+        <origin><![CDATA[Bingler, L. S. ]]></origin>
+        <origin><![CDATA[Branellec, P.]]></origin>
+        <origin><![CDATA[Castro, C. G. ]]></origin>
+        <origin><![CDATA[Chipman, D. W. ]]></origin>
+        <origin><![CDATA[Roson, G. ]]></origin>
+        <origin><![CDATA[Wallace, D. W. R. ]]></origin>
+        <origin><![CDATA[Kozyr, A.]]></origin>
+        <title><![CDATA[Carbon Dioxide, Hydrographic, and Chemical Data Obtained During the R/V Maurice Ewing Cruise in the Atlantic Ocean (WOCE Section A17, 4 January - 21 March 1994)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_084.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp084/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Carbon Dioxide, Hydrographic, and Chemical Data Obtained During the R/V Maurice Ewing Cruise in the Atlantic Ocean (WOCE Section A17, 4 January - 21 March 1994)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[Hydrographic]]></themekey>
+        <themekey><![CDATA[Chemical Data]]></themekey>
+        <themekey><![CDATA[Atlantic Ocean ]]></themekey>
+        <themekey><![CDATA[NDP-084]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[total alkalinity]]></themekey>
+        <themekey><![CDATA[pH]]></themekey>
+        <themekey><![CDATA[partial pressure of CO2]]></themekey>
+        <themekey><![CDATA[carbon cycle]]></themekey>
+        <themekey><![CDATA[coulometry]]></themekey>
+        <themekey><![CDATA[potentiometry]]></themekey>
+        <themekey><![CDATA[hydrographic measurements]]></themekey>
+        <themekey><![CDATA[World Ocean Circulation Experiment]]></themekey>
+        <themekey><![CDATA[meridional section]]></themekey>
+        <themekey><![CDATA[South Atlantic Ocean]]></themekey>
+        <themekey><![CDATA[NDP-084]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alexander Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alexander Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 130258</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alexander Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20090730 130044 by 160.91.18.49</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[Hydrographic]]></Keywords>
+    <Keywords><![CDATA[Chemical Data]]></Keywords>
+    <Keywords><![CDATA[Atlantic Ocean ]]></Keywords>
+    <Keywords><![CDATA[NDP-084]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[total alkalinity]]></Keywords>
+    <Keywords><![CDATA[pH]]></Keywords>
+    <Keywords><![CDATA[partial pressure of CO2]]></Keywords>
+    <Keywords><![CDATA[carbon cycle]]></Keywords>
+    <Keywords><![CDATA[coulometry]]></Keywords>
+    <Keywords><![CDATA[potentiometry]]></Keywords>
+    <Keywords><![CDATA[hydrographic measurements]]></Keywords>
+    <Keywords><![CDATA[World Ocean Circulation Experiment]]></Keywords>
+    <Keywords><![CDATA[meridional section]]></Keywords>
+    <Keywords><![CDATA[South Atlantic Ocean]]></Keywords>
+    <Keywords><![CDATA[NDP-084]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20090730 130044 by 160.91.18.49</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_084.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp084]]></Product_number>
+      <Product_title><![CDATA[Carbon Dioxide, Hydrographic, and Chemical Data Obtained During the R/V Maurice Ewing Cruise in the Atlantic Ocean (WOCE Section A17, 4 January - 21 March 1994)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Rios, A. F. ]]></Name>
+        <Company><![CDATA[Instituto de Investigaciones Marinas]]></Company>
+        <Organization><![CDATA[Consejo Superior de Investigaciones Cientificas]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Johnson, K. M. ]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization><![CDATA[Department of Applied Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Avarez-Salgado, X. A. ]]></Name>
+        <Company><![CDATA[Instituto de Investigaciones Marinas]]></Company>
+        <Organization><![CDATA[Consejo Superior de Investigaciones Cientificas]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Arlen, L.]]></Name>
+        <Company><![CDATA[James J. Howard Marine Science Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Billant, A.]]></Name>
+        <Company><![CDATA[CNRS-IFREMER-UBO, IFREMER/Centre de Brest,]]></Company>
+        <Organization><![CDATA[Laboratoire de Physique des Ocens]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Bingler, L. S. ]]></Name>
+        <Company><![CDATA[Battelle Pacific Northwest Laboratories]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Branellec, P.]]></Name>
+        <Company><![CDATA[CNRS-IFREMER-UBO, IFREMER/Centre de Brest]]></Company>
+        <Organization><![CDATA[Laboratoire de Physique des Ocens]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Castro, C. G. ]]></Name>
+        <Company><![CDATA[Instituto de Investigaciones Marinas]]></Company>
+        <Organization><![CDATA[Consejo Superior de Investigaciones Cientificas]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Chipman, D. W. ]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Roson, G. ]]></Name>
+        <Company><![CDATA[University of Vigo]]></Company>
+        <Organization><![CDATA[Departamento de Fisica Aplicada, Facultad de Ciencias del Mar]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wallace, D. W. R. ]]></Name>
+        <Company><![CDATA[Leibniz-Institut fuer Meereswissenschaften an der Universitat Kiel]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kozyr, A.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Hydrographic]]></Thematic_area>
+      <Thematic_area><![CDATA[Chemical Data]]></Thematic_area>
+      <Thematic_area><![CDATA[Atlantic Ocean ]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Atlantic Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_084/ndp084.html#abstract]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp084/a17.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp084/a17_underway_pco2.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp084/a17sta.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Parameter]]></Variable>
+      <Variable><![CDATA[Total station on a section]]></Variable>
+      <Variable><![CDATA[No. of stations sampled for carbonate system]]></Variable>
+      <Variable><![CDATA[% of total stations sampled]]></Variable>
+      <Variable><![CDATA[CSP samples analyzed- Discrete]]></Variable>
+      <Variable><![CDATA[CSP samples analyzed- CRM^a]]></Variable>
+      <Variable><![CDATA[CSP samples analyzed- Total]]></Variable>
+      <Variable><![CDATA[Period]]></Variable>
+      <Variable><![CDATA[SLOPEec]]></Variable>
+      <Variable><![CDATA[INTec (&#194;&#181;mol/min)]]></Variable>
+      <Variable><![CDATA[CALFAC (n)]]></Variable>
+      <Variable><![CDATA[Standard Deviation]]></Variable>
+      <Variable><![CDATA[Relative Standard Deviation]]></Variable>
+      <Variable><![CDATA[System]]></Variable>
+      <Variable><![CDATA[&#226;&#136;&#134;TCO2 (&#194;&#181;mol/kg)]]></Variable>
+      <Variable><![CDATA[Standard Deviation (&#194;&#181;mol/kg)]]></Variable>
+      <Variable><![CDATA[N]]></Variable>
+      <Variable><![CDATA[Date]]></Variable>
+      <Variable><![CDATA[CRM no.]]></Variable>
+      <Variable><![CDATA[Carbon Age (mgC)]]></Variable>
+      <Variable><![CDATA[Comments]]></Variable>
+      <Variable><![CDATA[Station]]></Variable>
+      <Variable><![CDATA[Niskin no.]]></Variable>
+      <Variable><![CDATA[Depth (m)]]></Variable>
+      <Variable><![CDATA[TCO2 ship (&#194;&#181;mol/kg)]]></Variable>
+      <Variable><![CDATA[TCO2 shore (&#194;&#181;mol/kg)]]></Variable>
+      <Variable><![CDATA[&#206;&#148;TCO2 Ship &#226;&#136;&#146; shore (&#194;&#181;mol/kg)]]></Variable>
+      <Variable><![CDATA[Mean &#226;&#136;&#134;TALK (&#194;&#181;mol/kg)]]></Variable>
+      <Variable><![CDATA[&#206;&#148;pH]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_084/ndp084.html#abstract]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp084/ndp084.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp084/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Alexander Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This documentation discusses the procedures and methods used to measure total carbon dioxide (TCO2), total alkalinity (TALK), and pH at hydrographic stations during the R/V Maurice Ewing cruise in the South Atlantic Ocean on the A17 WOCE section. Conducted as part of the World Ocean Circulation Experiment (WOCE), this cruise was also a part of the French WOCE program consisting of three expeditions (CITHER 1, 2, and 3) focused on the South Atlantic Ocean. The A17 section was occupied during the CITHER 2 expedition, which began in Montevideo, Uruguay, on January 4, 1994 and finished in Cayenne, French Guyana, on March 21, 1994. During this period the ship stopped in Salvador de Bahia and Recife, Brazil, to take on supplies and exchange personnel. Upon completion of the cruise the ship transited to Fort de France, Martinique. Instructions for accessing the data are provided.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

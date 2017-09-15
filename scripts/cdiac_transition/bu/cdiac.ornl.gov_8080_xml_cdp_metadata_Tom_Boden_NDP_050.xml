@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Houghton, R. A.]]></origin>
+        <origin><![CDATA[Hackler, J. L.]]></origin>
+        <title><![CDATA[Carbon Flux to the Atmosphere from Land-Use Changes: 1850 to 1990]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_050.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp050/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Carbon Flux to the Atmosphere from Land-Use Changes: 1850 to 1990]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[17000101]]></begdate>
+          <enddate><![CDATA[19901231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.00]]></westbc>
+        <eastbc><![CDATA[180.00]]></eastbc>
+        <northbc><![CDATA[83.00]]></northbc>
+        <southbc><![CDATA[-56.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Flux]]></themekey>
+        <themekey><![CDATA[Land Cover]]></themekey>
+        <themekey><![CDATA[Land Use]]></themekey>
+        <themekey><![CDATA[Forest Clearing]]></themekey>
+        <themekey><![CDATA[Net Flux of Carbon]]></themekey>
+        <themekey><![CDATA[Soil]]></themekey>
+        <themekey><![CDATA[vegetation]]></themekey>
+        <themekey><![CDATA[Houghton]]></themekey>
+        <themekey><![CDATA[Hackler]]></themekey>
+        <themekey><![CDATA[Woods Hole Research Center]]></themekey>
+        <themekey><![CDATA[Continental Scale Estimates of the Biotic Carbon Flux from Land Cover Change]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145554</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164700 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Flux]]></Keywords>
+    <Keywords><![CDATA[Land Cover]]></Keywords>
+    <Keywords><![CDATA[Land Use]]></Keywords>
+    <Keywords><![CDATA[Forest Clearing]]></Keywords>
+    <Keywords><![CDATA[Net Flux of Carbon]]></Keywords>
+    <Keywords><![CDATA[Soil]]></Keywords>
+    <Keywords><![CDATA[vegetation]]></Keywords>
+    <Keywords><![CDATA[Houghton]]></Keywords>
+    <Keywords><![CDATA[Hackler]]></Keywords>
+    <Keywords><![CDATA[Woods Hole Research Center]]></Keywords>
+    <Keywords><![CDATA[Continental Scale Estimates of the Biotic Carbon Flux from Land Cover Change]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#160;
+Richard A. Houghton
+Joseph L. Hackler
+The Woods Hole Research
+Center
+Woods Hole, Massachusetts
+Carbon Dioxide Information Analysis
+Center
+Environmental Sciences
+Division
+Publication No. 5054
+Date Published: February 2001
+Prepared for the
+compare.dat
+, which describes the contents and format of
+ndp050.dat,
+also indicates the column of
+ndp050.wk1 in
+which each variable is found, and , which describes the
+contents and format of
+compare.dat,
+also indicates the column of
+compare.wk1 in
+which each variable is found.
+The following is SAS code to read file
+/*** SAS code to read ndp050.dat ***/
+data ndp050;
+infile 'ndp050.dat' firstobs=10;
+input YEAR 5-8 NAM 11-16 SCAM 22-27 EUROPE 31-36 NAFRME 45-49
+ TRAFR 54-59 FSU 64-69 CHINA 74-79 SSEASIA 84-90 PACDR 97-101
+ TOTAL 104-111;
+run;
+The following is Fortran code to read file
+C *** Fortran program to read the file "ndp050.dat"
+C *** from Houghton's CDIAC NDP-050 that corresponds
+C *** with the 1999 Tellus article.
+C
+ INTEGER YEAR
+ REAL NAM, SCAM, EUROPE, NAFRME, TRAFR, FSU, CHINA,
+ + SSEASIA, PACDR, TOTAL
+C
+ OPEN (UNIT=1, FILE='ndp050.dat')
+C
+C *** SKIP OVER HEADER INFO.
+ 9 READ (1,100)
+ 100 FORMAT (////////)
+C *** READ DATA
+ 10 READ (1,101,END=99) YEAR, NAM, SCAM, EUROPE, NAFRME,
+ + TRAFR, FSU, CHINA, SSEASIA, PACDR, TOTAL
+ 101 FORMAT (4X,I4,2X,F6.2,5X,F6.2,3X,F6.2,8X,F5.2,4X,
+ + F6.2,4X,F6.2,4X,F6.2,4X,F7.2,6X,F5.2,2X,F8.3)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+The following is SAS code to read file
+/*** SAS code to read compare.dat ***/
+data compare;
+infile 'compare.dat' firstobs=14;
+input YEAR 1-4 HETAL83 13-18 HS90 31-36 HH95 51-55 H99 63-67;
+run;
+The following is Fortran code to read file
+C *** Fortran program to read the file "compare.dat"
+C *** from Houghton's CDIAC NDP-050 that corresponds
+C *** with the 1999 Tellus article.
+C
+ INTEGER YEAR
+ REAL HETAL83, HS90, HH95, H99
+C
+ OPEN (UNIT=1, FILE='compare.dat')
+C *** SKIP OVER HEADER INFORMATION
+ 9 READ (1,100)
+ 100 FORMAT (////////////)
+C *** READ DATA
+ 10 READ (1,101,END=99) YEAR, HETAL83, HS90, HH95, H99
+ 101 FORMAT (I4,8X,F6.3,12X,F6.3,14X,F5.3,7X,F5.3)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164700 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_050.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.ndp050]]></Product_number>
+      <Product_title><![CDATA[Carbon Flux to the Atmosphere from Land-Use Changes: 1850 to 1990]]></Product_title>
+      <Author>
+        <Name><![CDATA[Houghton, R. A.]]></Name>
+        <Company><![CDATA[The Woods Hole Research Center]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hackler, J. L.]]></Name>
+        <Company><![CDATA[The Woods Hole Research Center]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp050/ndp050.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp050/compare.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp050/compare.wk1]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp050/ndp050.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp050/ndp050.wk1]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[A1700]]></Variable>
+      <Variable><![CDATA[A1850]]></Variable>
+      <Variable><![CDATA[A1980]]></Variable>
+      <Variable><![CDATA[ASIA]]></Variable>
+      <Variable><![CDATA[CHANGE]]></Variable>
+      <Variable><![CDATA[CHIN]]></Variable>
+      <Variable><![CDATA[ECOSYS]]></Variable>
+      <Variable><![CDATA[EURO]]></Variable>
+      <Variable><![CDATA[FLUX]]></Variable>
+      <Variable><![CDATA[FSU]]></Variable>
+      <Variable><![CDATA[NAFM]]></Variable>
+      <Variable><![CDATA[NAM]]></Variable>
+      <Variable><![CDATA[PCDV]]></Variable>
+      <Variable><![CDATA[REGION]]></Variable>
+      <Variable><![CDATA[SCAM]]></Variable>
+      <Variable><![CDATA[TAF]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp050/ndp050.html&#160;
+Richard A. Houghton
+Joseph L. Hackler
+The Woods Hole Research
+Center
+Woods Hole, Massachusetts
+Carbon Dioxide Information Analysis
+Center
+Environmental Sciences
+Division
+Publication No. 5054
+Date Published: February 2001
+Prepared for the
+compare.dat
+, which describes the contents and format of
+ndp050.dat,
+also indicates the column of
+ndp050.wk1 in
+which each variable is found, and , which describes the
+contents and format of
+compare.dat,
+also indicates the column of
+compare.wk1 in
+which each variable is found.
+The following is SAS code to read file
+/*** SAS code to read ndp050.dat ***/
+data ndp050;
+infile 'ndp050.dat' firstobs=10;
+input YEAR 5-8 NAM 11-16 SCAM 22-27 EUROPE 31-36 NAFRME 45-49
+ TRAFR 54-59 FSU 64-69 CHINA 74-79 SSEASIA 84-90 PACDR 97-101
+ TOTAL 104-111;
+run;
+The following is Fortran code to read file
+C *** Fortran program to read the file "ndp050.dat"
+C *** from Houghton's CDIAC NDP-050 that corresponds
+C *** with the 1999 Tellus article.
+C
+ INTEGER YEAR
+ REAL NAM, SCAM, EUROPE, NAFRME, TRAFR, FSU, CHINA,
+ + SSEASIA, PACDR, TOTAL
+C
+ OPEN (UNIT=1, FILE='ndp050.dat')
+C
+C *** SKIP OVER HEADER INFO.
+ 9 READ (1,100)
+ 100 FORMAT (////////)
+C *** READ DATA
+ 10 READ (1,101,END=99) YEAR, NAM, SCAM, EUROPE, NAFRME,
+ + TRAFR, FSU, CHINA, SSEASIA, PACDR, TOTAL
+ 101 FORMAT (4X,I4,2X,F6.2,5X,F6.2,3X,F6.2,8X,F5.2,4X,
+ + F6.2,4X,F6.2,4X,F6.2,4X,F7.2,6X,F5.2,2X,F8.3)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+The following is SAS code to read file
+/*** SAS code to read compare.dat ***/
+data compare;
+infile 'compare.dat' firstobs=14;
+input YEAR 1-4 HETAL83 13-18 HS90 31-36 HH95 51-55 H99 63-67;
+run;
+The following is Fortran code to read file
+C *** Fortran program to read the file "compare.dat"
+C *** from Houghton's CDIAC NDP-050 that corresponds
+C *** with the 1999 Tellus article.
+C
+ INTEGER YEAR
+ REAL HETAL83, HS90, HH95, H99
+C
+ OPEN (UNIT=1, FILE='compare.dat')
+C *** SKIP OVER HEADER INFORMATION
+ 9 READ (1,100)
+ 100 FORMAT (////////////)
+C *** READ DATA
+ 10 READ (1,101,END=99) YEAR, HETAL83, HS90, HH95, H99
+ 101 FORMAT (I4,8X,F6.3,12X,F6.3,14X,F5.3,7X,F5.3)
+C
+ GO TO 10
+ 99 CLOSE (UNIT=1)
+ STOP
+ END
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp050/ndp050.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19950301]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20010201]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp050/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[206KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ The database documented in this numeric data package, a revision to a database originally published by the Carbon Dioxide Information Analysis Center (CDIAC) in 1995, consists of annual estimates, from 1850 through 1990, of the net flux of carbon between terrestrial ecosystems and the atmosphere resulting from deliberate changes in land cover and land use, especially forest clearing for agriculture and the harvest of wood for wood products or energy. The data are provided on a year-by-year basis for nine regions (North America, South and Central America, Europe, North Africa and the Middle East, Tropical Africa, the Former Soviet Union, China, South and Southeast Asia, and the Pacific Developed Region) and the globe. Some data begin earlier than 1850 (e.g., for six regions, areas of different ecosystems are provided for the year 1700) or extend beyond 1990 (e.g., fuelwood harvest in South and Southeast Asia, by forest type, is provided through 1995).
+<br><br>
+ The global net flux during the period 1850 to 1990 was 124 Pg of carbon (1 petagram = 1015 grams). During this period, the greatest regional flux was from South and Southeast Asia (39 Pg of carbon), while the smallest regional flux was from North Africa and the Middle East (3 Pg of carbon). For the year 1990, the global total net flux was estimated to be 2.1 Pg of carbon.
+<br><br>
+This numeric data package contains a year-by-year regional data set of net flux estimates, a year- by-year data set comparing several estimates of global total net flux, and this documentation file (which includes SAS and Fortran codes to read the ASCII data files; SAS is a registered trademark of the SAS Institute, Inc., Cary, North Carolina 27511). The data files are provided in both flat ASCII and binary spreadsheet format. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

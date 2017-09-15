@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Blasing, T. J. ]]></origin>
+        <title><![CDATA[Recent Greenhouse Gas Concentrations]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/pns/current_ghg.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Recent Greenhouse Gas Concentrations]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate><![CDATA[20121231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Greenhouse gases]]></themekey>
+        <themekey><![CDATA[CFC replacement species]]></themekey>
+        <themekey><![CDATA[Radiatively active gases]]></themekey>
+        <themekey><![CDATA[Global Warming Potential]]></themekey>
+        <themekey><![CDATA[GWP]]></themekey>
+        <themekey><![CDATA[Tropospheric concentrations]]></themekey>
+        <themekey><![CDATA[Historical tropospheric concentrations]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[methane]]></themekey>
+        <themekey><![CDATA[CH4]]></themekey>
+        <themekey><![CDATA[nitrous oxide ]]></themekey>
+        <themekey><![CDATA[N2O]]></themekey>
+        <themekey><![CDATA[Tropospheric ozone]]></themekey>
+        <themekey><![CDATA[O3]]></themekey>
+        <themekey><![CDATA[CFC-11]]></themekey>
+        <themekey><![CDATA[CFC11]]></themekey>
+        <themekey><![CDATA[CFC-12]]></themekey>
+        <themekey><![CDATA[CFC12]]></themekey>
+        <themekey><![CDATA[CFC-113]]></themekey>
+        <themekey><![CDATA[CFC113]]></themekey>
+        <themekey><![CDATA[HCFC-22]]></themekey>
+        <themekey><![CDATA[HCFC22]]></themekey>
+        <themekey><![CDATA[HCFC-141b]]></themekey>
+        <themekey><![CDATA[HCFC141b]]></themekey>
+        <themekey><![CDATA[Halon 1211]]></themekey>
+        <themekey><![CDATA[Halon 1301]]></themekey>
+        <themekey><![CDATA[HFC-134a]]></themekey>
+        <themekey><![CDATA[HFC134a]]></themekey>
+        <themekey><![CDATA[carbon tetrachloride]]></themekey>
+        <themekey><![CDATA[CCl4]]></themekey>
+        <themekey><![CDATA[methyl chloroform]]></themekey>
+        <themekey><![CDATA[sulfur hexafluoride]]></themekey>
+        <themekey><![CDATA[SF6]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T. J. Blasing email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T. J. Blasing email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140110 100242</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T. J. Blasing email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 154226 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Greenhouse gases]]></Keywords>
+    <Keywords><![CDATA[CFC replacement species]]></Keywords>
+    <Keywords><![CDATA[Radiatively active gases]]></Keywords>
+    <Keywords><![CDATA[Global Warming Potential]]></Keywords>
+    <Keywords><![CDATA[GWP]]></Keywords>
+    <Keywords><![CDATA[Tropospheric concentrations]]></Keywords>
+    <Keywords><![CDATA[Historical tropospheric concentrations]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[methane]]></Keywords>
+    <Keywords><![CDATA[CH4]]></Keywords>
+    <Keywords><![CDATA[nitrous oxide ]]></Keywords>
+    <Keywords><![CDATA[N2O]]></Keywords>
+    <Keywords><![CDATA[Tropospheric ozone]]></Keywords>
+    <Keywords><![CDATA[O3]]></Keywords>
+    <Keywords><![CDATA[CFC-11]]></Keywords>
+    <Keywords><![CDATA[CFC11]]></Keywords>
+    <Keywords><![CDATA[CFC-12]]></Keywords>
+    <Keywords><![CDATA[CFC12]]></Keywords>
+    <Keywords><![CDATA[CFC-113]]></Keywords>
+    <Keywords><![CDATA[CFC113]]></Keywords>
+    <Keywords><![CDATA[HCFC-22]]></Keywords>
+    <Keywords><![CDATA[HCFC22]]></Keywords>
+    <Keywords><![CDATA[HCFC-141b]]></Keywords>
+    <Keywords><![CDATA[HCFC141b]]></Keywords>
+    <Keywords><![CDATA[Halon 1211]]></Keywords>
+    <Keywords><![CDATA[Halon 1301]]></Keywords>
+    <Keywords><![CDATA[HFC-134a]]></Keywords>
+    <Keywords><![CDATA[HFC134a]]></Keywords>
+    <Keywords><![CDATA[carbon tetrachloride]]></Keywords>
+    <Keywords><![CDATA[CCl4]]></Keywords>
+    <Keywords><![CDATA[methyl chloroform]]></Keywords>
+    <Keywords><![CDATA[sulfur hexafluoride]]></Keywords>
+    <Keywords><![CDATA[SF6]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ is calculated using the formula:
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 154226 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi:10.3334/CDIAC/atg.032]]></Product_number>
+      <Product_title><![CDATA[Recent Greenhouse Gas Concentrations]]></Product_title>
+      <Author>
+        <Name><![CDATA[Blasing, T. J. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Greenhouse Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Greenhouse Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/pns/current_ghg.html]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Gas]]></Variable>
+      <Variable><![CDATA[Pre-1750 tropospheric concentration]]></Variable>
+      <Variable><![CDATA[Recent tropospheric concentration]]></Variable>
+      <Variable><![CDATA[GWP (100-yr time horizon)]]></Variable>
+      <Variable><![CDATA[Atmospheric lifetime (years)]]></Variable>
+      <Variable><![CDATA[Increased radiative forcing]]></Variable>
+      <Variable><![CDATA[carbon dioxide (CO2)]]></Variable>
+      <Variable><![CDATA[methane (CH4)]]></Variable>
+      <Variable><![CDATA[nitrous oxide (N2O)]]></Variable>
+      <Variable><![CDATA[ozone (O3)]]></Variable>
+      <Variable><![CDATA[CFC-11]]></Variable>
+      <Variable><![CDATA[CFC-12]]></Variable>
+      <Variable><![CDATA[CFC-113]]></Variable>
+      <Variable><![CDATA[HCFC-22]]></Variable>
+      <Variable><![CDATA[HFC-134a]]></Variable>
+      <Variable><![CDATA[HCFC-141b]]></Variable>
+      <Variable><![CDATA[Halon 1211]]></Variable>
+      <Variable><![CDATA[Halon 1301]]></Variable>
+      <Variable><![CDATA[HFC-134a]]></Variable>
+      <Variable><![CDATA[carbon tetrachloride (CCl4)]]></Variable>
+      <Variable><![CDATA[HCFC-141b]]></Variable>
+      <Variable><![CDATA[Halon 1211]]></Variable>
+      <Variable><![CDATA[Halon 1301]]></Variable>
+      <Variable><![CDATA[methyl chloroform]]></Variable>
+      <Variable><![CDATA[sulfur hexafluoride (SF6)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/pns/current_ghg.html&#239;&#187;&#191;
+ is calculated using the formula:
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/pns/current_ghg.html]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20130220]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/pns/current_ghg.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[T. J. Blasing email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Recent Greenhouse Gas Concentration, Updated February 2012 <br>
+Gases typically measured in parts per million (ppm), parts per billion (ppb) or parts per trillion (ppt) by volume are presented separately to facilitate comparison of numbers. All pre-1750 A.D. concentrations, Global Warming Potentials (GWPs), and atmospheric lifetimes are from Table 4.1 of (Intergovernmental Panel on Climate Change) IPCC 2001 unless otherwise indicated. Additional material on greenhouse gases can be found in CDIAC's Reference Tools. To find out how CFCs, HFCs, HCFCs, and halons are named, see Name that compound: The numbers game for CFCs, HFCs, HCFCs, and Halons.
+<br><br>
+Sources of the current atmospheric concentrations are given in the footnotes. The concentrations given are frequently derived from data available via the CDIAC web pages; many corresponding links are given in the footnotes below. These data are contributed to CDIAC by various investigators, and represent considerable effort on their part. We ask as a basic professional courtesy that when you refer to any of these data you acknowledge the sources. Guidelines for proper acknowledgment are found at the end of the page for each link, except for the ALE/GAGE/AGAGE database where acknowledgment guidelines are given in the readme files; links to those readme files are given in footnote 9, below. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

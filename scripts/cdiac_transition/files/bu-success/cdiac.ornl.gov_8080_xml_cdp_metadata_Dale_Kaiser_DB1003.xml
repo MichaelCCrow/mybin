@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Bradley, R. S.]]></origin>
+        <origin><![CDATA[Ahern, L. G.]]></origin>
+        <origin><![CDATA[Keimig, F. T.]]></origin>
+        <title><![CDATA[Computer-Based Atlas of Global Instrumental Climate Data]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Dale_Kaiser/DB1003.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/images/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Computer-Based Atlas of Global Instrumental Climate Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18510101]]></begdate>
+          <enddate><![CDATA[19911231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[500-mbar geopotential heights]]></themekey>
+        <themekey><![CDATA[surface temperature]]></themekey>
+        <themekey><![CDATA[anomaly maps]]></themekey>
+        <themekey><![CDATA[precipitation]]></themekey>
+        <themekey><![CDATA[station pressure]]></themekey>
+        <themekey><![CDATA[global temperature]]></themekey>
+        <themekey><![CDATA[percentages of reference-period precipitation]]></themekey>
+        <themekey><![CDATA[sea level pressure]]></themekey>
+        <themekey><![CDATA[DB1003]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120904 133407</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 154437 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[500-mbar geopotential heights]]></Keywords>
+    <Keywords><![CDATA[surface temperature]]></Keywords>
+    <Keywords><![CDATA[anomaly maps]]></Keywords>
+    <Keywords><![CDATA[precipitation]]></Keywords>
+    <Keywords><![CDATA[station pressure]]></Keywords>
+    <Keywords><![CDATA[global temperature]]></Keywords>
+    <Keywords><![CDATA[percentages of reference-period precipitation]]></Keywords>
+    <Keywords><![CDATA[sea level pressure]]></Keywords>
+    <Keywords><![CDATA[DB1003]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 154437 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Dale_Kaiser/DB1003.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.db1003]]></Product_number>
+      <Product_title><![CDATA[Computer-Based Atlas of Global Instrumental Climate Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[Bradley, R. S.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ahern, L. G.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Keimig, F. T.]]></Name>
+        <Company><![CDATA[University of Massachusetts]]></Company>
+        <Organization><![CDATA[Department of Geology and Geography]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1003.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/images/data.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/images/images.txt]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Annual]]></Variable>
+      <Variable><![CDATA[Seasonal]]></Variable>
+      <Variable><![CDATA[Monthly]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1003.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19940101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/images/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[326 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Color-shaded and contoured images of global, gridded instrumental data have been produced as a computer-based atlas. Each image simultaneously depicts anomaly maps of surface temperature, sea-level pressure, 500-mbar geopotential heights, and percentages of reference-period precipitation. Monthly, seasonal, and annual composites are available in either cylindrical equidistant or northern and southern hemisphere polar projections. Temperature maps are available from 1854 to 1991, precipitation from 1851 to 1989, sea-level pressure from 1899 to 1991, and 500-mbar heights from 1946 to 1991. The source of data for the temperature images is Jones et al.'s global gridded temperature anomalies. The precipitation images were derived from Eischeid et al.'s global gridded precipitation percentages. Grids from the Data Support Section, National Center for Atmospheric Research (NCAR) were the sources for the sea-level-pressure and 500-mbar geopotential-height images. All images are in GIF files (1024 &#195;&#131;&#226;&#239;&#191;&#189;&#148; 822 pixels, 256 colors) and can be displayed on many different computer platforms. Each annual subdirectory contains 141 images, each seasonal subdirectory contains 563 images, and each monthly subdirectory contains 1656 images. The entire atlas requires approximately 340 MB of disk space, but users may retrieve any number of images at one time.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Husin, Y. A.]]></origin>
+        <origin><![CDATA[Murdiyarso, D.]]></origin>
+        <origin><![CDATA[Khalil, M. A. K.]]></origin>
+        <origin><![CDATA[Rasmussen, R. A.]]></origin>
+        <origin><![CDATA[Shearer, M. J.]]></origin>
+        <origin><![CDATA[Sabiham, S.]]></origin>
+        <origin><![CDATA[Sunar, A.]]></origin>
+        <origin><![CDATA[Adijuwana, H.]]></origin>
+        <title><![CDATA[Methane Flux from Indonesian Wetland Rice: The Effects of Water Management and Rice Variety
+]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Methane_Flux_from_Indonesian_Wetland_Rice.xml]]></onlink>
+        <onlink><![CDATA[/hoss/data2/tab/Methane_flux_Indonesia_wetland_rice/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Methane Flux from Indonesian Wetland Rice: The Effects of Water Management and Rice Variety
+]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19930407]]></begdate>
+          <enddate><![CDATA[19930809]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[West Java, Indonesia]]></themekey>
+        <themekey><![CDATA[Wetland Rice]]></themekey>
+        <themekey><![CDATA[Methane Emission]]></themekey>
+        <themekey><![CDATA[Water Management]]></themekey>
+        <themekey><![CDATA[Methane Flux]]></themekey>
+        <themekey><![CDATA[continuous flooding]]></themekey>
+        <themekey><![CDATA[intermittent irrigation]]></themekey>
+        <themekey><![CDATA[saturated soil]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050809 163517</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 163517 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[West Java, Indonesia]]></Keywords>
+    <Keywords><![CDATA[Wetland Rice]]></Keywords>
+    <Keywords><![CDATA[Methane Emission]]></Keywords>
+    <Keywords><![CDATA[Water Management]]></Keywords>
+    <Keywords><![CDATA[Methane Flux]]></Keywords>
+    <Keywords><![CDATA[continuous flooding]]></Keywords>
+    <Keywords><![CDATA[intermittent irrigation]]></Keywords>
+    <Keywords><![CDATA[saturated soil]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 163517 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Methane_Flux_from_Indonesian_Wetland_Rice.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[Methane_Flux_Indonesian_Wetland_Rice]]></Product_number>
+      <Product_title><![CDATA[Methane Flux from Indonesian Wetland Rice: The Effects of Water Management and Rice Variety
+]]></Product_title>
+      <Author>
+        <Name><![CDATA[Husin, Y. A.]]></Name>
+        <Company><![CDATA[Institut Pertanian Bogor]]></Company>
+        <Organization><![CDATA[Department of Forest Resource Conservation]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Murdiyarso, D.]]></Name>
+        <Company><![CDATA[Institut Pertanian Bogor]]></Company>
+        <Organization><![CDATA[Department of Forest Resource Conservation]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Khalil, M. A. K.]]></Name>
+        <Company><![CDATA[Oregon Graduate Institute]]></Company>
+        <Organization><![CDATA[Global Change Research Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Rasmussen, R. A.]]></Name>
+        <Company><![CDATA[Oregon Graduate Institute]]></Company>
+        <Organization><![CDATA[Global Change Research Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Shearer, M. J.]]></Name>
+        <Company><![CDATA[Oregon Graduate Institute]]></Company>
+        <Organization><![CDATA[Global Change Research Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sabiham, S.]]></Name>
+        <Company><![CDATA[Institut Pertanian Bogor]]></Company>
+        <Organization><![CDATA[Department of Forest Resource Conservation]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sunar, A.]]></Name>
+        <Company><![CDATA[Institut Pertanian Bogor]]></Company>
+        <Organization><![CDATA[Department of Forest Resource Conservation]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Adijuwana, H.]]></Name>
+        <Company><![CDATA[Institut Pertanian Bogor]]></Company>
+        <Organization><![CDATA[Department of Forest Resource Conservation]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[The Effects of Water Management and Rice Variety]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Tropical Regions of West Java, Indonesia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Methane_flux_Indonesia_wetland_rice/AFTRNOON.WK1]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Methane_flux_Indonesia_wetland_rice/HUSIN.WP6]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Methane_flux_Indonesia_wetland_rice/MORNING.WK1]]></Site_data_file>
+        <Site_data_file><![CDATA[/hoss/data2/tab/Methane_flux_Indonesia_wetland_rice/PREDAWN.WK1]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Irrigation Treatment]]></Variable>
+      <Variable><![CDATA[Rice Variety]]></Variable>
+      <Variable><![CDATA[Replication]]></Variable>
+      <Variable><![CDATA[Chamber Temperature (degree C)]]></Variable>
+      <Variable><![CDATA[Effective Chamber Height (cm)]]></Variable>
+      <Variable><![CDATA[Ambient Methane Concentation (ppbv)]]></Variable>
+      <Variable><![CDATA[Flux (mg/m^2/hr)]]></Variable>
+      <Variable><![CDATA[Water Regime]]></Variable>
+      <Descriptive_file><![CDATA[/hoss/data2/tab/Methane_flux_Indonesia_wetland_rice/HUSIN.WP6]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19950101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/hoss/data2/tab/Methane_flux_Indonesia_wetland_rice/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  This study was conducted to determine methane emission rates from wetland rice in tropical regions of West Java, Indonesia, and the effect of various irrigation and water management practices and of rice varieties on the emissions.  The experiment tested three water management treatments (continuous flooding, intermittent irrigation, and saturated soil conditions) and three rice variety treat&#195;&#131;&#198;&#146;&#195;&#162;&#195;&#175;&#194;&#191;&#194;&#189;&#197;&#161;&#195;&#131;&#226;&#239;&#191;&#189;&#154;&#195;&#130;&#194;&#172;ments (unplanted, planted with IR-64, and planted with Cisadane rice) using a split-plot experimental design with three replicates.  Methane fluxes were observed during the entire growing period three times per day, one day per week, using a static chamber technique.
+<br><br>
+  The results of this study revealed that both water management treatments and rice varieties significantly affected diurnal and seasonal variations of methane flux from wetland rice.  Rice with continuously flooded irrigation regimes and intermittent irrigation showed that methane fluxes were 1.4 - 1.9 times higher in the afternoon compared to predawn sampling; however, a reverse phenomenon was observed under saturated soil conditions.  The diurnal methane flux variations observed in this study were most likely due to an average difference of 5 degrees C in soil temperature at 5-cm depth between predawn and afternoon.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

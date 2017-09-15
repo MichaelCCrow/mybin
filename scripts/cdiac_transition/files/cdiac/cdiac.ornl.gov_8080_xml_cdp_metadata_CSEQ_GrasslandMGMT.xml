@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Conant, R. ]]></origin>
+        <origin><![CDATA[Paustian, K. ]]></origin>
+        <origin><![CDATA[Elliot, E. ]]></origin>
+        <title><![CDATA[Grassland Management and Conversion into Grassland: Effects on Soil Carbon]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/CSEQ/GrasslandMGMT.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/Conant2001/conant2001.htm]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Grassland Management and Conversion into Grassland: Effects on Soil Carbon]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[cultivation]]></themekey>
+        <themekey><![CDATA[grassland management]]></themekey>
+        <themekey><![CDATA[grasslands]]></themekey>
+        <themekey><![CDATA[grazing management]]></themekey>
+        <themekey><![CDATA[pasture]]></themekey>
+        <themekey><![CDATA[soil carbon]]></themekey>
+        <themekey><![CDATA[soil organic matter]]></themekey>
+        <themekey><![CDATA[Carbon Cycle]]></themekey>
+        <themekey><![CDATA[Carbon Sequestration]]></themekey>
+        <themekey><![CDATA[Soil carbon]]></themekey>
+        <themekey><![CDATA[CARBON SEQUESTRATION-TERRESTRIAL]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tris West; email: westto@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tris West; email: westto@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090713 141848</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tris West; email: westto@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 145533 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[cultivation]]></Keywords>
+    <Keywords><![CDATA[grassland management]]></Keywords>
+    <Keywords><![CDATA[grasslands]]></Keywords>
+    <Keywords><![CDATA[grazing management]]></Keywords>
+    <Keywords><![CDATA[pasture]]></Keywords>
+    <Keywords><![CDATA[soil carbon]]></Keywords>
+    <Keywords><![CDATA[soil organic matter]]></Keywords>
+    <Keywords><![CDATA[Carbon Cycle]]></Keywords>
+    <Keywords><![CDATA[Carbon Sequestration]]></Keywords>
+    <Keywords><![CDATA[Soil carbon]]></Keywords>
+    <Keywords><![CDATA[CARBON SEQUESTRATION-TERRESTRIAL]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Ecological 
+ Applications
+ R. 
+ Conant
+Natural Resource 
+ Ecology Laboratory
+ Fort Collins, Colorado, USA
+ Sponsor: US Environmental 
+ Protection Agency, Ruminant Livestock Efficiency Program
+Ecological 
+Society of America
+ The data for this study may be accessed in ESA's Electronic Data Archive: Ecological 
+ Archives A011-005. 
+ For related work, see
+ Conant and Paustian (2002). Potential soil carbon sequestration 
+ in overgrazed grassland ecosystems. Global 
+ Biogeochemical Cycles 
+ Contant et al. (2003) Spatial variability of soil carbon 
+ in forested and cultivated sites: Implications for change detection. Journal 
+ of Environmental Quality
+ Conant and Paustian (2002). Spatial variability of soil 
+ organic carbon in grasslands: implications for detecting change at different 
+ scales. Environmental 
+ Pollution
+Carbon 
+Sequestration Data Management Home Page
+ Oak Ridge National Laboratory
+ (865) 574-2232 (FAX)
+ Data and Information Requests: (865) 574-3645
+ &#160;&#160; &#160;&#160; 
+ &#160;&#160; 
+lak 05/2003 ]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 145533 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/CSEQ/GrasslandMGMT.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/tcm.005]]></Product_number>
+      <Product_title><![CDATA[Grassland Management and Conversion into Grassland: Effects on Soil Carbon]]></Product_title>
+      <Author>
+        <Name><![CDATA[Conant, R. ]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[Natural Resource Ecology Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Paustian, K. ]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[Natural Resource Ecology Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Elliot, E. ]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[Natural Resource Ecology Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Sequestration]]></Thematic_area>
+      <Thematic_area><![CDATA[Soil carbon]]></Thematic_area>
+      <Thematic_area><![CDATA[Terrestrial Carbon Management]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Argentina]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Australia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Brazil]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/Conant2001/conant2001.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Costa Rica]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[France]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mexico]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Netherlands]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[New Zealand]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Saudi Arabia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Tanzania]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Uganda]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[UK]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[USA]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://www.esapubs.org/archive/appl/A011/005/appendix-A.htm]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Citation]]></Variable>
+      <Variable><![CDATA[Management Change]]></Variable>
+      <Variable><![CDATA[Duration (years)]]></Variable>
+      <Variable><![CDATA[Depth (cm)]]></Variable>
+      <Variable><![CDATA[Initial soil C]]></Variable>
+      <Variable><![CDATA[Final soil C]]></Variable>
+      <Variable><![CDATA[Units^1 ]]></Variable>
+      <Variable><![CDATA[Latitude]]></Variable>
+      <Variable><![CDATA[Longitude]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/Conant2001/conant2001.htmEcological 
+ Applications
+ R. 
+ Conant
+Natural Resource 
+ Ecology Laboratory
+ Fort Collins, Colorado, USA
+ Sponsor: US Environmental 
+ Protection Agency, Ruminant Livestock Efficiency Program
+Ecological 
+Society of America
+ The data for this study may be accessed in ESA's Electronic Data Archive: Ecological 
+ Archives A011-005. 
+ For related work, see
+ Conant and Paustian (2002). Potential soil carbon sequestration 
+ in overgrazed grassland ecosystems. Global 
+ Biogeochemical Cycles 
+ Contant et al. (2003) Spatial variability of soil carbon 
+ in forested and cultivated sites: Implications for change detection. Journal 
+ of Environmental Quality
+ Conant and Paustian (2002). Spatial variability of soil 
+ organic carbon in grasslands: implications for detecting change at different 
+ scales. Environmental 
+ Pollution
+Carbon 
+Sequestration Data Management Home Page
+ Oak Ridge National Laboratory
+ (865) 574-2232 (FAX)
+ Data and Information Requests: (865) 574-3645
+ &#160;&#160; &#160;&#160; 
+ &#160;&#160; 
+lak 05/2003 ]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19990603]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20000329]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/Conant2001/conant2001.htm]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Tris West; email: westto@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Grasslands are heavily relied upon for food and forage production. A key component for sustaining production in grassland ecosystems is the maintenance of soil organic matter (SOM), which can be strongly influenced by management. Many management techniques intended to increase forage production may potentially increase SOM, thus sequestering atmospheric carbon (C). Further, conversion from either cultivation or native vegetation into grassland could also sequester atmospheric carbon. We reviewed studies examining the influence of improved grassland management practices and conversion into grasslands on soil C worldwide to assess the potential for C sequestration. Results from 115 studies containing over 300 data points were analyzed. Management improvements included fertilization (39%), improved grazing management (24%), conversion from cultivation (15%) and native vegetation (15%), sowing of legumes (4%) and grasses (2%), earthworm introduction (1%), and irrigation (1%). Soil C content and concentration increased with improved management in 74% of the studies, and mean soil C increased with all types of improvement. Carbon sequestration rates were highest during the first 40 yr after treatments began and tended to be greatest in the top 10 cm of soil. Impacts were greater in woodland and grassland biomes than in forest, desert, rain forest, or shrubland biomes. Conversion from cultivation, the introduction of earthworms, and irrigation resulted in the largest increases. Rates of C sequestration by type of improvement ranged from 0.11 to 3.04 Mg C.ha-1 yr-1, with a mean of 0.54 Mg C.ha -1.yr-1, and were highly influenced by biome type and climate. We conclude that grasslands can act as a significant carbon sink with the implementation of improved management.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Norby, R.J.]]></origin>
+        <origin><![CDATA[Iverson, C.M.]]></origin>
+        <origin><![CDATA[Tharp, M.L.]]></origin>
+        <title><![CDATA[ORNL FACE Nitrogen Concentrations (Leaves, Litter, Fine Roots, Wood)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Lisa_Olsen/FACE/ornl_nitrogen.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/nitrogen_concentrations/Nconc.dat]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[ORNL FACE Nitrogen Concentrations (Leaves, Litter, Fine Roots, Wood)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19980101]]></begdate>
+          <enddate><![CDATA[20061231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-84.33]]></westbc>
+        <eastbc><![CDATA[-84.33]]></eastbc>
+        <northbc><![CDATA[35.9]]></northbc>
+        <southbc><![CDATA[35.9]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[CO2 enrichment]]></themekey>
+        <themekey><![CDATA[FACE]]></themekey>
+        <themekey><![CDATA[Nitrogen]]></themekey>
+        <themekey><![CDATA[leaves]]></themekey>
+        <themekey><![CDATA[litter]]></themekey>
+        <themekey><![CDATA[fine roots]]></themekey>
+        <themekey><![CDATA[wood]]></themekey>
+        <themekey><![CDATA[ORNL FACE]]></themekey>
+        <themekey><![CDATA[sweetgum]]></themekey>
+        <themekey><![CDATA[Liquidambar Styraciflua]]></themekey>
+        <themekey><![CDATA[vegetation response]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070731 123419</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070731 114902 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[CO2 enrichment]]></Keywords>
+    <Keywords><![CDATA[FACE]]></Keywords>
+    <Keywords><![CDATA[Nitrogen]]></Keywords>
+    <Keywords><![CDATA[leaves]]></Keywords>
+    <Keywords><![CDATA[litter]]></Keywords>
+    <Keywords><![CDATA[fine roots]]></Keywords>
+    <Keywords><![CDATA[wood]]></Keywords>
+    <Keywords><![CDATA[ORNL FACE]]></Keywords>
+    <Keywords><![CDATA[sweetgum]]></Keywords>
+    <Keywords><![CDATA[Liquidambar Styraciflua]]></Keywords>
+    <Keywords><![CDATA[vegetation response]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[FREE AIR CO2 ENRICHMENT (FACE) DATA REPORT:
+                           NITROGEN CONCENTRATIONS 
+                      LEAVES, LITTER, FINE ROOTS, WOOD  
+
+-------------------------------------------------------------
+
+
+DESCRIPTION OF FILE 
+-------------------
+
+This report documents the file, Nconc.dat, which contains the nitrogen  
+concentration data for leaves, litter, fine roots, and wood produced in 
+1998-2009.  These data were collected for rings 1 and 2 which are 
+exposed to elevated CO2 and rings 3-5 which have ambient CO2.
+
+This file updates the previously posted file with the addition of data from 2008-2009 and revised data based on re-analysis of wood samples and a new calculation of fine-root N based on a relationship with root diameter.
+
+
+Additional information describing this dataset can be found in 
+Norby, R.J. and C.M. Iversen (2006).  Nitrogen uptake, distribution, 
+turnover, and efficiency of use in a CO2-enriched sweetgum forest. 
+Ecology 87:5-14.
+and 
+Iversen CM, Ledford J, Norby RJ. 2008. CO2 enrichment increases carbon and nitrogen input from fine roots in a deciduous forest. New Phytologist 179: 837-847.
+
+**********
+
+
+CONTENTS OF THE ASCII DATA FILE
+-------------------------------
+
+Variable   Variable  Variable  Starting  Ending  Units Definition and
+           type      width     column    column         comments
+
+PLOT         Integer   1         3         3           Plot number
+YEAR         Integer   4         6         9       y   Year
+leaf_N       Real      6         11        16      %   Leaf nitrogen 
+litter_N     Real      6         19        24      %   Litter nitrogen 
+fine-root_N  Real      6         29        34      %   Fine root nitrogen 
+wood_N       Real      6         42        47      %   Wood nitrogen 
+
+
+PARTIAL LISTING OF THE ASCII DATA FILE
+--------------------------------------
+
+The missing-value indicator for the variables in this file is -.999. 
+
+
+Format and contents of the ASCII data file Nconc.dat.
+
+First two data records:
+
+1998  1.550   0.872   0.548   0.147  
+1998  1.528   0.857   0.677   0.146
+Last two data records:
+
+2008   1.382  0.708   0.892   0.091
+2008   1.235  0.624   0.753   0.084
+SPREADSHEET SOFTWARE TO ACCESS THE DATA
+--------------------------------------------
+
+Since this nitrogen concentration file is space-delimited ASCII 
+text, the files can be imported to spreadsheet software such as Excel.
+A search and replace command can be used to replace the missing value 
+of -.999 with an appropriate missing value for the software being used. 
+
+
+SAS and FORTRAN CODES TO ACCESS THE DATA
+--------------------------------------------
+
+
+The following is SAS code to read the file, Nconc.dat.
+
+/* SAS code to read Nconc.dat */
+
+/*   Input Variables: */
+/*         plot      - Plot number     */
+/*         year      - Year            */
+/*         leafN     - leaf N (%)      */
+/*         litterN   - litter N (%)    */
+/*         finerootN - fine root N (%) */
+/*         woodN     - wood N (%)      */
+ 
+data Nconc;
+
+   infile "Nconc.dat";
+   if _N_ = 1 then do;
+      /* Read header records. */
+      input ////////;
+   end;
+
+   input plot 1-3 year 6-9 leafN 11-16 3 litterN 19-24 3 finerootN 29-34 3 woodN 42-47 3;
+
+proc print;
+
+run;
+
+
+**********
+
+The following is FORTRAN code to read the file, Nconc.dat.
+
+      program Nconc 
+      implicit none
+
+!     This program reads the file, Nconc.dat.
+
+!     Input variables for data record:
+!           plot      - Plot number
+!           year      - Year
+!           leafN     - Leaf N (%) 
+!           litterN   - Litter N (%)  
+!           finerootN - Fine root N (%) 
+!           woodN     - Wood N (%) 
+
+      real    :: leafN, litterN, finerootN, woodN 
+      integer :: plot, year, nrec, ioerror
+
+      open(unit = 10, file = 'Nconc.dat',&amp;
+         &amp;status = 'old', iostat = ioerror)
+
+      if(ioerror   0) then
+         write(6,'("Error opening input file.")')
+         stop
+      endif
+
+!     input header records
+      read(10,'(////////)')
+
+      if(ioerror /= 0) then
+         write(6,'("Input error reading header records.")')
+         stop
+      endif
+
+      nrec = 0   !initialize counter for summing number of input records
+   10 continue
+
+      read(10,'(i3,2x,i4,1x,f6.3,2x,f6.3,4x,f6.3,7x,f6.3)', &amp;
+        &amp; iostat = ioerror)&amp;
+        &amp; plot, year, leafN, litterN, finerootN, woodN 
+      
+      if(ioerror   0) then
+         write(6,'("End-of-file")')
+         write(6,'("Number of data records read = ", i5)') nrec
+        stop
+      endif
+
+      write(6,'(i3,2x,i4,1x,f6.3,2x,f6.3,4x,f6.3,7x,f6.3)')&amp;
+         &amp; plot, year, leafN, litterN, finerootN, woodN 
+      nrec = nrec + 1
+      go to 10   !read next record
+
+      close (10)
+
+      stop
+      end
+
+
+**********
+
+
+]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070731 114902 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Lisa_Olsen/FACE/ornl_nitrogen.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[ORNL FACE Nitrogen Concentrations]]></Product_number>
+      <Product_title><![CDATA[ORNL FACE Nitrogen Concentrations (Leaves, Litter, Fine Roots, Wood)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Norby, R.J.]]></Name>
+        <Company><![CDATA[Environmental Sciences Division]]></Company>
+        <Organization><![CDATA[Oak Ridge National Laboratory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Iverson, C.M.]]></Name>
+        <Company></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Tharp, M.L.]]></Name>
+        <Company><![CDATA[Environmental Sciences Division]]></Company>
+        <Organization><![CDATA[Oak Ridge National Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Oak Ridge National Laboratory FACE Experiment]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/face/ORNL/ornl_home.shtml]]></Site_URL>
+        <Site_data_file><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml]]></Data_site>
+      <Variable><![CDATA[PLOT]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Variable><![CDATA[leaf_N (%)]]></Variable>
+      <Variable><![CDATA[litter_N (%)]]></Variable>
+      <Variable><![CDATA[fine-root_N (%)]]></Variable>
+      <Variable><![CDATA[wood_N (%)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/nitrogen_concentrations/nitrogen.txtFREE AIR CO2 ENRICHMENT (FACE) DATA REPORT:
+                           NITROGEN CONCENTRATIONS 
+                      LEAVES, LITTER, FINE ROOTS, WOOD  
+
+-------------------------------------------------------------
+
+
+DESCRIPTION OF FILE 
+-------------------
+
+This report documents the file, Nconc.dat, which contains the nitrogen  
+concentration data for leaves, litter, fine roots, and wood produced in 
+1998-2009.  These data were collected for rings 1 and 2 which are 
+exposed to elevated CO2 and rings 3-5 which have ambient CO2.
+
+This file updates the previously posted file with the addition of data from 2008-2009 and revised data based on re-analysis of wood samples and a new calculation of fine-root N based on a relationship with root diameter.
+
+
+Additional information describing this dataset can be found in 
+Norby, R.J. and C.M. Iversen (2006).  Nitrogen uptake, distribution, 
+turnover, and efficiency of use in a CO2-enriched sweetgum forest. 
+Ecology 87:5-14.
+and 
+Iversen CM, Ledford J, Norby RJ. 2008. CO2 enrichment increases carbon and nitrogen input from fine roots in a deciduous forest. New Phytologist 179: 837-847.
+
+**********
+
+
+CONTENTS OF THE ASCII DATA FILE
+-------------------------------
+
+Variable   Variable  Variable  Starting  Ending  Units Definition and
+           type      width     column    column         comments
+
+PLOT         Integer   1         3         3           Plot number
+YEAR         Integer   4         6         9       y   Year
+leaf_N       Real      6         11        16      %   Leaf nitrogen 
+litter_N     Real      6         19        24      %   Litter nitrogen 
+fine-root_N  Real      6         29        34      %   Fine root nitrogen 
+wood_N       Real      6         42        47      %   Wood nitrogen 
+
+
+PARTIAL LISTING OF THE ASCII DATA FILE
+--------------------------------------
+
+The missing-value indicator for the variables in this file is -.999. 
+
+
+Format and contents of the ASCII data file Nconc.dat.
+
+First two data records:
+
+1998  1.550   0.872   0.548   0.147  
+1998  1.528   0.857   0.677   0.146
+Last two data records:
+
+2008   1.382  0.708   0.892   0.091
+2008   1.235  0.624   0.753   0.084
+SPREADSHEET SOFTWARE TO ACCESS THE DATA
+--------------------------------------------
+
+Since this nitrogen concentration file is space-delimited ASCII 
+text, the files can be imported to spreadsheet software such as Excel.
+A search and replace command can be used to replace the missing value 
+of -.999 with an appropriate missing value for the software being used. 
+
+
+SAS and FORTRAN CODES TO ACCESS THE DATA
+--------------------------------------------
+
+
+The following is SAS code to read the file, Nconc.dat.
+
+/* SAS code to read Nconc.dat */
+
+/*   Input Variables: */
+/*         plot      - Plot number     */
+/*         year      - Year            */
+/*         leafN     - leaf N (%)      */
+/*         litterN   - litter N (%)    */
+/*         finerootN - fine root N (%) */
+/*         woodN     - wood N (%)      */
+ 
+data Nconc;
+
+   infile "Nconc.dat";
+   if _N_ = 1 then do;
+      /* Read header records. */
+      input ////////;
+   end;
+
+   input plot 1-3 year 6-9 leafN 11-16 3 litterN 19-24 3 finerootN 29-34 3 woodN 42-47 3;
+
+proc print;
+
+run;
+
+
+**********
+
+The following is FORTRAN code to read the file, Nconc.dat.
+
+      program Nconc 
+      implicit none
+
+!     This program reads the file, Nconc.dat.
+
+!     Input variables for data record:
+!           plot      - Plot number
+!           year      - Year
+!           leafN     - Leaf N (%) 
+!           litterN   - Litter N (%)  
+!           finerootN - Fine root N (%) 
+!           woodN     - Wood N (%) 
+
+      real    :: leafN, litterN, finerootN, woodN 
+      integer :: plot, year, nrec, ioerror
+
+      open(unit = 10, file = 'Nconc.dat',&amp;
+         &amp;status = 'old', iostat = ioerror)
+
+      if(ioerror   0) then
+         write(6,'("Error opening input file.")')
+         stop
+      endif
+
+!     input header records
+      read(10,'(////////)')
+
+      if(ioerror /= 0) then
+         write(6,'("Input error reading header records.")')
+         stop
+      endif
+
+      nrec = 0   !initialize counter for summing number of input records
+   10 continue
+
+      read(10,'(i3,2x,i4,1x,f6.3,2x,f6.3,4x,f6.3,7x,f6.3)', &amp;
+        &amp; iostat = ioerror)&amp;
+        &amp; plot, year, leafN, litterN, finerootN, woodN 
+      
+      if(ioerror   0) then
+         write(6,'("End-of-file")')
+         write(6,'("Number of data records read = ", i5)') nrec
+        stop
+      endif
+
+      write(6,'(i3,2x,i4,1x,f6.3,2x,f6.3,4x,f6.3,7x,f6.3)')&amp;
+         &amp; plot, year, leafN, litterN, finerootN, woodN 
+      nrec = nrec + 1
+      go to 10   !read next record
+
+      close (10)
+
+      stop
+      end
+
+
+**********
+
+
+]]></Descriptive_file>
+      <Data_file><![CDATA[Nconc.dat]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070710]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/FACE/ornldata/nitrogen_concentrations/Nconc.dat]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This report documents the file, Nconc.dat, which contains the nitrogen  
+concentration data for leaves, litter, fine roots, and wood for 
+1998-2006.  These data were collected for rings 1 and 2 which are 
+exposed to elevated CO2 and rings 3-5 which have ambient CO2.
+
+The 2005 and 2006 nitrogen concentrations for fine roots will be included  
+when they become available.  The N concentration in leaves could not be
+measured in ring 5 in 2006; an estimated value based on N concentration 
+in litter and an average resorption efficiency is 1.073%.
+
+Additional information describing this dataset can be found in 
+Norby, R.J. and C.M. Iversen (2006).  Nitrogen uptake, distribution, 
+turnover, and efficiency of use in a CO2-enriched sweetgum forest. 
+Ecology 87:5-14.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

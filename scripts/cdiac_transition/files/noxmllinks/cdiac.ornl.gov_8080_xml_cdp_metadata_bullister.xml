@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Dr. John Bullister]]></origin>
+        <title><![CDATA[Atmospheric CFC-11, CFC-12, CFC-113, CCl4 and SF6 Histories (1910-2011)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/new_atmCFC.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CFC-11, CFC-12, CFC-113, CCl4 and SF6 Histories (1910-2011)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19080101]]></begdate>
+          <enddate><![CDATA[20111231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Historical atmospheric CFCs]]></themekey>
+        <themekey><![CDATA[Historical atmospheric CFC-11]]></themekey>
+        <themekey><![CDATA[Historical atmospheric CFC-12]]></themekey>
+        <themekey><![CDATA[Historical atmospheric CFC-113]]></themekey>
+        <themekey><![CDATA[Historical CCl4]]></themekey>
+        <themekey><![CDATA[Atmospheric CFCs]]></themekey>
+        <themekey><![CDATA[Atmospheric halons]]></themekey>
+        <themekey><![CDATA[Atmospheric CFC-11]]></themekey>
+        <themekey><![CDATA[Atmospheric CFC11]]></themekey>
+        <themekey><![CDATA[Atmospheric CFC12]]></themekey>
+        <themekey><![CDATA[Atmospheric CFC-12]]></themekey>
+        <themekey><![CDATA[Atmospheric CFC-113]]></themekey>
+        <themekey><![CDATA[Atmospheric CFC113]]></themekey>
+        <themekey><![CDATA[Atmospheric CCl4]]></themekey>
+        <themekey><![CDATA[Atmospheric SH6]]></themekey>
+        <themekey><![CDATA[CFC-11]]></themekey>
+        <themekey><![CDATA[CFC-12]]></themekey>
+        <themekey><![CDATA[CFC-113]]></themekey>
+        <themekey><![CDATA[CCl4]]></themekey>
+        <themekey><![CDATA[carbon tetrachloride]]></themekey>
+        <themekey><![CDATA[sulfur hexafluoride]]></themekey>
+        <themekey><![CDATA[SF6]]></themekey>
+        <themekey><![CDATA[DB2001 ]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr (kozyra@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr (kozyra@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 164206</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr (kozyra@ornl.gov)]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20080910 140937 by 160.91.18.20</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Historical atmospheric CFCs]]></Keywords>
+    <Keywords><![CDATA[Historical atmospheric CFC-11]]></Keywords>
+    <Keywords><![CDATA[Historical atmospheric CFC-12]]></Keywords>
+    <Keywords><![CDATA[Historical atmospheric CFC-113]]></Keywords>
+    <Keywords><![CDATA[Historical CCl4]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CFCs]]></Keywords>
+    <Keywords><![CDATA[Atmospheric halons]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CFC-11]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CFC11]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CFC12]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CFC-12]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CFC-113]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CFC113]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CCl4]]></Keywords>
+    <Keywords><![CDATA[Atmospheric SH6]]></Keywords>
+    <Keywords><![CDATA[CFC-11]]></Keywords>
+    <Keywords><![CDATA[CFC-12]]></Keywords>
+    <Keywords><![CDATA[CFC-113]]></Keywords>
+    <Keywords><![CDATA[CCl4]]></Keywords>
+    <Keywords><![CDATA[carbon tetrachloride]]></Keywords>
+    <Keywords><![CDATA[sulfur hexafluoride]]></Keywords>
+    <Keywords><![CDATA[SF6]]></Keywords>
+    <Keywords><![CDATA[DB2001 ]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20080910 140937 by 160.91.18.20</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.001]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CFC-11, CFC-12, CFC-113, CCl4 and SF6 Histories (1910-2011)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Dr. John Bullister]]></Name>
+        <Company><![CDATA[NOAA]]></Company>
+        <Organization><![CDATA[Pacific Marine Environmental Laboratory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/new_atmCFC.html]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[CFC11_NH]]></Variable>
+      <Variable><![CDATA[CFC11_SH]]></Variable>
+      <Variable><![CDATA[CFC12_NH]]></Variable>
+      <Variable><![CDATA[CFC12_SH]]></Variable>
+      <Variable><![CDATA[CFC113_NH]]></Variable>
+      <Variable><![CDATA[CFC113_SH]]></Variable>
+      <Variable><![CDATA[CCl4_NH]]></Variable>
+      <Variable><![CDATA[CCl4_SH]]></Variable>
+      <Variable><![CDATA[SF6_NH]]></Variable>
+      <Variable><![CDATA[SF6_SH]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Descriptive_file></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20080909]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20110302]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/new_atmCFC.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr (kozyra@ornl.gov)]]></CDIAC_contact>
+      <Notes><![CDATA[This data set provides a table of tropospheric CFCs, carbon tetrachloride and sulfur hexafluoride concentrations from 1910 to 2011 for the northern (NH) and southern (SH) hemispheres.
+
+Concentration values for CFC-11, CFC-12, CFC-113 and CCl4 listed in Table 1 from 1910.5 up to 2008.5 are based on a 2009 update (https://bluemoon.ucsd.edu/pub/cfchist ) of the Walker et al. (2000) results. Information on the calibration scales used at the Scripps Institution of Oceanography (SIO) is also provided at this website. The most recent (2009.5 to 2010.5) concentration values reported in Table 1 are derived from CMDL atmospheric measurements tabulated at the website: ftp://ftp.cmdl.noaa.gov/hats/ in 2011. Because of differences in the CMDL and SIO calibration scales for these compounds, the CMDL concentration values reported for 2009.5 and 2010.5 are not directly used in Table 1. Instead, the one and two year changes (from 2008.5 to 2009.5 and from 2008.5 to 2010.5) in ppt reported by CMDL for each compound are added to the SIO concentration values for 2008.5 in Table 1 to derive the concentrations for 2009.5 and 2010.5. The CMDL tabulations available (as of March 2011) at the website ftp://ftp.cmdl.noaa.gov/hats/ only go to January 2011. The 2011.5 concentration values in Table 1 are extrapolated from the corresponding 2010.5 values, assuming the same changes (in ppt per year) between 2010.5 and 2011.5 for each compound as those observed between 2009.5 and 2010.5 
+
+]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

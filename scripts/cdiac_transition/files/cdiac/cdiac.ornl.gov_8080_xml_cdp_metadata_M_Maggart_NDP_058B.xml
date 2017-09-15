@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Andres, R. J. ]]></origin>
+        <origin><![CDATA[Boden, T. A.]]></origin>
+        <origin><![CDATA[Marland, G. ]]></origin>
+        <title><![CDATA[Annual Fossil-Fuel CO2 Emissions: Mass of Emissions Gridded by One Degree Latitude by One Degree Longitude]]></title>
+        <geoform><![CDATA[Other]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/M_Maggart/NDP_058B.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp058_v2016/]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp058_v2016/readme.ndp058_v2016.txt]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Annual Fossil-Fuel CO2 Emissions: Mass of Emissions Gridded by One Degree Latitude by One Degree Longitude]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[17510101]]></begdate>
+          <enddate><![CDATA[20131231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-179.50]]></westbc>
+        <eastbc><![CDATA[179.50]]></eastbc>
+        <northbc><![CDATA[83.50]]></northbc>
+        <southbc><![CDATA[-55.50]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Gridded annual fossil-fuel CO2 emissions]]></themekey>
+        <themekey><![CDATA[Gridded fossil-fuel carbon emissions]]></themekey>
+        <themekey><![CDATA[Latitude]]></themekey>
+        <themekey><![CDATA[Longitude]]></themekey>
+        <themekey><![CDATA[Mass of Emissions]]></themekey>
+        <themekey><![CDATA[fossil-fuel CO2 emissions]]></themekey>
+        <themekey><![CDATA[carbon dioxide emission estimates]]></themekey>
+        <themekey><![CDATA[global fossil-fuel CO2 emissions]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[cdiac.ess-dive.lbl.gov]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20160608 153633</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20090812 172949 by 160.91.18.49</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Gridded annual fossil-fuel CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[Gridded fossil-fuel carbon emissions]]></Keywords>
+    <Keywords><![CDATA[Latitude]]></Keywords>
+    <Keywords><![CDATA[Longitude]]></Keywords>
+    <Keywords><![CDATA[Mass of Emissions]]></Keywords>
+    <Keywords><![CDATA[fossil-fuel CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide emission estimates]]></Keywords>
+    <Keywords><![CDATA[global fossil-fuel CO2 emissions]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;Gridded Annual Emission Estimates
+R.J. Andres and T.A. Boden
+Carbon Dioxide Information Analysis Center
+G. Marland
+Research Institute for Environment, Energy and Economics
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20090812 172949 by 160.91.18.49</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/M_Maggart/NDP_058B.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/ffe.ndp058.2016]]></Product_number>
+      <Product_title><![CDATA[Annual Fossil-Fuel CO2 Emissions: Mass of Emissions Gridded by One Degree Latitude by One Degree Longitude]]></Product_title>
+      <Author>
+        <Name><![CDATA[Andres, R. J. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Boden, T. A.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Marland, G. ]]></Name>
+        <Company><![CDATA[Appalachian State University]]></Company>
+        <Organization><![CDATA[Research Institute for Environment, Energy and Economics]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Trace Gas Emissions]]></Thematic_area>
+      <Thematic_area><![CDATA[Fossil-Fuel CO2 Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp058/ndp058_v2016.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp058_v2016/readme.ndp058_v2016.txt]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[cdiac.ess-dive.lbl.gov]]></Data_site>
+      <Variable><![CDATA[Mass of CO2 Emissions]]></Variable>
+      <Variable><![CDATA[latitude]]></Variable>
+      <Variable><![CDATA[longitude]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp058/ndp058_v2016.html &#187;&#160;Gridded Annual Emission Estimates
+R.J. Andres and T.A. Boden
+Carbon Dioxide Information Analysis Center
+G. Marland
+Research Institute for Environment, Energy and Economics
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp058_v2016/readme.ndp058_v2016.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980301]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20160608]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp058_v2016/]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp058_v2016/readme.ndp058_v2016.txt]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This database presents a time series recording one degree latitude by one degree longitude CO2 emissions in units of million metric tons of carbon per year from anthropogenic sources for 1751-2013. Detailed geographic information on CO2 emissions can be critical in understanding the pattern of the atmospheric and biospheric response to these emissions. Global, regional, and national annual estimates for 1751 through 2013 were published earlier (Boden et al. 2016). Those national, annual CO2 emission estimates were based on statistics about fossil-fuel burning, cement manufacturing and gas flaring in oil fields as well as energy production, consumption, and trade data, using the methods of Marland and Rotty (1984). The national annual estimates were combined with gridded one degree data on political units and 1984 human populations to create the new gridded CO2 emission time series. The same population distribution was used for each of the years as proxy for the emission distribution within each country. The implied assumption for that procedure was that per capita energy use and fuel mixes are uniform over a political unit. The consequence of this first-order procedure is that the spatial changes observed over time are solely due to changes in national energy consumption and nation-based fuel mix. Increases in fossil-fuel CO2 emissions over time are apparent for most areas.
+]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

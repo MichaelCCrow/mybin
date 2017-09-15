@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Hahn, C. J.]]></origin>
+        <origin><![CDATA[Warren, S. G.]]></origin>
+        <origin><![CDATA[London, J.]]></origin>
+        <title><![CDATA[Edited Synoptic Cloud Reports From Ships and Land Stations over the Globe, 1982-1991 (NDP-026B)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Dale_Kaiser/NDP_026b.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp026b/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Edited Synoptic Cloud Reports From Ships and Land Stations over the Globe, 1982-1991 (NDP-026B)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19811201]]></begdate>
+          <enddate><![CDATA[19911130]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[1.000]]></westbc>
+        <eastbc><![CDATA[-1.000]]></eastbc>
+        <northbc><![CDATA[80.620]]></northbc>
+        <southbc><![CDATA[-75.490]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Change Code]]></themekey>
+        <themekey><![CDATA[Cloud Amount]]></themekey>
+        <themekey><![CDATA[Cloud Base Height]]></themekey>
+        <themekey><![CDATA[Cloud Type]]></themekey>
+        <themekey><![CDATA[Day]]></themekey>
+        <themekey><![CDATA[Hour]]></themekey>
+        <themekey><![CDATA[Land/Ocean Indicator]]></themekey>
+        <themekey><![CDATA[Latitude]]></themekey>
+        <themekey><![CDATA[Longitude]]></themekey>
+        <themekey><![CDATA[Month]]></themekey>
+        <themekey><![CDATA[Present Weather]]></themekey>
+        <themekey><![CDATA[Relative Lunar Illuminance]]></themekey>
+        <themekey><![CDATA[Sky Brightness Indicator]]></themekey>
+        <themekey><![CDATA[Solar Altitude]]></themekey>
+        <themekey><![CDATA[Source Deck]]></themekey>
+        <themekey><![CDATA[Station Number]]></themekey>
+        <themekey><![CDATA[Total Cloud Cover]]></themekey>
+        <themekey><![CDATA[Year]]></themekey>
+        <themekey><![CDATA[NDP-026B]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120924 165006</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 163356 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Change Code]]></Keywords>
+    <Keywords><![CDATA[Cloud Amount]]></Keywords>
+    <Keywords><![CDATA[Cloud Base Height]]></Keywords>
+    <Keywords><![CDATA[Cloud Type]]></Keywords>
+    <Keywords><![CDATA[Day]]></Keywords>
+    <Keywords><![CDATA[Hour]]></Keywords>
+    <Keywords><![CDATA[Land/Ocean Indicator]]></Keywords>
+    <Keywords><![CDATA[Latitude]]></Keywords>
+    <Keywords><![CDATA[Longitude]]></Keywords>
+    <Keywords><![CDATA[Month]]></Keywords>
+    <Keywords><![CDATA[Present Weather]]></Keywords>
+    <Keywords><![CDATA[Relative Lunar Illuminance]]></Keywords>
+    <Keywords><![CDATA[Sky Brightness Indicator]]></Keywords>
+    <Keywords><![CDATA[Solar Altitude]]></Keywords>
+    <Keywords><![CDATA[Source Deck]]></Keywords>
+    <Keywords><![CDATA[Station Number]]></Keywords>
+    <Keywords><![CDATA[Total Cloud Cover]]></Keywords>
+    <Keywords><![CDATA[Year]]></Keywords>
+    <Keywords><![CDATA[NDP-026B]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[
+Download the of NDP-026B
+Download 
+ of NDP-026B
+FROM SHIPS AND LAND STATIONS OVER THE GLOBE, 1982-1991
+Carole J. Hahn
+Department of Atmospheric Sciences
+Tucson, AZ 85721
+Stephen G. Warren
+Department of Atmospheric Sciences
+Seattle, WA 98195
+Julius London
+Department of Astrophysical, Planetary and
+Atmospheric Sciences
+Boulder, CO 80309
+Publication No. 4367
+Date Published: February 1996
+Printed for the
+Global Change Research Program
+Environmental Sciences Division
+Office of Health and Environmental Research
+(KP 05 02 00 0)
+Printed by the
+Oak Ridge, Tennessee 37831-6290
+managed by
+for the
+U.S. DEPARTMENT OF ENERGY
+under contract DE-AC05-96OR22464
+2b. Frequency distribution of extended code values for indicated cloud variables
+ in edited light 
+, Carbon Dioxide Information Analysis Center,
+Oak Ridge National Laboratory,
+ Surface synoptic weather reports for the entire globe for the 10-year period from December 1981
+through November 1991 have been processed, edited, and rewritten to provide a data set designed for use
+in cloud analyses. The information in these reports relating to clouds, including the present weather
+information, was extracted and put through a series of quality control checks. Reports not meeting certain
+quality control standards were rejected, as were reports from buoys and automatic weather stations.
+Correctable inconsistencies within reports were edited for consistency, so that the "edited cloud report" can
+be used for cloud analysis without further quality checking. Cases of "sky obscured" were interpreted by
+reference to the present weather code as to whether they indicated fog, rain or snow and were given
+appropriate cloud type designations. Nimbostratus clouds, which are not specifically coded for in the
+standard synoptic code, were also given a special designation. Changes made to an original report are
+indicated in the edited report so that the original report can be reconstructed if desired. While low cloud
+amount is normally given directly in the synoptic report, the edited cloud report also includes the amounts,
+either directly reported or inferred, of middle and high clouds, both the non-overlapped amounts and the
+"actual" amounts (which may be overlapped). Since illumination from the moon is important for the
+adequate detection of clouds at night, both the relative lunar illuminance and the solar altitude are given, as
+well as a parameter that indicates whether our recommended illuminance criterion was satisfied.
+This data set contains 124 million reports from land stations and 15 million reports from ships.
+Each report is 56 characters in length. The archive consists of 240 files, one file for each month of data for
+land and ocean separately. With this data set a user can develop a climatology for any particular cloud type
+or group of types, for any geographical region and any spatial and temporal resolution desired.
+ Surface synoptic weather reports are readily available in data sets such as those prepared by the
+National Meteorological Center (NMC) and the U. S. Navy Fleet Numerical Oceanography Center
+(FNOC). For marine reports there is also the Comprehensive Ocean-Atmosphere Data Set (COADS).
+Those data sets are archived at the (NCDC) in Asheville, North Carolina,
+and at the (NCAR) in Boulder, Colorado. The data set
+described here includes only the information from the synoptic weather report that directly relates to
+clouds, as well as some derived quantities that aid in cloud analysis. It was developed as an intermediate
+stage in our own global analysis of total cloud cover (Hahn et al., 1994a) and cloud types, but should be
+useful to other researchers who wish to compare individual surface cloud reports to concurrent satellite-derived cloud data for example, or who wish to obtain averages over time or space scales not already
+provided in existing archives.
+ The cloud report provided in this data set, referred to as the "edited cloud report" (ECR, or ECRA
+when referring to the archive of all reports), has several features that make it desirable and easy to use in
+cloud analyses:
+ Synoptic weather reports contain information in addition to clouds, such as air temperature,
+pressure, winds, humidity, visibility, past weather and, for ships, sea surface temperature and ocean wave
+parameters. The ECR excludes these data, thus reducing the data volume.
+ Data sets of synoptic weather reports include reports that do not contain cloud information,
+such as those from automated weather stations on land and buoys in the oceans. These are not included in
+the ECRA.
+The cloud portion of the synoptic report occasionally contains obvious errors or inconsistencies
+which must be checked for to avoid inclusion of detectably erroneous data in an analysis. Quality control
+procedures developed over years of analyzing surface cloud reports have been applied so that erroneous or
+inconsistent reports have either been excluded or, if possible, corrected before inclusion in the archive.
+While the amount of low cloud is directly coded in the synoptic report, the amounts of middle
+and high clouds are not, but may often be inferred. Where possible for upper level clouds, the ECR
+includes both the "actual" cloud amount (sometimes requiring use of the random-overlap assumption) and
+the non-overlapped amount, which is simply that portion of the cloud that is visible from below and
+requires no assumptions.
+Although all reports that meet the above criteria are included in the ECRA, it has been shown
+that many of the nighttime reports are made under conditions of insufficient (moon) light for adequate
+detection of clouds. Use of such reports results in an underestimate of nighttime cloudiness by about 4%
+globally and has a profound influence on computed diurnal cycles in cloudiness (Hahn et al., 1994b).
+Reports made under conditions that satisfy the criterion for adequate illumination specified by Hahn et al.
+(1994b) are flagged in the ECR, and both the relative lunar illuminance and the solar altitude are given for
+each report.
+ The edited cloud report archive described here covers the ten-year period December 1981 to
+November 1991. These beginning and ending months were chosen to coincide with the boundaries of the
+traditionally-defined seasons December-January-February (DJF), March-April-May (MAM), June-July-August (JJA) and September-October-November (SON). Since December 1981 is considered to be part of
+DJF 1982, the 10-year period is referred to as 1982-1991. This particular 10-year period was selected to
+coincide with the International Satellite Cloud Climatology Project (ISCCP; Rossow and Schiffer, 1991)
+and to extend our previous climatologies (Hahn et al., 1988; Warren et al., 1986 {hereafter referred to as
+W86}; Warren et al., 1988 {hereafter referred to as W88}), which terminated in (November) 1981.
+ Non-standard terms used in the following discussions are defined in the glossary of terms and abbreviations in 
+The NMC data set (obtained from NCAR) was the source of the synoptic weather reports used for
+land stations. About 144 million reports (22 gigabytes of data) were processed. Only those stations assigned official station numbers by the (WMO) were used. Synoptic
+reporting hours are 00, 03, 06, 09, 12, 15, 18, 21 Greenwich Mean Time (GMT). In the NCAR archive the
+6-hourly reports (00,06,12,18 GMT) are stored in separate files from the intermediate 3-hourly reports
+(03,09,15,21 GMT) and we processed them in tandem for each month. Within each of these two groups the reports are sorted by time.
+ The COADS Interim Product CMR5 Reports (Woodruff et al., 1987) were the source of the ship
+data used (also obtained from NCAR). About 22 million reports (540 megabytes of data in packed binary
+format) were processed. Many of these reports are from buoys, however, and do not contain cloud
+information. For an individual month these data are sorted first by 2-degree latitude x longitude boxes and
+then by day and hour. COADS merges a dozen or so subsets of ship data and, as such, is the most
+extensive record of climatic data for the sea surface. However, the Interim Products available at the time
+of our analysis lack much of the digitized ship logbook data from foreign countries which may be delayed
+2 - 5 years (Woodruff et al., 1992). Thus future releases of COADS will contain more data than were utilized here.
+ Synoptic weather reports are coded according to the system given by the World Meteorological
+Organization (WMO, 1988). The information in these reports that relates to cloud analysis is summarized
+in . All other parameters were ignored in our processing. A more detailed breakdown of the
+definitions of the cloud and weather types, as used here, is given in . The table shows the synoptic
+codes that correspond to various precipitation types (ww codes) as well as the codes that correspond to the various cloud types defined within each of the three reporting levels: low, middle and high (C).
+ We give special consideration to the cloud type nimbostratus (Ns), which is not specifically
+defined in the synoptic code. Codes C= 2 or 7 may signify Ns but may also signify As or Ac,
+respectively. We consider these codes to signify Ns when there is concurrent precipitation in the form of
+drizzle, rain, or snow as indicated in the present weather code ww (symbolized in Table 2 as D, R and S,
+respectively). To distinguish Ns from As/Ac we "extend" the synoptic code for CM to include the values
+12 and 11 to represent these cases of C= 2 and 7, respectively. The extended code values (shown in
+Table 2) are entered in the edited cloud report (Section 4) without loss of the information content in the original report.
+ Nimbostratus is also considered to be present when C= / and specified combinations of
+precipitation and low cloud types are present (Table 2). These cases are given the extended code C= 10.
+This definition for nimbostratus has been simplified from that used in our previous work (W86, W88).
+Cases of C=/ with low stratus and drizzle are no longer defined to be Ns. This will cause a slight
+reduction in computed Ns amounts (Section 5C).
+Special consideration is also given to the case of N=9 (sky obscured). If ww indicates that the sky
+was obscured due to F, Ts, or DRS (symbols defined in Table 2), the cloud type is considered to be Fg,
+Cb, or Ns, respectively, and is given the extended code C=10, respectively, and the
+value of N is set to 8 oktas.
+ All the changes described here are coded in a parameter called "the change code" (Section 3C
+below) which is also included in the edited cloud report (Section 4), so that unchanged reports could be
+reconstructed if desired.
+ A cloud report may be suitable for total cloud analysis even if cloud type information is
+incomplete. Certain inconsistencies within the cloud type portion of the report may, however, make the
+whole report suspect and cause it to be rejected even for total cloud analysis. The processing and quality
+control checks performed on each weather report read from the original archives (NMC or COADS) and
+designed to ensure suitability for total cloud analysis are shown in the flow chart in . The
+percentage of reports discarded at each stage of the processing, which is discussed in the following
+paragraphs, is indicated.
+ In the early stages of processing, land and ship reports required slightly different checks (upper
+portion of Figure 1). A land station that did not have a WMO station number was discarded (most of these
+were from the United States), thus ensuring more uniformity in reporting procedures. A ship report known
+to be from a buoy (by the "deck" number in the COADS data) was discarded. Any report that had no
+cloud information (N=/) was discarded.
+ In 1982 WMO introduced several changes in the coding procedure (WMO, 1988). One of these
+changes now instructs observers to set ww=/ if present weather was either "not available" or "observed
+phenomena were not of significance" (ww codes 00-03 are considered to represent phenomena without
+significance). The present weather indicator, I, is used to distinguish these cases. Land station reports
+with I=3 (data
+not available) were also discarded because without ww it is not possible to interpret cases of N=9 (see
+W86) or to evaluate the occurrence of precipitation. I=2 indicates that observed phenomena were not of
+significance, while Ix is coded as "1" when ww is given. Occasionally I=1 when ww=/; these inconsistent
+reports were also discarded.
+ Examination of the NMC data set showed that while land stations adopted this new coding
+procedure almost immediately, I was not consistently coded in ship reports until 1985, as ship observers
+tended to continue reporting ww in accordance with the old rules. The COADS data set does not even
+contain I.
+ At the upper horizontal dashed line in Figure 1, 125 million land reports and 15.8 million ship
+reports remained. The discard fractions below the line are fractions of these numbers. If the reported
+latitude and longitude of a land station put the station on water (rare) or if reported latitude and longitude
+of a ship put the ship on land (0.3%), the report was discarded. A land station was considered to be on
+water (or a ship on land) if the 5x5 degree latitude x longitude box in which it was reported to reside was
+100% ocean (or land) as defined in W86. Exceptions to this are that a number of boxes with small islands
+were allowed to contribute to the land data and reports from the Great Lakes and the Caspian Sea were
+allowed to contribute to the ship data.
+ If the sky was obscured (N=9) by fog (ww=F; 1.1% land, 2.7% ship), thunderstorms-showers
+(ww=Ts, abbreviated as T in the figure; 0.05% land, 0.1% ship), or drizzle-rain-snow (ww=DRS,
+abbreviated here as R; 0.4% land, 0.9% ship), the sky was considered to be overcast (N=8). This source
+of "cloudiness" contributed about 1% to the total cloud cover globally, and much more in some locations
+and seasons (Hahn et al., 1992). Clouds could not be inferred if the sky was obscured for other reasons,
+such as blowing dust or snow, and such reports were discarded. The change code, IC=1 (discussed in
+Section 3C below), signifies that a report came through the N=9 branch of the processing. Thus 1.5% of
+the land reports and 3.7% of the ship reports had N=9 with the ww codes D, R, S, F or Ts.
+ Other data consistency checks indicated in Figure 1 ensure that the low cloud amount is not greater
+than the total cloud cover, that precipitation (as defined in Table 2) is not reported with a clear sky, and
+that if cloud is present (and types are reported), some cloud type must be indicated in at least one of the
+three possible levels (this test actually discards a report if N&#62;0 and C&#60;/=0). The re-coding indicated in the lower left box in the figure is necessary because of a 1982 code change (WMO,
+1988) that instructs observers to set C=/ when N=0 (this requires special attention in cloud type
+analysis and will be discussed in Section 4).
+ The number of reports that survive these tests and are suitable for total cloud analysis (referred to
+as "total reports") is 124.2 million for land and 14.7 million for ships. Of these, 90.3 million and 11.1
+million, respectively, were made under sufficient solar or lunar illuminance (referred to as "light reports")
+to meet the established illuminance criterion for adequate cloud visibility (Hahn et al., 1994b).
+ The ability of surface observers to adequately detect clouds at night has been questioned for many
+years (e.g. Riehl, 1947; Schneider et al., 1989). In an attempt to find a practical solution to this "night-detection-bias", Hahn et al. (1994b) analyzed ten years of nighttime data for the zone 0-50&amp;$176; N and plotted
+reported cloud cover as a function of the illumination due to moonlight, which depends on the phase and
+altitude (angle above or below the horizon) of the moon and on the distance of the moon from the earth.
+The amount of total cloud reported at night increased as the lunar illuminance increased up to a certain
+threshold, after which the reported cloud cover leveled off. This threshold is referred to as "the
+illuminance criterion" and corresponds to the twilight produced by the sun at an altitude of about 9 degrees below the horizon. Thus the illuminance criterion is met when either the sun is at an altitude greater than -9&#176; or the position of the moon is such that its illuminance exceeds the threshold. These conditions were
+determined for each report with the use of an ephemeris and the latitude, longitude, date and time of the
+report.
+ This illuminance criterion was applied in analyses of total cloud cover and clear-sky frequency
+(Hahn et al., 1994a). (Fog and precipitation frequencies were also analyzed in that study but their
+detection does not depend on illumination). Application of the illuminance criterion increased the
+computed global average total cloud cover at night by about 4% and thus increased the daily average
+computed cloud cover by about 2%. Diurnal cycles of total cloud cover over land, which typically show
+daytime maxima, were reduced in amplitude when compared to previous studies which did not use the
+illuminance criterion (W86). Over the oceans, the increased computed nighttime cloud cover was often
+sufficient to result in nighttime maxima, in contrast to the daytime maxima previously reported (W88).
+Preliminary surveys conducted in conjunction with the present work suggest that we should expect
+similarly dramatic effects on analyses of middle and high clouds but little effect on low clouds.
+ Because of the importance of moonlight in the detection of clouds at night, parameters relating to
+the illuminance criterion are included in the edited cloud report (Section 4). Reports for which the
+illuminance criterion is met are referred to as "light reports", as opposed to "dark reports" (for which the
+criterion is not met) or "all reports" (which includes both light and dark).
+ The reports that failed the cloud type consistency checks shown in Figure 1 were discarded. Other
+inconsistencies are possible which may be correctable or may provide cause simply to reject the report for
+cloud type analysis. As the synoptic reports were processed, any inconsistency encountered required a
+change to be made in the existing code before the report was entered into the edited cloud report archive.
+Any changes thus made are noted by assigning a "change code" (IC) to that report. This change code (with
+values 0 to 9) is preserved in the ECR (Section 4) so that modifications made to the original report can be
+identified.
+ Details of the cloud type processing following the total cloud stage shown in Figure 1 are
+presented in the form of the FORTRAN code in . Each segment of the table (delineated by a
+change code heading) describes the processing of a particular type of inconsistency or change. The
+changes associated with particular coded cases are described briefly in along with the frequency of
+occurrence of each change type. (The changes referred to by IC=1 were discussed in section 3B.) Most of
+the inconsistencies under consideration have been discussed previously (W86, W88) but are summarized
+here.
+ For a report to provide useful cloud type information, both Nh and CL must be given. If either is
+missing (and not correctable) then the report cannot be used for cloud type analysis and all cloud type
+variables are set to -1 for consistency (see segment IC_5 in Table 3). Thus if any inconsistency is
+discovered that cannot be corrected, simply setting Nh=-1 will result in exclusion of the report from cloud
+type analyses. For example, the IC_2,4 segment in Table 3 examines the case in which there is middle
+cloud but no low cloud. In such a case Nh should give the middle cloud amount. In some reports Nh was
+improperly set to 0 (W86). If there is also no high cloud then it must be that Nh=N and the report can be
+corrected (IC=2). But if high cloud is present, then the value of Nh is indeterminate, and set to -1 (IC=4),
+and the report cannot be used for cloud types (in such cases all cloud type variables are set to -1 in segment
+IC_5).
+ The situation is similar in segment IC_3,4. If only high cloud is present, Nh should properly be 0
+but is sometimes given the value of N by an observer. This is readily corrected (IC=3). But if Nh&#60;N in
+such a case, the report is irreconcilably inconsistent and must be rejected for cloud type analysis (set Nh=-1
+and IC=4).
+ Segments IC_6 and IC_9 simply correct cases of sloppy reporting of middle and high clouds, such
+as reporting C=/ when the sky is overcast with low cloud.
+ Segments IC_7 and IC_8 merely set C to represent our definition of Ns as a convenience for
+future cloud type analyses. As is usually the case, the original report can be reconstructed if desired.
+ The order in which some of these consistency checks is performed is also important to the
+outcome. For example, if segment IC_8 were performed before segment IC_6, then some cases of Ns
+would go undetected. Also, segment IC_9 must be performed after IC_8 for the same reason. However
+since it is not desirable to have the change code IC=8 overwritten by the relatively trivial change IC=9, this
+latter code is only entered in IC (although the change is made) if no previous change has been made
+(second part of segment IC_9 in Table 3). This co-occurrence of change codes should be rare since N is
+usually large when Ns is present.
+ From Table 4 we see that some change is made in 12% of land reports and 16% of ship reports,
+but that roughly half of the changes just represent classifying an observation as Ns, Cb or fog. Thus less
+than 5% of land reports and less than 9% of ship reports have been changed due to inconsistencies and
+most of these are due to the relatively trivial cases with IC=6 (and IC=9 for ships).
+ After passing the cloud type consistency checks, the number of light reports available for cloud
+type analysis for 1982-91 is 88 million for land and 9.4 million for the ocean (). Reports suitable
+for cloud type analysis (C and Nh &#62; -1) are referred to as "type reports".
+ The synoptic code contains two cloud amount variables, N and Nh. The amount of low cloud, if
+present, is directly specified by Nh. While the amounts of upper level clouds are not directly specified,
+they may often be inferred. Thus when C=0, the amount of middle cloud is given by Nh, and when
+C=0, the amount of high cloud is given by N. If all three levels are present there are too few known
+variables to determine the upper cloud amounts. If two levels are present, the amount in the upper level
+may be estimated if the extent of overlap is assumed.
+ In the ECR we provide amounts that utilize the random overlap assumption, where necessary, in
+order to best represent the actual cloud amounts (the fraction of the sky covered by a cloud type, whether
+visible or not). We also provide the non-overlapped amounts which require no assumptions but which
+indicate only the amount of the upper level cloud visible from below. (Satellite-derived cloud amounts are
+typically given as the non-overlapped amounts visible from above.) Tian and Curry (1989) tested the
+minimum, maximum and random overlap assumptions and found the maximum overlap assumption to be
+best for adjacent cloud layers, while the random overlap assumption was best for vertically separated
+layers.
+ gives our method, in the form of FORTRAN code, for determining the actual and non-overlapped amounts of middle and high clouds from a synoptic weather report. A few points should be
+noted. The random overlap equation (lines 17 and 38) is invoked only when Nh&#60;7. , which gives
+the outcomes of the possible combinations of N and Nh in the equation, shows that only 2 outcomes are
+possible for the upper cloud amount when Nh=7, namely 0 and 8 oktas, making this a highly inaccurate
+determination (W86). In such cases the upper cloud amount is left undetermined. If the upper cloud in
+question is Ns, however, the maximum overlap assumption is employed and the Ns amount is assigned the
+value of N (lines 13-14, Table 6). In this case the nimbostratus cloud layer is likely to be adjacent to or
+continuous with the low cloud, so the maximum overlap assumption is more appropriate (Tian and Curry,
+1989). Also, certain arbitrary decisions are sometimes required, such as our choice, in line 7 of Table 6, toallow middle cloud to be computed when C=/. This choice is justifiable since such a case tends to occur
+with large N so that any error induced by this situation would be small.
+ The number of times reports were processed through the possible paths in Table 6 are listed in
+. Light reports (for which the illuminance criterion was met) and dark reports (for which the
+illuminance criterion was not met) are both shown, where possible, for comparison. Land and ocean data
+were processed separately. Non-overlapped (NOL) amounts were computable in more than 90% of the
+cloud type reports since one can know that a cloud cannot be seen even if one does not know whether it is
+present. Thus the non-overlapped amount of an upper level cloud is frequently zero.
+ Percentages are not explicitly shown in the table but it can be seen that upper level clouds are
+reported more frequently in the set of light reports than in the set of dark reports (38% and 30%,
+respectively, for land middle clouds, and 44% and 29%, respectively, for ocean middle clouds, for
+example). When upper clouds are present, they are more frequently computable within the set of dark
+reports and random overlap (ROL) is less often required. Comparing land and ocean, upper level clouds,
+when observed to be present, are less likely to be computable from ocean data and are more likely to
+require ROL because of the predominance of low level clouds over the oceans. (The percentages given
+here merely represent the fractions of reports within the data set and are not area-weighted global
+averages.)
+ shows the variables included in the ECR, the number of characters allocated for each, and
+the maximum and minimum values allowed. Each item in the table is discussed briefly below. Sample
+reports selected from ship and land data for 1981 December and 1982 January are provided in .
+These reports are in the order in which they appear in their respective files (see next section) though these
+selections are not consecutive within the file. The reports are numbered in the table for convenience.
+ Item 1: The first item in the report gives the year, month, day and GMT hour of the report, with 2
+characters allotted for each. There are no spaces ("3", for example, is given as "03") so that the entire item
+can be read as a single integer. Only the last 2 digits of the year (1900's) are given. Months are coded as
+01 through 12, representing January through December.
+ Item 2: The IB variable indicates whether the illuminance criterion of Hahn et al. (1994b) was
+satisfied (IB=1) at the time and place of the report or not (IB=0). This variable can be checked in lieu of
+SA and RI (items 19 and 20 below) if one accepts the criterion specified in Hahn et al. (1994b).
+Item 3: The latitude (in degrees north and south) is given to 2 decimal places and written as a 5-digit integer, and thus must be divided by 100 to obtain actual latitude. Actual values range from +90 to -90 for 90N to 90S, respectively.
+ Item 4: The longitude (in degrees east) is given to 2 decimal places and written as a 5-digit
+integer, and thus must be divided by 100 to obtain actual longitude. Actual values range from 0 to 360E.
+ Item 5: For land stations, ID is the WMO station number (WMO, 1977). For ships, ID is the card
+deck assignment (Slutz et al., 1985).
+ Item 6: This parameter indicates whether a report is from a land station (LO=1) or a ship (LO=2).
+ Items 7-13: These weather and cloud variables are coded as specified by WMO (1988) except that
+items 11 and 12 have been "extended" as described in Section 3A (Table 2). Also, cases of N=9 (item 8)
+that were not discarded have been converted to N=8. Any such conversion is coded in the "change code"
+(item 18 below). The value "-1" indicates missing data. Item 8 (N) does not obtain a value of -1 in this
+data set since all such reports were discarded during processing. Item 10 (h) may have a value of 9 only
+when a cloud is present since h was set to -1 in cases of N=0 (Figure 1).
+ Items 14-15: These variables give the "actual" cloud amounts of middle and high clouds and
+utilize the random overlap equation where necessary (Section 3D). Values are given in oktas to 2 decimal
+places and written as 3-digit integers, so they must be divided by 100 to obtain the actual values. An
+actual value of 9 (coded value 900) indicates missing data.
+ Items 16-17: These variables give the non-overlapped cloud amounts of middle and high clouds
+and represent the amount of cloud visible from below (Section 3D). Values are given in oktas. A value of
+9 indicates missing data.
+ Item 18: The change code indicates whether a change was made to the original report during
+processing. Code values are defined briefly in Table 4 and in detail in Figure 1 and Table 3 (Section 3C).
+A change code of 0 means that no change was made other than the trivial change of converting /'s to 0's in
+the case of N=0. Examples of reports with each change code are provided in Table 10.
+ Items 19-20: These variables give the solar and lunar parameters needed to determine the
+illuminance provided by the sun or moon for the date, time and location of the report (Section 3B1). SA is
+the altitude of the sun above the horizon, given to a tenth of a degree (divide the coded value by 10 to
+obtain the actual value). RI is the lunar relative illuminance defined by Hahn et al., (1994b). RI= PHI sin(A)
+(R), where A is the lunar altitude, r is the earth-moon distance, R is the mean earth-moon distance, and
+PHI is the lunar phase function which varies from 0 to 1 in a concave shape such that a full moon is 10 times
+as bright as a half moon (Hapke, 1971). The illuminance criterion of Hahn et al. (1994b) is met (IB=1,
+item 2) when SA&#62;/=-9&#176; or RI&#62;0.11. (A negative value of RI means the moon was below the horizon.)
+ The data are divided into 240 files, one for each month for ten years for land and ocean separately.
+These files range in size from 5.0 to 8.4 MB for the ocean data and from 49.8 to 63.5 MB for the land data.
+ In the NMC data set archived at NCAR, the 6-hourly reports and 3-hourly reports (Section 2) are
+stored on separate files. Each of these subsets is sorted first by time and then by latitude and longitude.
+Each land data file of the ECRA was formed by merging the 6-hourly and the 3-hourly data so that for
+each month the reports appear in time order.
+ The sort used in the COADS Interim Product (Section 2) was first by 2-degree box, then by time,
+and finally by latitude and longitude for each month. For the ECRA files, the reports were re-sorted by
+time and then by latitude and longitude.
+ Figure 1 and Tables 4, 5 and 8 showed the number of reports processed, deleted and changed, as
+well as the number of light reports, the number suitable for cloud type analysis, and the number of times
+upper level cloud amounts were computable. shows how the reports are distributed over the
+synoptic reporting times. Land stations usually report 8 times per day but some do not (notably in the
+United States and Australia), so that 59% of all reports are made during the 6-hourly times. Ships,
+however, tend to report at the 6-hourly times and only about 10% of the ship reports are for the
+intermediate 3-hourly times. Having only 4 reports per day, rather than 8, limits the resolution possible in
+computations of the phase and amplitude of the diurnal cycle. It was also noted (W88) that regionalaverages formed from 6-hourly ship data may be uniformly different from averages formed from 3-hourly
+data, consistent with a tendency for some ships to give a 3-hourly report only in unusually stormy weather.
+A bias is also possible when averaging over a land grid box that has more than one station if stations
+within one climatic region report 8 times per day while stations within a different climatic region report 4
+times per day.
+ The histograms in for ocean show the frequency of occurrence of the
+extended code values for the six cloud variables for light reports in the archive of edited cloud reports. [In
+these figures N=9 is shown separate from N=8 although N=9 appears as N=8 (with IC=1) in the ECR.]
+The shaded areas show the occurrence of precipitation (DRSTs, Table 2). Numerical values for the data
+shown in these figures are provided in . Several interesting features are evident in these
+figures. The distribution of codes for total cloud cover N is nearly U-shaped for land but strongly skewed
+towards the higher amounts for oceans. 96.5% of all precipitation occurs with N&#62;/=7 over land and with
+N&#62;/=6 over oceans. About 75% of precipitation occurs with Nh&#62;/=6. The reports with Nh=-1 are not usable
+for cloud type analysis. The most commonly occurring cloud base height code is h=5 (600-1000m) over
+land and h=4 (300-600m) over oceans. The high frequency of h=9 over land is a consequence of the high
+occurrence of C=0 so that h=9 often refers to the middle cloud level.
+ The lower panels in Figures 2a and 2b show the occurrences of various cloud types within the
+three reporting levels. The occurrence of C=-1 is the same as Nh=-1 due to the processing procedure and
+is the fraction of reports that do not contain information relating to cloud types (2.6% for land data, 15.3%
+for ocean data). A larger fraction of the reports have C=-1 (33.2% for land, 50.9% for ocean) because of lower overcast. Thus 97.4% of the land reports have
+information about cloud types but only 82% of those have information about the middle cloud level and
+66% about high clouds. For the oceans, 84.7% of the reports have low cloud information but only 57% of
+those have middle cloud information and 40% have high cloud information.
+ The low cloud type most commonly reported over land is stratocumulus (C=5). While this type
+is also relatively common over the oceans, it is exceeded by the cumulus types C= 1 and 2. About 25%
+of all precipitation occurs with the stratus cloud C=7 is reported over land, precipitation is
+present in 67% of the reports. Precipitation occurs in 34% of the ship reports of C=7.
+ While 58% (land) and 46% (ocean) of all precipitation occurs with the middle clouds defined to be
+nimbostratus (C= 10,11,12), 25% and 38%, respectively, of precipitation occurs when the middle cloud
+level is not given in the report (typically because of low overcast). Because of our definition of Ns shown
+in Table 2, most of these latter cases must have ww= D or Ts. In the high cloud level, 90% of all
+precipitation occurs in reports with C=-1 (high cloud level not reported, usually because of lower
+overcast).
+ The occurrence of reports of sky-obscured (N=9) due to fog or precipitation is 1.5% for land and
+3.5% for ocean, with fog (C=11) accounting for more than two thirds of these values for both land and
+ocean (Figure 2 and Appendix A). These cases of sky-obscured due to fog make up 14% (land) and 48%
+(ocean) of all reported cases (light) of fog. Cases of thunderstorms or showers (C=10) account for onlyabout 3.5% of the reports of sky obscured, and sky-obscured due to thunderstorms or showers make up
+only 1.6% (land) and 5.8% (ocean) of the light reports of thunderstorms and showers. The remaining
+contribution to the reports of sky obscured (about one quarter) is due to drizzle, rain or snow. Sky-obscured due to drizzle, rain or snow make up 5.1% (land) and 12.9% (ocean) of the light reports of
+drizzle, rain and snow.
+ A report of sky-obscured due to drizzle, rain or snow is considered to indicate nimbostratus cloud
+and is given the extended code value C=10 with IC=1 (Tables 2 and 4). Two other sets of circumstances
+are considered to indicate Ns as well. shows the contributions of the three major paths to the
+frequency of Ns within the light type reports. (Frequencies based on light reports are slightly higher
+than the frequencies quoted in the last paragraph which were based on the total set of light reports.) The
+largest contributor to Ns in the land data is the path through C=2,7 (with ww=DRS). For both land and
+ocean C=11,12 in Appendix A). The largest contributor to
+Ns in the ocean data comes through the C=/ path, which has several contributors itself, the largest being
+the case of C=7 with DRS.
+ Excluded from the definition of Ns are the cases of C=4,5,6,8 and ww=D (more than
+half of these cases are due to C=6 alone). These cases were considered to indicate Ns in our previous
+climatologies (W86, W88) but after subsequent consideration and discussions with colleagues we
+concluded that since drizzle could occur from these low cloud types, the additional inference of Ns above
+them was inappropriate. Thus the frequencies of occurrence of Ns computed under the current definition
+will be reduced to about 97% (land) and 90% (ocean) of the frequencies given in W86 and W88.
+ Another change associated with the simplification of our previous definition of Ns involves cases
+of C 6,7 in these cases were previously reassigned as
+Ns, but are left unchanged in the present, simplified definition. This results in a further reduction in
+computed Ns frequency by factors comparable to those in the last paragraph. Thus the Ns frequencies
+computed under the present definition may be about 94% (land) and 81% (ocean) of those computed under
+the previous definition. Note that these percentages refer to the number of reports in the data set which
+contains a disproportionate contribution of reports from the densely populated northern mid-latitudes and
+thus do not represent the area-weighted global averages. Note also that the user of this data set is not
+restricted to the definitions assigned here since all the information necessary for any other interpretation is
+contained in the edited cloud reports. The definitions discussed above apply only if the reports are used
+exactly as written.
+ The cases of C=/ and ww=DRS are not considered to indicate nimbostratus
+cloud.
+ To show the global distribution of the reports, numbers (shown as log10) of light type reports are
+displayed on a 5c grid (see Glossary in Appendix B) in (ocean). Numbers from
+1-9 appear as 0, numbers from 10-99 appear as 1, etc. Grid boxes with no light type reports are blank.
+ A number of biases which can affect analyses of clouds from surface observations are summarized
+in W88. Four biases which we can measure and possibly correct for are described in more detail here.
+ The is largely eliminated by using only data for which the illuminance
+criterion is met (Section 3B1). This, however, enhances the unless precautions are
+taken since less than half as many nighttime observations will be available compared to the number of
+daytime observations. Thus Hahn et al. (1994a) prepared nighttime and daytime averages separately and
+averaged the two together to obtain the average cloud cover.
+ Another potential bias for cloud type analyses was introduced by the synoptic code change in 1982
+which allowed observers to record a "/" for cloud types when N=0. Previously a report with N=0 and C
+or Nh =/ would indicate a station that never reports cloud types and the report would be omitted from the
+cloud type analysis. Now every occurrence of N=0 must be treated as C=0 and Nh=0. Thus a report
+from a station or ship which never reports cloud types would contribute to a cloud type analysis only when
+the sky was clear, producing a : the frequency of occurrence of clear sky computed from the
+cloud type reports would be too high and the frequencies of occurrence of the various cloud types would be
+too low. The magnitude of this bias can be estimated by counting the number of times observers within a
+grid box omit cloud types (Nh=/ or C=/) when N&#62;0 and assuming that the same fraction of the cases of
+N=0 would be from stations or ships that do not report cloud types, and thus should be excluded from the
+denominator when determining the frequency of occurrence of a cloud type.
+ =/
+(or Nh=/) in light reports with N&#62;0 (this bias fraction is referred to as fb). (Note that when computing
+these fractions using the ECRA, reports of Nh=-1 with IC=4 must not be counted in fb since these values
+were set during data processing and not by the observer.) In the land data, extremely large values occur
+only in northern Alaska (87%, underlined in Figure 4a) and in northeast Greenland (72%). Ship data show
+large values in the Great Lakes region of North America where values exceed 90% and in some European
+waters where values are as great as 82%. Values of fb average about 3% for land data and about 10% for
+ship data.
+ To determine how much effect this bias would have on computed cloud type frequencies, the
+"clear-sky adjustment factor" (AF0) was defined such that Fa = AF0 &#183; Fr, where Fa is the adjusted
+frequency of occurrence of some cloud type and Fr is the frequency that would be computed using the
+potentially biased cloud type reports. Since Fr = Nt / Nr, where Nt is the number of occurrences of a
+particular cloud type and Nr is the number of reports contributing to the cloud type analysis, and Fa = Nt /
+(Nr - fb &#183; N0), where N0 is the number of occurrences of N=0 and fb is the fraction of N0 that should be
+discounted, then, using f0 = N0 / Nr, Fa can be represented as Fa = Nt / (Nr - fb &#183; f0 &#183; Nr) = Nt / (Nr &#183; (1 -
+fb &#183; f0)) = Fr / (1 - fb &#183; f0). Thus AF0 = 1 / (1 - fb &#183; f0) and is equal to one if either fb or f0 is zero.
+ show the global distribution of AF0 {displayed as 100 x (AF0-1)} over land and
+ocean, respectively. This analysis shows that, on average, cloud type frequencies, if uncorrected, would be
+reduced only to about 99.5% of their correct values by this bias (average AF0 = 1.003 for land and 1.007
+for ocean) and that most regions of the globe are essentially unaffected. However a few regions are greatly
+affected, namely northern Alaska, northeastern Greenland, the Great Lakes, and some seas around Europe.
+These are the regions with high values of fb (Figures 4a and 4b). The two most extreme regions, the Great
+Lakes and northern Alaska, have biased values 41% and 27% of their correct values. Other than the AF0
+values of 3.68 in Alaska and 1.31 in Greenland, no land box has a value greater than 1.08. In the ocean
+data, moderate values of AF0 (around 1.10) occur in the Middle East where clear-sky frequencies are high
+(W88), and several higher values are seen in the seas of Europe and in the Great Lakes of North America.
+While it may be desirable to apply this adjustment factor to regions of moderately large AF0 values,
+practical application of this correction will be complicated by the fact that AF0 values vary from year to
+year, season to season, and day to night. Fortunately correction is unnecessary over most regions of the
+globe and the regions noted in Figures 5a and 5b for large adjustment factors can simply be eliminated
+from a cloud type analysis.
+ Note that while cloud type frequencies are subject to the clear-sky bias because of the coding
+instructions and practices for cloud type reports, the frequency of occurrence of clear sky itself (and also
+the frequency of fog) can be computed without this bias by using the total cloud data set to which this bias
+does not pertain (as was done in Hahn et al., 1994a).
+ Our recognition of certain cases of N=9 as overcast cloud (Section 3B) is important in obtaining
+accurate estimates of the amounts of fog and nimbostratus cloud, but may introduce the ,
+which is similar in principle to the clear-sky bias discussed above. Since C=/ whenever N=9, it is not
+possible to distinguish stations or ships that normally report cloud types from those that do not. Thus the
+latter stations will contribute to the cloud type analysis only when the sky is obscured (aside from the case
+of clear sky which was discussed above). This will tend to cause the computed frequencies of fog and
+nimbostratus cloud to be too large and the frequencies of other cloud types to be reduced. The fraction fb
+shown in Figures 4a and 4b is again a measure of the potential of this bias. A "sky-obscured adjustment
+factor" (AF9) is defined in a manner similar to that for AF0 defined above such that Fa = AF9 &#183; Fr and
+AF9 = 1 / (1 - fb &#183; f9), where f9 is the frequency of occurrence of N=9 in cloud type reports.
+The global distribution of f9 is given in . The box in northern Alaska
+(underlined), which was shown previously to have fb=0.87 (Figure 4a), also has the relatively large value
+of 0.16 for f9 which gives AF9=1.16. Inspection of Figures 4a and 6a together shows that this is the
+largest AF9 value for land data and that in most regions the value of AF9 is near 1.00. Ship data have
+larger fb values (Figure 4b) and larger f9 values (Figure 6b) than land data. Also the large values are
+distributed over larger regions. The largest f9 values occur, again, in the Great Lakes region where they
+combine with fb to produce AF9 values that approach 2. In the North Pacific, where large amounts of fog
+occur during the summer season (W88), moderately large f9 values (&#126;0.20) occur with moderate fb values
+(&#126;0.11), giving AF9=1.02 which is a relatively small bias. The global average values for AF9 are 1.0003
+for land and 1.003 for the ocean. Thus, aside from the few regions specially noted to be removed from
+cloud type analysis, the sky-obscured bias is generally small. Any bias in the frequency of fog itself can be
+eliminated by computing it from the total cloud reports, as mentioned above. Any bias towards increasing
+the nimbostratus frequency will be small since N=9 contributes only a small portion of the total
+nimbostratus (Table 12) and will be compensated somewhat by the tendency towards reducing the
+frequency of Ns contributed by the C=/ paths.
+ The determination of the average cloud amounts and frequencies of occurrence from surface
+observations requires some special considerations to avoid various potential biases and to obtain
+representative values. Upper level clouds present special problems because they are sometimes partially or
+completely hidden from the view of the observer by lower clouds. These issues are discussed in detail in
+W86 and W88 but will be highlighted here.
+ Total cloud cover is basically the sum of the values of N in the synoptic code (converted to percent
+if desired) divided by the number of contributing reports. However, to avoid the day-night bias discussed
+above, some method of equalizing the contribution of reports between day and night is necessary. In W86,
+averages were obtained by first forming averages for the 8 synoptic hours and then averaging these 8
+numbers. For oceans, where data are less plentiful, this method will result in significant loss of data
+because the 3-hourly times often do not have a sufficient number of reports to obtain a statistically reliable
+average. Therefore, Hahn et al. (1994a) divided the day into two 12-hour periods, 0600-1800 local time
+("day") and 1800-0600 local time ("night"), and averaged these two numbers. Note that when using only
+the light reports (to avoid the night-detection bias) to form monthly averages, only about two weeks of data
+will contribute to the nighttime average in any single month. Due to this "monthly-sampling error" there
+will be more scatter in monthly averages from year to year although multi-year averages should become
+more statistically representative of climatological means as the number of contributing years is increased.
+Similarly, seasonal averages should be more representative of an individual season than monthly averages
+are of an individual month.
+ These considerations of the day-night bias, night-detection bias, and monthly-sampling error apply
+equally well to cloud type analyses discussed below. However, for quantities such as fog and precipitation,
+whose detection does not depend on illumination, all observations may be used, minimizing all three of
+these biases.
+ Of the 90.3 million light reports suitable for total cloud analysis for land (Figure 1), 88.0 million
+have cloud type information (Table 5). For the ocean these numbers are 11.1 million and 9.4 million. In
+the type reports, the amount of a low cloud type (if present) is always given in the Nh variable of the
+report. The average amount for a particular low cloud type can be obtained, in a manner similar to that for
+total cloud amount, by summing the Nh values when the type is present and dividing by the number of
+contributing reports (using the precautions against the day-night bias discussed above and adjusting for the
+small clear-sky and sky-obscured biases if desired). The contributing reports consist of those with C&#62;/=0
+and Nh&#62;/=0 and include reports of N=0. An alternative, but equivalent, method for obtaining the average is
+to compute the frequency of occurrence (f) of the type (the number of occurrences of the type divided by
+the number of contributing reports) and the amount-when-present (awp; sum of Nh's divided by the
+number of occurrences of the type) separately. Then the average amount is avg = f awp. This latter
+method is described because it is often of interest to know the frequency of occurrence of a type in addition to its amount, because awp tends to be characteristic of a cloud type, and because this is the method used
+in computing upper level cloud type amounts.
+ Cloud type reports do not always contain information about upper level clouds because they may
+be hidden by an overcast or near-overcast layer of lower clouds. Thus, of the 88.0 million light type
+reports for land (Table 8), only 74.4 million have information about the middle cloud level (C&#62;/=0) and
+60.3 million have information about the high level (C&#62;/=0). Of the 9.4 million light type reports for the
+oceans, 7.1 million have C&#62;/=0.
+ The average amounts of upper level cloud types are obtained as described in the last section: avg
+= f x awp. Since we want the actual frequency of occurrence of a cloud type, and not just the frequency
+with which it is visible, f is computed as the number of times the type was observed divided by the number
+of reports of C). For land, middle and high cloud frequencies
+are determined from 84.5% and 68.5% of the light type reports, respectively. For the oceans these values
+are 75.5% and 58.5%, respectively. The question of the degree to which these portions of the data set
+represent the whole data set for types is discussed in W86 and W88. Based on a study of the frequency of
+occurrence of As/Ac [f(As,Ac)] versus low cloud amount, Warren et al. (W88) applied an adjustment to
+f(As,Ac) which assigned to the cases of C=/ (15.5% of the type reports for land and 24.5% for ocean) a
+value that is the average of f(As,Ac) of the reports that have low cloud amounts of 3 to 7 oktas. For high
+clouds, f was computed only from reports with Nh&#60;7 in order to reduce the partial-undercast bias (W88).
+ The amount-when-present of an upper cloud type can be determined, when it is reported present
+(C&#62;0), only if there are at most 2 cloud levels present. In addition, amounts are not computed for an
+upper cloud if it is undercast by a layer which covers 7 oktas or more of the sky (Section 3D). Therefore
+awp is computed from an even smaller pool of data than that used for frequency computations. Table 8
+shows that, for land, 78% of the observed (light) occurrences of middle clouds and 75% of the observed
+occurrences of high clouds are computable. For the ocean data these values are 61% and 43%,
+respectively. Nevertheless, awp computed from these data is probably fairly representative of the actual
+awp (W86 and W88) and any error in awp results in a smaller error in avg by the factor f. Any systematic
+error inherent in the random-overlap assumption would produce a smaller error in computed a mounts since
+this assumption is used for only a fraction of the computable observations. Table 8 shows that the random-overlap assumption is used in 39% of the computable observations (light) of middle cloud and in 55% for
+high cloud over land. These fractions are larger for ocean data with random overlap used for 60% of the
+computable middle clouds and 70% of the computable high clouds.
+ Special note about Ns: Because Ns is defined on the basis of the occurrence of precipitation
+(Table 2) which does not depend on the visibility of the middle cloud level for its detection, its presence or
+absence is known for every type report. Thus the number of contributing reports for f(Ns) is the same as
+that for low cloud types (C&#62;/=0 and Nh&#62;/=0). However, when present, its amount is not always known and a
+separate tally (which will be different from that for the As/Ac clouds) must be kept for determining its
+awp.
+This documentation and the data described herein are available from:
+ Oak Ridge National Laboratory
+ Post Office Box 2008
+ Oak Ridge, TN 37831-6290, U.S.A.
+ Telephone (865) 574-3645 or (865) 574-0390
+ or
+ Data Support Section
+ Boulder, CO 80307, U.S.A.
+ Telephone (303) 497-1215.
+The following should be used for referencing this archive and/or this documentation report:
+ Oak Ridge National Laboratory, Oak Ridge, TN. (Also available from Data Support Section,
+National Center for Atmospheric Research, Boulder, CO.)
+The archive of our earlier climatology (Hahn et al., 1988) and the accompanying atlases (Warren
+et al., 1986, 1988) are also available from the same sources listed above.
+ This work was supported by NASA Grant NAG-1-998 and by Battelle Pacific Northwest
+Laboratories, Atmospheric Radiation Measurement Program (Contract 144806-A-Q1). We also acknowledge the long term cooperation and provision of computing facilities by the Scientific Computing Division of the National Center for Atmospheric Research.]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 163356 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Dale_Kaiser/NDP_026b.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp026.b]]></Product_number>
+      <Product_title><![CDATA[Edited Synoptic Cloud Reports From Ships and Land Stations over the Globe, 1982-1991 (NDP-026B)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Hahn, C. J.]]></Name>
+        <Company><![CDATA[University of Arizona]]></Company>
+        <Organization><![CDATA[Department of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Warren, S. G.]]></Name>
+        <Company><![CDATA[University of Washington]]></Company>
+        <Organization><![CDATA[Department of Atmospheric Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[London, J.]]></Name>
+        <Company><![CDATA[University of Colorado]]></Company>
+        <Organization><![CDATA[Department of Astrophysical, Planetary and Atmospheric Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp026b/ndp026b.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp026b/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[AH]]></Variable>
+      <Variable><![CDATA[AM]]></Variable>
+      <Variable><![CDATA[CH]]></Variable>
+      <Variable><![CDATA[CL]]></Variable>
+      <Variable><![CDATA[CM]]></Variable>
+      <Variable><![CDATA[IB]]></Variable>
+      <Variable><![CDATA[IC]]></Variable>
+      <Variable><![CDATA[ID]]></Variable>
+      <Variable><![CDATA[LAT]]></Variable>
+      <Variable><![CDATA[LO]]></Variable>
+      <Variable><![CDATA[LON]]></Variable>
+      <Variable><![CDATA[N]]></Variable>
+      <Variable><![CDATA[Nh]]></Variable>
+      <Variable><![CDATA[RI]]></Variable>
+      <Variable><![CDATA[SA]]></Variable>
+      <Variable><![CDATA[UH]]></Variable>
+      <Variable><![CDATA[UM]]></Variable>
+      <Variable><![CDATA[dy]]></Variable>
+      <Variable><![CDATA[h]]></Variable>
+      <Variable><![CDATA[hr]]></Variable>
+      <Variable><![CDATA[mn]]></Variable>
+      <Variable><![CDATA[ww]]></Variable>
+      <Variable><![CDATA[yr]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp026b/ndp026b.htm
+Download the of NDP-026B
+Download 
+ of NDP-026B
+FROM SHIPS AND LAND STATIONS OVER THE GLOBE, 1982-1991
+Carole J. Hahn
+Department of Atmospheric Sciences
+Tucson, AZ 85721
+Stephen G. Warren
+Department of Atmospheric Sciences
+Seattle, WA 98195
+Julius London
+Department of Astrophysical, Planetary and
+Atmospheric Sciences
+Boulder, CO 80309
+Publication No. 4367
+Date Published: February 1996
+Printed for the
+Global Change Research Program
+Environmental Sciences Division
+Office of Health and Environmental Research
+(KP 05 02 00 0)
+Printed by the
+Oak Ridge, Tennessee 37831-6290
+managed by
+for the
+U.S. DEPARTMENT OF ENERGY
+under contract DE-AC05-96OR22464
+2b. Frequency distribution of extended code values for indicated cloud variables
+ in edited light 
+, Carbon Dioxide Information Analysis Center,
+Oak Ridge National Laboratory,
+ Surface synoptic weather reports for the entire globe for the 10-year period from December 1981
+through November 1991 have been processed, edited, and rewritten to provide a data set designed for use
+in cloud analyses. The information in these reports relating to clouds, including the present weather
+information, was extracted and put through a series of quality control checks. Reports not meeting certain
+quality control standards were rejected, as were reports from buoys and automatic weather stations.
+Correctable inconsistencies within reports were edited for consistency, so that the "edited cloud report" can
+be used for cloud analysis without further quality checking. Cases of "sky obscured" were interpreted by
+reference to the present weather code as to whether they indicated fog, rain or snow and were given
+appropriate cloud type designations. Nimbostratus clouds, which are not specifically coded for in the
+standard synoptic code, were also given a special designation. Changes made to an original report are
+indicated in the edited report so that the original report can be reconstructed if desired. While low cloud
+amount is normally given directly in the synoptic report, the edited cloud report also includes the amounts,
+either directly reported or inferred, of middle and high clouds, both the non-overlapped amounts and the
+"actual" amounts (which may be overlapped). Since illumination from the moon is important for the
+adequate detection of clouds at night, both the relative lunar illuminance and the solar altitude are given, as
+well as a parameter that indicates whether our recommended illuminance criterion was satisfied.
+This data set contains 124 million reports from land stations and 15 million reports from ships.
+Each report is 56 characters in length. The archive consists of 240 files, one file for each month of data for
+land and ocean separately. With this data set a user can develop a climatology for any particular cloud type
+or group of types, for any geographical region and any spatial and temporal resolution desired.
+ Surface synoptic weather reports are readily available in data sets such as those prepared by the
+National Meteorological Center (NMC) and the U. S. Navy Fleet Numerical Oceanography Center
+(FNOC). For marine reports there is also the Comprehensive Ocean-Atmosphere Data Set (COADS).
+Those data sets are archived at the (NCDC) in Asheville, North Carolina,
+and at the (NCAR) in Boulder, Colorado. The data set
+described here includes only the information from the synoptic weather report that directly relates to
+clouds, as well as some derived quantities that aid in cloud analysis. It was developed as an intermediate
+stage in our own global analysis of total cloud cover (Hahn et al., 1994a) and cloud types, but should be
+useful to other researchers who wish to compare individual surface cloud reports to concurrent satellite-derived cloud data for example, or who wish to obtain averages over time or space scales not already
+provided in existing archives.
+ The cloud report provided in this data set, referred to as the "edited cloud report" (ECR, or ECRA
+when referring to the archive of all reports), has several features that make it desirable and easy to use in
+cloud analyses:
+ Synoptic weather reports contain information in addition to clouds, such as air temperature,
+pressure, winds, humidity, visibility, past weather and, for ships, sea surface temperature and ocean wave
+parameters. The ECR excludes these data, thus reducing the data volume.
+ Data sets of synoptic weather reports include reports that do not contain cloud information,
+such as those from automated weather stations on land and buoys in the oceans. These are not included in
+the ECRA.
+The cloud portion of the synoptic report occasionally contains obvious errors or inconsistencies
+which must be checked for to avoid inclusion of detectably erroneous data in an analysis. Quality control
+procedures developed over years of analyzing surface cloud reports have been applied so that erroneous or
+inconsistent reports have either been excluded or, if possible, corrected before inclusion in the archive.
+While the amount of low cloud is directly coded in the synoptic report, the amounts of middle
+and high clouds are not, but may often be inferred. Where possible for upper level clouds, the ECR
+includes both the "actual" cloud amount (sometimes requiring use of the random-overlap assumption) and
+the non-overlapped amount, which is simply that portion of the cloud that is visible from below and
+requires no assumptions.
+Although all reports that meet the above criteria are included in the ECRA, it has been shown
+that many of the nighttime reports are made under conditions of insufficient (moon) light for adequate
+detection of clouds. Use of such reports results in an underestimate of nighttime cloudiness by about 4%
+globally and has a profound influence on computed diurnal cycles in cloudiness (Hahn et al., 1994b).
+Reports made under conditions that satisfy the criterion for adequate illumination specified by Hahn et al.
+(1994b) are flagged in the ECR, and both the relative lunar illuminance and the solar altitude are given for
+each report.
+ The edited cloud report archive described here covers the ten-year period December 1981 to
+November 1991. These beginning and ending months were chosen to coincide with the boundaries of the
+traditionally-defined seasons December-January-February (DJF), March-April-May (MAM), June-July-August (JJA) and September-October-November (SON). Since December 1981 is considered to be part of
+DJF 1982, the 10-year period is referred to as 1982-1991. This particular 10-year period was selected to
+coincide with the International Satellite Cloud Climatology Project (ISCCP; Rossow and Schiffer, 1991)
+and to extend our previous climatologies (Hahn et al., 1988; Warren et al., 1986 {hereafter referred to as
+W86}; Warren et al., 1988 {hereafter referred to as W88}), which terminated in (November) 1981.
+ Non-standard terms used in the following discussions are defined in the glossary of terms and abbreviations in 
+The NMC data set (obtained from NCAR) was the source of the synoptic weather reports used for
+land stations. About 144 million reports (22 gigabytes of data) were processed. Only those stations assigned official station numbers by the (WMO) were used. Synoptic
+reporting hours are 00, 03, 06, 09, 12, 15, 18, 21 Greenwich Mean Time (GMT). In the NCAR archive the
+6-hourly reports (00,06,12,18 GMT) are stored in separate files from the intermediate 3-hourly reports
+(03,09,15,21 GMT) and we processed them in tandem for each month. Within each of these two groups the reports are sorted by time.
+ The COADS Interim Product CMR5 Reports (Woodruff et al., 1987) were the source of the ship
+data used (also obtained from NCAR). About 22 million reports (540 megabytes of data in packed binary
+format) were processed. Many of these reports are from buoys, however, and do not contain cloud
+information. For an individual month these data are sorted first by 2-degree latitude x longitude boxes and
+then by day and hour. COADS merges a dozen or so subsets of ship data and, as such, is the most
+extensive record of climatic data for the sea surface. However, the Interim Products available at the time
+of our analysis lack much of the digitized ship logbook data from foreign countries which may be delayed
+2 - 5 years (Woodruff et al., 1992). Thus future releases of COADS will contain more data than were utilized here.
+ Synoptic weather reports are coded according to the system given by the World Meteorological
+Organization (WMO, 1988). The information in these reports that relates to cloud analysis is summarized
+in . All other parameters were ignored in our processing. A more detailed breakdown of the
+definitions of the cloud and weather types, as used here, is given in . The table shows the synoptic
+codes that correspond to various precipitation types (ww codes) as well as the codes that correspond to the various cloud types defined within each of the three reporting levels: low, middle and high (C).
+ We give special consideration to the cloud type nimbostratus (Ns), which is not specifically
+defined in the synoptic code. Codes C= 2 or 7 may signify Ns but may also signify As or Ac,
+respectively. We consider these codes to signify Ns when there is concurrent precipitation in the form of
+drizzle, rain, or snow as indicated in the present weather code ww (symbolized in Table 2 as D, R and S,
+respectively). To distinguish Ns from As/Ac we "extend" the synoptic code for CM to include the values
+12 and 11 to represent these cases of C= 2 and 7, respectively. The extended code values (shown in
+Table 2) are entered in the edited cloud report (Section 4) without loss of the information content in the original report.
+ Nimbostratus is also considered to be present when C= / and specified combinations of
+precipitation and low cloud types are present (Table 2). These cases are given the extended code C= 10.
+This definition for nimbostratus has been simplified from that used in our previous work (W86, W88).
+Cases of C=/ with low stratus and drizzle are no longer defined to be Ns. This will cause a slight
+reduction in computed Ns amounts (Section 5C).
+Special consideration is also given to the case of N=9 (sky obscured). If ww indicates that the sky
+was obscured due to F, Ts, or DRS (symbols defined in Table 2), the cloud type is considered to be Fg,
+Cb, or Ns, respectively, and is given the extended code C=10, respectively, and the
+value of N is set to 8 oktas.
+ All the changes described here are coded in a parameter called "the change code" (Section 3C
+below) which is also included in the edited cloud report (Section 4), so that unchanged reports could be
+reconstructed if desired.
+ A cloud report may be suitable for total cloud analysis even if cloud type information is
+incomplete. Certain inconsistencies within the cloud type portion of the report may, however, make the
+whole report suspect and cause it to be rejected even for total cloud analysis. The processing and quality
+control checks performed on each weather report read from the original archives (NMC or COADS) and
+designed to ensure suitability for total cloud analysis are shown in the flow chart in . The
+percentage of reports discarded at each stage of the processing, which is discussed in the following
+paragraphs, is indicated.
+ In the early stages of processing, land and ship reports required slightly different checks (upper
+portion of Figure 1). A land station that did not have a WMO station number was discarded (most of these
+were from the United States), thus ensuring more uniformity in reporting procedures. A ship report known
+to be from a buoy (by the "deck" number in the COADS data) was discarded. Any report that had no
+cloud information (N=/) was discarded.
+ In 1982 WMO introduced several changes in the coding procedure (WMO, 1988). One of these
+changes now instructs observers to set ww=/ if present weather was either "not available" or "observed
+phenomena were not of significance" (ww codes 00-03 are considered to represent phenomena without
+significance). The present weather indicator, I, is used to distinguish these cases. Land station reports
+with I=3 (data
+not available) were also discarded because without ww it is not possible to interpret cases of N=9 (see
+W86) or to evaluate the occurrence of precipitation. I=2 indicates that observed phenomena were not of
+significance, while Ix is coded as "1" when ww is given. Occasionally I=1 when ww=/; these inconsistent
+reports were also discarded.
+ Examination of the NMC data set showed that while land stations adopted this new coding
+procedure almost immediately, I was not consistently coded in ship reports until 1985, as ship observers
+tended to continue reporting ww in accordance with the old rules. The COADS data set does not even
+contain I.
+ At the upper horizontal dashed line in Figure 1, 125 million land reports and 15.8 million ship
+reports remained. The discard fractions below the line are fractions of these numbers. If the reported
+latitude and longitude of a land station put the station on water (rare) or if reported latitude and longitude
+of a ship put the ship on land (0.3%), the report was discarded. A land station was considered to be on
+water (or a ship on land) if the 5x5 degree latitude x longitude box in which it was reported to reside was
+100% ocean (or land) as defined in W86. Exceptions to this are that a number of boxes with small islands
+were allowed to contribute to the land data and reports from the Great Lakes and the Caspian Sea were
+allowed to contribute to the ship data.
+ If the sky was obscured (N=9) by fog (ww=F; 1.1% land, 2.7% ship), thunderstorms-showers
+(ww=Ts, abbreviated as T in the figure; 0.05% land, 0.1% ship), or drizzle-rain-snow (ww=DRS,
+abbreviated here as R; 0.4% land, 0.9% ship), the sky was considered to be overcast (N=8). This source
+of "cloudiness" contributed about 1% to the total cloud cover globally, and much more in some locations
+and seasons (Hahn et al., 1992). Clouds could not be inferred if the sky was obscured for other reasons,
+such as blowing dust or snow, and such reports were discarded. The change code, IC=1 (discussed in
+Section 3C below), signifies that a report came through the N=9 branch of the processing. Thus 1.5% of
+the land reports and 3.7% of the ship reports had N=9 with the ww codes D, R, S, F or Ts.
+ Other data consistency checks indicated in Figure 1 ensure that the low cloud amount is not greater
+than the total cloud cover, that precipitation (as defined in Table 2) is not reported with a clear sky, and
+that if cloud is present (and types are reported), some cloud type must be indicated in at least one of the
+three possible levels (this test actually discards a report if N&#62;0 and C&#60;/=0). The re-coding indicated in the lower left box in the figure is necessary because of a 1982 code change (WMO,
+1988) that instructs observers to set C=/ when N=0 (this requires special attention in cloud type
+analysis and will be discussed in Section 4).
+ The number of reports that survive these tests and are suitable for total cloud analysis (referred to
+as "total reports") is 124.2 million for land and 14.7 million for ships. Of these, 90.3 million and 11.1
+million, respectively, were made under sufficient solar or lunar illuminance (referred to as "light reports")
+to meet the established illuminance criterion for adequate cloud visibility (Hahn et al., 1994b).
+ The ability of surface observers to adequately detect clouds at night has been questioned for many
+years (e.g. Riehl, 1947; Schneider et al., 1989). In an attempt to find a practical solution to this "night-detection-bias", Hahn et al. (1994b) analyzed ten years of nighttime data for the zone 0-50&amp;$176; N and plotted
+reported cloud cover as a function of the illumination due to moonlight, which depends on the phase and
+altitude (angle above or below the horizon) of the moon and on the distance of the moon from the earth.
+The amount of total cloud reported at night increased as the lunar illuminance increased up to a certain
+threshold, after which the reported cloud cover leveled off. This threshold is referred to as "the
+illuminance criterion" and corresponds to the twilight produced by the sun at an altitude of about 9 degrees below the horizon. Thus the illuminance criterion is met when either the sun is at an altitude greater than -9&#176; or the position of the moon is such that its illuminance exceeds the threshold. These conditions were
+determined for each report with the use of an ephemeris and the latitude, longitude, date and time of the
+report.
+ This illuminance criterion was applied in analyses of total cloud cover and clear-sky frequency
+(Hahn et al., 1994a). (Fog and precipitation frequencies were also analyzed in that study but their
+detection does not depend on illumination). Application of the illuminance criterion increased the
+computed global average total cloud cover at night by about 4% and thus increased the daily average
+computed cloud cover by about 2%. Diurnal cycles of total cloud cover over land, which typically show
+daytime maxima, were reduced in amplitude when compared to previous studies which did not use the
+illuminance criterion (W86). Over the oceans, the increased computed nighttime cloud cover was often
+sufficient to result in nighttime maxima, in contrast to the daytime maxima previously reported (W88).
+Preliminary surveys conducted in conjunction with the present work suggest that we should expect
+similarly dramatic effects on analyses of middle and high clouds but little effect on low clouds.
+ Because of the importance of moonlight in the detection of clouds at night, parameters relating to
+the illuminance criterion are included in the edited cloud report (Section 4). Reports for which the
+illuminance criterion is met are referred to as "light reports", as opposed to "dark reports" (for which the
+criterion is not met) or "all reports" (which includes both light and dark).
+ The reports that failed the cloud type consistency checks shown in Figure 1 were discarded. Other
+inconsistencies are possible which may be correctable or may provide cause simply to reject the report for
+cloud type analysis. As the synoptic reports were processed, any inconsistency encountered required a
+change to be made in the existing code before the report was entered into the edited cloud report archive.
+Any changes thus made are noted by assigning a "change code" (IC) to that report. This change code (with
+values 0 to 9) is preserved in the ECR (Section 4) so that modifications made to the original report can be
+identified.
+ Details of the cloud type processing following the total cloud stage shown in Figure 1 are
+presented in the form of the FORTRAN code in . Each segment of the table (delineated by a
+change code heading) describes the processing of a particular type of inconsistency or change. The
+changes associated with particular coded cases are described briefly in along with the frequency of
+occurrence of each change type. (The changes referred to by IC=1 were discussed in section 3B.) Most of
+the inconsistencies under consideration have been discussed previously (W86, W88) but are summarized
+here.
+ For a report to provide useful cloud type information, both Nh and CL must be given. If either is
+missing (and not correctable) then the report cannot be used for cloud type analysis and all cloud type
+variables are set to -1 for consistency (see segment IC_5 in Table 3). Thus if any inconsistency is
+discovered that cannot be corrected, simply setting Nh=-1 will result in exclusion of the report from cloud
+type analyses. For example, the IC_2,4 segment in Table 3 examines the case in which there is middle
+cloud but no low cloud. In such a case Nh should give the middle cloud amount. In some reports Nh was
+improperly set to 0 (W86). If there is also no high cloud then it must be that Nh=N and the report can be
+corrected (IC=2). But if high cloud is present, then the value of Nh is indeterminate, and set to -1 (IC=4),
+and the report cannot be used for cloud types (in such cases all cloud type variables are set to -1 in segment
+IC_5).
+ The situation is similar in segment IC_3,4. If only high cloud is present, Nh should properly be 0
+but is sometimes given the value of N by an observer. This is readily corrected (IC=3). But if Nh&#60;N in
+such a case, the report is irreconcilably inconsistent and must be rejected for cloud type analysis (set Nh=-1
+and IC=4).
+ Segments IC_6 and IC_9 simply correct cases of sloppy reporting of middle and high clouds, such
+as reporting C=/ when the sky is overcast with low cloud.
+ Segments IC_7 and IC_8 merely set C to represent our definition of Ns as a convenience for
+future cloud type analyses. As is usually the case, the original report can be reconstructed if desired.
+ The order in which some of these consistency checks is performed is also important to the
+outcome. For example, if segment IC_8 were performed before segment IC_6, then some cases of Ns
+would go undetected. Also, segment IC_9 must be performed after IC_8 for the same reason. However
+since it is not desirable to have the change code IC=8 overwritten by the relatively trivial change IC=9, this
+latter code is only entered in IC (although the change is made) if no previous change has been made
+(second part of segment IC_9 in Table 3). This co-occurrence of change codes should be rare since N is
+usually large when Ns is present.
+ From Table 4 we see that some change is made in 12% of land reports and 16% of ship reports,
+but that roughly half of the changes just represent classifying an observation as Ns, Cb or fog. Thus less
+than 5% of land reports and less than 9% of ship reports have been changed due to inconsistencies and
+most of these are due to the relatively trivial cases with IC=6 (and IC=9 for ships).
+ After passing the cloud type consistency checks, the number of light reports available for cloud
+type analysis for 1982-91 is 88 million for land and 9.4 million for the ocean (). Reports suitable
+for cloud type analysis (C and Nh &#62; -1) are referred to as "type reports".
+ The synoptic code contains two cloud amount variables, N and Nh. The amount of low cloud, if
+present, is directly specified by Nh. While the amounts of upper level clouds are not directly specified,
+they may often be inferred. Thus when C=0, the amount of middle cloud is given by Nh, and when
+C=0, the amount of high cloud is given by N. If all three levels are present there are too few known
+variables to determine the upper cloud amounts. If two levels are present, the amount in the upper level
+may be estimated if the extent of overlap is assumed.
+ In the ECR we provide amounts that utilize the random overlap assumption, where necessary, in
+order to best represent the actual cloud amounts (the fraction of the sky covered by a cloud type, whether
+visible or not). We also provide the non-overlapped amounts which require no assumptions but which
+indicate only the amount of the upper level cloud visible from below. (Satellite-derived cloud amounts are
+typically given as the non-overlapped amounts visible from above.) Tian and Curry (1989) tested the
+minimum, maximum and random overlap assumptions and found the maximum overlap assumption to be
+best for adjacent cloud layers, while the random overlap assumption was best for vertically separated
+layers.
+ gives our method, in the form of FORTRAN code, for determining the actual and non-overlapped amounts of middle and high clouds from a synoptic weather report. A few points should be
+noted. The random overlap equation (lines 17 and 38) is invoked only when Nh&#60;7. , which gives
+the outcomes of the possible combinations of N and Nh in the equation, shows that only 2 outcomes are
+possible for the upper cloud amount when Nh=7, namely 0 and 8 oktas, making this a highly inaccurate
+determination (W86). In such cases the upper cloud amount is left undetermined. If the upper cloud in
+question is Ns, however, the maximum overlap assumption is employed and the Ns amount is assigned the
+value of N (lines 13-14, Table 6). In this case the nimbostratus cloud layer is likely to be adjacent to or
+continuous with the low cloud, so the maximum overlap assumption is more appropriate (Tian and Curry,
+1989). Also, certain arbitrary decisions are sometimes required, such as our choice, in line 7 of Table 6, toallow middle cloud to be computed when C=/. This choice is justifiable since such a case tends to occur
+with large N so that any error induced by this situation would be small.
+ The number of times reports were processed through the possible paths in Table 6 are listed in
+. Light reports (for which the illuminance criterion was met) and dark reports (for which the
+illuminance criterion was not met) are both shown, where possible, for comparison. Land and ocean data
+were processed separately. Non-overlapped (NOL) amounts were computable in more than 90% of the
+cloud type reports since one can know that a cloud cannot be seen even if one does not know whether it is
+present. Thus the non-overlapped amount of an upper level cloud is frequently zero.
+ Percentages are not explicitly shown in the table but it can be seen that upper level clouds are
+reported more frequently in the set of light reports than in the set of dark reports (38% and 30%,
+respectively, for land middle clouds, and 44% and 29%, respectively, for ocean middle clouds, for
+example). When upper clouds are present, they are more frequently computable within the set of dark
+reports and random overlap (ROL) is less often required. Comparing land and ocean, upper level clouds,
+when observed to be present, are less likely to be computable from ocean data and are more likely to
+require ROL because of the predominance of low level clouds over the oceans. (The percentages given
+here merely represent the fractions of reports within the data set and are not area-weighted global
+averages.)
+ shows the variables included in the ECR, the number of characters allocated for each, and
+the maximum and minimum values allowed. Each item in the table is discussed briefly below. Sample
+reports selected from ship and land data for 1981 December and 1982 January are provided in .
+These reports are in the order in which they appear in their respective files (see next section) though these
+selections are not consecutive within the file. The reports are numbered in the table for convenience.
+ Item 1: The first item in the report gives the year, month, day and GMT hour of the report, with 2
+characters allotted for each. There are no spaces ("3", for example, is given as "03") so that the entire item
+can be read as a single integer. Only the last 2 digits of the year (1900's) are given. Months are coded as
+01 through 12, representing January through December.
+ Item 2: The IB variable indicates whether the illuminance criterion of Hahn et al. (1994b) was
+satisfied (IB=1) at the time and place of the report or not (IB=0). This variable can be checked in lieu of
+SA and RI (items 19 and 20 below) if one accepts the criterion specified in Hahn et al. (1994b).
+Item 3: The latitude (in degrees north and south) is given to 2 decimal places and written as a 5-digit integer, and thus must be divided by 100 to obtain actual latitude. Actual values range from +90 to -90 for 90N to 90S, respectively.
+ Item 4: The longitude (in degrees east) is given to 2 decimal places and written as a 5-digit
+integer, and thus must be divided by 100 to obtain actual longitude. Actual values range from 0 to 360E.
+ Item 5: For land stations, ID is the WMO station number (WMO, 1977). For ships, ID is the card
+deck assignment (Slutz et al., 1985).
+ Item 6: This parameter indicates whether a report is from a land station (LO=1) or a ship (LO=2).
+ Items 7-13: These weather and cloud variables are coded as specified by WMO (1988) except that
+items 11 and 12 have been "extended" as described in Section 3A (Table 2). Also, cases of N=9 (item 8)
+that were not discarded have been converted to N=8. Any such conversion is coded in the "change code"
+(item 18 below). The value "-1" indicates missing data. Item 8 (N) does not obtain a value of -1 in this
+data set since all such reports were discarded during processing. Item 10 (h) may have a value of 9 only
+when a cloud is present since h was set to -1 in cases of N=0 (Figure 1).
+ Items 14-15: These variables give the "actual" cloud amounts of middle and high clouds and
+utilize the random overlap equation where necessary (Section 3D). Values are given in oktas to 2 decimal
+places and written as 3-digit integers, so they must be divided by 100 to obtain the actual values. An
+actual value of 9 (coded value 900) indicates missing data.
+ Items 16-17: These variables give the non-overlapped cloud amounts of middle and high clouds
+and represent the amount of cloud visible from below (Section 3D). Values are given in oktas. A value of
+9 indicates missing data.
+ Item 18: The change code indicates whether a change was made to the original report during
+processing. Code values are defined briefly in Table 4 and in detail in Figure 1 and Table 3 (Section 3C).
+A change code of 0 means that no change was made other than the trivial change of converting /'s to 0's in
+the case of N=0. Examples of reports with each change code are provided in Table 10.
+ Items 19-20: These variables give the solar and lunar parameters needed to determine the
+illuminance provided by the sun or moon for the date, time and location of the report (Section 3B1). SA is
+the altitude of the sun above the horizon, given to a tenth of a degree (divide the coded value by 10 to
+obtain the actual value). RI is the lunar relative illuminance defined by Hahn et al., (1994b). RI= PHI sin(A)
+(R), where A is the lunar altitude, r is the earth-moon distance, R is the mean earth-moon distance, and
+PHI is the lunar phase function which varies from 0 to 1 in a concave shape such that a full moon is 10 times
+as bright as a half moon (Hapke, 1971). The illuminance criterion of Hahn et al. (1994b) is met (IB=1,
+item 2) when SA&#62;/=-9&#176; or RI&#62;0.11. (A negative value of RI means the moon was below the horizon.)
+ The data are divided into 240 files, one for each month for ten years for land and ocean separately.
+These files range in size from 5.0 to 8.4 MB for the ocean data and from 49.8 to 63.5 MB for the land data.
+ In the NMC data set archived at NCAR, the 6-hourly reports and 3-hourly reports (Section 2) are
+stored on separate files. Each of these subsets is sorted first by time and then by latitude and longitude.
+Each land data file of the ECRA was formed by merging the 6-hourly and the 3-hourly data so that for
+each month the reports appear in time order.
+ The sort used in the COADS Interim Product (Section 2) was first by 2-degree box, then by time,
+and finally by latitude and longitude for each month. For the ECRA files, the reports were re-sorted by
+time and then by latitude and longitude.
+ Figure 1 and Tables 4, 5 and 8 showed the number of reports processed, deleted and changed, as
+well as the number of light reports, the number suitable for cloud type analysis, and the number of times
+upper level cloud amounts were computable. shows how the reports are distributed over the
+synoptic reporting times. Land stations usually report 8 times per day but some do not (notably in the
+United States and Australia), so that 59% of all reports are made during the 6-hourly times. Ships,
+however, tend to report at the 6-hourly times and only about 10% of the ship reports are for the
+intermediate 3-hourly times. Having only 4 reports per day, rather than 8, limits the resolution possible in
+computations of the phase and amplitude of the diurnal cycle. It was also noted (W88) that regionalaverages formed from 6-hourly ship data may be uniformly different from averages formed from 3-hourly
+data, consistent with a tendency for some ships to give a 3-hourly report only in unusually stormy weather.
+A bias is also possible when averaging over a land grid box that has more than one station if stations
+within one climatic region report 8 times per day while stations within a different climatic region report 4
+times per day.
+ The histograms in for ocean show the frequency of occurrence of the
+extended code values for the six cloud variables for light reports in the archive of edited cloud reports. [In
+these figures N=9 is shown separate from N=8 although N=9 appears as N=8 (with IC=1) in the ECR.]
+The shaded areas show the occurrence of precipitation (DRSTs, Table 2). Numerical values for the data
+shown in these figures are provided in . Several interesting features are evident in these
+figures. The distribution of codes for total cloud cover N is nearly U-shaped for land but strongly skewed
+towards the higher amounts for oceans. 96.5% of all precipitation occurs with N&#62;/=7 over land and with
+N&#62;/=6 over oceans. About 75% of precipitation occurs with Nh&#62;/=6. The reports with Nh=-1 are not usable
+for cloud type analysis. The most commonly occurring cloud base height code is h=5 (600-1000m) over
+land and h=4 (300-600m) over oceans. The high frequency of h=9 over land is a consequence of the high
+occurrence of C=0 so that h=9 often refers to the middle cloud level.
+ The lower panels in Figures 2a and 2b show the occurrences of various cloud types within the
+three reporting levels. The occurrence of C=-1 is the same as Nh=-1 due to the processing procedure and
+is the fraction of reports that do not contain information relating to cloud types (2.6% for land data, 15.3%
+for ocean data). A larger fraction of the reports have C=-1 (33.2% for land, 50.9% for ocean) because of lower overcast. Thus 97.4% of the land reports have
+information about cloud types but only 82% of those have information about the middle cloud level and
+66% about high clouds. For the oceans, 84.7% of the reports have low cloud information but only 57% of
+those have middle cloud information and 40% have high cloud information.
+ The low cloud type most commonly reported over land is stratocumulus (C=5). While this type
+is also relatively common over the oceans, it is exceeded by the cumulus types C= 1 and 2. About 25%
+of all precipitation occurs with the stratus cloud C=7 is reported over land, precipitation is
+present in 67% of the reports. Precipitation occurs in 34% of the ship reports of C=7.
+ While 58% (land) and 46% (ocean) of all precipitation occurs with the middle clouds defined to be
+nimbostratus (C= 10,11,12), 25% and 38%, respectively, of precipitation occurs when the middle cloud
+level is not given in the report (typically because of low overcast). Because of our definition of Ns shown
+in Table 2, most of these latter cases must have ww= D or Ts. In the high cloud level, 90% of all
+precipitation occurs in reports with C=-1 (high cloud level not reported, usually because of lower
+overcast).
+ The occurrence of reports of sky-obscured (N=9) due to fog or precipitation is 1.5% for land and
+3.5% for ocean, with fog (C=11) accounting for more than two thirds of these values for both land and
+ocean (Figure 2 and Appendix A). These cases of sky-obscured due to fog make up 14% (land) and 48%
+(ocean) of all reported cases (light) of fog. Cases of thunderstorms or showers (C=10) account for onlyabout 3.5% of the reports of sky obscured, and sky-obscured due to thunderstorms or showers make up
+only 1.6% (land) and 5.8% (ocean) of the light reports of thunderstorms and showers. The remaining
+contribution to the reports of sky obscured (about one quarter) is due to drizzle, rain or snow. Sky-obscured due to drizzle, rain or snow make up 5.1% (land) and 12.9% (ocean) of the light reports of
+drizzle, rain and snow.
+ A report of sky-obscured due to drizzle, rain or snow is considered to indicate nimbostratus cloud
+and is given the extended code value C=10 with IC=1 (Tables 2 and 4). Two other sets of circumstances
+are considered to indicate Ns as well. shows the contributions of the three major paths to the
+frequency of Ns within the light type reports. (Frequencies based on light reports are slightly higher
+than the frequencies quoted in the last paragraph which were based on the total set of light reports.) The
+largest contributor to Ns in the land data is the path through C=2,7 (with ww=DRS). For both land and
+ocean C=11,12 in Appendix A). The largest contributor to
+Ns in the ocean data comes through the C=/ path, which has several contributors itself, the largest being
+the case of C=7 with DRS.
+ Excluded from the definition of Ns are the cases of C=4,5,6,8 and ww=D (more than
+half of these cases are due to C=6 alone). These cases were considered to indicate Ns in our previous
+climatologies (W86, W88) but after subsequent consideration and discussions with colleagues we
+concluded that since drizzle could occur from these low cloud types, the additional inference of Ns above
+them was inappropriate. Thus the frequencies of occurrence of Ns computed under the current definition
+will be reduced to about 97% (land) and 90% (ocean) of the frequencies given in W86 and W88.
+ Another change associated with the simplification of our previous definition of Ns involves cases
+of C 6,7 in these cases were previously reassigned as
+Ns, but are left unchanged in the present, simplified definition. This results in a further reduction in
+computed Ns frequency by factors comparable to those in the last paragraph. Thus the Ns frequencies
+computed under the present definition may be about 94% (land) and 81% (ocean) of those computed under
+the previous definition. Note that these percentages refer to the number of reports in the data set which
+contains a disproportionate contribution of reports from the densely populated northern mid-latitudes and
+thus do not represent the area-weighted global averages. Note also that the user of this data set is not
+restricted to the definitions assigned here since all the information necessary for any other interpretation is
+contained in the edited cloud reports. The definitions discussed above apply only if the reports are used
+exactly as written.
+ The cases of C=/ and ww=DRS are not considered to indicate nimbostratus
+cloud.
+ To show the global distribution of the reports, numbers (shown as log10) of light type reports are
+displayed on a 5c grid (see Glossary in Appendix B) in (ocean). Numbers from
+1-9 appear as 0, numbers from 10-99 appear as 1, etc. Grid boxes with no light type reports are blank.
+ A number of biases which can affect analyses of clouds from surface observations are summarized
+in W88. Four biases which we can measure and possibly correct for are described in more detail here.
+ The is largely eliminated by using only data for which the illuminance
+criterion is met (Section 3B1). This, however, enhances the unless precautions are
+taken since less than half as many nighttime observations will be available compared to the number of
+daytime observations. Thus Hahn et al. (1994a) prepared nighttime and daytime averages separately and
+averaged the two together to obtain the average cloud cover.
+ Another potential bias for cloud type analyses was introduced by the synoptic code change in 1982
+which allowed observers to record a "/" for cloud types when N=0. Previously a report with N=0 and C
+or Nh =/ would indicate a station that never reports cloud types and the report would be omitted from the
+cloud type analysis. Now every occurrence of N=0 must be treated as C=0 and Nh=0. Thus a report
+from a station or ship which never reports cloud types would contribute to a cloud type analysis only when
+the sky was clear, producing a : the frequency of occurrence of clear sky computed from the
+cloud type reports would be too high and the frequencies of occurrence of the various cloud types would be
+too low. The magnitude of this bias can be estimated by counting the number of times observers within a
+grid box omit cloud types (Nh=/ or C=/) when N&#62;0 and assuming that the same fraction of the cases of
+N=0 would be from stations or ships that do not report cloud types, and thus should be excluded from the
+denominator when determining the frequency of occurrence of a cloud type.
+ =/
+(or Nh=/) in light reports with N&#62;0 (this bias fraction is referred to as fb). (Note that when computing
+these fractions using the ECRA, reports of Nh=-1 with IC=4 must not be counted in fb since these values
+were set during data processing and not by the observer.) In the land data, extremely large values occur
+only in northern Alaska (87%, underlined in Figure 4a) and in northeast Greenland (72%). Ship data show
+large values in the Great Lakes region of North America where values exceed 90% and in some European
+waters where values are as great as 82%. Values of fb average about 3% for land data and about 10% for
+ship data.
+ To determine how much effect this bias would have on computed cloud type frequencies, the
+"clear-sky adjustment factor" (AF0) was defined such that Fa = AF0 &#183; Fr, where Fa is the adjusted
+frequency of occurrence of some cloud type and Fr is the frequency that would be computed using the
+potentially biased cloud type reports. Since Fr = Nt / Nr, where Nt is the number of occurrences of a
+particular cloud type and Nr is the number of reports contributing to the cloud type analysis, and Fa = Nt /
+(Nr - fb &#183; N0), where N0 is the number of occurrences of N=0 and fb is the fraction of N0 that should be
+discounted, then, using f0 = N0 / Nr, Fa can be represented as Fa = Nt / (Nr - fb &#183; f0 &#183; Nr) = Nt / (Nr &#183; (1 -
+fb &#183; f0)) = Fr / (1 - fb &#183; f0). Thus AF0 = 1 / (1 - fb &#183; f0) and is equal to one if either fb or f0 is zero.
+ show the global distribution of AF0 {displayed as 100 x (AF0-1)} over land and
+ocean, respectively. This analysis shows that, on average, cloud type frequencies, if uncorrected, would be
+reduced only to about 99.5% of their correct values by this bias (average AF0 = 1.003 for land and 1.007
+for ocean) and that most regions of the globe are essentially unaffected. However a few regions are greatly
+affected, namely northern Alaska, northeastern Greenland, the Great Lakes, and some seas around Europe.
+These are the regions with high values of fb (Figures 4a and 4b). The two most extreme regions, the Great
+Lakes and northern Alaska, have biased values 41% and 27% of their correct values. Other than the AF0
+values of 3.68 in Alaska and 1.31 in Greenland, no land box has a value greater than 1.08. In the ocean
+data, moderate values of AF0 (around 1.10) occur in the Middle East where clear-sky frequencies are high
+(W88), and several higher values are seen in the seas of Europe and in the Great Lakes of North America.
+While it may be desirable to apply this adjustment factor to regions of moderately large AF0 values,
+practical application of this correction will be complicated by the fact that AF0 values vary from year to
+year, season to season, and day to night. Fortunately correction is unnecessary over most regions of the
+globe and the regions noted in Figures 5a and 5b for large adjustment factors can simply be eliminated
+from a cloud type analysis.
+ Note that while cloud type frequencies are subject to the clear-sky bias because of the coding
+instructions and practices for cloud type reports, the frequency of occurrence of clear sky itself (and also
+the frequency of fog) can be computed without this bias by using the total cloud data set to which this bias
+does not pertain (as was done in Hahn et al., 1994a).
+ Our recognition of certain cases of N=9 as overcast cloud (Section 3B) is important in obtaining
+accurate estimates of the amounts of fog and nimbostratus cloud, but may introduce the ,
+which is similar in principle to the clear-sky bias discussed above. Since C=/ whenever N=9, it is not
+possible to distinguish stations or ships that normally report cloud types from those that do not. Thus the
+latter stations will contribute to the cloud type analysis only when the sky is obscured (aside from the case
+of clear sky which was discussed above). This will tend to cause the computed frequencies of fog and
+nimbostratus cloud to be too large and the frequencies of other cloud types to be reduced. The fraction fb
+shown in Figures 4a and 4b is again a measure of the potential of this bias. A "sky-obscured adjustment
+factor" (AF9) is defined in a manner similar to that for AF0 defined above such that Fa = AF9 &#183; Fr and
+AF9 = 1 / (1 - fb &#183; f9), where f9 is the frequency of occurrence of N=9 in cloud type reports.
+The global distribution of f9 is given in . The box in northern Alaska
+(underlined), which was shown previously to have fb=0.87 (Figure 4a), also has the relatively large value
+of 0.16 for f9 which gives AF9=1.16. Inspection of Figures 4a and 6a together shows that this is the
+largest AF9 value for land data and that in most regions the value of AF9 is near 1.00. Ship data have
+larger fb values (Figure 4b) and larger f9 values (Figure 6b) than land data. Also the large values are
+distributed over larger regions. The largest f9 values occur, again, in the Great Lakes region where they
+combine with fb to produce AF9 values that approach 2. In the North Pacific, where large amounts of fog
+occur during the summer season (W88), moderately large f9 values (&#126;0.20) occur with moderate fb values
+(&#126;0.11), giving AF9=1.02 which is a relatively small bias. The global average values for AF9 are 1.0003
+for land and 1.003 for the ocean. Thus, aside from the few regions specially noted to be removed from
+cloud type analysis, the sky-obscured bias is generally small. Any bias in the frequency of fog itself can be
+eliminated by computing it from the total cloud reports, as mentioned above. Any bias towards increasing
+the nimbostratus frequency will be small since N=9 contributes only a small portion of the total
+nimbostratus (Table 12) and will be compensated somewhat by the tendency towards reducing the
+frequency of Ns contributed by the C=/ paths.
+ The determination of the average cloud amounts and frequencies of occurrence from surface
+observations requires some special considerations to avoid various potential biases and to obtain
+representative values. Upper level clouds present special problems because they are sometimes partially or
+completely hidden from the view of the observer by lower clouds. These issues are discussed in detail in
+W86 and W88 but will be highlighted here.
+ Total cloud cover is basically the sum of the values of N in the synoptic code (converted to percent
+if desired) divided by the number of contributing reports. However, to avoid the day-night bias discussed
+above, some method of equalizing the contribution of reports between day and night is necessary. In W86,
+averages were obtained by first forming averages for the 8 synoptic hours and then averaging these 8
+numbers. For oceans, where data are less plentiful, this method will result in significant loss of data
+because the 3-hourly times often do not have a sufficient number of reports to obtain a statistically reliable
+average. Therefore, Hahn et al. (1994a) divided the day into two 12-hour periods, 0600-1800 local time
+("day") and 1800-0600 local time ("night"), and averaged these two numbers. Note that when using only
+the light reports (to avoid the night-detection bias) to form monthly averages, only about two weeks of data
+will contribute to the nighttime average in any single month. Due to this "monthly-sampling error" there
+will be more scatter in monthly averages from year to year although multi-year averages should become
+more statistically representative of climatological means as the number of contributing years is increased.
+Similarly, seasonal averages should be more representative of an individual season than monthly averages
+are of an individual month.
+ These considerations of the day-night bias, night-detection bias, and monthly-sampling error apply
+equally well to cloud type analyses discussed below. However, for quantities such as fog and precipitation,
+whose detection does not depend on illumination, all observations may be used, minimizing all three of
+these biases.
+ Of the 90.3 million light reports suitable for total cloud analysis for land (Figure 1), 88.0 million
+have cloud type information (Table 5). For the ocean these numbers are 11.1 million and 9.4 million. In
+the type reports, the amount of a low cloud type (if present) is always given in the Nh variable of the
+report. The average amount for a particular low cloud type can be obtained, in a manner similar to that for
+total cloud amount, by summing the Nh values when the type is present and dividing by the number of
+contributing reports (using the precautions against the day-night bias discussed above and adjusting for the
+small clear-sky and sky-obscured biases if desired). The contributing reports consist of those with C&#62;/=0
+and Nh&#62;/=0 and include reports of N=0. An alternative, but equivalent, method for obtaining the average is
+to compute the frequency of occurrence (f) of the type (the number of occurrences of the type divided by
+the number of contributing reports) and the amount-when-present (awp; sum of Nh's divided by the
+number of occurrences of the type) separately. Then the average amount is avg = f awp. This latter
+method is described because it is often of interest to know the frequency of occurrence of a type in addition to its amount, because awp tends to be characteristic of a cloud type, and because this is the method used
+in computing upper level cloud type amounts.
+ Cloud type reports do not always contain information about upper level clouds because they may
+be hidden by an overcast or near-overcast layer of lower clouds. Thus, of the 88.0 million light type
+reports for land (Table 8), only 74.4 million have information about the middle cloud level (C&#62;/=0) and
+60.3 million have information about the high level (C&#62;/=0). Of the 9.4 million light type reports for the
+oceans, 7.1 million have C&#62;/=0.
+ The average amounts of upper level cloud types are obtained as described in the last section: avg
+= f x awp. Since we want the actual frequency of occurrence of a cloud type, and not just the frequency
+with which it is visible, f is computed as the number of times the type was observed divided by the number
+of reports of C). For land, middle and high cloud frequencies
+are determined from 84.5% and 68.5% of the light type reports, respectively. For the oceans these values
+are 75.5% and 58.5%, respectively. The question of the degree to which these portions of the data set
+represent the whole data set for types is discussed in W86 and W88. Based on a study of the frequency of
+occurrence of As/Ac [f(As,Ac)] versus low cloud amount, Warren et al. (W88) applied an adjustment to
+f(As,Ac) which assigned to the cases of C=/ (15.5% of the type reports for land and 24.5% for ocean) a
+value that is the average of f(As,Ac) of the reports that have low cloud amounts of 3 to 7 oktas. For high
+clouds, f was computed only from reports with Nh&#60;7 in order to reduce the partial-undercast bias (W88).
+ The amount-when-present of an upper cloud type can be determined, when it is reported present
+(C&#62;0), only if there are at most 2 cloud levels present. In addition, amounts are not computed for an
+upper cloud if it is undercast by a layer which covers 7 oktas or more of the sky (Section 3D). Therefore
+awp is computed from an even smaller pool of data than that used for frequency computations. Table 8
+shows that, for land, 78% of the observed (light) occurrences of middle clouds and 75% of the observed
+occurrences of high clouds are computable. For the ocean data these values are 61% and 43%,
+respectively. Nevertheless, awp computed from these data is probably fairly representative of the actual
+awp (W86 and W88) and any error in awp results in a smaller error in avg by the factor f. Any systematic
+error inherent in the random-overlap assumption would produce a smaller error in computed a mounts since
+this assumption is used for only a fraction of the computable observations. Table 8 shows that the random-overlap assumption is used in 39% of the computable observations (light) of middle cloud and in 55% for
+high cloud over land. These fractions are larger for ocean data with random overlap used for 60% of the
+computable middle clouds and 70% of the computable high clouds.
+ Special note about Ns: Because Ns is defined on the basis of the occurrence of precipitation
+(Table 2) which does not depend on the visibility of the middle cloud level for its detection, its presence or
+absence is known for every type report. Thus the number of contributing reports for f(Ns) is the same as
+that for low cloud types (C&#62;/=0 and Nh&#62;/=0). However, when present, its amount is not always known and a
+separate tally (which will be different from that for the As/Ac clouds) must be kept for determining its
+awp.
+This documentation and the data described herein are available from:
+ Oak Ridge National Laboratory
+ Post Office Box 2008
+ Oak Ridge, TN 37831-6290, U.S.A.
+ Telephone (865) 574-3645 or (865) 574-0390
+ or
+ Data Support Section
+ Boulder, CO 80307, U.S.A.
+ Telephone (303) 497-1215.
+The following should be used for referencing this archive and/or this documentation report:
+ Oak Ridge National Laboratory, Oak Ridge, TN. (Also available from Data Support Section,
+National Center for Atmospheric Research, Boulder, CO.)
+The archive of our earlier climatology (Hahn et al., 1988) and the accompanying atlases (Warren
+et al., 1986, 1988) are also available from the same sources listed above.
+ This work was supported by NASA Grant NAG-1-998 and by Battelle Pacific Northwest
+Laboratories, Atmospheric Radiation Measurement Program (Contract 144806-A-Q1). We also acknowledge the long term cooperation and provision of computing facilities by the Scientific Computing Division of the National Center for Atmospheric Research.]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp026b/ndp026b.doc]]></Data_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp026b/ndp026b.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19960201]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19960201]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp2/ndp026b/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[2.08 GB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ Surface synoptic weather reports for the entire globe for the 10-year period from December 1981 through November 1991 have been processed, edited, and rewritten to provide a data set designed for use in cloud analyses. The information in these reports relating to clouds, including the present weather information, was extracted and put through a series of quality control checks. Reports not meeting certain quality control standards were rejected, as were reports from buoys and automatic weather stations. Correctable inconsistencies within reports were edited for consistency, so that the edited cloud report can be used for cloud analysis without further quality checking. Cases of sky obscured were interpreted by reference to the present weather code as to whether they indicated fog, rain or snow and were given appropriate cloud type designations. Nimbostratus clouds, which are not specifically coded for in the standard synoptic code, were also given a special designation. Changes made to an original report are indicated in the edited report so that the original report can be reconstructed if desired. While low cloud amount is normally given directly in the synoptic report, the edited cloud report also includes the amounts, either directly reported or inferred, of middle and high clouds, both the non-overlapped amounts and the actual amounts (which may be overlapped). Since illumination from the moon is important for the adequate detection of clouds at night, both the relative lunar illuminance and the solar altitude are given, as well as a parameter that indicates whether our recommended illuminance criterion was satisfied.
+<br><br>
+ This data set contains 124 million reports from land stations and 15 million reports from ships. Each report is 56 characters in length. The archive consists of 240 files, one file for each month of data for land and ocean separately. With this data set a user can develop a climatology for any particular cloud type or group of types, for any geographical region and any spatial and temporal resolution desired. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Larson, N. R. ]]></origin>
+        <origin><![CDATA[Michalsky, J. J. ]]></origin>
+        <origin><![CDATA[LeBaron, B. A.]]></origin>
+        <title><![CDATA[Rattlesnake Mountain Observatory Multispectral Optical Depth Measurements: 1979-1994]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_053.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Rattlesnake Mountain Observatory Multispectral Optical Depth Measurements: 1979-1994]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19790805]]></begdate>
+          <enddate><![CDATA[19940902]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-119.6]]></westbc>
+        <eastbc><![CDATA[-119.6]]></eastbc>
+        <northbc><![CDATA[46.4]]></northbc>
+        <southbc><![CDATA[46.4]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Solar Irradiance]]></themekey>
+        <themekey><![CDATA[Atmosphere Measurements]]></themekey>
+        <themekey><![CDATA[Multispectral Optical Depth Measurements]]></themekey>
+        <themekey><![CDATA[Rattlesnake Mountain Observatory]]></themekey>
+        <themekey><![CDATA[Mobile Automatic Scanning Photometer]]></themekey>
+        <themekey><![CDATA[MASP]]></themekey>
+        <themekey><![CDATA[NDP-053]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145619</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164731 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Solar Irradiance]]></Keywords>
+    <Keywords><![CDATA[Atmosphere Measurements]]></Keywords>
+    <Keywords><![CDATA[Multispectral Optical Depth Measurements]]></Keywords>
+    <Keywords><![CDATA[Rattlesnake Mountain Observatory]]></Keywords>
+    <Keywords><![CDATA[Mobile Automatic Scanning Photometer]]></Keywords>
+    <Keywords><![CDATA[MASP]]></Keywords>
+    <Keywords><![CDATA[NDP-053]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164731 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/NDP_053.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.ndp053]]></Product_number>
+      <Product_title><![CDATA[Rattlesnake Mountain Observatory Multispectral Optical Depth Measurements: 1979-1994]]></Product_title>
+      <Author>
+        <Name><![CDATA[Larson, N. R. ]]></Name>
+        <Company><![CDATA[Pacific Northwest Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Michalsky, J. J. ]]></Name>
+        <Company><![CDATA[Atmospheric Sciences Research Center]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[LeBaron, B. A.]]></Name>
+        <Company><![CDATA[Utah Bureau of Air Quality]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Washington]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/ndp053.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/alla2.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/alla2r.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/alla2rs.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/alla2s.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/allt2.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/allt2err.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/allt2s.asc]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/backgrd.asc]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[NM1010]]></Variable>
+      <Variable><![CDATA[NM428]]></Variable>
+      <Variable><![CDATA[NM486]]></Variable>
+      <Variable><![CDATA[NM535]]></Variable>
+      <Variable><![CDATA[NM785]]></Variable>
+      <Variable><![CDATA[YEAR]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/ndp053.html&#239;&#187;&#191;
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/ndp053.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/all.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/all.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19960101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19960101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp053/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[836KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ Surface measurements of solar irradiance of the atmosphere were made by a multipurpose computer-controlled scanning photometer at the Rattlesnake Mountain Observatory in eastern Washington. The observatory is located at 46.4 degrees N, 119.6 degrees W at an elevation of 1088 m above mean sea level. The photometer measures the attenuation of direct solar radiation for different wavelengths using 12 filters. Five of these filters (i.e., at 428 nm, 486 nm, 535 nm, 785 nm, and 1010 nm, with respective half-power widths of 2, 2, 3, 18, and 28 nm) are suitable for monitoring variations in the total optical depth of the atmosphere.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

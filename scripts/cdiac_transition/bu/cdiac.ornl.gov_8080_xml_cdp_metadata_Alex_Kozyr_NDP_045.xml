@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Chipman, D.]]></origin>
+        <origin><![CDATA[Takahashi, T.]]></origin>
+        <origin><![CDATA[Breger, D.]]></origin>
+        <origin><![CDATA[Sutherland, S.]]></origin>
+        <title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Meteor Cruise 11/5 in the South Atlantic and Northern Weddell Sea Areas (WOCE sections A-12 and A-21)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_045.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Meteor Cruise 11/5 in the South Atlantic and Northern Weddell Sea Areas (WOCE sections A-12 and A-21)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19900124]]></begdate>
+          <enddate><![CDATA[19900306]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-68.255]]></westbc>
+        <eastbc><![CDATA[18.45]]></eastbc>
+        <northbc><![CDATA[-35.332]]></northbc>
+        <southbc><![CDATA[-63.165]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Carbon Cycle]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+        <themekey><![CDATA[CTD Pressures]]></themekey>
+        <themekey><![CDATA[CTD Salinities]]></themekey>
+        <themekey><![CDATA[CTD Temperatures]]></themekey>
+        <themekey><![CDATA[Bottle Numbers]]></themekey>
+        <themekey><![CDATA[Bottle Salinities]]></themekey>
+        <themekey><![CDATA[Bottom Depth]]></themekey>
+        <themekey><![CDATA[Cast Numbers]]></themekey>
+        <themekey><![CDATA[Dissolved Oxygen]]></themekey>
+        <themekey><![CDATA[Latitude]]></themekey>
+        <themekey><![CDATA[Longitude]]></themekey>
+        <themekey><![CDATA[Nitrate]]></themekey>
+        <themekey><![CDATA[Nitrite]]></themekey>
+        <themekey><![CDATA[Partial pressures of CO2 at 20oC]]></themekey>
+        <themekey><![CDATA[Phosphate]]></themekey>
+        <themekey><![CDATA[Potential densities at 0 dbar]]></themekey>
+        <themekey><![CDATA[Potential temperatures]]></themekey>
+        <themekey><![CDATA[Quality flags]]></themekey>
+        <themekey><![CDATA[Sample numbers]]></themekey>
+        <themekey><![CDATA[Sampling date]]></themekey>
+        <themekey><![CDATA[Section numbers]]></themekey>
+        <themekey><![CDATA[Silicate]]></themekey>
+        <themekey><![CDATA[Station numbers]]></themekey>
+        <themekey><![CDATA[Total CO2 concentrations]]></themekey>
+        <themekey><![CDATA[South Atlantic Ocean ]]></themekey>
+        <themekey><![CDATA[Northern Weddell Sea]]></themekey>
+        <themekey><![CDATA[Hydrographic measurements]]></themekey>
+        <themekey><![CDATA[R/V Meteor Cruise 11/5]]></themekey>
+        <themekey><![CDATA[World Ocean Circulation Experiment ]]></themekey>
+        <themekey><![CDATA[WOCE]]></themekey>
+        <themekey><![CDATA[NDP-045]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 122758</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 143317 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Carbon Cycle]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Keywords><![CDATA[CTD Pressures]]></Keywords>
+    <Keywords><![CDATA[CTD Salinities]]></Keywords>
+    <Keywords><![CDATA[CTD Temperatures]]></Keywords>
+    <Keywords><![CDATA[Bottle Numbers]]></Keywords>
+    <Keywords><![CDATA[Bottle Salinities]]></Keywords>
+    <Keywords><![CDATA[Bottom Depth]]></Keywords>
+    <Keywords><![CDATA[Cast Numbers]]></Keywords>
+    <Keywords><![CDATA[Dissolved Oxygen]]></Keywords>
+    <Keywords><![CDATA[Latitude]]></Keywords>
+    <Keywords><![CDATA[Longitude]]></Keywords>
+    <Keywords><![CDATA[Nitrate]]></Keywords>
+    <Keywords><![CDATA[Nitrite]]></Keywords>
+    <Keywords><![CDATA[Partial pressures of CO2 at 20oC]]></Keywords>
+    <Keywords><![CDATA[Phosphate]]></Keywords>
+    <Keywords><![CDATA[Potential densities at 0 dbar]]></Keywords>
+    <Keywords><![CDATA[Potential temperatures]]></Keywords>
+    <Keywords><![CDATA[Quality flags]]></Keywords>
+    <Keywords><![CDATA[Sample numbers]]></Keywords>
+    <Keywords><![CDATA[Sampling date]]></Keywords>
+    <Keywords><![CDATA[Section numbers]]></Keywords>
+    <Keywords><![CDATA[Silicate]]></Keywords>
+    <Keywords><![CDATA[Station numbers]]></Keywords>
+    <Keywords><![CDATA[Total CO2 concentrations]]></Keywords>
+    <Keywords><![CDATA[South Atlantic Ocean ]]></Keywords>
+    <Keywords><![CDATA[Northern Weddell Sea]]></Keywords>
+    <Keywords><![CDATA[Hydrographic measurements]]></Keywords>
+    <Keywords><![CDATA[R/V Meteor Cruise 11/5]]></Keywords>
+    <Keywords><![CDATA[World Ocean Circulation Experiment ]]></Keywords>
+    <Keywords><![CDATA[WOCE]]></Keywords>
+    <Keywords><![CDATA[NDP-045]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 143317 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_045.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp045]]></Product_number>
+      <Product_title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Meteor Cruise 11/5 in the South Atlantic and Northern Weddell Sea Areas (WOCE sections A-12 and A-21)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Chipman, D.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Takahashi, T.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Breger, D.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sutherland, S.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[South Atlantic Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/oceans/ndp_045/ndp045.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/a21a12.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/a21a12_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/a21a12lv.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/a21a12sta.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Northern Weddell Sea]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/oceans/ndp_045/ndp045.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/a21a12.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/a21a12_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/a21a12lv.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/a21a12sta.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[bottle]]></Variable>
+      <Variable><![CDATA[btlsal]]></Variable>
+      <Variable><![CDATA[cast]]></Variable>
+      <Variable><![CDATA[ctdprs]]></Variable>
+      <Variable><![CDATA[ctdsal]]></Variable>
+      <Variable><![CDATA[ctdtmp]]></Variable>
+      <Variable><![CDATA[day]]></Variable>
+      <Variable><![CDATA[flag]]></Variable>
+      <Variable><![CDATA[lat]]></Variable>
+      <Variable><![CDATA[lon]]></Variable>
+      <Variable><![CDATA[month]]></Variable>
+      <Variable><![CDATA[nitrat]]></Variable>
+      <Variable><![CDATA[nitrit]]></Variable>
+      <Variable><![CDATA[oxygen]]></Variable>
+      <Variable><![CDATA[pco2]]></Variable>
+      <Variable><![CDATA[pco2temp]]></Variable>
+      <Variable><![CDATA[phspht]]></Variable>
+      <Variable><![CDATA[pres]]></Variable>
+      <Variable><![CDATA[salty]]></Variable>
+      <Variable><![CDATA[samp]]></Variable>
+      <Variable><![CDATA[sde]]></Variable>
+      <Variable><![CDATA[section]]></Variable>
+      <Variable><![CDATA[sigma0]]></Variable>
+      <Variable><![CDATA[silica]]></Variable>
+      <Variable><![CDATA[stat]]></Variable>
+      <Variable><![CDATA[tco2]]></Variable>
+      <Variable><![CDATA[temp]]></Variable>
+      <Variable><![CDATA[theta]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/ndp_045/ndp045.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/ndp045.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19961029]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19961029]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp045/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[400KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This document presents the procedures and methods used to obtain carbon dioxide (CO2), hydrographic, and chemical data during the R/V Meteor Expedition 11/5 in the South Atlantic Ocean, including the Drake Passage (Section A-12); the Northern Weddell Sea; and the Eastern South Atlantic Ocean (Section A-21). This cruise was conducted as part of the World Ocean Circulation Experiment (WOCE).
+<br><br>
+The cruise started from Ushuaia, Argentina, on January 23, 1990, and ended at Capetown, South Africa on March 8, 1990. Samples were collected at 78 stations that covered the Drake Passage (56-63 degrees S); the Northern Weddell Sea (45-35 degrees W); a section along the 58oW parallel (25 degrees W-prime meridian); and two segmented S-N sections between the Northern Weddell Sea and Capetown, South Africa. Measurements taken at WOCE sections A-12 and A-21 included pressure, temperature, salinity measured by the Conductivity, Temperature and Depth sensor (CTD); bottle salinity; oxygen; phosphate; nitrate; nitrite; silicate; total carbon concentration (TCO2); and partial pressure of CO2 (pCO2) measured at 20 degrees C. In addition, potential density at 0 decibar (dbar) and potential temperature were calculated from the measured variables. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

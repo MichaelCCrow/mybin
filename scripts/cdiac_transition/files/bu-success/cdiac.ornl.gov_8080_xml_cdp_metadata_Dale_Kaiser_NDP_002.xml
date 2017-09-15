@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Blasing, T. J.]]></origin>
+        <origin><![CDATA[Duvick, D. N.]]></origin>
+        <title><![CDATA[Tree Ring Chronology Indexes and Reconstructions of Precipitation in Central Iowa, USA]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Dale_Kaiser/NDP_002.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp002/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Tree Ring Chronology Indexes and Reconstructions of Precipitation in Central Iowa, USA]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[16540101]]></begdate>
+          <enddate><![CDATA[19801231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Decade]]></themekey>
+        <themekey><![CDATA[Number of Core Samples]]></themekey>
+        <themekey><![CDATA[Reconstruction]]></themekey>
+        <themekey><![CDATA[Precipitation]]></themekey>
+        <themekey><![CDATA[Site]]></themekey>
+        <themekey><![CDATA[Tree-Ring-Width Index]]></themekey>
+        <themekey><![CDATA[Year]]></themekey>
+        <themekey><![CDATA[Tree]]></themekey>
+        <themekey><![CDATA[Tree-Ring Chronology ]]></themekey>
+        <themekey><![CDATA[Central Iowa]]></themekey>
+        <themekey><![CDATA[Blasing]]></themekey>
+        <themekey><![CDATA[Duvick]]></themekey>
+        <themekey><![CDATA[NDP-002]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 122533</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 161330 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Decade]]></Keywords>
+    <Keywords><![CDATA[Number of Core Samples]]></Keywords>
+    <Keywords><![CDATA[Reconstruction]]></Keywords>
+    <Keywords><![CDATA[Precipitation]]></Keywords>
+    <Keywords><![CDATA[Site]]></Keywords>
+    <Keywords><![CDATA[Tree-Ring-Width Index]]></Keywords>
+    <Keywords><![CDATA[Year]]></Keywords>
+    <Keywords><![CDATA[Tree]]></Keywords>
+    <Keywords><![CDATA[Tree-Ring Chronology ]]></Keywords>
+    <Keywords><![CDATA[Central Iowa]]></Keywords>
+    <Keywords><![CDATA[Blasing]]></Keywords>
+    <Keywords><![CDATA[Duvick]]></Keywords>
+    <Keywords><![CDATA[NDP-002]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[) at three sites in central Iowa (Duvick Back Woods, Ledges State Park, and Pammel). At least 60 trees were sampled at each site, and at least two cores were taken from each tree. The growth rings of each core were dated by calendar year and
+measured; the measurements were then transformed into dimensionless ring-width indices and correlated with annual precipitation. Data were collected for the years 1680 through 1979. Each tree ring was characterized by the site, year, tree-ring-width index, number of core samples, decade year, and the annual reconstructed precipitation
+estimate. These data have more than 50% of their variance in common with the known annual statewide average precipitation for Iowa and serve as useful indicators of the precipitation and drought history of the region for the past 300 years. The data are in two files: tree-ring-chronology data (8 kB) and the annual reconstructed precipitation
+data for central Iowa (2 kB).
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 161330 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Dale_Kaiser/NDP_002.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp002]]></Product_number>
+      <Product_title><![CDATA[Tree Ring Chronology Indexes and Reconstructions of Precipitation in Central Iowa, USA]]></Product_title>
+      <Author>
+        <Name><![CDATA[Blasing, T. J.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Duvick, D. N.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Environmental Sciences Division]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Iowa, USA]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp002.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp002/ndp002.pre]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp002/ndp002.tre]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[temperature]]></Variable>
+      <Variable><![CDATA[precipitation]]></Variable>
+      <Variable><![CDATA[atmospheric circulation]]></Variable>
+      <Variable><![CDATA[ring width]]></Variable>
+      <Variable><![CDATA[IIK]]></Variable>
+      <Variable><![CDATA[IK]]></Variable>
+      <Variable><![CDATA[ISITE]]></Variable>
+      <Variable><![CDATA[IYEAR]]></Variable>
+      <Variable><![CDATA[IYR]]></Variable>
+      <Variable><![CDATA[REC]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp002.html) at three sites in central Iowa (Duvick Back Woods, Ledges State Park, and Pammel). At least 60 trees were sampled at each site, and at least two cores were taken from each tree. The growth rings of each core were dated by calendar year and
+measured; the measurements were then transformed into dimensionless ring-width indices and correlated with annual precipitation. Data were collected for the years 1680 through 1979. Each tree ring was characterized by the site, year, tree-ring-width index, number of core samples, decade year, and the annual reconstructed precipitation
+estimate. These data have more than 50% of their variance in common with the known annual statewide average precipitation for Iowa and serve as useful indicators of the precipitation and drought history of the region for the past 300 years. The data are in two files: tree-ring-chronology data (8 kB) and the annual reconstructed precipitation
+data for central Iowa (2 kB).
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp002/ndp002.doc]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp002/ndp002.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp002/ndp002.txt]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[1900000]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp002/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[29 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Tree core samples (4 mm in diameter) were extracted from the trunks of white oak (Quercus alba) at three sites in central Iowa (Duvick Back Woods, Ledges State Park, and Pammel). At least 60 trees were sampled at each site, and at least two cores were taken from each tree. The growth rings of each core were dated by calendar year and measured; the measurements were then transformed into dimensionless ring-width indices and correlated with annual precipitation. Data were collected for the years 1680 through 1979. Each tree ring was characterized by the site, year, tree-ring-width index, number of core samples, decade year, and the annual reconstructed precipitation estimate. These data have more than 50% of their variance in common with the known annual statewide average precipitation for Iowa and serve as useful indicators of the precipitation and drought history of the region for the past 300 years. The data are in two files: tree-ring-chronology data (8 kB) and the annual reconstructed precipitation data for central Iowa (2 kB).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

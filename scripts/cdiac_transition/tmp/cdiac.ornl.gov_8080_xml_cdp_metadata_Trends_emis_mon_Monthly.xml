@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Blasing, T. J.]]></origin>
+        <origin><![CDATA[Broniak, C.]]></origin>
+        <origin><![CDATA[Marland, G. H.]]></origin>
+        <title><![CDATA[Estimates of Monthly CO2 Emissions and Associated 13C/12C Values from Fossil-Fuel Consumption in the U.S.A.]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/emis_mon/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Estimates of Monthly CO2 Emissions and Associated 13C/12C Values from Fossil-Fuel Consumption in the U.S.A.]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19810101]]></begdate>
+          <enddate><![CDATA[20031231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[monthly estimates]]></themekey>
+        <themekey><![CDATA[oxidation]]></themekey>
+        <themekey><![CDATA[natural gas]]></themekey>
+        <themekey><![CDATA[fossil-fuel CO2 emissions]]></themekey>
+        <themekey><![CDATA[United States]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090708 152355</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 100115 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[monthly estimates]]></Keywords>
+    <Keywords><![CDATA[oxidation]]></Keywords>
+    <Keywords><![CDATA[natural gas]]></Keywords>
+    <Keywords><![CDATA[fossil-fuel CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[United States]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[C) Estimates
+T.J. Blasing and Gregg Marland
+Carbon Dioxide Information Analysis Center,
+Environmental Sciences Division,
+Oak Ridge National Laboratory,
+Christine Broniak
+Department of Agricultural &amp; Resource Economics,
+Oregon State University,
+The data from which these carbon-emissions estimates were derived are values of fuel
+consumed: in billions of cubic feet, for natural gas; in millions of barrels, for
+petroleum products; and in thousands of short tons, for coal. The resulting emissions
+estimates are expressed as teragrams of . A teragram is
+10
+metric tons. To convert from , multiply by 44/12 (=3.67).
+Data are available for over 30 different petroleum products, with the exact breakdown
+varying somewhat from year to year. These products have been treated separately here
+until the final step of the estimation, at which time CO
+emissions were summed and attributed to liquid petroleum products. These fuel-consumption
+data are available from the Energy Information Administration of the U.S. Department of
+Energy. They are published in the Monthly Energy Review, and are available electronically from
+The fuel-consumption values were multiplied by their respective thermal conversion
+factors, which are in units of heat energy per unit of fuel (i.e., per cubic foot,
+barrel, or ton). In keeping with conventional usage in the United States, values
+are for the gross (higher) heating values of the respective fuels. Thermal conversion
+factors are given in Appendix A of each issue of Monthly Energy Review, published
+monthly by the Energy Information Administration of the U.S. Department of Energy.
+The results are expressed in units of heat energy derived from the fuel. These
+energy values were then multiplied by their respective carbon dioxide emission
+factors, in units of the mass of carbon emitted per unit of energy liberated by
+the oxidation of the carbon in the fuel. Carbon dioxide emission factors are given
+in Tables A-15-17 of EPA (2003). Product-specific emissions factors were used for the the
+myriad of petroleum products. Finally, the results were multiplied by 0.99 to allow
+for the approximately 1 per cent of carbon that is not oxidized during combustion but
+is released as soot, ash, or long-lived hydrocarbons. This is the same factor used
+by the United States Environmental Protection Agency (EPA) (2002, Table A-14). except
+for natural gas, for which EPA (2002) used a factor of 0.995, or 0.5 percent higher
+than ours.
+Several petroleum products have applications not related to energy production and are
+not oxidized immediately when the products are consumed; these include asphalt, waxes,
+petroleum coke, special naphtha, etc. In some cases (e.g., waxes) virtually no carbon
+is oxidized during use; in other cases (e.g., petroleum coke) a substantial fraction
+(e.g., estimated 50%) of the carbon is oxidized during use; for some products
+(e.g. special naphtha), virtually all the carbon is oxidized within the time frame
+of interest. The fraction of the carbon not oxidized in each of the various
+petroleum products is given in Table A-14 of EPA 2003.
+,
+results are presented here in terms of the mass of C only. (To convert to mass of
+CO, multiply the mass of C by 44/12). We assume that
+any C emitted to the atmosphere as CO will be soon oxidized to
+CO
+C values
+for each month were estimated as follows:
+where C, P, and G are monthly values of carbon emissions from coal, petroleum
+products, and natural gas, respectively and the coefficients are our best estimates
+of the mean values of &#948;C
+for the respective fuels, as consumed in the U.S.
+Differences from other (CDIAC) emissions estimates: Marland et al. (2003) have
+presented estimates of annual carbon dioxide emissions (as carbon) from fossil
+fuel consumption for all countries. The values presented there for the U.S. differ
+slightly from the annual sums of the monthly data presented here for 3 primary
+reasons.
+In order to provide comparable estimates for all countries, Marland
+et al. have relied on energy data from the United Nations whereas this analysis
+relies on energy data directly from the U.S. Department of Energy. United Nations
+data are presumably attributable to the same U.S. Department of Energy data sets
+but differences in detail occur due to differences in units, categories, accounting
+conventions, and the complexity of handling large amounts of data.
+Estimates
+from the United Nations data are based on "apparent consumption," where "apparent
+consumption" is defined as production + imports - exports - changes in stocks:
+whereas the U.S. DOE data provide direct estimates of consumption. There are
+systematic differences between these two data sets that are attributable to data
+sampling and collection; the data sets differ by around 2%.
+ emissions
+during fuel combustion whereas the estimates here include a contribution from the
+oxidation of petrochemical products that are used for non-fuel purposes, such as
+lubricants and petroleum coke.
+As a consequence of these 3 factors, the national
+estimates presented here are consistently higher than those of Marland et al. and
+we believe that they provide a more complete estimate of total national emissions.
+The emissions estimates here do not yet account for carbon oxidized from gas flaring
+or from the calcining of limestone during manufacture of cement; when combined,
+these processes represent about 1 per cent of the total anthropogenic carbon emissions
+from the USA (Marland et al., 2003). Neither estimate of U.S. emissions includes
+CO from bunker fuels, i.e. fuels that are loaded in
+the U.S. but used by planes and ships in international commerce.
+The data are given strictly on a monthly basis. Because February usually has 28 days while
+the adjacent months of January and March each have 31 days, about 10% less carbon
+is emitted in February. For studies of the annual cycle of carbon emissions, it
+may be desirable to scale the months to 30.42 days each. That is, to multiply
+each month's carbon emissions by 30.42/d where d is the number of days in any
+month. For leap years, the scaling factor would be exactly 30.5 instead of 30.42.
+An annual cycle, peaking during the winter months and reflecting natural gas consumption,
+and a semi-annual cycle of lesser amplitude, peaking in summer and winter and reflecting
+coal consumption, comprise the dominant features of the annual pattern. The relatively
+constant emissions until 1987, followed by an increase from 1987-1989, a decrease in
+1990-1991 and record highs during the late 1990s, are also evident in the annual data of
+ However, emissions have declined
+somewhat since 2000.
+EPA (U.S. Environmental Protection Agency), 2004. Inventory or U.S. Greenhouse Gas
+Emissions and Sinks: 1990-2002, EPA 430-R-04-003, U.S. Environmental Protection Agency,
+Washington, D.C., 308 pp. plus annexes (291 pp.). Available electronically from:
+Marland, G., T.A. Boden, and R. J. Andres, 2003. Global, Regional, and National
+CO Emissions. In Trends: A Compendium of Data
+on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National
+Laboratory, U.S. Department of Energy, Oak Ridge, TN, USA.
+CITE AS: Blasing, T.J., C.T. Broniak, and G. Marland, 2004. Estimates of monthly carbon dioxide emissions and associated
+&#948;C values from fossil-fuel consumption in the U.S.A. In Trends: A Compendium of Data on Global Change, Carbon
+Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of
+Energy, Oak Ridge, TN, U.S.A. doi: 10.3334/CDIAC/ffe.001
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 100115 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/ffe.001]]></Product_number>
+      <Product_title><![CDATA[Estimates of Monthly CO2 Emissions and Associated 13C/12C Values from Fossil-Fuel Consumption in the U.S.A.]]></Product_title>
+      <Author>
+        <Name><![CDATA[Blasing, T. J.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Broniak, C.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Marland, G. H.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Thematic_area><![CDATA[Trace Gas Emissions]]></Thematic_area>
+      <Thematic_area><![CDATA[Isotopes in Greenhouse Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Fossil-Fuel CO2 Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[United States]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/emis_mon/emis_mon_co2.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/emis_mon/emis_mon_c13.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/emis_mon/emis_mon_usatotal.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/emis_mon/emis_mon_usaoxid.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/emis_mon/emis_mon_percap.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/emis_mon/graphics/emis_mon_co2new.jpg]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/emis_mon/graphics/emis_mon_valid13cnew.jpg]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/emis_mon/graphics/percapitafossilfuel04.jpg]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Date]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Gas]]></Variable>
+      <Variable><![CDATA[Coal ]]></Variable>
+      <Variable><![CDATA[Oil]]></Variable>
+      <Variable><![CDATA[Total]]></Variable>
+      <Variable><![CDATA[delta C-13]]></Variable>
+      <Variable><![CDATA[month]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/emis_mon/emis_mon_co2.htmlC) Estimates
+T.J. Blasing and Gregg Marland
+Carbon Dioxide Information Analysis Center,
+Environmental Sciences Division,
+Oak Ridge National Laboratory,
+Christine Broniak
+Department of Agricultural &amp; Resource Economics,
+Oregon State University,
+The data from which these carbon-emissions estimates were derived are values of fuel
+consumed: in billions of cubic feet, for natural gas; in millions of barrels, for
+petroleum products; and in thousands of short tons, for coal. The resulting emissions
+estimates are expressed as teragrams of . A teragram is
+10
+metric tons. To convert from , multiply by 44/12 (=3.67).
+Data are available for over 30 different petroleum products, with the exact breakdown
+varying somewhat from year to year. These products have been treated separately here
+until the final step of the estimation, at which time CO
+emissions were summed and attributed to liquid petroleum products. These fuel-consumption
+data are available from the Energy Information Administration of the U.S. Department of
+Energy. They are published in the Monthly Energy Review, and are available electronically from
+The fuel-consumption values were multiplied by their respective thermal conversion
+factors, which are in units of heat energy per unit of fuel (i.e., per cubic foot,
+barrel, or ton). In keeping with conventional usage in the United States, values
+are for the gross (higher) heating values of the respective fuels. Thermal conversion
+factors are given in Appendix A of each issue of Monthly Energy Review, published
+monthly by the Energy Information Administration of the U.S. Department of Energy.
+The results are expressed in units of heat energy derived from the fuel. These
+energy values were then multiplied by their respective carbon dioxide emission
+factors, in units of the mass of carbon emitted per unit of energy liberated by
+the oxidation of the carbon in the fuel. Carbon dioxide emission factors are given
+in Tables A-15-17 of EPA (2003). Product-specific emissions factors were used for the the
+myriad of petroleum products. Finally, the results were multiplied by 0.99 to allow
+for the approximately 1 per cent of carbon that is not oxidized during combustion but
+is released as soot, ash, or long-lived hydrocarbons. This is the same factor used
+by the United States Environmental Protection Agency (EPA) (2002, Table A-14). except
+for natural gas, for which EPA (2002) used a factor of 0.995, or 0.5 percent higher
+than ours.
+Several petroleum products have applications not related to energy production and are
+not oxidized immediately when the products are consumed; these include asphalt, waxes,
+petroleum coke, special naphtha, etc. In some cases (e.g., waxes) virtually no carbon
+is oxidized during use; in other cases (e.g., petroleum coke) a substantial fraction
+(e.g., estimated 50%) of the carbon is oxidized during use; for some products
+(e.g. special naphtha), virtually all the carbon is oxidized within the time frame
+of interest. The fraction of the carbon not oxidized in each of the various
+petroleum products is given in Table A-14 of EPA 2003.
+,
+results are presented here in terms of the mass of C only. (To convert to mass of
+CO, multiply the mass of C by 44/12). We assume that
+any C emitted to the atmosphere as CO will be soon oxidized to
+CO
+C values
+for each month were estimated as follows:
+where C, P, and G are monthly values of carbon emissions from coal, petroleum
+products, and natural gas, respectively and the coefficients are our best estimates
+of the mean values of &#948;C
+for the respective fuels, as consumed in the U.S.
+Differences from other (CDIAC) emissions estimates: Marland et al. (2003) have
+presented estimates of annual carbon dioxide emissions (as carbon) from fossil
+fuel consumption for all countries. The values presented there for the U.S. differ
+slightly from the annual sums of the monthly data presented here for 3 primary
+reasons.
+In order to provide comparable estimates for all countries, Marland
+et al. have relied on energy data from the United Nations whereas this analysis
+relies on energy data directly from the U.S. Department of Energy. United Nations
+data are presumably attributable to the same U.S. Department of Energy data sets
+but differences in detail occur due to differences in units, categories, accounting
+conventions, and the complexity of handling large amounts of data.
+Estimates
+from the United Nations data are based on "apparent consumption," where "apparent
+consumption" is defined as production + imports - exports - changes in stocks:
+whereas the U.S. DOE data provide direct estimates of consumption. There are
+systematic differences between these two data sets that are attributable to data
+sampling and collection; the data sets differ by around 2%.
+ emissions
+during fuel combustion whereas the estimates here include a contribution from the
+oxidation of petrochemical products that are used for non-fuel purposes, such as
+lubricants and petroleum coke.
+As a consequence of these 3 factors, the national
+estimates presented here are consistently higher than those of Marland et al. and
+we believe that they provide a more complete estimate of total national emissions.
+The emissions estimates here do not yet account for carbon oxidized from gas flaring
+or from the calcining of limestone during manufacture of cement; when combined,
+these processes represent about 1 per cent of the total anthropogenic carbon emissions
+from the USA (Marland et al., 2003). Neither estimate of U.S. emissions includes
+CO from bunker fuels, i.e. fuels that are loaded in
+the U.S. but used by planes and ships in international commerce.
+The data are given strictly on a monthly basis. Because February usually has 28 days while
+the adjacent months of January and March each have 31 days, about 10% less carbon
+is emitted in February. For studies of the annual cycle of carbon emissions, it
+may be desirable to scale the months to 30.42 days each. That is, to multiply
+each month's carbon emissions by 30.42/d where d is the number of days in any
+month. For leap years, the scaling factor would be exactly 30.5 instead of 30.42.
+An annual cycle, peaking during the winter months and reflecting natural gas consumption,
+and a semi-annual cycle of lesser amplitude, peaking in summer and winter and reflecting
+coal consumption, comprise the dominant features of the annual pattern. The relatively
+constant emissions until 1987, followed by an increase from 1987-1989, a decrease in
+1990-1991 and record highs during the late 1990s, are also evident in the annual data of
+ However, emissions have declined
+somewhat since 2000.
+EPA (U.S. Environmental Protection Agency), 2004. Inventory or U.S. Greenhouse Gas
+Emissions and Sinks: 1990-2002, EPA 430-R-04-003, U.S. Environmental Protection Agency,
+Washington, D.C., 308 pp. plus annexes (291 pp.). Available electronically from:
+Marland, G., T.A. Boden, and R. J. Andres, 2003. Global, Regional, and National
+CO Emissions. In Trends: A Compendium of Data
+on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National
+Laboratory, U.S. Department of Energy, Oak Ridge, TN, USA.
+CITE AS: Blasing, T.J., C.T. Broniak, and G. Marland, 2004. Estimates of monthly carbon dioxide emissions and associated
+&#948;C values from fossil-fuel consumption in the U.S.A. In Trends: A Compendium of Data on Global Change, Carbon
+Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of
+Energy, Oak Ridge, TN, U.S.A. doi: 10.3334/CDIAC/ffe.001
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20040714]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/emis_mon/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[The data from which these carbon-emissions estimates were derived are values of fuel consumed: in billions of cubic feet, for natural gas; in millions of barrels, for petroleum products; and in thousands of short tons, for coal. The resulting emissions estimates are expressed as teragrams of carbon. A teragram is 1012 grams, or 106 metric tons. To convert from carbon to carbon dioxide, multiply by 44/12 (=3.67). Data are available for over 30 different petroleum products, with the exact breakdown varying somewhat from year to year. These products have been treated separately here until the final step of the estimation, at which time CO2 emissions were summed and attributed to liquid petroleum products. These fuel-consumption data are available from the Energy Information Administration of the U.S. Department of Energy. They are published in the Monthly Energy Review, and are available electronically from http://www.eia.doe.gov/mer/.
+<br><br>
+An annual cycle, peaking during the winter months and reflecting natural gas consumption, and a semi-annual cycle of lesser amplitude, peaking in summer and winter and reflecting coal consumption, comprise the dominant features of the annual pattern. The relatively constant emissions until 1987, followed by an increase from 1987-1989, a decrease in 1990-1991 and record highs during the late 1990s, are also evident in the annual data of Marland et al. However, emissions have declined somewhat since 2000. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

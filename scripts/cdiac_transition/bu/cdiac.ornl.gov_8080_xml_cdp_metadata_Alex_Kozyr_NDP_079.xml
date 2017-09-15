@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Johnson, K. M.]]></origin>
+        <origin><![CDATA[Wills, K.]]></origin>
+        <origin><![CDATA[Koertzinger, A.]]></origin>
+        <origin><![CDATA[Neill, C.]]></origin>
+        <origin><![CDATA[Wallace, D. W. R. ]]></origin>
+        <title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Meteor Cruises 28/1 in the South Atlantic Ocean (WOCE Section A8, March 29 - May 12, 1994)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_079.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp079/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Meteor Cruises 28/1 in the South Atlantic Ocean (WOCE Section A8, March 29 - May 12, 1994)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19940309]]></begdate>
+          <enddate><![CDATA[19940512]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[TALK]]></themekey>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[ocean carbon dioxide]]></themekey>
+        <themekey><![CDATA[ocean temperature]]></themekey>
+        <themekey><![CDATA[ocean-atmosphere carbon dioxide]]></themekey>
+        <themekey><![CDATA[oxygen]]></themekey>
+        <themekey><![CDATA[salinity]]></themekey>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[coulometry]]></themekey>
+        <themekey><![CDATA[World Ocean Circulation Experiment]]></themekey>
+        <themekey><![CDATA[South Atlantic Ocean]]></themekey>
+        <themekey><![CDATA[hydrographic measurements]]></themekey>
+        <themekey><![CDATA[total carbon dioxide]]></themekey>
+        <themekey><![CDATA[fugacity of CO2]]></themekey>
+        <themekey><![CDATA[carbon cycle]]></themekey>
+        <themekey><![CDATA[NDP-079]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 125237</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 151241 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[TALK]]></Keywords>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[ocean carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[ocean temperature]]></Keywords>
+    <Keywords><![CDATA[ocean-atmosphere carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[oxygen]]></Keywords>
+    <Keywords><![CDATA[salinity]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[coulometry]]></Keywords>
+    <Keywords><![CDATA[World Ocean Circulation Experiment]]></Keywords>
+    <Keywords><![CDATA[South Atlantic Ocean]]></Keywords>
+    <Keywords><![CDATA[hydrographic measurements]]></Keywords>
+    <Keywords><![CDATA[total carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[fugacity of CO2]]></Keywords>
+    <Keywords><![CDATA[carbon cycle]]></Keywords>
+    <Keywords><![CDATA[NDP-079]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 151241 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Alex_Kozyr/NDP_079.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp079]]></Product_number>
+      <Product_title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained During the R/V Meteor Cruises 28/1 in the South Atlantic Ocean (WOCE Section A8, March 29 - May 12, 1994)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Johnson, K. M.]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization><![CDATA[Department of Applied Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wills, K.]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization><![CDATA[Department of Applied Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Koertzinger, A.]]></Name>
+        <Company><![CDATA[University Kiel]]></Company>
+        <Organization><![CDATA[Institut fuer Meereskunde]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Neill, C.]]></Name>
+        <Company><![CDATA[Brookhaven National Laboratory]]></Company>
+        <Organization><![CDATA[Department of Applied Science]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wallace, D. W. R. ]]></Name>
+        <Company><![CDATA[University Kiel]]></Company>
+        <Organization><![CDATA[Institut fuer Meereskunde]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[South Atlantic Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/oceans/ndp_079/ndp079.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp079/a08.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp079/a08_hy1.csv]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp079/a08_odv.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp079/a08sta.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[station]]></Variable>
+      <Variable><![CDATA[Date]]></Variable>
+      <Variable><![CDATA[Depth]]></Variable>
+      <Variable><![CDATA[TCO2 (at-sea)]]></Variable>
+      <Variable><![CDATA[TCO2 (SIO)]]></Variable>
+      <Variable><![CDATA[TCO2(sea-SIO)]]></Variable>
+      <Variable><![CDATA[SALNTY  ]]></Variable>
+      <Variable><![CDATA[OXYGEN  ]]></Variable>
+      <Variable><![CDATA[SILCAT ]]></Variable>
+      <Variable><![CDATA[TCARBN    ]]></Variable>
+      <Variable><![CDATA[EQTMP    ]]></Variable>
+      <Variable><![CDATA[FCO2    ]]></Variable>
+      <Variable><![CDATA[PCO2    ]]></Variable>
+      <Variable><![CDATA[TEMPERATURE [&#176;C]   ]]></Variable>
+      <Descriptive_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp079/ndp079.txt]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/oceans/ndp_079/ndp079.html]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp079/a08dat.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp079/stainv.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20020401]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20020401]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp079/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[2.67MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data documentation discusses the procedures and methods used to measure total carbon dioxide (TCO2) and the fugacity of CO2 (fCO2) at hydrographic stations during the R/V Meteor  oceanographic cruise 28/1 in the South Atlantic Ocean (Section A8). Conducted as part of the World Ocean Circulation Experiment (WOCE), the cruise began in Recife, Brazil, on March 29, 1994, and ended after 35 days at sea in Walvis Bay, Namibia, on May 12, 1994. Instructions for accessing the data are provided.
+<br><br>
+ TCO2 was measured using two single-operator multiparameter metabolic analyzers (SOMMA) coupled to a coulometer for extracting and detecting CO2 from seawater samples. The overall precision and accuracy of the analyses was +/- 1.17 micro-mol/kg. For the second carbonate system parameter, the fCO2 was measured in discrete samples by equilibrating a known volume of liquid phase (seawater) with a known volume of a gas phase containing a known mixture of CO2 in gaseous nitrogen (N2). After equilibration, the gas phase CO2 concentration was determined by flame ionization detection following the catalytic conversion of CO2 to methane (CH4). The precision of these measurements was less than or equal to 1.0%. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Neftel, A.]]></origin>
+        <origin><![CDATA[Friedli, H.]]></origin>
+        <origin><![CDATA[Moor, E.]]></origin>
+        <origin><![CDATA[Lotscher, H.]]></origin>
+        <origin><![CDATA[Oeschger, H.]]></origin>
+        <origin><![CDATA[Siegenthaler, U.]]></origin>
+        <origin><![CDATA[Stauffer, B.]]></origin>
+        <title><![CDATA[Historical Atmospheric CO2 record derived from the Siple Station ice core]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Historical Atmospheric CO2 record derived from the Siple Station ice core]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[17340101]]></begdate>
+          <enddate><![CDATA[19831231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-83.917]]></westbc>
+        <eastbc><![CDATA[-83.917]]></eastbc>
+        <northbc><![CDATA[-75.917]]></northbc>
+        <southbc><![CDATA[-75.917]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[atmospheric CO2 concentrations]]></themekey>
+        <themekey><![CDATA[ice core]]></themekey>
+        <themekey><![CDATA[Siple Station]]></themekey>
+        <themekey><![CDATA[Antarctica]]></themekey>
+        <themekey><![CDATA[Atmospheric CO2 Mixing Ratio]]></themekey>
+        <themekey><![CDATA[Historical Atmospheric CO2 Concentration]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 161605</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 095404 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[atmospheric CO2 concentrations]]></Keywords>
+    <Keywords><![CDATA[ice core]]></Keywords>
+    <Keywords><![CDATA[Siple Station]]></Keywords>
+    <Keywords><![CDATA[Antarctica]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO2 Mixing Ratio]]></Keywords>
+    <Keywords><![CDATA[Historical Atmospheric CO2 Concentration]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+Siple Station Ice Core
+A. Neftel, H. Friedli, E. Moor, H. L&#246;tscher, H. Oeschger, U. Siegenthaler, B. Stauffer
+Physics Institute, University of Bern, CH-3012
+Siple Station, Antarctica
+CITE AS: Neftel, A., H. Friedli, E. Moor, H. L&#246;tscher, H. Oeschger, U. Siegenthaler, and B. Stauffer. 1994. Historical CO record from the Siple Station ice core. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 095404 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.010]]></Product_number>
+      <Product_title><![CDATA[Historical Atmospheric CO2 record derived from the Siple Station ice core]]></Product_title>
+      <Author>
+        <Name><![CDATA[Neftel, A.]]></Name>
+        <Company><![CDATA[University of Bern]]></Company>
+        <Organization><![CDATA[Physics Institute]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Friedli, H.]]></Name>
+        <Company><![CDATA[University of Bern]]></Company>
+        <Organization><![CDATA[Physics Institute]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Moor, E.]]></Name>
+        <Company><![CDATA[University of Bern]]></Company>
+        <Organization><![CDATA[Physics Institute]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lotscher, H.]]></Name>
+        <Company><![CDATA[University of Bern]]></Company>
+        <Organization><![CDATA[Physics Institute]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Oeschger, H.]]></Name>
+        <Company><![CDATA[University of Bern]]></Company>
+        <Organization><![CDATA[Physics Institute]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Siegenthaler, U.]]></Name>
+        <Company><![CDATA[University of Bern]]></Company>
+        <Organization><![CDATA[Physics Institute]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Stauffer, B.]]></Name>
+        <Company><![CDATA[University of Bern]]></Company>
+        <Organization><![CDATA[Physics Institute]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Siple Station,Antarctica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/siple.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/siple2.013]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/siple-gr.htm]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[CO2 concentration]]></Variable>
+      <Variable><![CDATA[date air enclosed]]></Variable>
+      <Variable><![CDATA[date of ice]]></Variable>
+      <Variable><![CDATA[depth]]></Variable>
+      <Variable><![CDATA[samples measured]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/siple.html &#187;&#160;
+Siple Station Ice Core
+A. Neftel, H. Friedli, E. Moor, H. L&#246;tscher, H. Oeschger, U. Siegenthaler, B. Stauffer
+Physics Institute, University of Bern, CH-3012
+Siple Station, Antarctica
+CITE AS: Neftel, A., H. Friedli, E. Moor, H. L&#246;tscher, H. Oeschger, U. Siegenthaler, and B. Stauffer. 1994. Historical CO record from the Siple Station ice core. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19970707]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19970707]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Determinations of ancient atmospheric CO2 concentrations for Siple Station, located in West Antarctica, were derived from measurements of air occluded in a 200-m core drilled at Siple Station in the Antarctic summer of 1983-84. The core was drilled by the Polar Ice Coring Office in Nebraska and the Physics Institute at the University of Bern. The ice could be dated with an accuracy of approximately +or-2 years to a depth of 144 m (which corresponds to the year 1834) by counting seasonal variations in electrical conductivity. Below that depth, the core was dated by extrapolation (Friedli et al. 1986). The gases from ice samples were extracted by a dry-extraction system, in which bubbles were crushed mechanically to release the trapped gases, and then analyzed for CO2 by infrared laser absorption spectroscopy or by gas chromatography (Neftel et al. 1985). After the ice samples were crushed, the gas expanded over a cold trap, condensing the water vapor at -80 degrees C in the absorption cell. The analytical system was calibrated for each ice sample measurement with a standard mixture of CO2 in nitrogen and oxygen. For further details on the experimental and dating procedures, see Neftel et al. (1985), Friedli et al. (1986), and Schwander and Stauffer (1984).
+<br><br>
+An atmospheric CO2 record for the past 200 years was obtained from the Siple Station ice core. At shallow depths, atmospheric air still circulates through the open pores (Friedli et al. 1986). The enclosed air was younger than the surrounding ice because the enclosure of air in bubbles occurred only between depths of 64 and 76 m. On the basis of porosity measurements, investigators determined that the time lag between the mean age of the gas and the age of the ice was 95 years and that the duration of the close-off process was 22 years (Schwander and Stauffer 1984). Neftel et al. (1985) concluded that the atmospheric CO2 concentration ca. 1750 was 280 +or- 5 parts per million by volume (ppmv) and that it increased by 22.5% to 345 ppmv in 1984 essentially because of human factors. Graphs in Friedli et al. (1986) also reported that the preindustrial (pre-1800) CO2 concentration was ~280 ppmv.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

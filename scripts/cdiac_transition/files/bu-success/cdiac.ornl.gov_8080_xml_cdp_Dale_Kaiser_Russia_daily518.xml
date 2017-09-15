@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Bulygina, O.N.]]></origin>
+        <origin><![CDATA[Razuvaev, V.N.]]></origin>
+        <title><![CDATA[Daily Temperature and Precipitation Data for 518 Russian Meteorological Stations]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/Dale_Kaiser/Russia_daily518.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/russia_daily/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Daily Temperature and Precipitation Data for 518 Russian Meteorological Stations]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18810101]]></begdate>
+          <enddate><![CDATA[20101231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[25]]></westbc>
+        <eastbc><![CDATA[180]]></eastbc>
+        <northbc><![CDATA[88]]></northbc>
+        <southbc><![CDATA[40]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Russia]]></themekey>
+        <themekey><![CDATA[Climate]]></themekey>
+        <themekey><![CDATA[Temperature]]></themekey>
+        <themekey><![CDATA[Precipitation]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20121008 163423</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20120905 153031 by 160.91.28.71</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Russia]]></Keywords>
+    <Keywords><![CDATA[Climate]]></Keywords>
+    <Keywords><![CDATA[Temperature]]></Keywords>
+    <Keywords><![CDATA[Precipitation]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[
+O. N. Bulygina and V. N. Razuvaev
+All-Russian Research Institute of Hydrometeorological Information-World Data Centre
+CITE AS: O. N. Bulygina and V. N. Razuvaev. 2012. Daily Temperature and Precipitation Data for 518 Russian Meteorological Stations. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee. doi: 10.3334/CDIAC/cli.100.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20120905 153031 by 160.91.28.71</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/Dale_Kaiser/Russia_daily518.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[10.3334/CDIAC/cli.100]]></Product_number>
+      <Product_title><![CDATA[Daily Temperature and Precipitation Data for 518 Russian Meteorological Stations]]></Product_title>
+      <Author>
+        <Name><![CDATA[Bulygina, O.N.]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[RIHMI-WDC Obninsk, Russia]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Razuvaev, V.N.]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[RIHMI-WDC Obninsk, Russia]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Russia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Mean temperature, daily]]></Variable>
+      <Variable><![CDATA[Max temperature, daily]]></Variable>
+      <Variable><![CDATA[Min temperature, daily]]></Variable>
+      <Variable><![CDATA[Precipitation amount, daily]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/russia_daily518.html
+O. N. Bulygina and V. N. Razuvaev
+All-Russian Research Institute of Hydrometeorological Information-World Data Centre
+CITE AS: O. N. Bulygina and V. N. Razuvaev. 2012. Daily Temperature and Precipitation Data for 518 Russian Meteorological Stations. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee. doi: 10.3334/CDIAC/cli.100.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20120801]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/russia_daily/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

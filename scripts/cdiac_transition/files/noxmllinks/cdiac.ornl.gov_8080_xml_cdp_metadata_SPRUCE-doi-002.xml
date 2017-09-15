@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Paul J. Hanson]]></origin>
+        <origin><![CDATA[Lee Slater]]></origin>
+        <origin><![CDATA[Les A. Hook]]></origin>
+        <title><![CDATA[SPRUCE S1 Bog Peat Depth Determined by Push Probe and GPR: 2009-2010
+]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://mnspruce.ornl.gov/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[SPRUCE S1 Bog Peat Depth Determined by Push Probe and GPR: 2009-2010
+]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20090921]]></begdate>
+          <enddate><![CDATA[20100609]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-93.48283]]></westbc>
+        <eastbc><![CDATA[-93.48283]]></eastbc>
+        <northbc><![CDATA[47.50285]]></northbc>
+        <southbc><![CDATA[47.50285]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[SPRUCE Experiment]]></themekey>
+        <themekey><![CDATA[ORNL]]></themekey>
+        <themekey><![CDATA[U.S. DOE Office of Science]]></themekey>
+        <themekey><![CDATA[Marcell Experimental Forest]]></themekey>
+        <themekey><![CDATA[ground penetrating radar]]></themekey>
+        <themekey><![CDATA[GPR]]></themekey>
+        <themekey><![CDATA[push probe]]></themekey>
+        <themekey><![CDATA[Northern Research Station]]></themekey>
+        <themekey><![CDATA[U.S. Forest Service]]></themekey>
+        <themekey><![CDATA[climate change]]></themekey>
+        <themekey><![CDATA[peat depth]]></themekey>
+        <themekey><![CDATA[ground pe]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120907 121450</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Les Hookhookla@ornl.gov865-241-4846]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20120315 170517 by 160.91.29.159</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[SPRUCE Experiment]]></Keywords>
+    <Keywords><![CDATA[ORNL]]></Keywords>
+    <Keywords><![CDATA[U.S. DOE Office of Science]]></Keywords>
+    <Keywords><![CDATA[Marcell Experimental Forest]]></Keywords>
+    <Keywords><![CDATA[ground penetrating radar]]></Keywords>
+    <Keywords><![CDATA[GPR]]></Keywords>
+    <Keywords><![CDATA[push probe]]></Keywords>
+    <Keywords><![CDATA[Northern Research Station]]></Keywords>
+    <Keywords><![CDATA[U.S. Forest Service]]></Keywords>
+    <Keywords><![CDATA[climate change]]></Keywords>
+    <Keywords><![CDATA[peat depth]]></Keywords>
+    <Keywords><![CDATA[ground pe]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20120315 170517 by 160.91.29.159</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[SPRUCE-002]]></Product_number>
+      <Product_title><![CDATA[SPRUCE S1 Bog Peat Depth Determined by Push Probe and GPR: 2009-2010
+]]></Product_title>
+      <Author>
+        <Name><![CDATA[Paul J. Hanson]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Lee Slater]]></Name>
+        <Company><![CDATA[Department of Earth &amp; Environmental Sciences]]></Company>
+        <Organization><![CDATA[ Rutgers University, Newark, NJ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Les A. Hook]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation Response to CO2 and Climate]]></Thematic_area>
+      <Thematic_area><![CDATA[Climate Change]]></Thematic_area>
+      <Thematic_area><![CDATA[Elevated temperature]]></Thematic_area>
+      <Thematic_area><![CDATA[Elevated carbon dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[2009/09/21 to 2010/06/09.]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[USDA Forest Service, Marcell Experimental Forest (MEF)]]></Site_name>
+        <Site_URL><![CDATA[http://mnspruce.ornl.gov/]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://mnspruce.ornl.gov/SPRUCE_S1_Peat_Depth/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[See Data Dictionary in User's Guide]]></Variable>
+      <Descriptive_file><![CDATA[SPRUCE_S1_Peat_Depth_Data_20120305.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20111123]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20111123]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://mnspruce.ornl.gov/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Les Hook]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[hookla@ornl.gov]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[865-241-4846]]></CDIAC_contact>
+      <Notes><![CDATA[This data set reports the thickness of peat for the S1 Bog measured directly with manual push probes on September 21 and 22, 2009, and measured by ground penetrating radar (GPR) across transects from January 26 to February 2, 2010 and June 2 to June 9, 2010. Also included are interpolated values of peat depth from both probe and GPR data for the S1 Bog at 1 meter square horizontal resolution.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

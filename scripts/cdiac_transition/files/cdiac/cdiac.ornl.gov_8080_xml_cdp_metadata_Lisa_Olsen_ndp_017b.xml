@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Gibbs, Holly K.]]></origin>
+        <title><![CDATA[Olson's Major World Ecosystem Complexes Ranked by Carbon in Live Vegetation: An Updated  Database Using the GLC2000 Land Cover Product]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Lisa_Olsen/ndp_017b.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Olson's Major World Ecosystem Complexes Ranked by Carbon in Live Vegetation: An Updated  Database Using the GLC2000 Land Cover Product]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20000101]]></begdate>
+          <enddate><![CDATA[20001231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.00]]></westbc>
+        <eastbc><![CDATA[180.00]]></eastbc>
+        <northbc><![CDATA[90.00]]></northbc>
+        <southbc><![CDATA[-90.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Biomass]]></themekey>
+        <themekey><![CDATA[Carbon cycle]]></themekey>
+        <themekey><![CDATA[Ecosystem]]></themekey>
+        <themekey><![CDATA[Vegetation]]></themekey>
+        <themekey><![CDATA[Terrestrial ecosystems]]></themekey>
+        <themekey><![CDATA[global carbon reservoirs]]></themekey>
+        <themekey><![CDATA[biogeography]]></themekey>
+        <themekey><![CDATA[human impacts]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp017/ndp017b.html]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa M. Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa M. Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 132213</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa M. Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070823 144137 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Biomass]]></Keywords>
+    <Keywords><![CDATA[Carbon cycle]]></Keywords>
+    <Keywords><![CDATA[Ecosystem]]></Keywords>
+    <Keywords><![CDATA[Vegetation]]></Keywords>
+    <Keywords><![CDATA[Terrestrial ecosystems]]></Keywords>
+    <Keywords><![CDATA[global carbon reservoirs]]></Keywords>
+    <Keywords><![CDATA[biogeography]]></Keywords>
+    <Keywords><![CDATA[human impacts]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[DOI: 10.3334/CDIAC/lue.ndp017.2006 (For the original (1985) version of NDP-017, click 
+Holly K. Gibbs
+Center for Sustainability and the Global Environment 
+University of Wisconsin, Madison
+1710 University Avenue, Madison, WI 53726, USA
+Email: 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070823 144137 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Lisa_Olsen/ndp_017b.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/lue.ndp017.2006]]></Product_number>
+      <Product_title><![CDATA[Olson's Major World Ecosystem Complexes Ranked by Carbon in Live Vegetation: An Updated  Database Using the GLC2000 Land Cover Product]]></Product_title>
+      <Author>
+        <Name><![CDATA[Gibbs, Holly K.]]></Name>
+        <Company><![CDATA[Center for Sustainability and the Global Environment (SAGE)]]></Company>
+        <Organization><![CDATA[University of Wisconsin, Madison]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Thematic_area><![CDATA[Land Cover Change]]></Thematic_area>
+      <Thematic_area><![CDATA[Land-Use and Ecosystems]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp017/ndp017b.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/max_c.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/med_c.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/glc2000s5m.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/glc2000b.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/eco_worldc.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/eco_grid.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/glceco.e00.gz]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/updated_olson_med.jpg]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/updated_olson_max.jpg]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/olson_carbon_gibbs02107.xls]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp017/ndp017b.html]]></Data_site>
+      <Variable><![CDATA[maximum estimates of biomass carbon (metric tons C) ]]></Variable>
+      <Variable><![CDATA[mean estimates of biomass carbon (metric tons C) ]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp017/ndp017b.htmlDOI: 10.3334/CDIAC/lue.ndp017.2006 (For the original (1985) version of NDP-017, click 
+Holly K. Gibbs
+Center for Sustainability and the Global Environment 
+University of Wisconsin, Madison
+1710 University Avenue, Madison, WI 53726, USA
+Email: 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/ndp017b.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20061130]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070822]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp017b/revised/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa M. Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[In the 1980s, Olson et al. developed a data base and corresponding map following more than 20 years of field investigations, consultations, and analyses of published literature. The original data characterize the use and vegetative cover of the Earth's land surface with a 0.5&#194;&#176; &#195;&#151; 0.5&#194;&#176; grid. The purpose of these world-ecosystem-complex data and the accompanying map were to provide a current reference base for interpreting the role of vegetation in the global cycling of CO2 and other gases and a basis for improved estimates of vegetation and soil carbon, of natural exchanges of CO2, and of net historic shifts of carbon between the biosphere and the atmosphere.
+
+These data were widely used and cited in carbon cycle research. This updated database extends the methodology of Olson et al. to more contemporary land cover conditions of the Global Land Cover Database (GLC2000). The GLC2000 data were developed using remotely sensed imagery aquired in 2000. The updated data are presented in a GIS format and include estimates of mean and maximum carbon density values. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

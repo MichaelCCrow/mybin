@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Rubin, S.]]></origin>
+        <origin><![CDATA[Goddard, J. G.]]></origin>
+        <origin><![CDATA[Chipman, D.]]></origin>
+        <origin><![CDATA[Takahashi, T.]]></origin>
+        <origin><![CDATA[Sutherland, S.]]></origin>
+        <origin><![CDATA[Reid, J. L.]]></origin>
+        <origin><![CDATA[Swift, J. H.]]></origin>
+        <origin><![CDATA[Talley, L. D.]]></origin>
+        <title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained in the South Pacific Ocean (WOCE Sections P16A/P17A, P17E/P19S, and P19C, R/V Knorr , October 1992-April 1993)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_065.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[CO2, Hydrographic, and Chemical Data Obtained in the South Pacific Ocean (WOCE Sections P16A/P17A, P17E/P19S, and P19C, R/V Knorr , October 1992-April 1993)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19921008]]></begdate>
+          <enddate><![CDATA[19930410]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-150.538]]></westbc>
+        <eastbc><![CDATA[-74.914]]></eastbc>
+        <northbc><![CDATA[13.536]]></northbc>
+        <southbc><![CDATA[-69.262]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[South Pacific Ocean]]></themekey>
+        <themekey><![CDATA[TCO2]]></themekey>
+        <themekey><![CDATA[World Ocean Circulation Experiment]]></themekey>
+        <themekey><![CDATA[carbon cycle]]></themekey>
+        <themekey><![CDATA[carbonate chemistry]]></themekey>
+        <themekey><![CDATA[chlorofluorocarbons (CFC-11 CFC-12)]]></themekey>
+        <themekey><![CDATA[coulometer]]></themekey>
+        <themekey><![CDATA[equilibrator]]></themekey>
+        <themekey><![CDATA[hydrographic measurements]]></themekey>
+        <themekey><![CDATA[nitrate]]></themekey>
+        <themekey><![CDATA[nitrite]]></themekey>
+        <themekey><![CDATA[oxygen]]></themekey>
+        <themekey><![CDATA[oxygen measured by (CTD)]]></themekey>
+        <themekey><![CDATA[pCO2 measured at 4C and 20C]]></themekey>
+        <themekey><![CDATA[partial pressure of carbon dioxide]]></themekey>
+        <themekey><![CDATA[phosphate]]></themekey>
+        <themekey><![CDATA[potential temperatures]]></themekey>
+        <themekey><![CDATA[pressure]]></themekey>
+        <themekey><![CDATA[salinity]]></themekey>
+        <themekey><![CDATA[silicate]]></themekey>
+        <themekey><![CDATA[temperature]]></themekey>
+        <themekey><![CDATA[total carbon dioxide]]></themekey>
+        <themekey><![CDATA[carbon dioxide ]]></themekey>
+        <themekey><![CDATA[hydrographic ]]></themekey>
+        <themekey><![CDATA[chemical data ]]></themekey>
+        <themekey><![CDATA[South Pacific Ocean ]]></themekey>
+        <themekey><![CDATA[WOCE Section P16A/P17A]]></themekey>
+        <themekey><![CDATA[WOCE Section P17E/P19S]]></themekey>
+        <themekey><![CDATA[WOCE Section P19C ]]></themekey>
+        <themekey><![CDATA[R/V Knorr]]></themekey>
+        <themekey><![CDATA[Columbia University]]></themekey>
+        <themekey><![CDATA[Rubin]]></themekey>
+        <themekey><![CDATA[Goddard]]></themekey>
+        <themekey><![CDATA[Chipman]]></themekey>
+        <themekey><![CDATA[Takahashi]]></themekey>
+        <themekey><![CDATA[Sutherland]]></themekey>
+        <themekey><![CDATA[Reid]]></themekey>
+        <themekey><![CDATA[Swift]]></themekey>
+        <themekey><![CDATA[Talley]]></themekey>
+        <themekey><![CDATA[University of California]]></themekey>
+        <themekey><![CDATA[Lamont-Doherty Earth Observatory]]></themekey>
+        <themekey><![CDATA[NDP-065]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090730 123809</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 145702 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[South Pacific Ocean]]></Keywords>
+    <Keywords><![CDATA[TCO2]]></Keywords>
+    <Keywords><![CDATA[World Ocean Circulation Experiment]]></Keywords>
+    <Keywords><![CDATA[carbon cycle]]></Keywords>
+    <Keywords><![CDATA[carbonate chemistry]]></Keywords>
+    <Keywords><![CDATA[chlorofluorocarbons (CFC-11 CFC-12)]]></Keywords>
+    <Keywords><![CDATA[coulometer]]></Keywords>
+    <Keywords><![CDATA[equilibrator]]></Keywords>
+    <Keywords><![CDATA[hydrographic measurements]]></Keywords>
+    <Keywords><![CDATA[nitrate]]></Keywords>
+    <Keywords><![CDATA[nitrite]]></Keywords>
+    <Keywords><![CDATA[oxygen]]></Keywords>
+    <Keywords><![CDATA[oxygen measured by (CTD)]]></Keywords>
+    <Keywords><![CDATA[pCO2 measured at 4C and 20C]]></Keywords>
+    <Keywords><![CDATA[partial pressure of carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[phosphate]]></Keywords>
+    <Keywords><![CDATA[potential temperatures]]></Keywords>
+    <Keywords><![CDATA[pressure]]></Keywords>
+    <Keywords><![CDATA[salinity]]></Keywords>
+    <Keywords><![CDATA[silicate]]></Keywords>
+    <Keywords><![CDATA[temperature]]></Keywords>
+    <Keywords><![CDATA[total carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide ]]></Keywords>
+    <Keywords><![CDATA[hydrographic ]]></Keywords>
+    <Keywords><![CDATA[chemical data ]]></Keywords>
+    <Keywords><![CDATA[South Pacific Ocean ]]></Keywords>
+    <Keywords><![CDATA[WOCE Section P16A/P17A]]></Keywords>
+    <Keywords><![CDATA[WOCE Section P17E/P19S]]></Keywords>
+    <Keywords><![CDATA[WOCE Section P19C ]]></Keywords>
+    <Keywords><![CDATA[R/V Knorr]]></Keywords>
+    <Keywords><![CDATA[Columbia University]]></Keywords>
+    <Keywords><![CDATA[Rubin]]></Keywords>
+    <Keywords><![CDATA[Goddard]]></Keywords>
+    <Keywords><![CDATA[Chipman]]></Keywords>
+    <Keywords><![CDATA[Takahashi]]></Keywords>
+    <Keywords><![CDATA[Sutherland]]></Keywords>
+    <Keywords><![CDATA[Reid]]></Keywords>
+    <Keywords><![CDATA[Swift]]></Keywords>
+    <Keywords><![CDATA[Talley]]></Keywords>
+    <Keywords><![CDATA[University of California]]></Keywords>
+    <Keywords><![CDATA[Lamont-Doherty Earth Observatory]]></Keywords>
+    <Keywords><![CDATA[NDP-065]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 145702 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Alex_Kozyr/NDP_065.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/otg.ndp065]]></Product_number>
+      <Product_title><![CDATA[CO2, Hydrographic, and Chemical Data Obtained in the South Pacific Ocean (WOCE Sections P16A/P17A, P17E/P19S, and P19C, R/V Knorr , October 1992-April 1993)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Rubin, S.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Goddard, J. G.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Chipman, D.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Takahashi, T.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sutherland, S.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Reid, J. L.]]></Name>
+        <Company><![CDATA[Columbia University]]></Company>
+        <Organization><![CDATA[Lamont-Doherty Earth Observatory]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Swift, J. H.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Scripps Institution of Oceanography]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Talley, L. D.]]></Name>
+        <Company><![CDATA[University of California]]></Company>
+        <Organization><![CDATA[Scripps Institution of Oceanography]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[South Pacific Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_065/ndp065.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/p16ap17a.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/p16ap17a.sta]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/p17ep19s.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/p17ep19s.sta]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/p19c.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/p19c.sta]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[bot]]></Variable>
+      <Variable><![CDATA[cast]]></Variable>
+      <Variable><![CDATA[cfc11]]></Variable>
+      <Variable><![CDATA[cfc12]]></Variable>
+      <Variable><![CDATA[ctdoxy]]></Variable>
+      <Variable><![CDATA[ctdsal]]></Variable>
+      <Variable><![CDATA[ctdtmp]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[depth]]></Variable>
+      <Variable><![CDATA[expo]]></Variable>
+      <Variable><![CDATA[latdcm]]></Variable>
+      <Variable><![CDATA[londcm]]></Variable>
+      <Variable><![CDATA[nitrat]]></Variable>
+      <Variable><![CDATA[nitrit]]></Variable>
+      <Variable><![CDATA[oxy]]></Variable>
+      <Variable><![CDATA[pco2]]></Variable>
+      <Variable><![CDATA[pco2tmp]]></Variable>
+      <Variable><![CDATA[phspht]]></Variable>
+      <Variable><![CDATA[pre]]></Variable>
+      <Variable><![CDATA[qualt]]></Variable>
+      <Variable><![CDATA[sal]]></Variable>
+      <Variable><![CDATA[samp]]></Variable>
+      <Variable><![CDATA[sect]]></Variable>
+      <Variable><![CDATA[silca]]></Variable>
+      <Variable><![CDATA[sta]]></Variable>
+      <Variable><![CDATA[stat]]></Variable>
+      <Variable><![CDATA[tcarb]]></Variable>
+      <Variable><![CDATA[theta]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/oceans/ndp_065/ndp065.html]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/ndp065.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/data.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/stainv.for]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp065/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[8.00MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data documentation discusses the procedures and methods used to measure total carbon dioxide concentration (TCO2) and partial pressure of CO2 (pCO2) in discrete water samples collected during three expeditions of the Research Vessel (R/V) Knorr in the South Pacific Ocean. Conducted as part of the World Ocean Circulation Experiment (WOCE), the first cruise (WOCE Section P16A/P17A) began in Papeete, Tahiti, French Polynesia, on October 6, 1992, and returned to Papeete on November 25, 1992. The second cruise (WOCE Section P17E/P19S) began in Papeete on December 4, 1992, and finished in Punta Arenas, Chile, on January 22, 1993. The third expedition (WOCE Section P19C) started in Punta Arenas, on February 22 and finished in Panama City, Panama, on April 13, 1993. During the three expeditions, 422 hydrographic stations were occupied. Hydrographic and chemical measurements made along WOCE Sections P16A/P17A, P17E/P19S, andP19C included pressure, temperature, salinity, and oxygen [measured by conductivity, temperature, and depth (CTD) sensor], as well as discrete measurements of salinity, oxygen, phosphate, nitrate, nitrite, silicate, chlorofluorocarbons (CFC-11, CFC-12), TCO2, and pCO2 measured at 4 and 20 degrees C. In addition, potential temperatures were calculated from the measured variables.
+<br><br>
+ The TCO2 concentration in 4419 seawater samples was determined with a coulometric analysis system; the pCO2 in 4419 discrete water samples was determined with an equilibrator/gas chromatograph system. At 114 stations, complete vertical profiles from the surface to the ocean floor were obtained, whereas at the remainder of stations only surface mixed layer samples were taken. In addition, 758 coulometric measurements for the Certified Reference Material (CRM) (batch nos. 12 and 13) were made. The shipboard analyses of CRM agreed with the Scripps Institution of Oceanography (SIO) manometric values within 1.2 micro-mol/kg. The overall precision of TCO2 measurements is estimated to be ~+/- 2 micro-mol/kg. The shipboard TCO2 measurements listed in this data report have not been corrected for the differences with the SIO manometric values. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

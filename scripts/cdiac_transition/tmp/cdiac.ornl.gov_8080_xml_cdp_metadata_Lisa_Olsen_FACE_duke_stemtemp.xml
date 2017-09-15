@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[FACTS-I ]]></origin>
+        <title><![CDATA[Duke FACE Stem Temperature]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/plant_response/STTraw.csv]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/plant_response/STTclean.csv]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/plant_response/STTgap.csv]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Duke FACE Stem Temperature]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20040101]]></begdate>
+          <enddate><![CDATA[20060215]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-79.09419]]></westbc>
+        <eastbc></eastbc>
+        <northbc><![CDATA[35.978175]]></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[carbon dioxide]]></themekey>
+        <themekey><![CDATA[FACTS I]]></themekey>
+        <themekey><![CDATA[Duke FACE]]></themekey>
+        <themekey><![CDATA[stem temperature]]></themekey>
+        <themekey><![CDATA[vegetation response]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://public.ornl.gov/face/DUKE/duke_data_plantresponse.shtml]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070801 121144</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20070801 121144 by 160.91.16.43</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[carbon dioxide]]></Keywords>
+    <Keywords><![CDATA[FACTS I]]></Keywords>
+    <Keywords><![CDATA[Duke FACE]]></Keywords>
+    <Keywords><![CDATA[stem temperature]]></Keywords>
+    <Keywords><![CDATA[vegetation response]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[STT_readme.txt
+
+Stem Temperature
+
+Raw, clean, and gap-filled data are available.
+
+Variable Description:
+R1n1: R1 stem temperature north #1, units=deg C
+R1n2: R1 stem temperature north #2, units=deg C
+R1s: R1 stem temperature south, units=deg C
+R1w: R1 stem temperature west, units=deg C
+R1n3: R1 stem temperature north #3, units=deg C
+R1e: R1 stem temperature east, units=deg C
+R7st1: R7 stem temperature 1, units=deg C
+R7st2: R7 stem temperature 2, units=deg C
+R7st3: R7 stem temperature 3, units=deg C
+R7st4: R7 stem temperature 4, units=deg C
+R8st1: R8 stem temperature 1, units=deg C
+R8st2: R8 stem temperature 2, units=deg C
+R8st3: R8 stem temperature 3, units=deg C
+R8st4: R8 stem temperature 4, units=deg C
+
+Note: stem temperature data are available for plots 1(R1), 7(R7), and 8(R8).
+ 
+Julian date 1 = Jan 1, 1990
+These data are from Jan 1, 2004 - Feb 15, 2006
+]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20070801 121144 by 160.91.16.43</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[DUKE FACE STEM TEMP]]></Product_number>
+      <Product_title><![CDATA[Duke FACE Stem Temperature]]></Product_title>
+      <Author>
+        <Name><![CDATA[FACTS-I ]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[Duke Forest FACE Experiment]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[FACTS I - Duke Forest  FACE ]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/face/DUKE/duke_home.shtml]]></Site_URL>
+        <Site_data_file><![CDATA[http://public.ornl.gov/face/DUKE/duke_data_plantresponse.shtml]]></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://public.ornl.gov/face/DUKE/duke_data_plantresponse.shtml]]></Data_site>
+      <Variable><![CDATA[R1n1 (degC)]]></Variable>
+      <Variable><![CDATA[R1n2 (degC)]]></Variable>
+      <Variable><![CDATA[R1s (degC)]]></Variable>
+      <Variable><![CDATA[R1w (degC)]]></Variable>
+      <Variable><![CDATA[R1n3 (degC)]]></Variable>
+      <Variable><![CDATA[R1e (degC)]]></Variable>
+      <Variable><![CDATA[R7st1 (degC)]]></Variable>
+      <Variable><![CDATA[R7st2 (degC)]]></Variable>
+      <Variable><![CDATA[R7st3 (degC)]]></Variable>
+      <Variable><![CDATA[R7st4 (degC)]]></Variable>
+      <Variable><![CDATA[R8st1 (degC)]]></Variable>
+      <Variable><![CDATA[R8st2 (degC)]]></Variable>
+      <Variable><![CDATA[R8st3 (degC)]]></Variable>
+      <Variable><![CDATA[R8st4 (degC)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/plant_response/STT_readme.txtSTT_readme.txt
+
+Stem Temperature
+
+Raw, clean, and gap-filled data are available.
+
+Variable Description:
+R1n1: R1 stem temperature north #1, units=deg C
+R1n2: R1 stem temperature north #2, units=deg C
+R1s: R1 stem temperature south, units=deg C
+R1w: R1 stem temperature west, units=deg C
+R1n3: R1 stem temperature north #3, units=deg C
+R1e: R1 stem temperature east, units=deg C
+R7st1: R7 stem temperature 1, units=deg C
+R7st2: R7 stem temperature 2, units=deg C
+R7st3: R7 stem temperature 3, units=deg C
+R7st4: R7 stem temperature 4, units=deg C
+R8st1: R8 stem temperature 1, units=deg C
+R8st2: R8 stem temperature 2, units=deg C
+R8st3: R8 stem temperature 3, units=deg C
+R8st4: R8 stem temperature 4, units=deg C
+
+Note: stem temperature data are available for plots 1(R1), 7(R7), and 8(R8).
+ 
+Julian date 1 = Jan 1, 1990
+These data are from Jan 1, 2004 - Feb 15, 2006
+]]></Descriptive_file>
+      <Data_file><![CDATA[STTraw.csv]]></Data_file>
+      <Data_file><![CDATA[STTclean.csv]]></Data_file>
+      <Data_file><![CDATA[STTgap.csv]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20070710]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/plant_response/STTraw.csv]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/plant_response/STTclean.csv]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/FACE/dukedata/plant_response/STTgap.csv]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Lisa Olsen; email: olsenlm@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Raw, clean, and gap-filled data are available.  Julian day #1 = Jan 1, 1990.  ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

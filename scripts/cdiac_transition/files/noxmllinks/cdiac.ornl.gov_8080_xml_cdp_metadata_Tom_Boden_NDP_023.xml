@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Angell, J. K.]]></origin>
+        <origin><![CDATA[Korshover, K. ]]></origin>
+        <origin><![CDATA[Planet, W. G.]]></origin>
+        <title><![CDATA[Annual and Seasonal Global Variation in Total Ozone and Layer-Mean Ozone, 1958-1987]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp023/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Annual and Seasonal Global Variation in Total Ozone and Layer-Mean Ozone, 1958-1987]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19580101]]></begdate>
+          <enddate><![CDATA[19871231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.00]]></westbc>
+        <eastbc><![CDATA[180.00]]></eastbc>
+        <northbc><![CDATA[90.00]]></northbc>
+        <southbc><![CDATA[-90.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[layer mean ozone variations]]></themekey>
+        <themekey><![CDATA[total ozone variations]]></themekey>
+        <themekey><![CDATA[annual]]></themekey>
+        <themekey><![CDATA[seasonal]]></themekey>
+        <themekey><![CDATA[ozone data]]></themekey>
+        <themekey><![CDATA[Angell]]></themekey>
+        <themekey><![CDATA[Korshover]]></themekey>
+        <themekey><![CDATA[Planet]]></themekey>
+        <themekey><![CDATA[NDP-023]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 144627</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164125 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[layer mean ozone variations]]></Keywords>
+    <Keywords><![CDATA[total ozone variations]]></Keywords>
+    <Keywords><![CDATA[annual]]></Keywords>
+    <Keywords><![CDATA[seasonal]]></Keywords>
+    <Keywords><![CDATA[ozone data]]></Keywords>
+    <Keywords><![CDATA[Angell]]></Keywords>
+    <Keywords><![CDATA[Korshover]]></Keywords>
+    <Keywords><![CDATA[Planet]]></Keywords>
+    <Keywords><![CDATA[NDP-023]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;Total Ozone and Layer-Mean Ozone
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164125 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.ndp023]]></Product_number>
+      <Product_title><![CDATA[Annual and Seasonal Global Variation in Total Ozone and Layer-Mean Ozone, 1958-1987]]></Product_title>
+      <Author>
+        <Name><![CDATA[Angell, J. K.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Air Resources Laboratory, Environmental Research Laboratories]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Korshover, K. ]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[Air Resources Laboratory, Environmental Research Laboratories]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Planet, W. G.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Environmental Satellite, Data and Information Service]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Ozone]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp023.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp023/ndp023.lay]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp023/ndp023.tot]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Seasonal regional ozone level]]></Variable>
+      <Variable><![CDATA[Varibales 2: Annual regional ozone level]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/ndp023.html &#187;&#160;Total Ozone and Layer-Mean Ozone
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp023/ndp023.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp023/ndp023.fr1]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp023/ndp023.fr2]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19910101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19910101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp023/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[61 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[For 1958 through 1987, this data base presents total ozone variations and layer mean ozone variations expressed as percent deviations from the 1958 to 1977 mean. The total ozone variations were derived from mean monthly ozone values published in Ozone Data for the World by the Atmospheric Environment Service in cooperation with the World Meteorological Organization. The layer mean ozone variations are derived from ozonesonde and Umkehr observations. The data records include year, seasonal and annual total ozone variations, and seasonal and annual layer mean ozone variations. The total ozone data are for four regions (Soviet Union, Europe, North America, and Asia); five climatic zones (north and south polar, north and south temperate, and tropical); both hemispheres; and the world. Layer mean ozone data are for four climatic zones (north and south temperate and north and south polar) and for the stratosphere, troposphere, and tropopause layers. The data are in two files [seasonal and year-average total ozone (13.4 kB) and layer mean ozone variations (24.2 kB)].]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

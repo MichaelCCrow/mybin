@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Nydal, R.]]></origin>
+        <title><![CDATA[Carbon-14 Measurements in Surface Water CO2 from the Atlantic, Indian and Pacific Oceans, 1965-1994.]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp057a/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Carbon-14 Measurements in Surface Water CO2 from the Atlantic, Indian and Pacific Oceans, 1965-1994.]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19651115]]></begdate>
+          <enddate><![CDATA[19940707]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-180.000]]></westbc>
+        <eastbc><![CDATA[180.000]]></eastbc>
+        <northbc><![CDATA[80.520]]></northbc>
+        <southbc><![CDATA[-74.650]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[13C]]></themekey>
+        <themekey><![CDATA[14C]]></themekey>
+        <themekey><![CDATA[14C in ocean surface water]]></themekey>
+        <themekey><![CDATA[CO2]]></themekey>
+        <themekey><![CDATA[Radiocarbon]]></themekey>
+        <themekey><![CDATA[bomb 14C]]></themekey>
+        <themekey><![CDATA[carbon isotopes]]></themekey>
+        <themekey><![CDATA[delta 13C]]></themekey>
+        <themekey><![CDATA[delta 14C]]></themekey>
+        <themekey><![CDATA[depths]]></themekey>
+        <themekey><![CDATA[ocean]]></themekey>
+        <themekey><![CDATA[salinity]]></themekey>
+        <themekey><![CDATA[surface water]]></themekey>
+        <themekey><![CDATA[temperature]]></themekey>
+        <themekey><![CDATA[Atlantic Ocean ]]></themekey>
+        <themekey><![CDATA[Indian Ocean ]]></themekey>
+        <themekey><![CDATA[Pacific Ocean]]></themekey>
+        <themekey><![CDATA[Nydal]]></themekey>
+        <themekey><![CDATA[Norwegian University of Science and Technology]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 102233</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 144416 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[13C]]></Keywords>
+    <Keywords><![CDATA[14C]]></Keywords>
+    <Keywords><![CDATA[14C in ocean surface water]]></Keywords>
+    <Keywords><![CDATA[CO2]]></Keywords>
+    <Keywords><![CDATA[Radiocarbon]]></Keywords>
+    <Keywords><![CDATA[bomb 14C]]></Keywords>
+    <Keywords><![CDATA[carbon isotopes]]></Keywords>
+    <Keywords><![CDATA[delta 13C]]></Keywords>
+    <Keywords><![CDATA[delta 14C]]></Keywords>
+    <Keywords><![CDATA[depths]]></Keywords>
+    <Keywords><![CDATA[ocean]]></Keywords>
+    <Keywords><![CDATA[salinity]]></Keywords>
+    <Keywords><![CDATA[surface water]]></Keywords>
+    <Keywords><![CDATA[temperature]]></Keywords>
+    <Keywords><![CDATA[Atlantic Ocean ]]></Keywords>
+    <Keywords><![CDATA[Indian Ocean ]]></Keywords>
+    <Keywords><![CDATA[Pacific Ocean]]></Keywords>
+    <Keywords><![CDATA[Nydal]]></Keywords>
+    <Keywords><![CDATA[Norwegian University of Science and Technology]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <Documentation_Link>
+      <Text><![CDATA[Download the of NDP-057A
+Download 
+of NDP-057A
+ FOR DIFFERENT
+SAMPLING LOCATIONS 
+REPRINTS OF PERTINENT LITERATURE 
+C measurements
+ over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+Table 1. Sample identifications, ships involved and sampling
+ period. 
+Table 2. Sample stations and collection dates from the Atlantic
+ Ocean. 
+Table 3. Sample stations and collection dates from the Indian
+ Ocean. 
+Table 4. Sample stations and collection dates from the Pacific
+ Ocean. 
+Table 7. Characteristics of numeric variables in the file
+ containing data from all sampling locations. 
+Carbon-14 Measurements in Surface
+Water CO. ORNL/CDIAC-104, NDP-057A. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge,
+Tennessee, USA pp. 131. doi: 10.3334/CDIAC/otg.ndp057
+ In the 1960s, thermonuclear bomb tests released significant pulses of radioactive carbon-14
+(C) into the atmosphere. These major perturbations allowed scientists to study the dynamics of the
+global carbon cycle by calculating rates of isotopic exchange between the atmosphere and ocean
+waters. The Radiological Dating Laboratory at the Norwegian Institute of Technology performed
+ from 1962 to 1993 at a network of ground stations in the
+northern and southern hemispheres; in addition it performed C measurements at high-altitude
+(between 9-12.6 km) during 1965 (Nydal and L&#246;vseth, 1983, 1996). The Norwegian Radiological
+Dating Laboratory performed similar measurements on seawater samples collected at the ocean
+surface from 1965 through 1994. The resulting C ocean surface water database is documented here
+and is available from the Carbon Dioxide Information Analysis Center (CDIAC) as NDP-057A, free
+of charge. 
+C data sets, can lead to a greater
+understanding of the dynamic carbon reservoir and lead to a crude picture of anomalous sources and
+sinks at different geographical latitudes. The database is outstanding for its inclusion of early C
+measurements, broad spatial coverage of sampling, relative consistency of sampling methods, and
+&amp;Delta;C calculation results corrected for isotopic fractionation and radioactive decay. This database
+replaces previous versions published by the author and the Radiological Dating Laboratory. 
+ A total of 950 ocean surface water observations were made from 1965 through 1994. The
+measurements were taken at 30 stations in the Atlantic Ocean, 14 stations in the Indian Ocean, and
+38 stations in the Pacific Ocean. Thirty-two of the 950 samples were taken in the Atlantic Ocean
+during the R/V C was measured in 871 of the 950 samples, and those
+measurements have been corrected (&amp;Delta;C
+values range between -113.3 and 280.9 per mille and have a mean value of 101.3 per mille. The
+highest yearly mean (146.5 per mille) was calculated for 1969, the lowest yearly mean value was
+calculated for 1990 (67.9 per mille) illustrating a decrease over time. This decrease was to be
+expected as a result of the ban on atmospheric thermonuclear tests and the slow mixing of the ocean
+surface waters with the deeper layers. The range of &amp;Delta;C values is large and depends on where and
+when the sample was taken, i.e., upwelling areas, far northern or southern latitudes, near fresh water
+influxes, temperature, salinity. Besides the corrected C data used for correcting the
+C data for fractionation are provided as are the temperature, salinity and depth measurements, and
+information on where and when the samples were taken. Data are plotted vs time and vs latitude with
+ocean designations to provide quick overviews of data patterns. The data are fully listed and are
+available as one file of around 0.08 megabytes. The format of the data file permits easy import into
+PC-based spreadsheet software like Microsoft Excel. Programs to read and print the data file
+(FORTRAN 77 and SAS&#174;) are provided also.
+C measurements
+collected during more recent oceanographic cruises including the World Ocean Circulation
+Experiment (WOCE), Joint Global Ocean Flux Study (JGOFS), Transient Tracers in the Ocean
+program (TTO), South Atlantic Ventilation Experiment (SAVE) data, and the older Geochemical
+Ocean Sections Study (GEOSECS).
+ from the Atlantic, Indian and Pacific Oceans,
+1965-1994.
+Reidar Nydal
+Previously:
+Presently:
+C) resulting from atmospheric nuclear bomb testing during the
+1950s and 1960s can be used as a tracer to study carbon dioxide (CO) exchange between the
+atmosphere, biosphere, and ocean. Natural atmospheric , results from natural
+nuclear reactions between cosmic ray neutrons and atmospheric nitrogen. The natural equilibrium
+between the production and disintegration of C (half-life of 5,730 &#177; 40 yrs) determines in part the
+existing natural background radiocarbon levels. The nuclear tests in the atmosphere , with a total
+strength of 430 megaton (TNT equivalent) in the period from 1945 to 1980, added dramatically to
+the presence of atmospheric C (Nydal and L&#246;vseth 1983, 1996). About two thirds of this yield was
+released by the Soviet Union in the stratosphere at high northern latitudes (e.g., Novaya Zemlya in
+the former Soviet Union) in 1961 and 1962. A Test Ban Treaty, signed by the USA, the Soviet
+Union and Great Britain on August 5, 1963 ended atmospheric testing for these nations. France and
+China continued, however, with smaller fission bombs. France performed the last atmospheric test
+in September, 1974, and China in October, 1980 (Norris and Arkin 1994). Nuclear power reactors
+are another source, although minor (depending on the efficiency of the filtering system), of
+atmospheric C (Nydal et al. 1980). From 1962 through 1994, the Norwegian Radiological Dating
+Laboratory, under Dr. Reidar Nydal, conducted regular measurements of C in the atmosphere at
+ground level; in the lower stratosphere and in high altitudes using aircraft; and in the surface waters
+of the various oceans using research ships and ships of opportunity. Final results of the atmospheric
+measurements have been documented and archived at the Carbon Dioxide Information Analysis
+Center (CDIAC) at Oak Ridge National Laboratory (Nydal and L&#246;vseth 1996). The previously
+published ocean data through 1981 (Nydal et al. 1979, Nydal et al. 1980, Nydal et al. 1984) have
+been updated and corrected for radioactive decay. The final version with data through 1994 is
+documented in this database (NDP-057A).
+C was performed from cargo ships on their regular
+routes and from Norwegian research vessels. The Norwegian shipping companies Fred Olsen and
+Wilh. Wilhelmsen collected the samples on their ordinary routes through the Atlantic, Pacific and
+Indian Oceans. From 1965 until 1976 there were a large number of possible routes; about six ships
+were involved in the sampling. The sampling was shared between the two shipping companies in
+order to cover the main part of the world ocean surface between 45&amp;#176 N and 45&amp;#176 S. The ships crossed
+the Atlantic Ocean from Europe to North and South America, went along the African coast, passed
+through the Panama Canal to the Pacific Ocean to New Zealand, Australia, and Japan and returned
+either over the Indian Ocean and around the Cape of Africa or through the Suez Canal. Ships also
+sailed in the opposite direction, over the Indian Ocean to Australia before crossing the Pacific Ocean
+to Panama (Fig. 1).
+ Big changes occurred in the shipping routes after 1973. A few ships were then selected to
+cover most of the earlier established sampling locations. After 1986 sampling was reduced to only
+one ship from the Wilh. Wilhemsen line. That ship (the M/S ) was able to cover some of
+the previous sampling locations. Its main route led from Europe, across the Atlantic Ocean to
+Panama, across the Pacific to New Zealand and Australia, and north to Japan before returning
+through the North Pacific and Atlantic Ocean. Special cruises by Norwegian research vessels, the
+M/S , sampled the Nordic Seas from 1965
+to 1967 and 1990 to 1992; the R/V sampled the Atlantic Ocean during a round-trip research
+cruise to Antarctica from 1989 to 1990. Table 1 provides an overview of when the particular ships
+were involved in sampling.
+ Samples taken through 1994 have been processed for this database. From all ships, a total
+of 950 observations were made from 1965-1994; of these a total of 871 observations of C have
+been corrected for fractionation and radioactive decay (see Sections 14 and 15).
+C is a carbon isotope found in the biosphere, atmosphere and hydrosphere. Unlike
+the radio-isotope C during photosynthesis,
+resulting in lower C
+values are deviations of the C ratio relative to the Pee Dee Belemite (PDB) (Pee Dee River,
+South Carolina, Craig 1961) standard. The isotopic fractionation caused by net photosynthesis
+causes increased atmospheric &amp;delta;C values for the biosphere and atmosphere of about -25
+and -7.5 
+in the ocean involves a relatively small fractionation (Ciais et al., 1995). Fossil-fuel combustion,
+based on C values in the
+atmosphere. Steady decreases over time in &amp;delta;C values have been measured in the atmosphere,
+oceans and ice-cores. Ciais et al. (1995) attempted to calculate the global partioning of CO between
+the oceans and land, based on the atmospheric C ratio, as did others (Siegenthaler and M&#252;nnich
+1981; Siegenthaler and Oescher 1987; Quay et al. 1992) 
+N. Fossil-fuel combustion
+has thus resulted in reduced atmospheric and oceanic C values are deviations from
+the C ratio relative to the National Institute of Standard Technology (NIST) oxalic acid
+standard, that are not yet corrected for radioactive decay. Nydal et al. measured C such that
+the &amp;delta;C values could be corrected for
+isotopic mass fractionation and for radioactive decay (see Section 6). Nydal considers the &amp;delta;C
+values in this database appropriate for the correction of the C measurements, but did not consider
+them representative of true ocean bicarbonate levels. In principal, changes both in &amp;delta;C
+values can be used as tracers of CO fate over time (Nydal and L&#246;vseth 1965; Nydal 1968; Nydal et
+al. 1980; Nydal and L&#246;vseth 1983). Temperature, salinity, and sampling depth were measured for
+almost all sampling locations. Those data are incorporated in this database; they may aid in the
+interpretation of the variability of the radiocarbon data.
+ In contrast to planned research cruises, locations for sampling with commercial ships were
+dependent on shipping routes (Fig. 1). In addition, weather situations caused changes in the routes
+throughout the year, making it difficult to return to the same position during subsequent cruises.
+After some time 'stations' (Table 2) were defined, containing one to any number of samples taken over
+time within a few degrees latitude and longitude (Nydal et al. 1984). Because of a large number of
+additional samples presented in this report, compared to the 1984 publication, it has been necessary
+to make slight changes to the earlier arrangement of the stations (compare Appendix B, and Table
+7). Station size was probably not critical in the open ocean, but closer to the continents (e.g., West
+Africa) even small changes in the location may have had great influence on the 
+ At the beginning of the project, the sampling locations were chosen more or less arbitrarily
+at intervals of several degrees in order to cover the main ocean surface. Some of the sampling
+locations were not revisited after a short time, often due to changes in the shipping routes, but also
+in favor of more interesting locations. In some cases it was possible to establish stations where
+sampling was repeated during several years in each of the three oceans.
+ Various cargo ships (listed in Table 1) were involved in the collection of samples. Two ships,
+the M/S from the Fred Olsen Company covered most of the Atlantic
+for 10 years (1966-1972). Several ships (the M/S , M/S
+) from
+the Fred Olsen Company and from Wilh. Wilhelmsen (Barber International) covered parts of the
+Atlantic, Pacific and Indian Ocean during the same period. From 1966 until 1976 the seawater
+collected (in 200-liter barrels) was transported to the laboratory for further processing after two to
+four months of storage. The running sample identification numbers SV1-SV286 were assigned to
+the samples from this period. After the reorganization of the sampling program in 1976 it was found
+more convenient to have the sample numbers connected to each ship (M/S Barber
+T&amp;oslash;nsberg
+collection was performed by the staff (the chief) on board the ships (see Section 6). 
+ The Atlantic Ocean was covered with 30 stations (S01-S28, S07B, and S11B) from the
+Barentz Sea (74&amp;#176 N) to the South Atlantic (35&amp;#176 S). One of the sampling stations is located in the
+Mediterranean Sea (Station 14). Measurements from these 30 stations were complemented with
+measurements from a special sampling series on an Antarctic cruise by the Norwegian research vessel
+ (An0), sailing between 1989 and 1990. Thirty-two samples were collected on that cruise
+in the region from 45&amp;#176 03' N, 8&amp;#176 W to 73&amp;#176 58' S, 56&amp;#176 W (see also Nydal and Gislefoss 1996). Twenty-two of these samples are listed under Station An0; the other ten sampling locations were added to
+the appropriate Atlantic Ocean stations, namely, A-00001# and A-00001(2) to Station 7, A-00002
+and A-00002(2) to Station 17, A-00003 and A-00003(2) to Station 19, A-00004 and A-00004(2) to
+Station 21, and A-00007 and A-00007(2) to Station 23 (see also Section 14); the remaining data are
+listed under Station An0. 
+ The locations for each Atlantic Ocean station, the number of samples, and the sampling
+periods are summarized in Table 2.
+No. of
+Samples
+In brief, the Atlantic component of this database offers one time series spanning 25 years
+(1966-1990) with 65 samples (S17) for the coast of Africa; 15-year time series between 1976 and
+1990 for S07, S20, S22, S25 and S27; 8-10 year time series for S11B, S09, and S07B; and an 8-year
+time series for the station in the Mediterranean Sea (Figs. A-1 thru A-10). Other station records are
+generally less than 8 years and are not plotted as individual time-series.
+The Indian Ocean component of this database contains measurements from 14 stations (S31-S45, S40 is listed under S43) mainly from the open ocean between 7&amp;#176 S and 45&amp;#176 S (Table 3). The
+samples were collected on cruises between Australia and the Cape of Africa or the Red Sea. All
+stations in the Indian Ocean were situated on the deep basins with depths greater than 3000 meters.
+No. of
+Samples
+The measurements in the Indian Ocean offer records spanning 12-15 years for stations S41
+and S43 and 8-10 years for stations S32, S34, S37, S39, and S44 (Figs. A-11 thru A-15). Records
+from other stations have shorter durations.
+The Pacific Ocean component of this database consists of 38 stations (S51-S88, S61 was
+combined with S60). These stations were located mainly between North America and Japan in the
+northern hemisphere, and between Panama and Australia in the southern hemisphere (Table 4).
+Normally, sample collection took place when crossing certain longitudes. The majority of the stations
+were located in calmer surface layer from 15&amp;#176 N to 35&amp;#176 N and 15&amp;#176 S to 35&amp;#176 S. Frequent changes in
+shipping routes, due to the weather changes between summer and winter, caused a scattering of the
+stations in the longitudinal direction.
+No. of
+Samples
+Measurements in the Pacific Ocean were less systematic than in the other oceans. Shipping
+route changes in the 1970s had great influence on the consistency of the measurements. Sampling
+was mainly performed in the periods 1966 to 1975 and 1983 to 1994. Station locations were mostly
+scattered in the first period, and the maximum length of any record was only 4-5 years (S52, S73,
+S77, S81, and S84). Greater sampling consistency was obtained in the second period, with records
+spanning 6-10 years at some stations (S53, S56, S58, S59, S63, S77, S81, S83, and S84) (Figs. A.16-A.24).
+6. SAMPLE COLLECTION, MEASUREMENT TECHNIQUES, AND CORRECTION
+CALCULATIONS
+ volume of about 5 liters was needed, for which
+about 200 liters of seawater had to be collected. The seawater was collected through the inlet of the
+ship's cooling system and stored in cleaned steel 200-liter barrels. Temperatures and sampling depths
+were recorded at the time of sample collection. The air in the 200-liter barrels was removed by
+nitrogen flushing before filling. Subsequent treatment of the samples changed with time. During the
+first 10 years (1965-1976) the barrels were stored aboard the ships during the cruises, and processed
+2-4 months later in the laboratory. After acidifying the seawater (to pH&lt;3) with concentrated sulfuric
+acid, the CO was flushed out with nitrogen and adsorbed in ammonia (later to 2% 0.75 L NaOH).
+Flushing times varied between one and two days, and in general a 5-6 liter volume of clean CO gas
+was obtained after further precipitation with CaCl and further treatment with
+HCl (later with H
+In 1976 the sampling program was revised to eliminate the long storage of seawater in the
+large barrels on board the ship and the subsequent transport to the laboratory. Between 1976 and
+1983 the flushing of CO was performed more systematically, i.e., the samples were flushed
+immediately after collection for 1.5 hours with 600 liters of pure nitrogen and adsorbed to 2% NaOH
+(0.75 L) on board the ship just after collection (Nydal et al. 1980, Nydal et al. 1984). Four to five
+liters of CO were still obtained. The revised procedure made it possible to collect and handle more
+samples on each cruise. When the samples (in NaOH solution) were received in the laboratory they
+were directly treated with acid in a vacuum system for further CO release. After 1983 the flushing
+of CO was again revised: a circulation pump on top of the barrel circulated excess nitrogen through
+the barrel resulting in a more complete extraction of CO
+C values (the deviation
+in the C ratio relative to the PDB standard) obtained during these measurements are relative
+values and are not representative of ocean bicarbonate values, mainly because of the storage
+(biological activity) of the seawater and the variable flushing procedures. Correct &amp;delta;C values for
+ocean bicarbonate can only be obtained after complete extraction of CO in a sample, and before any
+exchange between organic and dissolved inorganic carbon occurs. C measurements were the focus
+of the present work, and satisfactory precautions for representative &amp;delta;C measurements were not
+taken. When COC value is
+obtained. The large range (from positive to negative values) of &amp;delta;C values can thus be explained.
+Most of the &amp;delta;C values for 1965-1976 ranged between 0 and 3 per mille
+() and were fairly close
+to actual ocean bicarbonate values. There are, however, also some highly variable results with
+extreme values above 20 . In the latter cases it can be assumed that leakage in the flushing system
+had occurred and that the result was enriched C values
+(after correction) were affected because of excess pressure in the flushing system. After 1976 and
+up to 1983 a less complete flushing (reduced time) on board the ship resulted in general in negative
+&amp;delta;C from the normal ocean value
+varied, depending on how complete CO was extracted from the seawater. After 1983, the
+circulation pump proved to result in more complete extraction of the COC values showed
+more typical ocean bicarbonate values.
+ proportional counters with gas volumes of 1-2
+L under 2 atm pressure, similar to the atmospheric CO measurements (Nydal et al. 1983, Nydal et
+al. 1984, Nydal and L&#246;vseth 1996). Until 1976 the samples were measured with an accuracy of about
+10 ),
+counting times were increased upwards to 4 days.
+C ratio
+ relative to a standard) were calculated as per mille excess above the normal C level defined by the
+US NIST oxalic acid standard. The ocean C, which is the
+relative deviation of the measured C activity from the NIST oxalic acid standard activity, after
+correction for isotopic mass fractionation and radioactive decay related to age (Stuiver and Polach
+1977). &amp;Delta;C is expressed in per mille (not as a percentage) and calculated using the following two
+steps:
+C
+represents the uncorrected (for decay) C represents the
+ deviation in the C ratio was measured by mass
+spectrometry. The &amp;delta;C values, by themselves, represent data that are highly influenced by
+fractionation in the flushing process. In the earlier presentation of the C data from the Radiological
+Dating Laboratory only step 1 was used, and the decay of the NIST C reference standard after 1950
+was not taken into account (Nydal et al. 1983). Applying the approximate formula in step 2, where
+ is 1/8267 years (T/ln2 where T is the 5730 year half-life of is the year of sampling, this
+small decay (2-5 per mille) has now been applied to all the 
+ Negative values were occasionally obtained in the Arctic and Antarctic (Figs. 2, 3, and 4).
+These values can be explained by the more rapid vertical exchange of deep water in the Arctic and
+Antarctic. Before the nuclear bomb testing all values in the ocean were negative due to the mean age
+of the ocean carbon being ca. 500 years.
+. The seawater temperature was measured where the samples were taken using
+an automatic recorder at the inlet of the ship's water-cooling system. The accuracy of this
+temperature-recorder was generally better than 0.5C. Control measurements of the temperature
+were also performed with a thermometer in the barrel at the end of the filling process.
+ Normally, one liter of seawater was put aside for salinity measurements from each
+sample. Salinity measurements were performed at 22.5C with an Inductor Salinometer at the
+Marine Biological Station in Trondheim. The salinity measure is presented here in units of the
+practical salinity scale (pss) following the National and International Ocean Organizations' directives.
+This scale is defined as a conductivity ratio without unit. This salinity standard is in agreement with
+previously published salinity numbers given in per mille units. The limit of error (1&#160;sigma=0.003 pss)
+in each case is certainly small compared to the error associated with the storage of the samples. The
+samples collected before 1976 were often stored several years before measurements. Some extreme
+deviations in salinity may be due to bottle leaks during storage. After 1976 the salinity measurements
+became more regular, but storage time was often still longer than 3 to 4 months. In spite of the
+relatively poor quality of the salinity measurements, they still offer some information about the
+stability of the water masses in the open ocean and along the continents. The measurements are
+especially important for revealing the intrusion of freshwater from rivers (e.g., at the coast of
+Argentina and at Washington, USA).
+ Depth values are equivalent to the depth of the inlet on the ship's water-cooling
+system where the 200-liter samples were collected. Depth values ranged between 2.5 and 11 meters.
+Sample LA2-0002A from Station 2 has a depth of 50 m because the surface sample had been lost.
+That sample belongs to a C
+all the way down to the sea bottom.
+ For a further discussion of the sampling methods and each sampling site, please see the reprint
+of Nydal et al. (1984) in Appendix B. 
+C measurements documented in this NDP-057A and the
+atmospheric C data sets, can lead
+to a greater understanding of the dynamic carbon reservoir and lead to a crude picture of carbon
+fluxes at different geographical latitudes. The database is outstanding for its inclusion of early C
+measurements, broad spatial coverage of sampling, relative consistency of sampling method, and &amp;Delta;C
+calculation results corrected for isotopic fractionation and radioactive decay. This ocean C database
+replaces previous versions published by the authors and the Norwegian Radiological Dating
+Laboratory. Given the long period-of-record, the ocean surface water C data may be compared to
+the data obtained from more recent oceanographic cruises including the World Ocean Circulation
+Experiment (WOCE), Joint Global Ocean Flux Study (JGOFS), Transient Tracers in the Ocean
+program (TTO), South Atlantic Ventilation Experiment (SAVE), and the older Geochemical Ocean
+Sections Study (GEOSECS).
+C, temperature and salinity data from those stations sampled multiple times over the 1965
+to 1994 period were plotted (Figs. A.1-A.26) as mentioned before. As a brief overview of all data,
+we also plotted all &amp;Delta;C values, temperatures, and salinities vs time and vs latitude (Figs.
+2-9). Figure 2 includes the atmospheric &amp;Delta;C
+data obtained from GEOSECS (&#214;stlund and Stuiver, 1988, NDP-027), and &amp;Delta;C data from the
+WOCE section P17C in the equatorial Pacific Ocean (Goyet et al. 1997, NDP-062). Analogous to
+the atmospheric &amp;Delta;C data, but not to the same degree do we find, with time, a decline in the surface
+water &amp;Delta;C values indicating the slow mixing of the surface ocean water with the deeper layers. The
+scatter in the ocean surface &amp;Delta;C data is largely due to the fact that the data plotted are from a large
+variety of locations, differing in upwelling aspects, temperature, salinity, latitude, etc. Figures 3 and
+4 show only the NDP-057A ocean water surface &amp;Delta;C data with ocean-specific symbols plotted vs
+time and vs latitude, respectively. The &amp;Delta;C latitudinal plot shows clearly that lower values were
+measured around the equator caused by upwelling of deeper, older ocean waters around the equator
+(see also Stuiver and &#214;stland, 1983). Near the Antarctic, deep mixing with cold centuries-old water
+that lacks C values. Figure 5 shows the oceanic (this NDP057A) and
+atmospheric (NDP057) &amp;delta;C values in the previous section
+(pp. 11 and 12) explains the ocean &amp;delta;C values in Figure 5, i.e., the effects of the changes in flushing
+times. Figures 6 through 9 plot temperature and salinity vs time and vs latitude. The latitudinal
+temperature plot shows an expected pattern of warm temperatures between 23&amp;#176 N and 23&amp;#176 S. The
+highest salinity values are found in the North Atlantic Ocean in the early 1980s.
+C results from the
+various sample treatments. Some have questioned the long storage time of the large seawater barrels
+(Nydal et al. 1979) even though it was difficult to understand how errors could arise in C data in
+ways other than through leakage. An experiment was performed using a series of nine pairs of
+samples. Nine samples were processed immediately after collection on board the ship, and the other
+nine were stored for a few weeks or months (Nydal et al. 1980, Nydal et al. 1984) for later
+processing. Only in one case out of nine was a difference of 4 sigma observed in C (TR-00039A
+and TR-00039B at station 20), but this may not necessarily be due to storage.
+ Effects of sampling techniques changes are considered
+negligible by Dr. Nydal (Nydal et al. 1979), given the tests performed on storage time.
+C values cannot be considered representative of true ocean carbonate values
+because flushing times affect the fractionation during the CO extraction and the completeness of the
+COC ratios are only useful for the fractionation correction
+of the C ratios were not measured the ratio was calculated as a mean value
+from neighboring data; this then was indicated by a flag '*' for a total of 35 observations (see also
+Section 13)
+ The accuracy of the measurements recorded by the temperature-recorder was,
+in general, better than 0.5 C.
+ Storage time might well have affected salinity values, especially before 1976 due
+to bottle leaks. The samples obtained before 1976 were stored until 1976 in glass bottles. The values
+can however be considered important for the evaluation of the stability of the water masses in the
+open ocean and along the continents, and for revealing the intrusion of fresh water from rivers. 
+ The depth values were determined by the location of the inlet to the ship's water-cooling system relative to the water surface. One sample, sample LA2-0002A from Station 2, was
+taken from 50 m depth.
+C constraint on the uptake of fossil fuel
+CO
+ Ciais, P., P. Tans, J.W.C. White, M. Trolier, R.J. Francey, J.A. Berry, D.R. Randall, P.J. Sellers, J.G.
+Gollatz, and D.S. Schimel. 1995. Partitioning of ocean and land uptake of COC
+measurements from the NOAA Climate Monitoring and Diagnostics Laboratory Global Air
+Sampling Network. 
+ Goyet, C., R.M. Key, K.F. Sullivan, and M. Tsuchya. 1997. Carbon dioxide, hydrographic, and
+chemical data obtained during the R/V cruise TUNES-1 in the equatorial
+Pacific Ocean (WOCE section P17C). A. Kozyr, ed. Carbon Dioxide Information Analysis
+Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee, U.S.A. ORNL/CDIAC-99 NDP-062.
+Bulletin of
+the atomic scientists
+ 206:
+1029-31.
+Journal of
+Geophysical Research
+ Nydal, R., K. L&#246;vseth, and S. Gulliksen, 1979. A survey of radiocarbon variation in nature since the
+Test Ban Treaty. in Berger, R. and Suess H.E., eds. .
+Berkeley, University of California Press. pp. 313-23.
+C to the ocean surface.
+ Journal of
+Geophysical Research
+C in the ocean surface,
+1966-1981.
+Trends in
+Geophysical Research
+ from northern and
+southern hemisphere sites, 1962-1994. V. Zumbrunn and T.A. Boden, eds. Carbon Dioxide
+Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee, U.S.A.
+ORNL/CDIAC-93 NDP-057.
+C in the atmosphere and ocean.
+ &#214;stlund, H.G., R. Oleson, and R. Brescher. 1980. GEOSECS Indian Ocean radiocarbon and tritium
+measurements (Miami). Tritium Laboratory Data Report #9, Rosenstiel School of Marine and
+Atmospheric Science, University of Miami. 
+ &#214;stlund, H.G. and M. Stuiver. 1988. GEOSECS Atlantic, Pacific, Indian, and Mediterranean
+radiocarbon data. T.A. Boden, ed. Carbon Dioxide Information Analysis Center, Oak Ridge
+National Laboratory, Oak Ridge, Tennessee, U.S.A. ORNL/ESD NDP-027.
+: Carbon-13
+Evidence. 
+New Zealand
+Jour. Sci
+ transfer from air to sea.
+ emissions during the past 200 years
+reconstructed by deconvolution of ice core data. 
+10. DATA PROCESSING ACTIVITIES AND QUALITY ASSURANCE CHECKS
+PERFORMED BY CDIAC
+ CDIAC is committed to the quality assurance (QA) of data before distribution. In order to
+provide scientists and researchers with high-quality data, CDIAC reviews the data it receives for
+consistent formatting, completeness, reasonableness, and accuracy. Each review involves
+programming that is specific to each data set. 
+C ocean database as 82 separate files on a floppy disk from Dr. Reidar
+Nydal. CDIAC staff edited and created one ASCII data file for all data. A working copy of the file
+was created and processed in the following ways:
+1. All original ASCII files were reformatted into a consistent format and combined into a single file
+with data from all sites.
+ and FORTRAN 77 codes were written and are available to the user for reading the
+ASCII data file.
+1. The final data file was checked to ensure formatting consistency and to confirm the presence of
+missing data entries.
+C data, depth, salinity and
+temperature were calculated and assessed for each site.
+5. Any inconsistencies or suspect measurements were reported to and addressed by the investigator
+before the data set was released.
+C ocean surface water data previously documented by CDIAC (Goyet et al., 1997, &#214;stlund
+and Stuiver, 1988) were included in one plot for comparison.
+C database is available in machine-readable form from
+CDIAC without charge. The database may be retrieved from CDIAC's anonymous File Transfer
+Protocol (FTP) site, by using the address, login instructions, and FTP commands listed below. In
+addition, the database is available on 8-mm tape or IBM- or Macintosh-formatted floppy diskettes.
+ This documentation is available only from CDIAC. Electronic versions of the documentation
+are available via the World Wide Web from CDIAC's home page (http://cdiac.ess-dive.lbl.gov).
+Requests for printed copies of the documentation should be addressed to
+ The tape, diskette and documentation may also be ordered by telephone, facsimile, or
+electronic mail:
+ As an alternative, one may access the following World Wide Web URL:
+ acknowledge
+the principal investigator, 
+C database
+that are distributed by CDIAC along with this documentation. The files are available on a variety of
+media (see Sect. 11, "How To Obtain the Data and Documentation"). 
+C,
+sampling depth, salinity and temperature estimates from 950 ocean
+surface water samples.
+: FORTRAN 77 code to read and print the file containing
+the data.
+ data retrieval code to read and print the file
+containing the data.
+C,
+and , depths of measurements, salinity, and temperature. Samples
+were obtained from the North Atlantic to the Antarctic collectively from the R/V cruise and
+from 82 stations located in the Atlantic, Indian and Pacific oceans. The period of record differs from
+station to station. The earliest measurements were made in 1965, and the latest estimates are from
+1994. Missing values are indicated by -999.9 values. 
+ LABREF is a seven-to-nine character site code and sample reference number (e.g., SV-00034).
+The 5-digit sample reference number follows the site code and is separated from the
+site code by a minus sign (i.e., "-"). All sample reference numbers are unique. The
+ship codes and the range of sample reference numbers and total number of samples
+from each site were listed in Table 1. The complete listing of the observations can be
+found in Section 14. A symbol "#" was added to the sample reference number for a
+few sample numbers that were collected outside the main station location. Samples
+marked "A" and "B" are from the same collection, where one sample was processed
+immediately after collection and the other some weeks later. The addition "(2)" was
+added to indicate the sampling aboard the R/V on its return from Antarctica;
+these samples are not duplicates but were, in general, collected close to the locations
+for the sample series collected on the way down to Antarctica. At Station 45 sample
+TR-00099II the "II" label was added to distinguish this sample from a sample at
+Station 42 with the same number, now labeled TR-00099I. 
+ WEEK is the week of sampling relative to the first week of 1963. Values range from 151 to
+1645. 
+ SAMDAT is a six-character field that represents the year (since 1900), month, and day of the
+sampling (yy/mm/dd). Values range from 651115 to 940707.
+ LAT is the latitudinal sampling location in decimal degrees. Northern hemisphere locations
+have positive values; southern hemisphere locations have negative values. Values
+range from -74.65 degrees to 80.52 degrees.
+ LONG is the longitudinal sampling location in decimal degrees. Eastern hemisphere
+locations have positive values; western hemisphere locations have negative
+values. Values range from -180.00 degrees to 180.00 degrees.
+ DEPTH is the sampling depth in meters. Values range from 2.5 to 11 meters. At Station 2
+sample LA2-0002A has the correct depth of 50 m; a deep sample was used because
+the surface sample was lost. At a number of stations the depth was reported as 5-10
+m.
+ SALIN is the measured salinity. The quality of the salinity measurements is described in
+Section 8. Values range from 29.55 to 38.99 pss.
+ TEMP is the measured temperature (see Section 8). Values range from -1.2 to +30.5
+degrees Celsius.
+expressed as &amp;delta;) relative to the US National Institute of Standards
+and Technology (NIST, formerly the National Bureau of Standards) oxalic acid
+standard. Ninety-five % of the C concentration in this standard represents the
+normal activity in recent wood for the year 1950 A.D. Values for DC14 range from
+-61.0 to 352.0 
+) relative
+to the PDB standard (Craig 1961). The C ratio was measured by mass
+spectrometry. The &amp;delta;C values provided are given as a guide for the calculation of the
+corrected &amp;Delta;
+ FLAG13 is a one-character flag code "*" used to denote whether the DC13 is estimated as a
+mean value from neighboring data. There are 35 occurrences of this flag code.
+C is corrected for isotopic
+fractionation using &amp;delta;C
+reference standard (NIST). Values range from -113.3 to 280.9 
+) to read and echo
+print the data file.
+) written to read and calculate
+the means from the data file.
+15.
+VERIFICATION OF DATA TRANSPORT
+ data retrieval
+programs provided. To verify that the data have been correctly transported to their systems, users
+should generate some or all of the statistics presented in Table 8. The table presents simple summary
+statistics for the file that contains data from all sites (i.e., file ). If the statistics generated
+by the user differ from those presented here, the data file may have been corrupted in transport.
+These statistics are presented only as a tool to ensure proper reading of the data file. They are not
+to be construed as summaries of the data set.
+Table 8. Characteristics of numeric variables in the file containing data from all sampling
+locations.
+ FOR DIFFERENT SAMPLING
+LOCATIONS
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature
+data, salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 144416 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[NDP-057A]]></Product_number>
+      <Product_title><![CDATA[Carbon-14 Measurements in Surface Water CO2 from the Atlantic, Indian and Pacific Oceans, 1965-1994.]]></Product_title>
+      <Author>
+        <Name><![CDATA[Nydal, R.]]></Name>
+        <Company><![CDATA[The Norwegian University of Science and Technology]]></Company>
+        <Organization><![CDATA[Department of Physics]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Oceanic Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Atlantic Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp057a/ndp057a.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp057a/nydala.asc]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Indian Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp057a/ndp057a.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp057a/nydala.asc]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Pacific Ocean]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp057a/ndp057a.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp057a/nydala.asc]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[crc14]]></Variable>
+      <Variable><![CDATA[dc13]]></Variable>
+      <Variable><![CDATA[dc14]]></Variable>
+      <Variable><![CDATA[depth]]></Variable>
+      <Variable><![CDATA[flag13]]></Variable>
+      <Variable><![CDATA[isamdat]]></Variable>
+      <Variable><![CDATA[iweek]]></Variable>
+      <Variable><![CDATA[labref]]></Variable>
+      <Variable><![CDATA[salin]]></Variable>
+      <Variable><![CDATA[sigma]]></Variable>
+      <Variable><![CDATA[sta]]></Variable>
+      <Variable><![CDATA[temp]]></Variable>
+      <Variable><![CDATA[tlat]]></Variable>
+      <Variable><![CDATA[tlong]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp057a/ndp057.txt]]></Descriptive_file>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp057a/ndp057a.htmDownload the of NDP-057A
+Download 
+of NDP-057A
+ FOR DIFFERENT
+SAMPLING LOCATIONS 
+REPRINTS OF PERTINENT LITERATURE 
+C measurements
+ over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+C measurements,
+ temperature data, salinity data over time. 
+Table 1. Sample identifications, ships involved and sampling
+ period. 
+Table 2. Sample stations and collection dates from the Atlantic
+ Ocean. 
+Table 3. Sample stations and collection dates from the Indian
+ Ocean. 
+Table 4. Sample stations and collection dates from the Pacific
+ Ocean. 
+Table 7. Characteristics of numeric variables in the file
+ containing data from all sampling locations. 
+Carbon-14 Measurements in Surface
+Water CO. ORNL/CDIAC-104, NDP-057A. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge,
+Tennessee, USA pp. 131. doi: 10.3334/CDIAC/otg.ndp057
+ In the 1960s, thermonuclear bomb tests released significant pulses of radioactive carbon-14
+(C) into the atmosphere. These major perturbations allowed scientists to study the dynamics of the
+global carbon cycle by calculating rates of isotopic exchange between the atmosphere and ocean
+waters. The Radiological Dating Laboratory at the Norwegian Institute of Technology performed
+ from 1962 to 1993 at a network of ground stations in the
+northern and southern hemispheres; in addition it performed C measurements at high-altitude
+(between 9-12.6 km) during 1965 (Nydal and L&#246;vseth, 1983, 1996). The Norwegian Radiological
+Dating Laboratory performed similar measurements on seawater samples collected at the ocean
+surface from 1965 through 1994. The resulting C ocean surface water database is documented here
+and is available from the Carbon Dioxide Information Analysis Center (CDIAC) as NDP-057A, free
+of charge. 
+C data sets, can lead to a greater
+understanding of the dynamic carbon reservoir and lead to a crude picture of anomalous sources and
+sinks at different geographical latitudes. The database is outstanding for its inclusion of early C
+measurements, broad spatial coverage of sampling, relative consistency of sampling methods, and
+&amp;Delta;C calculation results corrected for isotopic fractionation and radioactive decay. This database
+replaces previous versions published by the author and the Radiological Dating Laboratory. 
+ A total of 950 ocean surface water observations were made from 1965 through 1994. The
+measurements were taken at 30 stations in the Atlantic Ocean, 14 stations in the Indian Ocean, and
+38 stations in the Pacific Ocean. Thirty-two of the 950 samples were taken in the Atlantic Ocean
+during the R/V C was measured in 871 of the 950 samples, and those
+measurements have been corrected (&amp;Delta;C
+values range between -113.3 and 280.9 per mille and have a mean value of 101.3 per mille. The
+highest yearly mean (146.5 per mille) was calculated for 1969, the lowest yearly mean value was
+calculated for 1990 (67.9 per mille) illustrating a decrease over time. This decrease was to be
+expected as a result of the ban on atmospheric thermonuclear tests and the slow mixing of the ocean
+surface waters with the deeper layers. The range of &amp;Delta;C values is large and depends on where and
+when the sample was taken, i.e., upwelling areas, far northern or southern latitudes, near fresh water
+influxes, temperature, salinity. Besides the corrected C data used for correcting the
+C data for fractionation are provided as are the temperature, salinity and depth measurements, and
+information on where and when the samples were taken. Data are plotted vs time and vs latitude with
+ocean designations to provide quick overviews of data patterns. The data are fully listed and are
+available as one file of around 0.08 megabytes. The format of the data file permits easy import into
+PC-based spreadsheet software like Microsoft Excel. Programs to read and print the data file
+(FORTRAN 77 and SAS&#174;) are provided also.
+C measurements
+collected during more recent oceanographic cruises including the World Ocean Circulation
+Experiment (WOCE), Joint Global Ocean Flux Study (JGOFS), Transient Tracers in the Ocean
+program (TTO), South Atlantic Ventilation Experiment (SAVE) data, and the older Geochemical
+Ocean Sections Study (GEOSECS).
+ from the Atlantic, Indian and Pacific Oceans,
+1965-1994.
+Reidar Nydal
+Previously:
+Presently:
+C) resulting from atmospheric nuclear bomb testing during the
+1950s and 1960s can be used as a tracer to study carbon dioxide (CO) exchange between the
+atmosphere, biosphere, and ocean. Natural atmospheric , results from natural
+nuclear reactions between cosmic ray neutrons and atmospheric nitrogen. The natural equilibrium
+between the production and disintegration of C (half-life of 5,730 &#177; 40 yrs) determines in part the
+existing natural background radiocarbon levels. The nuclear tests in the atmosphere , with a total
+strength of 430 megaton (TNT equivalent) in the period from 1945 to 1980, added dramatically to
+the presence of atmospheric C (Nydal and L&#246;vseth 1983, 1996). About two thirds of this yield was
+released by the Soviet Union in the stratosphere at high northern latitudes (e.g., Novaya Zemlya in
+the former Soviet Union) in 1961 and 1962. A Test Ban Treaty, signed by the USA, the Soviet
+Union and Great Britain on August 5, 1963 ended atmospheric testing for these nations. France and
+China continued, however, with smaller fission bombs. France performed the last atmospheric test
+in September, 1974, and China in October, 1980 (Norris and Arkin 1994). Nuclear power reactors
+are another source, although minor (depending on the efficiency of the filtering system), of
+atmospheric C (Nydal et al. 1980). From 1962 through 1994, the Norwegian Radiological Dating
+Laboratory, under Dr. Reidar Nydal, conducted regular measurements of C in the atmosphere at
+ground level; in the lower stratosphere and in high altitudes using aircraft; and in the surface waters
+of the various oceans using research ships and ships of opportunity. Final results of the atmospheric
+measurements have been documented and archived at the Carbon Dioxide Information Analysis
+Center (CDIAC) at Oak Ridge National Laboratory (Nydal and L&#246;vseth 1996). The previously
+published ocean data through 1981 (Nydal et al. 1979, Nydal et al. 1980, Nydal et al. 1984) have
+been updated and corrected for radioactive decay. The final version with data through 1994 is
+documented in this database (NDP-057A).
+C was performed from cargo ships on their regular
+routes and from Norwegian research vessels. The Norwegian shipping companies Fred Olsen and
+Wilh. Wilhelmsen collected the samples on their ordinary routes through the Atlantic, Pacific and
+Indian Oceans. From 1965 until 1976 there were a large number of possible routes; about six ships
+were involved in the sampling. The sampling was shared between the two shipping companies in
+order to cover the main part of the world ocean surface between 45&amp;#176 N and 45&amp;#176 S. The ships crossed
+the Atlantic Ocean from Europe to North and South America, went along the African coast, passed
+through the Panama Canal to the Pacific Ocean to New Zealand, Australia, and Japan and returned
+either over the Indian Ocean and around the Cape of Africa or through the Suez Canal. Ships also
+sailed in the opposite direction, over the Indian Ocean to Australia before crossing the Pacific Ocean
+to Panama (Fig. 1).
+ Big changes occurred in the shipping routes after 1973. A few ships were then selected to
+cover most of the earlier established sampling locations. After 1986 sampling was reduced to only
+one ship from the Wilh. Wilhemsen line. That ship (the M/S ) was able to cover some of
+the previous sampling locations. Its main route led from Europe, across the Atlantic Ocean to
+Panama, across the Pacific to New Zealand and Australia, and north to Japan before returning
+through the North Pacific and Atlantic Ocean. Special cruises by Norwegian research vessels, the
+M/S , sampled the Nordic Seas from 1965
+to 1967 and 1990 to 1992; the R/V sampled the Atlantic Ocean during a round-trip research
+cruise to Antarctica from 1989 to 1990. Table 1 provides an overview of when the particular ships
+were involved in sampling.
+ Samples taken through 1994 have been processed for this database. From all ships, a total
+of 950 observations were made from 1965-1994; of these a total of 871 observations of C have
+been corrected for fractionation and radioactive decay (see Sections 14 and 15).
+C is a carbon isotope found in the biosphere, atmosphere and hydrosphere. Unlike
+the radio-isotope C during photosynthesis,
+resulting in lower C
+values are deviations of the C ratio relative to the Pee Dee Belemite (PDB) (Pee Dee River,
+South Carolina, Craig 1961) standard. The isotopic fractionation caused by net photosynthesis
+causes increased atmospheric &amp;delta;C values for the biosphere and atmosphere of about -25
+and -7.5 
+in the ocean involves a relatively small fractionation (Ciais et al., 1995). Fossil-fuel combustion,
+based on C values in the
+atmosphere. Steady decreases over time in &amp;delta;C values have been measured in the atmosphere,
+oceans and ice-cores. Ciais et al. (1995) attempted to calculate the global partioning of CO between
+the oceans and land, based on the atmospheric C ratio, as did others (Siegenthaler and M&#252;nnich
+1981; Siegenthaler and Oescher 1987; Quay et al. 1992) 
+N. Fossil-fuel combustion
+has thus resulted in reduced atmospheric and oceanic C values are deviations from
+the C ratio relative to the National Institute of Standard Technology (NIST) oxalic acid
+standard, that are not yet corrected for radioactive decay. Nydal et al. measured C such that
+the &amp;delta;C values could be corrected for
+isotopic mass fractionation and for radioactive decay (see Section 6). Nydal considers the &amp;delta;C
+values in this database appropriate for the correction of the C measurements, but did not consider
+them representative of true ocean bicarbonate levels. In principal, changes both in &amp;delta;C
+values can be used as tracers of CO fate over time (Nydal and L&#246;vseth 1965; Nydal 1968; Nydal et
+al. 1980; Nydal and L&#246;vseth 1983). Temperature, salinity, and sampling depth were measured for
+almost all sampling locations. Those data are incorporated in this database; they may aid in the
+interpretation of the variability of the radiocarbon data.
+ In contrast to planned research cruises, locations for sampling with commercial ships were
+dependent on shipping routes (Fig. 1). In addition, weather situations caused changes in the routes
+throughout the year, making it difficult to return to the same position during subsequent cruises.
+After some time 'stations' (Table 2) were defined, containing one to any number of samples taken over
+time within a few degrees latitude and longitude (Nydal et al. 1984). Because of a large number of
+additional samples presented in this report, compared to the 1984 publication, it has been necessary
+to make slight changes to the earlier arrangement of the stations (compare Appendix B, and Table
+7). Station size was probably not critical in the open ocean, but closer to the continents (e.g., West
+Africa) even small changes in the location may have had great influence on the 
+ At the beginning of the project, the sampling locations were chosen more or less arbitrarily
+at intervals of several degrees in order to cover the main ocean surface. Some of the sampling
+locations were not revisited after a short time, often due to changes in the shipping routes, but also
+in favor of more interesting locations. In some cases it was possible to establish stations where
+sampling was repeated during several years in each of the three oceans.
+ Various cargo ships (listed in Table 1) were involved in the collection of samples. Two ships,
+the M/S from the Fred Olsen Company covered most of the Atlantic
+for 10 years (1966-1972). Several ships (the M/S , M/S
+) from
+the Fred Olsen Company and from Wilh. Wilhelmsen (Barber International) covered parts of the
+Atlantic, Pacific and Indian Ocean during the same period. From 1966 until 1976 the seawater
+collected (in 200-liter barrels) was transported to the laboratory for further processing after two to
+four months of storage. The running sample identification numbers SV1-SV286 were assigned to
+the samples from this period. After the reorganization of the sampling program in 1976 it was found
+more convenient to have the sample numbers connected to each ship (M/S Barber
+T&amp;oslash;nsberg
+collection was performed by the staff (the chief) on board the ships (see Section 6). 
+ The Atlantic Ocean was covered with 30 stations (S01-S28, S07B, and S11B) from the
+Barentz Sea (74&amp;#176 N) to the South Atlantic (35&amp;#176 S). One of the sampling stations is located in the
+Mediterranean Sea (Station 14). Measurements from these 30 stations were complemented with
+measurements from a special sampling series on an Antarctic cruise by the Norwegian research vessel
+ (An0), sailing between 1989 and 1990. Thirty-two samples were collected on that cruise
+in the region from 45&amp;#176 03' N, 8&amp;#176 W to 73&amp;#176 58' S, 56&amp;#176 W (see also Nydal and Gislefoss 1996). Twenty-two of these samples are listed under Station An0; the other ten sampling locations were added to
+the appropriate Atlantic Ocean stations, namely, A-00001# and A-00001(2) to Station 7, A-00002
+and A-00002(2) to Station 17, A-00003 and A-00003(2) to Station 19, A-00004 and A-00004(2) to
+Station 21, and A-00007 and A-00007(2) to Station 23 (see also Section 14); the remaining data are
+listed under Station An0. 
+ The locations for each Atlantic Ocean station, the number of samples, and the sampling
+periods are summarized in Table 2.
+No. of
+Samples
+In brief, the Atlantic component of this database offers one time series spanning 25 years
+(1966-1990) with 65 samples (S17) for the coast of Africa; 15-year time series between 1976 and
+1990 for S07, S20, S22, S25 and S27; 8-10 year time series for S11B, S09, and S07B; and an 8-year
+time series for the station in the Mediterranean Sea (Figs. A-1 thru A-10). Other station records are
+generally less than 8 years and are not plotted as individual time-series.
+The Indian Ocean component of this database contains measurements from 14 stations (S31-S45, S40 is listed under S43) mainly from the open ocean between 7&amp;#176 S and 45&amp;#176 S (Table 3). The
+samples were collected on cruises between Australia and the Cape of Africa or the Red Sea. All
+stations in the Indian Ocean were situated on the deep basins with depths greater than 3000 meters.
+No. of
+Samples
+The measurements in the Indian Ocean offer records spanning 12-15 years for stations S41
+and S43 and 8-10 years for stations S32, S34, S37, S39, and S44 (Figs. A-11 thru A-15). Records
+from other stations have shorter durations.
+The Pacific Ocean component of this database consists of 38 stations (S51-S88, S61 was
+combined with S60). These stations were located mainly between North America and Japan in the
+northern hemisphere, and between Panama and Australia in the southern hemisphere (Table 4).
+Normally, sample collection took place when crossing certain longitudes. The majority of the stations
+were located in calmer surface layer from 15&amp;#176 N to 35&amp;#176 N and 15&amp;#176 S to 35&amp;#176 S. Frequent changes in
+shipping routes, due to the weather changes between summer and winter, caused a scattering of the
+stations in the longitudinal direction.
+No. of
+Samples
+Measurements in the Pacific Ocean were less systematic than in the other oceans. Shipping
+route changes in the 1970s had great influence on the consistency of the measurements. Sampling
+was mainly performed in the periods 1966 to 1975 and 1983 to 1994. Station locations were mostly
+scattered in the first period, and the maximum length of any record was only 4-5 years (S52, S73,
+S77, S81, and S84). Greater sampling consistency was obtained in the second period, with records
+spanning 6-10 years at some stations (S53, S56, S58, S59, S63, S77, S81, S83, and S84) (Figs. A.16-A.24).
+6. SAMPLE COLLECTION, MEASUREMENT TECHNIQUES, AND CORRECTION
+CALCULATIONS
+ volume of about 5 liters was needed, for which
+about 200 liters of seawater had to be collected. The seawater was collected through the inlet of the
+ship's cooling system and stored in cleaned steel 200-liter barrels. Temperatures and sampling depths
+were recorded at the time of sample collection. The air in the 200-liter barrels was removed by
+nitrogen flushing before filling. Subsequent treatment of the samples changed with time. During the
+first 10 years (1965-1976) the barrels were stored aboard the ships during the cruises, and processed
+2-4 months later in the laboratory. After acidifying the seawater (to pH&lt;3) with concentrated sulfuric
+acid, the CO was flushed out with nitrogen and adsorbed in ammonia (later to 2% 0.75 L NaOH).
+Flushing times varied between one and two days, and in general a 5-6 liter volume of clean CO gas
+was obtained after further precipitation with CaCl and further treatment with
+HCl (later with H
+In 1976 the sampling program was revised to eliminate the long storage of seawater in the
+large barrels on board the ship and the subsequent transport to the laboratory. Between 1976 and
+1983 the flushing of CO was performed more systematically, i.e., the samples were flushed
+immediately after collection for 1.5 hours with 600 liters of pure nitrogen and adsorbed to 2% NaOH
+(0.75 L) on board the ship just after collection (Nydal et al. 1980, Nydal et al. 1984). Four to five
+liters of CO were still obtained. The revised procedure made it possible to collect and handle more
+samples on each cruise. When the samples (in NaOH solution) were received in the laboratory they
+were directly treated with acid in a vacuum system for further CO release. After 1983 the flushing
+of CO was again revised: a circulation pump on top of the barrel circulated excess nitrogen through
+the barrel resulting in a more complete extraction of CO
+C values (the deviation
+in the C ratio relative to the PDB standard) obtained during these measurements are relative
+values and are not representative of ocean bicarbonate values, mainly because of the storage
+(biological activity) of the seawater and the variable flushing procedures. Correct &amp;delta;C values for
+ocean bicarbonate can only be obtained after complete extraction of CO in a sample, and before any
+exchange between organic and dissolved inorganic carbon occurs. C measurements were the focus
+of the present work, and satisfactory precautions for representative &amp;delta;C measurements were not
+taken. When COC value is
+obtained. The large range (from positive to negative values) of &amp;delta;C values can thus be explained.
+Most of the &amp;delta;C values for 1965-1976 ranged between 0 and 3 per mille
+() and were fairly close
+to actual ocean bicarbonate values. There are, however, also some highly variable results with
+extreme values above 20 . In the latter cases it can be assumed that leakage in the flushing system
+had occurred and that the result was enriched C values
+(after correction) were affected because of excess pressure in the flushing system. After 1976 and
+up to 1983 a less complete flushing (reduced time) on board the ship resulted in general in negative
+&amp;delta;C from the normal ocean value
+varied, depending on how complete CO was extracted from the seawater. After 1983, the
+circulation pump proved to result in more complete extraction of the COC values showed
+more typical ocean bicarbonate values.
+ proportional counters with gas volumes of 1-2
+L under 2 atm pressure, similar to the atmospheric CO measurements (Nydal et al. 1983, Nydal et
+al. 1984, Nydal and L&#246;vseth 1996). Until 1976 the samples were measured with an accuracy of about
+10 ),
+counting times were increased upwards to 4 days.
+C ratio
+ relative to a standard) were calculated as per mille excess above the normal C level defined by the
+US NIST oxalic acid standard. The ocean C, which is the
+relative deviation of the measured C activity from the NIST oxalic acid standard activity, after
+correction for isotopic mass fractionation and radioactive decay related to age (Stuiver and Polach
+1977). &amp;Delta;C is expressed in per mille (not as a percentage) and calculated using the following two
+steps:
+C
+represents the uncorrected (for decay) C represents the
+ deviation in the C ratio was measured by mass
+spectrometry. The &amp;delta;C values, by themselves, represent data that are highly influenced by
+fractionation in the flushing process. In the earlier presentation of the C data from the Radiological
+Dating Laboratory only step 1 was used, and the decay of the NIST C reference standard after 1950
+was not taken into account (Nydal et al. 1983). Applying the approximate formula in step 2, where
+ is 1/8267 years (T/ln2 where T is the 5730 year half-life of is the year of sampling, this
+small decay (2-5 per mille) has now been applied to all the 
+ Negative values were occasionally obtained in the Arctic and Antarctic (Figs. 2, 3, and 4).
+These values can be explained by the more rapid vertical exchange of deep water in the Arctic and
+Antarctic. Before the nuclear bomb testing all values in the ocean were negative due to the mean age
+of the ocean carbon being ca. 500 years.
+. The seawater temperature was measured where the samples were taken using
+an automatic recorder at the inlet of the ship's water-cooling system. The accuracy of this
+temperature-recorder was generally better than 0.5C. Control measurements of the temperature
+were also performed with a thermometer in the barrel at the end of the filling process.
+ Normally, one liter of seawater was put aside for salinity measurements from each
+sample. Salinity measurements were performed at 22.5C with an Inductor Salinometer at the
+Marine Biological Station in Trondheim. The salinity measure is presented here in units of the
+practical salinity scale (pss) following the National and International Ocean Organizations' directives.
+This scale is defined as a conductivity ratio without unit. This salinity standard is in agreement with
+previously published salinity numbers given in per mille units. The limit of error (1&#160;sigma=0.003 pss)
+in each case is certainly small compared to the error associated with the storage of the samples. The
+samples collected before 1976 were often stored several years before measurements. Some extreme
+deviations in salinity may be due to bottle leaks during storage. After 1976 the salinity measurements
+became more regular, but storage time was often still longer than 3 to 4 months. In spite of the
+relatively poor quality of the salinity measurements, they still offer some information about the
+stability of the water masses in the open ocean and along the continents. The measurements are
+especially important for revealing the intrusion of freshwater from rivers (e.g., at the coast of
+Argentina and at Washington, USA).
+ Depth values are equivalent to the depth of the inlet on the ship's water-cooling
+system where the 200-liter samples were collected. Depth values ranged between 2.5 and 11 meters.
+Sample LA2-0002A from Station 2 has a depth of 50 m because the surface sample had been lost.
+That sample belongs to a C
+all the way down to the sea bottom.
+ For a further discussion of the sampling methods and each sampling site, please see the reprint
+of Nydal et al. (1984) in Appendix B. 
+C measurements documented in this NDP-057A and the
+atmospheric C data sets, can lead
+to a greater understanding of the dynamic carbon reservoir and lead to a crude picture of carbon
+fluxes at different geographical latitudes. The database is outstanding for its inclusion of early C
+measurements, broad spatial coverage of sampling, relative consistency of sampling method, and &amp;Delta;C
+calculation results corrected for isotopic fractionation and radioactive decay. This ocean C database
+replaces previous versions published by the authors and the Norwegian Radiological Dating
+Laboratory. Given the long period-of-record, the ocean surface water C data may be compared to
+the data obtained from more recent oceanographic cruises including the World Ocean Circulation
+Experiment (WOCE), Joint Global Ocean Flux Study (JGOFS), Transient Tracers in the Ocean
+program (TTO), South Atlantic Ventilation Experiment (SAVE), and the older Geochemical Ocean
+Sections Study (GEOSECS).
+C, temperature and salinity data from those stations sampled multiple times over the 1965
+to 1994 period were plotted (Figs. A.1-A.26) as mentioned before. As a brief overview of all data,
+we also plotted all &amp;Delta;C values, temperatures, and salinities vs time and vs latitude (Figs.
+2-9). Figure 2 includes the atmospheric &amp;Delta;C
+data obtained from GEOSECS (&#214;stlund and Stuiver, 1988, NDP-027), and &amp;Delta;C data from the
+WOCE section P17C in the equatorial Pacific Ocean (Goyet et al. 1997, NDP-062). Analogous to
+the atmospheric &amp;Delta;C data, but not to the same degree do we find, with time, a decline in the surface
+water &amp;Delta;C values indicating the slow mixing of the surface ocean water with the deeper layers. The
+scatter in the ocean surface &amp;Delta;C data is largely due to the fact that the data plotted are from a large
+variety of locations, differing in upwelling aspects, temperature, salinity, latitude, etc. Figures 3 and
+4 show only the NDP-057A ocean water surface &amp;Delta;C data with ocean-specific symbols plotted vs
+time and vs latitude, respectively. The &amp;Delta;C latitudinal plot shows clearly that lower values were
+measured around the equator caused by upwelling of deeper, older ocean waters around the equator
+(see also Stuiver and &#214;stland, 1983). Near the Antarctic, deep mixing with cold centuries-old water
+that lacks C values. Figure 5 shows the oceanic (this NDP057A) and
+atmospheric (NDP057) &amp;delta;C values in the previous section
+(pp. 11 and 12) explains the ocean &amp;delta;C values in Figure 5, i.e., the effects of the changes in flushing
+times. Figures 6 through 9 plot temperature and salinity vs time and vs latitude. The latitudinal
+temperature plot shows an expected pattern of warm temperatures between 23&amp;#176 N and 23&amp;#176 S. The
+highest salinity values are found in the North Atlantic Ocean in the early 1980s.
+C results from the
+various sample treatments. Some have questioned the long storage time of the large seawater barrels
+(Nydal et al. 1979) even though it was difficult to understand how errors could arise in C data in
+ways other than through leakage. An experiment was performed using a series of nine pairs of
+samples. Nine samples were processed immediately after collection on board the ship, and the other
+nine were stored for a few weeks or months (Nydal et al. 1980, Nydal et al. 1984) for later
+processing. Only in one case out of nine was a difference of 4 sigma observed in C (TR-00039A
+and TR-00039B at station 20), but this may not necessarily be due to storage.
+ Effects of sampling techniques changes are considered
+negligible by Dr. Nydal (Nydal et al. 1979), given the tests performed on storage time.
+C values cannot be considered representative of true ocean carbonate values
+because flushing times affect the fractionation during the CO extraction and the completeness of the
+COC ratios are only useful for the fractionation correction
+of the C ratios were not measured the ratio was calculated as a mean value
+from neighboring data; this then was indicated by a flag '*' for a total of 35 observations (see also
+Section 13)
+ The accuracy of the measurements recorded by the temperature-recorder was,
+in general, better than 0.5 C.
+ Storage time might well have affected salinity values, especially before 1976 due
+to bottle leaks. The samples obtained before 1976 were stored until 1976 in glass bottles. The values
+can however be considered important for the evaluation of the stability of the water masses in the
+open ocean and along the continents, and for revealing the intrusion of fresh water from rivers. 
+ The depth values were determined by the location of the inlet to the ship's water-cooling system relative to the water surface. One sample, sample LA2-0002A from Station 2, was
+taken from 50 m depth.
+C constraint on the uptake of fossil fuel
+CO
+ Ciais, P., P. Tans, J.W.C. White, M. Trolier, R.J. Francey, J.A. Berry, D.R. Randall, P.J. Sellers, J.G.
+Gollatz, and D.S. Schimel. 1995. Partitioning of ocean and land uptake of COC
+measurements from the NOAA Climate Monitoring and Diagnostics Laboratory Global Air
+Sampling Network. 
+ Goyet, C., R.M. Key, K.F. Sullivan, and M. Tsuchya. 1997. Carbon dioxide, hydrographic, and
+chemical data obtained during the R/V cruise TUNES-1 in the equatorial
+Pacific Ocean (WOCE section P17C). A. Kozyr, ed. Carbon Dioxide Information Analysis
+Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee, U.S.A. ORNL/CDIAC-99 NDP-062.
+Bulletin of
+the atomic scientists
+ 206:
+1029-31.
+Journal of
+Geophysical Research
+ Nydal, R., K. L&#246;vseth, and S. Gulliksen, 1979. A survey of radiocarbon variation in nature since the
+Test Ban Treaty. in Berger, R. and Suess H.E., eds. .
+Berkeley, University of California Press. pp. 313-23.
+C to the ocean surface.
+ Journal of
+Geophysical Research
+C in the ocean surface,
+1966-1981.
+Trends in
+Geophysical Research
+ from northern and
+southern hemisphere sites, 1962-1994. V. Zumbrunn and T.A. Boden, eds. Carbon Dioxide
+Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee, U.S.A.
+ORNL/CDIAC-93 NDP-057.
+C in the atmosphere and ocean.
+ &#214;stlund, H.G., R. Oleson, and R. Brescher. 1980. GEOSECS Indian Ocean radiocarbon and tritium
+measurements (Miami). Tritium Laboratory Data Report #9, Rosenstiel School of Marine and
+Atmospheric Science, University of Miami. 
+ &#214;stlund, H.G. and M. Stuiver. 1988. GEOSECS Atlantic, Pacific, Indian, and Mediterranean
+radiocarbon data. T.A. Boden, ed. Carbon Dioxide Information Analysis Center, Oak Ridge
+National Laboratory, Oak Ridge, Tennessee, U.S.A. ORNL/ESD NDP-027.
+: Carbon-13
+Evidence. 
+New Zealand
+Jour. Sci
+ transfer from air to sea.
+ emissions during the past 200 years
+reconstructed by deconvolution of ice core data. 
+10. DATA PROCESSING ACTIVITIES AND QUALITY ASSURANCE CHECKS
+PERFORMED BY CDIAC
+ CDIAC is committed to the quality assurance (QA) of data before distribution. In order to
+provide scientists and researchers with high-quality data, CDIAC reviews the data it receives for
+consistent formatting, completeness, reasonableness, and accuracy. Each review involves
+programming that is specific to each data set. 
+C ocean database as 82 separate files on a floppy disk from Dr. Reidar
+Nydal. CDIAC staff edited and created one ASCII data file for all data. A working copy of the file
+was created and processed in the following ways:
+1. All original ASCII files were reformatted into a consistent format and combined into a single file
+with data from all sites.
+ and FORTRAN 77 codes were written and are available to the user for reading the
+ASCII data file.
+1. The final data file was checked to ensure formatting consistency and to confirm the presence of
+missing data entries.
+C data, depth, salinity and
+temperature were calculated and assessed for each site.
+5. Any inconsistencies or suspect measurements were reported to and addressed by the investigator
+before the data set was released.
+C ocean surface water data previously documented by CDIAC (Goyet et al., 1997, &#214;stlund
+and Stuiver, 1988) were included in one plot for comparison.
+C database is available in machine-readable form from
+CDIAC without charge. The database may be retrieved from CDIAC's anonymous File Transfer
+Protocol (FTP) site, by using the address, login instructions, and FTP commands listed below. In
+addition, the database is available on 8-mm tape or IBM- or Macintosh-formatted floppy diskettes.
+ This documentation is available only from CDIAC. Electronic versions of the documentation
+are available via the World Wide Web from CDIAC's home page (http://cdiac.ess-dive.lbl.gov).
+Requests for printed copies of the documentation should be addressed to
+ The tape, diskette and documentation may also be ordered by telephone, facsimile, or
+electronic mail:
+ As an alternative, one may access the following World Wide Web URL:
+ acknowledge
+the principal investigator, 
+C database
+that are distributed by CDIAC along with this documentation. The files are available on a variety of
+media (see Sect. 11, "How To Obtain the Data and Documentation"). 
+C,
+sampling depth, salinity and temperature estimates from 950 ocean
+surface water samples.
+: FORTRAN 77 code to read and print the file containing
+the data.
+ data retrieval code to read and print the file
+containing the data.
+C,
+and , depths of measurements, salinity, and temperature. Samples
+were obtained from the North Atlantic to the Antarctic collectively from the R/V cruise and
+from 82 stations located in the Atlantic, Indian and Pacific oceans. The period of record differs from
+station to station. The earliest measurements were made in 1965, and the latest estimates are from
+1994. Missing values are indicated by -999.9 values. 
+ LABREF is a seven-to-nine character site code and sample reference number (e.g., SV-00034).
+The 5-digit sample reference number follows the site code and is separated from the
+site code by a minus sign (i.e., "-"). All sample reference numbers are unique. The
+ship codes and the range of sample reference numbers and total number of samples
+from each site were listed in Table 1. The complete listing of the observations can be
+found in Section 14. A symbol "#" was added to the sample reference number for a
+few sample numbers that were collected outside the main station location. Samples
+marked "A" and "B" are from the same collection, where one sample was processed
+immediately after collection and the other some weeks later. The addition "(2)" was
+added to indicate the sampling aboard the R/V on its return from Antarctica;
+these samples are not duplicates but were, in general, collected close to the locations
+for the sample series collected on the way down to Antarctica. At Station 45 sample
+TR-00099II the "II" label was added to distinguish this sample from a sample at
+Station 42 with the same number, now labeled TR-00099I. 
+ WEEK is the week of sampling relative to the first week of 1963. Values range from 151 to
+1645. 
+ SAMDAT is a six-character field that represents the year (since 1900), month, and day of the
+sampling (yy/mm/dd). Values range from 651115 to 940707.
+ LAT is the latitudinal sampling location in decimal degrees. Northern hemisphere locations
+have positive values; southern hemisphere locations have negative values. Values
+range from -74.65 degrees to 80.52 degrees.
+ LONG is the longitudinal sampling location in decimal degrees. Eastern hemisphere
+locations have positive values; western hemisphere locations have negative
+values. Values range from -180.00 degrees to 180.00 degrees.
+ DEPTH is the sampling depth in meters. Values range from 2.5 to 11 meters. At Station 2
+sample LA2-0002A has the correct depth of 50 m; a deep sample was used because
+the surface sample was lost. At a number of stations the depth was reported as 5-10
+m.
+ SALIN is the measured salinity. The quality of the salinity measurements is described in
+Section 8. Values range from 29.55 to 38.99 pss.
+ TEMP is the measured temperature (see Section 8). Values range from -1.2 to +30.5
+degrees Celsius.
+expressed as &amp;delta;) relative to the US National Institute of Standards
+and Technology (NIST, formerly the National Bureau of Standards) oxalic acid
+standard. Ninety-five % of the C concentration in this standard represents the
+normal activity in recent wood for the year 1950 A.D. Values for DC14 range from
+-61.0 to 352.0 
+) relative
+to the PDB standard (Craig 1961). The C ratio was measured by mass
+spectrometry. The &amp;delta;C values provided are given as a guide for the calculation of the
+corrected &amp;Delta;
+ FLAG13 is a one-character flag code "*" used to denote whether the DC13 is estimated as a
+mean value from neighboring data. There are 35 occurrences of this flag code.
+C is corrected for isotopic
+fractionation using &amp;delta;C
+reference standard (NIST). Values range from -113.3 to 280.9 
+) to read and echo
+print the data file.
+) written to read and calculate
+the means from the data file.
+15.
+VERIFICATION OF DATA TRANSPORT
+ data retrieval
+programs provided. To verify that the data have been correctly transported to their systems, users
+should generate some or all of the statistics presented in Table 8. The table presents simple summary
+statistics for the file that contains data from all sites (i.e., file ). If the statistics generated
+by the user differ from those presented here, the data file may have been corrupted in transport.
+These statistics are presented only as a tool to ensure proper reading of the data file. They are not
+to be construed as summaries of the data set.
+Table 8. Characteristics of numeric variables in the file containing data from all sampling
+locations.
+ FOR DIFFERENT SAMPLING
+LOCATIONS
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature
+data, salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data,
+salinity data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.
+C measurements, temperature data, salinity
+data over time.]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp057a/ndp057a.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp057a/ndp057a.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980301]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980301]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp057a/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[161KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Alex Kozyr; email: kozyra@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ In the 1960s, thermonuclear bomb tests released significant pulses of radioactive carbon-14 (14C) into the atmosphere. These major perturbations allowed scientists to study the dynamics of the global carbon cycle by calculating rates of isotopic exchange between the atmosphere and ocean waters. The Radiological Dating Laboratory at the Norwegian Institute of Technology performed 14C measurements of atmospheric CO2 from 1962 to 1993 at a network of ground stations in the northern and southern hemispheres; in addition it performed 14C measurements at high-altitude (between 9-12.6 km) during 1965 (Nydal and L&#195;&#131;&#194;&#182;vseth, 1983, 1996). The Norwegian Radiological Dating Laboratory performed similar measurements on seawater samples collected at the ocean surface from 1965 through 1994. The resulting 14C ocean surface water database is documented here and is available from the Carbon Dioxide Information Analysis Center (CDIAC) as NDP-057A, free of charge.
+<br><br>
+ The data from NDP-057A, coupled with other 14C data sets, can lead to a greater understanding of the dynamic carbon reservoir and lead to a crude picture of anomalous sources and sinks at different geographical latitudes. The database is outstanding for its inclusion of early 14C measurements, broad spatial coverage of sampling, relative consistency of sampling methods, and delta 14C calculation results corrected for isotopic fractionation and radioactive decay. This database replaces previous versions published by the author and the Radiological Dating Laboratory. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

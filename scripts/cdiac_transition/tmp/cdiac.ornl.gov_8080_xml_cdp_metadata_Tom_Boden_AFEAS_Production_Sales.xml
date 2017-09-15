@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Fisher, D. A.]]></origin>
+        <origin><![CDATA[Smythe, K. D.]]></origin>
+        <title><![CDATA[Production, Sales and Atmospheric Release of Fluorocarbons (AFEAS)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://www.afeas.org/prodsales_download.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Production, Sales and Atmospheric Release of Fluorocarbons (AFEAS)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19310101]]></begdate>
+          <enddate><![CDATA[20021231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[CFC-11]]></themekey>
+        <themekey><![CDATA[CFC-12]]></themekey>
+        <themekey><![CDATA[CFC-113]]></themekey>
+        <themekey><![CDATA[CFC-114]]></themekey>
+        <themekey><![CDATA[CFC-115]]></themekey>
+        <themekey><![CDATA[HCFC-22]]></themekey>
+        <themekey><![CDATA[HCFC-142B]]></themekey>
+        <themekey><![CDATA[HCFC-141B]]></themekey>
+        <themekey><![CDATA[HFC-134A]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050809 153724</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 153724 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[CFC-11]]></Keywords>
+    <Keywords><![CDATA[CFC-12]]></Keywords>
+    <Keywords><![CDATA[CFC-113]]></Keywords>
+    <Keywords><![CDATA[CFC-114]]></Keywords>
+    <Keywords><![CDATA[CFC-115]]></Keywords>
+    <Keywords><![CDATA[HCFC-22]]></Keywords>
+    <Keywords><![CDATA[HCFC-142B]]></Keywords>
+    <Keywords><![CDATA[HCFC-141B]]></Keywords>
+    <Keywords><![CDATA[HFC-134A]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 153724 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[AFEAS]]></Product_number>
+      <Product_title><![CDATA[Production, Sales and Atmospheric Release of Fluorocarbons (AFEAS)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Fisher, D. A.]]></Name>
+        <Company><![CDATA[E. I. Du Pont De Nemours &amp; Company (Inc.)]]></Company>
+        <Organization><![CDATA[Central Research &amp; Development Dept.]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Smythe, K. D.]]></Name>
+        <Company><![CDATA[Alternative Flourocarbons Environmental Acceptability Study]]></Company>
+        <Organization><![CDATA[AFEAS Program Administrator]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Production, Sales and Atmospheric Release of Flourocarbons]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Argentina]]></Site_name>
+        <Site_URL><![CDATA[http://www.afeas.org/]]></Site_URL>
+        <Site_data_file><![CDATA[http://www.afeas.org/prodsales_download.html]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Australia]]></Site_name>
+        <Site_URL><![CDATA[http://www.afeas.org/]]></Site_URL>
+        <Site_data_file><![CDATA[http://www.afeas.org/prodsales_download.html]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Brazil]]></Site_name>
+        <Site_URL><![CDATA[http://www.afeas.org/]]></Site_URL>
+        <Site_data_file><![CDATA[http://www.afeas.org/prodsales_download.html]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Canada]]></Site_name>
+        <Site_URL><![CDATA[http://www.afeas.org/]]></Site_URL>
+        <Site_data_file><![CDATA[http://www.afeas.org/prodsales_download.html]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[European Union]]></Site_name>
+        <Site_URL><![CDATA[http://www.afeas.org/]]></Site_URL>
+        <Site_data_file><![CDATA[http://www.afeas.org/prodsales_download.html]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Japan]]></Site_name>
+        <Site_URL><![CDATA[http://www.afeas.org/]]></Site_URL>
+        <Site_data_file><![CDATA[http://www.afeas.org/prodsales_download.html]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mexico]]></Site_name>
+        <Site_URL><![CDATA[http://www.afeas.org/]]></Site_URL>
+        <Site_data_file><![CDATA[http://www.afeas.org/prodsales_download.html]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[United States]]></Site_name>
+        <Site_URL><![CDATA[http://www.afeas.org/]]></Site_URL>
+        <Site_data_file><![CDATA[http://www.afeas.org/prodsales_download.html]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Venezuela]]></Site_name>
+        <Site_URL><![CDATA[http://www.afeas.org/]]></Site_URL>
+        <Site_data_file><![CDATA[http://www.afeas.org/prodsales_download.html]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[CFC-11]]></Variable>
+      <Variable><![CDATA[CFC-12]]></Variable>
+      <Variable><![CDATA[CFC-113]]></Variable>
+      <Variable><![CDATA[CFC-114]]></Variable>
+      <Variable><![CDATA[CFC-115]]></Variable>
+      <Variable><![CDATA[HCFC-22]]></Variable>
+      <Variable><![CDATA[HCFC-142B]]></Variable>
+      <Variable><![CDATA[HCFC-141B]]></Variable>
+      <Variable><![CDATA[HFC-134A]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Production (Metric Tons)]]></Variable>
+      <Variable><![CDATA[Chemical]]></Variable>
+      <Variable><![CDATA[Total Cumulative Production]]></Variable>
+      <Variable><![CDATA[Estimated Error]]></Variable>
+      <Variable><![CDATA[Refrigeration &amp; Air Conditioning]]></Variable>
+      <Variable><![CDATA[Blowing Agent Closed Cell Foam]]></Variable>
+      <Variable><![CDATA[Blowing Agent Open Cell Foam]]></Variable>
+      <Variable><![CDATA[Aerosol Propellant]]></Variable>
+      <Variable><![CDATA[All Other Uses]]></Variable>
+      <Variable><![CDATA[Total Sales]]></Variable>
+      <Variable><![CDATA[Region (Norther, Southern)]]></Variable>
+      <Variable><![CDATA[Annual: Year]]></Variable>
+      <Variable><![CDATA[Annual: Production]]></Variable>
+      <Variable><![CDATA[Annual: Released]]></Variable>
+      <Variable><![CDATA[Total: Production]]></Variable>
+      <Variable><![CDATA[Total: Released]]></Variable>
+      <Variable><![CDATA[Total: Unreleased]]></Variable>
+      <Variable><![CDATA[Refrigeration Hermetically Sealed: Sales]]></Variable>
+      <Variable><![CDATA[Refrigeration Hermetically Sealed: Released]]></Variable>
+      <Variable><![CDATA[Refrigeration Hermetically Sealed: Unreleased]]></Variable>
+      <Variable><![CDATA[Refrigeration Non-Hermetically: Sales]]></Variable>
+      <Variable><![CDATA[Refrigeration Non-Hermetically: Released]]></Variable>
+      <Variable><![CDATA[Refrigeration Non-Hermetically: Unreleased]]></Variable>
+      <Variable><![CDATA[Lifetime(short and long)]]></Variable>
+      <Descriptive_file><![CDATA[http://www.afeas.org/]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19940101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19970101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://www.afeas.org/prodsales_download.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[Since 1976, the chemical industry has voluntarily reported the production and sales of fluorocarbons through a survey compiled by an independent accountant, Grant Thornton LLP. The purpose of the survey is to provide the scientific community with data estimating atmospheric release of CFCs and the alternative fluorocarbons. Data are available through 2002 for CFCs 11, 12, 113, 114 and 115; HCFCs 22, 124, 141b and 142b; and HFC-134a. For the first time, historical data on HFC-125 and HFC-143a have been compiled and reported.
+<br><br>
+The full set of production, sales and emissions data can be downloaded from the AFEAS web site at http://www.afeas.org/prodsales_download.html. Annual production and sales data for each of the 12 compounds are presented. Sales are divided into use categories -- such as refrigeration, foam blowing, aerosols, solvents, and other uses -- to the best knowledge of the producers. Some degree of geographical breakdown is also provided but the AFEAS survey does not distinguish between Article 5 (developing) countries and non-Article 5 (developed) countries. An estimate of atmospheric releases (emissions) of the individual fluorocarbons is also available.
+<br><br>
+AFEAS Member Companies:  AlliedSignal, Inc. (USA), Asahi Glass Co. Ltd. (Japan), Ausimont S.p.A. (Italy), Daikin Industries, Ltd. (Japan), E.I. dupont de Nemours &amp; Co., Inc.  (USA), Elf Atochem S.A. (France), Hoechst AG (Germany), ICI Chemicals &amp; Polymers Ltd. (UK), LaRoche Industries Inc. (USA), Rhone-Poulenc Chemicals, Ltd. (UK), Solvay S.A. (Belgium).
+<br><br>
+AFEAS Administrative Organization:  Science &amp; Policy Services, Inc., West Tower - Suite 400, 1333 H Street NW, Washington, DC 20005 USA.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

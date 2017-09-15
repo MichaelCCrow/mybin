@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Gajewski, K.]]></origin>
+        <origin><![CDATA[Viau, A.]]></origin>
+        <origin><![CDATA[Sawada, M.]]></origin>
+        <origin><![CDATA[Atkinson, D.]]></origin>
+        <origin><![CDATA[Wilson, S.]]></origin>
+        <title><![CDATA[Sphagnum peatland distribution in North America and Eurasia during the past 21,000 years
+Area and Carbon Content of Sphagnum Since Last Glacial Maximum]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/Ecosystems/Gajewski.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/ecosystems/gajewski/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Sphagnum peatland distribution in North America and Eurasia during the past 21,000 years
+Area and Carbon Content of Sphagnum Since Last Glacial Maximum]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[21000 ybp]]></begdate>
+          <enddate><![CDATA[0 ybp]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Sphagnum]]></themekey>
+        <themekey><![CDATA[Peatland]]></themekey>
+        <themekey><![CDATA[North America]]></themekey>
+        <themekey><![CDATA[Europe]]></themekey>
+        <themekey><![CDATA[Asia]]></themekey>
+        <themekey><![CDATA[Eurasia]]></themekey>
+        <themekey><![CDATA[Carbon Dioxide]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090811 105858</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 095836 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Sphagnum]]></Keywords>
+    <Keywords><![CDATA[Peatland]]></Keywords>
+    <Keywords><![CDATA[North America]]></Keywords>
+    <Keywords><![CDATA[Europe]]></Keywords>
+    <Keywords><![CDATA[Asia]]></Keywords>
+    <Keywords><![CDATA[Eurasia]]></Keywords>
+    <Keywords><![CDATA[Carbon Dioxide]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+K. Gajewski, A. Viau, M. Sawada, D. Atkinson and S. Wilson
+Laboratory for Paleoclimatology and Climatology, Department of Geography,
+University of Ottawa,
+165 Waller Street, Ottawa,
+CITE AS: Gajewski, K., A. Viau, M. Sawada, D. Atkinson and S. Wilson. 2002. Area and Carbon Content of Sphagnum Since Last Glacial Maximum. In 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 095836 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Trends/Ecosystems/Gajewski.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/vrc.001]]></Product_number>
+      <Product_title><![CDATA[Sphagnum peatland distribution in North America and Eurasia during the past 21,000 years
+Area and Carbon Content of Sphagnum Since Last Glacial Maximum]]></Product_title>
+      <Author>
+        <Name><![CDATA[Gajewski, K.]]></Name>
+        <Company><![CDATA[University of Ottawa]]></Company>
+        <Organization><![CDATA[Laboratory for Paleoclimatology and Climatology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Viau, A.]]></Name>
+        <Company><![CDATA[University of Ottawa]]></Company>
+        <Organization><![CDATA[Laboratory for Paleoclimatology and Climatology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Sawada, M.]]></Name>
+        <Company><![CDATA[University of Ottawa]]></Company>
+        <Organization><![CDATA[Laboratory for Paleoclimatology and Climatology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Atkinson, D.]]></Name>
+        <Company><![CDATA[University of Ottawa]]></Company>
+        <Organization><![CDATA[Laboratory for Paleoclimatology and Climatology]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wilson, S.]]></Name>
+        <Company><![CDATA[University of Ottawa]]></Company>
+        <Organization><![CDATA[Laboratory for Paleoclimatology and Climatology]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation Response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Asia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/ecosystems/gajewski/gajewskidata.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/ecosystems/gajewski.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[North America]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/ecosystems/gajewski/gajewskidata.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/ecosystems/gajewski.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Europe]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/ecosystems/gajewski/gajewskidata.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/ecosystems/gajewski.gif]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Eurasia]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/ecosystems/gajewski/gajewskidata.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/ecosystems/gajewski.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[peatland carbon]]></Variable>
+      <Variable><![CDATA[peatland area]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/ecosystems/gajewski2.html&#239;&#187;&#191;
+K. Gajewski, A. Viau, M. Sawada, D. Atkinson and S. Wilson
+Laboratory for Paleoclimatology and Climatology, Department of Geography,
+University of Ottawa,
+165 Waller Street, Ottawa,
+CITE AS: Gajewski, K., A. Viau, M. Sawada, D. Atkinson and S. Wilson. 2002. Area and Carbon Content of Sphagnum Since Last Glacial Maximum. In 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20021001]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20021001]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/ecosystems/gajewski/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[1k]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ During the Wisconsin glaciation, there were apparently not large areas of peatland in North America, except in Alaska. High Sphagnum spore percentages were found in eastern North America during deglaciation. Major peatland development occurred in boreal North America after 9000 years BP and there was a southward movement of high Sphagnum spore abundance after 5000 years BP in the western Great Lakes region. Major peatland development began after 9000 years BP in Europe and Asia. On the basis of maps of the area supporting peatlands, carbon accumulation in peatlands is estimated to be low prior to 11000 years BP, increased slightly between 11000 and 5000 years BP, and greatly increased during the past 5000 years. Global total area of 23 x 106 km2 was achieved at 1000 years BP, and total carbon has increased to the current value of 455 Pg (1 petagram = 1015 grams) of carbon.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Wang, G.]]></origin>
+        <title><![CDATA[Daily Meteorological Data for 200 China Stations, 1951-1998]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/Daily_Meteoro_Data_for_200_China_Stations_1951-1998.xml]]></onlink>
+        <onlink><![CDATA[/arc2/d9k/cmadata/daily/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Daily Meteorological Data for 200 China Stations, 1951-1998]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19510101]]></begdate>
+          <enddate><![CDATA[19981231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[China Meteorological Administration]]></themekey>
+        <themekey><![CDATA[CMA]]></themekey>
+        <themekey><![CDATA[Daily]]></themekey>
+        <themekey><![CDATA[Meteorological]]></themekey>
+        <themekey><![CDATA[China]]></themekey>
+        <themekey><![CDATA[People's Republic of China]]></themekey>
+        <themekey><![CDATA[PRC]]></themekey>
+        <themekey><![CDATA[Stations]]></themekey>
+        <themekey><![CDATA[Maximum Temperature]]></themekey>
+        <themekey><![CDATA[Minimum Temperature]]></themekey>
+        <themekey><![CDATA[Temperature]]></themekey>
+        <themekey><![CDATA[Relative Humidity]]></themekey>
+        <themekey><![CDATA[Sunshine]]></themekey>
+        <themekey><![CDATA[Sunshine Duration]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20170606 173629</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 143831 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[China Meteorological Administration]]></Keywords>
+    <Keywords><![CDATA[CMA]]></Keywords>
+    <Keywords><![CDATA[Daily]]></Keywords>
+    <Keywords><![CDATA[Meteorological]]></Keywords>
+    <Keywords><![CDATA[China]]></Keywords>
+    <Keywords><![CDATA[People's Republic of China]]></Keywords>
+    <Keywords><![CDATA[PRC]]></Keywords>
+    <Keywords><![CDATA[Stations]]></Keywords>
+    <Keywords><![CDATA[Maximum Temperature]]></Keywords>
+    <Keywords><![CDATA[Minimum Temperature]]></Keywords>
+    <Keywords><![CDATA[Temperature]]></Keywords>
+    <Keywords><![CDATA[Relative Humidity]]></Keywords>
+    <Keywords><![CDATA[Sunshine]]></Keywords>
+    <Keywords><![CDATA[Sunshine Duration]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 143831 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/Daily_Meteoro_Data_for_200_China_Stations_1951-1998.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[CHINA_DAILY_MET]]></Product_number>
+      <Product_title><![CDATA[Daily Meteorological Data for 200 China Stations, 1951-1998]]></Product_title>
+      <Author>
+        <Name><![CDATA[Wang, G.]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[China Meteorological Administration (CMA)]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Clim_offline]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[People's Republic of China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/arc2/d9k/cmadata/daily/daily_invent_1998.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[/arc2/d9k/cmadata/daily/daily_1998.dat.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[WMO Station Number]]></Variable>
+      <Variable><![CDATA[Station Name]]></Variable>
+      <Variable><![CDATA[Station Latitude]]></Variable>
+      <Variable><![CDATA[Station Longitude]]></Variable>
+      <Variable><![CDATA[Station Elevation]]></Variable>
+      <Variable><![CDATA[Station Begin Date]]></Variable>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Month]]></Variable>
+      <Variable><![CDATA[Day]]></Variable>
+      <Variable><![CDATA[Maximum Temperature]]></Variable>
+      <Variable><![CDATA[Minimum Temperature]]></Variable>
+      <Variable><![CDATA[Minimum Relative Humidity]]></Variable>
+      <Variable><![CDATA[Sunshine Duration]]></Variable>
+      <Descriptive_file><![CDATA[/arc2/d9k/cmadata/daily/daily_doc.doc]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file><![CDATA[/arc2/d9k/cmadata/daily/recfmt.txt]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20050808]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20050808]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/arc2/d9k/cmadata/daily/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[100MB uncompressed, 28MB compressed]]></Total_size_of_all_files>
+      <Distribution><![CDATA[internal]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This dataset was made available by the China Meteorological Administration through a bilateral research agreement between the People's Republic of China and the U.S. Department of Energy.  It contains daily observations of several basic meteorological variables from 200 stations over China, collected over the period 1951-1998 (exact length of record varies according to station).  
+<br><br>
+The data provide good geographical coverage with the exception of some western regions of the PRC, such as large portions of the Tibetan Plateau.
+]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

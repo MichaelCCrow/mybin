@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Ciattaglia, L.]]></origin>
+        <origin><![CDATA[Chamard, P.]]></origin>
+        <title><![CDATA[Atmospheric CO2 record from flask measurements at Lampedusa Island ]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CO2 record from flask measurements at Lampedusa Island ]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19920601]]></begdate>
+          <enddate><![CDATA[19970731]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[12.617]]></westbc>
+        <eastbc><![CDATA[12.617]]></eastbc>
+        <northbc><![CDATA[35.517]]></northbc>
+        <southbc><![CDATA[35.517]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Atmospheric CO2 Concentrations]]></themekey>
+        <themekey><![CDATA[Atmospheric CO2 Mixing Ratios]]></themekey>
+        <themekey><![CDATA[Flask]]></themekey>
+        <themekey><![CDATA[Infrared Gas Analyzer]]></themekey>
+        <themekey><![CDATA[Ciattaglia]]></themekey>
+        <themekey><![CDATA[TRENDS-CO2]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120919 161505</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 094919 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Atmospheric CO2 Concentrations]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO2 Mixing Ratios]]></Keywords>
+    <Keywords><![CDATA[Flask]]></Keywords>
+    <Keywords><![CDATA[Infrared Gas Analyzer]]></Keywords>
+    <Keywords><![CDATA[Ciattaglia]]></Keywords>
+    <Keywords><![CDATA[TRENDS-CO2]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+Lampedusa Island
+Paolo Chamard, Luigi Ciattaglia, Alcide di Sarra, Francesco Monteleone
+ENEA, GEM-CLIM,
+Via Anguillarese 301,
+00060 S. Maria di Galeria
+Lampedusa Island
+Mediterranean Sea rocky island
+35&#176;31' N, 12&#176;37' E
+CITE AS: Chamard, P., L. Ciattaglia, A. di Sarra, and F. Monteleone. 2001. Atmospheric CO record from flask measurements at Lampedusa Island, in "Trends: A Compendium of Data on Global Change", Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 094919 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.022]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CO2 record from flask measurements at Lampedusa Island ]]></Product_title>
+      <Author>
+        <Name><![CDATA[Ciattaglia, L.]]></Name>
+        <Company><![CDATA[CNR/IFA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Chamard, P.]]></Name>
+        <Company><![CDATA[CNR/IFA]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Carbon Dioxide]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Lampedusa Island, Mediterranean Sea]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/lampis.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/lampedus.co2]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/graphics/lamp.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[ann]]></Variable>
+      <Variable><![CDATA[Apr]]></Variable>
+      <Variable><![CDATA[Aug]]></Variable>
+      <Variable><![CDATA[Dec]]></Variable>
+      <Variable><![CDATA[Feb]]></Variable>
+      <Variable><![CDATA[Jan]]></Variable>
+      <Variable><![CDATA[Jul]]></Variable>
+      <Variable><![CDATA[Jun]]></Variable>
+      <Variable><![CDATA[Mar]]></Variable>
+      <Variable><![CDATA[May]]></Variable>
+      <Variable><![CDATA[Nov]]></Variable>
+      <Variable><![CDATA[Oct]]></Variable>
+      <Variable><![CDATA[Sep]]></Variable>
+      <Variable><![CDATA[year]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/trends/co2/lampis.html &#187;&#160;
+Lampedusa Island
+Paolo Chamard, Luigi Ciattaglia, Alcide di Sarra, Francesco Monteleone
+ENEA, GEM-CLIM,
+Via Anguillarese 301,
+00060 S. Maria di Galeria
+Lampedusa Island
+Mediterranean Sea rocky island
+35&#176;31' N, 12&#176;37' E
+CITE AS: Chamard, P., L. Ciattaglia, A. di Sarra, and F. Monteleone. 2001. Atmospheric CO record from flask measurements at Lampedusa Island, in "Trends: A Compendium of Data on Global Change", Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19971027]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19971027]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  Lampedusa Station rests on a rocky seashore on the eastern tip of Lampedusa Island, located south of Sicily in the central Mediterranean Sea. Air samples at Lampedusa Station are collected each Friday in two pairs of 2-L glass flasks. Flasks are evacuated and then pressurized to 280-300 kPa with ambient air at the sampling site. Determinations of CO2 are made by using a Siemens Ultramat 5E nondispersive infrared gas analyzer. Water vapor is removed during the sampling process by means of a chemical trap (Magnesium Perchlorate). During the measurement, residual water vapor is removed by means of a cold trap at -70 degrees C. From the inception of the monitoring program at Lampedusa Station, CO2-in-synthetic air calibration gases have been used. Values are relative to the dry air WMO mole fraction scale.
+<br><br>
+On the basis of annual averages calculated from monthly averages, CO2 levels at Lampedusa Island have risen from 360.80 in 1993 to 371.27 in 2000. The data show an average trend of +1.5 ppmv/y. The record from Lampedusa Station exhibits a seasonal pattern with maximum values measured during late winter or spring and minimum values recorded during the northern summer. The average annual cycle has an amplitude of about 10 ppmv. In the period of investigation the annual growth rate varies between 0.5 and 4.0 ppmv/y, and the amplitude of the annual cycle between 7 and 11 ppmv.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

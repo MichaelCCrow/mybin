@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Stern, D. I.]]></origin>
+        <origin><![CDATA[Kaufmann, R. K.]]></origin>
+        <title><![CDATA[Annual Estimates of Global Anthropogenic Methane Emissions: 1860-1994]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/CH4_emis/Stern.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/trends/ch4_emis]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Annual Estimates of Global Anthropogenic Methane Emissions: 1860-1994]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18600101]]></begdate>
+          <enddate><![CDATA[19941231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Methane]]></themekey>
+        <themekey><![CDATA[CH4]]></themekey>
+        <themekey><![CDATA[Emissions]]></themekey>
+        <themekey><![CDATA[Flaring]]></themekey>
+        <themekey><![CDATA[Venting]]></themekey>
+        <themekey><![CDATA[Natural Gas]]></themekey>
+        <themekey><![CDATA[Oil]]></themekey>
+        <themekey><![CDATA[Coal Mining]]></themekey>
+        <themekey><![CDATA[Biomass Burning]]></themekey>
+        <themekey><![CDATA[Livestock]]></themekey>
+        <themekey><![CDATA[Rice]]></themekey>
+        <themekey><![CDATA[Landfills]]></themekey>
+        <themekey><![CDATA[TRENDS-EMISSIONS]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090707 154918</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 093334 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Methane]]></Keywords>
+    <Keywords><![CDATA[CH4]]></Keywords>
+    <Keywords><![CDATA[Emissions]]></Keywords>
+    <Keywords><![CDATA[Flaring]]></Keywords>
+    <Keywords><![CDATA[Venting]]></Keywords>
+    <Keywords><![CDATA[Natural Gas]]></Keywords>
+    <Keywords><![CDATA[Oil]]></Keywords>
+    <Keywords><![CDATA[Coal Mining]]></Keywords>
+    <Keywords><![CDATA[Biomass Burning]]></Keywords>
+    <Keywords><![CDATA[Livestock]]></Keywords>
+    <Keywords><![CDATA[Rice]]></Keywords>
+    <Keywords><![CDATA[Landfills]]></Keywords>
+    <Keywords><![CDATA[TRENDS-EMISSIONS]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[Digital Data
+(ASCII Format)
+Digital Data
+(Binary Spreadsheet Format)
+Center for Energy and Environmental Studies, Boston University, 675 Commonwealth
+Avenue, Boston, Massachusetts 02215, U.S.A. (*current address: Centre for Resource and
+Environmental Studies, Australian National University, Canberra ACT 0200, Australia, ]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 093334 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/CH4_emis/Stern.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/tge.001]]></Product_number>
+      <Product_title><![CDATA[Annual Estimates of Global Anthropogenic Methane Emissions: 1860-1994]]></Product_title>
+      <Author>
+        <Name><![CDATA[Stern, D. I.]]></Name>
+        <Company><![CDATA[Boston University]]></Company>
+        <Organization><![CDATA[Center for Energy and Environmental Studies]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Kaufmann, R. K.]]></Name>
+        <Company><![CDATA[Boston University]]></Company>
+        <Organization><![CDATA[Center for Energy and Environmental Studies]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Trace Gas Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/meth/ch4.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/ch4_emis/ch4.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/meth/methane.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/ch4_emis/ch4.wk1]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[methane emissions]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/meth/ch4.htmDigital Data
+(ASCII Format)
+Digital Data
+(Binary Spreadsheet Format)
+Center for Energy and Environmental Studies, Boston University, 675 Commonwealth
+Avenue, Boston, Massachusetts 02215, U.S.A. (*current address: Centre for Resource and
+Environmental Studies, Australian National University, Canberra ACT 0200, Australia, ]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980831]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980831]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/ftp/trends/ch4_emis]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[41k]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[For flaring and venting of natural gas, estimated methane emissions rose from 0.0 in 1860 to a maximum of 29.3 million metric tons in 1973, then declined. For oil and gas supply systems, excluding flaring, estimated methane emissions rose from 0.0 in 1860 to a maximum of 18.0 million metric tons in 1994. For coal mining, estimated methane emissions rose from 2.2 million metric tons in 1860 to 49.5 million metric tons in 1989, then dropped slightly. For biomass burning, estimated methane emissions rose from 9.8 million metric tons in 1860 to 38.0 million metric tons in 1988 and subsequently declined slightly. For livestock farming, estimated methane emissions rose from 25.6 million metric tons in 1860 to 113.1 million metric tons in 1994; this appears to now be the largest individual anthropogenic source of methane emissions, having overtaken rice farming in the early 1980s. For rice farming and related activities, estimated methane emissions rose from 40.1 million metric tons in 1860 to 100.8 million metric tons in 1994. For landfills, estimated methane emissions rose from 1.6 million metric tons in 1860 to 40.3 million metric tons in 1994. Total estimated anthropogenic methane emissions rose from 79.3 million metric tons in 1860 to 371.0 million metric tons in 1994. During the period 1860-1994, the relative importance of the various component sources changed, with fossil fuels increasing and agriculture - although still dominant - declining in dominance. Within the agricultural sector, livestock replaced rice as the leading component.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

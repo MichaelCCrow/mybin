@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Johnson, D. W.]]></origin>
+        <origin><![CDATA[Ball, J. T. ]]></origin>
+        <origin><![CDATA[Walker, R. F.]]></origin>
+        <title><![CDATA[Effects of CO2 and Nitrogen Fertilization on Growth and Nutrient Content of Juvenile Ponderosa Pine]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/NDP_061A.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Effects of CO2 and Nitrogen Fertilization on Growth and Nutrient Content of Juvenile Ponderosa Pine]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19910501]]></begdate>
+          <enddate><![CDATA[19931001]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-121.00]]></westbc>
+        <eastbc><![CDATA[-120.00]]></eastbc>
+        <northbc><![CDATA[39.00]]></northbc>
+        <southbc><![CDATA[38.00]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Boron]]></themekey>
+        <themekey><![CDATA[Biomass]]></themekey>
+        <themekey><![CDATA[Calcium]]></themekey>
+        <themekey><![CDATA[Carbon]]></themekey>
+        <themekey><![CDATA[Carbon dioxide fertilization]]></themekey>
+        <themekey><![CDATA[Copper]]></themekey>
+        <themekey><![CDATA[Fertilization]]></themekey>
+        <themekey><![CDATA[Growth]]></themekey>
+        <themekey><![CDATA[Iron]]></themekey>
+        <themekey><![CDATA[Magnesium]]></themekey>
+        <themekey><![CDATA[Manganese]]></themekey>
+        <themekey><![CDATA[Nitrogen]]></themekey>
+        <themekey><![CDATA[Nutrients]]></themekey>
+        <themekey><![CDATA[Phosphorus]]></themekey>
+        <themekey><![CDATA[Plant diameter]]></themekey>
+        <themekey><![CDATA[Plant height]]></themekey>
+        <themekey><![CDATA[Ponderosa pine]]></themekey>
+        <themekey><![CDATA[Potassium]]></themekey>
+        <themekey><![CDATA[Sulfur]]></themekey>
+        <themekey><![CDATA[Zinc]]></themekey>
+        <themekey><![CDATA[NDP-061A]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 145904</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 164955 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Boron]]></Keywords>
+    <Keywords><![CDATA[Biomass]]></Keywords>
+    <Keywords><![CDATA[Calcium]]></Keywords>
+    <Keywords><![CDATA[Carbon]]></Keywords>
+    <Keywords><![CDATA[Carbon dioxide fertilization]]></Keywords>
+    <Keywords><![CDATA[Copper]]></Keywords>
+    <Keywords><![CDATA[Fertilization]]></Keywords>
+    <Keywords><![CDATA[Growth]]></Keywords>
+    <Keywords><![CDATA[Iron]]></Keywords>
+    <Keywords><![CDATA[Magnesium]]></Keywords>
+    <Keywords><![CDATA[Manganese]]></Keywords>
+    <Keywords><![CDATA[Nitrogen]]></Keywords>
+    <Keywords><![CDATA[Nutrients]]></Keywords>
+    <Keywords><![CDATA[Phosphorus]]></Keywords>
+    <Keywords><![CDATA[Plant diameter]]></Keywords>
+    <Keywords><![CDATA[Plant height]]></Keywords>
+    <Keywords><![CDATA[Ponderosa pine]]></Keywords>
+    <Keywords><![CDATA[Potassium]]></Keywords>
+    <Keywords><![CDATA[Sulfur]]></Keywords>
+    <Keywords><![CDATA[Zinc]]></Keywords>
+    <Keywords><![CDATA[NDP-061A]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ and Nitrogen Fertilization on Growth and
+Nutrient Content of Juvenile Ponderosa Pine
+trees93.dat
+ First two data records:
+ 1 1 CL6 1 93 34.8 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99
+ 1 1 CL6 2 95 33.8 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99
+ Last two data records:
+ 4 3 D4 19 97 41.8 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99
+ 4 3 D4 21 114 40.0 38.69 1.06 -9.99 -9.99 49.87
+1.11 49.66 1.36 -9.99 -9.99 49.37 0.66 45.81 0.58 48.24 0.15
+47.84 0.31 48.11 0.58 47.94 0.21 47.87 0.18 0.12 0.46 0.14
+0.35 0.20 105.20 395.40 3.00 25.00 38.00 0.03 0.19 0.05 0.08
+0.06 53.40 139.20 5.00 8.00 15.00 0.07 0.29 0.08 0.14 0.09
+80.00 404.00 4.00 7.00 16.00 0.11 0.25 0.10 0.25 0.10
+99.001173.00 14.00 23.00 14.00 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 0.17 0.75 0.08 0.20 0.23 111.00 69.00 10.00
+15.00 36.00 0.11 0.58 0.06 0.10 0.11 89.00 56.00 6.00 14.00
+31.00 0.06 0.37 0.05 0.10 0.08 70.00 31.00 4.00 12.00 22.00
+0.15 0.57 0.12 0.32 0.20 160.00 121.00 5.00 29.00 45.00 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 0.22 0.67
+0.11 0.13 0.13 110.00
+ Back to
+CDIAC Home
+Page]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 164955 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/NDP_061A.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/vrc.ndp061]]></Product_number>
+      <Product_title><![CDATA[Effects of CO2 and Nitrogen Fertilization on Growth and Nutrient Content of Juvenile Ponderosa Pine]]></Product_title>
+      <Author>
+        <Name><![CDATA[Johnson, D. W.]]></Name>
+        <Company><![CDATA[Desert Research Institute]]></Company>
+        <Organization><![CDATA[Biological Sciences Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Ball, J. T. ]]></Name>
+        <Company><![CDATA[Desert Research Institute]]></Company>
+        <Organization><![CDATA[Biological Sciences Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Walker, R. F.]]></Name>
+        <Company><![CDATA[University of Nevada]]></Company>
+        <Organization><![CDATA[Environmental and Resource Sciences, College of Agriculture]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Vegetation Response to CO2 and Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Placerville, California]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp061a/ndp061a.htm]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/regr92.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/regr92.wk1]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/regr93.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/regr93.wk1]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees91.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees91.wk1]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees92.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees92.wk1]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees93.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees93.wk1]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[BCUCC]]></Variable>
+      <Variable><![CDATA[BRBCC]]></Variable>
+      <Variable><![CDATA[BRBM]]></Variable>
+      <Variable><![CDATA[BRCACC]]></Variable>
+      <Variable><![CDATA[BRCCC]]></Variable>
+      <Variable><![CDATA[BRCUCC]]></Variable>
+      <Variable><![CDATA[BRFECC]]></Variable>
+      <Variable><![CDATA[BRKCC]]></Variable>
+      <Variable><![CDATA[BRMGCC]]></Variable>
+      <Variable><![CDATA[BRMNCC]]></Variable>
+      <Variable><![CDATA[BRNCC]]></Variable>
+      <Variable><![CDATA[BRPCC]]></Variable>
+      <Variable><![CDATA[BRSCC]]></Variable>
+      <Variable><![CDATA[BRZNCC]]></Variable>
+      <Variable><![CDATA[C]]></Variable>
+      <Variable><![CDATA[CDBCC]]></Variable>
+      <Variable><![CDATA[CDCACC]]></Variable>
+      <Variable><![CDATA[CDCCC]]></Variable>
+      <Variable><![CDATA[CDCUCC]]></Variable>
+      <Variable><![CDATA[CDFECC]]></Variable>
+      <Variable><![CDATA[CDKCC]]></Variable>
+      <Variable><![CDATA[CDMGCC]]></Variable>
+      <Variable><![CDATA[CDMNCC]]></Variable>
+      <Variable><![CDATA[CDNCC]]></Variable>
+      <Variable><![CDATA[CDPCC]]></Variable>
+      <Variable><![CDATA[CDSCC]]></Variable>
+      <Variable><![CDATA[CDZNCC]]></Variable>
+      <Variable><![CDATA[CHBR]]></Variable>
+      <Variable><![CDATA[CRBM]]></Variable>
+      <Variable><![CDATA[DIA]]></Variable>
+      <Variable><![CDATA[FRBCC]]></Variable>
+      <Variable><![CDATA[FRBM]]></Variable>
+      <Variable><![CDATA[FRCACC]]></Variable>
+      <Variable><![CDATA[FRCCC]]></Variable>
+      <Variable><![CDATA[FRCUCC]]></Variable>
+      <Variable><![CDATA[FRFECC]]></Variable>
+      <Variable><![CDATA[FRKCC]]></Variable>
+      <Variable><![CDATA[FRMGCC]]></Variable>
+      <Variable><![CDATA[FRMNCC]]></Variable>
+      <Variable><![CDATA[FRNCC]]></Variable>
+      <Variable><![CDATA[FRPCC]]></Variable>
+      <Variable><![CDATA[FRSCC]]></Variable>
+      <Variable><![CDATA[FRZNCC]]></Variable>
+      <Variable><![CDATA[HT]]></Variable>
+      <Variable><![CDATA[LFBCC]]></Variable>
+      <Variable><![CDATA[LFBM]]></Variable>
+      <Variable><![CDATA[LFCACC]]></Variable>
+      <Variable><![CDATA[LFCUCC]]></Variable>
+      <Variable><![CDATA[LFFECC]]></Variable>
+      <Variable><![CDATA[LFKCC]]></Variable>
+      <Variable><![CDATA[LFMGCC]]></Variable>
+      <Variable><![CDATA[LFMNCC]]></Variable>
+      <Variable><![CDATA[LFNCC]]></Variable>
+      <Variable><![CDATA[LFPCC]]></Variable>
+      <Variable><![CDATA[LFSCC]]></Variable>
+      <Variable><![CDATA[LFZNCC]]></Variable>
+      <Variable><![CDATA[LRBCC]]></Variable>
+      <Variable><![CDATA[LRCACC]]></Variable>
+      <Variable><![CDATA[LRCCC]]></Variable>
+      <Variable><![CDATA[LRCUCC]]></Variable>
+      <Variable><![CDATA[LRFECC]]></Variable>
+      <Variable><![CDATA[LRKCC]]></Variable>
+      <Variable><![CDATA[LRMGCC]]></Variable>
+      <Variable><![CDATA[LRMNCC]]></Variable>
+      <Variable><![CDATA[LRNCC]]></Variable>
+      <Variable><![CDATA[LRPCC]]></Variable>
+      <Variable><![CDATA[LRSCC]]></Variable>
+      <Variable><![CDATA[LRZNCC]]></Variable>
+      <Variable><![CDATA[MRBCC]]></Variable>
+      <Variable><![CDATA[MRCACC]]></Variable>
+      <Variable><![CDATA[MRCUCC]]></Variable>
+      <Variable><![CDATA[MRFECC]]></Variable>
+      <Variable><![CDATA[MRKCC]]></Variable>
+      <Variable><![CDATA[MRMGCC]]></Variable>
+      <Variable><![CDATA[MRMNCC]]></Variable>
+      <Variable><![CDATA[MRNCC]]></Variable>
+      <Variable><![CDATA[MRPCC]]></Variable>
+      <Variable><![CDATA[MRSCC]]></Variable>
+      <Variable><![CDATA[MRZNCC]]></Variable>
+      <Variable><![CDATA[N]]></Variable>
+      <Variable><![CDATA[N1BCC]]></Variable>
+      <Variable><![CDATA[N1CACC]]></Variable>
+      <Variable><![CDATA[N1CCC]]></Variable>
+      <Variable><![CDATA[N1CUCC]]></Variable>
+      <Variable><![CDATA[N1FECC]]></Variable>
+      <Variable><![CDATA[N1KCC]]></Variable>
+      <Variable><![CDATA[N1MGCC]]></Variable>
+      <Variable><![CDATA[N1MNCC]]></Variable>
+      <Variable><![CDATA[N1NCC]]></Variable>
+      <Variable><![CDATA[N1PCC]]></Variable>
+      <Variable><![CDATA[N1SCC]]></Variable>
+      <Variable><![CDATA[N1ZNCC]]></Variable>
+      <Variable><![CDATA[N2BCC]]></Variable>
+      <Variable><![CDATA[N2CACC]]></Variable>
+      <Variable><![CDATA[N2CCC]]></Variable>
+      <Variable><![CDATA[N2CUCC]]></Variable>
+      <Variable><![CDATA[N2FECC]]></Variable>
+      <Variable><![CDATA[N2KCC]]></Variable>
+      <Variable><![CDATA[N2MGCC]]></Variable>
+      <Variable><![CDATA[N2MNCC]]></Variable>
+      <Variable><![CDATA[N2NCC]]></Variable>
+      <Variable><![CDATA[N2PCC]]></Variable>
+      <Variable><![CDATA[N2SCC]]></Variable>
+      <Variable><![CDATA[N2ZNCC]]></Variable>
+      <Variable><![CDATA[NOBCC]]></Variable>
+      <Variable><![CDATA[NOCACC]]></Variable>
+      <Variable><![CDATA[NOCCC]]></Variable>
+      <Variable><![CDATA[NOCUCC]]></Variable>
+      <Variable><![CDATA[NOFECC]]></Variable>
+      <Variable><![CDATA[NOKCC]]></Variable>
+      <Variable><![CDATA[NOMGCC]]></Variable>
+      <Variable><![CDATA[NOMNCC]]></Variable>
+      <Variable><![CDATA[NONCC]]></Variable>
+      <Variable><![CDATA[NOPCC]]></Variable>
+      <Variable><![CDATA[NOSCC]]></Variable>
+      <Variable><![CDATA[NOZNCC]]></Variable>
+      <Variable><![CDATA[NSBCC]]></Variable>
+      <Variable><![CDATA[NSCACC]]></Variable>
+      <Variable><![CDATA[NSCCC]]></Variable>
+      <Variable><![CDATA[NSCUCC]]></Variable>
+      <Variable><![CDATA[NSFECC]]></Variable>
+      <Variable><![CDATA[NSKCC]]></Variable>
+      <Variable><![CDATA[NSMGCC]]></Variable>
+      <Variable><![CDATA[NSMNCC]]></Variable>
+      <Variable><![CDATA[NSNCC]]></Variable>
+      <Variable><![CDATA[NSPCC]]></Variable>
+      <Variable><![CDATA[NSSCC]]></Variable>
+      <Variable><![CDATA[NSZNCC]]></Variable>
+      <Variable><![CDATA[REP]]></Variable>
+      <Variable><![CDATA[RTBCC]]></Variable>
+      <Variable><![CDATA[RTBM]]></Variable>
+      <Variable><![CDATA[RTCACC]]></Variable>
+      <Variable><![CDATA[RTKCC]]></Variable>
+      <Variable><![CDATA[RTMGCC]]></Variable>
+      <Variable><![CDATA[RTNCC]]></Variable>
+      <Variable><![CDATA[RTPCC]]></Variable>
+      <Variable><![CDATA[RTSCC]]></Variable>
+      <Variable><![CDATA[RZNCC]]></Variable>
+      <Variable><![CDATA[STBCC]]></Variable>
+      <Variable><![CDATA[STBM]]></Variable>
+      <Variable><![CDATA[STCACC]]></Variable>
+      <Variable><![CDATA[STCUCC]]></Variable>
+      <Variable><![CDATA[STFECC]]></Variable>
+      <Variable><![CDATA[STKCC]]></Variable>
+      <Variable><![CDATA[STMGCC]]></Variable>
+      <Variable><![CDATA[STMNCC]]></Variable>
+      <Variable><![CDATA[STNCC]]></Variable>
+      <Variable><![CDATA[STPCC]]></Variable>
+      <Variable><![CDATA[STSCC]]></Variable>
+      <Variable><![CDATA[STZNCC]]></Variable>
+      <Variable><![CDATA[TBBCC]]></Variable>
+      <Variable><![CDATA[TBCACC]]></Variable>
+      <Variable><![CDATA[TBCCC]]></Variable>
+      <Variable><![CDATA[TBFECC]]></Variable>
+      <Variable><![CDATA[TBKCC]]></Variable>
+      <Variable><![CDATA[TBMGCC]]></Variable>
+      <Variable><![CDATA[TBMNCC]]></Variable>
+      <Variable><![CDATA[TBNCC]]></Variable>
+      <Variable><![CDATA[TBPCC]]></Variable>
+      <Variable><![CDATA[TBSCC]]></Variable>
+      <Variable><![CDATA[TBZNCC]]></Variable>
+      <Variable><![CDATA[TMBCC]]></Variable>
+      <Variable><![CDATA[TMCACC]]></Variable>
+      <Variable><![CDATA[TMCCC]]></Variable>
+      <Variable><![CDATA[TMCUCC]]></Variable>
+      <Variable><![CDATA[TMFECC]]></Variable>
+      <Variable><![CDATA[TMKCC]]></Variable>
+      <Variable><![CDATA[TMMGCC]]></Variable>
+      <Variable><![CDATA[TMMNCC]]></Variable>
+      <Variable><![CDATA[TMNCC]]></Variable>
+      <Variable><![CDATA[TMPCC]]></Variable>
+      <Variable><![CDATA[TMSCC]]></Variable>
+      <Variable><![CDATA[TMZNCC]]></Variable>
+      <Variable><![CDATA[TRBCC]]></Variable>
+      <Variable><![CDATA[TRCACC]]></Variable>
+      <Variable><![CDATA[TRCCC]]></Variable>
+      <Variable><![CDATA[TRCUCC]]></Variable>
+      <Variable><![CDATA[TRFECC]]></Variable>
+      <Variable><![CDATA[TRKCC]]></Variable>
+      <Variable><![CDATA[TRMGCC]]></Variable>
+      <Variable><![CDATA[TRMNCC]]></Variable>
+      <Variable><![CDATA[TRNCC]]></Variable>
+      <Variable><![CDATA[TRPCC]]></Variable>
+      <Variable><![CDATA[TRSCC]]></Variable>
+      <Variable><![CDATA[TRZNCC]]></Variable>
+      <Variable><![CDATA[TTBCC]]></Variable>
+      <Variable><![CDATA[TTCACC]]></Variable>
+      <Variable><![CDATA[TTCCC]]></Variable>
+      <Variable><![CDATA[TTCUCC]]></Variable>
+      <Variable><![CDATA[TTFECC]]></Variable>
+      <Variable><![CDATA[TTKCC]]></Variable>
+      <Variable><![CDATA[TTMGCC]]></Variable>
+      <Variable><![CDATA[TTMNCC]]></Variable>
+      <Variable><![CDATA[TTNCC]]></Variable>
+      <Variable><![CDATA[TTPCC]]></Variable>
+      <Variable><![CDATA[TTSCC]]></Variable>
+      <Variable><![CDATA[TTZNCC]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp061a/ndp061a.htm and Nitrogen Fertilization on Growth and
+Nutrient Content of Juvenile Ponderosa Pine
+trees93.dat
+ First two data records:
+ 1 1 CL6 1 93 34.8 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99
+ 1 1 CL6 2 95 33.8 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99
+ Last two data records:
+ 4 3 D4 19 97 41.8 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99
+ 4 3 D4 21 114 40.0 38.69 1.06 -9.99 -9.99 49.87
+1.11 49.66 1.36 -9.99 -9.99 49.37 0.66 45.81 0.58 48.24 0.15
+47.84 0.31 48.11 0.58 47.94 0.21 47.87 0.18 0.12 0.46 0.14
+0.35 0.20 105.20 395.40 3.00 25.00 38.00 0.03 0.19 0.05 0.08
+0.06 53.40 139.20 5.00 8.00 15.00 0.07 0.29 0.08 0.14 0.09
+80.00 404.00 4.00 7.00 16.00 0.11 0.25 0.10 0.25 0.10
+99.001173.00 14.00 23.00 14.00 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99
+-9.99 -9.99 -9.99 0.17 0.75 0.08 0.20 0.23 111.00 69.00 10.00
+15.00 36.00 0.11 0.58 0.06 0.10 0.11 89.00 56.00 6.00 14.00
+31.00 0.06 0.37 0.05 0.10 0.08 70.00 31.00 4.00 12.00 22.00
+0.15 0.57 0.12 0.32 0.20 160.00 121.00 5.00 29.00 45.00 -9.99
+-9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 -9.99 0.22 0.67
+0.11 0.13 0.13 110.00
+ Back to
+CDIAC Home
+Page]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/ndp061a.txt]]></Data_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/regr92.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/regr92.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/regr93.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/regr93.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees91.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees91.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees92.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees92.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees93.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/trees93.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19980301]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19980301]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ndp061a/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[889 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ This data set presents measured values of plant diameter and height, biomass of plant components, and nutrient (carbon, nitrogen, phosphorus, sulfur, potassium, calcium, magnesium, boron, copper, iron, manganese, and zinc) concentrations from a study of the effects of carbon dioxide and nitrogen fertilization on ponderosa pine (Pinus ponderosa Dougl. ex Laws.) conducted in open-top chambers in Placerville, California, from 1991 through 1996. This data set contains values from 1991 through 1993.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

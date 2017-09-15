@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Peiyuan, Z.]]></origin>
+        <origin><![CDATA[Gaofa, G.]]></origin>
+        <origin><![CDATA[Yi, Z.]]></origin>
+        <title><![CDATA[Cold Severity over China]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Long_Term_Proxy_DS_Cold_Severity_Over_China.xml]]></onlink>
+        <onlink><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Cold Severity over China]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[14700101]]></begdate>
+          <enddate><![CDATA[19861231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[People's Republic of China]]></themekey>
+        <themekey><![CDATA[Institute of Geography]]></themekey>
+        <themekey><![CDATA[Proxy]]></themekey>
+        <themekey><![CDATA[China]]></themekey>
+        <themekey><![CDATA[Cold]]></themekey>
+        <themekey><![CDATA[Severity]]></themekey>
+        <themekey><![CDATA[Index]]></themekey>
+        <themekey><![CDATA[Winter]]></themekey>
+        <themekey><![CDATA[Cold Severity over China]]></themekey>
+        <themekey><![CDATA[1470]]></themekey>
+        <themekey><![CDATA[1986]]></themekey>
+        <themekey><![CDATA[PRC]]></themekey>
+        <themekey><![CDATA[Chinese Academy of Sciences]]></themekey>
+        <themekey><![CDATA[climate]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 101800</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 161955 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[People's Republic of China]]></Keywords>
+    <Keywords><![CDATA[Institute of Geography]]></Keywords>
+    <Keywords><![CDATA[Proxy]]></Keywords>
+    <Keywords><![CDATA[China]]></Keywords>
+    <Keywords><![CDATA[Cold]]></Keywords>
+    <Keywords><![CDATA[Severity]]></Keywords>
+    <Keywords><![CDATA[Index]]></Keywords>
+    <Keywords><![CDATA[Winter]]></Keywords>
+    <Keywords><![CDATA[Cold Severity over China]]></Keywords>
+    <Keywords><![CDATA[1470]]></Keywords>
+    <Keywords><![CDATA[1986]]></Keywords>
+    <Keywords><![CDATA[PRC]]></Keywords>
+    <Keywords><![CDATA[Chinese Academy of Sciences]]></Keywords>
+    <Keywords><![CDATA[climate]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 161955 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Tom_Boden/Long_Term_Proxy_DS_Cold_Severity_Over_China.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[Long-Term Proxy Data Sets]]></Product_number>
+      <Product_title><![CDATA[Cold Severity over China]]></Product_title>
+      <Author>
+        <Name><![CDATA[Peiyuan, Z.]]></Name>
+        <Company><![CDATA[Institute of Geography]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Gaofa, G.]]></Name>
+        <Company><![CDATA[Institute of Geography]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Yi, Z.]]></Name>
+        <Company><![CDATA[Institute of Geography]]></Company>
+        <Organization><![CDATA[Chinese Academy of Sciences]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Long-Term Proxy Data Sets from People's Republic of China]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Areal average over China]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/table5.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/wintemp.nor.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/wintemp.sou.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year]]></Variable>
+      <Variable><![CDATA[Cold Severity (Index)]]></Variable>
+      <Variable><![CDATA[Winter Temperature-North (Index)]]></Variable>
+      <Variable><![CDATA[Winter Temperature-South (Index)]]></Variable>
+      <Variable><![CDATA[Beijing Summer Temperatures]]></Variable>
+      <Variable><![CDATA[Monthly Averages (degree C)]]></Variable>
+      <Variable><![CDATA[April]]></Variable>
+      <Variable><![CDATA[May]]></Variable>
+      <Variable><![CDATA[June]]></Variable>
+      <Variable><![CDATA[July]]></Variable>
+      <Variable><![CDATA[August]]></Variable>
+      <Variable><![CDATA[Index]]></Variable>
+      <Descriptive_file></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19910401]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19910401]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[/cdiac/arc4/tab/scratch/tab/china/proxy/]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[  A collaborative research agreement between the Peoples' Republic of China's (PRC) Chinese Academy of Sciences and the United States Department of Energy, signed in August of 1987, has resulted in the compilation and exchange of several data sets that will be useful in reconstructing past climates in China, extending and calibrating instrumental records, and addressing potential CO2-induced global and regional warming.
+<br><br>
+  This report describes one of the twelve PRC proxy data sets exchanged as part of this bilateral agreement.  This annual index represents the severity of winters in China.  The index has a range of integer values from 0 to 4 representing mild to severely cold, respectively.  These records have been used to examine large-scale climate patterns.  These records may also be used to extend instrumental temperature records from stations averaged over China.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

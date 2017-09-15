@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "killing tomcat"
+echo
+ps -ef | grep tomcat
+echo "killing"
+pkill -9 -f tomcat
+echo
+echo "killed"
+ps -ef | grep tomcat

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Tyler, S. C.]]></origin>
+        <title><![CDATA[Mixing Ratios of CO, CO2, CH4, and Isotope Ratios of Associated 13C, 18O, and 2H in Air Samples from Niwot Ridge, Colorado, and Montana de Oro, California, USA]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1022/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Mixing Ratios of CO, CO2, CH4, and Isotope Ratios of Associated 13C, 18O, and 2H in Air Samples from Niwot Ridge, Colorado, and Montana de Oro, California, USA]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19941219]]></begdate>
+          <enddate><![CDATA[20011231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-122]]></westbc>
+        <eastbc><![CDATA[-104]]></eastbc>
+        <northbc><![CDATA[42]]></northbc>
+        <southbc><![CDATA[34]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[atmospheric CH4 Concentrations]]></themekey>
+        <themekey><![CDATA[Methane]]></themekey>
+        <themekey><![CDATA[Atmospheric CO Concentrations]]></themekey>
+        <themekey><![CDATA[Carbon Monoxide]]></themekey>
+        <themekey><![CDATA[Carbon 13 Ratio]]></themekey>
+        <themekey><![CDATA[Deuterium Hydrogen Ratio]]></themekey>
+        <themekey><![CDATA[Oxygen 18 Ratio]]></themekey>
+        <themekey><![CDATA[DB1022]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 133818</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 160249 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[atmospheric CH4 Concentrations]]></Keywords>
+    <Keywords><![CDATA[Methane]]></Keywords>
+    <Keywords><![CDATA[Atmospheric CO Concentrations]]></Keywords>
+    <Keywords><![CDATA[Carbon Monoxide]]></Keywords>
+    <Keywords><![CDATA[Carbon 13 Ratio]]></Keywords>
+    <Keywords><![CDATA[Deuterium Hydrogen Ratio]]></Keywords>
+    <Keywords><![CDATA[Oxygen 18 Ratio]]></Keywords>
+    <Keywords><![CDATA[DB1022]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;Air Samples, Niwot Ridge, Colorado
+Stanley C. Tyler
+Department of Earth System Science
+University of California
+Air samples from Niwot Ridge, Colorado (41&#176;N, 105&#176;W) and
+Monta&#241;a de Oro, CA (35&#176;N, 121&#176;W) have been collected at
+approximately semi-monthly to monthly intervals since the mid 1990s. The
+beginning dates for each gas and isotope analyzed are as follows:
+Such time series can provide information about: (1) seasonal
+cycling of CO, CO, and
+CH sources and sinks in background air,
+(2) trends in atmospheric concentrations of CO
+and CH and their stable carbon, oxygen,
+and hydrogen isotopes, (3) the distribution of the hydroxyl (OH) radical
+in the atmosphere, and (4) the role of the terrestrial biosphere as a source
+or sink of atmospheric CO. The data
+presented here are discussed in detail by Tyler et al., (1999).
+Samples at Niwot Ridge were collected before noon in order to increase the
+likelihood of sampling when the prevailing wind was from the west, so as to
+represent well-mixed background air from over the western United States without *
+interference from regional contamination. Samples from Monta&#241;a de Oro were
+collected in late afternoon or early evening during periods when prevailing
+winds were from the west or northwest (i.e., from the Pacific Ocean).
+Air from Niwot Ridge was collected into passivated aluminum high-pressure cylinders
+using a RIX model SA-3 compressor; air from Monta&#241;a de Oro was collected into
+electro-polished 32-liter stainless steel canisters using a portable battery-
+operated piston pump (Model 415CDC30/12B, Thomas Co., Sheboygan WI). Mixing
+ratios from canister and cylinder samples were measured at The University
+of California-Irvine, using a Hewlett Packard 5880A gas chromatograph with a flame
+ionization detector, for CO and
+CH, and a Shimadzu Model 14A Gas Chromatograph
+with a Model RGD2 reduction gas analyzer detector (Trace Analytical, Menlo Park,
+California), for CO. Mixing-ratio working standards for CH
+and CO are based on the National Atmospheric and Oceanic
+Administration/Climate Monitoring and Diagnostics Laboratory (NOAA/CMDL) reference
+scale, and have been inter-compared with and calibrated to NOAA/CMDL reference
+standards (Lang et al., 1990, for CH;
+Novelli et al., 1991, for CO; Thoning et al., 1987, for
+CO). The precision level for measurements of
+CO is ~&#177;3-4 ppm (1% uncertainty
+around 342 ppm); the precision level for measurements of
+CH is ~&#177;5 to 10 ppb for values around a
+working-reference-gas value of 1903 ppb, and for measurements of CO, the precision level is
+~&#177;1.3 ppb for measurements around 133.5 ppb. Oxygen and carbon isotopes were
+measured on a Finnigan MAT Model 252 Isotope-Ratio Mass Spectrometer (IRMS).
+Precision of measurement on clean
+dry CO gas standards is &#177;0.01%. The
+reproducibility of &#948;C
+measurements from ~200 liters each of replicate air samples, when all possible errors
+associated with differences in sample canisters, sample pumping, vacuum line processing,
+and isotope measurement are taken into account, is &#177;0.05% for
+&#948;C of
+CH, 0.20% for
+&#948;C of CO and &#177;0.01% for
+&#948;
+ analyses
+were performed using a cf-Gas-Chromatography/IRMS coupled to a custom-designed
+CH gas preconcentrator (Rice et al., 2001). A pyrolysis
+oven converts CH
+after its separation from the air stream and before its detection by the mass
+spectrometer. Precision of measurement is &#177;1.3% for CH
+processed from ~63 ml of whole air.
+Additional information on instrumentation, calibration, analysis procedures,
+and reporting standards is given in the "readme.txt" file and references listed
+therein. In particular, Tyler et al. (1999) describe much of the experimental
+detail and sample collection.
+Lang, P.M., L.P. Steele, and R.C. Martin. 1990. Atmospheric methane data for the
+period 1986-1988 from the NOAA/CMDL global cooperative flask sampling network, in
+NOAA Technical Memorandum ERL CMDL-2, University of Colorado, Boulder CO, 1990.
+Novelli, P.C., J.W. Elkins and L.P. Steele. 1991. The development and evaluation of a
+gravimetric reference scale for measurements of atmospheric carbon monoxide.
+Rice, A.L. A.A. Gotoh, H.O. Ajie, and S.C. Tyler. 2001. High precision continuous
+flow measurement of &#948;C
+and &#948;D of Atmospheric CH.
+Thoning, K.W., P. Tans, T.J., Conway, and L.S. Waterman. 1987. NOAA/GMCC calibrations of
+CO-in-air reference gases: 1979-1985, NOAA Technical
+Memorandum ERL ARL-150, Environmental Research Laboratory, Boulder, CO, 63 pp.
+Tyler, S.C., H.O. Ajie, M.L. Gupta, R.J. Cicerone, D.R. Blake, and E.J. Dlugokencky. 1999.
+Carbon isotopic composition of atmospheric methane: A comparison of surface level and
+upper tropospheric air, 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 160249 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.db1022]]></Product_number>
+      <Product_title><![CDATA[Mixing Ratios of CO, CO2, CH4, and Isotope Ratios of Associated 13C, 18O, and 2H in Air Samples from Niwot Ridge, Colorado, and Montana de Oro, California, USA]]></Product_title>
+      <Author>
+        <Name><![CDATA[Tyler, S. C.]]></Name>
+        <Company><![CDATA[University of California, Irvine]]></Company>
+        <Organization><![CDATA[Department of Earth System Science]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Niwot Ridge, Colorado]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1022/nwrch4.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1022/nwrco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1022/nwrco2.dat]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Montana de Oro, California]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1022/mdoch4.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1022/mdoco.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1022/mdoco2.dat]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[time]]></Variable>
+      <Variable><![CDATA[methane mixing ratio in part per million]]></Variable>
+      <Variable><![CDATA[carbon monoxide mixing ratio in part per million]]></Variable>
+      <Variable><![CDATA[delta C-13 in methane (o/oo), delta H-2 (o/oo)]]></Variable>
+      <Variable><![CDATA[delta C-13 in carbon monoxide (o/oo)]]></Variable>
+      <Variable><![CDATA[carbon monoxide, associated delta C-13]]></Variable>
+      <Variable><![CDATA[carbon dioxide, associated delta C-13 and O-18]]></Variable>
+      <Variable><![CDATA[wind speed (mi/hr), wind speed (km/hr)]]></Variable>
+      <Variable><![CDATA[direction from which the wind is blowing (degrees)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/epubs/db/db1022/db1022.html &#187;&#160;Air Samples, Niwot Ridge, Colorado
+Stanley C. Tyler
+Department of Earth System Science
+University of California
+Air samples from Niwot Ridge, Colorado (41&#176;N, 105&#176;W) and
+Monta&#241;a de Oro, CA (35&#176;N, 121&#176;W) have been collected at
+approximately semi-monthly to monthly intervals since the mid 1990s. The
+beginning dates for each gas and isotope analyzed are as follows:
+Such time series can provide information about: (1) seasonal
+cycling of CO, CO, and
+CH sources and sinks in background air,
+(2) trends in atmospheric concentrations of CO
+and CH and their stable carbon, oxygen,
+and hydrogen isotopes, (3) the distribution of the hydroxyl (OH) radical
+in the atmosphere, and (4) the role of the terrestrial biosphere as a source
+or sink of atmospheric CO. The data
+presented here are discussed in detail by Tyler et al., (1999).
+Samples at Niwot Ridge were collected before noon in order to increase the
+likelihood of sampling when the prevailing wind was from the west, so as to
+represent well-mixed background air from over the western United States without *
+interference from regional contamination. Samples from Monta&#241;a de Oro were
+collected in late afternoon or early evening during periods when prevailing
+winds were from the west or northwest (i.e., from the Pacific Ocean).
+Air from Niwot Ridge was collected into passivated aluminum high-pressure cylinders
+using a RIX model SA-3 compressor; air from Monta&#241;a de Oro was collected into
+electro-polished 32-liter stainless steel canisters using a portable battery-
+operated piston pump (Model 415CDC30/12B, Thomas Co., Sheboygan WI). Mixing
+ratios from canister and cylinder samples were measured at The University
+of California-Irvine, using a Hewlett Packard 5880A gas chromatograph with a flame
+ionization detector, for CO and
+CH, and a Shimadzu Model 14A Gas Chromatograph
+with a Model RGD2 reduction gas analyzer detector (Trace Analytical, Menlo Park,
+California), for CO. Mixing-ratio working standards for CH
+and CO are based on the National Atmospheric and Oceanic
+Administration/Climate Monitoring and Diagnostics Laboratory (NOAA/CMDL) reference
+scale, and have been inter-compared with and calibrated to NOAA/CMDL reference
+standards (Lang et al., 1990, for CH;
+Novelli et al., 1991, for CO; Thoning et al., 1987, for
+CO). The precision level for measurements of
+CO is ~&#177;3-4 ppm (1% uncertainty
+around 342 ppm); the precision level for measurements of
+CH is ~&#177;5 to 10 ppb for values around a
+working-reference-gas value of 1903 ppb, and for measurements of CO, the precision level is
+~&#177;1.3 ppb for measurements around 133.5 ppb. Oxygen and carbon isotopes were
+measured on a Finnigan MAT Model 252 Isotope-Ratio Mass Spectrometer (IRMS).
+Precision of measurement on clean
+dry CO gas standards is &#177;0.01%. The
+reproducibility of &#948;C
+measurements from ~200 liters each of replicate air samples, when all possible errors
+associated with differences in sample canisters, sample pumping, vacuum line processing,
+and isotope measurement are taken into account, is &#177;0.05% for
+&#948;C of
+CH, 0.20% for
+&#948;C of CO and &#177;0.01% for
+&#948;
+ analyses
+were performed using a cf-Gas-Chromatography/IRMS coupled to a custom-designed
+CH gas preconcentrator (Rice et al., 2001). A pyrolysis
+oven converts CH
+after its separation from the air stream and before its detection by the mass
+spectrometer. Precision of measurement is &#177;1.3% for CH
+processed from ~63 ml of whole air.
+Additional information on instrumentation, calibration, analysis procedures,
+and reporting standards is given in the "readme.txt" file and references listed
+therein. In particular, Tyler et al. (1999) describe much of the experimental
+detail and sample collection.
+Lang, P.M., L.P. Steele, and R.C. Martin. 1990. Atmospheric methane data for the
+period 1986-1988 from the NOAA/CMDL global cooperative flask sampling network, in
+NOAA Technical Memorandum ERL CMDL-2, University of Colorado, Boulder CO, 1990.
+Novelli, P.C., J.W. Elkins and L.P. Steele. 1991. The development and evaluation of a
+gravimetric reference scale for measurements of atmospheric carbon monoxide.
+Rice, A.L. A.A. Gotoh, H.O. Ajie, and S.C. Tyler. 2001. High precision continuous
+flow measurement of &#948;C
+and &#948;D of Atmospheric CH.
+Thoning, K.W., P. Tans, T.J., Conway, and L.S. Waterman. 1987. NOAA/GMCC calibrations of
+CO-in-air reference gases: 1979-1985, NOAA Technical
+Memorandum ERL ARL-150, Environmental Research Laboratory, Boulder, CO, 63 pp.
+Tyler, S.C., H.O. Ajie, M.L. Gupta, R.J. Cicerone, D.R. Blake, and E.J. Dlugokencky. 1999.
+Carbon isotopic composition of atmospheric methane: A comparison of surface level and
+upper tropospheric air, 
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1022/db1022.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20030421]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20040115]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1022/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[74 KB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[CO and associated 13C: <br>
+ At the same sites (Niwot Ridge, Colorado and Montan'a de Oro, California) where we collect air samples to analyze for CH4 data, we also measure CO mixing ratios and 13CO isotope ratios (e.g., Tyler et al., 1999; DB1022, CDIAC archives). Atmospheric CO mixing ratio measurements begin with the first dates of sample collection at Niwot Ridge and Montan'a de Oro while measurements of d13C -CO begin in late 1999 (NWT) and early 2000 (MDO). Hydroxyl radicals (OH), the most important oxidizing agent in the atmosphere, react with CO rather quickly, giving a CO lifetime of the order of a few months, to produce CO2 [Levy, 1971; Logan et al., 1981; Levine et al., 1985]. Thus, knowledge of the sources and sinks of tropospheric CO is vital to understanding and quantifying the distribution of OH concentrations in the atmosphere. Admittedly, 14C and d18O-CO, which we do not currently measure, provide at least as much information as the d13C -CO data. However, the simultaneous measurements of CH4 and CO for mixing and 13C isotope ratio (as well as CO2 data which we also collect) help us to screen samples for outliers not representative of well-mixed background surface air.
+<br><br>
+Site descriptions, sample collection procedures, and most mixing ratio and isotope ratio analytical techniques are described in our sample archives for atmospheric CH4, appearing as the abstch4.txt file in the CDIAC DB1022 data base. Small differences or additions relevant to the CO data are noted below.
+<br><br>
+CO2 and associated 13C and 18O: <br>
+At the same sites above where we collect air samples to analyze for CH4 and CO data, 
+we also measure CO2 mixing and d13C and d18O isotope ratios (e.g., Tyler et al., 1999; DB1022, CDIAC archives).  Atmospheric CO2 measurements of mixing and stable isotope ratio begin with January 1999 at both Niwot Ridge (NWT) and Montana de Oro while (MDO). Measurements of d13C in atmospheric CO2 have long been used to help interpret the global CO2 budget [e.g., Keeling, 1958 and 1961; Mook et al., 1983; Keeling et al., 1984; Quay et al., 1992; Tans et al., 1993], while d18O measurements in atmospheric CO2 have added an important component to the interpretation of CO2 fluxes more recently [e.g., Ciais et al., 1997; Flanagan et al., 1997; Miller et al., 1999].
+<br><br>
+The d13C of atmospheric CO2 is an indicator of either plant photosynthesis or air-sea 
+exchange of CO2.  This is because terrestrial plants preferentially fix 12C in photosynthesis, thereby leaving remaining CO2 relatively 13C heavy, while the dissolution and evaporation of CO2 to and from ocean waters is practically non-fractionating isotopically.  In addition, the burning of fossil fuel has significantly increased the CO2 content of the atmosphere, with a corresponding decrease in the d13C signal toward more negative values.  On the other hand, the d18O of atmospheric CO2 is a marker to constrain separately the gross uptake 
+(photosynthesis) and release (respiration) of carbon by terrestrial biota.  This is 
+because CO2 can exchange an 18O atom with two isotopically distinct reservoirs, i.e., 
+either evaporating leaf water during photosynthesis or soil moisture during respiration.  However, the simultaneous measurements of CH4 and CO for mixing and 13C isotope ratio (as well as CO2 data which we also collect) help us to screen samples for outliers not representative of well-mixed background surface air.
+<br><br>
+Site descriptions, sample collection procedures, and most mixing ratio and isotope 
+ratio analytical techniques have been described in our sample archives for atmospheric CH4 appearing in the CDIAC database.  Small differences or additions to these are noted below.
+<br><br>
+CH4 and associated 2H and 13C: <br>
+We report mixing ratios and dD and d13C measurements of atmospheric CH4 from air samples collected  bi-weekly from fixed surface sites in the United States. Our fixed surface sites are located at the mid-continental site Niwot Ridge, CO (41 degrees N, 105 degrees W) and a Pacific coastal site receiving strong westerlies, Montan'a de Oro, CA (35 degrees N, 121 degrees W). Data from multiyear approximately bi-weekly sampling provide information relating seasonal cycling of CH4 sources and sinks in background air, record long term trends in CH4 mixing and isotope ratio related to the atmospheric CH4 loading, and may indicate regional CH4 sources. Our continuous record of CH4 mixing ratio and d13C-CH4 from Niwot Ridge extends from 1995 to 2001 while that of Montan'a de Oro extends from 1996 to 2001. A more recently initiated time series of measurements of dD-CH4 were begun during 1998 at Niwot Ridge and during 2000 at Montan'a de Oro. We are archiving these data to make them available 
+for modeling and advanced calculations by other atmospheric researchers. The air sample collections continue to the present time. We will archive these data as soon as is practicable in order to increase the value of the time series of measurements.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[VandenBygaart, A. J. ]]></origin>
+        <origin><![CDATA[Gregorich, E. G. ]]></origin>
+        <origin><![CDATA[Angers, D. A. ]]></origin>
+        <title><![CDATA[Influence of Agricultural Management on Soil Organic Carbon: A Compendium and Assessment of Canadian Studies: (Effect on soil organic carbon of converting native land to agricultural)]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/CSEQ/Canada.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Influence of Agricultural Management on Soil Organic Carbon: A Compendium and Assessment of Canadian Studies: (Effect on soil organic carbon of converting native land to agricultural)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19910101]]></begdate>
+          <enddate><![CDATA[20011231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[C sequestation]]></themekey>
+        <themekey><![CDATA[crop rotations]]></themekey>
+        <themekey><![CDATA[fertilizer]]></themekey>
+        <themekey><![CDATA[cropping intensity]]></themekey>
+        <themekey><![CDATA[Canada]]></themekey>
+        <themekey><![CDATA[tillage]]></themekey>
+        <themekey><![CDATA[Carbon Cycle]]></themekey>
+        <themekey><![CDATA[Carbon Sequestration]]></themekey>
+        <themekey><![CDATA[Soil carbon]]></themekey>
+        <themekey><![CDATA[CARBON SEQUESTRATION-TERRESTRIAL]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tris West; email: westto@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tris West; email: westto@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090713 144500</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tris West; email: westto@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 145009 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[C sequestation]]></Keywords>
+    <Keywords><![CDATA[crop rotations]]></Keywords>
+    <Keywords><![CDATA[fertilizer]]></Keywords>
+    <Keywords><![CDATA[cropping intensity]]></Keywords>
+    <Keywords><![CDATA[Canada]]></Keywords>
+    <Keywords><![CDATA[tillage]]></Keywords>
+    <Keywords><![CDATA[Carbon Cycle]]></Keywords>
+    <Keywords><![CDATA[Carbon Sequestration]]></Keywords>
+    <Keywords><![CDATA[Soil carbon]]></Keywords>
+    <Keywords><![CDATA[CARBON SEQUESTRATION-TERRESTRIAL]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 145009 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/CSEQ/Canada.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/tcm.001]]></Product_number>
+      <Product_title><![CDATA[Influence of Agricultural Management on Soil Organic Carbon: A Compendium and Assessment of Canadian Studies: (Effect on soil organic carbon of converting native land to agricultural)]]></Product_title>
+      <Author>
+        <Name><![CDATA[VandenBygaart, A. J. ]]></Name>
+        <Company><![CDATA[Soil, Water, Air and Production Systems - ECORC (Ottawa)]]></Company>
+        <Organization><![CDATA[Agriculture and Agri-Food Canada]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Gregorich, E. G. ]]></Name>
+        <Company></Company>
+        <Organization><![CDATA[Agriculture and Agri-Food Canada]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Angers, D. A. ]]></Name>
+        <Company><![CDATA[Sainte-Foy Research Farm]]></Company>
+        <Organization><![CDATA[Agriculture and Agri-Food Canada]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Sequestration]]></Thematic_area>
+      <Thematic_area><![CDATA[Soil carbon]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[72 farms in Alberta]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_2.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Alberta, Saskatchewan and Manitoba]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Saskatchewan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[central Saskatchewan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Matador, Saskatchewan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Quinton, Saskatchewan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Hafford, Saskatchewan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Swift Current, Saskatchewan]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Bond Head, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[C. Blondeau, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Delhi, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Edwards, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Exeter, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Fonthill, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Highgate, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Kapuskasing, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Kemptville, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Panmure, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Plainfield, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ste. Anne, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Vineland, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Winchester, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Woodslee, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ottawa, Ontario]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Ste-Anne-de-Bellevue, Quebec]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Beauce, Quebec]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Lennoxville, Quebec]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[La Pocatiere, Quebec]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Isle aux Coudes, Quebec]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Charlevoix, Quebec]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Cantonsde l'Est, Quebec]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Harrington, Prince Edward Island]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Kelvin Grove, Prince Edward Island]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Site_info>
+        <Site_name><![CDATA[Mt. Herbert, Prince Edward Island]]></Site_name>
+        <Site_URL></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Location]]></Variable>
+      <Variable><![CDATA[MAP (mm)]]></Variable>
+      <Variable><![CDATA[MAT (degree C)]]></Variable>
+      <Variable><![CDATA[Soil (Great Groupz/Soil Type)]]></Variable>
+      <Variable><![CDATA[Textural Class]]></Variable>
+      <Variable><![CDATA[Relative Treatment ]]></Variable>
+      <Variable><![CDATA[Depth of sampling (cm)or horizon]]></Variable>
+      <Variable><![CDATA[Years since conversion]]></Variable>
+      <Variable><![CDATA[D Soil C (%)]]></Variable>
+      <Variable><![CDATA[Reference]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003_table_1.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20030213]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20030530]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/programs/CSEQ/terrestrial/vandenbygaart2003/vandenbygaart2003.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Tris West; email: westto@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[To fulfill commitments under the Kyoto Protocol, Canada is required to provide verifiable estimates and uncertainties for soil organic carbon (SOC) stocks, and for changes in those stocks over time. Estimates and uncertainties for agricultural soils can be derived from long-term studies that have measured differences in SOC between different management practices. We compiled published data from long-term studies in Canada to assess the effect of agricultural management on SOC. A total of 62 studies were compiled, in which the difference in SOC was determined for conversion from native land to cropland, and for different tillage, crop rotation and fertilizer management practices. There was a loss of 24 ? 6% of the SOC after native land was converted to agricultural land. No-till (NT) increased the storage of SOC in western Canada by 2.9 ? 1.3 Mg ha ^1; however, in eastern Canada conversion to NT did not increase SOC. In general, the potential to store SOC when NT was adopted decreased with increasing background levels of SOC. Using no-tillage, reducing summer fallow, including hay in rotation with wheat (Triticum aestivum L.), plowing green manures into the soil, and applying N and organic fertilizers were the practices that tended to show the most consistent increases in SOC storage. By relating treatment SOC levels to those in the control treatments, SOC stock change factors and their levels of uncertainty were derived for use in empirical models, such as the United Nations Intergovernmental Panel on Climate Change (IPCC) Guidelines model for C stock changes. However, we must be careful when attempting to extrapolate research plot data to farmers' fields since the history of soil and crop management has a significant influence on existing and future SOC stocks.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

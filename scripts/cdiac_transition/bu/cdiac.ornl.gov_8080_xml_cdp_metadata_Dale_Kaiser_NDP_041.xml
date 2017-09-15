@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Vose, R. S.]]></origin>
+        <origin><![CDATA[Schmoyer, R. L. ]]></origin>
+        <origin><![CDATA[Steurer, P. M.]]></origin>
+        <origin><![CDATA[Peterson, T. C.]]></origin>
+        <origin><![CDATA[Heim, R.]]></origin>
+        <origin><![CDATA[Karl, T. R. ]]></origin>
+        <origin><![CDATA[Eischeid, J. K.]]></origin>
+        <title><![CDATA[Global Historical Climatology Network: Long-Term Monthly Temperature, Precipitation, Sea Level Pressure, and Station Pressure Data (1992)]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_041.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Global Historical Climatology Network: Long-Term Monthly Temperature, Precipitation, Sea Level Pressure, and Station Pressure Data (1992)]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[16970101]]></begdate>
+          <enddate><![CDATA[19901231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Monthly Temperature]]></themekey>
+        <themekey><![CDATA[Precipitation]]></themekey>
+        <themekey><![CDATA[Sea Level Pressure]]></themekey>
+        <themekey><![CDATA[Station Pressure]]></themekey>
+        <themekey><![CDATA[Global Historical Climatology Network]]></themekey>
+        <themekey><![CDATA[Vose]]></themekey>
+        <themekey><![CDATA[Schmoyer]]></themekey>
+        <themekey><![CDATA[Steurer]]></themekey>
+        <themekey><![CDATA[Peterson]]></themekey>
+        <themekey><![CDATA[Heim]]></themekey>
+        <themekey><![CDATA[Karl]]></themekey>
+        <themekey><![CDATA[Eischeid]]></themekey>
+        <themekey><![CDATA[GHCN Database]]></themekey>
+        <themekey><![CDATA[NDP-041]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20170606 171836</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 142945 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Monthly Temperature]]></Keywords>
+    <Keywords><![CDATA[Precipitation]]></Keywords>
+    <Keywords><![CDATA[Sea Level Pressure]]></Keywords>
+    <Keywords><![CDATA[Station Pressure]]></Keywords>
+    <Keywords><![CDATA[Global Historical Climatology Network]]></Keywords>
+    <Keywords><![CDATA[Vose]]></Keywords>
+    <Keywords><![CDATA[Schmoyer]]></Keywords>
+    <Keywords><![CDATA[Steurer]]></Keywords>
+    <Keywords><![CDATA[Peterson]]></Keywords>
+    <Keywords><![CDATA[Heim]]></Keywords>
+    <Keywords><![CDATA[Karl]]></Keywords>
+    <Keywords><![CDATA[Eischeid]]></Keywords>
+    <Keywords><![CDATA[GHCN Database]]></Keywords>
+    <Keywords><![CDATA[NDP-041]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 142945 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/NDP_041.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.ndp041]]></Product_number>
+      <Product_title><![CDATA[Global Historical Climatology Network: Long-Term Monthly Temperature, Precipitation, Sea Level Pressure, and Station Pressure Data (1992)]]></Product_title>
+      <Author>
+        <Name><![CDATA[Vose, R. S.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Schmoyer, R. L. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Statistical Computing Office]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Steurer, P. M.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Peterson, T. C.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Heim, R.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Karl, T. R. ]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Eischeid, J. K.]]></Name>
+        <Company><![CDATA[Cooperative Institute for Research in Environmental Sciences]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp041/ndp041.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/cocodes.f]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/precip.data.]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/precip.flag.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/precip.statinv]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/press.sea.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/press.sea.flag.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/press.sea.statinv]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/press.sta.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/press.sta.flag.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/press.sta.statinv]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/temp.data.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/temp.flag.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/temp.statinv]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Temperature]]></Variable>
+      <Variable><![CDATA[Precipitation Amount]]></Variable>
+      <Variable><![CDATA[See Level Pressure]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/ndp/ndp041/ndp041.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/ndp041.doc]]></Data_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/ndp041.txt]]></Data_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/data.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/data.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/flag.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/flag.sas]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/invent.for]]></Data_IO_file>
+      <Data_IO_file><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/invent.sas]]></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19920101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19920701]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/ndp041/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[25.4MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This NDP contains monthly temperature, precipitation, sea-level pressure, and station-pressure data for thousands of meteorological stations worldwide. The database was compiled from pre-existing national, regional, and global collections of data as part of the Global Historical Climatology Network (GHCN) project, the goal of which is to produce, maintain, and make available a comprehensive global surface baseline climate data set for monitoring climate and detecting climate change. It contains data from roughly 6000 temperature stations, 7500 precipitation stations, 1800 sea level pressure stations, and 1800 station pressure stations. Each station has at least 10 years of data, 40% have more than 50 years of data. Spatial coverage is good over most of the globe, particularly for the United States and Europe. Data gaps are evident over the Amazon rainforest, the Sahara desert, Greenland, and Antarctica.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

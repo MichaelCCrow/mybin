@@ -1,0 +1,92 @@
+#!/bin/bash
+
+folder=$1
+#options=("python" "merge")
+#alias cutcol='cut -d, -f2-'
+#cutcol='cut -d, -f2-'
+
+#select opt in "${options[@]}"
+#do
+#    case $opt in
+#        "python")
+#            readfiles $folder
+#            break
+#            ;;
+#        "merge")
+#            readfiles $folder $2
+#            break
+#            ;;
+#        *) echo "invalid option";;
+#    esac
+#done
+
+function readfiles {
+str=""
+for file in "$1"/*; do
+    if [ -d $file ]; then
+        readfiles $file
+    else
+        #if [ $# -eq 1 ]; then
+
+
+            echo
+            echo "##########################"
+            echo "Reading from file: $file"
+            echo "##########################"
+            echo
+
+            cd /Users/mcu/ARM/dashboard/
+            python scripts/csv_exporter.py $file $2 $3 $4 $5
+
+            echo
+            echo "### Done ###"
+            echo
+
+        #else
+        #    str="$str <($cutcol $file)"
+        #    #bash $2 $file
+        #fi
+    fi
+done
+}
+#if [[ ! -z "${str// }" ]]; then
+#    startingFile=$2
+#    str2="paste -d, $startingFile $str > testfiles/testing.csv"
+#    eval $str2
+#    #paste -d, $str > testfiles/testing.csv
+#    #echo $str
+#fi
+#}
+#
+#select opt in "${options[@]}"
+#do
+#    case $opt in
+#        "python")
+#            readfiles $folder
+#            break
+#            ;;  
+#        "merge")
+#            readfiles $folder $2
+#            break
+#            ;;  
+#        *) echo "invalid option";;
+#    esac
+#done
+
+#readfiles $folder
+
+if [ $# -eq 1 ]; then
+    readfiles $folder '' '' '' ''
+fi
+if [ $# -eq 2 ]; then
+    readfiles $1 $2 '' '' ''
+fi
+if [ $# -eq 3 ]; then
+    readfiles $1 $2 $3 '' ''
+fi
+if [ $# -eq 4 ]; then
+    readfiles $1 $2 $3 $4 ''
+fi
+if [ $# -eq 3 ]; then
+    readfiles $1 $2 $3 $4 ''
+fi

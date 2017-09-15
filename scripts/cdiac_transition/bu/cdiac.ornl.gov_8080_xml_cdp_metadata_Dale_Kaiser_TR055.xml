@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Kaiser, D. P.]]></origin>
+        <origin><![CDATA[Tao, S.]]></origin>
+        <origin><![CDATA[Fu, C.]]></origin>
+        <origin><![CDATA[Zeng, Z.]]></origin>
+        <origin><![CDATA[Zhang, Q.]]></origin>
+        <origin><![CDATA[Wang, W.-C.]]></origin>
+        <origin><![CDATA[Karl, T. R.]]></origin>
+        <title><![CDATA[Climate Data Bases of the People's Republic of China 1841-1988]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/TR055.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/tr055/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Climate Data Bases of the People's Republic of China 1841-1988]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18800101]]></begdate>
+          <enddate><![CDATA[19881231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[75.983]]></westbc>
+        <eastbc><![CDATA[131.983]]></eastbc>
+        <northbc><![CDATA[53.467]]></northbc>
+        <southbc><![CDATA[19.233]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[WMO number]]></themekey>
+        <themekey><![CDATA[barometric pressure]]></themekey>
+        <themekey><![CDATA[cloud amount]]></themekey>
+        <themekey><![CDATA[days of snow]]></themekey>
+        <themekey><![CDATA[elevation]]></themekey>
+        <themekey><![CDATA[humidity]]></themekey>
+        <themekey><![CDATA[latitude]]></themekey>
+        <themekey><![CDATA[longitude]]></themekey>
+        <themekey><![CDATA[precipitation]]></themekey>
+        <themekey><![CDATA[station name]]></themekey>
+        <themekey><![CDATA[sunshine]]></themekey>
+        <themekey><![CDATA[temperature]]></themekey>
+        <themekey><![CDATA[wind direction]]></themekey>
+        <themekey><![CDATA[wind speed]]></themekey>
+        <themekey><![CDATA[year]]></themekey>
+        <themekey><![CDATA[TR055]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090707 154530</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 152119 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[WMO number]]></Keywords>
+    <Keywords><![CDATA[barometric pressure]]></Keywords>
+    <Keywords><![CDATA[cloud amount]]></Keywords>
+    <Keywords><![CDATA[days of snow]]></Keywords>
+    <Keywords><![CDATA[elevation]]></Keywords>
+    <Keywords><![CDATA[humidity]]></Keywords>
+    <Keywords><![CDATA[latitude]]></Keywords>
+    <Keywords><![CDATA[longitude]]></Keywords>
+    <Keywords><![CDATA[precipitation]]></Keywords>
+    <Keywords><![CDATA[station name]]></Keywords>
+    <Keywords><![CDATA[sunshine]]></Keywords>
+    <Keywords><![CDATA[temperature]]></Keywords>
+    <Keywords><![CDATA[wind direction]]></Keywords>
+    <Keywords><![CDATA[wind speed]]></Keywords>
+    <Keywords><![CDATA[year]]></Keywords>
+    <Keywords><![CDATA[TR055]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 152119 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Dale_Kaiser/TR055.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.tr055]]></Product_number>
+      <Product_title><![CDATA[Climate Data Bases of the People's Republic of China 1841-1988]]></Product_title>
+      <Author>
+        <Name><![CDATA[Kaiser, D. P.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Tao, S.]]></Name>
+        <Company><![CDATA[Chinese Academy of Sciences]]></Company>
+        <Organization><![CDATA[Institute of Atmospheric Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Fu, C.]]></Name>
+        <Company><![CDATA[Chinese Academy of Sciences ]]></Company>
+        <Organization><![CDATA[Institute of Atmospheric Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Zeng, Z.]]></Name>
+        <Company><![CDATA[Chinese Academy of Sciences]]></Company>
+        <Organization><![CDATA[Institute of Atmospheric Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Zhang, Q.]]></Name>
+        <Company><![CDATA[Chinese Academy of Sciences]]></Company>
+        <Organization><![CDATA[Institute of Atmospheric Physics]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Wang, W.-C.]]></Name>
+        <Company><![CDATA[University at Albany, State University of New York]]></Company>
+        <Organization><![CDATA[Atmospheric Science Research Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Karl, T. R.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[People's Republic of China]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/ndps/tr055.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/tr055/sta147.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/tr055/sta180.dat.Z]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/tr055/sta205p.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/tr055/sta205t.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/tr055/sta40.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/tr055/sta60.dat.Z]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[WMO station number]]></Variable>
+      <Variable><![CDATA[month]]></Variable>
+      <Variable><![CDATA[mean station pressure (mb)]]></Variable>
+      <Variable><![CDATA[mean temperature (C)]]></Variable>
+      <Variable><![CDATA[mean maximum temperature (C)]]></Variable>
+      <Variable><![CDATA[mean minimum temperature (C)]]></Variable>
+      <Variable><![CDATA[total precipitation (mm)]]></Variable>
+      <Variable><![CDATA[sunshine duration (h)]]></Variable>
+      <Variable><![CDATA[mean cloud amount (percentage of sky cover)]]></Variable>
+      <Variable><![CDATA[mean relative humidity (%)]]></Variable>
+      <Variable><![CDATA[snow days (days with snow cover)]]></Variable>
+      <Variable><![CDATA[dominant wind direction (degrees)]]></Variable>
+      <Variable><![CDATA[mean wind speed (m/s)]]></Variable>
+      <Variable><![CDATA[dominant wind frequency (%)]]></Variable>
+      <Variable><![CDATA[extreme maximum temperature (C)]]></Variable>
+      <Variable><![CDATA[extreme minimum temperature (C)]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/ndps/tr055.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[1900000]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19951101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/tr055/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[17.5 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ A data base containing meteorological observations from the People's Republic of China (PRC) is described. These data were compiled in accordance with a joint research agreement signed by the U.S. Department of Energy and the PRC Chinese Academy of Sciences (CAS) on August 19, 1987. CAS's Institute of Atmospheric Physics (Beijing, PRC) has provided records from 296 stations, organized into five data sets: (1) a 60-station data set containing monthly measurements of barometric pressure, surface air temperature, precipitation amount, relative humidity, sunshine duration, cloud amount, wind direction and speed, and number of days with snow cover; (2) a 205-station data set containing monthly mean temperatures and monthly precipitation totals; (3) a 40-station subset of the 205-station data set containing monthly mean maximum and minimum temperatures and monthly extreme maximum and minimum temperatures; (4) a 180-station data set containing daily precipitation totals; and (5) a 147-station data set containing 10-day precipitation totals. Sixteen stations from these data sets (13 from the 60-station set and 3 from the 205-station set) have temperature and/or precipitation records that begin prior to 1900, whereas the remaining stations began observing in the early to mid-1900s. Records from most stations extend through 1988.
+<br><br>
+ These data can be used in defining regional climate changes, establishing relationships between regional and large-scale climates, studying the climatic impacts of urbanization and increased concentrations of greenhouse gases, and assembling large-scale climate data bases. Additional uses could include examining impacts of periodic events such as volcanic eruptions or the El Ni&amp;ntildeo/Southern Oscillation. These data sets represent the most comprehensive, long-term instrumental Chinese climate data currently available.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

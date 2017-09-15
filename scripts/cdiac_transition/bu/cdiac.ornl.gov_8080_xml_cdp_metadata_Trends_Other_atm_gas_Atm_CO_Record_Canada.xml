@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Steele, L. P.]]></origin>
+        <origin><![CDATA[Krummel, P. B. ]]></origin>
+        <origin><![CDATA[Langenfelds, R. J. ]]></origin>
+        <title><![CDATA[Atmospheric CO Concentrations from the CSIRO GASLAB Flask Sampling Network]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Other_atm_gas/Atm_CO_Record_Canada.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-co/csiro-altco.html]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Atmospheric CO Concentrations from the CSIRO GASLAB Flask Sampling Network]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19920201]]></begdate>
+          <enddate><![CDATA[20011231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050809 152741</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 152741 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[L.P. Steele, P.B. Krummel and R.L. Langenfelds
+Commonwealth Scientific and Industrial Research Organization (CSIRO),
+Alert, NWT, Canada
+CITE AS: Steele, L. P., P. B. Krummel and R. L. Langenfelds. 2003. Atmospheric CO concentrations from sites in the CSIRO Atmospheric Research GASLAB air sampling network (October 2002 version). In Trends: A Compendium of Data on Global Change, Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, TN, U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.2e, Revision Date: 19 Jul 2005</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 152741 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/Other_atm_gas/Atm_CO_Record_Canada.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[ TRENDS-OTHER ATMOSPHERIC TRACE GASES]]></Product_number>
+      <Product_title><![CDATA[Atmospheric CO Concentrations from the CSIRO GASLAB Flask Sampling Network]]></Product_title>
+      <Author>
+        <Name><![CDATA[Steele, L. P.]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Krummel, P. B. ]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Langenfelds, R. J. ]]></Name>
+        <Company><![CDATA[Commonwealth Scientific and Industrial Research Organization (CSIRO)]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alert, NWT, Canada]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-co/csiro-altco.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/otheratg/csiro-co/altco_mm.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-co/csiro-alertco.jpg]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Year (1992 - 2001)]]></Variable>
+      <Variable><![CDATA[January]]></Variable>
+      <Variable><![CDATA[February]]></Variable>
+      <Variable><![CDATA[March]]></Variable>
+      <Variable><![CDATA[April]]></Variable>
+      <Variable><![CDATA[May]]></Variable>
+      <Variable><![CDATA[June]]></Variable>
+      <Variable><![CDATA[July]]></Variable>
+      <Variable><![CDATA[August]]></Variable>
+      <Variable><![CDATA[September]]></Variable>
+      <Variable><![CDATA[October]]></Variable>
+      <Variable><![CDATA[November]]></Variable>
+      <Variable><![CDATA[December]]></Variable>
+      <Variable><![CDATA[Annual Average]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-co/csiro-altco.htmlL.P. Steele, P.B. Krummel and R.L. Langenfelds
+Commonwealth Scientific and Industrial Research Organization (CSIRO),
+Alert, NWT, Canada
+CITE AS: Steele, L. P., P. B. Krummel and R. L. Langenfelds. 2003. Atmospheric CO concentrations from sites in the CSIRO Atmospheric Research GASLAB air sampling network (October 2002 version). In Trends: A Compendium of Data on Global Change, Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, TN, U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ornl.gov/trends/otheratg/csiro-co/csiro-altco.html]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ Individual measurements have been obtained from flask air samples returned to the CSIRO GASLAB. Typical sample storage times range from days to weeks for some sites (e.g. Cape Grim) to as much as 1 year for Macquarie Island and the Antarctic sites. Experiments carried out to test for changes in sample CO mixing ratio during storage have shown significant drifts in some flask types over test periods of several months to years (Cooper et al., 1999). Corrections derived from the test results are applied to network data according to flask type. (Data from the S160 flasks have been rejected due to large and variable drift.)
+<br><br>
+An annual cycle of CO is evident, largely due to an increase in its destruction by the OH radical during the summer months. Additional influences include spatial and seasonal differences in source strength associated with varying trajectories of arriving air at different times of the year. Annual average CO mixing ratios at Alert in 2001 had decreased by about 13 percent of their 1993 value. A string of abnormally high monthly mixing ratios during the winter of 1998-1999, coupled with higher than normal mixing ratios during the previous summer, led to an anomalously high annual average for 1998. Elevated CO mixing ratios were observed on a global scale during 1998 (see Langenfelds et al., 2002).]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

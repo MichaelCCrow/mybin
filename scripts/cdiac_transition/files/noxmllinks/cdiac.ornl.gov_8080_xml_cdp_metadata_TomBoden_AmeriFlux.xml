@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Dr. Bev Law, Science Chair]]></origin>
+        <origin><![CDATA[Mr. Tom Boden, Data Manager]]></origin>
+        <title><![CDATA[AmeriFlux]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://public.ornl.gov/ameriflux/dataproducts.shtml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ameriflux/data]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[AmeriFlux]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19910101]]></begdate>
+          <enddate><![CDATA[20111231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[AmeriFlux]]></themekey>
+        <themekey><![CDATA[AmeriFlux data]]></themekey>
+        <themekey><![CDATA[Bev Law]]></themekey>
+        <themekey><![CDATA[FLUXNET]]></themekey>
+        <themekey><![CDATA[Eddy-covariance]]></themekey>
+        <themekey><![CDATA[Sonic anemometer]]></themekey>
+        <themekey><![CDATA[Micrometeorology]]></themekey>
+        <themekey><![CDATA[Carbon dioxide fluxes]]></themekey>
+        <themekey><![CDATA[Water vapor fluxes]]></themekey>
+        <themekey><![CDATA[Radiation fluxes]]></themekey>
+        <themekey><![CDATA[Terrestrial carbon fluxes]]></themekey>
+        <themekey><![CDATA[Terrestrial carbon stocks]]></themekey>
+        <themekey><![CDATA[Meteorological measurements]]></themekey>
+        <themekey><![CDATA[Ecological measurements]]></themekey>
+        <themekey><![CDATA[BADM]]></themekey>
+        <themekey><![CDATA[Terrestrial ecosystem productivity]]></themekey>
+        <themekey><![CDATA[Net ecosystem exchange]]></themekey>
+        <themekey><![CDATA[AmeriFlux sites]]></themekey>
+        <themekey><![CDATA[ARM SGP Burn]]></themekey>
+        <themekey><![CDATA[ARM SGP Control]]></themekey>
+        <themekey><![CDATA[ARM SGP Main]]></themekey>
+        <themekey><![CDATA[ARM USDA UNL OSU Woodward Switchgrass 1]]></themekey>
+        <themekey><![CDATA[ARM USDA UNL OSU Woodward Switchgrass 2]]></themekey>
+        <themekey><![CDATA[Alaska Moderately Burned Tundra]]></themekey>
+        <themekey><![CDATA[Alaska Severely Burned Tundra]]></themekey>
+        <themekey><![CDATA[Alaska Unburned Tundra]]></themekey>
+        <themekey><![CDATA[Atqasuk]]></themekey>
+        <themekey><![CDATA[Audubon Research Ranch]]></themekey>
+        <themekey><![CDATA[Austin Cary]]></themekey>
+        <themekey><![CDATA[Barrow]]></themekey>
+        <themekey><![CDATA[Bartlett Experimental Forest]]></themekey>
+        <themekey><![CDATA[Black Hills]]></themekey>
+        <themekey><![CDATA[Blodgett Forest]]></themekey>
+        <themekey><![CDATA[Bondville]]></themekey>
+        <themekey><![CDATA[Bondville Companion Site]]></themekey>
+        <themekey><![CDATA[Brookings]]></themekey>
+        <themekey><![CDATA[Brooks Field Site]]></themekey>
+        <themekey><![CDATA[Brooks Field Site 10]]></themekey>
+        <themekey><![CDATA[Brooks Field Site 1011]]></themekey>
+        <themekey><![CDATA[Brooks Field Site 11]]></themekey>
+        <themekey><![CDATA[Canaan Valley]]></themekey>
+        <themekey><![CDATA[Cedar Bridge]]></themekey>
+        <themekey><![CDATA[Chestnut Ridge]]></themekey>
+        <themekey><![CDATA[Corral Pocket]]></themekey>
+        <themekey><![CDATA[Cottonwood]]></themekey>
+        <themekey><![CDATA[Donaldson]]></themekey>
+        <themekey><![CDATA[Duke Forest]]></themekey>
+        <themekey><![CDATA[Duke Forest Hardwoods]]></themekey>
+        <themekey><![CDATA[Duke Forest Loblolly Pine]]></themekey>
+        <themekey><![CDATA[Duke Forest Open Field]]></themekey>
+        <themekey><![CDATA[Fermi]]></themekey>
+        <themekey><![CDATA[Fermi Agricultural]]></themekey>
+        <themekey><![CDATA[Fermi Prairie]]></themekey>
+        <themekey><![CDATA[Flagstaff]]></themekey>
+        <themekey><![CDATA[Flagstaff Managed Forest]]></themekey>
+        <themekey><![CDATA[Flagstaff Unmanaged Forest]]></themekey>
+        <themekey><![CDATA[Flagstaff Wildfire]]></themekey>
+        <themekey><![CDATA[Florida Everglades ]]></themekey>
+        <themekey><![CDATA[Florida Everglades Shark River Slough Long Hydroperiod Marsh]]></themekey>
+        <themekey><![CDATA[Florida Everglades Shark River Slough Mangrove Forest]]></themekey>
+        <themekey><![CDATA[Florida Everglades Taylor Slough Short Hydroperiod Marsh]]></themekey>
+        <themekey><![CDATA[Fort Dix]]></themekey>
+        <themekey><![CDATA[Fort Peck]]></themekey>
+        <themekey><![CDATA[Freeman Ranch]]></themekey>
+        <themekey><![CDATA[Freeman Ranch Grassland]]></themekey>
+        <themekey><![CDATA[Freeman Ranch Mesquite Juniper]]></themekey>
+        <themekey><![CDATA[Freeman Ranch Woodland]]></themekey>
+        <themekey><![CDATA[GLEES]]></themekey>
+        <themekey><![CDATA[Goodwin Creek]]></themekey>
+        <themekey><![CDATA[Great Mountain Forest]]></themekey>
+        <themekey><![CDATA[Happy Valley]]></themekey>
+        <themekey><![CDATA[Harvard Forest]]></themekey>
+        <themekey><![CDATA[Harvard Forest Hemlock]]></themekey>
+        <themekey><![CDATA[Heritage Land Conservancy]]></themekey>
+        <themekey><![CDATA[Howland Forest]]></themekey>
+        <themekey><![CDATA[Howland Forest East Tower Harvest Site]]></themekey>
+        <themekey><![CDATA[Howland Forest Main]]></themekey>
+        <themekey><![CDATA[Howland Forest West Tower]]></themekey>
+        <themekey><![CDATA[Ivotuk]]></themekey>
+        <themekey><![CDATA[Kansas Field Station]]></themekey>
+        <themekey><![CDATA[KCMP]]></themekey>
+        <themekey><![CDATA[KCMP Tall Tower]]></themekey>
+        <themekey><![CDATA[Kendall Grassland]]></themekey>
+        <themekey><![CDATA[Kennedy Space Center]]></themekey>
+        <themekey><![CDATA[Kennedy Space Center Scrub Oak]]></themekey>
+        <themekey><![CDATA[Kennedy Space Center Slash Pine Flatwoods]]></themekey>
+        <themekey><![CDATA[KUOM]]></themekey>
+        <themekey><![CDATA[KUOM Tower]]></themekey>
+        <themekey><![CDATA[La Paz]]></themekey>
+        <themekey><![CDATA[La Selva]]></themekey>
+        <themekey><![CDATA[LBA Tapajos]]></themekey>
+        <themekey><![CDATA[LBA Tapajos KM67 Mature Forest]]></themekey>
+        <themekey><![CDATA[LBA Tapajos KM83 Logged Forest]]></themekey>
+        <themekey><![CDATA[Little Prospect Hill]]></themekey>
+        <themekey><![CDATA[Little Washita]]></themekey>
+        <themekey><![CDATA[Lost Creek]]></themekey>
+        <themekey><![CDATA[Lucky Hills Shrubland]]></themekey>
+        <themekey><![CDATA[Mary's River Fir Site]]></themekey>
+        <themekey><![CDATA[Mead]]></themekey>
+        <themekey><![CDATA[Mead Irrigated]]></themekey>
+        <themekey><![CDATA[Mead Irrigated Rotation]]></themekey>
+        <themekey><![CDATA[Mead Rainfed]]></themekey>
+        <themekey><![CDATA[Metolius]]></themekey>
+        <themekey><![CDATA[Metolius Eyerly Burn]]></themekey>
+        <themekey><![CDATA[Metolius First Young Pine]]></themekey>
+        <themekey><![CDATA[Metolius Intermediate Pine]]></themekey>
+        <themekey><![CDATA[Metolius New Young Pine]]></themekey>
+        <themekey><![CDATA[Metolius Old Pine]]></themekey>
+        <themekey><![CDATA[Metolius Second Young Pine]]></themekey>
+        <themekey><![CDATA[Missouri Ozark]]></themekey>
+        <themekey><![CDATA[Mize]]></themekey>
+        <themekey><![CDATA[Morgan Monroe State Forest]]></themekey>
+        <themekey><![CDATA[Niwot Ridge]]></themekey>
+        <themekey><![CDATA[North Carolina Clearcut]]></themekey>
+        <themekey><![CDATA[North Carolina Loblolly Pine]]></themekey>
+        <themekey><![CDATA[Northern Michigan Jack Pine]]></themekey>
+        <themekey><![CDATA[Ohio Oak Openings]]></themekey>
+        <themekey><![CDATA[Park Falls]]></themekey>
+        <themekey><![CDATA[Ponca]]></themekey>
+        <themekey><![CDATA[Ponca Winter Wheat]]></themekey>
+        <themekey><![CDATA[Rayonier]]></themekey>
+        <themekey><![CDATA[Rosemount]]></themekey>
+        <themekey><![CDATA[Rosemount C7]]></themekey>
+        <themekey><![CDATA[Rosemount G19 Alternative Management Corn Soybean Rotation]]></themekey>
+        <themekey><![CDATA[Rosemount G21 Conventional Management Corn Soybean Rotation]]></themekey>
+        <themekey><![CDATA[San Joaquin Freshwater Marsh]]></themekey>
+        <themekey><![CDATA[San Joaquin Freshwater Marsh Tower 1]]></themekey>
+        <themekey><![CDATA[San Joaquin Freshwater Marsh Tower 2]]></themekey>
+        <themekey><![CDATA[Santa Rita]]></themekey>
+        <themekey><![CDATA[Santa Rita Creosote]]></themekey>
+        <themekey><![CDATA[Santa Rita Mesquite Savanna]]></themekey>
+        <themekey><![CDATA[Sevilleta]]></themekey>
+        <themekey><![CDATA[Sevilleta Desert Grassland (LTER)]]></themekey>
+        <themekey><![CDATA[Sevilleta Desert Shrubland (LTER)]]></themekey>
+        <themekey><![CDATA[Sherman Island]]></themekey>
+        <themekey><![CDATA[Shidler Tallgrass Prairie]]></themekey>
+        <themekey><![CDATA[Silas Little Experimental Forest]]></themekey>
+        <themekey><![CDATA[Sioux Falls Portable]]></themekey>
+        <themekey><![CDATA[Sky Oaks]]></themekey>
+        <themekey><![CDATA[Sky Oaks New]]></themekey>
+        <themekey><![CDATA[Sky Oaks Old]]></themekey>
+        <themekey><![CDATA[Sky Oaks Young]]></themekey>
+        <themekey><![CDATA[Southern California Climate Gradient]]></themekey>
+        <themekey><![CDATA[Southern California Climate Gradient Coastal Sage]]></themekey>
+        <themekey><![CDATA[Southern California Climate Gradient Desert]]></themekey>
+        <themekey><![CDATA[Southern California Climate Gradient Desert Chaparral]]></themekey>
+        <themekey><![CDATA[Southern California Climate Gradient Grassland]]></themekey>
+        <themekey><![CDATA[Southern California Climate Gradient Oak Pine Forest]]></themekey>
+        <themekey><![CDATA[Southern California Climate Gradient Pinyon Juniper Woodland]]></themekey>
+        <themekey><![CDATA[Southern California Climate Gradient Sierran Mixed Conifer]]></themekey>
+        <themekey><![CDATA[Sylvania Wilderness]]></themekey>
+        <themekey><![CDATA[Tablelands Juniper Savanna]]></themekey>
+        <themekey><![CDATA[Tonzi Ranch]]></themekey>
+        <themekey><![CDATA[Twitchell Island]]></themekey>
+        <themekey><![CDATA[UCI Burn]]></themekey>
+        <themekey><![CDATA[UCI 1850]]></themekey>
+        <themekey><![CDATA[UCI 1930]]></themekey>
+        <themekey><![CDATA[UCI 1964]]></themekey>
+        <themekey><![CDATA[UCI 1964wet]]></themekey>
+        <themekey><![CDATA[UCI 1981]]></themekey>
+        <themekey><![CDATA[UCI 1989]]></themekey>
+        <themekey><![CDATA[UCI 1998]]></themekey>
+        <themekey><![CDATA[UCI 2003]]></themekey>
+        <themekey><![CDATA[UMBS]]></themekey>
+        <themekey><![CDATA[UMBS Disturbance]]></themekey>
+        <themekey><![CDATA[UPad]]></themekey>
+        <themekey><![CDATA[Vaira Ranch]]></themekey>
+        <themekey><![CDATA[Valles Caldera]]></themekey>
+        <themekey><![CDATA[Valles Caldera Mixed Conifer]]></themekey>
+        <themekey><![CDATA[Valles Caldera Ponderosa Pine]]></themekey>
+        <themekey><![CDATA[Walker Branch]]></themekey>
+        <themekey><![CDATA[Walnut River]]></themekey>
+        <themekey><![CDATA[Willow Creek]]></themekey>
+        <themekey><![CDATA[Wind River Crane Site ]]></themekey>
+        <themekey><![CDATA[Wisconsin Clearcut Red Pine]]></themekey>
+        <themekey><![CDATA[Wisconsin Clearcut Young Hardwood]]></themekey>
+        <themekey><![CDATA[Wisconsin Intermediate Hardwoods]]></themekey>
+        <themekey><![CDATA[Wisconsin Intermediate Red Pine]]></themekey>
+        <themekey><![CDATA[Wisconsin Mature Hardwood]]></themekey>
+        <themekey><![CDATA[Wisconsin Mature Red Pine]]></themekey>
+        <themekey><![CDATA[Wisconsin Mixed Young Jack Pine]]></themekey>
+        <themekey><![CDATA[Wisconsin Pine Barrens]]></themekey>
+        <themekey><![CDATA[Wisconsin Young Jack Pine]]></themekey>
+        <themekey><![CDATA[Wisconsin Young Red Pine]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[http://public.ornl.gov/ameriflux/dataproducts.shtml]]></placekey>
+        <placekey><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ameriflux/data]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden (bodenta@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden (bodenta@ornl.gov)]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20121008 164021</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden (bodenta@ornl.gov)Bai Yang (yangb@ornl.gov)]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20090714 134955 by 160.91.18.20</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[AmeriFlux]]></Keywords>
+    <Keywords><![CDATA[AmeriFlux data]]></Keywords>
+    <Keywords><![CDATA[Bev Law]]></Keywords>
+    <Keywords><![CDATA[FLUXNET]]></Keywords>
+    <Keywords><![CDATA[Eddy-covariance]]></Keywords>
+    <Keywords><![CDATA[Sonic anemometer]]></Keywords>
+    <Keywords><![CDATA[Micrometeorology]]></Keywords>
+    <Keywords><![CDATA[Carbon dioxide fluxes]]></Keywords>
+    <Keywords><![CDATA[Water vapor fluxes]]></Keywords>
+    <Keywords><![CDATA[Radiation fluxes]]></Keywords>
+    <Keywords><![CDATA[Terrestrial carbon fluxes]]></Keywords>
+    <Keywords><![CDATA[Terrestrial carbon stocks]]></Keywords>
+    <Keywords><![CDATA[Meteorological measurements]]></Keywords>
+    <Keywords><![CDATA[Ecological measurements]]></Keywords>
+    <Keywords><![CDATA[BADM]]></Keywords>
+    <Keywords><![CDATA[Terrestrial ecosystem productivity]]></Keywords>
+    <Keywords><![CDATA[Net ecosystem exchange]]></Keywords>
+    <Keywords><![CDATA[AmeriFlux sites]]></Keywords>
+    <Keywords><![CDATA[ARM SGP Burn]]></Keywords>
+    <Keywords><![CDATA[ARM SGP Control]]></Keywords>
+    <Keywords><![CDATA[ARM SGP Main]]></Keywords>
+    <Keywords><![CDATA[ARM USDA UNL OSU Woodward Switchgrass 1]]></Keywords>
+    <Keywords><![CDATA[ARM USDA UNL OSU Woodward Switchgrass 2]]></Keywords>
+    <Keywords><![CDATA[Alaska Moderately Burned Tundra]]></Keywords>
+    <Keywords><![CDATA[Alaska Severely Burned Tundra]]></Keywords>
+    <Keywords><![CDATA[Alaska Unburned Tundra]]></Keywords>
+    <Keywords><![CDATA[Atqasuk]]></Keywords>
+    <Keywords><![CDATA[Audubon Research Ranch]]></Keywords>
+    <Keywords><![CDATA[Austin Cary]]></Keywords>
+    <Keywords><![CDATA[Barrow]]></Keywords>
+    <Keywords><![CDATA[Bartlett Experimental Forest]]></Keywords>
+    <Keywords><![CDATA[Black Hills]]></Keywords>
+    <Keywords><![CDATA[Blodgett Forest]]></Keywords>
+    <Keywords><![CDATA[Bondville]]></Keywords>
+    <Keywords><![CDATA[Bondville Companion Site]]></Keywords>
+    <Keywords><![CDATA[Brookings]]></Keywords>
+    <Keywords><![CDATA[Brooks Field Site]]></Keywords>
+    <Keywords><![CDATA[Brooks Field Site 10]]></Keywords>
+    <Keywords><![CDATA[Brooks Field Site 1011]]></Keywords>
+    <Keywords><![CDATA[Brooks Field Site 11]]></Keywords>
+    <Keywords><![CDATA[Canaan Valley]]></Keywords>
+    <Keywords><![CDATA[Cedar Bridge]]></Keywords>
+    <Keywords><![CDATA[Chestnut Ridge]]></Keywords>
+    <Keywords><![CDATA[Corral Pocket]]></Keywords>
+    <Keywords><![CDATA[Cottonwood]]></Keywords>
+    <Keywords><![CDATA[Donaldson]]></Keywords>
+    <Keywords><![CDATA[Duke Forest]]></Keywords>
+    <Keywords><![CDATA[Duke Forest Hardwoods]]></Keywords>
+    <Keywords><![CDATA[Duke Forest Loblolly Pine]]></Keywords>
+    <Keywords><![CDATA[Duke Forest Open Field]]></Keywords>
+    <Keywords><![CDATA[Fermi]]></Keywords>
+    <Keywords><![CDATA[Fermi Agricultural]]></Keywords>
+    <Keywords><![CDATA[Fermi Prairie]]></Keywords>
+    <Keywords><![CDATA[Flagstaff]]></Keywords>
+    <Keywords><![CDATA[Flagstaff Managed Forest]]></Keywords>
+    <Keywords><![CDATA[Flagstaff Unmanaged Forest]]></Keywords>
+    <Keywords><![CDATA[Flagstaff Wildfire]]></Keywords>
+    <Keywords><![CDATA[Florida Everglades ]]></Keywords>
+    <Keywords><![CDATA[Florida Everglades Shark River Slough Long Hydroperiod Marsh]]></Keywords>
+    <Keywords><![CDATA[Florida Everglades Shark River Slough Mangrove Forest]]></Keywords>
+    <Keywords><![CDATA[Florida Everglades Taylor Slough Short Hydroperiod Marsh]]></Keywords>
+    <Keywords><![CDATA[Fort Dix]]></Keywords>
+    <Keywords><![CDATA[Fort Peck]]></Keywords>
+    <Keywords><![CDATA[Freeman Ranch]]></Keywords>
+    <Keywords><![CDATA[Freeman Ranch Grassland]]></Keywords>
+    <Keywords><![CDATA[Freeman Ranch Mesquite Juniper]]></Keywords>
+    <Keywords><![CDATA[Freeman Ranch Woodland]]></Keywords>
+    <Keywords><![CDATA[GLEES]]></Keywords>
+    <Keywords><![CDATA[Goodwin Creek]]></Keywords>
+    <Keywords><![CDATA[Great Mountain Forest]]></Keywords>
+    <Keywords><![CDATA[Happy Valley]]></Keywords>
+    <Keywords><![CDATA[Harvard Forest]]></Keywords>
+    <Keywords><![CDATA[Harvard Forest Hemlock]]></Keywords>
+    <Keywords><![CDATA[Heritage Land Conservancy]]></Keywords>
+    <Keywords><![CDATA[Howland Forest]]></Keywords>
+    <Keywords><![CDATA[Howland Forest East Tower Harvest Site]]></Keywords>
+    <Keywords><![CDATA[Howland Forest Main]]></Keywords>
+    <Keywords><![CDATA[Howland Forest West Tower]]></Keywords>
+    <Keywords><![CDATA[Ivotuk]]></Keywords>
+    <Keywords><![CDATA[Kansas Field Station]]></Keywords>
+    <Keywords><![CDATA[KCMP]]></Keywords>
+    <Keywords><![CDATA[KCMP Tall Tower]]></Keywords>
+    <Keywords><![CDATA[Kendall Grassland]]></Keywords>
+    <Keywords><![CDATA[Kennedy Space Center]]></Keywords>
+    <Keywords><![CDATA[Kennedy Space Center Scrub Oak]]></Keywords>
+    <Keywords><![CDATA[Kennedy Space Center Slash Pine Flatwoods]]></Keywords>
+    <Keywords><![CDATA[KUOM]]></Keywords>
+    <Keywords><![CDATA[KUOM Tower]]></Keywords>
+    <Keywords><![CDATA[La Paz]]></Keywords>
+    <Keywords><![CDATA[La Selva]]></Keywords>
+    <Keywords><![CDATA[LBA Tapajos]]></Keywords>
+    <Keywords><![CDATA[LBA Tapajos KM67 Mature Forest]]></Keywords>
+    <Keywords><![CDATA[LBA Tapajos KM83 Logged Forest]]></Keywords>
+    <Keywords><![CDATA[Little Prospect Hill]]></Keywords>
+    <Keywords><![CDATA[Little Washita]]></Keywords>
+    <Keywords><![CDATA[Lost Creek]]></Keywords>
+    <Keywords><![CDATA[Lucky Hills Shrubland]]></Keywords>
+    <Keywords><![CDATA[Mary's River Fir Site]]></Keywords>
+    <Keywords><![CDATA[Mead]]></Keywords>
+    <Keywords><![CDATA[Mead Irrigated]]></Keywords>
+    <Keywords><![CDATA[Mead Irrigated Rotation]]></Keywords>
+    <Keywords><![CDATA[Mead Rainfed]]></Keywords>
+    <Keywords><![CDATA[Metolius]]></Keywords>
+    <Keywords><![CDATA[Metolius Eyerly Burn]]></Keywords>
+    <Keywords><![CDATA[Metolius First Young Pine]]></Keywords>
+    <Keywords><![CDATA[Metolius Intermediate Pine]]></Keywords>
+    <Keywords><![CDATA[Metolius New Young Pine]]></Keywords>
+    <Keywords><![CDATA[Metolius Old Pine]]></Keywords>
+    <Keywords><![CDATA[Metolius Second Young Pine]]></Keywords>
+    <Keywords><![CDATA[Missouri Ozark]]></Keywords>
+    <Keywords><![CDATA[Mize]]></Keywords>
+    <Keywords><![CDATA[Morgan Monroe State Forest]]></Keywords>
+    <Keywords><![CDATA[Niwot Ridge]]></Keywords>
+    <Keywords><![CDATA[North Carolina Clearcut]]></Keywords>
+    <Keywords><![CDATA[North Carolina Loblolly Pine]]></Keywords>
+    <Keywords><![CDATA[Northern Michigan Jack Pine]]></Keywords>
+    <Keywords><![CDATA[Ohio Oak Openings]]></Keywords>
+    <Keywords><![CDATA[Park Falls]]></Keywords>
+    <Keywords><![CDATA[Ponca]]></Keywords>
+    <Keywords><![CDATA[Ponca Winter Wheat]]></Keywords>
+    <Keywords><![CDATA[Rayonier]]></Keywords>
+    <Keywords><![CDATA[Rosemount]]></Keywords>
+    <Keywords><![CDATA[Rosemount C7]]></Keywords>
+    <Keywords><![CDATA[Rosemount G19 Alternative Management Corn Soybean Rotation]]></Keywords>
+    <Keywords><![CDATA[Rosemount G21 Conventional Management Corn Soybean Rotation]]></Keywords>
+    <Keywords><![CDATA[San Joaquin Freshwater Marsh]]></Keywords>
+    <Keywords><![CDATA[San Joaquin Freshwater Marsh Tower 1]]></Keywords>
+    <Keywords><![CDATA[San Joaquin Freshwater Marsh Tower 2]]></Keywords>
+    <Keywords><![CDATA[Santa Rita]]></Keywords>
+    <Keywords><![CDATA[Santa Rita Creosote]]></Keywords>
+    <Keywords><![CDATA[Santa Rita Mesquite Savanna]]></Keywords>
+    <Keywords><![CDATA[Sevilleta]]></Keywords>
+    <Keywords><![CDATA[Sevilleta Desert Grassland (LTER)]]></Keywords>
+    <Keywords><![CDATA[Sevilleta Desert Shrubland (LTER)]]></Keywords>
+    <Keywords><![CDATA[Sherman Island]]></Keywords>
+    <Keywords><![CDATA[Shidler Tallgrass Prairie]]></Keywords>
+    <Keywords><![CDATA[Silas Little Experimental Forest]]></Keywords>
+    <Keywords><![CDATA[Sioux Falls Portable]]></Keywords>
+    <Keywords><![CDATA[Sky Oaks]]></Keywords>
+    <Keywords><![CDATA[Sky Oaks New]]></Keywords>
+    <Keywords><![CDATA[Sky Oaks Old]]></Keywords>
+    <Keywords><![CDATA[Sky Oaks Young]]></Keywords>
+    <Keywords><![CDATA[Southern California Climate Gradient]]></Keywords>
+    <Keywords><![CDATA[Southern California Climate Gradient Coastal Sage]]></Keywords>
+    <Keywords><![CDATA[Southern California Climate Gradient Desert]]></Keywords>
+    <Keywords><![CDATA[Southern California Climate Gradient Desert Chaparral]]></Keywords>
+    <Keywords><![CDATA[Southern California Climate Gradient Grassland]]></Keywords>
+    <Keywords><![CDATA[Southern California Climate Gradient Oak Pine Forest]]></Keywords>
+    <Keywords><![CDATA[Southern California Climate Gradient Pinyon Juniper Woodland]]></Keywords>
+    <Keywords><![CDATA[Southern California Climate Gradient Sierran Mixed Conifer]]></Keywords>
+    <Keywords><![CDATA[Sylvania Wilderness]]></Keywords>
+    <Keywords><![CDATA[Tablelands Juniper Savanna]]></Keywords>
+    <Keywords><![CDATA[Tonzi Ranch]]></Keywords>
+    <Keywords><![CDATA[Twitchell Island]]></Keywords>
+    <Keywords><![CDATA[UCI Burn]]></Keywords>
+    <Keywords><![CDATA[UCI 1850]]></Keywords>
+    <Keywords><![CDATA[UCI 1930]]></Keywords>
+    <Keywords><![CDATA[UCI 1964]]></Keywords>
+    <Keywords><![CDATA[UCI 1964wet]]></Keywords>
+    <Keywords><![CDATA[UCI 1981]]></Keywords>
+    <Keywords><![CDATA[UCI 1989]]></Keywords>
+    <Keywords><![CDATA[UCI 1998]]></Keywords>
+    <Keywords><![CDATA[UCI 2003]]></Keywords>
+    <Keywords><![CDATA[UMBS]]></Keywords>
+    <Keywords><![CDATA[UMBS Disturbance]]></Keywords>
+    <Keywords><![CDATA[UPad]]></Keywords>
+    <Keywords><![CDATA[Vaira Ranch]]></Keywords>
+    <Keywords><![CDATA[Valles Caldera]]></Keywords>
+    <Keywords><![CDATA[Valles Caldera Mixed Conifer]]></Keywords>
+    <Keywords><![CDATA[Valles Caldera Ponderosa Pine]]></Keywords>
+    <Keywords><![CDATA[Walker Branch]]></Keywords>
+    <Keywords><![CDATA[Walnut River]]></Keywords>
+    <Keywords><![CDATA[Willow Creek]]></Keywords>
+    <Keywords><![CDATA[Wind River Crane Site ]]></Keywords>
+    <Keywords><![CDATA[Wisconsin Clearcut Red Pine]]></Keywords>
+    <Keywords><![CDATA[Wisconsin Clearcut Young Hardwood]]></Keywords>
+    <Keywords><![CDATA[Wisconsin Intermediate Hardwoods]]></Keywords>
+    <Keywords><![CDATA[Wisconsin Intermediate Red Pine]]></Keywords>
+    <Keywords><![CDATA[Wisconsin Mature Hardwood]]></Keywords>
+    <Keywords><![CDATA[Wisconsin Mature Red Pine]]></Keywords>
+    <Keywords><![CDATA[Wisconsin Mixed Young Jack Pine]]></Keywords>
+    <Keywords><![CDATA[Wisconsin Pine Barrens]]></Keywords>
+    <Keywords><![CDATA[Wisconsin Young Jack Pine]]></Keywords>
+    <Keywords><![CDATA[Wisconsin Young Red Pine]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20090714 134955 by 160.91.18.20</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[AmeriFlux]]></Product_number>
+      <Product_title><![CDATA[AmeriFlux]]></Product_title>
+      <Author>
+        <Name><![CDATA[Dr. Bev Law, Science Chair]]></Name>
+        <Company><![CDATA[Oregon State University]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Mr. Tom Boden, Data Manager]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Terrestrial carbon fluxes]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Thematic_area><![CDATA[Carbon Cycle]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[http://public.ornl.gov/ameriflux/site-select.cfm ]]></Site_name>
+        <Site_URL><![CDATA[http://public.ornl.gov/ameriflux]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[http://public.ornl.gov/ameriflux/dataproducts.shtml]]></Data_site>
+      <Data_site><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ameriflux/data]]></Data_site>
+      <Variable><![CDATA[Carbon dioxide flux]]></Variable>
+      <Variable><![CDATA[Net ecosystem exchange]]></Variable>
+      <Variable><![CDATA[Soil respiration]]></Variable>
+      <Variable><![CDATA[PAR]]></Variable>
+      <Variable><![CDATA[Air temperature]]></Variable>
+      <Variable><![CDATA[Global radiation]]></Variable>
+      <Variable><![CDATA[Precipitation]]></Variable>
+      <Variable><![CDATA[Latent heat]]></Variable>
+      <Variable><![CDATA[Sensible heat]]></Variable>
+      <Variable><![CDATA[Momentum flux]]></Variable>
+      <Variable><![CDATA[Water vapor flux]]></Variable>
+      <Variable><![CDATA[Friction velocity]]></Variable>
+      <Descriptive_file><![CDATA[http://public.ornl.gov/ameriflux]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19970101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20120930]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://public.ornl.gov/ameriflux/dataproducts.shtml]]></Data_file_location>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/ameriflux/data]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden (bodenta@ornl.gov)]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[Bai Yang (yangb@ornl.gov)]]></CDIAC_contact>
+      <Notes><![CDATA[The AmeriFlux network was established in 1996. The network provides continuous observations of ecosystem level exchanges of CO2, water, energy and momentum spanning diurnal, synoptic, seasonal, and interannual time scales and is currently composed of sites from North America, Central America, and South America.
+
+AmeriFlux is part of a network of regional networks (FLUXNET) which coordinates regional and global analysis of observations from micrometeorological tower sites.
+
+The objectives of the AmeriFlux network are to
+
+(1) quantify spatial and temporal variation in carbon storage in plants and soils, and exchanges of carbon, water, and energy in major vegetation types across a range of disturbance histories and climatic conditions in the Americas. 
+
+(2) advance understanding of processes regulating carbon assimilation, respiration, and storage, and linkages between carbon, water, energy and nitrogen through measurements and modeling. 
+
+(3) produce high quality data for site-level analyses, synthesis activities, and the data archive. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

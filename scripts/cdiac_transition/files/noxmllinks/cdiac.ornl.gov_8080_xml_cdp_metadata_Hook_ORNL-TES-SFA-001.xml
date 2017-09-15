@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Warren, J.M.]]></origin>
+        <origin><![CDATA[C.M. Iversen]]></origin>
+        <origin><![CDATA[C.T. Garten]]></origin>
+        <origin><![CDATA[R.J. Norby,]]></origin>
+        <origin><![CDATA[J. Childs,]]></origin>
+        <origin><![CDATA[D. Brice]]></origin>
+        <origin><![CDATA[R.M. Evans]]></origin>
+        <origin><![CDATA[L. Gu]]></origin>
+        <origin><![CDATA[P. Thornton]]></origin>
+        <origin><![CDATA[D.J. Weston]]></origin>
+        <title><![CDATA[PiTS-1: Carbon Partitioning in Loblolly Pine after 13C Labeling and Shade Treatments]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://tes-sfa.ornl.gov/node/80]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[PiTS-1: Carbon Partitioning in Loblolly Pine after 13C Labeling and Shade Treatments]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20100601]]></begdate>
+          <enddate><![CDATA[20110531]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-84.1833]]></westbc>
+        <eastbc><![CDATA[-84.1833]]></eastbc>
+        <northbc><![CDATA[36]]></northbc>
+        <southbc><![CDATA[36]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Tree Biophysical Measurements]]></themekey>
+        <themekey><![CDATA[U.S. DOE Office of Science]]></themekey>
+        <themekey><![CDATA[Tree 13C Partitioning]]></themekey>
+        <themekey><![CDATA[Soil 13C and CO2 Efflux]]></themekey>
+        <themekey><![CDATA[Environmental and Site Characterization]]></themekey>
+        <themekey><![CDATA[Partitioning in Trees and Soil (PiTS) Project]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Les Hook]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140623 103938</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Les Hookhookla@ornl.gov865-241-4846]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20140620 162824 by 160.91.28.114</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Tree Biophysical Measurements]]></Keywords>
+    <Keywords><![CDATA[U.S. DOE Office of Science]]></Keywords>
+    <Keywords><![CDATA[Tree 13C Partitioning]]></Keywords>
+    <Keywords><![CDATA[Soil 13C and CO2 Efflux]]></Keywords>
+    <Keywords><![CDATA[Environmental and Site Characterization]]></Keywords>
+    <Keywords><![CDATA[Partitioning in Trees and Soil (PiTS) Project]]></Keywords>
+    <Documentation_Link>
+      <Text></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20140620 162824 by 160.91.28.114</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <CDIAC>
+      <Product_number><![CDATA[ORNL TES-SFA-001]]></Product_number>
+      <Product_title><![CDATA[PiTS-1: Carbon Partitioning in Loblolly Pine after 13C Labeling and Shade Treatments]]></Product_title>
+      <Author>
+        <Name><![CDATA[Warren, J.M.]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[C.M. Iversen]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[C.T. Garten]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[R.J. Norby,]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[J. Childs,]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[D. Brice]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[R.M. Evans]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[L. Gu]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[P. Thornton]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[D.J. Weston]]></Name>
+        <Company><![CDATA[ORNL Environmental Sciences Division]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Tree Biophysical Measurements]]></Thematic_area>
+      <Thematic_area><![CDATA[Tree 13C Partitioning]]></Thematic_area>
+      <Thematic_area><![CDATA[Soil 13C and CO2 Efflux]]></Thematic_area>
+      <Thematic_area><![CDATA[Environmental and Site Characterization]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[University of Tennessee Forest Resources Research and Education Center in Oak Ridge, Tennessee ]]></Site_name>
+        <Site_URL><![CDATA[http://tes-sfa.ornl.gov/]]></Site_URL>
+        <Site_data_file><![CDATA[http://tes-sfa.ornl.gov/node/80]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[See Data Dictionary in User's Guide]]></Variable>
+      <Descriptive_file><![CDATA[http://tes-sfa.ornl.gov/sites/default/files/PiTS_1_Users_Guide_20130423_0.pdf]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20130413]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20130413]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://tes-sfa.ornl.gov/node/80]]></Data_file_location>
+      <Total_size_of_all_files></Total_size_of_all_files>
+      <Distribution></Distribution>
+      <CDIAC_contact><![CDATA[Les Hook]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[hookla@ornl.gov]]></CDIAC_contact>
+      <CDIAC_contact><![CDATA[865-241-4846]]></CDIAC_contact>
+      <Notes><![CDATA[This data set reports the results of the Partitioning in Trees and Soil (PiTS-1) field investigation that examined how carbon partitioning in a stand of loblolly pine trees varied with short-term changes in gross primary production (GPP) due to shading. These measurements were made over range of June 2010 through May 2011 with most samples and measurements collected from July to September 2010 near the 13CO2 labeling event. There are 19 comma-separated ASCII data files provided with this data set in the general data types listed below, along with a companion file, the published paper describing the PiTS-1 investigation and results (Warren et al., 
+2012).
+
+Cite this data set as follows:
+Warren, J.M., C.M. Iversen, C.T. Garten, Jr, R.J. Norby, J. Childs, D. Brice, R.M. Evans, L. Gu, P. Thornton, and D.J. Weston. 2013. PiTS-1: Carbon Partitioning in Loblolly Pine after 13C Labeling and Shade Treatments. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, U.S.A. http://dx.doi.org/10.3334/CDIAC/ornlsfa.001]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Andres, R. J. ]]></origin>
+        <origin><![CDATA[Boden, T. A.]]></origin>
+        <title><![CDATA[Monthly Fossil-Fuel CO2 Emissions: Uncertainty of Emissions Gridded by One Degree Latitude by One Degree Longitude]]></title>
+        <geoform><![CDATA[Other]]></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/ffe_monthly_gridded_uncertainty.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/fossil_fuel_CO2_emissions_gridded_uncertainty_monthly_v2016]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Monthly Fossil-Fuel CO2 Emissions: Uncertainty of Emissions Gridded by One Degree Latitude by One Degree Longitude]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19500101]]></begdate>
+          <enddate><![CDATA[20131231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-179.50]]></westbc>
+        <eastbc><![CDATA[179.50]]></eastbc>
+        <northbc><![CDATA[83.50]]></northbc>
+        <southbc><![CDATA[-55.50]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[Gridded monthly fossil fuel CO2 emissions]]></themekey>
+        <themekey><![CDATA[Gridded monthly uncertainty estimates of fossil fuel CO2 emissions]]></themekey>
+        <themekey><![CDATA[Gridded fossil fuel carbon emissions]]></themekey>
+        <themekey><![CDATA[Latitude]]></themekey>
+        <themekey><![CDATA[Longitude]]></themekey>
+        <themekey><![CDATA[Isomass of Emissions]]></themekey>
+        <themekey><![CDATA[isotopic fossil-fuel CO2 emissions]]></themekey>
+        <themekey><![CDATA[carbon dioxide emission estimates]]></themekey>
+        <themekey><![CDATA[del 13C]]></themekey>
+        <themekey><![CDATA[DB1013]]></themekey>
+        <themekey><![CDATA[db1013]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey><![CDATA[ftp://cdiac.ornl.gov/pub/fossil_fuel_CO2_emissions_gridded_uncertainty_monthly_v2016/]]></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20160711 162620</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20160711 162456 by 160.91.28.73</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[Gridded monthly fossil fuel CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[Gridded monthly uncertainty estimates of fossil fuel CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[Gridded fossil fuel carbon emissions]]></Keywords>
+    <Keywords><![CDATA[Latitude]]></Keywords>
+    <Keywords><![CDATA[Longitude]]></Keywords>
+    <Keywords><![CDATA[Isomass of Emissions]]></Keywords>
+    <Keywords><![CDATA[isotopic fossil-fuel CO2 emissions]]></Keywords>
+    <Keywords><![CDATA[carbon dioxide emission estimates]]></Keywords>
+    <Keywords><![CDATA[del 13C]]></Keywords>
+    <Keywords><![CDATA[DB1013]]></Keywords>
+    <Keywords><![CDATA[db1013]]></Keywords>
+    <Documentation_Link></Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20160711 162456 by 160.91.28.73</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/ffe_monthly_gridded_uncertainty.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/ffe.MonthlyUncertainty.2016]]></Product_number>
+      <Product_title><![CDATA[Monthly Fossil-Fuel CO2 Emissions: Uncertainty of Emissions Gridded by One Degree Latitude by One Degree Longitude]]></Product_title>
+      <Author>
+        <Name><![CDATA[Andres, R. J. ]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Boden, T. A.]]></Name>
+        <Company><![CDATA[Oak Ridge National Laboratory]]></Company>
+        <Organization><![CDATA[Carbon Dioxide Information Analysis Center]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Trace Gas Emissions]]></Thematic_area>
+      <Thematic_area><![CDATA[Fossil-Fuel Emissions]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Global]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/fossil_fuel_CO2_emissions_gridded_monthly_uncertainty_v2016.html]]></Site_URL>
+        <Site_data_file></Site_data_file>
+      </Site_info>
+      <Data_site><![CDATA[ftp://cdiac.ornl.gov/pub/fossil_fuel_CO2_emissions_gridded_uncertainty_monthly_v2016/]]></Data_site>
+      <Variable><![CDATA[uncertainty of monthly gridded fossil fuel emissions]]></Variable>
+      <Variable><![CDATA[latitude]]></Variable>
+      <Variable><![CDATA[longitude]]></Variable>
+      <Descriptive_file><![CDATA[ftp://cdiac.ornl.gov/pub/fossil_fuel_CO2_emissions_gridded_uncertainty_monthly_v2016/readme.griddedUncertaintyAnnual.txt]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20160711]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/fossil_fuel_CO2_emissions_gridded_uncertainty_monthly_v2016]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[3 MB tarred]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Tom Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This database presents a monthly time series of gridded (1x1) uncertainty estimates for fossil fuel CO2 emissions for 1950-2013.  Andres et al. (2016) describes the basic methodology in estimating the uncertainty in the gridded fossil fuel data product (http://cdiac.ornl.gov/epubs/ndp/ndp058/ndp058_v2016.html, DOI:
+10.3334/CDIAC/ffe.ndp058.2016).  The uncertainty in this time series is gridded at the same spatial and temporal scales as the mass magnitude maps.  This gridded
+uncertainty includes uncertainty contributions from the spatial, temporal,
+proxy, and magnitude components used to create the magnitude map of
+FFCO2 emissions.  ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

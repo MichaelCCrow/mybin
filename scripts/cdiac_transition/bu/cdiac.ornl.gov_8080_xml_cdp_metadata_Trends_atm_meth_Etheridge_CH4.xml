@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Etheridge, D. M.]]></origin>
+        <origin><![CDATA[Steele, L. P.]]></origin>
+        <origin><![CDATA[Francey, R. J.]]></origin>
+        <origin><![CDATA[Langenfelds, R. J.]]></origin>
+        <title><![CDATA[Historic CH4 records from Antarctic and Greenland ice cores, Antarctic firn data, and archived air samples from Cape Grim, Tasmania]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/atm_meth/Etheridge_CH4.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/trends/atm_meth/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Historic CH4 records from Antarctic and Greenland ice cores, Antarctic firn data, and archived air samples from Cape Grim, Tasmania]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[10080101]]></begdate>
+          <enddate><![CDATA[19950101]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[112.833]]></westbc>
+        <eastbc><![CDATA[112.833]]></eastbc>
+        <northbc><![CDATA[-66.733]]></northbc>
+        <southbc><![CDATA[-66.733]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[CH4 measurements]]></themekey>
+        <themekey><![CDATA[CH4 mixing ratio]]></themekey>
+        <themekey><![CDATA[atmospheric CH4 reconstructions]]></themekey>
+        <themekey><![CDATA[TRENDS-OTHER ATMOSPHERIC TRACE GASES]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120905 125014</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050719 092112 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[CH4 measurements]]></Keywords>
+    <Keywords><![CDATA[CH4 mixing ratio]]></Keywords>
+    <Keywords><![CDATA[atmospheric CH4 reconstructions]]></Keywords>
+    <Keywords><![CDATA[TRENDS-OTHER ATMOSPHERIC TRACE GASES]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+Cores from Law Dome, Antarctic and Greenland
+D.M. Etheridge, L.P. Steele, R.J. Francey, and R.L. Langenfelds
+Division of Atmospheric Research, CSIRO,
+Law Dome, Antarctica
+66&#176;44'S, 112&#176;50'E,
+Summit Site, Greenland
+72&#176;N 34'N, 37&#176;37'W,
+CITE AS: D.M. Etheridge, L.P. Steele, R.J. Francey, and R.L. Langenfelds. 2002. Historical CH Records Since About 1000 A.D. From Ice Core Data. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050719 092112 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Trends/atm_meth/Etheridge_CH4.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.030]]></Product_number>
+      <Product_title><![CDATA[Historic CH4 records from Antarctic and Greenland ice cores, Antarctic firn data, and archived air samples from Cape Grim, Tasmania]]></Product_title>
+      <Author>
+        <Name><![CDATA[Etheridge, D. M.]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Steele, L. P.]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Francey, R. J.]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Research]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Langenfelds, R. J.]]></Name>
+        <Company><![CDATA[CSIRO]]></Company>
+        <Organization><![CDATA[Division of Atmospheric Research]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Methane]]></Thematic_area>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Law Dome, Antarctica]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/lawdome_meth.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/EthCH498A.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/ftp/trends/atm_meth/EthCH498B.txt]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/graphics/eth_ld3ave.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/graphics/eth_meth.gif]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/graphics/eth_comp.gif]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[mean air age]]></Variable>
+      <Variable><![CDATA[CH4 mixing ratio]]></Variable>
+      <Variable><![CDATA[mean ice depth]]></Variable>
+      <Variable><![CDATA[ice age year A.D.]]></Variable>
+      <Variable><![CDATA[ice sample code]]></Variable>
+      <Variable><![CDATA[year A.D.]]></Variable>
+      <Variable><![CDATA[75 year smoothing spline]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/trends/atm_meth/lawdome_meth.html &#187;&#160;
+Cores from Law Dome, Antarctic and Greenland
+D.M. Etheridge, L.P. Steele, R.J. Francey, and R.L. Langenfelds
+Division of Atmospheric Research, CSIRO,
+Law Dome, Antarctica
+66&#176;44'S, 112&#176;50'E,
+Summit Site, Greenland
+72&#176;N 34'N, 37&#176;37'W,
+CITE AS: D.M. Etheridge, L.P. Steele, R.J. Francey, and R.L. Langenfelds. 2002. Historical CH Records Since About 1000 A.D. From Ice Core Data. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[20020901]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[20020901]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/trends/atm_meth/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[42000 kb]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[T.J. Blasing; email: blasingtj@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[ The Antarctic CH4 records presented here are derived from three ice cores obtained at Law Dome, East Antarctica (66 degrees 44'S, 112 degrees 50'E, 1390 meters above mean sea level). Law Dome has many qualities of an ideal ice core site for the reconstruction of past concentrations of atmospheric gases; these qualities include: negligible melting of the ice sheet surface, low concentrations of impurities, regular stratigraphic layering undisturbed by wind stress at the surface or differential ice flow at depth, and a high snow accumulation rate. Further details on the site, drilling, and cores are provided by Etheridge et al. (1998), Etheridge et al. (1996), Etheridge and Wookey (1989), and Morgan et al. (1997).
+<br><br>
+ The atmospheric CH4 reconstructions presented here offer records of atmospheric CH4 concentrations since 1008 A.D. Because of the high rate of snow accumulation, the air enclosed in the three ice cores from Law Dome, Antarctica, has unparalleled age resolution and extends into recent decades. Etheridge et al. (1998) reported the uncertainty of the ice core CH4 concentrations is about 10 ppb. Atmospheric concentrations of CH4 before about 1750 A.D. ranged from 676 to 716 ppb; after about 1750 A.D. concentrations began to increase to their present value of more than 1700 ppb.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

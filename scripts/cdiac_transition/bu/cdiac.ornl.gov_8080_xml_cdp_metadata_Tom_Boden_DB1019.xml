@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Leifer, R.]]></origin>
+        <origin><![CDATA[Chan, N.]]></origin>
+        <title><![CDATA[Environmental Measurements Laboratory's Stratospheric Radionuclide (RANDAB) and Trace Gas (TRACDAB) Databases]]></title>
+        <geoform></geoform>
+        <onlink><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/DB1019.xml]]></onlink>
+        <onlink><![CDATA[ftp://cdiac.ornl.gov/pub/db1019/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Environmental Measurements Laboratory's Stratospheric Radionuclide (RANDAB) and Trace Gas (TRACDAB) Databases]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[19570829]]></begdate>
+          <enddate><![CDATA[19831128]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc></westbc>
+        <eastbc></eastbc>
+        <northbc></northbc>
+        <southbc></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[14CO2 Concentration in Stratospheric Air]]></themekey>
+        <themekey><![CDATA[Radon Concentration in Stratospheric Air]]></themekey>
+        <themekey><![CDATA[Rtratospheric Radionuclide Measurements]]></themekey>
+        <themekey><![CDATA[Trace Gas Measurements]]></themekey>
+        <themekey><![CDATA[Tritium Concentration in Stratospheric Air]]></themekey>
+        <themekey><![CDATA[DB1019]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120918 135346</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050809 160004 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[14CO2 Concentration in Stratospheric Air]]></Keywords>
+    <Keywords><![CDATA[Radon Concentration in Stratospheric Air]]></Keywords>
+    <Keywords><![CDATA[Rtratospheric Radionuclide Measurements]]></Keywords>
+    <Keywords><![CDATA[Trace Gas Measurements]]></Keywords>
+    <Keywords><![CDATA[Tritium Concentration in Stratospheric Air]]></Keywords>
+    <Keywords><![CDATA[DB1019]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[ &#187;&#160;
+RANDAB and TRACDAB Databases
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata10.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050809 160004 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ornl.gov:8080/xml/cdp/metadata/Tom_Boden/DB1019.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/atg.db1019]]></Product_number>
+      <Product_title><![CDATA[Environmental Measurements Laboratory's Stratospheric Radionuclide (RANDAB) and Trace Gas (TRACDAB) Databases]]></Product_title>
+      <Author>
+        <Name><![CDATA[Leifer, R.]]></Name>
+        <Company><![CDATA[Environmental Measurements Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Chan, N.]]></Name>
+        <Company><![CDATA[Environmental Measurements Laboratory]]></Company>
+        <Organization></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Atmospheric Trace Gases]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[World]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ornl.gov/epubs/db/db1019/db1019.html]]></Site_URL>
+        <Site_data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1019/]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Pu239]]></Variable>
+      <Variable><![CDATA[# of inds.]]></Variable>
+      <Variable><![CDATA[240]]></Variable>
+      <Variable><![CDATA[altitudeA (km)]]></Variable>
+      <Variable><![CDATA[ag110]]></Variable>
+      <Variable><![CDATA[aircraft #]]></Variable>
+      <Variable><![CDATA[alt_code]]></Variable>
+      <Variable><![CDATA[altitude]]></Variable>
+      <Variable><![CDATA[altitude (km)]]></Variable>
+      <Variable><![CDATA[altitude code]]></Variable>
+      <Variable><![CDATA[Ba140]]></Variable>
+      <Variable><![CDATA[Be7]]></Variable>
+      <Variable><![CDATA[beg lat1]]></Variable>
+      <Variable><![CDATA[beg lat2]]></Variable>
+      <Variable><![CDATA[beg long1]]></Variable>
+      <Variable><![CDATA[beg long2]]></Variable>
+      <Variable><![CDATA[beg. lat1(Degree)]]></Variable>
+      <Variable><![CDATA[beg. lat2 (Minute)]]></Variable>
+      <Variable><![CDATA[beg. long1 (Degree)]]></Variable>
+      <Variable><![CDATA[beg. long2 (Minute)]]></Variable>
+      <Variable><![CDATA[beg. long3]]></Variable>
+      <Variable><![CDATA[beg.lat3]]></Variable>
+      <Variable><![CDATA[beg_lat1]]></Variable>
+      <Variable><![CDATA[beg_lat2]]></Variable>
+      <Variable><![CDATA[beg_long1]]></Variable>
+      <Variable><![CDATA[beg_long2]]></Variable>
+      <Variable><![CDATA[beg_time]]></Variable>
+      <Variable><![CDATA[Bi210]]></Variable>
+      <Variable><![CDATA[C-13 conc.]]></Variable>
+      <Variable><![CDATA[C-13 conc. code]]></Variable>
+      <Variable><![CDATA[C-14 excess]]></Variable>
+      <Variable><![CDATA[C-14 excess Code]]></Variable>
+      <Variable><![CDATA[CO2 conc.]]></Variable>
+      <Variable><![CDATA[CO2 conc. code]]></Variable>
+      <Variable><![CDATA[Cd109]]></Variable>
+      <Variable><![CDATA[Cd113]]></Variable>
+      <Variable><![CDATA[Ce141]]></Variable>
+      <Variable><![CDATA[Ce144]]></Variable>
+      <Variable><![CDATA[Co57]]></Variable>
+      <Variable><![CDATA[Co58]]></Variable>
+      <Variable><![CDATA[Co60]]></Variable>
+      <Variable><![CDATA[collection date]]></Variable>
+      <Variable><![CDATA[corr. spec. act.]]></Variable>
+      <Variable><![CDATA[corr. spec. act. Code]]></Variable>
+      <Variable><![CDATA[count day]]></Variable>
+      <Variable><![CDATA[count month]]></Variable>
+      <Variable><![CDATA[count year]]></Variable>
+      <Variable><![CDATA[count]]></Variable>
+      <Variable><![CDATA[Cs137]]></Variable>
+      <Variable><![CDATA[date]]></Variable>
+      <Variable><![CDATA[end lAt2]]></Variable>
+      <Variable><![CDATA[end lat1]]></Variable>
+      <Variable><![CDATA[end lat1(Degree)]]></Variable>
+      <Variable><![CDATA[end lat2 (Minute)]]></Variable>
+      <Variable><![CDATA[end lat3]]></Variable>
+      <Variable><![CDATA[end long1]]></Variable>
+      <Variable><![CDATA[end long1 (degree)]]></Variable>
+      <Variable><![CDATA[end long2]]></Variable>
+      <Variable><![CDATA[end long2 (kinute)]]></Variable>
+      <Variable><![CDATA[end long3]]></Variable>
+      <Variable><![CDATA[end_lat1]]></Variable>
+      <Variable><![CDATA[end_lat2]]></Variable>
+      <Variable><![CDATA[end_long1]]></Variable>
+      <Variable><![CDATA[end_long2]]></Variable>
+      <Variable><![CDATA[end_time]]></Variable>
+      <Variable><![CDATA[err.]]></Variable>
+      <Variable><![CDATA[error]]></Variable>
+      <Variable><![CDATA[error code]]></Variable>
+      <Variable><![CDATA[flight]]></Variable>
+      <Variable><![CDATA[Fe55]]></Variable>
+      <Variable><![CDATA[Fe59]]></Variable>
+      <Variable><![CDATA[flight]]></Variable>
+      <Variable><![CDATA[fraction]]></Variable>
+      <Variable><![CDATA[I131]]></Variable>
+      <Variable><![CDATA[iD Code]]></Variable>
+      <Variable><![CDATA[iD code]]></Variable>
+      <Variable><![CDATA[iD_code]]></Variable>
+      <Variable><![CDATA[IND(1)]]></Variable>
+      <Variable><![CDATA[IND(10)]]></Variable>
+      <Variable><![CDATA[IND(2)]]></Variable>
+      <Variable><![CDATA[IND(3)]]></Variable>
+      <Variable><![CDATA[IND(4)]]></Variable>
+      <Variable><![CDATA[IND(5)]]></Variable>
+      <Variable><![CDATA[IND(6)]]></Variable>
+      <Variable><![CDATA[IND(7)]]></Variable>
+      <Variable><![CDATA[IND(8)]]></Variable>
+      <Variable><![CDATA[IND(9)]]></Variable>
+      <Variable><![CDATA[ias]]></Variable>
+      <Variable><![CDATA[lat_1]]></Variable>
+      <Variable><![CDATA[lat_2]]></Variable>
+      <Variable><![CDATA[long_1]]></Variable>
+      <Variable><![CDATA[long_2]]></Variable>
+      <Variable><![CDATA[lab]]></Variable>
+      <Variable><![CDATA[lab	spec. act.]]></Variable>
+      <Variable><![CDATA[latitude1]]></Variable>
+      <Variable><![CDATA[latitude2]]></Variable>
+      <Variable><![CDATA[met. lay.]]></Variable>
+      <Variable><![CDATA[Mn54]]></Variable>
+      <Variable><![CDATA[Mo99]]></Variable>
+      <Variable><![CDATA[Na22]]></Variable>
+      <Variable><![CDATA[O-18 conc.]]></Variable>
+      <Variable><![CDATA[O-18 conc. code]]></Variable>
+      <Variable><![CDATA[P32]]></Variable>
+      <Variable><![CDATA[P33]]></Variable>
+      <Variable><![CDATA[PO210/PB210c]]></Variable>
+      <Variable><![CDATA[PO210/PB210n]]></Variable>
+      <Variable><![CDATA[PO210c]]></Variable>
+      <Variable><![CDATA[PO210n]]></Variable>
+      <Variable><![CDATA[press (mb)]]></Variable>
+      <Variable><![CDATA[Pb210]]></Variable>
+      <Variable><![CDATA[Pm147]]></Variable>
+      <Variable><![CDATA[Po210]]></Variable>
+      <Variable><![CDATA[Pu(alpha)]]></Variable>
+      <Variable><![CDATA[Pu238]]></Variable>
+      <Variable><![CDATA[Pu239]]></Variable>
+      <Variable><![CDATA[Pu240]]></Variable>
+      <Variable><![CDATA[Pu241]]></Variable>
+      <Variable><![CDATA[Pu242]]></Variable>
+      <Variable><![CDATA[remarks]]></Variable>
+      <Variable><![CDATA[Rh102]]></Variable>
+      <Variable><![CDATA[Rn222 (Bq)]]></Variable>
+      <Variable><![CDATA[Rn222 (Bq)Std. Dev.]]></Variable>
+      <Variable><![CDATA[Rn222 Code]]></Variable>
+      <Variable><![CDATA[Rn222 Conc. (Bq/SCM)]]></Variable>
+      <Variable><![CDATA[Rn222(Bq/SCM) Code]]></Variable>
+      <Variable><![CDATA[Ru106]]></Variable>
+      <Variable><![CDATA[sample]]></Variable>
+      <Variable><![CDATA[sample date]]></Variable>
+      <Variable><![CDATA[sample id]]></Variable>
+      <Variable><![CDATA[sample number]]></Variable>
+      <Variable><![CDATA[Sb124]]></Variable>
+      <Variable><![CDATA[Sb125]]></Variable>
+      <Variable><![CDATA[split]]></Variable>
+      <Variable><![CDATA[Sr89]]></Variable>
+      <Variable><![CDATA[Sr90]]></Variable>
+      <Variable><![CDATA[standard dev. of Rn222 conc.]]></Variable>
+      <Variable><![CDATA[temp (C)]]></Variable>
+      <Variable><![CDATA[tas]]></Variable>
+      <Variable><![CDATA[tat]]></Variable>
+      <Variable><![CDATA[Ti204]]></Variable>
+      <Variable><![CDATA[totalBeta]]></Variable>
+      <Variable><![CDATA[trap #]]></Variable>
+      <Variable><![CDATA[type]]></Variable>
+      <Variable><![CDATA[unit]]></Variable>
+      <Variable><![CDATA[vol. code]]></Variable>
+      <Variable><![CDATA[volume]]></Variable>
+      <Variable><![CDATA[volume (scm)]]></Variable>
+      <Variable><![CDATA[W181]]></Variable>
+      <Variable><![CDATA[W181correct]]></Variable>
+      <Variable><![CDATA[W185]]></Variable>
+      <Variable><![CDATA[Y88]]></Variable>
+      <Variable><![CDATA[Y91]]></Variable>
+      <Variable><![CDATA[Zr95]]></Variable>
+      <Variable><![CDATA[age of Pb210]]></Variable>
+      <Variable><![CDATA[age of Pb210 code]]></Variable>
+      <Variable><![CDATA[error (BeQ/kscm)]]></Variable>
+      <Variable><![CDATA[potential temp.(C)HTO conc(BeQ/kscm)error (BeQ/kscm)HT conc (BeQ/kscm)]]></Variable>
+      <Variable><![CDATA[ref_mon]]></Variable>
+      <Variable><![CDATA[ref_yr]]></Variable>
+      <Variable><![CDATA[sample day]]></Variable>
+      <Variable><![CDATA[sample month]]></Variable>
+      <Variable><![CDATA[sample year]]></Variable>
+      <Variable><![CDATA[sample_id]]></Variable>
+      <Variable><![CDATA[volume]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ornl.gov/epubs/db/db1019/db1019.html &#187;&#160;
+RANDAB and TRACDAB Databases
+&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1019/appenda.txt]]></Data_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1019/appendb.txt]]></Data_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1019/db1019.txt]]></Data_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1019/gasread.txt]]></Data_file>
+      <Data_file><![CDATA[ftp://cdiac.ornl.gov/pub/db1019/readfirs.txt]]></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19970101]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19970101]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[ftp://cdiac.ornl.gov/pub/db1019/]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[4.85 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Thomas A. Boden; email: bodenta@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This subdirectory contains two databases contributed by Robert Leifer and Nita Chan (Environmental Measurements Laboratory [EML]). The databases contain stratospheric radionuclide (RANDAB) and trace gas (TRACDAB) measurements.
+<br><br>
+RANDAB represents the worlds largest collection of stratospheric and upper tropospheric radionuclide data. The database contains results of measurements made from 1957 to 1983 during the ASHCAN, STARDUST, AIRSTREAM, and High Altitude Sampling Program (HASP) projects. More than 20,000 filters were collected during this period and analyzed for approximately 40 different radionuclides. All of the available data characterizing each filter are included in RANDAB. RANDAB offers gas samples characterizing the tritium, radon and 14CO2 concentration in stratospheric air. Only a limited amount of data is available for radon because of analytical and sampling problems. The tritium data were provided graciously by Dr. Allen Mason of Los Alamos Laboratory and Dr. H. G. Oslund of the Tritium Laboratory, University of Miami. ]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Karl, T. R.]]></origin>
+        <origin><![CDATA[Baldwin, R. G.]]></origin>
+        <origin><![CDATA[Burgin, M. G.]]></origin>
+        <origin><![CDATA[Easterling, D. R.]]></origin>
+        <origin><![CDATA[Knight, R. W.]]></origin>
+        <origin><![CDATA[Hughes, P. Y.]]></origin>
+        <title><![CDATA[Alaskan Historical Climatology Network (HCN) Serial Temperature and Precipitation Data]]></title>
+        <geoform><![CDATA[Observational Data]]></geoform>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Dale_Kaiser/DB1004.xml]]></onlink>
+        <onlink><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1004]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract><![CDATA[Alaskan Historical Climatology Network (HCN) Serial Temperature and Precipitation Data]]></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[18280101]]></begdate>
+          <enddate><![CDATA[19901231]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-174.100]]></westbc>
+        <eastbc><![CDATA[-131.567]]></eastbc>
+        <northbc><![CDATA[71.300]]></northbc>
+        <southbc><![CDATA[51.883]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey><![CDATA[minimum temperature]]></themekey>
+        <themekey><![CDATA[maximum temperature]]></themekey>
+        <themekey><![CDATA[mean temperature]]></themekey>
+        <themekey><![CDATA[precipitation]]></themekey>
+        <themekey><![CDATA[DB1004]]></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.ess-dive.lbl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20170606 173515</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created 20050808 154613 by 160.91.18.40</Local-Control-Number>
+  <mercury>
+    <begdate></begdate>
+    <enddate></enddate>
+    <Keywords><![CDATA[minimum temperature]]></Keywords>
+    <Keywords><![CDATA[maximum temperature]]></Keywords>
+    <Keywords><![CDATA[mean temperature]]></Keywords>
+    <Keywords><![CDATA[precipitation]]></Keywords>
+    <Keywords><![CDATA[DB1004]]></Keywords>
+    <Documentation_Link>
+      <Text><![CDATA[&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Text>
+    </Documentation_Link>
+    <OME_Software_Version>Version 4.7.5, Revision Date: 04 Apr 2006</OME_Software_Version>
+    <OME_DTD_Version>metadata11.dtd</OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <Harvest_Date>2017-09-01</Harvest_Date>
+    <File_ID>Created 20050808 154613 by 160.91.18.40</File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <Metadata_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/xml/cdp/metadata/Dale_Kaiser/DB1004.xml]]></Metadata_URL>
+    <CDIAC>
+      <Product_number><![CDATA[doi 10.3334/CDIAC/cli.db1004]]></Product_number>
+      <Product_title><![CDATA[Alaskan Historical Climatology Network (HCN) Serial Temperature and Precipitation Data]]></Product_title>
+      <Author>
+        <Name><![CDATA[Karl, T. R.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Baldwin, R. G.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Burgin, M. G.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Easterling, D. R.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Knight, R. W.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center ]]></Organization>
+      </Author>
+      <Author>
+        <Name><![CDATA[Hughes, P. Y.]]></Name>
+        <Company><![CDATA[National Oceanic and Atmospheric Administration]]></Company>
+        <Organization><![CDATA[National Climatic Data Center ]]></Organization>
+      </Author>
+      <Thematic_area><![CDATA[Climate]]></Thematic_area>
+      <Site_info>
+        <Site_name><![CDATA[Alaska]]></Site_name>
+        <Site_URL><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1004.html]]></Site_URL>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1004/ak_hcn.dat]]></Site_data_file>
+        <Site_data_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1004/ak_hcn.his]]></Site_data_file>
+      </Site_info>
+      <Data_site></Data_site>
+      <Variable><![CDATA[Maximum temperature]]></Variable>
+      <Variable><![CDATA[Minimum temperature]]></Variable>
+      <Variable><![CDATA[Mean temperature]]></Variable>
+      <Variable><![CDATA[Precipitation amount]]></Variable>
+      <Variable><![CDATA[Station number]]></Variable>
+      <Variable><![CDATA[Station name]]></Variable>
+      <Variable><![CDATA[Begin date]]></Variable>
+      <Variable><![CDATA[County]]></Variable>
+      <Variable><![CDATA[Current station]]></Variable>
+      <Variable><![CDATA[Direction]]></Variable>
+      <Variable><![CDATA[Distance]]></Variable>
+      <Variable><![CDATA[Division num]]></Variable>
+      <Variable><![CDATA[End date]]></Variable>
+      <Variable><![CDATA[Height of precipitation]]></Variable>
+      <Variable><![CDATA[Height of temperature Instrument]]></Variable>
+      <Variable><![CDATA[Latitude]]></Variable>
+      <Variable><![CDATA[Longitude]]></Variable>
+      <Variable><![CDATA[Elevation]]></Variable>
+      <Variable><![CDATA[Number of observers]]></Variable>
+      <Variable><![CDATA[Observation times]]></Variable>
+      <Variable><![CDATA[Observers name]]></Variable>
+      <Variable><![CDATA[Publication]]></Variable>
+      <Variable><![CDATA[Precipitation OT]]></Variable>
+      <Variable><![CDATA[Qualifier]]></Variable>
+      <Variable><![CDATA[State]]></Variable>
+      <Descriptive_file><![CDATA[http://cdiac.ess-dive.lbl.gov/ndps/db1004.html&#239;&#187;&#191;
+ &#160;&amp;middot;&#160;]]></Descriptive_file>
+      <Data_file></Data_file>
+      <Data_IO_file></Data_IO_file>
+      <Initial_date_of_data_publication><![CDATA[19940701]]></Initial_date_of_data_publication>
+      <Most_recent_date_of_data_publication><![CDATA[19940701]]></Most_recent_date_of_data_publication>
+      <Data_file_location><![CDATA[http://cdiac.ess-dive.lbl.gov/ftp/db1004]]></Data_file_location>
+      <Total_size_of_all_files><![CDATA[1.75 MB]]></Total_size_of_all_files>
+      <Distribution><![CDATA[external]]></Distribution>
+      <CDIAC_contact><![CDATA[Dale Kaiser; email: kaiserdp@ornl.gov]]></CDIAC_contact>
+      <Notes><![CDATA[This database is a companion to the Historical Climatology Network (HCN) database for the contiguous United States (see NDP019). The database contains monthly temperature (minimum, maximum, and mean) and total monthly precipitation data for 47 Alaskan stations. These data were derived from a variety of sources including the National Climatic Data Center archives, the state climatologist for Alaska, and published literature. The period of record varies by station. The longest record is for the Sitka Magnetic Observatory (1828) and most records extend through 1990. Unlike the HCN database for the contiguous U.S., adjustments have not been made to these climate records for time-of-observation differences, instrument changes, or station moves. The data are in three files [one data file that contains all four climate variables, one station inventory file, and one station history file]. The file sizes range from 3.5 kB to 1.7 MB.]]></Notes>
+    </CDIAC>
+  </mercury>
+</metadata>
