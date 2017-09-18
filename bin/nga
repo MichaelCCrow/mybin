@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ $# < 1 || $# > 2 ]]; then
-    add-instructions 'The first argument should be the last 3 numbers following "NGA"'
+    add-instructions 'The first argument should be the last 3 numbers following "NGA"' '[optional] Second argument can be the word "new" to display only the newest'
 else
     if [[ $# = 1 ]]; then
         if [[ $1 = *"NGA"* ]]; then
@@ -18,7 +18,7 @@ else
     fi
     if [[ $# = 2 ]]; then
         if [[ $2 = "new" ]]; then
-            ls -t `find /metadata/ngee -type d` | grep "*NGA$1*" | head -1
+            ls -t `find /metadata/ngee -type d` | grep NGA$1 | head -1
            # if [[ $1 = *"NGA"* ]]; then
            #     ls -t `find /metadata/ngee -type d` | grep "*$1*" | head -1
            # else

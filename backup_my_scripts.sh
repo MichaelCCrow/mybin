@@ -19,9 +19,9 @@ if [[ $# > 0 ]]; then for i in ${@}; do dobak $i; done; fi
 
 dogit() {
 	git add .
-	git commit -am "$date commit of my custom scripts"
+	git commit -am "$today commit of my custom scripts"
 	git push -u origin master
-	git push -u mcc master
+	#git push -u mcc master
 }
 
 if [ -n "$(cat differences.txt)" ]; then

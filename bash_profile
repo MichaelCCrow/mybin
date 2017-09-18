@@ -26,7 +26,7 @@ alias py="/usr/bin/python2.7"
 alias py3="/usr/local/bin/python3.5"
 
 #maven
-deploy() {
+dddeploy2() {
     full=false
     if [ -f 'pom.xml' ]; then
     echo -e "\nmvn -P $1 ${@:2} tomcat7:redeploy"
@@ -79,7 +79,7 @@ alias gitwebrootdiff="git diff --name-only HEAD^ WebRoot/"
 
 #lazy-nav
 export mybin="/Users/mcu/bin"
-alias mybin="cd $mybin"
+alias mybin="ls $mybin"
 
 export myscripts="/Users/mcu/Development/scripts"
 alias myscripts="cd $myscripts"
