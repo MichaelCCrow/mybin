@@ -7,7 +7,8 @@
 ############################################
 
 if [ $# = 1 ]; then
-    app="Firefox"
+    #app="Firefox"
+    app="Chrome"
 fi
 if [ $# = 2 ]; then
     if [ $2 = "Firefox" || $2 = "Chrome" || $2 = "Safari" ]; then
@@ -17,7 +18,7 @@ if [ $# = 2 ]; then
 fi
 if [ $# -gt 2 ]; then
     echo "num:: $#"
-    echo "only supply the string to google and an optional browser choice :: default is Firefox"
+    echo "only supply the string to google and an optional browser choice :: default is Chrome"
     exit
 fi
 

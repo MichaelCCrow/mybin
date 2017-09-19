@@ -1,3 +1,4 @@
 #!/bin/bash
 
-open -a Firefox $1
+#open -a Firefox $1
+open -a Chrome $1

@@ -3,11 +3,12 @@
 
 home="/Users/mcu"
 mybin="/Users/mcu/Development/mybin"
-today=$(date +%Y-%m-%d)
+today=$(date +%Y-%m-%d@%H:%M)
 
 cd $mybin
 
 dobak() {
+    rsync -ahn --out-format="[%t]:%o:%f:Last Modified %M" $1 $mybin/$2 >> updates.log
 	rsync -ai $1 $mybin/$2 >> differences.txt
 }
 

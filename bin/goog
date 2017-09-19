@@ -20,7 +20,7 @@
 # and without need to quote search string.
 ############################################
 
-app="Firefox"
+app="Chrome"
 search=""
 echo "Googling: ${@}"
 for term in $@; do
