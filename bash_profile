@@ -26,30 +26,30 @@ alias py="/usr/bin/python2.7"
 alias py3="/usr/local/bin/python3.5"
 
 #maven
-dddeploy2() {
-    full=false
-    if [ -f 'pom.xml' ]; then
-    echo -e "\nmvn -P $1 ${@:2} tomcat7:redeploy"
-    if [ $# = 0 ]; then echo "must provide a profile"
-    else 
-        if [ $# -gt 1 ]; then
-            echo -e "...additional options: ${@:2}\n"
-        else echo -e "...quick deploy\n"
-        fi
-        for i; do case $i in --full) full=true; esac; done;
-        #if [[ ${@:2} = *"--full"* ]]; then 
-        #    full=true
-        #fi
-        goals=$(echo ${@:2} | sed 's/--full//'); 
-        echo -e "\nmvn -P $1 $goals tomcat7:redeploy"
-        mvn -P $1 $goals tomcat7:redeploy
-        if $full; then runchecks -t; fi
-        #echo -e "\nmvn -P $1 ${@:2} tomcat7:redeploy"
-        #mvn -P $1 ${@:2} tomcat7:redeploy
-    fi
-    else echo "not a maven project"
-    fi
-}
+#dddeploy2() {
+#    full=false
+#    if [ -f 'pom.xml' ]; then
+#    echo -e "\nmvn -P $1 ${@:2} tomcat7:redeploy"
+#    if [ $# = 0 ]; then echo "must provide a profile"
+#    else 
+#        if [ $# -gt 1 ]; then
+#            echo -e "...additional options: ${@:2}\n"
+#        else echo -e "...quick deploy\n"
+#        fi
+#        for i; do case $i in --full) full=true; esac; done;
+#        #if [[ ${@:2} = *"--full"* ]]; then 
+#        #    full=true
+#        #fi
+#        goals=$(echo ${@:2} | sed 's/--full//'); 
+#        echo -e "\nmvn -P $1 $goals tomcat7:redeploy"
+#        mvn -P $1 $goals tomcat7:redeploy
+#        if $full; then runchecks -t; fi
+#        #echo -e "\nmvn -P $1 ${@:2} tomcat7:redeploy"
+#        #mvn -P $1 ${@:2} tomcat7:redeploy
+#    fi
+#    else echo "not a maven project"
+#    fi
+#}
 alias deployandtest="deploy local clean --full"
 
 #tomcat
@@ -80,6 +80,9 @@ alias gitwebrootdiff="git diff --name-only HEAD^ WebRoot/"
 #lazy-nav
 export mybin="/Users/mcu/bin"
 alias mybin="ls $mybin"
+
+export dev="/Users/mcu/Development"
+alias dev="cd $dev"
 
 export myscripts="/Users/mcu/Development/scripts"
 alias myscripts="cd $myscripts"
