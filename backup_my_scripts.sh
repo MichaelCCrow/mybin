@@ -19,6 +19,7 @@ dobak $home/.vimrc "vimrc"
 if [[ $# > 0 ]]; then for i in ${@}; do dobak $i; done; fi
 
 dogit() {
+    git status
 	git add .
 	git commit -am "$today commit of my custom scripts"
 	git push -u origin master

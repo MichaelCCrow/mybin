@@ -3,3 +3,22 @@
 [2017/09/19 12:37:34]:send:Users/mcu/bin/goog:Last Modified 2017/09/19-12:32:12
 [2017/09/19 12:37:34]:send:Users/mcu/bin/google:Last Modified 2017/09/19-12:33:15
 [2017/09/19 12:37:34]:send:Users/mcu/bin/to-localhost:Last Modified 2017/09/19-12:34:22
+[2017/09/20 12:00:00]:send:Users/mcu/bin:Last Modified 2017/09/20-11:11:24
+[2017/09/20 12:00:00]:send:Users/mcu/bin/go-url:Last Modified 2017/09/20-11:01:44
+[2017/09/20 12:00:00]:send:Users/mcu/bin/goog:Last Modified 2017/09/20-11:09:00
+[2017/09/20 12:00:00]:send:Users/mcu/bin/google:Last Modified 2017/09/20-11:09:35
+[2017/09/20 12:00:00]:send:Users/mcu/bin/to-localhost:Last Modified 2017/09/20-11:11:24
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   backup_my_scripts.sh
+	modified:   bin/go-url
+	modified:   bin/goog
+	modified:   bin/google
+	modified:   bin/to-localhost
+	modified:   updates.log
+
+no changes added to commit (use "git add" and/or "git commit -a")

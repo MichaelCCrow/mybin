@@ -20,10 +20,10 @@
 # and without need to quote search string.
 ############################################
 
-app="Chrome"
+app="Google Chrome"
 search=""
 echo "Googling: ${@}"
 for term in $@; do
     search="$search%20$term"
 done
-open -a $app "https://www.google.com/search?q=$search"
+open -a "$app" "https://www.google.com/search?q=$search"

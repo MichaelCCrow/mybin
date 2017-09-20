@@ -1,12 +1,16 @@
 #!/bin/bash
 
 if [ $# = 0 ]; then
-    open -a Chrome "http://localhost:8080/manager"
+    open -a Google\ Chrome "http://localhost:8080/manager"
     #open -a Firefox "http://localhost:8080/manager"
 fi
 if [ $# = 1 ]; then
-    open -a Chrome "http://localhost:8080/$1"
+    if [ $1 = "n" ]; then
+        open -a Google\ Chrome "http://localhost:8080/ngeemetadata"
+    else
+    open -a Google\ Chrome "http://localhost:8080/$1"
     #open -a Firefox "http://localhost:8080/$1"
+    fi
 fi
 if [ $# -gt 1 ]; then
     echo "too many args"
