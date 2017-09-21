@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/radiocarbon_soil_and_CO2_surface_gas_flux_temp_moisture_barrow/documentation</onlink>
+        <origin>Rachel Porras (rcporras@lbl.gov)</origin>
+        <origin>Margaret Torn (mstorn@lbl.gov)</origin>
+        <origin>Lydia Vaughn (lydiajsmith@lbl.gov)</origin>
+        <origin>Oriana Chafe (oechafe@lbl.gov)</origin>
+        <origin>Bryan Curtis (John.Curtis@colorado.edu)</origin>
+        <title>Radiocarbon in Soil and CO2 with Surface Gas Flux, Soil Temperature, and Soil Moisture, Barrow, Alaska, 2012-2014</title>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Dataset includes Delta14C measurements made from CO2 that was collected and purified in 2012-2014 from surface soil chambers, soil pore space, and laboratory soil incubations.  In addition to Delta14CO2 data, dataset includes co-located measurements of soil organic matter Delta14C and carbon and nitrogen concentrations; CO2 and CH4 flux; soil and air temperature; and soil moisture.  Measurements and field samples were taken from intensive study site 1 areas A, B, and C, the site 0 and AB transects, and additional locations within the BEO, from specified positions in high-centered, flat-centered, and low centered polygons. Dataset DOI:10.5440/1364062; http://dx.doi.org/10.5440/1364062. Data will be available Spring/Summer 2017.</abstract>
+    </descript>
+    <status>
+      <progress>planned</progress>
+      <update>n/a</update>
+    </status>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Lydia Vaughn</cntper>
+          <cntorg>Lawrence Berkeley National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Cyclotron Road 84-0118</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(510) 486-2226</cntvoice>
+        <cntemail>lydiajsmith@lbl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170815</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Lydia Vaughn</cntper>
+          <cntorg>Lawrence Berkeley National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Cyclotron Road 84-0118</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(510) 486-2226</cntvoice>
+        <cntemail>lydiajsmith@lbl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <record_id>NGA015</record_id>
+    <taskname>BGC</taskname>
+  </ome>
+</metadata>
+

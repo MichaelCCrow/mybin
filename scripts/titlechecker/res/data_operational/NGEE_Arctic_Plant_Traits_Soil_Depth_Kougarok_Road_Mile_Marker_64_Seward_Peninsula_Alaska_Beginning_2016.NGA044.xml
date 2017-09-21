@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/Plant_Traits_soil_depth_KGMM64/data</onlink>
+        <origin>Amy Breen (albreen@alaska.edu)</origin>
+        <origin>Stan Wullschleger (wullschlegsd@ornl.gov)</origin>
+        <origin>Colleen Iversen (iversencm@ornl.gov)</origin>
+        <origin>Holly Vander Stel (vanderstelhm@ornl.gov)</origin>
+        <title>NGEE Arctic Plant Traits: Soil Depth, Kougarok Road Mile Marker 64, Seward Peninsula, Alaska, Beginning 2016</title>
+        <geoform>In situ Field Measurements</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Soil depth was measured at the Kougarok site located on the Seward Peninsula using a thaw depth probe inserted into the ground until the point of contact with frozen soil or rock. Measurements were made at vegetation plots, intensive stations, and reference points. Three to four replicate measurements were made during the observation period and the presence of rocks was noted when possible.</abstract>
+      <purpose>Soil depth was collected to characterize the environment at locations where plant traits were sampled.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160702</begdate>
+          <enddate>current</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>ongoing</progress>
+      <update>irregular</update>
+    </status>
+    <spdom>
+      <descgeog>Kougarok Road (Mile Marker 64)</descgeog>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Alaska</placekey>
+        <placekey>Kougarok Road</placekey>
+        <placekey>Seward Peninsula</placekey>
+      </place>
+      <theme>
+        <themekt>soil depth</themekt>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Colleen Iversen</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>Tennessee</state>
+          <postal>37831</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>865 241 3961</cntvoice>
+        <cntemail>iversencm@ornl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <logic>NA</logic>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+        <methdesc>Soil depth was measured by pushing a thaw depth probe into the soil until contact was made with either frozen soil or rock. Missing data was filled in with âNA.â For all measurements made after 2016-07-18, âRockâ was recoded when rocks were present at the soil surface and a measurement could not be made.</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170905</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Verity Salmon</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Climate Change Science Institute, Building 4500N</address>
+          <city>Oak Ridge</city>
+          <state>Tennessee</state>
+          <postal>37831</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>3523590830</cntvoice>
+        <cntemail>salmonvg@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <record_id>NGA044</record_id>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+

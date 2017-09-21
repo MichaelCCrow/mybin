@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/mosaicked_historical_airborne_imagery_seward/data</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/mosaicked_historical_airborne_imagery_seward/documentation</onlink>
+        <onlink>http://dx.doi.org/10.5440/1334616</onlink>
+        <origin>Jessica Cherry (jessica.cherry@alaska.edu)</origin>
+        <origin>Lisa Wirth (lisa@gina.alaska.edu)</origin>
+        <title>Mosaicked Historic Airborne Imagery from Seward Peninsula, Alaska, Starting in the 1950's</title>
+        <geoform>Remote Sensing</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Historical airborne imagery for each Seward Peninsula NGEE Arctic site - Teller, Kougarok, Council - with multiple years for each site. This dataset includes mosaicked, geolocated and, where possible, orthorectified, historic airborne and recent satellite imagery. The older photos were sourced from the USGS Earth Explorer site and the newer, satellite imagery is from the Statewide Digital Mapping Initiative (SDMI) project managed by the Geographic Information Network of Alaska on behalf of the state of Alaska. Dataset DOI: 10.5440/1334616; http://dx.doi.org/10.5440/1334616.&#xD;
+&#xD;
+Check with Jessica Cherry (jessica.cherry@alaska.edu), University of Alaska, and Lisa Wirth (lisa@gina.alaska.edu), Geographic Information Network of Alaska (GINA) and the Statewide Digital Mapping Initiative (SDMI), for citation information and redistribution restrictions of the imagery. Please refer to metadata files included inside the data folders for detailed descriptions of the data products.</abstract>
+      <purpose>The historic imagery will be useful for change detection, such as on hydrologic and other land surface features and larger scale vegetation cover.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1950-01-01</begdate>
+          <enddate>2012-12-31</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>Seward Peninsula</descgeog>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Nome, Alaska</placekey>
+        <placekey>Kougarok Road</placekey>
+        <placekey>Council Road</placekey>
+        <placekey>Teller Road</placekey>
+        <placekey>Alaska</placekey>
+        <placekey>Seward Peninsula</placekey>
+      </place>
+      <theme>
+        <themekt>airborne imagery</themekt>
+      </theme>
+      <theme>
+        <themekt>remote sensing</themekt>
+      </theme>
+      <theme>
+        <themekt>satellite data</themekt>
+      </theme>
+    </keywords>
+    <accconst>public</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jessica Cherry</cntper>
+          <cntorg>University of Alaska Fairbanks</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>930 Koyukuk Dr.</address>
+          <city>Fairbanks</city>
+          <state>Alaska</state>
+          <postal>99775</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>9074745730</cntvoice>
+        <cntemail>jessica.cherry@alaska.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170201</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Terri Killeffer</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>865-241-9796</cntvoice>
+        <cntemail>killefferts@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <datause>The control points in the imagery are not the same as the NGEE Arctic control points. Refer to the documentation files for more detailed metadata and information on citation and redistribution of the imagery.</datause>
+    <ome_status>approved</ome_status>
+    <taskname>LC</taskname>
+  </ome>
+</metadata>
+

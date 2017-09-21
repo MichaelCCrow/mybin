@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/surface_active_layer_pore_water_chemistry_barrow/data</onlink>
+        <onlink>http://dx.doi.org/10.5440/1226245</onlink>
+        <onlink>http://dx.doi.org/10.1007/s10533-015-0165-5</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/surface_active_layer_pore_water_chemistry_barrow/documentation</onlink>
+        <origin>Ziming Yang (zimingyang@oakland.edu)</origin>
+        <origin>Baohua Gu (gub1@ornl.gov)</origin>
+        <origin>David Graham (grahamde@ornl.gov)</origin>
+        <origin>Stan Wullschleger (wullschlegsd@ornl.gov)</origin>
+        <origin>Elizabeth Herndon (eherndo1@kent.edu)</origin>
+        <origin>Liyuan Liang (liangl@ornl.gov)</origin>
+        <title>Surface and Active Layer Pore Water Chemistry from Ice Wedge Polygons, Barrow, Alaska, 2013-2014</title>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data set reports the results of spatial surveys of aqueous geochemistry conducted at Intensive Site 1 of the Barrow Environmental Observatory in 2013 and 2014 (Herndon et al., 2015). Surface water and soil pore water samples were collected from multiple depths within the tundra active layer of different microtopographic features (troughs, ridges, center) of a low-centered polygon (Area A), high-centered polygon (Area B), flat-centered polygon (Area C), and transitional polygon (Area D). Reported analytes include dissolved organic and inorganic carbon, dissolved carbon dioxide and methane, major inorganic anions, and major and minor cations. Dataset DOI:10.5440/1226245 and link http://dx.doi.org/10.5440/1226245</abstract>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20130702</begdate>
+          <enddate>20140829</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>Intensive site 1</descgeog>
+      <bounding>
+        <westbc>-156.596662</westbc>
+        <eastbc>-156.596662</eastbc>
+        <northbc>71.282767</northbc>
+        <southbc>71.282767</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Intensive Site 1</placekey>
+        <placekey>Alaska</placekey>
+        <placekey>Area B</placekey>
+        <placekey>DTLB</placekey>
+        <placekey>BEO</placekey>
+        <placekey>Barrow</placekey>
+        <placekey>Area C</placekey>
+        <placekey>Area A</placekey>
+        <placekey>Area D</placekey>
+        <placekey>Barrow Environmental Observatory</placekey>
+      </place>
+    </keywords>
+    <accconst>public</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Baohua Gu</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Bethel Valley Rd</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>865-574-7286</cntvoice>
+        <cntemail>gub1@ornl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+        <methdesc>Water sampling methods and analytical techniques are described in detail in Herndon et al., 2015.</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170109</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Baohua Gu</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Bethel Valley Rd</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>865-574-7286</cntvoice>
+        <cntemail>gub1@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <taskname>BGC</taskname>
+  </ome>
+</metadata>
+

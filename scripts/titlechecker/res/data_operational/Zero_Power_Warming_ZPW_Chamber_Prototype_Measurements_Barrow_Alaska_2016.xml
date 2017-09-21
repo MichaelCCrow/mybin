@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>http://dx.doi.org/10.5440/1343066</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/BNL_ZPW_prototype_barrow_2016/data</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/BNL_ZPW_prototype_barrow_2016/documentation</onlink>
+        <origin>Kim Ely (kely@bnl.gov)</origin>
+        <origin>Alistair Rogers (arogers@bnl.gov)</origin>
+        <origin>Keith Lewin (lewin@bnl.gov)</origin>
+        <origin>Andrew McMahon (amcmahon@bnl.gov)</origin>
+        <origin>Shawn Serbin (sserbin@bnl.gov)</origin>
+        <title>Zero Power Warming (ZPW) Chamber Prototype Measurements, Barrow, Alaska, 2016</title>
+        <geoform>In situ Field Measurements</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Data were collected during one season of prototyping associated with the development of a passive warming technology.  An experimental chamber, the Zero Power Warming (ZPW) chamber, was fitted with apparatus to modulate venting of a field enclosure and enhance elevation of air temperature by solar radiation.  The ZPW chamber was compared with a control chamber (Control) and an ambient open air plot (Ambient).  The control chamber was identical to the ZPW chamber but lacked the apparatus necessary to modulate venting, the chamber vents in the control chamber were fixed open for the majority of the trial period. The three plots were located over Carex aquatilis growing in an area of moderately degraded permafrost.  Chambers were placed on the same footprints that were used for a similar exercise in 2015 (no data) and therefore those plots had experienced some thaw and degradation prior to 2016.	The following data were collected for 80 days at 1 minute intervals from within two chambers and an ambient plot: solar input, chamber venting, air temperature, relative humidity, soil temperature (at 5, 10 and 15 cm), soil moisture, downward and upward NIR. CO2 concentration within the chambers and of the ambient air plot was collected at 1 minute intervals over a 62 hour period in the middle of the growing season. Dataset DOI:10.5440/1343066; http://dx.doi.org/10.5440/1343066</abstract>
+      <purpose>Data were collected to assess the performance of a warming chamber prototype.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160616</begdate>
+          <enddate>20160907</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>BEO, Barrow</descgeog>
+      <bounding>
+        <westbc>71.349901369806</westbc>
+        <eastbc>-156.78176879611</eastbc>
+        <northbc>-156.48513793674</northbc>
+        <southbc>71.272895149928</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>BEO</placekey>
+        <placekey>North Slope, Alaska</placekey>
+        <placekey>Barrow Environmental Observatory</placekey>
+        <placekey>Alaska</placekey>
+        <placekey>Barrow, Alaska</placekey>
+      </place>
+      <theme>
+        <themekt>air temperature</themekt>
+        <themekey>AirT_Z</themekey>
+      </theme>
+      <theme>
+        <themekt>solar radiation</themekt>
+        <themekey>Solar_Z; PRI_Z DownNIR_PRI_Z UpNIR_PRI_Z DownRed_PRI_Z UpRed_PRI_Z Ind1_PRI_Z Ind2_PRI_Z NDVI_Z DownNIR_NDVI_Z UpNIR_NDVI_Z DownRed_NDVI_Z UpRed_NDVI_Z Ind1_NDVI_Z Ind2_NDVI_Z</themekey>
+      </theme>
+      <theme>
+        <themekt>soil temperature</themekt>
+        <themekey>SoilTemp1_R_5cm_Z; SoilTemp2_Y_10cm_Z; SoilTemp3_G_15cm_Z</themekey>
+      </theme>
+      <theme>
+        <themekt>relative humidity</themekt>
+        <themekey>RH_Z</themekey>
+      </theme>
+      <theme>
+        <themekt>soil moisture</themekt>
+        <themekey>SM_Eb_Z; SM_Temp_Z; SM_EC_Z; VWCp_Z VWCm_Z</themekey>
+      </theme>
+      <theme>
+        <themekt>CO2 concentration</themekt>
+        <themekey>CO2S</themekey>
+      </theme>
+    </keywords>
+    <accconst>public</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Alistair Rogers</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Dep</address>
+          <city>Upton</city>
+          <state>NY</state>
+          <postal>11973-5000</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>631 344 2948</cntvoice>
+        <cntemail>arogers@bnl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <logic>The data was checked qualitatively and visually for bad and out of range data. Data was found to fall within the expected ranges.  The temperature data was checked against the Hobo logger data (15 minute averages) and on average agreed within the expected accuracies of the sensors.  To produce the aligned data from the three separate instrument packages missing rows (by minutes) were filled in with NaNs.  These occurred in the beginning of the datasets to initiate the time alignment and sporadically for single minutes throughout the season to correct for to clock drift.</logic>
+    <complete>PRI data should be recalculated by each user according to the guidelines in the accompanying ZPW sensor conversions document.</complete>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+        <methdesc>To measure CO2 concentration we used infrared gas analysers (LI-6400XT, LI-COR, Lincoln, NE, USA) in the two chambers and in the ambient plot. The LI-6400s were zeroed at the field site with a common nitrogen standard (99.9998% nitrogen, CO2 &lt;0.5ppm, H2O &lt;0.5ppm; ALPHAGAZ 2, Air Liquide American Specialty Gases LLC) and measurements taken using an open leaf chamber with all environment controls turned off. CO2 concentrations were logged every 60 seconds for a period of 62 continuous hours. In order to compare conditions between a vented and closed chamber, the venting of the control chamber was manually set to open for the initial 38 hours of measurements then closed for final 24 hours. The ZPW chamber was allowed to operate automatically.</methdesc>
+      </method>
+      <procstep>
+        <procdesc>For CO2 measurements: LI-COR log files were compiled into a single spreadsheet. A small number of data points that may have recorded interference were deleted (e.g. when the operator entered the chamber to change batteries).</procdesc>
+        <procdate>20160817</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170525</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Alistair Rogers</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Dep</address>
+          <city>Upton</city>
+          <state>NY</state>
+          <postal>11973-5000</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>631 344 2948</cntvoice>
+        <cntemail>arogers@bnl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <datause>Refer to attached document ZPW Sensor Conversions for calculation details.</datause>
+    <ome_status>finalApproved</ome_status>
+    <taskname>S</taskname>
+  </ome>
+</metadata>
+

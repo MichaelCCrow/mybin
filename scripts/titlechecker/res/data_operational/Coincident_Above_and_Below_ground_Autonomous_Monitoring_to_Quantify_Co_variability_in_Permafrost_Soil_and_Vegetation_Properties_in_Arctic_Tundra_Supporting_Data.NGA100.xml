@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/coincident_above_below_ground_autonomous_monitoring_ERT_supporting_data/documentation</onlink>
+        <onlink>doi: 10.1002/2016JG003724</onlink>
+        <onlink>http://dx.doi.org/10.5440/1355348</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/coincident_above_below_ground_autonomous_monitoring_ERT_supporting_data/data</onlink>
+        <origin>Craig Ulrich (culrich@lbl.gov)</origin>
+        <origin>Baptiste Dafflon (bdafflon@lbl.gov)</origin>
+        <origin>Susan Hubbard (sshubbard@lbl.gov)</origin>
+        <origin>Anh Phuong Tran (aptran@lbl.gov)</origin>
+        <origin>Vladimir Romanovsky (veromanovsky@alaska.edu)</origin>
+        <origin>Rusen Oktem (roktem@lbl.gov)</origin>
+        <origin>John Peterson (jepeterson@lbl.gov)</origin>
+        <pubdate>20170506</pubdate>
+        <title>Coincident Above- and Below-ground Autonomous Monitoring to Quantify Co-variability in Permafrost, Soil and Vegetation Properties in Arctic Tundra: Supporting Data</title>
+        <geoform>publication</geoform>
+        <pubinfo>
+          <pubplace>JGR-Biogeosciences, 10.1002/2016JG003724</pubplace>
+          <publish>JGR-Biogeosciences, AGU</publish>
+        </pubinfo>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>These data are provided in support of an NGEE Arctic publication (Dafflon et al., 2017) available at doi: 10.1002/2016JG003724&#xD;
+&#xD;
+The dataset contains measurements obtained through 1) electrical resistivity tomography (ERT) to monitor soil properties, 2) pole-mounted optical cameras to monitor vegetation dynamics, and 3) point probes to measure soil temperature, and periodic manual measurements of thaw layer thickness, snow thickness and soil dielectric permittivity at a study site in the Barrow Environmental Observatory (BEO) in 2013 and 2014.  The BEO is located within the Arctic coastal region, about 6 km from the ocean shore and the village of Barrow, AK. Dataset DOI:10.5440/1355348; http://dx.doi.org/10.5440/1355348.</abstract>
+      <purpose>Data were collected to quantify complex Arctic ecosystem responses to the seasonal freeze-thaw-growing season conditions.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20130718</begdate>
+          <enddate>20140902</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>ERT monitoring transect south of NGEE Eddy Flux Tower</descgeog>
+      <bounding>
+        <westbc>7910272.183</westbc>
+        <northbc>585621.196</northbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>North Slope, Alaska</placekey>
+        <placekey>AB Corridor</placekey>
+        <placekey>Barrow Environmental Observatory</placekey>
+        <placekey>Barrow, Alaska</placekey>
+      </place>
+      <stratum>
+        <stratkey>Hydrosphere: Terrestrial (Surface, Ground);  Cryosphere: Frozen Ground (Permafrost)</stratkey>
+      </stratum>
+      <theme>
+        <themekt>Soil electrical conductivity and green chromatic coordinate</themekt>
+        <themekey>Snow depth</themekey>
+        <themekey>Topography</themekey>
+        <themekey>Thaw layer depth</themekey>
+        <themekey>Soil electrical conductivity</themekey>
+        <themekey>Dielectric permittivity</themekey>
+        <themekey>NDVI</themekey>
+        <themekey>Green chromatic coordinate</themekey>
+      </theme>
+    </keywords>
+    <accconst>public</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Baptiste Dafflon</cntper>
+          <cntorg>Lawrence Berkeley National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Cyclotron Road 85B-0198</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>us</country>
+        </cntaddr>
+        <cntvoice>510-486-4735</cntvoice>
+        <cntemail>bdafflon@lbl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <qattracc>
+        <attraccv>Refer to the paper for more details on the various datasets and related uncertainty estimates.</attraccv>
+      </qattracc>
+    </attracc>
+    <logic>Refer to the paper for more details on datasets and uncertainty estimates for the the various properties.</logic>
+    <complete>Refer to the paper for more details on datasets and uncertainty estimates for the the various properties.</complete>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+        <methdesc>See Dafflon et al., 2017 for details.</methdesc>
+      </method>
+      <procstep>
+        <procdesc>See paper for more details on the various datasets and related processing steps.</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170811</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Baptiste Dafflon</cntper>
+          <cntorg>Lawrence Berkeley National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Cyclotron Road 85B-0198</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>510-486-4735</cntvoice>
+        <cntemail>bdafflon@lbl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <datause>All the files names and related columns' headers are explained in the file Explanation.csv and user guidance document. The data files are organized into 3 datasets:&#xD;
+1) The directory ERTmoni contains inverted time-lapse data used in the above referenced paper (ERT_inv), and the measured and simulated resistance measurements (ERT_resistance). Each file correspond to a specific date shown in the file's name. The ERTcoordinates.csv file show the location of each electrode. &#xD;
+2) The Point-scale directory contains the soil electrical conductivity (ERTtopsoil_mSpermeter_2013to2014, mS/m) and the green chromatic coordinate (GCC_index_2013to2014) and NDVI (NDVI_index_2013to2014) measurements acquired autonomously using the electrical resistivity tomography (ERT) system and pole-mounted optical cameras. The same directory contains periodic measurements of active layer thickness, top of snow elevation and dielectric permittivity. All the files are organized so that each location along the transect (meter) corresponds to one row and show the value at all the various acquisitions times (columns). The same directory contains also Temperature data at various locations along the transect (x) and depth.&#xD;
+3) Figure 10 in Dafflon et al., 2017 use data present in other NGEE metadata entrees including  Low-altitude remote sensing dataset of DEM and RGB mosaic for AB corridor on July 13 2013 and L2 corridor on July 21 2013 (http://dx.doi.org/10.5440/1177858).</datause>
+    <ome_status>approved</ome_status>
+    <record_id>NGA100</record_id>
+    <taskname>HG</taskname>
+  </ome>
+</metadata>
+

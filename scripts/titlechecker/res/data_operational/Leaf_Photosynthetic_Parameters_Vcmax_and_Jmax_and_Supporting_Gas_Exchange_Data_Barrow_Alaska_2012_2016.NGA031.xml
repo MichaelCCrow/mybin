@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/leaf_photosynthetic_parameters_Vcmax_Jmax/data/</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/leaf_photosynthetic_parameters_Vcmax_Jmax/documentation</onlink>
+        <onlink>http://dx.doi.org/10.5440/1336809</onlink>
+        <onlink>http://dx.doi.org/10.1111/nph.14740</onlink>
+        <origin>Alistair Rogers (arogers@bnl.gov)</origin>
+        <origin>Shawn Serbin (sserbin@bnl.gov)</origin>
+        <origin>Kim Ely (kely@bnl.gov)</origin>
+        <title>Leaf Photosynthetic Parameters Vcmax and Jmax and Supporting Gas Exchange Data, Barrow, Alaska, 2012-2016</title>
+        <geoform>In situ Field Measurements</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Photosynthetic parameters Vcmax and Jmax estimated from CO2 response curves and from light saturated photosynthesis using the one point method. Data were collected in Barrow 2012-2016 on 7 species - Arctophila fulva, Arctagrostis latifolia, Carex aquatilis, Dupontia fisheri, Eriophorum angustifolium, Petasites frigidus, Salix pulchra. &#xD;
+&#xD;
+Dataset DOI:10.5440/1336809 and link http://dx.doi.org/10.5440/1336809</abstract>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20120620</begdate>
+          <enddate>20160723</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>as needed</update>
+    </status>
+    <spdom>
+      <descgeog>BEO, Barrow</descgeog>
+      <bounding>
+        <westbc>71.349901369806</westbc>
+        <eastbc>-156.78176879611</eastbc>
+        <northbc>-156.48513793674</northbc>
+        <southbc>71.272895149928</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Barrow Environmental Observatory</placekey>
+        <placekey>Barrow, Alaska</placekey>
+      </place>
+      <stratum>
+        <stratkey>Tundra</stratkey>
+      </stratum>
+      <theme>
+        <themekt>CO2 response curve</themekt>
+        <themekey>photosynthesis</themekey>
+        <themekey>Jmax</themekey>
+        <themekey>Vcmax</themekey>
+        <themekey>Jmax_25_Rog</themekey>
+        <themekey>Jmax25_Bern	Vcmax_25_Rog</themekey>
+        <themekey>Mean_VpdA</themekey>
+        <themekey>Mean_RH_S</themekey>
+        <themekey>Mean_Tleaf</themekey>
+        <themekey>Mean_Tair</themekey>
+        <themekey>Jmax_Tleaf</themekey>
+        <themekey>Vcmax_Tleaf</themekey>
+        <themekey>Mean_PARi</themekey>
+        <themekey>Mean_VpdL</themekey>
+        <themekey>Vcmax25_Bern</themekey>
+        <themekey>Rd_Tleaf</themekey>
+      </theme>
+    </keywords>
+    <accconst>public</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Alistair Rogers</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Department</address>
+          <city>Upton</city>
+          <state>NY</state>
+          <postal>11973-5000</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>631 344 2948</cntvoice>
+        <cntemail>arogers@bnl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+        <methdesc>Field measurements made using Licor 6400XT and data processing as described in Rogers, 2017</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170915</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Alistair Rogers</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Department</address>
+          <city>Upton</city>
+          <state>NY</state>
+          <postal>11973-5000</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>631 344 2948</cntvoice>
+        <cntemail>arogers@bnl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <record_id>NGA031</record_id>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/leaf_area_veg_biomass_nutrient_content/documentation</onlink>
+        <onlink>http://dx.doi.org/10.5440/1375316</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/leaf_area_veg_biomass_nutrient_content/data</onlink>
+        <origin>Richard Norby (norbyrj@ornl.gov)</origin>
+        <origin>Colleen Iversen (iversencm@ornl.gov)</origin>
+        <origin>Joanne Childs (childsj@ornl.gov)</origin>
+        <origin>Victoria Sloan (cevls@bristol.ac.uk)</origin>
+        <title>Leaf Area, Vegetation Biomass and Nutrient Content, Barrow, Alaska, 2012 - 2013</title>
+        <geoform>In situ Field Measurements</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset reports measurements of plant leaf area, biomass, and nutrient carbon, nitrogen, phosphorus) during 2012 and 2013 at the Next-Generation Ecosystem Experiments (NGEE) Arctic field site near Barrow, Alaska. In late July, 2012, vegetation was harvested from 0.25 x 0.25 m plots at the centers, edges and troughs of four polygons in each of four areas of contrasting moisture regime and polygon type (Areas A, B, C, and D of Intensive Site 1). Leaf area, biomass, and carbon, nitrogen, and phosphorus contents were determined. In 2013, the plant community in a 10x10 cm subplots in Areas A and B was harvested at 2-week intervals from 22 June to 29 August. Plant biomass and foliar N content were determined as in 2012.&#xD;
+&#xD;
+Dataset DOI:10.5440/1375316. Data set accessed at http://dx.doi.org/10.5440/1375316</abstract>
+      <purpose>Data were collected to characterize of plant nutrient content across geomorphic units in a polygonal tundra landscape and document their seasonal dynamics, in accordance with Vegetation Dynamics Task V3.2.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20120623</begdate>
+          <enddate>20130913</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>Barrow, Barrow Environmental Observatory, Intensive site 1, North Slope</descgeog>
+      <bounding>
+        <westbc>-156.596662</westbc>
+        <eastbc>-156.596662</eastbc>
+        <northbc>71.282767</northbc>
+        <southbc>71.282767</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Area D</placekey>
+        <placekey>Area C</placekey>
+        <placekey>Area A</placekey>
+        <placekey>Area B</placekey>
+        <placekey>Barrow Environmental Observatory</placekey>
+        <placekey>Intensive Site 1</placekey>
+        <placekey>North Slope, Alaska</placekey>
+        <placekey>Barrow, Alaska</placekey>
+      </place>
+      <stratum>
+        <stratkey>Biosphere</stratkey>
+      </stratum>
+      <theme>
+        <themekt>Plant nitrogen content</themekt>
+        <themekey>%_nitrogen</themekey>
+      </theme>
+      <theme>
+        <themekt>Plant phosphorus content</themekt>
+        <themekey>%_phosphorus</themekey>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <datacred>Jennifer Liebig, A.D. McGuire,  E.S. Euskirchen,  I.J. Slette, K.R. Carter, S.J. Wood</datacred>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Richard Norby</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road, MS 6301</address>
+          <city>Oak Ridge</city>
+          <state>USA</state>
+          <postal>37830</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>8655765261</cntvoice>
+        <cntemail>norbyrj@ornl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <qattracc>
+        <attraccv>NIST certified standards were used in all analytical analyses.</attraccv>
+      </qattracc>
+    </attracc>
+    <logic>Data are considered of good quality in the context of the information presented in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</logic>
+    <complete>Data are considered complete in the context of the information presented in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <lineage>
+      <method>
+        <methtype>both</methtype>
+        <methdesc>Live material was separated by species and plant part, area of leaves was measured on a LiCor Area Meter, and then material was dried at 70 oC for 2-3 days and weighed. All plant material was ground (2601 Pica Blender Mill, Cianflone Scientific Instruments, Pittsburgh, PA, USA), and N and C contents were determined using a Model 4010 Elemental Combustion System (Costech Analytical Technologies, Valencia, CA, USA). Phosphorus concentrations in the plant tissues were analyzed in Kjedahl digests on a QuikChem 8500 analyzer (Lachat Instruments, Loveland, CO, USA) using Lachat Quikchem Method 13-115-01-1-B.</methdesc>
+        <methcite>
+          <citeinfo>
+            <origin>Sloan, V.L., A.D. McGuire, E.S. Euskirchen, I.J. Slette, K.R. Carter, S.J. Wood, J. Childs, C.M. Iversen, R.J. Norby</origin>
+            <pubdate>2017</pubdate>
+            <title>Leaf area, vegetation biomass and nutrient content, Barrow, Alaska, Ver. 1.</title>
+          </citeinfo>
+        </methcite>
+      </method>
+      <procstep>
+        <procdesc>Data from leaf area meter and analytical balances were entered by hand into Excel worksheets as the data were collected in 2012 and 2013. Digitized output from CN and P analyzers were merged into the spreadsheet. Column labels were adjusted in 2017.</procdesc>
+        <procdate>20170815</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170831</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Richard Norby</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntpos>Corporate Research Fellow</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road, MS 6301</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37830</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>8655765261</cntvoice>
+        <cntemail>norbyrj@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <datause>The data can be combined with soil nutrient data sets to obtain an integrated view of nutrient cycling at the Barrow Environmental Observatory.</datause>
+    <ome_status>approved</ome_status>
+    <record_id>NGA120</record_id>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+

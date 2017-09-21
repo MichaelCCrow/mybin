@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/eddy_covariance_flux_tower_data_barrow_2012_2016/documentation</onlink>
+        <onlink>http://dx.doi.org/10.5440/1362279</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/eddy_covariance_flux_tower_data_barrow_2012_2016/data</onlink>
+        <origin>Sigrid Dengel (sdengel@lbl.gov)</origin>
+        <origin>Dave Billesbach (dbillesbach1@unl.edu)</origin>
+        <origin>Margaret Torn (mstorn@lbl.gov)</origin>
+        <pubdate>20170609</pubdate>
+        <title>Flux Tower Eddy Covariance and Meteorological Measurements for Barrow, Alaska: 2012-2016</title>
+        <geoform>In situ Field Measurements</geoform>
+        <pubinfo>
+          <pubplace>AmeriFlux Network Management (LBL)</pubplace>
+          <publish>AmeriFlux Network</publish>
+        </pubinfo>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The dataset contains half-hourly eddy covariance flux measurements and determinations, companion meteorological measurements, and ancillary data for the period 2012 to 2016 from the flux tower (US-NGB) on the Barrow Environmental Observatory at Barrow (Utqiagvik), Alaska.  Data have been processed using EddyPro software and screened by the contributor.  The flux tower sits in an Arctic coastal tundra ecosystem. Dataset DOI:10.5440/1362279; http://dx.doi.org/10.5440/1362279&#xD;
+&#xD;
+This dataset supersedes the previously released dataset "Eddy-Covariance and auxiliary measurements, NGEE-Barrow, 2012-2013" DOI:10.5440/1124200. This new product includes data for the longer time period, 2012-2016, that have been processed using consistent methods for the entire record.</abstract>
+      <purpose>Data were collected to quantify and characterize radiation and GHG fluxes in order to improve understanding of the drivers influencing these fluxes and ultimately to better represent these processes in Earth System Models.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20120906</begdate>
+          <enddate>20160823</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>ongoing</progress>
+      <update>annually</update>
+    </status>
+    <spdom>
+      <descgeog>BEO</descgeog>
+      <bounding>
+        <westbc>156.6092</westbc>
+        <northbc>71.2800</northbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Barrow Environmental Observatory</placekey>
+        <placekey>US-NGB</placekey>
+        <placekey>Barrow, Alaska</placekey>
+        <placekey>Utqiagvik, Alaska</placekey>
+      </place>
+      <theme>
+        <themekt>CO2 flux</themekt>
+        <themekey>U*</themekey>
+        <themekey>water vapor density</themekey>
+        <themekey>CO2 mixing ratio</themekey>
+        <themekey>wind direction</themekey>
+        <themekey>dew temperature</themekey>
+        <themekey>Evapotranspiration</themekey>
+        <themekey>WD</themekey>
+        <themekey>CH4 mixing ratio</themekey>
+        <themekey>CH4 flux, latent heat flux, sensible heat flux, water vapor flux, air temperature, CO2 concentration, relative humidity, PAR, photosynthetically active radiation, incoming solar radiation, incoming shortwave radiation, incoming longwave radiation, net radiation, outgoing longwave radiation, outgoing shortwave radiation, soil temperature,</themekey>
+        <themekey>wind speed</themekey>
+        <themekey>RH</themekey>
+        <themekey>VPD</themekey>
+        <themekey>ET</themekey>
+        <themekey>friction velocity</themekey>
+        <themekey>WS</themekey>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Sigrid Dengel</cntper>
+          <cntorg>Lawrence Berkeley National Lab</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Cyclotron Road</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720-8118</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(510) 846-4978</cntvoice>
+        <cntemail>SDengel@lbl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <tooldesc>EddyPro</tooldesc>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <logic>The dataset was subjected to numerous QA/QC checks by the contributor including range checks, spike detection, property-property checks, time series analyses, etc.  The dataset was also submitted to the AmeriFlux archive at LBNL and will be subjected to the AmeriFlux automated QA/QC routines.</logic>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+        <methdesc>EddyPro software was used for data processing to produce 30 minute data from measured voltages.</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170829</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Tom Boden</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>PO Box 2008</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(865) 241-4842</cntvoice>
+        <cntemail>bodenta@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <record_id>NGA112</record_id>
+    <taskname>BGC</taskname>
+  </ome>
+</metadata>
+

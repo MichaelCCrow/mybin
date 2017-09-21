@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing//depth_resolved_core_physical_chemical_data_barrow/data</onlink>
+        <onlink>http://dx.doi.org/10.5440/1358456</onlink>
+        <origin>Tim Kneafsey (tjkneafsey@lbl.gov)</origin>
+        <origin>Craig Ulrich (CUlrich@lbl.gov)</origin>
+        <origin>Baptiste Dafflon (BDafflon@lbl.gov)</origin>
+        <origin>Yuxin Wu (YWu3@lbl.gov)</origin>
+        <title>Depth resolved core physical-chemical data from Site 0 and AB transect, Barrow, Alaska</title>
+        <geoform>Laboratory Analysis</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This is a compilation of the physical and chemical data for cores collected at the NGEE-arctic site 0 and ABCD plots. The datasets are depth-resolved and down to ~ 4m below ground surface for some cores. The specific depths for each core where samples were analyzed vary from core to core. DOI:10.5440/1358456; http://dx.doi.org/10.5440/1358456</abstract>
+      <purpose>Data were collected to understand the physical and geochemical characteristics of the arctic soil at the NGEE site</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20130401</begdate>
+          <enddate>20160531</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>ongoing</progress>
+      <update>as needed</update>
+    </status>
+    <spdom>
+      <descgeog>Intensive site 0 and 1 (L2 and AB corridors), DTLB-1 and DTLB-2 corridors</descgeog>
+      <bounding>
+        <westbc>71.312096547875</westbc>
+        <eastbc>-156.67533874246</eastbc>
+        <northbc>-156.55448913308</northbc>
+        <southbc>71.253044051824</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Barrow, Alaska</placekey>
+        <placekey>Core analysis</placekey>
+        <placekey>NGEE-Arctic</placekey>
+      </place>
+      <theme>
+        <themekt>Soil characteristics</themekt>
+        <themekey>GEOCHEMICAL PROPERTIES</themekey>
+        <themekey>SOIL TEXTURE</themekey>
+        <themekey>SOIL BULK DENSITY</themekey>
+        <themekey>SOIL CHEMISTRY</themekey>
+        <themekey>ORGANIC CARBON</themekey>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Yuxin Wu</cntper>
+          <cntorg>Lawrence Berkeley National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Cyclotron Rd</address>
+          <city>Berkeley</city>
+          <state>California</state>
+          <postal>94720</postal>
+          <country>U.S.</country>
+        </cntaddr>
+        <cntemail>ywu3@lbl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>lab</methtype>
+        <methdesc>Cores were extracted in the winter and kept frozen until analysis. Computed Tomography (CT) data were used to select depths along the cores for sub-sample collection and analysis. Soil bulk density was measured with the water displacement method. After bulk density measurements, thawing of the samples was conducted anaerobically and pore water was extracted with mini-rhizon samplers. Subsequent analysis include major ions for the extracted pore water with IC and ICP-MS. The solid samplers were dried and subsequently ashed to measure the dry weight (i.e. dry bulk density) and Volatile compound (a proxy for soil carbon content).</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170811</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Yuxin Wu</cntper>
+          <cntorg>Lawrence Berkeley National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 cyclotron Rd</address>
+          <city>Berkeley</city>
+          <state>Calilfornia</state>
+          <postal>94720</postal>
+          <country>U.S.</country>
+        </cntaddr>
+        <cntvoice>5104864793</cntvoice>
+        <cntemail>ywu3@lbl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <datause>These datasets provide baseline physical and geochemical characteristics of the NGEE Arctic soil covering both the active layer and shallow permafrost. They can be used to establish parameters for modeling the physical and biogeochemical processes.</datause>
+    <ome_status>approved</ome_status>
+    <record_id>NGA101</record_id>
+    <taskname>BGC</taskname>
+  </ome>
+</metadata>
+

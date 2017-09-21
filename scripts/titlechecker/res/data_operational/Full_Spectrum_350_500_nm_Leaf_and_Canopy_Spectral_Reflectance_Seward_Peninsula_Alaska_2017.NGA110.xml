@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Alistair Rogers (arogers@bnl.gov)</origin>
+        <origin>Shawn Serbin (sserbin@bnl.gov)</origin>
+        <origin>Ran Meng (ranmeng@bnl.gov)</origin>
+        <origin>Andrew McMahon (amcmahon@bnl.gov)</origin>
+        <origin>Kim Ely (kely@bnl.gov)</origin>
+        <title>Full Spectrum (350-500 nm) Leaf and Canopy Spectral Reflectance, Seward Peninsula, Alaska, 2017</title>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Measurements of leaf-level and vegetation canopy spectral reflectance.  Leaf-level measurements were made with a full-spectrum (i.e. 350-2500 nm) spectroradiometer using a 1.2 meter fiber optic cable and a leaf-clip foreoptic.  Canopy reflectance was also measured using a full-spectrum instrument and either a 4deg or 8deg field-of-view (FOV) lens over the vegetation canopy.  The measurement height above the canopy is recorded in the measurement metadata.</abstract>
+    </descript>
+    <status>
+      <progress>planned</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>Seward Peninsula</descgeog>
+    </spdom>
+    <accconst>planned</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Shawn Serbin</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Department</address>
+          <city>Upton</city>
+          <state>New York</state>
+          <postal>11973-5000</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>+1 631-344-3165</cntvoice>
+        <cntemail>sserbin@bnl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170901</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Kim Ely</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Department</address>
+          <city>Upton</city>
+          <state>NY</state>
+          <postal>11973</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>6315998961</cntvoice>
+        <cntemail>kely@bnl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <record_id>NGA110</record_id>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+

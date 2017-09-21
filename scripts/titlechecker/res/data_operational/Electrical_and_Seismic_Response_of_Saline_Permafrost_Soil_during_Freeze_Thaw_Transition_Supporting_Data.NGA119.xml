@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/electrical_and_seismic_response_saline_permafrost_soil/data</onlink>
+        <onlink>http://dx.doi.org/10.5440/1374172</onlink>
+        <origin>Yuxin Wu (ywu3@lbl.gov)</origin>
+        <origin>Timothy Kneafsey (tjkneafsey@lbl.gov)</origin>
+        <origin>Seiji Nakagawa (snakagawa@lbl.gov)</origin>
+        <title>Electrical and Seismic Response of Saline Permafrost Soil during Freeze - Thaw Transition: Supporting Data</title>
+        <geoform>publication</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Saline permafrost core from site 0 transect at 260-280cm below ground surface.&#xD;
+&#xD;
+Dataset citation: Yuxin Wu, Seiji Nakagawa, Timothy J. Kneafsey. 2017. Electrical and Seismic Response of Saline Permafrost Soil during Freeze - Thaw Transition: Supporting Data. Next Generation Ecosystem Experiments Arctic Data Collection, Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA. Data accessed at http://dx.doi.org/10.5440/1374172.</abstract>
+      <purpose>Data collected to better understand geophysical properties of saline permafrost.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20130601</begdate>
+          <enddate>20130601</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>Intensive site 0</descgeog>
+      <bounding>
+        <westbc>-156.616755</westbc>
+        <eastbc>-156.609953</eastbc>
+        <northbc>71.280615</northbc>
+        <southbc>71.276774</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Barrow Environmental Observatory</placekey>
+        <placekey>Barrow, Alaska</placekey>
+      </place>
+      <theme>
+        <themekt>Geophysics</themekt>
+        <themekey>electrical resistivity</themekey>
+        <themekey>Induced polarization</themekey>
+        <themekey>seismic property</themekey>
+        <themekey>unfrozen water content</themekey>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Yuxin Wu</cntper>
+          <cntorg>Lawrence Berkeley National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 cyclotron Rd</address>
+          <city>Berkeley</city>
+          <state>Calilfornia</state>
+          <postal>94720</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>5104864793</cntvoice>
+        <cntemail>ywu3@lbl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <qattracc>
+        <attraccv>Data uncertainty mainly come from instrument uncertainty, generally &lt;1% for resistivity, and 0.5 mrads for phase measurements at &lt; 1000 Hz.</attraccv>
+      </qattracc>
+    </attracc>
+    <logic>The data reported here is consistent with existing data in literature.</logic>
+    <complete>The datasets are reported with less density than original measured, i.e. figure plot generated with data from once every a few measurements following a time sequence.</complete>
+    <lineage>
+      <method>
+        <methtype>lab</methtype>
+        <methdesc>Saline sample was inserted in a sample holder and support and setup inside a T-controllable refrigerator. Then electrical and seismic measurements were made with step wised T control</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170810</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Yuxin Wu</cntper>
+          <cntorg>Lawrence Berkeley National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 cyclotron Rd</address>
+          <city>Berkeley</city>
+          <state>Calilfornia</state>
+          <postal>94720</postal>
+          <country>U.S.</country>
+        </cntaddr>
+        <cntvoice>5104864793</cntvoice>
+        <cntemail>ywu3@lbl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <datause>The data were collected during a repeat freeze-thaw cycle of the cores to understand mechanical and geophysical property changes over time. Unfrozen water content was calculated based on a modified Archie's law.</datause>
+    <ome_status>approved</ome_status>
+    <record_id>NGA119</record_id>
+    <taskname>S</taskname>
+  </ome>
+</metadata>
+

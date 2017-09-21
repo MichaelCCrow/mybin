@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Joanne Childs (childsj@ornl.gov)</origin>
+        <origin>Colleen Iversen (iversencm@ornl.gov)</origin>
+        <origin>Holly Vander Stel (vanderstelhm@ornl.gov)</origin>
+        <origin>Verity Salmon (salmonvg@ornl.gov)</origin>
+        <title>NGEE Arctic Plant Traits: Soil Cores, Kougarok Road Mile Marker 64, Seward Peninsula, Alaska, 2016</title>
+        <geoform>In situ Field Measurements</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Data describes soil cores collected at vegetation plots at the Kougarok hill slope located at Kougarok Road, Mile Marker 64 in July 2016. Data upload will be completed January 2017.</abstract>
+      <purpose>Soil characteristics measured included soil pH, bulk density, rooting depth, root biomass, depth of the organic horizon, and soil nutrient availability. These variables will characterize the soil environment for vegetation plots at this site.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160725</begdate>
+          <enddate>20160727</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>Kougarok Road (Mile Marker 64)</descgeog>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Alaska</placekey>
+        <placekey>Seward Peninsula</placekey>
+        <placekey>Kougarok Road</placekey>
+      </place>
+      <theme>
+        <themekt>Soil characteristics</themekt>
+        <themekey>SOIL BULK DENSITY</themekey>
+        <themekey>SOIL DEPTH</themekey>
+        <themekey>SOIL CHEMISTRY</themekey>
+        <themekey>Depth of organic horizon</themekey>
+        <themekey>SOIL FERTILITY</themekey>
+        <themekey>root biomass</themekey>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Colleen Iversen</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>Tennessee</state>
+          <postal>37831</postal>
+        </cntaddr>
+        <cntvoice>865 241 3961</cntvoice>
+        <cntemail>iversencm@ornl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <logic>NA</logic>
+    <lineage>
+      <method>
+        <methtype>both</methtype>
+        <methdesc>Two soil cores were collected in the 2.5 m x 2.5 m or 5 m x 5 m vegetation plots where biomass harvests were also performed. A hole saw (diameter 2 7/8") was used for sampling. Cores were transported to ORNL frozen and stored before laboratory processing.</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20161207</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Verity Salmon</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntpos>Postdoctoral researcher</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Climate Change Science Institute, Building 4500N</address>
+          <city>Oak Ridge</city>
+          <state>Tennessee</state>
+          <postal>37831</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>3523590830</cntvoice>
+        <cntemail>salmonvg@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+

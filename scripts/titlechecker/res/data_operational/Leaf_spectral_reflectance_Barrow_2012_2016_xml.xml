@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/BNL_Barrow_leaf_spectral_reflectance/data</onlink>
+        <origin>Shawn Serbin (sserbin@bnl.gov)</origin>
+        <title>Leaf Spectral Reflectance, Barrow, Alaska, 2014-2016</title>
+        <geoform>In situ Field Measurements</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Measurements of full-spectrum (i.e. 350-2500nm) leaf spectral reflectance of Arctic plant species. Data were collected in Barrow, Alaska during the 2014-2016 period.</abstract>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20140701</begdate>
+          <enddate>20160801</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>as needed</update>
+    </status>
+    <spdom>
+      <descgeog>BEO, Barrow</descgeog>
+      <bounding>
+        <westbc>71.349901369806</westbc>
+        <eastbc>-156.78176879611</eastbc>
+        <northbc>-156.48513793674</northbc>
+        <southbc>71.272895149928</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Barrow, Alaska</placekey>
+        <placekey>BEO</placekey>
+        <placekey>Barrow Environmental Observatory</placekey>
+        <placekey>North Slope, Alaska</placekey>
+      </place>
+      <theme>
+        <themekt>Leaf spectral reflectance</themekt>
+        <themekey>Site, Sample_Date, Spectra_Name, USDA_Species, BNL_Barcode, Sample_Barcode, Instrument, Foreoptic, Collection_Units, Spectra_Units, Spectra_Type, Reflectance_Type, White_Reference_Standard, Spectral_Resolution, Interpolation_Method, Overlap_Handling, Overlap_Removal, Overlap_Matching_Type, Wave_350 to Wave_2500</themekey>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Shawn Serbin</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Department</address>
+          <city>Upton</city>
+          <state>New York</state>
+          <postal>11973-5000</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>631-344-3165</cntvoice>
+        <cntemail>sserbin@bnl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <tooldesc>R and the R-FieldSpectra processing code (https://github.com/serbinsh/R-FieldSpectra).  Additional R processing scripts</tooldesc>
+      <toolacc>
+        <onlink>https://github.com/serbinsh/R-FieldSpectra</onlink>
+        <toolinst>GitHub</toolinst>
+      </toolacc>
+      <toolcont>
+        <cntinfo>
+          <cntperp>
+            <cntper>Shawn Serbin</cntper>
+            <cntorg>Brookhaven National Laboratory</cntorg>
+          </cntperp>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+            <address>Environmental and Climate Sciences Department</address>
+          </cntaddr>
+          <cntvoice>6313443165</cntvoice>
+          <cntemail>sserbin@bnl.gov</cntemail>
+        </cntinfo>
+      </toolcont>
+      <toolcite>
+        <citeinfo>
+          <origin>Shawn Serbin</origin>
+          <pubdate>2014</pubdate>
+          <title>Spectroscopic determination of leaf morphological and biochemical traits for northern temperate and boreal tree species</title>
+        </citeinfo>
+      </toolcite>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+        <methdesc>Field measurements made using a Spectra Vista Corporation (SVC) HR-1024i Spectroradiometer.  Data post-processing is described in Serbin et al., (2017) and in provided spectra metadata files.</methdesc>
+        <methcite>
+          <citeinfo>
+            <origin>Shawn Serbin</origin>
+            <pubdate>2014</pubdate>
+            <title>Spectroscopic determination of leaf morphological and biochemical traits for northern temperate and boreal tree species</title>
+            <onlink>http://dx.doi.org/10.1890/13-2110.1</onlink>
+          </citeinfo>
+        </methcite>
+      </method>
+      <procstep>
+        <procdesc>See provided spectra metadata files</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20161202</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Shawn Serbin</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntpos>Associate Scientist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Department</address>
+          <city>Upton</city>
+          <state>New York</state>
+          <postal>11973-5000</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>631-344-3165</cntvoice>
+        <cntemail>sserbin@bnl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+

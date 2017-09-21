@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Colleen Iversen (iversencm@ornl.gov)</origin>
+        <origin>Joanne Childs (childsj@ornl.gov)</origin>
+        <origin>Verity Salmon (salmonvg@ornl.gov)</origin>
+        <title>NGEE Arctic Plant Traits: Plant Biomass and Traits, Kougarok Road Mile Marker 64, Seward Peninsula, Alaska, beginning 2016</title>
+        <geoform>In situ Field Measurements</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Data includes aboveground biomass and plant traits for destructive harvests performed at the Kougarok hill slope located at Kougarok Road, Mile Marker 64. Data collection began in July 2016. Aboveground biomass and aboveground plant traits are available for shrub and understory species found in vegetation plots. Paired observations of aboveground and belowground plant traits are available for select shrub species. Data upload will be complete March 2016.</abstract>
+      <purpose>Biomass data was collected to provide site specific values as well as determine whether exisiting allometric relationships could be used to quantify shrub biomass on a landscape level. Plant trait data was collected to identify 1) tradeoffs between aboveground and belowground plant traits and 2) plant traits that are associated with important ecosystem processes.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160727</begdate>
+          <enddate>current</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>ongoing</progress>
+      <update>as needed</update>
+    </status>
+    <spdom>
+      <descgeog>Kougarok Road (Mile Marker 64)</descgeog>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Kougarok Road</placekey>
+        <placekey>Seward Peninsula</placekey>
+        <placekey>Alaska</placekey>
+      </place>
+      <theme>
+        <themekt>aboveground biomass</themekt>
+        <themekey>height</themekey>
+        <themekey>leaf biomass</themekey>
+        <themekey>density</themekey>
+        <themekey>basal area</themekey>
+        <themekey>wood biomass</themekey>
+      </theme>
+      <theme>
+        <themekt>aboveground plant traits</themekt>
+        <themekey>leaf %C</themekey>
+        <themekey>wood %C</themekey>
+        <themekey>wood %P</themekey>
+        <themekey>specific leaf area</themekey>
+        <themekey>leaf%P</themekey>
+        <themekey>leaf %N</themekey>
+        <themekey>leaf d15N</themekey>
+        <themekey>wood d15N</themekey>
+        <themekey>wood density</themekey>
+        <themekey>wood %N</themekey>
+      </theme>
+      <theme>
+        <themekt>belowground plant traits</themekt>
+        <themekey>root specific area</themekey>
+        <themekey>root d15N</themekey>
+        <themekey>root branching</themekey>
+        <themekey>root %C</themekey>
+        <themekey>root %N</themekey>
+        <themekey>root %P</themekey>
+        <themekey>root diameter</themekey>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Colleen Iversen</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>Tennessee</state>
+          <postal>37831</postal>
+        </cntaddr>
+        <cntvoice>865 241 3961</cntvoice>
+        <cntemail>iversencm@ornl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <logic>NA</logic>
+    <lineage>
+      <method>
+        <methtype>both</methtype>
+        <methdesc>Aboveground biomass was measured for tall shrub species by harvesting one shrub of each species present in the vegetation plot. Aboveground biomass of understory species was measured by clipping and sorting all aboveground biomass within a 20 cm x 50 cm area in the vegetation plot. Paired observations of above and belowground plant traits were collected by harvesting shrub individuals growing near vegetation plots. Roots were traced from the base of the shrub to root tips and had traits (branching, diameter, specific root area, chemistry) measured in the lab. Leaf and wood samples from all harvest plants had traits (specific leaf area, wood density, leaf and wood chemistry) measured in the lab.</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20161207</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Verity Salmon</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntpos>Postdoctoral researcher</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Climate Change Science Institute, Building 4500N</address>
+          <city>Oak Ridge</city>
+          <state>Tennessee</state>
+          <postal>37831</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>3523590830</cntvoice>
+        <cntemail>salmonvg@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+

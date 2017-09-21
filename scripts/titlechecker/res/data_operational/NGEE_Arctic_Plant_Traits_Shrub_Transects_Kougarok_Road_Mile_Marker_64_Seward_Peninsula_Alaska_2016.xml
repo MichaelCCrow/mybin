@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Stan Wullschleger (wullschlegsd@ornl.gov)</origin>
+        <origin>Peter Thornton (thorntonpe@ornl.gov)</origin>
+        <origin>Colleen Iversen (iversencm@ornl.gov)</origin>
+        <origin>Mark Lara (mjlara@illinois.edu)</origin>
+        <origin>Verity Salmon (salmonvg@ornl.gov)</origin>
+        <title>NGEE Arctic Plant Traits: Shrub Transects, Kougarok Road Mile Marker 64, Seward Peninsula, Alaska, 2016</title>
+        <geoform>In situ Field Measurements</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Transect data is from point center quarter surveys for shrub density performed in July 2016 at the Kougarok hill slope located at Kougarok Road, Mile Marker 64. For each sample point along the transects, moving averages for shrub density and shrub basal area are provided along with GPS coordinates, average shrub height and active layer depth. The individual height, basal area, and species of surveyed shrubs are also included. Data upload will be completed January 2017.</abstract>
+      <purpose>Data were collected to characterize the species, size, and structure of shrubs along the Kougarok hill slope. Such a characterization will allow shrub plant traits measured on an individual basis to be linked to landscape level fluxes of carbon, water, and energy.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160725</begdate>
+          <enddate>20160730</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>Kougarok Road (Mile Marker 64)</descgeog>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Kougarok Road</placekey>
+        <placekey>Seward Peninsula</placekey>
+        <placekey>Alaska</placekey>
+      </place>
+      <theme>
+        <themekt>Shrub density</themekt>
+        <themekey>active layer depth</themekey>
+        <themekey>shrub height</themekey>
+        <themekey>transect</themekey>
+        <themekey>shrub species</themekey>
+        <themekey>basal area</themekey>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Colleen Iversen</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>Tennessee</state>
+          <postal>37831</postal>
+        </cntaddr>
+        <cntvoice>865 241 3961</cntvoice>
+        <cntemail>iversencm@ornl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <logic>NA</logic>
+    <complete>When species is listed as "NP" this indicates that a shrub was not present within 20 m of the sampling point quarter (see methods).</complete>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+        <methdesc>We initiated measurements of shrub abundance along transects "A" and "B" at a starting point near the road. These sample locations were designated A00 and B00. GPS coordinates were recorded and visual reference lines for the four quadrants were established. The nearest tall shrub was identified in each quadrant by species and its distance to the center point determined with a measuring tape. Plant height and stem diameters were measured with a meter stick and electronic caliper, respectively. Once measurements were completed, we moved 20 meters along the transect and repeated the process (e.g., A20, A40, etc.). Sampling along transect "C" was conducted in a similar manner except that a distance of 50 meters between measurement locations was used. In addition, and unlike transects "A" and "B" where we physically used a measuring tape to establish distance between sampling locations, estimated measurement locations for transect "C" were entered into the GeoPDF. We could easily navigate to each of the measurement locations using an iPAD. For transect "A" we made independent point-centered quarter measurements for Betula nana, separate from all other tall shrub species. For transects "B" and "C" we did not record Betula nana. This approach prevented the very common but usually small Betula nana individuals from dominating the occurrence and density measurements.&#xD;
+&#xD;
+Stem diameter near the ground (i.e., intersection of multiple stems) was measured with an electronic caliper. For many individuals (genets) there are multiple stems emerging at ground level (ramets). We measured and recorded the diameter of each ramet on an individual as near to the ground surface as possible. Total basal area for each sampled genet is calculated by summing the basal areas for each ramet after basal diameters for each ramet have been converted to basal area.&#xD;
+&#xD;
+The maximum distance surveyed from the each quadrat center point was 20 m. When no shrubs were present in a quarter within 20 m of the centerpoint, the observation was given a Shrub Present value of zero and a distance of 20 m. In transect A, two sets of PCQ observations were recorded, one for Betula nana and one for tall shrub species. For these observations of zero individuals within the 20m distance, species was listed as "NP" when the observer was looking for tall shrub species but was listed as "BETNAN" if the observer was looking for Betula nana. This explains how rows in the transect A spreadsheet can have a Shrub count of zero but a species code BETNAN. In all spreadsheets, rows containing observations of zero individuals within 20 m were assigned a plant height of NA and diameter of NA. NA was also used to fill any observations for which data was missing, regardless of whether the missing data was due to a failure to record the data or due to an individual shrub not being present with the 20 m survey distance. &#xD;
+In transect B, field notes indicate that one shrub was surveyed twice (B800 quarter 1 and B880 quarter 4). This violates the assumptions behind the point centered quarter method and so the second observation (B880 quarter 4) was given a shrub count of zero, species designation of NP and distance was maintained as the observed distance to the quadrat center for B880. This decision was based on the assumption that no other shrubs occupied the area with the distance to this twice-surveyed individual.&#xD;
+&#xD;
+Since Transects A, B and C span a range of environmental conditions we wanted to calculate a moving average for density (shrubs per m2) as well as shrub basal area (cm2 stem per m2 ground). To do this, the dataset was first split into transects. Though three transects were surveyed, there were effectively four transects since Transect A was surveyed for Betula nana once and was surveyed for all tall shrub species another time. Each of these four transects were sorted by distance from start and a moving average of density was calculated as follows:&#xD;
+At each sample point along the transect, the mean distance to nearest shrub was calculated based on the four quarters observed. According to Cottam &amp; Curtis (1954) the mean density along a transect equals 1/((mean distance)^2). We used three sampling points as the frame for our moving average of density: each sampling point therefor has a density based on a 3 sample point subset of the larger transect. Basal area (cm2 stem per m2 ground) was calculated by multiplying the moving average density (shrub per m2) by the average basal total area per shrub (cm2 per shrub) at each sample point. It should be noted that currently our density calculations along the transects assume that every observation for which no shrub was present in a quarter was the result of a shrub being present at the 20m limit of range. This is to avoid removing the "not present" observations (which would overestimate shrub density). However, it should be investigated whether a correction factor can be applied to our moving average density calculation. See Warde &amp; Petranka, Ecology (1981) for more information on calculating correction factors. When a no shrubs were present in any of the four quarters of a sample point, zero was used for the the average shrub height, basal total, and basal area.</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20161206</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Verity Salmon</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntpos>Postdoctoral researcher</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Climate Change Science Institute, Building 4500N</address>
+          <city>Oak Ridge</city>
+          <state>Tennessee</state>
+          <postal>37831</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>3523590830</cntvoice>
+        <cntemail>salmonvg@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <datause>GPS coordinates are World Geodetic System 1984 (WGS-84) and were measured using a Garmin eTrek handheld GPS. The error associated with this device was 9 ft. or ~3 m (we waited until the instrument reached this error level before recording the measurement). Coordinate units are decimal degrees.</datause>
+    <ome_status>approved</ome_status>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/soil_physical_chemical_thermal_characterization_council/data</onlink>
+        <origin>Alexander Kholodov (alkholodov@alaska.edu)</origin>
+        <origin>David Graham (grahamde@ornl.gov)</origin>
+        <origin>Ji-Won Moon (moonj@ornl.gov)</origin>
+        <title>Soil Physical, Chemical, and Thermal Characterization, Council Road Site, Seward Peninsula, Alaska, 2016</title>
+        <geoform>Laboratory Analysis</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset provides the results of physical, chemical, and thermal characterization of soils at the Council Road Site at MM71, Seward Peninsula, Alaska. Soil pits were dug on 11 September 2016 at three sites. This dataset includes field observations and descriptions of soil layers or horizons, field measurements of soil volumetric water content, soil temperature, thermal conductivity, and heat capacity. Laboratory measurements of soil properties include gravimetric water content, bulk density, volumetric water content, total carbon and nitrogen, and elemental composition from X-ray fluorescence for some elements.</abstract>
+      <purpose>Data were collected to characterize the variability of soil layers at the Seward Peninsula sites, help to parameterize land models, and provide the basis for designing future campaigns.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160911</begdate>
+          <enddate>20160911</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>ongoing</progress>
+      <update>irregular</update>
+    </status>
+    <spdom>
+      <descgeog>Council Road MM 71</descgeog>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Seward Peninsula Alaska, Council Road</placekey>
+      </place>
+      <theme>
+        <themekt>soil properties</themekt>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>David Graham</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>PO Box 2008, MS-6038</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6038</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>865-574-0559</cntvoice>
+        <cntemail>grahamde@ornl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>both</methtype>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170907</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>David Graham</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntpos>Group Leader</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>PO Box 2008, MS-6038</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6038</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>865-574-0559</cntvoice>
+        <cntemail>grahamde@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <record_id>NGA073</record_id>
+    <taskname>BGC</taskname>
+  </ome>
+</metadata>
+

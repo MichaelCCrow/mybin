@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/soil_organic_carbon_degradation_during_incubation/documentation</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/soil_organic_carbon_degradation_during_incubation/data/</onlink>
+        <onlink>http://dx.doi.org/10.5440/1168992</onlink>
+        <origin>Baohua Gu (gub1@ornl.gov)</origin>
+        <origin>Elizabeth Herndon (eherndo1@kent.edu)</origin>
+        <origin>Ziming Yang (zimingyang@oakland.edu)</origin>
+        <title>Soil Organic Carbon Degradation during Incubation, Barrow, Alaska, 2012</title>
+        <geoform>Laboratory Analysis</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset provides information about soil organic carbon decomposition in Barrow soil incubation studies.  The soil cores were collected from low-center polygon (Area A) and were incubated in the laboratory at different temperatures for up to 60 days.  Transformations of soil organic carbon were characterized by UV and FT-IR, and small organic acids in water-soluble carbons were quantified by ion chromatography during the incubation (Herndon et al., 2015).  doi:10.5440/1168992; http://dx.doi.org/10.5440/1168992</abstract>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20120416</begdate>
+          <enddate>20120416</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>Area A</descgeog>
+      <bounding>
+        <westbc>-156.613759</westbc>
+        <eastbc>-156.607904</eastbc>
+        <northbc>71.282186</northbc>
+        <southbc>71.280387</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Barrow, Alaska</placekey>
+        <placekey>Barrow Environmental Observatory</placekey>
+        <placekey>Area A</placekey>
+      </place>
+      <theme>
+        <themekt>soil incubation</themekt>
+      </theme>
+      <theme>
+        <themekt>Organic Carbon Decomposition</themekt>
+      </theme>
+      <theme>
+        <themekt>transformations</themekt>
+      </theme>
+    </keywords>
+    <accconst>public</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Baohua Gu</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Bethel Valley Rd</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831</postal>
+        </cntaddr>
+        <cntvoice>865-574-7286</cntvoice>
+        <cntemail>gub1@ornl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>lab</methtype>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170105</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Baohua Gu</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Bethel Valley Rd</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>865-574-7286</cntvoice>
+        <cntemail>gub1@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <taskname>BGC</taskname>
+  </ome>
+</metadata>
+

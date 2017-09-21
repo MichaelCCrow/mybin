@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>http://dx.doi.org/10.5440/1374599</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/ngee_arctic_tram_continuous_soil_measurments/data</onlink>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/ngee_arctic_tram_continuous_soil_measurments/documentation</onlink>
+        <origin>Margaret Torn (mstorn@lbl.gov)</origin>
+        <origin>Baptiste Dafflon (bdafflon@lbl.gov)</origin>
+        <title>NGEE Arctic Tram: Continuous Soil Moisture and Temperature Measurements across Low- and High-Centered Polygonal Ground, Barrow, Alaska, 2014-2016</title>
+        <geoform>In situ Field Measurements</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data set reports the continuous soil moisture and temperature measurements collected from August of 2014 to September of 2016 along the footprint of the NGEE Arctic Tram. &#xD;
+&#xD;
+Soil moisture and temperature sensors are installed adjacent to the Tram at 8 locations of varying land surface types across the low-centered and high-centered polygonal ground. While the Tram operates seasonally these soil measurements are recorded year around.&#xD;
+&#xD;
+Data for the remainder of 2016 and 2017 will be added when available.&#xD;
+&#xD;
+Dataset citation:  Baptiste Dafflon, Margaret Torn, et al. 2017. NGEE Arctic Tram: Continuous Soil Moisture and Temperature Measurements across Low- and High-Centered Polygonal Ground, Barrow, Alaska, 2014-2016. Next Generation Ecosystem Experiments Arctic Data Collection, Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA. Data accessed at  http://dx.doi.org/10.5440/1374599.</abstract>
+      <purpose>Soil moisture and temperature sensors are installed adjacent to the Tram at 8 locations of varying land surface types across the low-centered and high-centered polygonal ground.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20140817</begdate>
+          <enddate>20160916</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>ongoing</progress>
+      <update>annually</update>
+    </status>
+    <spdom>
+      <descgeog>Intensive site 1</descgeog>
+      <bounding>
+        <westbc>-156.596662</westbc>
+        <eastbc>-156.596662</eastbc>
+        <northbc>71.282767</northbc>
+        <southbc>71.282767</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Barrow Environmental Observatory (BEO)</placekey>
+        <placekey>Barrow, Alaska</placekey>
+        <placekey>Intensive Site 1</placekey>
+      </place>
+      <theme>
+        <themekt>Soil moisture</themekt>
+        <themekey>SOIL MOISTURE/WATER CONTENT</themekey>
+      </theme>
+      <theme>
+        <themekt>soil temperature</themekt>
+        <themekey>SOIL TEMPERATURE</themekey>
+      </theme>
+      <theme>
+        <themekt>Soil characteristics</themekt>
+        <themekey>ELECTRICAL CONDUCTIVITY</themekey>
+      </theme>
+    </keywords>
+    <accconst>public</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Baptiste Dafflon</cntper>
+          <cntorg>Lawrence Berkeley National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Cyclotron Road 85B-0198</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>510-486-4735</cntvoice>
+        <cntemail>bdafflon@lbl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+        <methdesc>The Tram is located at the NGEE Arctic tundra study site on the Barrow Environmental Observatory (BEO) in Intensive Site 1, just south of Area A. It consists of 68 m of elevated track and a fully automated cart equipped with a suite of radiation and remote sensing instruments that traverses this distance on a daily schedule. The Tram stops every 0.5 meter to record measurements with stops that are coincident with the 8 soil measurement locations.&#xD;
+&#xD;
+Soil measurements were acquired with a programmed Campbell Scientific CR1000 data logger.</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170810</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Les Hook</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>42342</address>
+          <city>32423</city>
+          <state>234234</state>
+          <postal>243423</postal>
+          <country>23423</country>
+        </cntaddr>
+        <cntvoice>865-241-4846</cntvoice>
+        <cntemail>hookla@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <record_id>NGA118</record_id>
+    <taskname>HG</taskname>
+  </ome>
+</metadata>
+

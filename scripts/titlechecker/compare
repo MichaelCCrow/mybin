@@ -1,0 +1,44 @@
+#!/bin/bash
+
+curdir=$PWD
+cd /Users/mcu/Development/scripts/titlechecker
+
+getbasefilename() {
+    for i; do
+    if [[ $i == *" "* ]]; then i="$(echo "$i" | sed -e 's/ /_/g')"; fi
+    if [[ $i == *".NGA"* ]]; then
+        filename="$(basename "$i" | sed -e 's/[.]NGA\(.*\)xml//')"
+    echo "$filename"
+    else
+        filename="$(basename "$i" | sed -e "s/[.]xml//")"
+    echo "$filename"
+    fi
+    done
+}
+
+gettitle() {
+    echo "$(grep title $1 | sed -e "s/<title>\(.*\)<\/title>/\1/" | sed -e 's/^[[:space:]]*//' | sed -e 's/[[:space:]]*$//')"
+}
+
+convertitle() {
+    echo "$(java Replacer "$1")"
+}
+
+isin() {
+    # if filename is in title
+    if [[ $1 == *"$2"* ]]; then
+        true
+    else false
+    fi
+}
+
+basefn="$(getbasefilename $1)"  # the piece of the file name to compare with
+title="$(gettitle "$1")"        # the title in the file
+mimic="$(convertitle "$title")" # the title with underscores
+#echo -e "basef: $basefn\ntitle: $title\nmimic: $mimic" 
+
+#if `isin $basefn $title`; then echo matching; else echo not matching; fi
+#if `isin $basefn $title`; then h=0; else echo "basefn: $basefn"; echo "title: $title"; fi
+if `isin $basefn $title`; then h=0; else basename $1; fi
+
+cd $curdir

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/BNL_DTLB_TIR_and_Digital_Photos/data</onlink>
+        <origin>Shawn Serbin (sserbin@bnl.gov)</origin>
+        <title>NGEE Arctic TIR and Digital Photos, Drained Thaw Lake Basin, Barrow, Alaska, July 2015</title>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>FLIR thermal infrared (TIR), digital camera photos, and plot notes across the Barrow, Alaska DTLB site. Data were collected together with measurements of canopy spectral reflectance (see associated metadata record (NGEE Arctic HR1024i Canopy Spectral Reflectance, Drained Thaw Lake Basin, Barrow, Alaska, July 2015 ).  Data contained within this archive include exported FLIR images (analyzed with FLIR-Tools), digital photos, TIR report, and sample notes.  Further TIR image analysis can be conducted in FLIR-Tools.</abstract>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20150719</begdate>
+          <enddate>20150719</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>DTLB_1</descgeog>
+      <bounding>
+        <westbc>-156.621813</westbc>
+        <eastbc>-156.594976</eastbc>
+        <northbc>71.282192</northbc>
+        <southbc>71.279308</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>BEO</placekey>
+        <placekey>North Slope, Alaska</placekey>
+        <placekey>Barrow Environmental Observatory</placekey>
+        <placekey>DTLB 1</placekey>
+        <placekey>Barrow, Alaska</placekey>
+      </place>
+      <theme>
+        <themekt>TIR Imagery</themekt>
+      </theme>
+      <theme>
+        <themekt>Digital Imagery</themekt>
+      </theme>
+    </keywords>
+    <accconst>public</accconst>
+    <datacred>Kim Ely, Bryan Curtis</datacred>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Shawn Serbin</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Department</address>
+          <city>Upton</city>
+          <state>New York</state>
+          <postal>11973-5000</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>631-344-3165</cntvoice>
+        <cntemail>sserbin@bnl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <tooldesc>FLIR Tools</tooldesc>
+      <toolacc>
+        <onlink>http://www.flir.com/instruments/display/?id=54865</onlink>
+      </toolacc>
+      <toolcont>
+        <cntinfo>
+          <cntperp>
+            <cntper>FLIR</cntper>
+          </cntperp>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+        <methdesc>Images were imported into FLIR Tools (http://www.flir.com/instruments/display/?id=54865)</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20161203</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Shawn Serbin</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Department</address>
+          <city>Upton</city>
+          <state>New York</state>
+          <postal>11973-5000</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>631-344-3165</cntvoice>
+        <cntemail>sserbin@bnl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+

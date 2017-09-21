@@ -1,0 +1,10 @@
+titles.txt
+the titles that do not match
+
+unmatchedfiles.txt
+the files with the titles that do not match
+
+omematching.txt
+files in the ome approved folder whose filenames match the titles from titles.txt
+
+

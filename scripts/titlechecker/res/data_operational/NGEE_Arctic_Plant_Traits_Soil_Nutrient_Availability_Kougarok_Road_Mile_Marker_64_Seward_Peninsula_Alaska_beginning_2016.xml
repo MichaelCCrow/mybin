@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Holly Vander Stel (vanderstelhm@ornl.gov)</origin>
+        <origin>Stan Wullschleger (wullschlegsd@ornl.gov)</origin>
+        <origin>Amy Breen (albreen@alaska.edu)</origin>
+        <origin>Colleen Iversen (iversencm@ornl.gov)</origin>
+        <origin>Verity Salmon (salmonvg@ornl.gov)</origin>
+        <title>NGEE Arctic Plant Traits: Soil Nutrient Availability, Kougarok Road Mile Marker 64, Seward Peninsula, Alaska, beginning 2016</title>
+        <geoform>In situ Field Measurements</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Soil nutrient availability at all vegetation plots was measured using anion and cation binding resins deployed to vegetation plots at the Kougarok hillslope site located at Kougarok Road Marker 64. Concentrations of ammonia, nitrate, and phosphate in resin extract solutions were determined in the lab. Data collection started in July 2016 and is ongoing. Data from 2016 deployments will be uploaded March 2016.</abstract>
+      <purpose>Data were collected to determine the availability of important plant nutrients in surface soils. This data will be compared to aboveground biomass as well as above and belowground plant traits.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160702</begdate>
+          <enddate>current</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>ongoing</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>Kougarok Road (Mile Marker 64)</descgeog>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Kougarok Road</placekey>
+        <placekey>Seward Peninsula</placekey>
+        <placekey>Alaska</placekey>
+      </place>
+      <theme>
+        <themekt>Soil characteristics</themekt>
+        <themekey>AMMONIA</themekey>
+        <themekey>NITRATE</themekey>
+        <themekey>PHOSPHATE</themekey>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Colleen Iversen</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>Tennessee</state>
+          <postal>37831</postal>
+        </cntaddr>
+        <cntvoice>865 241 3961</cntvoice>
+        <cntemail>iversencm@ornl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <logic>NA</logic>
+    <lineage>
+      <method>
+        <methtype>both</methtype>
+        <methdesc>We installed resin-access tubes in the northeast corner of each 2.5 m x 2.5 m vegetation community composition plots (and also a second access tube in the southwest corner of the larger, 5 m x 5 m alder plots). The access tubes were installed at a 60 degree angle from horizontal, to a depth of 10 cm. &#xD;
+Resins were deployed in resin access tubes for variable periods of time. Upon collection, all soil material was rinsed from the resins and resins were shipped on blue ice to ORNL. At the lab, resins were extracted and extract solution was analyzed for concentrations of ammonia, nitrate, and phosphate.</methdesc>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20170228</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Verity Salmon</cntper>
+          <cntorg>Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntpos>Postdoctoral researcher</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Climate Change Science Institute, Building 4500N</address>
+          <city>Oak Ridge</city>
+          <state>Tennessee</state>
+          <postal>37831</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>3523590830</cntvoice>
+        <cntemail>salmonvg@ornl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+

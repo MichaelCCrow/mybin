@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink>ftp://ngee.ornl.gov/data/outgoing/BNL_Seward_Canopy_Spectral_Reflectance/data</onlink>
+        <origin>Shawn Serbin (sserbin@bnl.gov)</origin>
+        <title>NGEE Arctic HR1024i Canopy Spectral Reflectance, Seward Peninsula, 2016</title>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Measurements of full-spectrum (i.e. 350-2500nm) canopy spectral reflectance of Arctic plant species.  Spectra were collected using the HR-2014i together with a Spectralon white plate to calibrate each measurement under variable illumination conditions. Additional details can be found in the resulting publications</abstract>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160725</begdate>
+          <enddate>20160726</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>complete</progress>
+      <update>n/a</update>
+    </status>
+    <spdom>
+      <descgeog>Kougarok Road, Study Site</descgeog>
+      <bounding>
+        <eastbc>65.165754</eastbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <place>
+        <placekey>Seward Peninsula</placekey>
+        <placekey>Alaska</placekey>
+        <placekey>Kougarok Road</placekey>
+        <placekey>Nome, Alaska</placekey>
+      </place>
+      <theme>
+        <themekt>Shortwave spectral reflectance</themekt>
+      </theme>
+    </keywords>
+    <accconst>internal</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Shawn Serbin</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Department</address>
+          <city>Upton</city>
+          <state>New York</state>
+          <postal>11973-5000</postal>
+        </cntaddr>
+        <cntvoice>631-344-3165</cntvoice>
+        <cntemail>sserbin@bnl.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <tool>
+      <toolcont>
+        <cntinfo>
+          <cntaddr>
+            <addrtype>mailing and physical</addrtype>
+          </cntaddr>
+        </cntinfo>
+      </toolcont>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <method>
+        <methtype>field</methtype>
+      </method>
+    </lineage>
+  </dataqual>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Data Center Support</cntper>
+          <cntorg>Next-Generation Ecosystem Experiments (NGEE) Arctic Project, Oak Ridge National Laboratory</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 Bethel Valley Road</address>
+          <city>Oak Ridge</city>
+          <state>TN</state>
+          <postal>37831-6290</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>support@ngee.ornl.gov</cntemail>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metd>20161203</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Shawn Serbin</cntper>
+          <cntorg>Brookhaven National Laboratory</cntorg>
+        </cntperp>
+        <cntpos>Associate Scientist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Environmental and Climate Sciences Department</address>
+          <city>Upton</city>
+          <state>New York</state>
+          <postal>11973-5000</postal>
+          <country>United States of America</country>
+        </cntaddr>
+        <cntvoice>+1 631-344-3165</cntvoice>
+        <cntemail>sserbin@bnl.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FDGC Content Standard for Digital Geospatial Metadata and
+			Biological Data Profile</metstdn>
+    <metstdv>FDGC-STD-001-1998</metstdv>
+  </metainfo>
+  <ome>
+    <ome_status>approved</ome_status>
+    <taskname>V</taskname>
+  </ome>
+</metadata>
+
