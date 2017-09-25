@@ -39,6 +39,7 @@ mimic="$(convertitle "$title")" # the title with underscores
 
 #if `isin $basefn $title`; then echo matching; else echo not matching; fi
 #if `isin $basefn $title`; then h=0; else echo "basefn: $basefn"; echo "title: $title"; fi
-if `isin $basefn $title`; then h=0; else basename $1; fi
+#if `isin $basefn $title`; then h=0; else basename $1; fi
+if [[ $basefn == *"$title"* ]]; then : else basename $1; fi
 
 cd $curdir

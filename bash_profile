@@ -7,6 +7,10 @@ HISTFILESIZE=200000
 
 export origIFS=$IFS
 
+#if [ -f ~/.bash_aliases ]; then
+#    . ~/.bash_aliases
+#fi
+
 #mysql
 alias mysql=/usr/local/mysql/bin/mysql
 
@@ -25,36 +29,19 @@ alias aa="screen -R"
 alias py="/usr/bin/python2.7"
 alias py3="/usr/local/bin/python3.5"
 
-#maven
-#dddeploy2() {
-#    full=false
-#    if [ -f 'pom.xml' ]; then
-#    echo -e "\nmvn -P $1 ${@:2} tomcat7:redeploy"
-#    if [ $# = 0 ]; then echo "must provide a profile"
-#    else 
-#        if [ $# -gt 1 ]; then
-#            echo -e "...additional options: ${@:2}\n"
-#        else echo -e "...quick deploy\n"
-#        fi
-#        for i; do case $i in --full) full=true; esac; done;
-#        #if [[ ${@:2} = *"--full"* ]]; then 
-#        #    full=true
-#        #fi
-#        goals=$(echo ${@:2} | sed 's/--full//'); 
-#        echo -e "\nmvn -P $1 $goals tomcat7:redeploy"
-#        mvn -P $1 $goals tomcat7:redeploy
-#        if $full; then runchecks -t; fi
-#        #echo -e "\nmvn -P $1 ${@:2} tomcat7:redeploy"
-#        #mvn -P $1 ${@:2} tomcat7:redeploy
-#    fi
-#    else echo "not a maven project"
-#    fi
-#}
+#maven (custom script in bin)
 alias deployandtest="deploy local clean --full"
 
 #tomcat
 alias stop-tomcat="/Users/mcu/tomcat7/bin/shutdown.sh | tail -f /Users/mcu/tomcat7/logs/catalina.out"
 alias start-tomcat="/Users/mcu/tomcat7/bin/startup.sh | tail -f /Users/mcu/tomcat7/logs/catalina.out"
+alias tomcat-status="ps -ef | grep tomcat"
+alias kill-tomcat="pkill -9 -f tomcat"
+alias see-tomcat="tail -f /Users/mcu/tomcat7/logs/catalina.out"
+alias tomcat-logs="tail -f /Users/mcu/tomcat7/logs/catalina.out"
+
+alias linux-tomcat-start="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/start'"
+alias linux-tomcat-stop="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/stop'"
 
 #ssh
 newsshkey() {
@@ -102,7 +89,8 @@ alias ws="cd $workspace"
 
 export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
 
-url() { open -a Firefox $1; }
+url() { open -a Google\ Chrome $1; }
+localurl() { open -a Google\ Chrome http://localhost:8080/$1; }
 
 
 
@@ -158,17 +146,6 @@ bakcyn='\e[46m'   # Cyan
 bakwht='\e[47m'   # White
 txtrst='\e[0m'    # Text Reset
 
-
-#filter_dir() {
-#    thisdir=$1
-#    wspc1="Workspaces"
-#    eclps1="MyEclipseMCC"
-#    ngm2="[MyEclipse]"
-#    ngm1="ngeemetadata"
-#    thisdir=$(echo $thisdir | sed s/"$wspc1\/$eclps1"/"$ngm2"/)
-#    thisdir=$(echo $thisdir | sed s/"\/$ngm1"/"[ngm]"/)
-#    echo $thisdir
-#}
 
 print_before_the_prompt () {
     #recentfiles=$(stat -f "%m%t%Sm %N" * | sort -rn | head -3 | cut -f2-)
