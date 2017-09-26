@@ -2,14 +2,20 @@ export CLICOLOR=1
 #export LSCOLORS=GxFxCxDxbxegedabagacad
 TERM=xterm-256color
 
+export origIFS=$IFS
+
 HISTSIZE=100000
 HISTFILESIZE=200000
 
-export origIFS=$IFS
+#get my aliases
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
 
-#if [ -f ~/.bash_aliases ]; then
-#    . ~/.bash_aliases
-#fi
+
+#########################
+#### system aliases #####
+#########################
 
 #mysql
 alias mysql=/usr/local/mysql/bin/mysql
@@ -17,82 +23,15 @@ alias mysql=/usr/local/mysql/bin/mysql
 #bash_profile
 alias bashpr="vi ~/.bash_profile"
 alias rbash=". ~/.bash_profile"
+alias basha="vi ~/.bash_aliases"
+alias bashal="vi ~/.bash_aliases"
 
-title() {
-    echo -e '\033k'$1'\033\\'
-}
-
-#screen
-alias aa="screen -R"
+#change window title
+title() { echo -e '\033k'$1'\033\\'; }
 
 #python
 alias py="/usr/bin/python2.7"
 alias py3="/usr/local/bin/python3.5"
-
-#maven (custom script in bin)
-alias deployandtest="deploy local clean --full"
-
-#tomcat
-alias stop-tomcat="/Users/mcu/tomcat7/bin/shutdown.sh | tail -f /Users/mcu/tomcat7/logs/catalina.out"
-alias start-tomcat="/Users/mcu/tomcat7/bin/startup.sh | tail -f /Users/mcu/tomcat7/logs/catalina.out"
-alias tomcat-status="ps -ef | grep tomcat"
-alias kill-tomcat="pkill -9 -f tomcat"
-alias see-tomcat="tail -f /Users/mcu/tomcat7/logs/catalina.out"
-alias tomcat-logs="tail -f /Users/mcu/tomcat7/logs/catalina.out"
-
-alias linux-tomcat-start="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/start'"
-alias linux-tomcat-stop="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/stop'"
-
-#ssh
-newsshkey() {
-    cat ~/.ssh/id_rsa.pub | ssh $1 "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh/authorized_keys"
-}
-newsshkey2() {
-    cat ~/.ssh/id_rsa.pub | ssh $1 "cat >> ~/.ssh/authorized_keys"
-}
-#lazy-ssh
-alias armp="ssh armdev-python"
-alias armpp="ssh mcuarm@armdev-python"
-alias armj="ssh armdev-java"
-alias armjj="ssh mcuarm@armdev-java"
-alias armr="ssh mcuarm@armdev-recep"
-alias adcadmin="ssh adcadmin"
-alias merc="ssh mercury"
-export merc3="mercury3-rh"
-alias merc3="ssh mercury3-rh"
-
-#git
-alias gitwebrootdiff="git diff --name-only HEAD^ WebRoot/"
-
-#lazy-nav
-export mybin="/Users/mcu/bin"
-alias mybin="ls $mybin"
-
-export dev="/Users/mcu/Development"
-alias dev="cd $dev"
-
-export myscripts="/Users/mcu/Development/scripts"
-alias myscripts="cd $myscripts"
-
-export ngm="/Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata"
-alias ngm="cd $ngm"
-
-export tngm="/Users/mcu/tomcat7/webapps/ngeemetadata"
-alias tngm="cd $tngm"
-
-export tc="/Users/mcu/tomcat7"
-alias tc="cd $tc"
-
-export workspace="/Users/mcu/Workspaces/MyEclipseMCC"
-export ws=$workspace
-alias ws="cd $workspace"
-
-export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
-
-url() { open -a Google\ Chrome $1; }
-localurl() { open -a Google\ Chrome http://localhost:8080/$1; }
-
-
 
 
 # Setting PATH for Python 3.5
@@ -102,12 +41,6 @@ pypath="/Library/Frameworks/Python.framework/Versions/3.5/bin"
 mypath="/Users/mcu/bin"
 brewpath="/usr/local/sbin"
 export PATH="$PATH:$pypath:$mypath:$brewpath"
-
-
-
-
-
-
 
 
 
