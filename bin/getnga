@@ -4,11 +4,7 @@ if [[ $# < 1 ]]; then
     add-instructions 'The first argument should be the last 3 numbers following "NGA"'
 else
     if [[ $# = 1 ]]; then
-        less `nga $1 | tail -1`
-        #find "/metadata/ngee" -name "*NGA$1*" -type f
-        #less $(find "/metadata/ngee" -name "*NGA$1*" -type f)
-#        less $(find `pwd`"/$2" -name "*NGA$1*" -type f)
-#    else
-#        less $(find `pwd` -name "*NGA$1*" -type f)
+        less `nga $1 new`
+        #less `nga $1 new | tail -1`
     fi
 fi

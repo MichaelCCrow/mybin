@@ -6,7 +6,6 @@ print_instructions() {
 add-instructions1 "Profile" "[optional] additional options - Ex: deploy local clean install\nusage of the '--full' option at the end will run full selenium tests through an automated Chrome browser"
 }
 
-echo here
 full=false
 if [ -f 'pom.xml' ]; then
     echo -e "\nmvn -P $1 ${@:2} tomcat7:redeploy"

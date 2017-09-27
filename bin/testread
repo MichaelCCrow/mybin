@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo " doing things... "
+
+read -t 3 -p "type something: " bla
+
+if [ ! -z "$bla" ]; then
+echo you typed $bla
+else echo out of time
+fi
+
+for i in $bla; do
+    case "$i"
+        in
+        something) echo "hurray you typed something!"; shift; shift;; 
+        *) echo fail; shift; break;;
+    esac
+done

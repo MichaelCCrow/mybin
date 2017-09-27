@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if [[ $# < 1 ]]; then 
+add-instructions "Only one: [savedraft] [openstats]"
+exit
+fi
+
+for i; do
+case "$i" in
+savedraft) runchecks; shift; shift;;
+openstats) python /Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata/src/test/python/statistics_checker.py; shift; shift;;
+*) echo "invalid option"; shift; break;;
+esac
+done

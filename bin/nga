@@ -8,22 +8,13 @@ else
             find "/metadata/ngee" -name "*$1*" -type f
         else
 
-#    if [[ $# = 2 ]]; then
         find "/metadata/ngee" -name "*NGA$1*" -type f
         fi
-        #less $(find "/metadata/ngee" -name "*NGA$1*" -type f)
-#        less $(find `pwd`"/$2" -name "*NGA$1*" -type f)
-#    else
-#        less $(find `pwd` -name "*NGA$1*" -type f)
     fi
     if [[ $# = 2 ]]; then
         if [[ $2 = "new" ]]; then
-            ls -t `find /metadata/ngee -type d` | grep NGA$1 | head -1
-           # if [[ $1 = *"NGA"* ]]; then
-           #     ls -t `find /metadata/ngee -type d` | grep "*$1*" | head -1
-           # else
-           #     ls -t `find /metadata/ngee -type d` | grep "*NGA$1*" | head -1
-           # fi
+            ls -t `find /metadata/ngee -type f | grep NGA$1` | head -1
+            #ls -t `find /metadata/ngee -type d` | grep NGA$1 | head -1
         fi
     fi 
 fi
