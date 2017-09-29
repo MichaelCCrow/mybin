@@ -4,7 +4,10 @@ if [[ $# < 1 ]]; then
     add-instructions 'The first argument should be the last 3 numbers following "NGA"'
 else
     if [[ $# = 1 ]]; then
-        less `nga $1 new`
-        #less `nga $1 new | tail -1`
+        if [ `nga $1 new` ]; then
+            less `nga $1 new`
+            #less `nga $1 new | tail -1`
+        else echo "NGA$1 does not exist"
+        fi
     fi
 fi
