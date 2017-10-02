@@ -55,10 +55,15 @@ targ=false
 
 # you should not use `getopt abo: "$@"` since that would parse
 # the arguments differently from what the set command below does.
-args=`getopt abon:s:wt $*`
+args=`getopt abon:s:wtf: $*`
 
 if [ $? != 0 ]; then
     echo 'Usage: ...'
+    echo "[-n <number>] - for setting the minimum time to check for files in minutes"
+    echo "[-s <number>] - max number of entries to show (default: 5)"
+    echo "[-t] - run full test (runs the python script metadata_checker.py) - if url provided, that will be the link used"
+    echo "[-d <url>] - same as [-t] but requires a url to use"
+    echo "[-w] - make it wait 5 seconds after completing"
     exit 2
 fi
 set -- $args
@@ -66,6 +71,7 @@ set -- $args
 # You cannot use the set command with a backquoted getopt directly,
 # since the exit code from getopt would be shadowed by those of set,
 # which is zero by definition.
+linktotest=""
 for i
 do
     case "$i"
@@ -79,14 +85,17 @@ do
     -n) 
         echo n set to "'"$2"'"; n="$2"; shift;
         shift;;
+    -s)
+        echo showing $2; show=$2; shift;
+        shift;;
     -w)
         echo checking file system and database; sleep 5; shift;
         shift;;
     -t)
         echo running full tests; targ=true; shift;
         shift;;
-    -s)
-        echo showing $2; show=$2; shift;
+    -d) 
+        echo running full tests; targ=true; linktotest="$2"; shift;
         shift;;
     --) 
         shift; break;;
@@ -97,8 +106,9 @@ done
 #echo oarg is "'"$oarg"'"
 #echo narg is "'"$narg"'"
 
+echo "linktotest $linktotest"
 if $targ; then
-    python /Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata/src/test/python/metadata_checker.py
+    python /Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata/src/test/python/metadata_checker.py "$linktotest"
     #python /Users/mcu/PycharmProjects/MetadataChecker/metadata_checker.py
 fi
 check $narg

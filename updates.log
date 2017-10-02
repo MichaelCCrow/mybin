@@ -381,3 +381,25 @@ Untracked files:
 	bin/tomcat
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master d3b1dfc] 2017-09-29@12:00 commit of my custom scripts
+ 4 files changed, 48 insertions(+), 3 deletions(-)
+ create mode 100755 bin/tomcat
+Branch master set up to track remote branch master from origin.
+[2017/10/02 12:00:00]:send:Users/mcu/bin:Last Modified 2017/09/29-14:12:09
+[2017/10/02 12:00:00]:send:Users/mcu/bin/runchecks:Last Modified 2017/09/29-14:12:09
+[2017/10/02 12:00:00]:send:Users/mcu/bin/testngm:Last Modified 2017/09/26-12:20:28
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bin/runchecks
+	modified:   updates.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	bin/testngm
+
+no changes added to commit (use "git add" and/or "git commit -a")
