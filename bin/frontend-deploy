@@ -1,0 +1,62 @@
+#!/bin/bash
+
+src="src/main/webapp"
+dest="mcutomcat@esddrupal-dev:webapps/ngeemetadata"
+
+if [[ $# = 1 ]]; then 
+    if [[ "$1" == "prod" ]]; then
+    echo "doing prod"
+    dest="mcutomcat@esddrupal-prod:webapps/ngeemetadata" 
+    else echo "invalid arg"; exit
+    fi
+else if [[ $# > 1 ]]; then 
+    echo "too many args"; exit; 
+    fi
+fi
+
+syncit() {
+    rsync -vp $src/$1 $dest/$1
+}
+
+confirm() {
+    echo "command to run:"
+    echo "rsync -vp $src/$1 $dest/$1"
+    
+    read -p "Are you sure? [y|Y] " conf
+    echo
+
+    case "$conf" in
+        y|Y) echo "...confirmed $1"; true; syncit;;
+        n|N) echo "...cancelled"; false;;
+        *) echo "...invalid"; false;;
+    esac
+}
+    
+echo "Which to deploy? "
+echo
+
+options=("WEB-INF/pages/" "js/" "css/")
+select opt in "${options[@]}"; do
+    case $opt in
+        "WEB-INF/pages/")
+            confirm $opt
+            break;;
+        "js/")
+            confirm $opt
+            break;;
+        "css/")
+            confirm $opt
+            break;;
+        *) echo "...invalid"; break;;
+    esac
+done
+
+
+
+                #rsync src/main/webapp/WEB-INF/pages/login.jsp mcutomcat@esddrupal-prod:webapps/ngeemetadata/WEB-INF/pages/login.jsp
+
+                
+            
+
+
+#rsync src/main/webapp/WEB-INF/pages/login.jsp mcutomcat@esddrupal-prod:webapps/ngeemetadata/WEB-INF/pages/login.jsp
