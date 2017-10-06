@@ -423,3 +423,24 @@ Untracked files:
 	bin/frontend-deploy
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 37c1554] 2017-10-03@12:00 commit of my custom scripts
+ 2 files changed, 82 insertions(+)
+ create mode 100755 bin/frontend-deploy
+Branch master set up to track remote branch master from origin.
+[2017/10/06 12:00:00]:send:Users/mcu/bin:Last Modified 2017/10/05-15:16:32
+[2017/10/06 12:00:00]:send:Users/mcu/bin/sync-esd.sh:Last Modified 2017/10/05-15:16:32
+[2017/10/06 12:00:00]:send:Users/mcu/Development/scripts:Last Modified 2017/10/05-14:47:52
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   updates.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	bin/sync-esd.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
