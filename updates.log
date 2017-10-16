@@ -444,3 +444,17 @@ Untracked files:
 	bin/sync-esd.sh
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master edebbb1] 2017-10-06@12:00 commit of my custom scripts
+ 2 files changed, 39 insertions(+)
+ create mode 100755 bin/sync-esd.sh
+Branch master set up to track remote branch master from origin.
+[2017/10/16 12:00:00]:send:Users/mcu/bin:Last Modified 2017/10/16-11:57:44
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   updates.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
