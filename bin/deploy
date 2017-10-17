@@ -1,6 +1,8 @@
 #!/bin/bash
 
+#ABOUT: 
 # Maven alias deploy script
+#:ABOUT
 
 print_instructions() {
 add-instructions1 "Profile" "[optional] additional options - Ex: deploy local clean install\nusage of the '--full' option at the end will run full selenium tests through an automated Chrome browser"

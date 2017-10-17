@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#ABOUT:
+# This is a custom tomcat shortcut service for 
+# starting, stopping, viewing the log, and status check.
+#:ABOUT
+
 tcatpath=/Users/mcu/tomcat7
 
 for i; do

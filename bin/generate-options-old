@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#ABOUT:
+# Generate Options Script
+#:ABOUT
+
+python generate-options.py "${@}"

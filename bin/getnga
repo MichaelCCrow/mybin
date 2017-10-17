@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#ABOUT:
+# This script piggybacks off of the nga script and opens the record found with the given record id.
+#:ABOUT
+
 if [[ $# < 1 ]]; then
     add-instructions 'The first argument should be the last 3 numbers following "NGA"'
 else

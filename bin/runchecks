@@ -1,5 +1,12 @@
 #!/bin/bash
 
+#ABOUT:
+# This is a full service check system that prints out the newest
+# metadata records found in the /metadata/ngee folder and database,
+# as well as prints the authors and record_id.
+# Options allow for further functionality.
+#:ABOUT
+
 narg=60
 n=60
 show=3
@@ -20,11 +27,16 @@ basebin="/Users/mcu/bin"
 #################################################################
 
 find_most_recent() {
-    tags=$(find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | tail -$show)
+    #tags=$(find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | tail -$show)
+    tags=$(find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | head -$show)
     for tag in $tags; do
-        nga $tag | tail -1
-        t=$(nga $tag | tail -1)
+        #nga $tag | tail -1
+        nga $tag | head -1
+        #t=$(nga $tag | tail -1)
+        t=$(nga $tag | head -1)
+        if [ -f "$t" ]; then
         python3 $basebin/runchecks-checknga.py $t
+        fi
     done
     show=$(find $mdbase -type f -cmin -$n | tail -$show | wc -l)
 #    for i in `find $mdbase/* -type d`; do  
@@ -55,7 +67,7 @@ targ=false
 
 # you should not use `getopt abo: "$@"` since that would parse
 # the arguments differently from what the set command below does.
-args=`getopt abon:s:wtf: $*`
+args=`getopt abon:s:wtd $*`
 
 if [ $? != 0 ]; then
     echo 'Usage: ...'
@@ -95,7 +107,8 @@ do
         echo running full tests; targ=true; shift;
         shift;;
     -d) 
-        echo running full tests; targ=true; linktotest="$2"; shift;
+        echo running full tests; targ=true; linktotest="http://esddrupal-dev:8080/ngeemetadata"; shift;
+        #echo running full tests; targ=true; linktotest="$2"; shift;
         shift;;
     --) 
         shift; break;;
@@ -106,7 +119,10 @@ done
 #echo oarg is "'"$oarg"'"
 #echo narg is "'"$narg"'"
 
-echo "linktotest $linktotest"
+if [ "$linktotest" != "" ]; then
+    echo "linktotest $linktotest"
+fi
+
 if $targ; then
     python /Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata/src/test/python/metadata_checker.py "$linktotest"
     #python /Users/mcu/PycharmProjects/MetadataChecker/metadata_checker.py

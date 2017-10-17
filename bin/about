@@ -1,0 +1,28 @@
+#!/usr/bin/python
+
+#ABOUT:
+# Use this script to print the 'ABOUT' information of a custom script
+# that contains the 'ABOUT:' "delimeter", if you will, at the top of the script,
+# such as this one.
+#:ABOUT
+
+import sys
+
+if len(sys.argv) == 2:
+    file = sys.argv[1]
+else:
+    sys.stderr.write("[ERROR] one and only argument is to be supplied\n")
+    file = sys.argv[0]
+
+beg = "#ABOUT:"
+end = "#:ABOUT"
+
+with open(file) as f:
+    stuff = f.read()
+
+a = stuff.index(beg) - 1
+b = stuff.index(end) + 3
+
+stuff = stuff.replace("#", "")
+
+print(stuff[a:b])
