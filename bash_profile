@@ -19,6 +19,7 @@ fi
 
 #mysql
 alias mysql=/usr/local/mysql/bin/mysql
+alias sql="mysql -u ngeeadmin -pngee4db!"
 
 #bash_profile
 alias bashpr="vi ~/.bash_profile"
