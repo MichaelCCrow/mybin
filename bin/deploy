@@ -10,8 +10,14 @@ add-instructions1 "Profile" "[optional] additional options - Ex: deploy local cl
 
 full=false
 if [ -f 'pom.xml' ]; then
+ if [ $# = 0 ]; then
+    print_instructions
+    echo -e "No options provided.\nRunning: mvn -P local tomcat7:redeploy"
+    mvn -P local tomcat7:redeploy
+ else
     echo -e "\nmvn -P $1 ${@:2} tomcat7:redeploy"
-    if [ $# = 0 ]; then echo "must provide a profile"; print_instructions
+    #if [ $# = 0 ]; then echo "must provide a profile"; print_instructions
+    if [ "$1" == "-h" ]; then echo "must provide a profile"; print_instructions
     else
         if [ $# -gt 1 ]; then
             echo -e "...additional options: ${@:2}\n"
@@ -19,12 +25,13 @@ if [ -f 'pom.xml' ]; then
         fi
 
         for i; do case $i in --full) full=true; esac; done;
-
+        
         goals=$(echo ${@:2} | sed 's/--full//');
         echo -e "\nmvn -P $1 $goals tomcat7:redeploy"
         mvn -P $1 $goals tomcat7:redeploy
 
         if $full; then runchecks -t; fi
     fi
+ fi
 else echo "not a maven project"
 fi

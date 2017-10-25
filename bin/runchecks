@@ -30,8 +30,8 @@ find_most_recent() {
     #tags=$(find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | tail -$show)
     tags=$(find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | head -$show)
     for tag in $tags; do
-        #nga $tag | tail -1
-        nga $tag | head -1
+        nga $tag | tail -1
+        #nga $tag | head -1
         #t=$(nga $tag | tail -1)
         t=$(nga $tag | head -1)
         if [ -f "$t" ]; then
@@ -67,18 +67,24 @@ targ=false
 
 # you should not use `getopt abo: "$@"` since that would parse
 # the arguments differently from what the set command below does.
-args=`getopt abon:s:wtd $*`
+args=`getopt abon:s:wtdh $*`
 
-if [ $? != 0 ]; then
+printusage() {
     echo 'Usage: ...'
+    echo "[-h] - show this usage help"
     echo "[-n <number>] - for setting the minimum time to check for files in minutes"
     echo "[-s <number>] - max number of entries to show (default: 5)"
     echo "[-t] - run full test (runs the python script metadata_checker.py) - if url provided, that will be the link used"
     echo "[-d <url>] - same as [-t] but requires a url to use"
     echo "[-w] - make it wait 5 seconds after completing"
+}
+    
+if [ $? != 0 ]; then
+    printusage
     exit 2
 fi
 set -- $args
+
 
 # You cannot use the set command with a backquoted getopt directly,
 # since the exit code from getopt would be shadowed by those of set,
@@ -107,8 +113,11 @@ do
         echo running full tests; targ=true; shift;
         shift;;
     -d) 
-        echo running full tests; targ=true; linktotest="http://esddrupal-dev:8080/ngeemetadata"; shift;
+        echo running full tests on esddrupal-dev; targ=true; linktotest="http://esddrupal-dev:8080/ngeemetadata"; shift;
         #echo running full tests; targ=true; linktotest="$2"; shift;
+        shift;;
+    -h)
+        printusage; shift;
         shift;;
     --) 
         shift; break;;
@@ -124,7 +133,8 @@ if [ "$linktotest" != "" ]; then
 fi
 
 if $targ; then
-    python /Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata/src/test/python/metadata_checker.py "$linktotest"
+    python src/test/python/metadata_checker.py "$linktotest"
+    #python /Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata/src/test/python/metadata_checker.py "$linktotest"
     #python /Users/mcu/PycharmProjects/MetadataChecker/metadata_checker.py
 fi
 check $narg
