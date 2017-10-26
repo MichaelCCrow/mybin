@@ -17,7 +17,12 @@ else
     fi
     if [[ $# = 2 ]]; then
         if [[ $2 = "new" ]]; then
-            newest=$(ls -t `find /metadata/ngee -type f | grep NGA$1` | head -1)
+           
+            if [[ $1 = *"NGA"* ]]; then
+                newest=$(ls -t `find /metadata/ngee -type f | grep $1` | head -1)
+            else newest=$(ls -t `find /metadata/ngee -type f | grep NGA$1` | head -1)
+            fi
+            
             if [ -f $newest ]; then echo $newest; fi
             #ls -t `find /metadata/ngee -type d` | grep NGA$1 | head -1
         fi

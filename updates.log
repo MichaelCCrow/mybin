@@ -538,3 +538,20 @@ Changes not staged for commit:
 	modified:   updates.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 9c1d9cd] 2017-10-25@12:00 commit of my custom scripts
+ 3 files changed, 42 insertions(+), 8 deletions(-)
+Branch master set up to track remote branch master from origin.
+[2017/10/26 12:00:00]:send:Users/mcu/bin:Last Modified 2017/10/25-15:10:29
+[2017/10/26 12:00:00]:send:Users/mcu/bin/nga:Last Modified 2017/10/25-14:08:48
+[2017/10/26 12:00:00]:send:Users/mcu/bin/runchecks:Last Modified 2017/10/25-15:10:29
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bin/nga
+	modified:   bin/runchecks
+	modified:   updates.log
+
+no changes added to commit (use "git add" and/or "git commit -a")

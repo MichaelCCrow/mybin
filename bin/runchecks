@@ -9,7 +9,8 @@
 
 narg=60
 n=60
-show=3
+#show=1
+show=5
 
 wht='\e[37m'
 red='\e[31m'
@@ -27,13 +28,20 @@ basebin="/Users/mcu/bin"
 #################################################################
 
 find_most_recent() {
-    #tags=$(find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | tail -$show)
-    tags=$(find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | head -$show)
+    tags=$(find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | tail -$show)
+    #find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | tail -$show
+    #tags=$(find $mdbase -type f -cmin -$n | cut -d / -f 4- | cut -d . -f 2 | sort -n | head -$show)
+    tt=""
     for tag in $tags; do
-        nga $tag | tail -1
+        if [ "$tt" = "$tag" ]; then continue; 
+        else tt=$tag; fi
+        echo $tag
+        nga $tag new
+        #nga $tag | tail -1
         #nga $tag | head -1
+        t=$(nga $tag new)
         #t=$(nga $tag | tail -1)
-        t=$(nga $tag | head -1)
+        #t=$(nga $tag | head -1)
         if [ -f "$t" ]; then
         python3 $basebin/runchecks-checknga.py $t
         fi
