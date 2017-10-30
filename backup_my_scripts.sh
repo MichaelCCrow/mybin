@@ -15,6 +15,7 @@ dobak() {
 dobak $home/bin
 dobak $home/Development/scripts
 dobak $home/.bash_profile "bash_profile"
+dobak $home/.bash_aliases "bash_aliases"
 dobak $home/.vimrc "vimrc"
 if [[ $# > 0 ]]; then for i in ${@}; do dobak $i; done; fi
 
