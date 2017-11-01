@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#how to run:
+#ABOUT:how to run:
 #bash ./find-replace.sh DIR FROM TO
 
 if [ $# -ne 3 ]

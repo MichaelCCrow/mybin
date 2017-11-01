@@ -20,8 +20,16 @@ end = "#:ABOUT"
 with open(file) as f:
     stuff = f.read()
 
-a = stuff.index(beg) - 1
-b = stuff.index(end) + 3
+a = None
+b = None
+try:
+    a = stuff.index(beg) - 1
+    b = stuff.index(end) + 3
+except ValueError: 
+    sys.stderr.write("ABOUT string not found in the specified file.\n")
+    if a: print "opening ABOUT string found"
+    if a and not b: print "ending ABOUT not found"
+    sys.exit(1)
 
 stuff = stuff.replace("#", "")
 

@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#ABOUT:
+# Simple script to log into esddrupal-dev.
+# No arg sshs as mcu; one arg sshs as that user string.
+#:ABOUT
+
 if [ $# -gt 0 ]; then
  if [ $# = 1 ]; then
   if [[ $1 = 'mcu' || $1 = 'mcutomcat' ]]; then

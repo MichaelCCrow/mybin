@@ -1,6 +1,9 @@
 #!/bin/bash
 
+#ABOUT:
 # Simple script to make connecting to esddrupal faster.
+# No args sshs as mcutomcat; one arg sshs as that user string.
+#:ABOUT
 
 if [[ $# == 1 ]]; then
     echo -e "\nlogging in as $@"
