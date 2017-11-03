@@ -67,7 +67,8 @@ alias dev="cd $dev"
 export myscripts="/Users/mcu/Development/scripts"
 alias myscripts="cd $myscripts"
 
-export ngm="/Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata"
+#export ngm="/Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata"
+export ngm="/Users/mcu/Development/projects/ngeemetadata"
 alias ngm="cd $ngm"
 
 export tngm="/Users/mcu/tomcat7/webapps/ngeemetadata"

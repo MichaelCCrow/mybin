@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#if [ $# != 1 ]; then
+#echo "must provide the NGA record id to run this"
+#exit(1)
+#fi
+
+python src/test/python/submit.py $1 $2
