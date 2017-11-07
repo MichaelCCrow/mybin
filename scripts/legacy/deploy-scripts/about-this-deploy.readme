@@ -1,0 +1,1 @@
+This deploy script is from ngeemetadata last updated October 10, 2016; this is the script that uses git-diff to automate determining what was changed since the last commit to deploy
