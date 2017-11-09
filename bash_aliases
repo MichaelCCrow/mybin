@@ -26,16 +26,18 @@ alias see-tomcat="tail -f /Users/mcu/tomcat7/logs/catalina.out"
 alias tomcat-logs="tail -f /Users/mcu/tomcat7/logs/catalina.out"
 
 #not sure if this actually works 
-totomcat() { 
-    ngpath=/Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata
-    tcpath=/Users/mcu/tomcat7/webapps/ngeemetadata
-    cd $ngpath
-    if [ -f $ngpath/$1 && -f $tcpath/$1 ]; then 
-        cp $1 $tcpath/$1; #cp src/main/webapp/$1 /Users/mcu/tomcat7/webapps/ngeemetadata/$1; else 
-    else echo "failed to move $1"; 
-    fi
-}
+#totomcat() { 
+#    ngpath=/Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata
+#    tcpath=/Users/mcu/tomcat7/webapps/ngeemetadata
+#    cd $ngpath
+#    if [ -f $ngpath/$1 && -f $tcpath/$1 ]; then 
+#        cp $1 $tcpath/$1; #cp src/main/webapp/$1 /Users/mcu/tomcat7/webapps/ngeemetadata/$1; else 
+#    else echo "failed to move $1"; 
+#    fi
+#}
 
+#Virtual Box
+alias vm-connect="ssh -p 2222 mcu@localhost"
 alias linux-tomcat-start="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/start'"
 alias linux-tomcat-stop="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/stop'"
 
@@ -69,6 +71,8 @@ alias mybin="cd $mybin"
 
 export dev="/Users/mcu/Development"
 alias dev="cd $dev"
+export devp="/Users/mcu/Development/projects"
+alias devp="cd $devp"
 
 export myscripts="/Users/mcu/Development/scripts"
 alias myscripts="cd $myscripts"
@@ -87,7 +91,6 @@ export workspace="/Users/mcu/Workspaces/MyEclipseMCC"
 export ws=$workspace
 alias ws="cd $workspace"
 
-alias vm-connect="ssh -p 2222 mcu@localhost"
 
 export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
 
