@@ -766,3 +766,37 @@ Untracked files:
 	scripts/testop.sh
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master a2bacd6] 2017-11-09@02:00 commit of my custom scripts
+ 5 files changed, 102 insertions(+), 11 deletions(-)
+ create mode 100755 bin/vb
+ create mode 100644 scripts/record_id_checker.py
+ create mode 100644 scripts/testop.sh
+Branch master set up to track remote branch master from origin.
+[2017/11/10 02:00:00]:send:Users/mcu/bin:Last Modified 2017/11/09-14:35:47
+[2017/11/10 02:00:00]:send:Users/mcu/bin/addtoome:Last Modified 2017/11/09-14:35:47
+[2017/11/10 02:00:00]:send:Users/mcu/bin/addtoome.py:Last Modified 2017/11/09-14:23:22
+[2017/11/10 02:00:00]:send:Users/mcu/bin/md:Last Modified 2017/11/09-12:44:02
+[2017/11/10 02:00:00]:send:Users/mcu/bin/omesubmit:Last Modified 2017/11/09-12:57:24
+[2017/11/10 02:00:00]:send:Users/mcu/Development/scripts:Last Modified 2017/11/09-14:18:04
+[2017/11/10 02:00:00]:send:Users/mcu/Development/scripts/.DS_Store:Last Modified 2017/11/09-14:18:55
+[2017/11/10 02:00:00]:send:Users/mcu/Development/scripts/addtoome.bak:Last Modified 2017/11/09-14:08:34
+[2017/11/10 02:00:00]:send:Users/mcu/.bash_aliases:Last Modified 2017/11/09-12:51:58
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_aliases
+	modified:   updates.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	bin/addtoome
+	bin/addtoome.py
+	bin/md
+	bin/omesubmit
+	scripts/addtoome.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")

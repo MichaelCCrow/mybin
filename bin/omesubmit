@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python ~/Development/projects/ngeemetadata/src/test/python/submit.py $1 $2

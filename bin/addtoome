@@ -1,0 +1,4 @@
+#!/bin/bash
+
+if [[ $# != 3 ]]; then echo -e "1) file to add\n2) status\n3) creator"; exit; fi
+python /Users/mcu/bin/addtoome.py $1 $2 $3

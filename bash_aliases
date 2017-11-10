@@ -8,7 +8,8 @@ alias two="testngm openstats"
 alias testit="deployq; qq"
 alias deployandtest="deploy local clean --full"
 
-
+sublime() { open -a Sublime\ Text $1; }
+pycharm() { open -a PyCharm\ CE $1; }
 
 #deploy-check() {
 #select op in "openstats" "savedraft"; do
@@ -90,6 +91,8 @@ alias tc="cd $tc"
 export workspace="/Users/mcu/Workspaces/MyEclipseMCC"
 export ws=$workspace
 alias ws="cd $workspace"
+
+export md="/metadata/ngee"
 
 
 export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+if [[ $# != 1 ]]; then echo "must enter 1, 2, 3, or 4"; exit; fi
+
+a=/metadata/ngee
+for i; do
+    case $i
+        in
+        1) a="$a/users/testmcu"; break;;
+        2) a="$a/submitted"; break;;
+        3) a="$a/accepted"; break;;
+        4) a="$a/approved"; break;;
+    esac
+done
+
+ls -ltr $a
