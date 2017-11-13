@@ -39,9 +39,10 @@ alias py3="/usr/local/bin/python3.5"
 # The original version is saved in .bash_profile.pysave
 #PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
 pypath="/Library/Frameworks/Python.framework/Versions/3.5/bin"
+pypath2="/Users/mcu/Library/Python/2.7/bin"
 mypath="/Users/mcu/bin"
 brewpath="/usr/local/sbin"
-export PATH="$PATH:$pypath:$mypath:$brewpath"
+export PATH="$PATH:$pypath:$mypath:$brewpath:$pypath2"
 
 
 
@@ -116,12 +117,14 @@ dirchange () {
         ls
         echo "----------------------------------------------------------------------------------"
     fi
-    print_before_the_prompt
+    #print_before_the_prompt
 }
      
 PROMPT_COMMAND=dirchange
 #PS1='\]->\]\]\]\]'
-PS1='-> '
+#PS1='-> '
 #PS1='$: '
+
+source /Users/mcu/Library/Python/2.7/lib/python/site-packages/powerline/bindings/bash/powerline.sh
 
 test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shell_integration.bash"

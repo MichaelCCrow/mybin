@@ -800,3 +800,24 @@ Untracked files:
 	scripts/addtoome.bak
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master e4e6b1d] 2017-11-10@02:00 commit of my custom scripts
+ 7 files changed, 386 insertions(+), 1 deletion(-)
+ create mode 100755 bin/addtoome
+ create mode 100755 bin/addtoome.py
+ create mode 100755 bin/md
+ create mode 100755 bin/omesubmit
+ create mode 100644 scripts/addtoome.bak
+Branch master set up to track remote branch master from origin.
+[2017/11/13 02:00:00]:send:Users/mcu/.bash_profile:Last Modified 2017/11/10-13:40:47
+[2017/11/13 02:00:00]:send:Users/mcu/.vimrc:Last Modified 2017/11/10-13:49:02
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_profile
+	modified:   updates.log
+	modified:   vimrc
+
+no changes added to commit (use "git add" and/or "git commit -a")
