@@ -31,6 +31,6 @@ except ValueError:
     if a and not b: print "ending ABOUT not found"
     sys.exit(1)
 
-stuff = stuff.replace("#", "")
+stuff = stuff.replace("# ", "")
 
 print(stuff[a:b])

@@ -1,5 +1,7 @@
 #screen
 alias aa="screen -R"
+alias aals="screen -ls"
+alias scrls="screen -ls"
 
 #maven (custom script in bin)
 alias one="deploy local"
@@ -57,6 +59,8 @@ alias merc="ssh mercury"
 export merc3="mercury3-rh"
 alias merc3="ssh mercury3-rh"
 alias merc3m="ssh mcumercury@mercury3-rh"
+export mnspruce="mnspruce-prod"
+alias mnspruce="ssh mnspruce-prod"
 
 alias ui1b="ssh ui1b"
 alias s1b="ssh s1b"

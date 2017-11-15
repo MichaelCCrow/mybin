@@ -116,6 +116,9 @@ dirchange () {
         echo "----------------------------------------------------------------------------------"
         ls
         echo "----------------------------------------------------------------------------------"
+        if [[ "$PWD" == "/metadata/ngee" ]]; then
+            echo -e "\nNOTE:: You can also use the command 'md' to get here\n"
+        fi
     fi
     #print_before_the_prompt
 }
