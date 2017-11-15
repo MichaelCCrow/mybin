@@ -10,8 +10,9 @@ import sys
 
 if len(sys.argv) == 2:
     file = sys.argv[1]
-else:
+elif len(sys.argv) > 2:
     sys.stderr.write("[ERROR] one and only argument is to be supplied\n")
+else:
     file = sys.argv[0]
 
 beg = "#ABOUT:"
@@ -24,13 +25,14 @@ a = None
 b = None
 try:
     a = stuff.index(beg) - 1
-    b = stuff.index(end) + 3
+    b = stuff.index(end) + len(end)
 except ValueError: 
     sys.stderr.write("ABOUT string not found in the specified file.\n")
     if a: print "opening ABOUT string found"
     if a and not b: print "ending ABOUT not found"
     sys.exit(1)
 
-stuff = stuff.replace("# ", "")
+goodstuff = stuff[a:b]
+aboutstuff = goodstuff.replace("#", "").lstrip()
 
-print(stuff[a:b])
+print aboutstuff

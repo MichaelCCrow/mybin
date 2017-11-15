@@ -872,3 +872,15 @@ Changes not staged for commit:
 	modified:   updates.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 8bfc94e] 2017-11-15@12:00 commit of my custom scripts
+ 4 files changed, 27 insertions(+), 1 deletion(-)
+Branch master set up to track remote branch master from origin.
+[2017/11/15 16:27:12]:send:Users/mcu/bin:Last Modified 2017/11/15-16:25:59
+[2017/11/15 16:27:12]:send:Users/mcu/bin/about:Last Modified 2017/11/15-13:12:07
+[2017/11/15 16:27:12]:send:Users/mcu/bin/addtoome:Last Modified 2017/11/15-16:24:05
+[2017/11/15 16:27:12]:send:Users/mcu/bin/old.addtoome:Last Modified 2017/11/09-14:35:47
+[2017/11/15 16:27:12]:send:Users/mcu/bin/serverdiff:Last Modified 2017/11/15-16:11:53
+[2017/11/15 16:27:12]:send:Users/mcu/bin/testpy:Last Modified 2017/11/15-16:07:11
+[2017/11/15 16:27:12]:send:Users/mcu/Development/scripts:Last Modified 2017/11/15-16:10:47
+[2017/11/15 16:27:12]:send:Users/mcu/.bash_profile:Last Modified 2017/11/15-15:49:29
+[2017/11/15 16:27:12]:send:Users/mcu/.bash_aliases:Last Modified 2017/11/15-13:48:43

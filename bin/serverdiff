@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#ABOUT:
+# 1) server \n2) local_file \n3) remote_file
+#:ABOUT
+
+if [[ $# != 3 ]]; then
+    about $0
+    exit
+fi
+
+ssh $1 "diff - $3" < $2
