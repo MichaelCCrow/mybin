@@ -52,7 +52,8 @@ au BufReadPost,BufNewFile *.twig colorscheme koehler
 au BufReadPost,BufNewFile *.css colorscheme slate
 au BufReadPost,BufNewFile *.js colorscheme srcery
 au BufReadPost,BufNewFile *.sh colorscheme srcery
-au BufReadPost,BufNewFile *.py colorscheme molokaiyo
+au BufReadPost,BufNewFile *.py colorscheme srcery
+"au BufReadPost,BufNewFile *.py colorscheme molokaiyo
 au BufReadPost,BufNewFile *.html colorscheme srcery
 au BufReadPost,BufNewFile *.java colorscheme monokai
 au BufReadPost,BufNewFile *.pl colorscheme desert

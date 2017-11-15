@@ -4,11 +4,15 @@
 # This script simplifies the typing for the VBoxManage command and must be given at least one argument.
 #:ABOUT
 
+if [[ $# = 0 ]]; then VBoxManage -h | less
+else
+
 for i; do
     case "$i"
         in
         start) echo "starting"; VBoxManage startvm LinuxUbuntu --type headless; shift;;
         stop) echo "stopping"; VBoxManage controlvm LinuxUbuntu poweroff; shift;;
+        #list) VBoxManage list runningvms; shift;;
         conn) if [ -z "$(VBoxManage list runningvms)" ]; then echo "no vms running"
               else ssh -p 2222 mcu@localhost; fi; shift;;
         connect) if [ -z "$(VBoxManage list runningvms)" ]; then echo "no vms running"
@@ -17,4 +21,4 @@ for i; do
     esac
 done
 
-
+fi
