@@ -31,7 +31,7 @@ set pastetoggle=<F2>
 :imap <c-s> <Esc><c-s>
 
 syntax on
-set background=dark
+"set background=dark
 " set hlsearch
 "set nu
 " set smartindent  "smartindent doesn't take care of python hashtag comments
@@ -50,7 +50,7 @@ colorscheme srcery
 "au BufReadPost,BufNewFile .bash_aliases* call SetFileTypeSH("bash")
 au BufReadPost,BufNewFile *.twig colorscheme koehler 
 au BufReadPost,BufNewFile *.css colorscheme slate
-au BufReadPost,BufNewFile *.js colorscheme srcery
+au BufReadPost,BufNewFile *.js colorscheme srcery 
 au BufReadPost,BufNewFile *.sh colorscheme srcery
 au BufReadPost,BufNewFile *.py colorscheme srcery
 "au BufReadPost,BufNewFile *.py colorscheme molokaiyo
@@ -58,6 +58,12 @@ au BufReadPost,BufNewFile *.html colorscheme srcery
 au BufReadPost,BufNewFile *.java colorscheme monokai
 au BufReadPost,BufNewFile *.pl colorscheme desert
 " au BufReadPost,BufNewFile *.php colorscheme monokai
+
+"fixes the highlighting issue with the srcery colorscheme
+au BufReadPost,BufNewFile *.js hi Search cterm=NONE ctermfg=blue ctermbg=white
+au BufReadPost,BufNewFile *.py hi Search cterm=NONE ctermfg=grey ctermbg=blue
+au BufReadPost,BufNewFile *.sh hi Search cterm=NONE ctermfg=grey ctermbg=blue
+au BufReadPost,BufNewFile *.html hi Search cterm=NONE ctermfg=grey ctermbg=blue
 
 " Default line highlighting for unknown filetypes
 "hi String ctermfg=140

@@ -1,4 +1,4 @@
-export CLICOLOR=1
+#export CLICOLOR=1
 #export LSCOLORS=GxFxCxDxbxegedabagacad
 TERM=xterm-256color
 
@@ -16,6 +16,8 @@ fi
 #########################
 #### system aliases #####
 #########################
+
+alias today='export today="$(date)"; echo $today'
 
 #mysql
 alias mysql=/usr/local/mysql/bin/mysql
