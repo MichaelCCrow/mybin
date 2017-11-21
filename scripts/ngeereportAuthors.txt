@@ -1,0 +1,95 @@
+Mallory Ladd (laddmp@ornl.gov) Joanne Childs (childsj@ornl.gov) Stan Wullschleger (wullschlegsd@ornl.gov) Colleen Iversen (iversencm@ornl.gov) Ariane Jong (jong102@mail.chapman.edu) Victoria Sloan (victoria.l.sloan@gmail.com) Richard Norby (norbyrj@ornl.gov) Jason Keller (jkeller@chapman.edu) Holly Vander Stel (vanderstelhm@ornl.gov) Deanne Brice (bricedj@ornl.gov)
+John Peterson (JEPeterson@lbl.gov)
+Jessica Cherry (jessica.cherry@alaska.edu) Kerri Crowder (kjcrowder@alaska.edu)
+
+Margaret Torn (mstorn@lbl.gov)
+Mark J. Lara (mjlara@alaska.edu) Craig E. Tweedie (ctweedie@utep.edu)
+David Graham (grahamde@ornl.gov) Taniya RoyChowdhury (rctaniya@gmail.com) Jianqiu Zheng (zhengj@ornl.gov)
+Taniya RoyChowdhury (rctaniya@gmail.com) David Graham (grahamde@ornl.gov) Stan Wullschleger (wullschlegsd@ornl.gov) RoyChowdhury, T., Herndon, E., Elias, D.A., Phelps, T.J., Gu, B., Liang, L., Wullschleger, S.D., Graham, D.E.
+Lydia Vaughn (lydiajsmith@lbl.gov) Torn, Margaret S., et al.
+Tim Kneafsey (tjkneafsey@lbl.gov)
+Scott Painter (paintersl@ornl.gov) Anna Liljedahl (akliljedahl@alaska.edu) Dylan Harp (dharp@lanl.gov) Ethan Coon (ecoon@lanl.gov) Adam Atchley (aatchley@lanl.gov) Vladimir Romanovsky (veromanovsky@alaska.edu) Cathy Wilson (cjw@lanl.gov)
+Colleen Iversen (iversencm@ornl.gov)
+Craig Ulrich (culrich@lbl.gov) Baptiste Dafflon (bdafflon@lbl.gov) Susan Hubbard (sshubbard@lbl.gov) Anh Phuong Tran (aptran@lbl.gov) Vladimir Romanovsky (veromanovsky@alaska.edu) Rusen Oktem (roktem@lbl.gov) John Peterson (jepeterson@lbl.gov)
+Cathy Wilson (cjw@lanl.gov)
+Heather Throckmorton (hthrockmorton@lanl.gov) Brent Newman (bnewman@lanl.gov)
+Larry Hinzman (lhinzman@alaska.edu) Bob Busey (rcbusey@alaska.edu) William Cable (wlcable@alaska.edu) Vladimir Romanovsky (veromanovsky@alaska.edu) Wendy Ryan
+Alexander Kholodov (alkholodov@alaska.edu)
+Lydia Vaughn
+Tim Kneafsey (tjkneafsey@lbl.gov) Craig Ulrich (CUlrich@lbl.gov) Baptiste Dafflon (BDafflon@lbl.gov) Yuxin Wu (YWu3@lbl.gov)
+Cathy Wilson (cjw@lanl.gov) Garrett Altmann (gla@lanl.gov)
+Cathy Wilson (cjw@lanl.gov) Joel Rowland (jrowland@lanl.gov) Chandana Gangodagamage (chhandana@gmail.com)
+Naama Raz-Yaseef (nryaseef@lbl.gov) Dave Billesbach (dbillesbach1@unl.edu) Margaret Torn (mstorn@lbl.gov) Billesbach, DP The EC tower measures fluxes originating from the area surrounding it. The prevailing wind direction at the BEO (55% of the time) come from the NE-SE sector. Data are presented in half-hourly averages. For each measured variable, a unique column of data is prepared, with values representing each half-hour. Measurements have gone through a QA/QC process to remove bad data. The data set is not gap-filled. Therefore missing data can be associated either with technical issues or weather conditions in which flux theory does not apply, or other problems.&#xD;
+Yuxin Wu (ywu3@lbl.gov) Timothy Kneafsey (tjkneafsey@lbl.gov) Seiji Nakagawa (snakagawa@lbl.gov) The datasets are reported with less density than original measured, i.e. figure plot generated with data from once every a few measurements following a time sequence.
+Sigrid Dengel (sdengel@lbl.gov) Dave Billesbach (dbillesbach1@unl.edu) Margaret Torn (mstorn@lbl.gov)
+Sigrid Dengel (sdengel@lbl.gov) Dave Billesbach (dbillesbach1@unl.edu) Margaret Torn (mstorn@lbl.gov)
+Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Kim Ely (kely@bnl.gov)
+Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Ran Meng (ranmeng@bnl.gov) Andrew McMahon (amcmahon@bnl.gov) Kim Ely (kely@bnl.gov)
+Heather Throckmorton (hthrockmorton@lanl.gov)
+Jitendra Kumar (jkumar@climatemodeling.org)
+John Peterson (JEPeterson@lbl.gov)
+Anna Liljedahl (akliljedahl@alaska.edu) Cathy Wilson (cjw@lanl.gov)
+Katie McKnight (kmcknight@berkeley.edu) Craig Ulrich (culrich@lbl.gov) Jil Geller (jtgeller@lbl.gov) Tim Kneafsey (tjkneafsey@lbl.gov) CT scans of DTLB38_2 and AB117_3 indicate they are both ataxitic with chunks of mineral and ice distributed throughout the core, compared to the other samples that are generally mineral, with ice intrusions. These samples are also among the deepest samples. AB117_3 may have had other disturbances when a second membrane had to be installed over the sample after a hole in the original membrane was discovered. Creases and/or significant shrinkage occurred in DTLB19_1, DTLB40_2, DTLB38_2, AB117_3 during tests. Such occurrences could lead to error in hydraulic conductivity measurements. Das, Braja M.
+Alistair Rogers (arogers@bnl.gov) Stefanie Lasota
+Adam Atchley (aatchley@lanl.gov)
+Cathy Wilson (cjw@lanl.gov) Heather Throckmorton (heather.throckmorton@gmail.com) Jeff Heikoop (jheikoop@lanl.gov) Brent Newman (bnewman@lanl.gov) M.L. Cabrera and M.H. Beare
+Stan Wullschleger (wullschlegsd@ornl.gov)
+Richard Norby (norbyrj@ornl.gov) Victoria Sloan (sloanvl@ornl.gov)
+Richard Norby (norbyrj@ornl.gov) Colleen Iversen (iversencm@ornl.gov) Joanne Childs (childsj@ornl.gov) Victoria Sloan (cevls@bristol.ac.uk) Sloan, V.L., A.D. McGuire, E.S. Euskirchen, I.J. Slette, K.R. Carter, S.J. Wood, J. Childs, C.M. Iversen, R.J. Norby
+Wil Lieberman-Cribbin Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Stefanie Lasota Kim Ely (kely@bnl.gov)
+Wil Lieberman-Cribbin Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Stefanie Lasota Kim Ely (kely@bnl.gov)
+Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Ran Meng (ranmeng@bnl.gov) Andrew McMahon (amcmahon@bnl.gov) Kim Ely (kely@bnl.gov)
+Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Kim Ely (kely@bnl.gov)
+Shawn Serbin (sserbin@bnl.gov) Shawn Serbin Shawn Serbin
+Shawn Serbin (sserbin@bnl.gov)
+Baptiste Dafflon (bdafflon@lbl.gov)
+Jitendra Kumar (jkumar@climatemodeling.org) Nathan Collier (collierno@ornl.gov)
+Xiaofeng Xu (xux4@ornl.gov) Fengming Yuan (yuanf@ornl.gov) Gap-filled half-hourly meteorological driving data for CLM from 1985 - 2013. The original datasets are from the Barrow, AK station of NOAA/Earth System Laboratory, Global Monitoring Division (http
+Jessica Cherry (jessica.cherry@alaska.edu) Lisa Wirth (lisa@gina.alaska.edu)
+Shawn Serbin (sserbin@bnl.gov)
+Nathan Wales (nwales@lanl.gov) Elizabeth Miller (millerl@lanl.gov) Cathy Wilson (cjw@lanl.gov)
+Shawn Serbin (sserbin@bnl.gov)
+Shawn Serbin (sserbin@bnl.gov)
+Shawn Serbin (sserbin@bnl.gov)
+Verity Salmon (salmonvg@ornl.gov) Stan Wullschleger (wullschlegsd@ornl.gov) Mark Lara (mjlara@illinois.edu) Colleen Iversen (iversencm@ornl.gov) Peter Thornton (thorntonpe@ornl.gov)
+Amy Breen (albreen@alaska.edu) Stan Wullschleger (wullschlegsd@ornl.gov) Colleen Iversen (iversencm@ornl.gov) Holly Vander Stel (vanderstelhm@ornl.gov)
+Holly Vander Stel (vanderstelhm@ornl.gov) Amy Breen (albreen@alaska.edu) Stan Wullschleger (wullschlegsd@ornl.gov) Colleen Iversen (iversencm@ornl.gov) Verity Salmon (salmonvg@ornl.gov)
+Verity Salmon (salmonvg@ornl.gov) Holly Vander Stel (vanderstelhm@ornl.gov) Colleen Iversen (iversencm@ornl.gov) Amy Breen (albreen@alaska.edu) Stan Wullschleger (wullschlegsd@ornl.gov)
+Shawn Serbin (sserbin@bnl.gov)
+Margaret Torn (mstorn@lbl.gov) Baptiste Dafflon (bdafflon@lbl.gov)
+Bob Busey (rcbusey@alaska.edu)
+Bob Busey (rcbusey@alaska.edu) 
+Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Kim Ely (kely@bnl.gov) Keith Lewin (lewin@bnl.gov) Andrew McMahon (amcmahon@bnl.gov)
+Garrett Altmann (gla@lanl.gov)
+Lauren Charsley-Groffman (lcg@lanl.gov) Terri Killeffer (killefferts@ornl.gov)
+Jeff Heikoop (jheikoop@lanl.gov) Heather Throckmorton (hthrockmorton@lanl.gov)
+Baohua Gu (gub1@ornl.gov) Ziming Yang (yangz1@ornl.gov)
+Jennifer Liebig Melanie Hahn (mshahn@lbl.gov) Julia Siegrist Richard Norby (norbyrj@ornl.gov) Colleen Iversen (iversencm@ornl.gov) Victoria Sloan (sloanvl@ornl.gov) J. Bryan Curtis (jbcurtis@lbl.gov)
+Colleen Iversen (iversencm@ornl.gov)
+Victoria Sloan (sloanvl@ornl.gov) Richard Norby (norbyrj@ornl.gov) Julia Siegrist Colleen Iversen (iversencm@ornl.gov) Jonathan Brooks Jennifer Liebig Sarah Wood (woodsj@ornl.gov)
+Rachel Porras (rcporras@lbl.gov) Margaret Torn (mstorn@lbl.gov) Lydia Vaughn (lydiajsmith@lbl.gov) Oriana Chafe (oechafe@lbl.gov) Bryan Curtis (John.Curtis@colorado.edu)
+Zachary Langford (langfordzl@ornl.gov)
+author 1 author 2 author 3 author 4 author 5
+Anna Liljedahl (akliljedahl@alaska.edu)
+Lydia Vaughn
+Baohua Gu (gub1@ornl.gov) Ziming Yang (zimingyang@oakland.edu) Elizabeth Herndon (eherndo1@kent.edu)
+Alexander Kholodov (alkholodov@alaska.edu) David Graham (grahamde@ornl.gov) Ji-Won Moon (moonj@ornl.gov)
+Alexander Kholodov (alkholodov@alaska.edu) Bob Busey (rcbusey@alaska.edu) Cathy Wilson (cjw@lanl.gov) David Graham (grahamde@ornl.gov) Vladimir Romanovsky (veromanovsky@alaska.edu)
+Taniya RoyChowdhury (rctaniya@gmail.com) David Graham (grahamde@ornl.gov) Kieft, T.L., Phelps, T.J., Fredrickson, J.K.,
+David Graham (grahamde@ornl.gov) Ji-Won Moon (moonj@ornl.gov) Five different models were applied; Brooks-Corey (Brooks and Corey, 1964), Fredlund-Xing (Fredlund and Xing, 1994), Kosugi (Kosugi, 1996), van Genuchten (m=1-1/n, Mualem model), and van Genuchten (mnvar) (Van Genuchten, 1980) under 4 conditions including original, Peters-Durner-Iden (PDI) variant implying the water content matches zero at oven dry, bimodal, and bimodal+PDI. Each fitting were checked by the statistical analysis by root-mean-square error (RMSE) values of both water content data and log of conductivities and corrected Akaike Information Criterion. Processing using HYPROP FIT software (UMS GmbH) (https
+Melanie Hahn (mshahn@lbl.gov) Colleen Iversen (iversencm@ornl.gov) Sarah Wood (woodsj@ornl.gov) Jonathan Brooks Jennifer Liebig Richard Norby (norbyrj@ornl.gov) Alistair Rogers (arogers@bnl.gov) J. Bryan Curtis (jbcurtis@lbl.gov) Victoria Sloan (sloanvl@ornl.gov)
+Vladimir Romanovsky (veromanovsky@alaska.edu) William Cable (wlcable@alaska.edu)
+Larry Hinzman (lhinzman@alaska.edu) Bob Busey (rcbusey@alaska.edu) William Cable (wlcable@alaska.edu) Vladimir Romanovsky (veromanovsky@alaska.edu)
+Elizabeth Herndon (eherndo1@kent.edu) Ziming Yang (zimingyang@oakland.edu) Stan Wullschleger (wullschlegsd@ornl.gov) David Graham (grahamde@ornl.gov) Baohua Gu (gub1@ornl.gov) Liyuan Liang (liangl@ornl.gov)
+Larry Hinzman (lhinzman@alaska.edu) Cathy Wilson (cjw@lanl.gov) Go Iwahana (giwahana@alaska.edu)
+Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Ran Meng (ranmeng@bnl.gov) Andrew McMahon (amcmahon@bnl.gov) Kim Ely (kely@bnl.gov)
+Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Ran Meng (ranmeng@bnl.gov) Andrew McMahon (amcmahon@bnl.gov) Kim Ely (kely@bnl.gov)
+Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Keith Lewin (lewin@bnl.gov) Andrew McMahon (amcmahon@bnl.gov) Kim Ely (kely@bnl.gov)
+Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Keith Lewin (lewin@bnl.gov) Andrew McMahon (amcmahon@bnl.gov) Kim Ely (kely@bnl.gov)
+Alistair Rogers (arogers@bnl.gov) Andrew McMahon (amcmahon@bnl.gov) Keith Lewin (lewin@bnl.gov) Kim Ely (kely@bnl.gov) Shawn Serbin (sserbin@bnl.gov)
+Ran Meng (ranmeng@bnl.gov) Andrew McMahon (amcmahon@bnl.gov) Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Kim Ely (kely@bnl.gov)
+Alistair Rogers (arogers@bnl.gov) Shawn Serbin (sserbin@bnl.gov) Andrew McMahon (amcmahon@bnl.gov) Keith Lewin (lewin@bnl.gov) Kim Ely (kely@bnl.gov)
+
+ngeereport.txt
+
+

@@ -924,3 +924,12 @@ Changes not staged for commit:
 	modified:   updates.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master bd8d25d] 2017-11-21@12:00 commit of my custom scripts
+ 1 file changed, 13 insertions(+)
+Branch master set up to track remote branch master from origin.
+[2017/11/21 15:52:25]:send:Users/mcu/Development/scripts:Last Modified 2017/11/21-15:35:32
+[2017/11/21 15:52:25]:send:Users/mcu/Development/scripts/ngee_report.sh:Last Modified 2017/11/21-15:34:28
+[2017/11/21 15:52:25]:send:Users/mcu/Development/scripts/ngeereport.txt:Last Modified 2017/11/21-15:26:21
+[2017/11/21 15:52:25]:send:Users/mcu/Development/scripts/ngeereportAccess.txt:Last Modified 2017/11/21-15:35:23
+[2017/11/21 15:52:25]:send:Users/mcu/Development/scripts/ngeereportAuthors.txt:Last Modified 2017/11/21-15:35:50
+[2017/11/21 15:52:25]:send:Users/mcu/Development/scripts/ngeereportFiles.txt:Last Modified 2017/11/21-15:35:33
