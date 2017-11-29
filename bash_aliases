@@ -1,4 +1,5 @@
 #screen
+alias sc="screen"
 alias aa="screen -R"
 alias aals="screen -ls"
 alias scrls="screen -ls"
