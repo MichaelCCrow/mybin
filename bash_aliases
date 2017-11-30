@@ -49,17 +49,29 @@ alias linux-tomcat-stop="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/stop'
 #lazy-ssh
 export esd="esddrupal-prod"
 export esdd="esddrupal-dev"
+
 alias armp="ssh armdev-python"
 alias armpp="ssh mcuarm@armdev-python"
+
 alias armj="ssh armdev-java"
 alias armjj="ssh mcuarm@armdev-java"
+
 alias armr="ssh mcu@armdev-recep"
 #alias armrr="ssh mcuarm@armdev-recep"
+
 alias adcadmin="ssh adcadmin"
+alias adcadmina="ssh mcuarm@adcadmin"
+alias adc="ssh adcadmin"
+alias adca="ssh mcuarm@adcadmin"
+
 alias merc="ssh mercury"
 export merc3="mercury3-rh"
+export m3="mercury3-rh"
 alias merc3="ssh mercury3-rh"
+alias m3="ssh mercury3-rh"
 alias merc3m="ssh mcumercury@mercury3-rh"
+alias m3m="ssh mcumercury@mercury3-rh"
+
 export mnspruce="mnspruce-prod"
 alias mnspruce="ssh mnspruce-prod"
 
