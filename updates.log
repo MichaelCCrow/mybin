@@ -958,3 +958,24 @@ Changes not staged for commit:
 	modified:   updates.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master fab37d7] 2017-11-30@12:00 commit of my custom scripts
+ 2 files changed, 26 insertions(+)
+Branch master set up to track remote branch master from origin.
+[2017/12/01 12:00:00]:send:Users/mcu/bin:Last Modified 2017/12/01-11:35:50
+[2017/12/01 12:00:00]:send:Users/mcu/bin/tomcat:Last Modified 2017/12/01-11:35:50
+[2017/12/01 12:00:00]:send:Users/mcu/bin/tt:Last Modified 2017/12/01-11:27:37
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bin/tomcat
+	modified:   updates.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	bin/tt
+
+no changes added to commit (use "git add" and/or "git commit -a")

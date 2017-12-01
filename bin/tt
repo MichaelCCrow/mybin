@@ -1,0 +1,13 @@
+#!/bin/bash
+
+for i; do
+dofirst() {
+    echo "this is the first thing"
+}
+
+dosecond() {
+    echo "this is the second thing"
+}
+
+done
+

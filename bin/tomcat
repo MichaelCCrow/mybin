@@ -6,13 +6,16 @@
 #:ABOUT
 
 tcatpath=/Users/mcu/tomcat7
+logpath=$tcatpath/logs/catalina.out
+
+watchlog() { tail -f $logpath; }
 
 for i; do
     case $i
         in
-        start) bash $tcatpath/bin/startup.sh | tail -f $tcatpath/logs/catalina.out; shift;;
-        stop) bash $tcatpath/bin/shutdown.sh | tail -f $tcatpath/logs/catalina.out; shift;;
-        logs) tail -f $tcatpath/logs/catalina.out; shift;;
+        start) bash $tcatpath/bin/startup.sh | watchlog; shift;;
+        stop) bash $tcatpath/bin/shutdown.sh | watchlog; shift;;
+        logs) watchlog; shift;;
         status) ps -ef | grep tomcat; shift;;
         *) echo Invalid command; exit;
     esac
