@@ -993,3 +993,9 @@ Changes not staged for commit:
 	modified:   updates.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 0add3cd] 2017-12-04@12:00 commit of my custom scripts
+ 1 file changed, 14 insertions(+)
+Branch master set up to track remote branch master from origin.
+[2017/12/04 17:18:21]:send:Users/mcu/bin:Last Modified 2017/12/04-17:14:14
+[2017/12/04 17:18:21]:send:Users/mcu/bin/md:Last Modified 2017/12/04-17:13:16
+[2017/12/04 17:18:21]:send:Users/mcu/bin/showparent:Last Modified 2017/12/04-12:17:19

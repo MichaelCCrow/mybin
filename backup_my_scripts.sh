@@ -1,6 +1,6 @@
 #!/bin/bash
 #ABOUT:
-# backup script to copy all of the directories I have created scripts in - including my custom bin
+# backup script to copy all of the directories that contain scripts I have created - including my custom bin
 #:ABOUT
 
 confirmgit=true
