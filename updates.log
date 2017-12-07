@@ -1028,3 +1028,25 @@ Untracked files:
 	bin/factorize
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 28d9ad0] 2017-12-05@18:37 commit of my custom scripts
+ 2 files changed, 87 insertions(+)
+ create mode 100755 bin/factorize
+Branch master set up to track remote branch master from origin.
+[2017/12/07 02:00:01]:send:Users/mcu/bin:Last Modified 2017/12/06-15:49:27
+[2017/12/07 02:00:01]:send:Users/mcu/bin/style-ls:Last Modified 2017/12/06-15:49:17
+[2017/12/07 02:00:01]:send:Users/mcu/.bash_profile:Last Modified 2017/12/06-14:56:11
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   bash_profile
+	modified:   updates.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	bin/style-ls
+
+no changes added to commit (use "git add" and/or "git commit -a")

@@ -1,4 +1,4 @@
-#export CLICOLOR=1
+export CLICOLOR=1
 #export LSCOLORS=GxFxCxDxbxegedabagacad
 TERM=xterm-256color
 

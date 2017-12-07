@@ -1,0 +1,37 @@
+#!/bin/bash
+
+cutit() {
+    echo $1 | cut -d ' ' -f $2
+}
+echo
+print_style () {
+
+    if [ "$2" == "info" ] ; then
+        color="96m";
+    elif [ "$2" == "success" ] ; then
+        color="92m";
+    elif [ "$2" == "warning" ] ; then
+        color="93m";
+    elif [ "$2" == "danger" ] ; then
+        color="91m";
+    else #default color
+        color="0m";
+    fi
+
+    scolor="\e[$color";
+    ecolor="\e[0m";
+    midcolor="\e[91m";
+    mcolor2="\e[93m";
+
+    #txt[0]=`cutit $1 1`
+    #txt[1]=`cutit $1 2`
+    tx[0]=`echo $1 | cut -d ' ' -f 1`
+    tx[1]=`echo $1 | cut -d ' ' -f 2`
+
+    printf "$scolor%b %s$midcolor%s $mcolor2 $ecolor" "$1" "${tx[0]}" "${tx[1]}";
+}
+
+print_style "$1" "$2"
+echo
+
+
