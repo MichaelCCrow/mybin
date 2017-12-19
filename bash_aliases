@@ -85,6 +85,7 @@ alias s4b="ssh s4b"
 alias gitwebrootdiff="git diff --name-only HEAD^ WebRoot/"
 
 #lazy-nav
+alias seebin="ls /Users/mcu/bin"
 export mybin="/Users/mcu/bin"
 alias mybin="cd $mybin"
 
