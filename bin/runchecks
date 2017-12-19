@@ -5,6 +5,7 @@
 # metadata records found in the /metadata/ngee folder and database,
 # as well as prints the authors and record_id.
 # Options allow for further functionality.
+# Use the -h option for a list of commands.
 #:ABOUT
 
 narg=60
@@ -59,7 +60,7 @@ find_most_recent() {
 
 check() {
     # n=$1
-    echo "checking files older than $n mins, ie, $((n / 60)) hours"
+    echo "checking files newer than $n mins, ie, $((n / 60)) hours"
     echo -e "\n-----------------------------------------------------------"
     printf $blu
     find_most_recent $n
