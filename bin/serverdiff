@@ -9,4 +9,4 @@ if [[ $# != 3 ]]; then
     exit
 fi
 
-ssh $1 "diff - $3" < $2
+ssh $1 "diff -r $3" < $2

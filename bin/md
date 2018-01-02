@@ -1,13 +1,13 @@
 #!/bin/bash
 
-if [[ $# != 1 ]]; then 
-    a=/metadata/ngee
+a=/metadata/ngee
+if [[ $# < 1 ]]; then 
     #echo "must enter 0, 1, 2, 3, or 4"; 
+    cd $aa
     echo -e "0) cd $a\n1) ls users/testmcu\n2) ls submitted\n3) ls accepted\n4) ls approved"
-    exit; 
+    exit
 fi
 
-a=/metadata/ngee
 for i; do
     case $i
         in
