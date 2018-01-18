@@ -1112,3 +1112,6 @@ Changes not staged for commit:
 	modified:   updates.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 772b8ee] 2018-01-02@12:00 commit of my custom scripts
+ 3 files changed, 22 insertions(+), 5 deletions(-)
+Branch master set up to track remote branch master from origin.
