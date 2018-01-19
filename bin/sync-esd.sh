@@ -1,11 +1,13 @@
 #!/bin/bash
+#last updated Oct 2017
+#last updated Jan 2018 - to make dated error files
 
 localfolder="/metadata/ngee/prod/"
 prodsrc="esddrupal-prod:/metadata/ngee/"
 devdest="mcutomcat@esddrupal-dev:/metadata/ngee/prod/"
 logdir="/metadata/ngee/logs"
 logfile="$logdir/metadatasync.log"
-errorfile="$logdir/error.log"
+errorfile="$logdir/error.`date '+%y%m%d_%H%M'`.log"
 
 #from prod to local
 rsync -avz $prodsrc $localfolder >> $logfile 2> $errorfile

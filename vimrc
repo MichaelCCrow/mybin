@@ -9,7 +9,7 @@
 " Press F4 to toggle highlighting on/off, and show current value.
 :noremap <F4> :set hlsearch! hlsearch?<CR>
 
-au BufNewFile,BufRead .bash_aliases call SetFileTypeSH("bash")
+"au BufNewFile,BufRead .bash_aliases call SetFileTypeSH("bash")
 
 "filetype plugin indent on
 "syntax on
@@ -41,7 +41,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 "set cursorline
-au BufNewFile,BufRead .bash_aliases call SetFileTypeSH("bash")
+"au BufNewFile,BufRead .bash_aliases call SetFileTypeSH("bash")
 filetype on
 filetype plugin indent on
 
