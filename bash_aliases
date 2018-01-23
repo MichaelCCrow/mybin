@@ -1,3 +1,7 @@
+#sql
+alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
+alias psql-armdev="psql -h armdev-pgdb arm_all data_reception_user"
+
 #screen
 alias sc="screen"
 alias aa="screen -R"

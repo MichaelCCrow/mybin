@@ -12,7 +12,6 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 
-
 #########################
 #### system aliases #####
 #########################
@@ -21,7 +20,6 @@ alias today='export today="$(date)"; echo $today'
 
 #mysql
 alias mysql=/usr/local/mysql/bin/mysql
-alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
 
 #bash_profile
 alias bashpr="vi ~/.bash_profile"
@@ -34,17 +32,18 @@ title() { echo -e '\033k'$1'\033\\'; }
 
 #python
 alias py="/usr/bin/python2.7"
-alias py3="/usr/local/bin/python3.5"
+alias py3="/Library/Frameworks/Python.framework/Versions/3.5/bin"
+#alias py3="/usr/local/bin/python3.5"
 
 
 # Setting PATH for Python 3.5
 # The original version is saved in .bash_profile.pysave
 #PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
-pypath="/Library/Frameworks/Python.framework/Versions/3.5/bin"
 pypath2="/Users/mcu/Library/Python/2.7/bin"
+pypath3="/Library/Frameworks/Python.framework/Versions/3.5/bin"
 mypath="/Users/mcu/bin"
 brewpath="/usr/local/sbin"
-export PATH="$PATH:$pypath:$mypath:$brewpath:$pypath2"
+export PATH="$PATH:$pypath3:$mypath:$brewpath:$pypath2"
 
 
 
