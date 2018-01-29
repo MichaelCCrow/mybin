@@ -32,8 +32,8 @@ title() { echo -e '\033k'$1'\033\\'; }
 
 #python
 alias py="/usr/bin/python2.7"
-alias py3="/Library/Frameworks/Python.framework/Versions/3.5/bin"
-#alias py3="/usr/local/bin/python3.5"
+alias py3="/usr/local/bin/python3"
+#alias py3="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3"
 
 
 # Setting PATH for Python 3.5
