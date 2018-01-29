@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#ABOUT:
+# Simple script for accessing tomcat logs across remote systems.
+# Namely: esddrupal-dev and prod.
+# Current available args:
+# local - esd - esddrupal
+#:ABOUT
+
+ltcat="/Users/mcu/tomcat7/logs/catalina.out"
+esdd="esddrupal-dev"
+esd="esddrupal-prod"
+
+watchlog() {
+    tail -f $1
+}
+
+for i; do
+    case $i
+        in
+        local) watchlog ltcat; shift;;
+        esdd) ssh $esdd "~/bin/tomcat-logs"; shift;;
+        esd) ssh $esd "~/bin/tomcat-logs"; shift;;
+    esac
+done
