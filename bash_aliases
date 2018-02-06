@@ -17,6 +17,7 @@ alias deployandtest="deploy local clean --full"
 
 sublime() { open -a Sublime\ Text $1; }
 pycharm() { open -a PyCharm\ CE $1; }
+eclipse() { open -a MyEclipse\ 2017\ CI $1; }
 
 #deploy-check() {
 #select op in "openstats" "savedraft"; do
