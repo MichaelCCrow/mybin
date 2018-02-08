@@ -1,0 +1,46 @@
+#!/bin/bash
+
+#ABOUT:
+# Tools for browsing arm servers quickly.
+#:ABOUT
+
+usage()
+{
+    echo "Tools for browsing arm servers quickly."
+    echo
+    echo "Usage:"
+    echo "  $0 ls <directory> "
+#    echo "  $0 -u <arch user ID> "
+#    echo "     -t <request type> "
+#    echo "    [-d <datastream name> -s <start date> -e <end date>] "
+#    echo "    [-v] [-n] [<input file>]"
+    echo
+    echo "  Options:"
+#    echo "    v - Keep the version designations on the filename(s)"
+#    echo "    n - no cleanup; Temp dir containing JSON object not removed"
+#    echo "    d - complete data stream name"
+#    echo "    t - Request types: dslist, flist, order"
+#    echo "        (Note: flist requires -d, -s and -e, with YYYY-mm-dd date"
+#    echo "         formats; If -t not specified, \"order\" is default.)"
+    echo
+    echo "  Examples: "
+#    echo "    $0 -u wwallace files-list.txt"
+#    echo "    $0 -u wwallace -v files-list.txt"
+#    echo "    cat files-list.txt | $0 -u wwallace"
+#    echo "    $0 -u wwallace -t dslist"
+#    echo "    $0 -u wwallace -t flist -d enamplpolfsC1.b1 -s 2015-01-01 -e 2016-03-31 -v"
+    echo
+}
+
+if [ $# -eq 0 ]; then
+    usage
+    exit 0
+fi
+
+for i; do
+    case $i in
+        ls) echo "ls called";;
+        *) usage
+           exit 0;;
+    esac
+done
