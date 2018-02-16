@@ -4,9 +4,20 @@
 # 1) server \n2) local_file \n3) remote_file
 #:ABOUT
 
-if [[ $# != 3 ]]; then
+if [[ $# != 3 && $# != 4 ]]; then
     about $0
     exit
 fi
 
-ssh $1 "diff -r $3" < $2
+#ssh $1 "diff -r $3" < $2
+
+now=`date "+%m.%s"`
+name=`basename $3`
+tmploc="/tmp/$name.$now"
+
+scp $1:$3 $tmploc
+if [ $# -eq 4 ]; then
+    vim -d $2 $tmploc
+else diff $2 $tmploc
+fi
+rm $tmploc

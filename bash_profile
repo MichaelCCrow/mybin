@@ -112,6 +112,7 @@ print_before_the_prompt () {
 
 dirchange () {
     if [ "$PWD" != "$OLDPWD" ]; then
+        alias cdb="cd $OLDPWD"
         OLDPWD="$PWD"
         echo -e "\t\t\t $PWD"
         echo "----------------------------------------------------------------------------------"
