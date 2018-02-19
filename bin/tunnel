@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#ABOUT:
+# A simple tunneling alias script for tunnelling for mysql.
+#
+# Usage:
+#   $0 
+#     1) remotehost
+#     2) forwardport
+#
+# Example:
+#   $0 esddrupal.ornl.gov 3307
+#
+#:ABOUT
+
+rhost=$1
+port=$2
+ssh -L $port:localhost:3306 $rhost -f -N
