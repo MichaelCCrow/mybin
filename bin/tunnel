@@ -5,14 +5,41 @@
 #
 # Usage:
 #   $0 
-#     1) remotehost
-#     2) forwardport
+#     -h <remotehost>
+#     -p <forwardport>
+#     [optional]
+#     -c - (After tunnelling, connect to mysql)
 #
 # Example:
 #   $0 esddrupal.ornl.gov 3307
 #
 #:ABOUT
 
-rhost=$1
-port=$2
+if [ $# -eq 0 ]; then
+    about $0
+    exit 0
+fi
+
+con=false
+
+while getopts "h:p:c" o
+do
+    case $o in
+        h) rhost=$OPTARG
+            ;;
+        p) port=$OPTARG
+            ;;
+        c) con=true
+            ;;
+        *) about $0
+            exit 1
+    esac
+done
+
+if [[ ! $rhost || ! $port ]]; then about $0; exit 1; fi
+
 ssh -L $port:localhost:3306 $rhost -f -N
+
+if $con; then
+    $(/usr/local/mysql/bin/mysql -P $port -h 127.0.0.1 -u ngeeadmin -pngee4db!)
+fi

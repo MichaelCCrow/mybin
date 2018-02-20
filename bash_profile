@@ -20,6 +20,7 @@ alias today='export today="$(date)"; echo $today'
 
 #mysql
 alias mysql=/usr/local/mysql/bin/mysql
+alias mysqldump=/usr/local/mysql/bin/mysqldump
 
 #bash_profile
 alias bashpr="vi ~/.bash_profile"
