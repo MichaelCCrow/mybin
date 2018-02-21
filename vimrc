@@ -15,17 +15,19 @@
 "syntax on
 
 
+"This enables Vim to jump to the last position when reopening a file.
+if has("autocmd")
+  au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$")
+    \| exe "normal! g'\"" | endif
+endif
 
-
-
-"The following three lines map Ctrl+s to save in vi.  You can comment 
-""these out, it has nothing to do with syntax highlighting or colors.
 
 " optional lines to turn on pressing F2 to toggle paste mode
 noremap <F2> :set invpaste paste?<CR>i
 set pastetoggle=<F2>
 
-
+"The following three lines map Ctrl+s to save in vi.  You can comment 
+""these out, it has nothing to do with syntax highlighting or colors.
 :nmap <c-s> :w<CR>
 :imap <c-s> <Esc>:w<CR>a
 :imap <c-s> <Esc><c-s>
