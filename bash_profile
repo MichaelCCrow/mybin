@@ -42,9 +42,10 @@ alias py3="/usr/local/bin/python3"
 #PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
 pypath2="/Users/mcu/Library/Python/2.7/bin"
 pypath3="/Library/Frameworks/Python.framework/Versions/3.5/bin"
+pypath36="/usr/local/opt/python3/bin"
 mypath="/Users/mcu/bin"
 brewpath="/usr/local/sbin"
-export PATH="$PATH:$pypath3:$mypath:$brewpath:$pypath2"
+export PATH="$PATH:$pypath3:$mypath:$brewpath:$pypath2:$pypath36"
 
 
 
