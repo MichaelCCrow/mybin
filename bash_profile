@@ -6,6 +6,7 @@ export origIFS=$IFS
 
 HISTSIZE=100000
 HISTFILESIZE=200000
+HISTCONTROL=ignoredups
 
 #get my aliases
 if [ -f ~/.bash_aliases ]; then
@@ -33,7 +34,8 @@ title() { echo -e '\033k'$1'\033\\'; }
 
 #python
 alias py="/usr/bin/python2.7"
-alias py3="/usr/local/bin/python3"
+alias py3="python3.6"
+#alias py3="/usr/local/bin/python3"
 #alias py3="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3"
 
 
@@ -135,3 +137,5 @@ PROMPT_COMMAND=dirchange
 source /Users/mcu/Library/Python/2.7/lib/python/site-packages/powerline/bindings/bash/powerline.sh
 
 test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shell_integration.bash"
+
+echo "bash profile reloaded"
