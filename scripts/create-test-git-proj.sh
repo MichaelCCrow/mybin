@@ -42,9 +42,10 @@ touch G; git add G; git commit -m "G"
 
 git co develop
 touch H; git add H; git commit -m "H"
-
 echo
+
 git lgd
+
 echo
 echo "/*------------------------------------------------*/"
 cat readme
