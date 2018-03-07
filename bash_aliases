@@ -2,6 +2,13 @@
 alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
 alias psql-armdev="psql -h armdev-pgdb arm_all data_reception_user"
 
+pglogfile="/usr/local/psql/logs/pg.log"
+alias pgctl="pg_ctl"
+alias pg="pg_ctl"
+alias pg-start="pg_ctl -D $PGDATA -l $pglogfile start"
+alias pg-stop="pg_ctl -D $PGDATA -l $pglogfile stop"
+alias pg-restart="pg_ctl -D $PGDATA -l $pglogfile restart"
+
 #screen
 alias sc="screen"
 alias aa="screen -R"
@@ -126,11 +133,13 @@ export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
 url() { open -a Google\ Chrome $1; }
 localurl() { open -a Google\ Chrome http://localhost:8080/$1; }
 
-#alias updatepages="cd $ngm/src/main/webapp/WEB-INF/ && rsync -tv pages/* $tngm/WEB-INF/pages/; ngm"
+##alias updatepages="cd $ngm/src/main/webapp/WEB-INF/ && rsync -tv pages/* $tngm/WEB-INF/pages/; ngm"
 alias updatepages="rsync -tv src/main/webapp/WEB-INF/pages/* $tngm/WEB-INF/pages/"
-#alias updatejs="cd $ngm/src/main/webapp/ && rsync -tv js/* $tngm/js/; ngm"
+#webapp_path="$tc/$(basename `pwd`)"
+#alias updatepages="rsync -tv src/main/webapp/WEB-INF/pages/* $tc/$(basename `pwd`)/WEB-INF/pages/"
+##alias updatejs="cd $ngm/src/main/webapp/ && rsync -tv js/* $tngm/js/; ngm"
 alias updatejs="rsync -tv src/main/webapp/js/* $tngm/js/"
-#alias updatecss="cd $ngm/src/main/webapp/ && rsync -tv css/* $tngm/css/; ngm"
+##alias updatecss="cd $ngm/src/main/webapp/ && rsync -tv css/* $tngm/css/; ngm"
 alias updatecss="rsync -tv src/main/webapp/css/* $tngm/css/; ngm"
 
 #ssh
