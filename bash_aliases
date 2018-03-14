@@ -1,6 +1,7 @@
 #sql
 alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
 alias psql-armdev="psql -h armdev-pgdb arm_all data_reception_user"
+alias psqll="psql -U postgres"
 
 pglogfile="/usr/local/psql/logs/pg.log"
 alias pgctl="pg_ctl"
