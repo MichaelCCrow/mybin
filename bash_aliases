@@ -15,6 +15,7 @@ alias sc="screen"
 alias aa="screen -R"
 alias aals="screen -ls"
 alias scrls="screen -ls"
+alias screenrc="vi ~/.screenrc"
 
 #maven (custom script in bin)
 alias one="deploy local"
@@ -55,9 +56,8 @@ alias tomcat-logs="tail -f /Users/mcu/tomcat7/logs/catalina.out"
 
 #Virtual Box
 alias vm-connect="ssh -p 2222 mcu@localhost"
-alias linux-tomcat-start="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/start'"
-alias linux-tomcat-stop="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/stop'"
-
+#alias linux-tomcat-start="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/start'"
+#alias linux-tomcat-stop="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/stop'"
 
 #lazy-ssh
 export esd="esddrupal-prod"
@@ -65,9 +65,11 @@ export esdd="esddrupal-dev"
 
 alias armp="ssh armdev-python"
 alias armpp="ssh mcuarm@armdev-python"
+alias armpa="ssh mcuarm@armdev-python"
 
 alias armj="ssh armdev-java"
-alias armjj="ssh mcuarm@armdev-java"
+alias armjj="ssh mcutomcat@armdev-java"
+alias armjt="ssh mcutomcat@armdev-java"
 
 alias armr="ssh mcu@armdev-recep"
 #alias armrr="ssh mcuarm@armdev-recep"
@@ -104,6 +106,14 @@ alias binls="ls /Users/mcu/bin"
 export mybin="/Users/mcu/bin"
 alias mybin="cd $mybin"
 
+  #tomcat
+  export tngm="/Users/mcu/tomcat7/webapps/ngeemetadata"
+  alias tngm="cd $tngm"
+  export tc="/Users/mcu/tomcat7"
+  alias tc="cd $tc"
+
+export md="/metadata/ngee"
+
 export dev="/Users/mcu/Development"
 alias dev="cd $dev"
 export devp="/Users/mcu/Development/projects"
@@ -113,20 +123,20 @@ export myscripts="/Users/mcu/Development/scripts"
 alias myscripts="cd $myscripts"
 
 #export ngm="/Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata"
-export ngm="/Users/mcu/Development/projects/ngeemetadata"
+export ngm="$devp/ngeemetadata"
 alias ngm="cd $ngm"
-
-export tngm="/Users/mcu/tomcat7/webapps/ngeemetadata"
-alias tngm="cd $tngm"
-
-export tc="/Users/mcu/tomcat7"
-alias tc="cd $tc"
 
 export workspace="/Users/mcu/Workspaces/MyEclipseMCC"
 export ws=$workspace
 alias ws="cd $workspace"
 
-export md="/metadata/ngee"
+export armws="$devp/armwebsvc2/armwebsvc"
+export armwebsvc="$devp/armwebsvc2/armwebsvc"
+alias armws="cd $armws"
+alias armwebsvc="cd $armwebsvc"
+
+export pfd="$devp/partialfile_deleter"
+alias pfd="cd $pfd"
 
 
 export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
@@ -134,16 +144,17 @@ export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
 url() { open -a Google\ Chrome $1; }
 localurl() { open -a Google\ Chrome http://localhost:8080/$1; }
 
-##alias updatepages="cd $ngm/src/main/webapp/WEB-INF/ && rsync -tv pages/* $tngm/WEB-INF/pages/; ngm"
-alias updatepages="rsync -tv src/main/webapp/WEB-INF/pages/* $tngm/WEB-INF/pages/"
-#webapp_path="$tc/$(basename `pwd`)"
-#alias updatepages="rsync -tv src/main/webapp/WEB-INF/pages/* $tc/$(basename `pwd`)/WEB-INF/pages/"
-##alias updatejs="cd $ngm/src/main/webapp/ && rsync -tv js/* $tngm/js/; ngm"
-alias updatejs="rsync -tv src/main/webapp/js/* $tngm/js/"
-##alias updatecss="cd $ngm/src/main/webapp/ && rsync -tv css/* $tngm/css/; ngm"
-alias updatecss="rsync -tv src/main/webapp/css/* $tngm/css/; ngm"
+# for use with ngeemetadata
+    ##alias updatepages="cd $ngm/src/main/webapp/WEB-INF/ && rsync -tv pages/* $tngm/WEB-INF/pages/; ngm"
+    alias updatepages="rsync -tv src/main/webapp/WEB-INF/pages/* $tngm/WEB-INF/pages/"
+    #webapp_path="$tc/$(basename `pwd`)"
+    #alias updatepages="rsync -tv src/main/webapp/WEB-INF/pages/* $tc/$(basename `pwd`)/WEB-INF/pages/"
+    ##alias updatejs="cd $ngm/src/main/webapp/ && rsync -tv js/* $tngm/js/; ngm"
+    alias updatejs="rsync -tv src/main/webapp/js/* $tngm/js/"
+    ##alias updatecss="cd $ngm/src/main/webapp/ && rsync -tv css/* $tngm/css/; ngm"
+    alias updatecss="rsync -tv src/main/webapp/css/* $tngm/css/; ngm"
 
-#ssh
+#ssh keys
 newsshkey() {  cat ~/.ssh/id_rsa.pub | ssh $1 "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh/authorized_keys"; }
 newsshkey2() { cat ~/.ssh/id_rsa.pub | ssh $1 "cat >> ~/.ssh/authorized_keys"; }
 

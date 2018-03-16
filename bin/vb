@@ -17,6 +17,12 @@ for i; do
               else ssh -p 2222 mcu@localhost; fi; shift;;
         connect) if [ -z "$(VBoxManage list runningvms)" ]; then echo "no vms running"
                  else ssh -p 2222 mcu@localhost; fi; shift;;
+        cmd) if [ -z "$(VBoxManage list runningvms)" ]; then echo "no vms running"
+             elif [[ $# > 1 ]]; then
+                 #if [ `ssh -p 2222 mcu@localhost "${@:2}"` ]; then echo "success"
+                 ssh -p 2222 mcu@localhost "${@:2}" 
+             #else ssh -p 2222 arm@localhost "${@:2}"; fi 
+             fi; break;;
       *) VBoxManage $@; shift; break;;
     esac
 done
