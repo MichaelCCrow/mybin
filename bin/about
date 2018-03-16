@@ -7,11 +7,24 @@
 #:ABOUT
 
 import sys
+from os import path
+from optparse import OptionParser
+
+usage = "usage: %prog [-v] path/to/script"
+parser = OptionParser(usage=usage)
+parser.add_option("-v", "--verbose", action="store_true", dest="verbose", default=False,
+        help="print the entire contents of the specified script")
+(options, args) = parser.parse_args()
 
 if len(sys.argv) == 2:
     file = sys.argv[1]
+elif len(args) == 1:
+    if len(sys.argv) == 3:
+        if path.isfile(sys.argv[2]): file = sys.argv[2]
+        else: file = sys.argv[1]
 elif len(sys.argv) > 2:
-    sys.stderr.write("[ERROR] one and only argument is to be supplied\n")
+    parser.error("[ERROR] one and only argument is to be supplied\n")
+    #sys.stderr.write("[ERROR] one and only argument is to be supplied\n")
 else:
     file = sys.argv[0]
 
@@ -23,9 +36,11 @@ try:
     with open(file) as f:
         stuff = ""
         for i, line in enumerate(f):
-            if beg in line: started = True
-            if started: stuff += line
-            if end in line: break
+            if options.verbose: stuff += line
+            else:
+                if beg in line: started = True
+                if started: stuff += line
+                if end in line: break
         if stuff:
             if stuff[-1] == "\n": stuff = stuff[:-1]
             print stuff
