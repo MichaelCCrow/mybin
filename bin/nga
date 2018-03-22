@@ -6,6 +6,9 @@
 
 if [[ $# < 1 || $# > 2 ]]; then
     add-instructions 'The first argument should be the last 3 numbers following "NGA"' '[optional] Second argument can be the word "new" to display only the newest'
+    if [[ $# < 1 ]]; then
+        ls -t `find "/metadata/ngee" -type f -name "NGA"` | head -5
+    fi
 else
     if [[ $# = 1 ]]; then
         if [[ $1 = *"NGA"* ]]; then
