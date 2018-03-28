@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Monitor
+
+fileordir=$1
+cmd=${@:2}
+echo "fswatch -0 -r $fileordir | xargs -0 -n 1 -I {} $cmd\n"
+fswatch -0 -r $fileordir | xargs -0 -n 1 -I {} $cmd

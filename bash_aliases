@@ -25,6 +25,10 @@ alias two="testngm openstats"
 alias testit="deployq; qq"
 alias deployandtest="deploy local clean --full"
 
+mvn-version() {
+    mvn versions:set -DnewVersion="$1-SNAPSHOT"
+}
+
 sublime() { open -a Sublime\ Text $1; }
 pycharm() { open -a PyCharm\ CE $1; }
 eclipse() { open -a MyEclipse\ 2017\ CI $1; }
