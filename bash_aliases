@@ -96,6 +96,7 @@ export mnspruce="mnspruce-prod"
 alias mnspruce="ssh mnspruce-prod"
 
 alias ui1b="ssh ui1b"
+alias ret1b="ssh ret1b"
 alias s1b="ssh s1b"
 alias s2b="ssh s2b"
 alias s3b="ssh s3b"
