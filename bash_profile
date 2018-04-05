@@ -24,7 +24,7 @@ alias mysql=/usr/local/mysql/bin/mysql
 alias mysqldump=/usr/local/mysql/bin/mysqldump
 
 #postgres
-export PGDATA=/usr/local/psql/data
+#export PGDATA=/usr/local/psql/data
 
 #bash_profile
 alias bashpr="vi ~/.bash_profile"
