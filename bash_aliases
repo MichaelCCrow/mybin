@@ -112,6 +112,7 @@ alias lsbin="ls /Users/mcu/bin"
 alias binls="ls /Users/mcu/bin"
 export mybin="/Users/mcu/bin"
 alias mybin="cd $mybin"
+alias tmp="ls -ltr /tmp/ | tail"
 
   #tomcat
   export tngm="/Users/mcu/tomcat7/webapps/ngeemetadata"
