@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Deleting all .DS_Store files found in sub directories."
+for i in `find * -type d`; do 
+    if [ -e $i/.DS_Store ]; then 
+        rm -v $i/.DS_Store
+    fi 
+done

@@ -26,7 +26,11 @@ alias two="testngm openstats"
 alias testit="deployq; qq"
 alias deployandtest="deploy local clean --full"
 
-alias sb:run="mvn clean install spring-boot:run -Drun.profiles=local"
+#alias sb:run="mvn clean install spring-boot:run -Drun.profiles=local"
+alias sb:run="custom-spring-boot"
+custom-spring-boot() {
+    mvn ${@:1} spring-boot:run -Drun.profiles=local
+}
 
 mvn-version() {
     mvn versions:set -DnewVersion="$1-SNAPSHOT"
