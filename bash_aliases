@@ -1,7 +1,7 @@
 #sql
 alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
 alias psql-armdev="psql -h armdev-pgdb arm_all data_reception_user"
-alias psqll="psql -U postgres"
+alias psqll="psql -U postgres arm_all"
 
 export pglogfile="/usr/local/psql/logs/pg.log"
 export PGDATA="/usr/local/psql/data"
@@ -39,6 +39,7 @@ mvn-version() {
 sublime() { open -a Sublime\ Text $1; }
 pycharm() { open -a PyCharm\ CE $1; }
 eclipse() { open -a MyEclipse\ 2017\ CI $1; }
+intellij() { open -a Intellij\ IDEA $1; }
 
 #deploy-check() {
 #select op in "openstats" "savedraft"; do

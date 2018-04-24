@@ -31,15 +31,15 @@ else
     loc=$1
 fi
 
-#echo "server: $serv"
-#echo "loc: $loc"
+echo "server: $serv"
+echo "loc: $loc"
 
 tmploc="$(gettmpfile $loc)"
 
 #echo "tmploc: $tmploc"
 #echo "scp $serv $tmploc"
 
-scp $serv $tmploc
+scp -r $serv $tmploc
 
 echo -e "\nlocal on the left\n"
 
@@ -47,4 +47,4 @@ diff $loc $tmploc | less
 
 echo "completed diff"
 
-rm -v $tmploc
+rm -rv $tmploc
