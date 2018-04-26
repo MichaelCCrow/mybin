@@ -2,9 +2,11 @@
 
 #ABOUT:
 # This script simplifies the typing for the VBoxManage command and must be given at least one argument.
+# Options:
+# start | stop | conn|connect | cmd $@
 #:ABOUT
 
-if [[ $# = 0 ]]; then VBoxManage -h | less
+if [[ $# = 0 ]]; then VBoxManage -h | less; about $0
 else
 
 for i; do
