@@ -37,7 +37,7 @@ mvn-version() {
 }
 
 sublime() { open -a Sublime\ Text $1; }
-pycharm() { open -a PyCharm\ CE $1; }
+pycharm() { open -a PyCharm $1; }
 eclipse() { open -a MyEclipse\ 2017\ CI $1; }
 intellij() { open -a Intellij\ IDEA $1; }
 
@@ -145,10 +145,8 @@ export workspace="/Users/mcu/Workspaces/MyEclipseMCC"
 export ws=$workspace
 alias ws="cd $workspace"
 
-export armws="$devp/armwebsvc2/armwebsvc"
-export armwebsvc="$devp/armwebsvc2/armwebsvc"
-alias armws="cd $armws"
-alias armwebsvc="cd $armwebsvc"
+export armlive="$devp/armlive"
+alias armlive="cd $armlive"
 
 export pfd="$devp/partialfile_deleter"
 alias pfd="cd $pfd"
