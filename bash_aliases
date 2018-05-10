@@ -1,3 +1,6 @@
+#show keyboard map
+alias km="open /Users/mcu/Desktop/hhkbp2_basic_layout1500.png"
+
 #sql
 alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
 alias psql-armdev="psql -h armdev-pgdb arm_all data_reception_user"
@@ -11,6 +14,10 @@ alias pg-start="pg_ctl -D $PGDATA -l $pglogfile start"
 #alias pg-start="pg_ctl -D /usr/local/psql/data -l /usr/local/psql/logs/pg-logfile.log start"
 alias pg-stop="pg_ctl -D $PGDATA -l $pglogfile stop"
 alias pg-restart="pg_ctl -D $PGDATA -l $pglogfile restart"
+
+#check armlive db for changes"
+alias check:pg="psqll -ec 'SELECT * FROM websvc_metrics ORDER BY date DESC LIMIT 5'"
+alias pg:check="psqll -ec 'SELECT * FROM websvc_metrics ORDER BY date DESC LIMIT 5'"
 
 #screen
 alias sc="screen"
