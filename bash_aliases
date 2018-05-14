@@ -128,6 +128,7 @@ alias s4b="ssh s4b"
 alias gitwebrootdiff="git diff --name-only HEAD^ WebRoot/"
 
 #lazy-nav
+alias ll="ls -ltr"
 alias seebin="ls /Users/mcu/bin"
 alias lsbin="ls /Users/mcu/bin"
 alias binls="ls /Users/mcu/bin"
