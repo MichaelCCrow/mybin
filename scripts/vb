@@ -1,0 +1,42 @@
+#!/bin/bash
+
+#ABOUT:
+# This script simplifies the typing for the VBoxManage command and must be given at least one argument.
+# Options:
+# start | stop | conn|connect | cmd $@
+#:ABOUT
+
+lu="LinuxUbuntu"
+fed="Fedora"
+vm=$fed
+vh="crowhost"
+
+if [[ $# = 0 ]]; then VBoxManage -h | less; about $0
+else
+
+    if [[ $2 = "LinuxUbuntu" ]]; then
+        vh="-p 2222 mcu@localhost"
+    fi
+        
+for i; do
+    case "$i"
+        in
+        start) echo "starting"; VBoxManage startvm $vm --type headless; shift;;
+        stop) echo "stopping"; VBoxManage controlvm $vm poweroff; shift;;
+        #list) VBoxManage list runningvms; shift;;
+        conn) if [ -z "$(VBoxManage list runningvms)" ]; then echo "no vms running"
+              else ssh $vh; fi; shift;;
+              #else ssh -p 2222 mcu@localhost; fi; shift;;
+        connect) if [ -z "$(VBoxManage list runningvms)" ]; then echo "no vms running"
+                 else ssh $vh; fi; shift;;
+        cmd) if [ -z "$(VBoxManage list runningvms)" ]; then echo "no vms running"
+             elif [[ $# > 1 ]]; then
+                 #if [ `ssh -p 2222 mcu@localhost "${@:2}"` ]; then echo "success"
+                 ssh $vh "${@:2}" 
+             #else ssh -p 2222 arm@localhost "${@:2}"; fi 
+             fi; break;;
+      *) VBoxManage $@; shift; break;;
+    esac
+done
+
+fi

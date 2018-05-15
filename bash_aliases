@@ -82,6 +82,13 @@ alias tomcat-logs="tail -f /Users/mcu/tomcat7/logs/catalina.out"
 #}
 
 #Virtual Box
+alias vb="VBoxManage"
+alias vb:start="vb startvm Fedora --type headless"
+alias vb:stop="vb controlvm Fedora poweroff"
+alias vb:list="vb list runningvms"
+alias vb:conn="ssh crowhost"
+alias vb:connect="ssh crowhost"
+
 alias vm-connect="ssh -p 2222 mcu@localhost"
 #alias linux-tomcat-start="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/start'"
 #alias linux-tomcat-stop="ssh mcu@localhost -p 2222 'bash /usr/share/tomcat/stop'"
