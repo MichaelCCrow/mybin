@@ -1,5 +1,6 @@
 #show keyboard map
 alias km="open /Users/mcu/Desktop/hhkbp2_basic_layout1500.png"
+alias kmm="open 'http://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn'"
 
 #sql
 alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
