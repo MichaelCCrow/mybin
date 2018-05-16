@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /Users/mcu/bin/
+#java Colorize $1 ${@:2}
+java -jar Colorize.jar $1 ${@:2}
