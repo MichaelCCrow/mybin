@@ -7,25 +7,26 @@ alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
 alias psql-armdev="psql -h armdev-pgdb arm_all data_reception_user"
 alias psqll="psql -U postgres arm_all"
 
-if [ -f ~/.bash_queries ]; then
-    . ~/.bash_queries
-fi
-
 export pglogfile="/usr/local/psql/logs/pg.log"
 export PGDATA="/usr/local/psql/data"
 alias pgctl="pg_ctl"
 alias pg="pg_ctl"
-alias pg-start="pg_ctl -D $PGDATA -l $pglogfile start"
+alias pg:start="pg_ctl -D $PGDATA -l $pglogfile start"
 #alias pg-start="pg_ctl -D /usr/local/psql/data -l /usr/local/psql/logs/pg-logfile.log start"
-alias pg-stop="pg_ctl -D $PGDATA -l $pglogfile stop"
-alias pg-restart="pg_ctl -D $PGDATA -l $pglogfile restart"
+alias pg:stop="pg_ctl -D $PGDATA -l $pglogfile stop"
+alias pg:restart="pg_ctl -D $PGDATA -l $pglogfile restart"
 
 #check armlive db for changes"
-alias check:pg="psqll -ec 'SELECT * FROM websvc_metrics ORDER BY date DESC LIMIT 5'"
-alias pg:check="psqll -ec 'SELECT * FROM websvc_metrics ORDER BY date DESC LIMIT 5'"
+#alias check:pg="psqll -ec 'SELECT * FROM websvc_metrics ORDER BY date DESC LIMIT 5'"
+#alias pg:check="psqll -ec 'SELECT * FROM websvc_metrics ORDER BY date DESC LIMIT 5'"
 
 qwuconn="(select * from pg_stat_activity where usename = 'websvc_user')"
 alias wuconnections="psql -h armdev-pgdb arm_all websvc_user -c \"$qwuconn\""
+
+if [ -f ~/.bash_queries ]; then
+    . ~/.bash_queries
+fi
+alias bashq="vi ~/.bash_queries"
 
 #screen
 alias sc="screen"
