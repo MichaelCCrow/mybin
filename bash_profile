@@ -38,6 +38,7 @@ title() { echo -e '\033k'$1'\033\\'; }
 #python
 alias py="/usr/bin/python2.7"
 alias py3="python3.6"
+alias ipy="ipython"
 #alias py3="/usr/local/bin/python3"
 #alias py3="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3"
 
@@ -46,12 +47,13 @@ alias py3="python3.6"
 # The original version is saved in .bash_profile.pysave
 #PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
 pypath2="/Users/mcu/Library/Python/2.7/bin"
+#pypath2="/usr/local/bin/python2.7"
 pypath3="/Library/Frameworks/Python.framework/Versions/3.5/bin"
-pypath36="/usr/local/opt/python3/bin"
+#pypath36="/usr/local/opt/python3/bin"
 mypath="/Users/mcu/bin"
 brewpath="/usr/local/sbin"
-export PATH="$PATH:$pypath3:$mypath:$brewpath:$pypath2:$pypath36"
-
+export PATH="$PATH:$pypath3:$mypath:$brewpath:$pypath2" # :$pypath36"
+export PYTHONPATH="$PYTHONPATH:/usr/local/lib/python2.7/bin"
 
 
 ### template from https://code.tutsplus.com/tutorials/how-to-customize-the-command-prompt--net-20586 ###
