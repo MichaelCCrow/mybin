@@ -4,24 +4,18 @@ alias kmm="open 'http://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpr
 
 #sql
 alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
-alias psql-armdev="psql -h armdev-pgdb arm_all data_reception_user"
-alias psqll="psql -U postgres arm_all"
 
-export pglogfile="/usr/local/psql/logs/pg.log"
-export PGDATA="/usr/local/psql/data"
-alias pgctl="pg_ctl"
+#psql
 alias pg="pg_ctl"
 alias pg:start="pg_ctl -D $PGDATA -l $pglogfile start"
-#alias pg-start="pg_ctl -D /usr/local/psql/data -l /usr/local/psql/logs/pg-logfile.log start"
 alias pg:stop="pg_ctl -D $PGDATA -l $pglogfile stop"
 alias pg:restart="pg_ctl -D $PGDATA -l $pglogfile restart"
 
-#check armlive db for changes"
-#alias check:pg="psqll -ec 'SELECT * FROM websvc_metrics ORDER BY date DESC LIMIT 5'"
-#alias pg:check="psqll -ec 'SELECT * FROM websvc_metrics ORDER BY date DESC LIMIT 5'"
-
-qwuconn="(select * from pg_stat_activity where usename = 'websvc_user')"
-alias wuconnections="psql -h armdev-pgdb arm_all websvc_user -c \"$qwuconn\""
+pguser="websvc_user"
+pg:user() { pguser=$1; }
+alias pg:local="psql -U postgres arm_all"
+alias pg:dev="psql -h armdev-pgdb arm_all $pguser"
+alias pg:prod="psql -h armdb arm_all $pguser"
 
 if [ -f ~/.bash_queries ]; then
     . ~/.bash_queries
@@ -36,10 +30,6 @@ alias scrls="screen -ls"
 alias screenrc="vi ~/.screenrc"
 
 #maven (custom script in bin)
-alias one="deploy local"
-alias onea="deploy local clean"
-alias two="testngm openstats"
-alias testit="deployq; qq"
 alias deployandtest="deploy local clean --full"
 
 #alias sb:run="mvn clean install spring-boot:run -Drun.profiles=local"

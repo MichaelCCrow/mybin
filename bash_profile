@@ -23,8 +23,9 @@ alias today='export today="$(date)"; echo $today'
 alias mysql=/usr/local/mysql/bin/mysql
 alias mysqldump=/usr/local/mysql/bin/mysqldump
 
-#postgres
-#export PGDATA=/usr/local/psql/data
+#postgres setup
+export pglogfile="/usr/local/psql/logs/pg.log"
+export PGDATA="/usr/local/psql/data"
 
 #bash_profile
 alias bashpr="vi ~/.bash_profile"
