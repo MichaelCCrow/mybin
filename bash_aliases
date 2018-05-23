@@ -31,6 +31,15 @@ alias screenrc="vi ~/.screenrc"
 
 #maven (custom script in bin)
 alias deployandtest="deploy local clean --full"
+pom() {
+    devdir=/Users/mcu/Development/projects
+    case $1 in
+        armlive) vi $devdir/armlive/pom.xml;;
+        ngm) vi $devdir/ngeemetadata/pom.xml;;
+        *) if [ -f $devdir/$1/pom.xml ]; then vi $devdir/$1/pom.xml; fi ;;
+    esac
+}
+
 
 #alias sb:run="mvn clean install spring-boot:run -Drun.profiles=local"
 alias sb:run="custom-spring-boot"
@@ -129,12 +138,16 @@ alias gitwebrootdiff="git diff --name-only HEAD^ WebRoot/"
 
 #lazy-nav
 alias ll="ls -ltr"
+alias ltr="ls -ltr"
 alias seebin="ls /Users/mcu/bin"
 alias lsbin="ls /Users/mcu/bin"
 alias binls="ls /Users/mcu/bin"
 export mybin="/Users/mcu/bin"
 alias mybin="cd $mybin"
 alias tmp="ls -ltr /tmp/ | tail"
+bin() {
+    if [ -f $mybin/$1 ]; then vi $mybin/$1; fi
+}
 
   #tomcat
   export tngm="/Users/mcu/tomcat7/webapps/ngeemetadata"
