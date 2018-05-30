@@ -8,8 +8,12 @@
 #:ABOUT
 
 ltcat="/Users/mcu/tomcat7/logs/catalina.out"
+catalina="tomcat/logs/catalina.out"
+ngeelogs="~/bin/tomcat-logs"
 esdd="esddrupal-dev"
 esd="esddrupal-prod"
+armj="armdev-java"
+ui1b="ui1b"
 
 watchlog() {
     tail -f $1
@@ -18,8 +22,12 @@ watchlog() {
 for i; do
     case $i
         in
-        local) watchlog ltcat; shift;;
-        esdd) ssh $esdd "~/bin/tomcat-logs"; shift;;
-        esd) ssh $esd "~/bin/tomcat-logs"; shift;;
+        local) watchlog $ltcat; break;;
+        esdd|dev) ssh $esdd "~/bin/tomcat-logs"; break;;
+        esd|prod) ssh $esd "~/bin/tomcat-logs"; break;;
+        armj) serv=$armj; shift;;
+        ui1b) serv=$ui1b; shift;;
     esac
+    ssh $serv "tail -f /usr/local/tomcat/logs/catalina.out"
+    #ssh $serv "~/bin/tomcat-logs"
 done

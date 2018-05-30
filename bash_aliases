@@ -2,6 +2,8 @@
 alias km="open /Users/mcu/Desktop/hhkbp2_basic_layout1500.png"
 alias kmm="open 'http://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn'"
 
+vibin() { vi /Users/mcu/bin/$1; }
+
 #sql
 alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
 
@@ -125,6 +127,7 @@ alias m3m="ssh mcumercury@mercury3-rh"
 export mnspruce="mnspruce-prod"
 alias mnspruce="ssh mnspruce-prod"
 
+export ui1b="ui1b"
 alias ui1b="ssh ui1b"
 alias ui1bt="ssh mcutomcat@ui1b"
 alias ret1b="ssh ret1b"
