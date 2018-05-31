@@ -40,12 +40,13 @@ tmploc="$(gettmpfile $loc)"
 #echo "tmploc: $tmploc"
 #echo "scp $serv $tmploc"
 
-scp -r $serv $tmploc
+scp -rq $serv $tmploc
 
 echo -e "\nlocal on the left\n"
 
-diff $loc $tmploc | less
+diff -r $loc $tmploc | tee diff.`basename $1`.txt
 
 echo "completed diff"
 
-rm -rv $tmploc
+rm -r $tmploc
+echo "$tmploc removed"

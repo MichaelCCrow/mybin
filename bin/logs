@@ -4,7 +4,7 @@
 # Simple script for accessing tomcat logs across remote systems.
 # Namely: esddrupal-dev and prod.
 # Current available args:
-# local - esd - esddrupal
+# local - esd|prod - esddrupal|dev - armj - ui1b
 #:ABOUT
 
 ltcat="/Users/mcu/tomcat7/logs/catalina.out"
