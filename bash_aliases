@@ -148,7 +148,7 @@ alias lsbin="ls /Users/mcu/bin"
 alias binls="ls /Users/mcu/bin"
 export mybin="/Users/mcu/bin"
 alias mybin="cd $mybin"
-alias tmp="ls -ltr /tmp/ | tail"
+alias tmp="ls -altr /tmp/ | tail"
 bin() {
     if [ -f $mybin/$1 ]; then vi $mybin/$1; fi
 }
