@@ -34,10 +34,11 @@ alias screenrc="vi ~/.screenrc"
 #maven (custom script in bin)
 alias deployandtest="deploy local clean --full"
 pom() {
-    devdir=/Users/mcu/Development/projects
+    devdir=/usr/local/dev/projects
     case $1 in
         armlive) vi $devdir/armlive/pom.xml;;
         ngm) vi $devdir/ngeemetadata/pom.xml;;
+        '') if [ -f pom.xml ]; then vi pom.xml; fi;;
         *) if [ -f $devdir/$1/pom.xml ]; then vi $devdir/$1/pom.xml; fi ;;
     esac
 }
@@ -161,12 +162,12 @@ bin() {
 
 export md="/metadata/ngee"
 
-export dev="/Users/mcu/Development"
+export dev="/usr/local/dev"
 alias dev="cd $dev"
-export devp="/Users/mcu/Development/projects"
+export devp="/usr/local/dev/projects"
 alias devp="cd $devp"
 
-export myscripts="/Users/mcu/Development/scripts"
+export myscripts="/usr/local/dev/scripts"
 alias myscripts="cd $myscripts"
 
 #export ngm="/Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata"
