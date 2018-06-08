@@ -1,3 +1,5 @@
 .DS_Store
 scripts/arm_untarrer/.git/
 scripts/updateOldRecords/.git/
+scripts/arm_untarrer
+scripts/updateOldRecords
