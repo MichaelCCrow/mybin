@@ -33,14 +33,20 @@ alias screenrc="vi ~/.screenrc"
 
 #maven (custom script in bin)
 alias deployandtest="deploy local clean --full"
+devdir=/usr/local/dev/projects
 pom() {
-    devdir=/usr/local/dev/projects
     case $1 in
         armlive) vi $devdir/armlive/pom.xml;;
         ngm) vi $devdir/ngeemetadata/pom.xml;;
         '') if [ -f pom.xml ]; then vi pom.xml; fi;;
         *) if [ -f $devdir/$1/pom.xml ]; then vi $devdir/$1/pom.xml; fi ;;
     esac
+}
+aprop() {
+    pprofile=''
+    if [ $# = 2 ]; pprofile=$2
+    propdir=src/main/resources/application-$pprofile.properties
+    if [ -f $devdir/$1/$propdir ]; then vi $devdir/$1/$propdir; fi
 }
 
 

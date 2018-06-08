@@ -1,0 +1,6 @@
+#!/bin/bash
+
+pprofile=''
+if [ $# = 2 ]; pprofile=$2
+propdir=src/main/resources/application-$pprofile.properties
+if [ -f $devdir/$1/$propdir ]; then vi $devdir/$1/$propdir; fi
