@@ -13,6 +13,10 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 
+if [ -f ~/.bash_queries ]; then
+    . ~/.bash_queries
+fi
+
 #########################
 #### system aliases #####
 #########################
@@ -28,10 +32,12 @@ export pglogfile="/usr/local/psql/logs/pg.log"
 export PGDATA="/usr/local/psql/data"
 
 #bash_profile
-alias bashpr="vi ~/.bash_profile"
 alias rbash=". ~/.bash_profile"
-alias basha="vi ~/.bash_aliases"
+alias bashpr="vi ~/.bash_profile"
 alias bashal="vi ~/.bash_aliases"
+alias bashq="vi ~/.bash_queries"
+# Edit this file to add files to be recognized by vim as bash source files.
+#/usr/local/Cellar/macvim/8.0-142/MacVim.app/Contents/Resources/vim/runtime/filetype.vim
 
 #change window title
 title() { echo -e '\033k'$1'\033\\'; }
@@ -48,9 +54,7 @@ alias ipy="ipython"
 # The original version is saved in .bash_profile.pysave
 #PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
 pypath2="/Users/mcu/Library/Python/2.7/bin"
-#pypath2="/usr/local/bin/python2.7"
 pypath3="/Library/Frameworks/Python.framework/Versions/3.5/bin"
-#pypath36="/usr/local/opt/python3/bin"
 mypath="/Users/mcu/bin"
 brewpath="/usr/local/sbin"
 export PATH="$PATH:$pypath3:$mypath:$brewpath:$pypath2" # :$pypath36"
@@ -136,8 +140,6 @@ dirchange () {
 }
      
 PROMPT_COMMAND=dirchange
-#PS1='\]->\]\]\]\]'
-#PS1='-> '
 #PS1='$: '
 
 source /Users/mcu/Library/Python/2.7/lib/python/site-packages/powerline/bindings/bash/powerline.sh

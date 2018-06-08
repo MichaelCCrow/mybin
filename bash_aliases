@@ -12,17 +12,15 @@ alias pg="pg_ctl"
 alias pg:start="pg_ctl -D $PGDATA -l $pglogfile start"
 alias pg:stop="pg_ctl -D $PGDATA -l $pglogfile stop"
 alias pg:restart="pg_ctl -D $PGDATA -l $pglogfile restart"
+    #connections
+    pguser="websvc_user"
+    pg:user() { pguser=$1; }
+    alias pg:local="psql -U postgres arm_all"
+    alias pg:dev="psql -h armdev-pgdb arm_all $pguser"
+    alias pg:prod="psql -h armdb arm_all $pguser"
 
-pguser="websvc_user"
-pg:user() { pguser=$1; }
-alias pg:local="psql -U postgres arm_all"
-alias pg:dev="psql -h armdev-pgdb arm_all $pguser"
-alias pg:prod="psql -h armdb arm_all $pguser"
-
-if [ -f ~/.bash_queries ]; then
-    . ~/.bash_queries
-fi
-alias bashq="vi ~/.bash_queries"
+#git
+alias cgit="vi ~/.gitconfig"
 
 #screen
 alias sc="screen"
@@ -33,22 +31,6 @@ alias screenrc="vi ~/.screenrc"
 
 #maven (custom script in bin)
 alias deployandtest="deploy local clean --full"
-devdir=/usr/local/dev/projects
-pom() {
-    case $1 in
-        armlive) vi $devdir/armlive/pom.xml;;
-        ngm) vi $devdir/ngeemetadata/pom.xml;;
-        '') if [ -f pom.xml ]; then vi pom.xml; fi;;
-        *) if [ -f $devdir/$1/pom.xml ]; then vi $devdir/$1/pom.xml; fi ;;
-    esac
-}
-aprop() {
-    pprofile=''
-    if [ $# = 2 ]; pprofile=$2
-    propdir=src/main/resources/application-$pprofile.properties
-    if [ -f $devdir/$1/$propdir ]; then vi $devdir/$1/$propdir; fi
-}
-
 
 #alias sb:run="mvn clean install spring-boot:run -Drun.profiles=local"
 alias sb:run="custom-spring-boot"
@@ -65,13 +47,6 @@ pycharm() { open -a PyCharm $1; }
 eclipse() { open -a MyEclipse\ 2017\ CI $1; }
 intellij() { open -a Intellij\ IDEA $1; }
 
-#deploy-check() {
-#select op in "openstats" "savedraft"; do
-#read -t 5 -p "what do you want to check: " op; echo "check $op"
-    #case $op in    *) break; #esac
-    #break; #deploy local; #done; #}
-
-
 #tomcat
 alias stop-tomcat="/Users/mcu/tomcat7/bin/shutdown.sh | tail -f /Users/mcu/tomcat7/logs/catalina.out"
 alias start-tomcat="/Users/mcu/tomcat7/bin/startup.sh | tail -f /Users/mcu/tomcat7/logs/catalina.out"
@@ -79,17 +54,6 @@ alias tomcat-status="ps -ef | grep tomcat"
 alias kill-tomcat="pkill -9 -f tomcat"
 alias see-tomcat="tail -f /Users/mcu/tomcat7/logs/catalina.out"
 alias tomcat-logs="tail -f /Users/mcu/tomcat7/logs/catalina.out"
-
-#not sure if this actually works 
-#totomcat() { 
-#    ngpath=/Users/mcu/Workspaces/MyEclipseMCC/ngeemetadata
-#    tcpath=/Users/mcu/tomcat7/webapps/ngeemetadata
-#    cd $ngpath
-#    if [ -f $ngpath/$1 && -f $tcpath/$1 ]; then 
-#        cp $1 $tcpath/$1; #cp src/main/webapp/$1 /Users/mcu/tomcat7/webapps/ngeemetadata/$1; else 
-#    else echo "failed to move $1"; 
-#    fi
-#}
 
 #Virtual Box
 alias vb="VBoxManage"
@@ -144,10 +108,8 @@ alias s2b="ssh s2b"
 alias s3b="ssh s3b"
 alias s4b="ssh s4b"
 
-#git
-alias gitwebrootdiff="git diff --name-only HEAD^ WebRoot/"
 
-#lazy-nav
+#lazy-nav ##############################################
 alias ll="ls -ltr"
 alias ltr="ls -ltr"
 alias seebin="ls /Users/mcu/bin"
@@ -172,6 +134,8 @@ export dev="/usr/local/dev"
 alias dev="cd $dev"
 export devp="/usr/local/dev/projects"
 alias devp="cd $devp"
+export hdev="/Users/mcu/Development/projects" #home dev
+alias hdev="cd $hdev"
 
 export myscripts="/usr/local/dev/scripts"
 alias myscripts="cd $myscripts"
@@ -189,6 +153,8 @@ alias armlive="cd $armlive"
 
 export pfd="$devp/partialfile_deleter"
 alias pfd="cd $pfd"
+
+########################################################
 
 
 export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
@@ -213,7 +179,6 @@ newsshkey2() { cat ~/.ssh/id_rsa.pub | ssh $1 "cat >> ~/.ssh/authorized_keys"; }
 
 #tutorials
 alias tut-pystring="open -a 'Google Chrome' https://www.tutorialspoint.com/python/python_strings.htm"
-
 
 #ome
 omesubmit() { python ~/Development/projects/ngeemetadata/src/test/python/submit.py $1 $2; } # $1)record_id $2)status<draft|submitted|accepted|approved>

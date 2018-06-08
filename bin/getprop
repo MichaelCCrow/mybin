@@ -1,6 +1,26 @@
 #!/bin/bash
 
-pprofile=''
-if [ $# = 2 ]; pprofile=$2
-propdir=src/main/resources/application-$pprofile.properties
-if [ -f $devdir/$1/$propdir ]; then vi $devdir/$1/$propdir; fi
+#ABOUT:
+# Scipt to quickly open application.properties files.
+# args: appfolder_name [profile]
+#:ABOUT
+
+case $# in
+    1) pprofile=""
+       ;;
+    2) pprofile="-$2"
+       ;;
+   0) echo "usage: $0 app_project_folder [profile]"
+       exit
+       ;;
+   *) echo "usage: $0 app_project_folder [profile]"
+       exit
+       ;;
+esac
+
+devdir=/usr/local/dev/projects
+propdir=src/main/resources/application$pprofile.properties
+if [ -f $devdir/$1/$propdir ]
+    then vi $devdir/$1/$propdir
+else echo "$1 is not a project located in $devdir"
+fi

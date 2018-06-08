@@ -1,0 +1,16 @@
+#!/bin/bash
+
+devdir=/usr/local/dev/projects
+
+case $# in
+    0) pomdir=${PWD}
+        ;;
+    1) pomdir="$devdir/$1"
+        ;;
+    *) echo "Usage: $0 [app_folder_with_pom]"
+        exit
+        ;;
+esac
+
+if [ -f $pomdir/pom.xml ]; then vi $pomdir/pom.xml; else echo "no pom.xml in $pomdir"; fi 
+
