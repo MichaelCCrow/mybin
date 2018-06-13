@@ -111,6 +111,7 @@ alias s4b="ssh s4b"
 
 #lazy-nav ##############################################
 alias ll="ls -ltr"
+alias lla="ls -ltra"
 alias ltr="ls -ltr"
 alias seebin="ls /Users/mcu/bin"
 alias lsbin="ls /Users/mcu/bin"
