@@ -30,6 +30,12 @@ if [ -f 'pom.xml' ]; then
         echo -e "\nmvn -P $1 $goals tomcat7:redeploy"
         mvn -P $1 $goals tomcat7:redeploy
 
+        if ! $?; then 
+            echo "tomcat not running -- starting tomcat..."
+            /usr/local/dev/bin/tomcat start -q 
+            mvn -P $1 $goals tomcat7:redeploy
+        fi
+
         if $full; then runchecks -t; fi
     fi
  fi

@@ -16,8 +16,8 @@ alias pg:restart="pg_ctl -D $PGDATA -l $pglogfile restart"
     pguser="websvc_user"
     pg:user() { pguser=$1; }
     alias pg:local="psql -U postgres arm_all"
-    alias pg:dev="psql -h armdev-pgdb arm_all $pguser"
-    alias pg:prod="psql -h armdb arm_all $pguser"
+    alias pg:dev="psql -h armdev-pgdb -U $pguser arm_all"
+    alias pg:prod="psql -h armdb -U $pguser arm_all"
 
 #git
 alias cgit="vi ~/.gitconfig"

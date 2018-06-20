@@ -10,13 +10,36 @@ logpath=$tcatpath/logs/catalina.out
 
 watchlog() { tail -f $logpath; }
 
+usage="usage: $0 start|stop|logs|status [-q]"
+
+if [[ $# > 2 || $# = 0 ]]
+    then echo $usage; exit
+fi
+
+q=false
+case $# in
+    2) if [ $2 = "-q" ]
+           then q=true
+           else echo $usage; exit
+       fi
+esac
+
 for i; do
     case $i
         in
-        start) bash $tcatpath/bin/startup.sh | watchlog; shift;;
-        stop) bash $tcatpath/bin/shutdown.sh | watchlog; shift;;
+        start) if $q
+                   then bash $tcatpath/bin/startup.sh
+                   else bash $tcatpath/bin/startup.sh | watchlog
+               fi
+            shift;;
+        stop) if $q
+                  then bash $tcatpath/bin/shutdown.sh 
+                  else bash $tcatpath/bin/shutdown.sh | watchlog
+              fi
+            shift;;
         logs) watchlog; shift;;
         status) ps -ef | grep tomcat; shift;;
-        *) echo Invalid command; exit;
+        -q) shift;;
+        *) echo Invalid command; echo $usage; exit;
     esac
 done
