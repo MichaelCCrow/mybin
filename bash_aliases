@@ -157,7 +157,6 @@ alias pfd="cd $pfd"
 
 ########################################################
 
-
 export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
 
 url() { open -a Google\ Chrome $1; }
@@ -183,3 +182,5 @@ alias tut-pystring="open -a 'Google Chrome' https://www.tutorialspoint.com/pytho
 
 #ome
 omesubmit() { python ~/Development/projects/ngeemetadata/src/test/python/submit.py $1 $2; } # $1)record_id $2)status<draft|submitted|accepted|approved>
+
+alias makexsl="xsltproc src/main/resources/HTMLStylesheet.xsl /metadata/ngee/prod/approved/Vegetation_Warming_Experiment_Thaw_Depth_Barrow_Alaska_2017.NGA151.xml -o result.html"
