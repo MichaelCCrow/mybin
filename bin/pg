@@ -1,0 +1,51 @@
+#!/bin/bash
+
+usage="usage: $0  prod|dev|local|l|-c  check|token|<query_string>|-c  [<query_string>]"
+
+h="localhost"
+u="websvc_user"
+check_query='SELECT * FROM metrics.data_download_websvc_metrics ORDER BY date DESC LIMIT 5'
+token_query='SELECT token FROM metrics.data_download_users WHERE user_name = '"'crowmc@ornl.gov'"
+
+execute_basic_query() {
+    if [ $1 = $u ]; then u="postgres"; fi
+    psql -U $u arm_all -ec "${@:2}"
+    exit
+}
+
+execute_query() {
+    psql -h "$1" -U "$2" arm_all -ec "${@:3}"
+    exit
+}
+
+case $1 in
+     prod) h="armdb";;
+      dev) h="armdev-pgdb";;
+  local|l) h="localhost";;
+    check) q="$check_query";;
+    token) q="$token_query";;
+       -c) q="${@:2}"
+           execute_basic_query "$u" "$q"
+           ;;
+        *) echo $usage
+           exit
+           ;;
+esac
+
+#if [ $# = 1 ]; then execute_query "$h" "$u" "$q"; fi
+
+if [[ $# = 2 || $# > 2 ]]
+then 
+    case $2 in 
+        check) q="$check_query";;
+        token) q="$token_query";;
+           -c) q="${@:3}"
+               ;;
+            *) echo $usage
+               exit;;
+    esac
+    #execute_query "$h" "$u" "$q"
+fi
+
+execute_query "$h" "$u" "$q"
+
