@@ -39,13 +39,14 @@ then
     case $2 in 
         check) q="$check_query";;
         token) q="$token_query";;
-           -c) q="${@:3}"
-               ;;
+           -c) q="${@:3}";;
+           -U) u="$3"; q="${@:4}";;
             *) echo $usage
                exit;;
     esac
     #execute_query "$h" "$u" "$q"
 fi
 
+echo $h $u $q
 execute_query "$h" "$u" "$q"
 
