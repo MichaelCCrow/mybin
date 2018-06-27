@@ -8,6 +8,7 @@ print_instructions() {
 add-instructions1 "Profile" "[optional] additional options - Ex: deploy local clean install\nusage of the '--full' option at the end will run full selenium tests through an automated Chrome browser"
 }
 
+profile="local"
 full=false
 if [ -f 'pom.xml' ]; then
  if [ $# = 0 ]; then
@@ -15,10 +16,17 @@ if [ -f 'pom.xml' ]; then
     echo -e "No options provided.\nRunning: mvn -P local tomcat7:redeploy"
     mvn -P local tomcat7:redeploy
  else
+
     echo -e "\nmvn -P $1 ${@:2} tomcat7:redeploy"
-    #if [ $# = 0 ]; then echo "must provide a profile"; print_instructions
+
     if [ "$1" == "-h" ]; then echo "must provide a profile"; print_instructions
     else
+
+    #case $1 in
+    #    *) profile=$1
+    #    clean|install) profile="local";;
+    #esac
+
         if [ $# -gt 1 ]; then
             echo -e "...additional options: ${@:2}\n"
         else echo -e "...quick deploy\n"
