@@ -184,5 +184,9 @@ alias tut-pystring="open -a 'Google Chrome' https://www.tutorialspoint.com/pytho
 #ome
 omesubmit() { python ~/Development/projects/ngeemetadata/src/test/python/submit.py $1 $2; } # $1)record_id $2)status<draft|submitted|accepted|approved>
 
+# Synergy
+alias synergys="/Applications/QuickSynergy.app/Contents/Resources/synergys"
+alias quicksynergy="/Applications/QuickSynergy.app/Contents/MacOS/QuickSynergy"
+
 alias makexsl="xsltproc src/main/resources/HTMLStylesheet.xsl /metadata/ngee/prod/approved/Vegetation_Warming_Experiment_Thaw_Depth_Barrow_Alaska_2017.NGA151.xml -o result.html; if [ -f result.html ]; then echo 'good to go'; else echo 'no bueno'; fi; open result.html"
 alias updatexsl="cp -v src/main/resources/HTMLStylesheet.xsl /var/lib/tomcat/webapps/ngeemetadata/HTMLStylesheet.xsl; rm -v ~/Downloads/NGA150*"
