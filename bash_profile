@@ -46,6 +46,7 @@ title() { echo -e '\033k'$1'\033\\'; }
 alias py="/usr/bin/python2.7"
 alias py3="python3.6"
 alias ipy="ipython"
+alias ipy3="ipython3"
 #alias py3="/usr/local/bin/python3"
 #alias py3="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3"
 
@@ -141,6 +142,8 @@ dirchange () {
      
 PROMPT_COMMAND=dirchange
 #PS1='$: '
+
+[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
 
 source /Users/mcu/Library/Python/2.7/lib/python/site-packages/powerline/bindings/bash/powerline.sh
 
