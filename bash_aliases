@@ -24,7 +24,8 @@ alias cgit="vi ~/.gitconfig"
 
 #screen
 alias sc="screen"
-alias aa="screen -R"
+alias aa="screen -R main"
+alias aar="screen -R"
 alias aals="screen -ls"
 alias scrls="screen -ls"
 alias screenrc="vi ~/.screenrc"
