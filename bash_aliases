@@ -14,10 +14,13 @@ alias pg:stop="pg_ctl -D $PGDATA -l $pglogfile stop"
 alias pg:restart="pg_ctl -D $PGDATA -l $pglogfile restart"
     #connections
     pguser="websvc_user"
-    pg:user() { pguser=$1; }
+    uudr="data_reception_user"
+    uuw="websvc_user"
+    alias pg:users="echo uudr=$uudr uuw=$uuw"
+    #pg:user() { pguser=$1; }
     alias pg:local="psql -U postgres arm_all"
     alias pg:dev="psql -h armdev-pgdb -U $pguser arm_all"
-    alias pg:prod="psql -h armdb -U $pguser arm_all"
+    alias pg:prod="psql -h armdb arm_all"
 
 #git
 alias cgit="vi ~/.gitconfig"
