@@ -36,6 +36,7 @@ alias rbash=". ~/.bash_profile"
 alias bashpr="vi ~/.bash_profile"
 alias bashal="vi ~/.bash_aliases"
 alias bashq="vi ~/.bash_queries"
+alias vimrc="vi ~/.vimrc"
 # Edit this file to add files to be recognized by vim as bash source files.
 #/usr/local/Cellar/macvim/8.0-142/MacVim.app/Contents/Resources/vim/runtime/filetype.vim
 
@@ -143,7 +144,7 @@ dirchange () {
 PROMPT_COMMAND=dirchange
 #PS1='$: '
 
-[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
+#[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
 
 source /Users/mcu/Library/Python/2.7/lib/python/site-packages/powerline/bindings/bash/powerline.sh
 

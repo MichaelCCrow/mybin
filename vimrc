@@ -51,6 +51,14 @@ au BufReadPost,BufNewFile *.py hi Search cterm=NONE ctermfg=grey ctermbg=blue
 au BufReadPost,BufNewFile *.sh hi Search cterm=NONE ctermfg=grey ctermbg=blue
 au BufReadPost,BufNewFile *.html hi Search cterm=NONE ctermfg=grey ctermbg=blue
 
+"if has("autocmd")
+"    augroup bashalias
+"        autocmd BufRead,BufNewFile .bash_queries set filetype=bash
+"    augroup END
+"endif
+
+"au BufNewFile,BufRead .bashrc*,bashrc,bash.bashrc,.bash[_-]profile*,.bash[_-]logout*,.bash[_-]aliases*,.bash[_-]queries*,*.bash,*/{,.}bash[_-]completion{,.d,.sh}{,/*},*.ebuild,*.eclass,PKGBUILD* call filetype#SetFileTypeSH("bash")
+
 " Default line highlighting for unknown filetypes
 "hi String ctermfg=140
 hi CursorLine ctermbg=17
