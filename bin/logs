@@ -18,6 +18,9 @@ ui1b="ui1b"
 watchlog() {
     tail -f $1
 }
+setwindowtitle() {
+    echo -e '\033k'$1'\033\\'
+}
 
 for i; do
     case $i
@@ -25,6 +28,7 @@ for i; do
         local) watchlog $ltcat; break;;
         esdd|dev) ssh $esdd "~/bin/tomcat-logs"; break;;
         esd|prod) ssh $esd "~/bin/tomcat-logs"; break;;
+        #esd|prod) setwindowtitle "esddrupal-prod-tomcat"; ssh $esd "~/bin/tomcat-logs"; break;;
         armj) serv=$armj; shift;;
         ui1b) serv=$ui1b; shift;;
     esac
