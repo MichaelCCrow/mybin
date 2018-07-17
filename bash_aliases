@@ -9,6 +9,7 @@ alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
 
 #psql
 #alias pg="pg_ctl"
+export pglogfile="/usr/local/psql/logs/pg.log"
 alias pg:start="pg_ctl -D $PGDATA -l $pglogfile start"
 alias pg:stop="pg_ctl -D $PGDATA -l $pglogfile stop"
 alias pg:restart="pg_ctl -D $PGDATA -l $pglogfile restart"
