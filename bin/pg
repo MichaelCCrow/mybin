@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#ABOUT:
+# Simple utility script to run postgres queryies among various environments, i.e. prod, dev, and local.
+# usage: $0  prod|dev|local|l|-c  check|token|<query_string>|-c  [<query_string>]
+# 
+# June 26, 2018
+#:ABOUT
 usage="usage: $0  prod|dev|local|l|-c  check|token|<query_string>|-c  [<query_string>]"
 
 h="localhost"
