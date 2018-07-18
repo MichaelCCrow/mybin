@@ -1,6 +1,11 @@
 #!/bin/bash
 
-devdir=/usr/local/dev/projects
+#ABOUT:
+# Simple script to open pom files given a project folder name, 
+# or in the current folder if no argument is provided.
+#:ABOUT
+
+devdir=/Users/mcu/Development/projects
 
 case $# in
     0) pomdir=${PWD}
