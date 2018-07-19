@@ -38,7 +38,7 @@ for i; do
               fi
             shift;;
         logs) watchlog; shift;;
-        status) ps -ef | grep tomcat; shift;;
+        status) ps -ef | grep tomcat; if ! lsof -i :8080 -S; then echo "--- port 8080 inactive ---"; fi; shift;;
         -q) shift;;
         *) echo Invalid command; echo $usage; exit;
     esac

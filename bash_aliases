@@ -60,6 +60,10 @@ alias kill-tomcat="pkill -9 -f tomcat"
 alias see-tomcat="tail -f /Users/mcu/tomcat7/logs/catalina.out"
 alias tomcat-logs="tail -f /Users/mcu/tomcat7/logs/catalina.out"
 
+#check if port is in use
+checkport() { lsof -i :$1 -S; }
+
+
 #Virtual Box
 alias vb="VBoxManage"
 alias vb:start="vb startvm Fedora --type headless"
