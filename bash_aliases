@@ -47,10 +47,16 @@ mvn-version() {
     mvn versions:set -DnewVersion="$1-SNAPSHOT"
 }
 
-sublime() { open -a Sublime\ Text $1; }
-pycharm() { open -a PyCharm $1; }
-eclipse() { open -a MyEclipse\ 2017\ CI $1; }
-intellij() { open -a Intellij\ IDEA $1; }
+alias sublime="open -a Sublime\ Text"
+alias pycharm="open -a PyCharm"
+alias eclipse="open -a MyEclipse\ 2017\ CI"
+alias intellij="open -a Intellij\ IDEA"
+alias chrome="open -a Google\ Chrome"
+
+#sublime() { open -a Sublime\ Text $1; }
+#pycharm() { open -a PyCharm $1; }
+#eclipse() { open -a MyEclipse\ 2017\ CI $1; }
+#intellij() { open -a Intellij\ IDEA $1; }
 
 #tomcat
 alias stop-tomcat="/Users/mcu/tomcat7/bin/shutdown.sh | tail -f /Users/mcu/tomcat7/logs/catalina.out"
