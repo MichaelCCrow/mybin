@@ -33,6 +33,8 @@ case $1 in
        -c) q="${@:2}"
            execute_basic_query "$u" "$q"
            ;;
+    start) pg_ctl -D  -l /usr/local/psql/logs/pg.log start;;
+     stop) pg_ctl -D  -l /usr/local/psql/logs/pg.log stop;;
         *) echo $usage
            exit
            ;;

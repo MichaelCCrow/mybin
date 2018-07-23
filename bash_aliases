@@ -25,6 +25,7 @@ alias pg:restart="pg_ctl -D $PGDATA -l $pglogfile restart"
 
 #git
 alias cgit="vi ~/.gitconfig"
+alias gitc="vi ~/.gitconfig"
 
 #screen
 alias sc="screen"
