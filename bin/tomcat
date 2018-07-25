@@ -9,6 +9,12 @@ tcatpath=/Users/mcu/tomcat7
 logpath=$tcatpath/logs/catalina.out
 
 watchlog() { tail -f $logpath; }
+grepstat() {
+    ps -ef | grep tomcat | grep -v ssh | grep -v grep | grep -v tail | grep -v $0
+    if ! lsof -i :8080 -S
+        then echo "--- port 8080 inactive ---"
+    fi
+}
 
 usage="usage: $0 start|stop|logs|status [-q]"
 
@@ -38,7 +44,8 @@ for i; do
               fi
             shift;;
         logs) watchlog; shift;;
-        status) ps -ef | grep tomcat; if ! lsof -i :8080 -S; then echo "--- port 8080 inactive ---"; fi; shift;;
+        status) grepstat; shift;;
+        #status) ps -ef | grep tomcat; if ! lsof -i :8080 -S; then echo "--- port 8080 inactive ---"; fi; shift;;
         -q) shift;;
         *) echo Invalid command; echo $usage; exit;
     esac

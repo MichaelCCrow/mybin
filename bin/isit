@@ -8,10 +8,7 @@
 #       boolify "-f /some/file"
 #:ABOUT
 
-#if [ $# = 0 ]; then about $0; exit; fi
+if [ $# = 0 ]; then about $0; exit; fi
 
-#bool_condition=$(eval $1)
 if eval $@; then echo "yes"; else echo "no"; fi
-
-
 

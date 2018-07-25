@@ -69,6 +69,8 @@ alias tomcat-logs="tail -f /Users/mcu/tomcat7/logs/catalina.out"
 
 #check if port is in use
 checkport() { lsof -i :$1 -S; }
+#alias checkport="lsof -Si "
+#checkport() { if lsof -i :$1 -S; then echo "port $1 is active"; else echo "inactive port $1"; fi; }
 
 
 #Virtual Box
