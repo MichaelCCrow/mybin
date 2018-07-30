@@ -7,6 +7,10 @@ vibin() { vi /Users/mcu/bin/$1; }
 #sql
 alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic"
 
+#postgres setup
+export pglogfile="/usr/local/psql/logs/pg.log"
+export PGDATA="/usr/local/psql/data"
+
 #psql
 #alias pg="pg_ctl"
 export pglogfile="/usr/local/psql/logs/pg.log"
