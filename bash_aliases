@@ -158,10 +158,12 @@ export dev="/usr/local/dev"
 alias dev="cd $dev"
 export devp="/usr/local/dev/projects"
 alias devp="cd $devp"
-export hdev="/Users/mcu/Development/projects" #home dev
-alias hdev="cd $hdev"
 export devpp="/Users/mcu/Development/projects" #home dev
 alias devpp="cd $devpp"
+export hdev="/Users/mcu/Development/projects" #home dev
+alias hdev="cd $hdev"
+export devh="/Users/mcu/Development/projects" #home dev
+alias devh="cd $devpp"
 
 export myscripts="/usr/local/dev/scripts"
 alias myscripts="cd $myscripts"
