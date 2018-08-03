@@ -22,6 +22,8 @@ setwindowtitle() {
     echo -e '\033k'$1'\033\\'
 }
 
+b=false
+
 for i; do
     case $i
         in
@@ -31,7 +33,10 @@ for i; do
         #esd|prod) setwindowtitle "esddrupal-prod-tomcat"; ssh $esd "~/bin/tomcat-logs"; break;;
         armj) serv=$armj; shift;;
         ui1b) serv=$ui1b; shift;;
+        ui1b2) serv=$ui1b; b=true; shift;;
     esac
-    ssh $serv "tail -f /usr/local/tomcat/logs/catalina.out"
+    if $b; then ssh $serv "tail -f /usr/local/tomcatb/logs/catalina.out"
+    else ssh $serv "tail -f /usr/local/tomcat/logs/catalina.out"
+    fi
     #ssh $serv "~/bin/tomcat-logs"
 done
