@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo "zebfile_timeplat"
+echo "--------------------------------------------"
+if [ $1 = 'like' ]
+then
+    psql -h armdb -U data_reception_user arm_all -tc "select * from user_access_files.zebfile_timeplat where old_filename like '$2%'"
+else
+    psql -h armdb -U data_reception_user arm_all -tc "select * from user_access_files.zebfile_timeplat where old_filename = '$1'"
+fi
+
+echo
+echo "--------------------------------------------"
+echo "--------------------------------------------"
+echo
+
+echo "fnchanges.requested_deletions"
+echo "--------------------------------------------"
+if [ $1 = 'like' ]
+then
+    psql -h armdb -U data_reception_user arm_all -tc "select * from fnchanges.requested_deletions where filename like '$2%'"
+else
+    psql -h armdb -U data_reception_user arm_all -tc "select * from fnchanges.requested_deletions where filename = '$1'"
+fi
+
+#psql -h armdb -U data_reception arm_all -tc "select * from 
