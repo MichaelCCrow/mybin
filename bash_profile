@@ -8,6 +8,8 @@ HISTSIZE=100000
 HISTFILESIZE=200000
 HISTCONTROL=ignoredups
 
+javahome="/Library/Java/JavaVirtualMachines/"
+
 #get my aliases
 if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases

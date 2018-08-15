@@ -45,7 +45,7 @@ alias deployandtest="deploy local clean --full"
 #alias sb:run="mvn clean install spring-boot:run -Drun.profiles=local"
 alias sb:run="custom-spring-boot"
 custom-spring-boot() {
-    mvn ${@:1} spring-boot:run -Drun.profiles=local
+    mvn ${@:1} spring-boot:run -Drun.profiles=localjar
 }
 
 mvn-version() {
