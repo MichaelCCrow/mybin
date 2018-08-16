@@ -165,6 +165,9 @@ alias hdev="cd $hdev"
 export devh="/Users/mcu/Development/projects" #home dev
 alias devh="cd $devpp"
 
+export resources="/Users/mcu/Development/resources"
+export res="/Users/mcu/Development/resources"
+
 export myscripts="/usr/local/dev/scripts"
 alias myscripts="cd $myscripts"
 
