@@ -5,6 +5,9 @@
 #:ABOUT
 
 echo "Deleting all .DS_Store files found in sub directories."
+if [ -f .DS_Store ]; then
+    rm -v .DS_Store
+fi
 for i in `find * -type d`; do 
     if [ -e $i/.DS_Store ]; then 
         rm -v $i/.DS_Store
