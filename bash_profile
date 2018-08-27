@@ -39,6 +39,7 @@ alias bashpr="vi ~/.bash_profile"
 alias bashal="vi ~/.bash_aliases"
 alias bashq="vi ~/.bash_queries"
 alias vimrc="vi ~/.vimrc"
+alias grep="grep --color=auto"
 # Edit this file to add files to be recognized by vim as bash source files.
 #/usr/local/Cellar/macvim/8.0-142/MacVim.app/Contents/Resources/vim/runtime/filetype.vim
 

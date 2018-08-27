@@ -185,6 +185,9 @@ alias armlive="cd $armlive"
 export pfd="$devp/partialfile_deleter"
 alias pfd="cd $pfd"
 
+export omedir="/Users/mcu/Development/projects/ome"
+alias omedir="cd $omedir"
+
 ########################################################
 
 export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
