@@ -209,6 +209,7 @@ localurl() { open -a Google\ Chrome http://localhost:8080/$1; }
 newsshkey() {  cat ~/.ssh/id_rsa.pub | ssh $1 "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh/authorized_keys"; }
 newsshkey2() { cat ~/.ssh/id_rsa.pub | ssh $1 "cat >> ~/.ssh/authorized_keys"; }
 
+alias find-newest="find . -type f -printf "%A@,%t,%p\n" | sort -nr -t, -k1"
 
 #tutorials
 alias tut-pystring="open -a 'Google Chrome' https://www.tutorialspoint.com/python/python_strings.htm"
