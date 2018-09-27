@@ -10,5 +10,10 @@
 
 if [ $# = 0 ]; then about $0; exit; fi
 
-if eval $@; then echo "yes"; else echo "no"; fi
+if eval $@
+then 
+    echo "yes"
+else 
+    echo "no"
+fi
 

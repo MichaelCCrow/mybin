@@ -52,6 +52,8 @@ mvn-version() {
     mvn versions:set -DnewVersion="$1-SNAPSHOT"
 }
 
+sepline="\n-------------------------------------------------\n"
+
 alias sublime="open -a Sublime\ Text"
 alias pycharm="open -a PyCharm"
 alias eclipse="open -a MyEclipse\ 2017\ CI"
@@ -136,9 +138,10 @@ alias s4b="ssh s4b"
 alias ll="ls -ltr"
 alias lla="ls -ltra"
 alias ltr="ls -ltr"
-alias seebin="ls /Users/mcu/bin"
-alias lsbin="ls /Users/mcu/bin"
-alias binls="ls /Users/mcu/bin"
+alias seebin='ls /Users/mcu/bin; echo -e "$sepline" run listbin for -ltr'
+alias lsbin='ls /Users/mcu/bin; echo -e "$sepline" run listbin for -ltr'
+alias binls='ls /Users/mcu/bin; echo -e "$sepline" run listbin for -ltr'
+alias listbin="ls -ltr /Users/mcu/bin"
 export mybin="/Users/mcu/bin"
 alias mybin="cd $mybin"
 alias tmp="ls -altr /tmp/ | tail"
@@ -197,6 +200,9 @@ export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
 alias find-newest="find . -type f -printf "%A@,%t,%p\n" | sort -nr -t, -k1"
 alias show-largest="du -h | grep -E '^\d.*M'"
 
+#serverstuff
+alias startnpm="screen -c test -S npm -dm npm run dev; sleep 2; if eval checkport 8889; then echo webpack/vue/npm server started on 8889; else echo failed to start server on port 8889; fi"
+alias stopnpm="screen -S npm -X -p 0 stuff $'\003'; if eval checkport 8889; then echo server still running on port 8889; else echo stopped server on port 8889; fi"
 
 url() { open -a Google\ Chrome $1; }
 localurl() { open -a Google\ Chrome http://localhost:8080/$1; }

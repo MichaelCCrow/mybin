@@ -101,6 +101,10 @@ bakcyn='\e[46m'   # Cyan
 bakwht='\e[47m'   # White
 txtrst='\e[0m'    # Text Reset
 
+underline='\033[4m'
+export undln='\033[4m'
+export rstundln='\033[0m'
+
 
 print_before_the_prompt () {
     #recentfiles=$(stat -f "%m%t%Sm %N" * | sort -rn | head -3 | cut -f2-)

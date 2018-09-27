@@ -1,0 +1,35 @@
+#!/bin/bash
+
+usage() { printf "Usage: $(basename $0) $undln%s$rstundln [port]\n" "start|stop"; }
+case $#
+    in
+        1) port=8889;;
+        2) port=$2;;
+        0|3|*) usage
+            exit;;
+esac
+
+for i
+do
+    case $i 
+        in
+        start) 
+        echo $port; exit
+            screen -c test -S npm -dm npm run dev
+            sleep 2
+            if eval lsof -i :$port -S
+            then echo webpack/vue/npm server started on 8889
+            else echo failed to start server on port 8889
+            fi;;
+        stop)
+            echo $port; exit
+            screen -S npm -X -p 0 stuff $'\003'
+            if eval lsof -i :$port -S
+            then echo server still running on port 8889
+            else echo stopped server on port 8889
+            fi;;
+        *) echo -e "$usage"
+            exit;;
+    esac
+done
+
