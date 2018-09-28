@@ -7,6 +7,7 @@ export origIFS=$IFS
 HISTSIZE=100000
 HISTFILESIZE=200000
 HISTCONTROL=ignoredups
+shopt -s histappend
 
 javahome="/Library/Java/JavaVirtualMachines/"
 

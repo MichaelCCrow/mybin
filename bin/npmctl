@@ -1,34 +1,43 @@
 #!/bin/bash
 
-usage() { printf "Usage: $(basename $0) $undln%s$rstundln [port]\n" "start|stop"; }
+print_usage() { printf "Usage: $(basename $0) $undln%s$rstundln [port]\n" "start|stop"; }
 case $#
     in
         1) port=8889;;
         2) port=$2;;
-        0|3|*) usage
+        0|3|*) print_usage
             exit;;
 esac
+
+scname="vue"
 
 for i
 do
     case $i 
         in
-        start) 
-        echo $port; exit
-            screen -c test -S npm -dm npm run dev
+        start) # make certain that it is not already running
+            if eval lsof -i :$port -S; then
+                echo "something is already running on port $port"
+                exit
+            fi
+            if screen -ls | grep -q $scname; then
+                echo "screen named $scname already exists"
+                exit
+            fi
+            
+            screen -c test -S $scname -dm npm run dev
             sleep 2
             if eval lsof -i :$port -S
             then echo webpack/vue/npm server started on 8889
             else echo failed to start server on port 8889
-            fi;;
+            fi; exit;;
         stop)
-            echo $port; exit
-            screen -S npm -X -p 0 stuff $'\003'
+            screen -S $scname -X -p 0 stuff $'\003'
             if eval lsof -i :$port -S
             then echo server still running on port 8889
             else echo stopped server on port 8889
-            fi;;
-        *) echo -e "$usage"
+            fi; exit;;
+        *) print_usage
             exit;;
     esac
 done
