@@ -1,0 +1,3 @@
+#!/bin/bash
+
+less $(ls -t /metadata/test/metadata/draft/* | head -1)

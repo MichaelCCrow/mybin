@@ -235,3 +235,4 @@ alias quicksynergy="/Applications/QuickSynergy.app/Contents/MacOS/QuickSynergy"
 
 alias makexsl="xsltproc src/main/resources/HTMLStylesheet.xsl /metadata/ngee/prod/approved/Vegetation_Warming_Experiment_Thaw_Depth_Barrow_Alaska_2017.NGA151.xml -o result.html; if [ -f result.html ]; then echo 'good to go'; else echo 'no bueno'; fi; open result.html"
 alias updatexsl="cp -v src/main/resources/HTMLStylesheet.xsl /var/lib/tomcat/webapps/ngeemetadata/HTMLStylesheet.xsl"
+
