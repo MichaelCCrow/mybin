@@ -42,6 +42,9 @@ alias screenrc="vi ~/.screenrc"
 #maven (custom script in bin)
 alias deployandtest="deploy local clean --full"
 
+alias localdep="rm -rv /Users/mcu/tomcat7/webapps/ome-dev/* && cp -rv /Users/mcu/Development/projects/ome/app/dist/ /Users/mcu/tomcat7/webapps/ome-dev/"
+alias devdep="ssh mcutomcat@esddrupal-dev 'rm -rv webapps/ome-dev/*' && scp -rv /Users/mcu/Development/projects/ome/app/dist/* mcutomcat@esddrupal-dev:webapps/ome-dev/"
+
 #alias sb:run="mvn clean install spring-boot:run -Drun.profiles=local"
 alias sb:run="custom-spring-boot"
 custom-spring-boot() {

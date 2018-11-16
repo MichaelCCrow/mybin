@@ -28,7 +28,7 @@ for i; do
     case $i
         in
         local) watchlog $ltcat; break;;
-        esdd|dev) ssh $esdd "~/bin/tomcat-logs"; break;;
+        esdd|dev) ssh mcutomcat@$esdd "/home/mcu/bin/tomcat-logs"; break;;
         esd|prod) ssh $esd "~/bin/tomcat-logs"; break;;
         #esd|prod) setwindowtitle "esddrupal-prod-tomcat"; ssh $esd "~/bin/tomcat-logs"; break;;
         armj) serv=$armj; shift;;
