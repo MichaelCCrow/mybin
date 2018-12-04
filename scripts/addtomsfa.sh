@@ -18,8 +18,8 @@ dest1=/metadata/msfa/approved/$1
 dest2=/data/Mercury_instances/msfa/harvested
 scp esddrupal-prod:$dest1 $dest1
 scp $dest1 mcumercury@mercury3-rh:$dest2/
-sleep 10
-ssh mcumercury@mercury3-rh "msfa_index_search/indexsearch.sh"
+#sleep 10
+#ssh mcumercury@mercury3-rh "msfa_index_search/indexsearch.sh"
 
 #ssh mcutomcat@esddrupal-prod "bash addtomsfa $1"
 #ssh esddrupal-prod "pwd; echo $1; ./addtomsfa $1"
