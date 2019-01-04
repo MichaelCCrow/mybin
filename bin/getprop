@@ -5,20 +5,24 @@
 # args: appfolder_name [profile]
 #:ABOUT
 
+devdir=/usr/local/dev/projects
+
 case $# in
     1) pprofile=""
        ;;
     2) pprofile="-$2"
        ;;
-   0) echo "usage: $0 app_project_folder [profile]"
-       exit
+   0) devdir=${PWD}
+      pprofile=""
+
+#       echo "usage: $0 app_project_folder [profile]"
+#       exit
        ;;
    *) echo "usage: $0 app_project_folder [profile]"
        exit
        ;;
 esac
 
-devdir=/usr/local/dev/projects
 propdir=src/main/resources/application$pprofile.properties
 if [ -f $devdir/$1/$propdir ]
     then vi $devdir/$1/$propdir
