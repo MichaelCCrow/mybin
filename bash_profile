@@ -61,12 +61,12 @@ alias ipy3="ipython3"
 #PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
 pypath2="/Users/mcu/Library/Python/2.7/bin"
 pypath3="/Library/Frameworks/Python.framework/Versions/3.5/bin"
-pypath33="/usr/local/bin/python3"
-pypath22="/usr/local/bin/python"
+#pypath3="/usr/local/bin/python3"
+#pypath2="/usr/local/bin/python"
 mypath="/Users/mcu/bin"
 brewpath="/usr/local/sbin"
-export PATH="$PATH:$pypath3:$mypath:$brewpath:$pypath2:$pypath22:$pypath33" # :$pypath36"
-export PYTHONPATH="$PYTHONPATH:/usr/local/lib/python2.7/bin"
+export PATH="$PATH:$mypath:$brewpath:$pypath2:$pypath3" # :$pypath36"
+#export PYTHONPATH="$PYTHONPATH:/usr/local/lib/python2.7/bin"
 
 
 ### template from https://code.tutsplus.com/tutorials/how-to-customize-the-command-prompt--net-20586 ###
