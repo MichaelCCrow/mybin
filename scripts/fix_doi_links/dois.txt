@@ -1,0 +1,22 @@
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 5.4 Water Year 2012"&q=*%3A* doi:10.12769/1489524
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 5.4 Water Year 2013"&q=*%3A* doi:10.12769/1490223
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 5.4 Water Year 2014"&q=*%3A* doi:10.12769/1489825
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 5.4 Water Year 2015"&q=*%3A* doi:10.12769/1489828
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 5.4 Water Year 2016"&q=*%3A* doi:10.12769/1489830
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 5.4 Water Year 2017"&q=*%3A* doi:10.12769/1489831
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 5.4 Water Year 2018"&q=*%3A* doi:10.12769/1489832
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 16.2 Water Year 2015"&q=*%3A* doi:10.12769/1490688
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 16.2 Water Year 2016"&q=*%3A* doi:10.12769/1490689
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 16.2 Water Year 2017"&q=*%3A* doi:10.12769/1490690
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Discharge at Kilometer 16.2 Water Year 2018"&q=*%3A* doi:10.12769/1490691
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 5.4 Water Year 2012"&q=*%3A* doi:10.12769/1490225
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 5.4 Water Year 2013"&q=*%3A* doi:10.12769/1490227
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 5.4 Water Year 2014"&q=*%3A* doi:10.12769/1490228
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 5.4 Water Year 2015"&q=*%3A* doi:10.12769/1490231
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 5.4 Water Year 2016"&q=*%3A* doi:10.12769/1490234
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 5.4 Water Year 2017"&q=*%3A* doi:10.12769/1490236
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 5.4 Water Year 2018"&q=*%3A* doi:10.12769/1490237
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 16.2 Water Year 2015"&q=*%3A* doi:10.12769/1490692
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 16.2 Water Year 2016"&q=*%3A* doi:10.12769/1490694
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 16.2 Water Year 2017"&q=*%3A* doi:10.12769/1490695
+https://msfa.ornl.gov/msfa/#fq=titlestr:"[Data Set] East Fork Poplar Creek Sonde Data at Kilometer 16.2 Water Year 2018"&q=*%3A* doi:10.12769/1490696
