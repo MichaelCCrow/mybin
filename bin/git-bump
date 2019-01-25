@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+#mvn-version 
+#echo >> CHANGELOG.txt
+#echo "-------------------------" >> CHANGELOG.txt
+#git status -uno >> CHANGELOG.txt
