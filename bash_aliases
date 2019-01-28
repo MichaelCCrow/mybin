@@ -230,6 +230,9 @@ newsshkey() {  cat ~/.ssh/id_rsa.pub | ssh $1 "mkdir -p ~/.ssh && cat >> ~/.ssh/
 newsshkey2() { cat ~/.ssh/id_rsa.pub | ssh $1 "cat >> ~/.ssh/authorized_keys"; }
 
 
+solrdir="/Users/mcu/Development/solr/"
+alias solr="/Users/mcu/Development/solr/bin/solr"
+
 
 #tutorials
 alias tut-pystring="open -a 'Google Chrome' https://www.tutorialspoint.com/python/python_strings.htm"
