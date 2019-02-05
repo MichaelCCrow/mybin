@@ -1,37 +1,95 @@
 #!/bin/bash
 
-#ABOUT:
-# This script is used to find a metadata record with the given record id.
-# Optionally, no argument can be provided and the most recent NGA files will be listed, newest on bottom.
-#:ABOUT
+ProgName=$(basename $0)
 
-if [[ $# < 1 || $# > 2 ]]; then
-    about $0
-    add-instructions 'The first argument should be the last 3 numbers following "NGA"' '[optional] Second argument can be the word "new" to display only the newest'
+sub_help(){
+    echo "Usage: $ProgName <subcommand> [options]\n"
+    echo "Subcommands:"
+    echo "    list  Lists latest files in draft, submitted, accepted, and approved"
+    echo "    get   Get file with associated record id"
+    echo "    show  Prints the full path to the record with the associated record id"
+    echo "    baz   Run baz"
+    echo ""
+    echo "For help with each subcommand run:"
+    echo "$ProgName <subcommand> -h|--help"
+    echo ""
+}
+
+sub_baz(){
+    echo "Running 'baz' command."
+    echo "First arg is '$1'."
+    echo "Second arg is '$2'."
+}
+
+sub_list() {
+    num=5
+    #verby=false
+    if [ $# = 1 ]; then 
+        case $1 in 
+          "-h" | "--help")
+            echo "Lists latest files in draft, submitted, accepted, and approved. Accepts optional parameter for how many to return."
+            exit;;
+          #"-v") 
+          #    shift
+          #    verby=true
+          #    ;;
+        esac
+        num=$1
+    fi
+    #if [ verby = true ]; then echo " --- Latest $num Files --- "; fi
+    #echo " --- Latest $num Files --- "
+    ls -t `find /metadata/ngee/{draft,submitted,accepted,approved}/* -type f \
+        | grep "NGA" \
+        | grep -e 'xml.' -v` \
+        | head -$num
+}
+
+_find_record() {
+    ls -t `find /metadata/ngee/{draft,submitted,accepted,approved}/* -type f \
+        | grep "NGA" \
+        | grep -e 'xml.' -v` \
+        | grep $1 \
+        | head -1
+}
+
+sub_show() {
     if [[ $# < 1 ]]; then
-        echo " --- Latest Files --- "
-        ls -t `find "/metadata/ngee" -type f | grep "NGA" | grep -e 'xml.' -v` | head -3 | tail -r
-        echo
+        sub_help
+        exit 1
     fi
-else
-    if [[ $# = 1 ]]; then
-        if [[ $1 = *"NGA"* ]]; then
-            find "/metadata/ngee" -name "*$1*" -type f
-        else
+    case $1 in "-h" | "--help")
+        echo "Prints the full path to the record with the associated record id"
+        exit
+    esac
+    echo `_find_record $1`
+}
 
-        find "/metadata/ngee" -name "*NGA$1*" -type f
-        fi
+sub_get() {
+    if [[ $# < 1 ]]; then
+        sub_help
+        exit 1
     fi
-    if [[ $# = 2 ]]; then
-        if [[ $2 = "new" ]]; then
-           
-            if [[ $1 = *"NGA"* ]]; then
-                newest=$(ls -t `find /metadata/ngee -type f | grep $1` | head -1)
-            else newest=$(ls -t `find /metadata/ngee -type f | grep NGA$1` | head -1)
-            fi
-            
-            if [ -f $newest ]; then echo $newest; fi
-            #ls -t `find /metadata/ngee -type d` | grep NGA$1 | head -1
+    case $1 in "-h" | "--help")
+        echo "Open the file with associated record id using vi"
+        exit
+    esac
+    vi `_find_record $1`
+}
+
+
+
+subcommand=$1
+case $subcommand in
+    "" | "-h" | "--help")
+        sub_help
+        ;;
+    *)
+        shift
+        sub_${subcommand} $@
+        if [ $? = 127 ]; then
+            echo "Error: '$subcommand' is not a known subcommand." >&2
+            echo "       Run '$ProgName --help' for a list of known subcommands." >&2
+            exit 1
         fi
-    fi 
-fi
+        ;;
+esac

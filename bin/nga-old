@@ -1,0 +1,37 @@
+#!/bin/bash
+
+#ABOUT:
+# This script is used to find a metadata record with the given record id.
+# Optionally, no argument can be provided and the most recent NGA files will be listed, newest on bottom.
+#:ABOUT
+
+if [[ $# < 1 || $# > 2 ]]; then
+    about $0
+    add-instructions 'The first argument should be the last 3 numbers following "NGA"' '[optional] Second argument can be the word "new" to display only the newest'
+    if [[ $# < 1 ]]; then
+        echo " --- Latest Files --- "
+        ls -t `find "/metadata/ngee" -type f | grep "NGA" | grep -e 'xml.' -v` | head -3 | tail -r
+        echo
+    fi
+else
+    if [[ $# = 1 ]]; then
+        if [[ $1 = *"NGA"* ]]; then
+            find "/metadata/ngee" -name "*$1*" -type f
+        else
+
+        find "/metadata/ngee" -name "*NGA$1*" -type f
+        fi
+    fi
+    if [[ $# = 2 ]]; then
+        if [[ $2 = "new" ]]; then
+           
+            if [[ $1 = *"NGA"* ]]; then
+                newest=$(ls -t `find /metadata/ngee -type f | grep $1` | head -1)
+            else newest=$(ls -t `find /metadata/ngee -type f | grep NGA$1` | head -1)
+            fi
+            
+            if [ -f $newest ]; then echo $newest; fi
+            #ls -t `find /metadata/ngee -type d` | grep NGA$1 | head -1
+        fi
+    fi 
+fi
