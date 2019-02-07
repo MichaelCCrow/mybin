@@ -68,6 +68,7 @@ brewpath="/usr/local/sbin"
 export PATH="$PATH:$mypath:$brewpath:$pypath2:$pypath3" # :$pypath36"
 #export PYTHONPATH="$PYTHONPATH:/usr/local/lib/python2.7/bin"
 
+MANPATH="/Users/mcu/bin/man:$MANPATH"
 
 ### template from https://code.tutsplus.com/tutorials/how-to-customize-the-command-prompt--net-20586 ###
 txtblk='\e[0;30m' # Black - Regular
