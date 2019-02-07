@@ -1,11 +1,15 @@
 #!/bin/bash
 
+iscmd=false
+
 sub_help() {
     echo
     echo "Usage: `basename $0` <message|subcommand|[-option]>\n"
     echo "Subcommands:"
     echo "    clear   Deletes file '.mygitnotes' to clear notes"
     echo "    show    Print all notes in '.mygitnotes'."
+    echo "    undo    Remove and print last note in '.mygitnotes'."
+    echo "    last    Show last note in '.mygitnotes'."
     echo
     echo "Options:"
     echo "    -m      Open notes for editing in 'mygitnotes'."
@@ -30,23 +34,58 @@ sub_clear() {
 }
 
 sub_show() {
-    cat .mygitnotes
+    #sed -i '' -e '$ d' .mygitnotes
+    if [ ! -f .mygitnotes ]
+    then 
+        echo "No notes yet"
+        exit
+    else cat .mygitnotes
+    fi
 }
 
-if [ $# != 1 ]
-then cat .mygitnotes
-else
-    case $1 in "show" | "help" | "clear") return ;
-    esac
-    echo "here so it did not continue"
+sub_last() {
+    #sed -i '' -e '$ d' .mygitnotes
+    #echo "Last note:"
+    tail -1 .mygitnotes
+}
 
-    #if [ ! -f .mygitnotes ]
-    #then
-    #    echo "Creating new notes for `git branch && git rev-parse HEAD`"
-    #    `git branch && git rev-parse HEAD` > .mygitnotes
-    #fi
-    #echo $1 >> .mygitnotes
+sub_undo() {
+    echo "Removing last note:"
+    tail -1 .mygitnotes
+    sed -i '' -e '$ d' .mygitnotes
+}
+
+sub_msg() {
+    sub_show | tr '\n' '-' | sed -e 's/-/ - /g'
+}
+
+sub_add() {
+if [[ $# = 0 ]]
+then 
+    #echo "Current notes:"
+    cat .mygitnotes
+    sub_help
+    return 1
+else
+    #case $1 in "show" | "help" | "clear" | "-h" | "--help" | "-m") return 1 ;; esac
+    if [ ! -f .mygitnotes ]
+    then
+        echo "Creating new notes for: "
+        git branch | grep '*'
+        git rev-parse HEAD
+        #echo "$(git branch | grep '*')" > .mygitnotes
+        #echo $(git rev-parse HEAD) >> .mygitnotes
+        #echo "-">> .mygitnotes
+    fi
+    echo $@ >> .mygitnotes
+    #case $1 in "undo") 
+    #    sed -i '' -e '$ d' .mygitnotes ;;
+    #esac
+    return 0
 fi
+}
+
+#if ! checkinput $1; then exit; fi
 
 subcommand=$1
 case $subcommand in
@@ -57,13 +96,28 @@ case $subcommand in
         vi .mygitnotes
         ;;
     *)
+        instring=$(echo $1 | wc -w | tr -d ' ')
+        #if [[ "$#" -ne "`echo $1 | wc -w | tr -d ' '`" ]]
+        if [[ "$#" -ne "$instring" ]]
+        then 
+            sub_add $1
+            exit 0
+            #echo "not equal, must be string"; echo $#; echo $1 | wc -w | tr -d ' '
+        else #echo "they equal"; echo $#; echo $1 | wc -w | tr -d ' '
+
         shift
         sub_${subcommand} $@
+
+        #if $iscmd; then sed -i '' -e '$ d' .mygitnotes; fi
+
         if [ $? = 127 ]; then
             echo "Error: '$subcommand' is not a known subcommand." >&2
             echo "       Run '$ProgName --help' for a list of known subcommands." >&2
             exit 1
         fi
+
+        fi
         ;;
+
 esac
 
