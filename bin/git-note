@@ -10,6 +10,8 @@ sub_help() {
     echo "    show    Print all notes in '.mygitnotes'."
     echo "    undo    Remove and print last note in '.mygitnotes'."
     echo "    last    Show last note in '.mygitnotes'."
+    echo "    msg     Print notes in commit-friendly format (new lines replaced with ' - ')."
+    echo "    add     (beta) Adds the following string as a note. This is the default without a command given."
     echo
     echo "Options:"
     echo "    -m      Open notes for editing in 'mygitnotes'."
