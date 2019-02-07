@@ -58,7 +58,11 @@ sub_undo() {
 }
 
 sub_msg() {
-    sub_show | tr '\n' '-' | sed -e 's/-/ - /g'
+    msg=`sub_show | tr '\n' '-' | sed -e 's/-/ - /g'`
+    msg=${msg%?}
+    msg=${msg%?}
+    msg=${msg%?}
+    echo $msg
 }
 
 sub_add() {
