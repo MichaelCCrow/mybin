@@ -47,7 +47,7 @@
     ####################
 	co = checkout
     br = branch
-    st = status
+    st = status -suno
 
     ####################
     ###### handy #######
@@ -57,6 +57,8 @@
 
     renameremote = remote set-url origin 
     commitedfiles = diff-tree --no-commit-id --name-only -r
+
+    showtags = tag -n9
 
     ####################
     #### pre-commit ####
