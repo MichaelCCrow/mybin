@@ -2,7 +2,7 @@
 
 iscmd=false
 
-sub_help() {
+_help() {
     echo
     echo "Usage: `basename $0` <message|subcommand|[-option]>\n"
     echo "Subcommands:"
@@ -14,7 +14,7 @@ sub_help() {
     echo "    add     (beta) Adds the following string as a note. This is the default without a command given."
     echo
     echo "Options:"
-    echo "    -m      Open notes for editing in 'mygitnotes'."
+    echo "    -e      Open notes for editing '.mygitnotes'."
     echo "Must be in the root directory of the git repo."
     exit
 }
@@ -22,11 +22,11 @@ sub_help() {
 if [ ! -d .git ]
 then 
     echo "Must be in the root directory of the git repo." 
-    sub_help
+    _help
     exit
 fi 
 
-sub_clear() {
+_clear() {
     read -p "Are you sure? [Yy]" -n 1 -r
     echo    
     if [[ $REPLY =~ ^[Yy]$ ]]
@@ -35,7 +35,7 @@ sub_clear() {
     fi
 }
 
-sub_show() {
+_show() {
     #sed -i '' -e '$ d' .mygitnotes
     if [ ! -f .mygitnotes ]
     then 
@@ -45,32 +45,32 @@ sub_show() {
     fi
 }
 
-sub_last() {
+_last() {
     #sed -i '' -e '$ d' .mygitnotes
     #echo "Last note:"
     tail -1 .mygitnotes
 }
 
-sub_undo() {
+_undo() {
     echo "Removing last note:"
     tail -1 .mygitnotes
     sed -i '' -e '$ d' .mygitnotes
 }
 
-sub_msg() {
-    msg=`sub_show | tr '\n' '-' | sed -e 's/-/ - /g'`
+_msg() {
+    msg=`_show | tr '\n' '-' | sed -e 's/-/ - /g'`
     msg=${msg%?}
     msg=${msg%?}
     msg=${msg%?}
     echo $msg
 }
 
-sub_add() {
+_add() {
 if [[ $# = 0 ]]
 then 
     #echo "Current notes:"
     cat .mygitnotes
-    sub_help
+    _help
     return 1
 else
     #case $1 in "show" | "help" | "clear" | "-h" | "--help" | "-m") return 1 ;; esac
@@ -96,9 +96,9 @@ fi
 subcommand=$1
 case $subcommand in
     "" | "-h" | "--help")
-        sub_help
+        _help
         ;;
-    "-m")
+    "-e")
         vi .mygitnotes
         ;;
     *)
@@ -106,13 +106,13 @@ case $subcommand in
         #if [[ "$#" -ne "`echo $1 | wc -w | tr -d ' '`" ]]
         if [[ "$#" -ne "$instring" ]]
         then 
-            sub_add $1
+            _add $1
             exit 0
             #echo "not equal, must be string"; echo $#; echo $1 | wc -w | tr -d ' '
         else #echo "they equal"; echo $#; echo $1 | wc -w | tr -d ' '
 
         shift
-        sub_${subcommand} $@
+        _${subcommand} $@
 
         #if $iscmd; then sed -i '' -e '$ d' .mygitnotes; fi
 

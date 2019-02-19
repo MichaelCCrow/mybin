@@ -1,9 +1,54 @@
 .\" Manpage for custom git-note script.
 .TH man 1 "07 Feb 2019" "1.0" "git note man page"
+
 .SH NAME
 git-note \- create custom notes for commits
 .SH SYNOPSIS
-git note <command> [options] <message>
+ git note <quotedtext>
+.\" git note [add] <quoted_text>
+ git note 
+.I command
+ git note -e
+
 .SH DESCRIPTION
 Checks if there is a .git repo in the current directory and writes the quoted string argument to a .mygitnotes.
+Useful for noting high points to include for the next commit message.
+
+.SH COMMANDS
+.B clear
+    Deletes file '.mygitnotes' to clear notes. Prompts for confirmation.
+
+.B last
+    Print all notes in '.mygitnotes'.
+
+.B msg
+    Print notes in commit-friendly format (new lines replaced with ' - ').
+
+.B show 
+    Show last note in '.mygitnotes'.
+
+.B undo
+    Remove and print last note in '.mygitnotes'.
+
+.\" .B add
+.\"    Adds the following string as a note. 
+.\"    (NOTE: It is not neccessary to use this, as it is the default without a command given.)
+
+.SH OPTIONS
+.B \-e
+    Open the file containing the notes for editing.
+
+.SH EXAMPLES
+$ git note "file.properties now has a new property X"
+
+$ git note show
+
+    my first note
+    file.properties now has a new property X
+
+$ git note msg
+
+    my first note - file.properties now has a new property X
+
+$ git commit -m "`git note msg`"
 
