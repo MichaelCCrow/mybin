@@ -30,6 +30,10 @@ alias today='export today="$(date)"; echo $today'
 alias mysql=/usr/local/mysql/bin/mysql
 alias mysqldump=/usr/local/mysql/bin/mysqldump
 
+#alias mysql=/usr/local/mariadb/server/bin/mariadb
+#alias mysqldump=/usr/local/mariadb/server/bin/mysqldump
+
+
 #postgres setup
 export pglogfile="/usr/local/psql/logs/pg.log"
 export PGDATA="/usr/local/psql/data"
