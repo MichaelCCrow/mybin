@@ -68,6 +68,7 @@ alias pycharm="open -a PyCharm"
 alias eclipse="open -a MyEclipse\ 2017\ CI"
 alias intellij="open -a Intellij\ IDEA"
 alias chrome="open -a Google\ Chrome"
+alias vscode="open -a Visual\ Studio\ Code"
 
 #sublime() { open -a Sublime\ Text $1; }
 #pycharm() { open -a PyCharm $1; }
