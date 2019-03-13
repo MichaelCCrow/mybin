@@ -166,3 +166,7 @@ source /Users/mcu/Library/Python/2.7/lib/python/site-packages/powerline/bindings
 test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shell_integration.bash"
 
 echo "bash profile reloaded"
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/Users/mcu/.sdkman"
+[[ -s "/Users/mcu/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/mcu/.sdkman/bin/sdkman-init.sh"
