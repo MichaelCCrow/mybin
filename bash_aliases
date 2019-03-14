@@ -122,6 +122,9 @@ alias adcadmina="ssh mcuarm@adcadmin"
 alias adc="ssh adcadmin"
 alias adca="ssh mcuarm@adcadmin"
 
+alias ngeesolr="ssh ngeesolr"
+alias ngeesolrm="ssh mcumercury@ngeesolr"
+
 alias merc="ssh mercury"
 export merc3="mercury3-rh"
 export m3="mercury3-rh"
