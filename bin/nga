@@ -91,6 +91,23 @@ sub_findtag() {
     grep -r --color=always "<$1>" /metadata/ngee/approved
 }
 
+sub_delete() {
+    if [[ $# < 1 ]]; then
+        sub_help
+        exit 1
+    fi
+    read -p "Are you sure? [Yy]" -n 1 -r
+    echo
+    if [[ $REPLY =~ ^[Yy]$ ]]; then
+        echo "deleting from db"
+        /usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! NGEE_Arctic_v2 -sNe "SELECT * FROM records WHERE record_id = '$1'"
+        /usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! NGEE_Arctic_v2 -e "DELETE FROM records WHERE record_id = '$1'"
+        recordpath=$(_find_record $1)
+        echo "deleting xml : $recordpath"
+        rm -i -v $recordpath
+    fi
+}
+
 
 
 subcommand=$1
