@@ -5,14 +5,24 @@ ProgName=$(basename $0)
 sub_help(){
     echo "Usage: $ProgName <subcommand> [options]\n"
     echo "Subcommands:"
-    echo "    list  Lists latest files in draft, submitted, accepted, and approved"
-    echo "    get   Get file with associated record id"
-    echo "    show  Prints the full path to the record with the associated record id"
-    echo "    baz   Run baz"
+    echo "    list      Lists latest files in draft, submitted, accepted, and approved"
+    echo "    get       Get file with associated record id"
+    echo "    show      Prints the full path to the record with the associated record id"
+    echo "    listrids  Greps for record id regex on filenames"
+    echo "    findtag   Greps for xml tag in approved record"
+    echo "    baz       Run baz"
     echo ""
     echo "For help with each subcommand run:"
     echo "$ProgName <subcommand> -h|--help"
     echo ""
+}
+
+_find_record() {
+    ls -t `find /metadata/ngee/{draft,submitted,accepted,approved}/* -type f \
+        | grep "NGA" \
+        | grep -e 'xml.' -v` \
+        | grep $1 \
+        | head -1
 }
 
 sub_baz(){
@@ -41,15 +51,8 @@ sub_list() {
     ls -t `find /metadata/ngee/{draft,submitted,accepted,approved}/* -type f \
         | grep "NGA" \
         | grep -e 'xml.' -v` \
+        | cut -d '/' -f 4- \
         | head -$num
-}
-
-_find_record() {
-    ls -t `find /metadata/ngee/{draft,submitted,accepted,approved}/* -type f \
-        | grep "NGA" \
-        | grep -e 'xml.' -v` \
-        | grep $1 \
-        | head -1
 }
 
 sub_show() {
@@ -76,6 +79,18 @@ sub_get() {
     vi `_find_record $1`
 }
 
+sub_listrids() {
+    ls /metadata/ngee/approved | grep --color=always -E "[a-zA-Z]{3}\d{3}"
+}
+
+sub_findtag() {
+    if [[ $# < 1 ]]; then
+        sub_help
+        exit 1
+    fi
+    grep -r --color=always "<$1>" /metadata/ngee/approved
+}
+
 
 
 subcommand=$1
@@ -83,8 +98,8 @@ case $subcommand in
     "" | "-h" | "--help")
         sub_help
         ;;
-    *)
-        shift
+
+    *)  shift
         sub_${subcommand} $@
         if [ $? = 127 ]; then
             echo "Error: '$subcommand' is not a known subcommand." >&2
