@@ -15,7 +15,7 @@ alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic_v2"
 #alias pg="pg_ctl"
 #export pglogfile="/usr/local/psql/logs/pg.log"
 #alias pg:start="pg_ctl -D $PGDATA -l $pglogfile start"
-alias pg:start="pg_ctl -D $PGDATA -l /usr/local/psql/logs/pg.log start"
+alias pg:start="pg_ctl -D /usr/local/psql/data -l /usr/local/psql/logs/pg.log start"
 alias pg:stop="pg_ctl -D $PGDATA -l $pglogfile stop"
 alias pg:restart="pg_ctl -D $PGDATA -l $pglogfile restart"
     #connections
