@@ -19,9 +19,9 @@ sub_help(){
 
 _find_record() {
     ls -t `find /metadata/ngee/{draft,submitted,accepted,approved}/* -type f \
-        | grep "NGA" \
+        | grep "NGA$1" \
         | grep -e 'xml.' -v` \
-        | grep $1 \
+        #| grep $1 \
         | head -1
 }
 
