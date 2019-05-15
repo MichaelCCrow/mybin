@@ -35,9 +35,9 @@ while read -sn 1 key; do # 1 char (not delimiter), silent
 
     case "$key" in
         # cursor up, left: previous item
-        i|j|$'\e[A'|$'\e0A'|$'\e[D'|$'\e0D') ((cur > 0)) && ((cur--));;
+        i|k|$'\e[A'|$'\e0A'|$'\e[D'|$'\e0D') ((cur > 0)) && ((cur--));;
         # cursor down, right: next item
-        k|l|$'\e[B'|$'\e0B'|$'\e[C'|$'\e0C') ((cur < ${#menu[@]}-1)) && ((cur++));;
+        j|l|$'\e[B'|$'\e0B'|$'\e[C'|$'\e0C') ((cur < ${#menu[@]}-1)) && ((cur++));;
         # home: first item
         $'\e[1~'|$'\e0H'|$'\e[H')  cur=0;;
         # end: last item
