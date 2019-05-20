@@ -21,9 +21,9 @@ _find_record() {
     ls -t `find /metadata/ngee/{draft,submitted,accepted,approved}/* -type f \
         | grep "NGA$1" \
         | grep -e 'xml.' -v` \
-        #| grep $1 \
         | head -1
 }
+        #| grep $1 \
 
 sub_baz(){
     echo "Running 'baz' command."
