@@ -126,6 +126,8 @@ alias adca="ssh mcuarm@adcadmin"
 
 alias ngeesolr="ssh ngeesolr"
 alias ngeesolrm="ssh mcumercury@ngeesolr"
+alias esdsolr="ssh esdsolr"
+alias esdsolrs="ssh mcusolr@esdsolr"
 
 alias merc="ssh mercury"
 export merc3="mercury3-rh"
@@ -248,6 +250,11 @@ alias tut-pystring="open -a 'Google Chrome' https://www.tutorialspoint.com/pytho
 
 #ome
 omesubmit() { python ~/Development/projects/ngeemetadata/src/test/python/submit.py $1 $2; } # $1)record_id $2)status<draft|submitted|accepted|approved>
+
+
+#Utility
+alias dryprune="npm prune --dry-run --production=true --json | jq '.removed[].name'"
+
 
 # Synergy
 alias synergys="/Applications/QuickSynergy.app/Contents/Resources/synergys"

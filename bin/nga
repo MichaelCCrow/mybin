@@ -9,6 +9,7 @@ sub_help(){
     echo "    get       Get file with associated record id"
     echo "    show      Prints the full path to the record with the associated record id"
     echo "    listrids  Greps for record id regex on filenames"
+    echo "    rids      List all Record IDs in approved. Optional arg to pretty print (columnize)."
     echo "    findtag   Greps for xml tag in approved record"
     echo "    baz       Run baz"
     echo ""
@@ -107,6 +108,38 @@ sub_delete() {
         rm -i -v $recordpath
     fi
 }
+
+sub_rids() {
+    if [[ $# > 0 ]]; then
+    case $1 in 
+        "-h" | "--help")
+            echo "List all Record IDs in approved."
+            echo "--------------------------------"
+            echo "Usage:"
+            echo "$ nga rids [option]"
+            echo
+            echo "Options: "
+            echo "[-p | --pretty | --col | --column | col]"
+            echo "(output in columns)"
+            echo
+            echo "-c | --count"
+            echo "(only return the number of Record IDs found)"
+            ;;
+        "-p" | "--pretty" | "--col" | "--cols" | "--column" | "col")
+            ls /metadata/ngee/approved | cut -d ' ' -f 6 | grep -oE 'NGA\d{3}' | sort | column
+            ;;
+        "-c" | "--count")
+            ls /metadata/ngee/approved | cut -d ' ' -f 6 | grep -oE 'NGA\d{3}' | sort | wc -l
+            ;;
+        *)
+            sub_help
+            exit 1
+    esac
+    exit
+    fi
+    ls /metadata/ngee/approved | cut -d ' ' -f 6 | grep -oE 'NGA\d{3}' | sort
+}
+
 
 
 
