@@ -3,19 +3,26 @@
 ProgName=$(basename $0)
 
 sub_help(){
-    echo "Usage: $ProgName <subcommand> [options]\n"
+    echo
+    echo "/**************************************************************/"
+    echo "              NGEE Arctic OME Record Utility Tool"
+    echo "/**************************************************************/"
+    echo
+    echo -e "Usage: $ProgName <subcommand> [options]\n"
     echo "Subcommands:"
     echo "    list      Lists latest files in draft, submitted, accepted, and approved"
-    echo "    get       Get file with associated record id"
     echo "    show      Prints the full path to the record with the associated record id"
+    echo "    get       Get file with associated record id"
+    echo "    findtag   Greps for xml tag in approved record"
+    echo "    delete    Delete record from database"
     echo "    listrids  Greps for record id regex on filenames"
     echo "    rids      List all Record IDs in approved. Optional arg to pretty print (columnize)."
-    echo "    findtag   Greps for xml tag in approved record"
+    echo "    db        Performs database query on the record id and for the optionally given columns and/or table"
     echo "    baz       Run baz"
     echo ""
     echo "For help with each subcommand run:"
     echo "$ProgName <subcommand> -h|--help"
-    echo ""
+    echo 
 }
 
 _find_record() {
@@ -80,10 +87,6 @@ sub_get() {
     vi `_find_record $1`
 }
 
-sub_listrids() {
-    ls /metadata/ngee/approved | grep --color=always -E "[a-zA-Z]{3}\d{3}"
-}
-
 sub_findtag() {
     if [[ $# < 1 ]]; then
         sub_help
@@ -107,6 +110,10 @@ sub_delete() {
         echo "deleting xml : $recordpath"
         rm -i -v $recordpath
     fi
+}
+
+sub_listrids() {
+    ls /metadata/ngee/approved | grep --color=always -E "[a-zA-Z]{3}\d{3}"
 }
 
 sub_rids() {
@@ -140,6 +147,43 @@ sub_rids() {
     ls /metadata/ngee/approved | cut -d ' ' -f 6 | grep -oE 'NGA\d{3}' | sort
 }
 
+_db_help() {
+    echo "Performs database query on the record id and for the optionally given columns and/or table."
+    echo "Always includes the record_id with results"
+    echo "Usage:"
+    echo "$ nga db <recordId> [column] [table]"
+    echo
+    echo "Defaults: column='record_id, ome_status' -- table='record'"
+}
+sub_db() {
+    if [[ $# < 1 ]]; then
+        sub_help
+        echo
+        echo "------------------------------------------"
+        echo
+        _db_help
+        exit 1
+    fi
+    if [[ $# > 0 ]]; then
+        case $1 in 
+            "-h" | "--help")
+                _db_help
+                exit
+        esac
+    fi
+    if [[ $# > 1 ]]; then
+        col="$2"
+        if [ $col = "xml" ]; then 
+            table="raw_fgdc"
+        fi
+    else col="ome_status"
+    fi
+    if [[ $# = 3 ]]; then
+        table="$3"
+    else table="records"
+    fi
+    /usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! NGEE_Arctic_v2 -Ee "SELECT record_id, $col FROM $table WHERE record_id = '$1'" 2>/dev/null
+}
 
 
 
