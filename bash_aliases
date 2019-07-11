@@ -107,6 +107,8 @@ alias vm-connect="ssh -p 2222 mcu@localhost"
 #lazy-ssh
 export esd="esddrupal-prod"
 export esdd="esddrupal-dev"
+alias esdt="ssh mcutomcat@esddrupal-prod"
+alias esddt="ssh mcutomcat@esddrupal-dev"
 
 alias armp="ssh armdev-python"
 alias armpp="ssh mcuarm@armdev-python"
