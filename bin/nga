@@ -24,6 +24,11 @@ sub_help(){
     echo "$ProgName <subcommand> -h|--help"
     echo 
 }
+isprod=false
+if [ $1 = "prod" ]; then
+    echo "is prod"
+    isprod=true
+fi
 
 _find_record() {
     ls -t `find /metadata/ngee/{draft,submitted,accepted,approved}/* -type f \
@@ -32,6 +37,11 @@ _find_record() {
         | head -1
 }
         #| grep $1 \
+
+_view_record() {
+    find $(_find_record $1) -exec less {} \;
+    #find /metadata/ngee/approved -type f | grep "NGA$1" | grep -e 'xml.' -v
+}
 
 sub_baz(){
     echo "Running 'baz' command."
@@ -72,7 +82,8 @@ sub_show() {
         echo "Prints the full path to the record with the associated record id"
         exit
     esac
-    echo `_find_record $1`
+    _find_record $1
+    #echo "$(_find_record $1)"
 }
 
 sub_get() {
@@ -84,7 +95,7 @@ sub_get() {
         echo "Open the file with associated record id using vi"
         exit
     esac
-    vi `_find_record $1`
+    vi "$(_find_record $1)"
 }
 
 sub_findtag() {
@@ -185,7 +196,64 @@ sub_db() {
     /usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! NGEE_Arctic_v2 -Ee "SELECT record_id, $col FROM $table WHERE record_id = '$1'" 2>/dev/null
 }
 
+sub_dev() {
+    sub_dev_show() {
+        #typeset -f sub_show | ssh esddrupal-dev "$(cat); sub_show"
+        ssh esddrupal-dev "$(typeset -f _find_record sub_show); sub_show $1"
+    }
+    sub_dev_view() {
+        ssh esddrupal-dev "$(typeset -f _find_record _view_record); _view_record $1"
+    }
+    sub_dev_get() {
+        vi <(sub_dev_view $1)
+    }
+    sub_dev_findtag() {
+        ssh esddrupal-dev "$(typeset -f sub_findtag); sub_findtag $1"
+    }
+    subc=$1
+    case $subc in
+        "" | "-h" | "--help")
+            sub_help
+            ;;
+        **) shift
+            sub_dev_${subc} $@
+            if [ $? = 127 ]; then
+                echo "Error: '$subc' is not a known subcommand." >&2
+                exit 1
+            fi
+            ;;
+    esac
+}
 
+sub_prod() {
+    sub_prod_show() {
+        #typeset -f sub_show | ssh esddrupal-dev "$(cat); sub_show"
+        ssh esddrupal-prod "$(typeset -f _find_approved sub_show); sub_show $1"
+    }
+    sub_prod_view() {
+        ssh esddrupal-prod "$(typeset -f _find_record _view_record); _view_record $1" | less
+    }
+    sub_prod_get() {
+        vi <(sub_prod_view $1)
+    }
+    sub_prod_findtag() {
+        ssh esddrupal-prod "$(typeset -f sub_findtag); sub_findtag $1"
+    }
+    subc=$1
+    case $subc in
+        "" | "-h" | "--help")
+            sub_help
+            ;;
+        **) shift
+            sub_prod_${subc} $@
+            if [ $? = 127 ]; then
+                echo "Error: '$subc' is not a known subcommand." >&2
+                exit 1
+            fi
+            ;;
+    esac
+}
+            
 
 subcommand=$1
 case $subcommand in
