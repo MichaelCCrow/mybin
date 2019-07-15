@@ -82,8 +82,8 @@ sub_show() {
         echo "Prints the full path to the record with the associated record id"
         exit
     esac
-    _find_record $1
-    #echo "$(_find_record $1)"
+    #echo `_find_record $1`
+    echo "$(_find_record $1)"
 }
 
 sub_get() {
@@ -95,7 +95,7 @@ sub_get() {
         echo "Open the file with associated record id using vi"
         exit
     esac
-    vi "$(_find_record $1)"
+    vi $(_find_record $1)
 }
 
 sub_findtag() {
