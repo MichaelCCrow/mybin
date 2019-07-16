@@ -34,6 +34,7 @@ for i; do
         armj) serv=$armj; shift;;
         ui1b) serv=$ui1b; shift;;
         ui1b2) serv=$ui1b; b=true; shift;;
+        esdsolr) ssh mcusolr@esdsolr "tail -f /var/log/solr/solr.log"; break;;
     esac
     if $b; then ssh $serv "tail -f /usr/local/tomcatb/logs/catalina.out"
     else ssh $serv "tail -f /usr/local/tomcat/logs/catalina.out"
