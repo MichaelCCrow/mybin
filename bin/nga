@@ -14,10 +14,14 @@ sub_help(){
     echo "    show      Prints the full path to the record with the associated record id"
     echo "    get       Get file with associated record id"
     echo "    findtag   Greps for xml tag in approved record"
+    echo "    findall   Find all occurences of a file with given record id, including hidden"
     echo "    delete    Delete record from database"
     echo "    listrids  Greps for record id regex on filenames"
     echo "    rids      List all Record IDs in approved. Optional arg to pretty print (columnize)."
     echo "    db        Performs database query on the record id and for the optionally given columns and/or table"
+    echo "    dev|prod  Runs the following subcommands on esddrupal-dev or esddrupal-prod, respectively:"
+    echo "              [show|view|get|findtag]"
+    echo "              ([view] is the same as [get] but uses 'less' instead of 'vi')"
     echo "    baz       Run baz"
     echo ""
     echo "For help with each subcommand run:"
@@ -104,6 +108,10 @@ sub_findtag() {
         exit 1
     fi
     grep -r --color=always "<$1>" /metadata/ngee/approved
+}
+
+sub_findall() {
+    ls -latr /metadata/ngee/{draft,submitted,accepted,approved} | grep "NGA$1"
 }
 
 sub_delete() {
@@ -202,7 +210,7 @@ sub_dev() {
         ssh esddrupal-dev "$(typeset -f _find_record sub_show); sub_show $1"
     }
     sub_dev_view() {
-        ssh esddrupal-dev "$(typeset -f _find_record _view_record); _view_record $1"
+        ssh esddrupal-dev "$(typeset -f _find_record _view_record); _view_record $1" | less
     }
     sub_dev_get() {
         vi <(sub_dev_view $1)
