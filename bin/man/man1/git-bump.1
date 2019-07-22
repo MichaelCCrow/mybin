@@ -1,0 +1,43 @@
+.\" Manpage for custom git-bump script.
+.TH man 1 "22 July 2019" "1.0" "git bump man page"
+
+.SH NAME
+git-bump \- custom project version bumping script
+.SH SYNOPSIS
+git bump <major|minor|patch>
+
+.SH DESCRIPTION
+Custom version bumping script. Bumps maven project version. Adds modified git files to CHANGELOG.txt. Accepts one arg: [major|minor|patch]
+
+Completely dependent upon python package 'bumpversion'.
+
+    $ python -m install bumpversion
+
+Requires a '.bumpversion.cfg' file in the project root directory containing:
+
+    [bumpversion]
+    current_version = <current.project.version>
+
+Key commands used by the script:
+
+    bumpversion --allow-dirty $1
+
+    newver=$(grep current_version .bumpversion.cfg | cut -d '=' -f2 | tr -d ' ')
+
+    mvn versions:set -DnewVersion="$newver-SNAPSHOT"
+
+.SH COMMANDS
+.B major
+    Increments leading version number.
+    Example:
+        1.2.3 -> 2.2.3
+
+.B minor
+    Increments secondary version number.
+    Example:
+        1.2.3 -> 1.3.3
+
+.B patch
+    Increments tertiary version number.
+    Example:
+        1.2.3 -> 1.2.4

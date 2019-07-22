@@ -64,7 +64,7 @@
     undocommit = reset --soft HEAD~ #Only undoes the commit - does not affect the files.
 
     renameremote = remote set-url origin 
-    commitedfiles = diff-tree --no-commit-id --name-only -r
+    committedfiles = diff-tree --no-commit-id --name-only -r
 
     showtags = tag -n9
 

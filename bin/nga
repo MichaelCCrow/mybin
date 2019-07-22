@@ -17,7 +17,9 @@ sub_help(){
     echo "    findall   Find all occurences of a file with given record id, including hidden"
     echo "    delete    Delete record from database"
     echo "    listrids  Greps for record id regex on filenames"
-    echo "    rids      List all Record IDs in approved. Optional arg to pretty print (columnize)."
+    echo "    rids      List all Record IDs in approved - optional arg to pretty print (columnize)"
+    echo "    lp|pages  List all landing pages - optional arg to open or just the record id to view"
+    echo "              [<[0-9]record_id>|open]"
     echo "    db        Performs database query on the record id and for the optionally given columns and/or table"
     echo "    dev|prod  Runs the following subcommands on esddrupal-dev or esddrupal-prod, respectively:"
     echo "              [show|view|get|findtag]"
@@ -164,6 +166,20 @@ sub_rids() {
     exit
     fi
     ls /metadata/ngee/approved | cut -d ' ' -f 6 | grep -oE 'NGA\d{3}' | sort
+}
+
+sub_pages() {
+    if [[ $# < 1 ]]
+    then ls -ltr /metadata/ngee/pages/
+    elif [[ $1 = "open" ]]
+    then open /metadata/ngee/pages/"NGA$2.html"
+    elif [[ $1 =~ ^[0-9]+$ ]]
+    then vi /metadata/ngee/pages/"NGA$1.html"
+    else sub_help
+    fi
+}
+sub_lp() {
+    sub_pages $@
 }
 
 _db_help() {
