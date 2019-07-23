@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Created: 7/24/2018
+# Modified: 7/23/2019
+
 #ABOUT:
 # This is a custom tomcat shortcut service for 
 # starting, stopping, viewing the log, and status check.
@@ -12,7 +15,11 @@ watchlog() { tail -f $logpath; }
 grepstat() {
     ps -ef | grep tomcat | grep -v ssh | grep -v grep | grep -v tail | grep -v $0
     if ! lsof -i :8080 -S
-        then echo "--- port 8080 inactive ---"
+    then echo "--- port 8080 inactive ---"
+    fi
+    if ! lsof -i :8081 -S
+    then echo "--- port 8081 inactive ---"
+    else echo "--- port 8081 is active ---"
     fi
 }
 

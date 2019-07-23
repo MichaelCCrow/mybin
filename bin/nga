@@ -12,7 +12,8 @@ sub_help(){
     echo "Subcommands:"
     echo "    list      Lists latest files in draft, submitted, accepted, and approved"
     echo "    show      Prints the full path to the record with the associated record id"
-    echo "    get       Get file with associated record id"
+    echo "    view      View file with associated record id with 'less'"
+    echo "    get       Get file with associated record id with 'vi'"
     echo "    findtag   Greps for xml tag in approved record"
     echo "    findall   Find all occurences of a file with given record id, including hidden"
     echo "    delete    Delete record from database"
@@ -90,6 +91,10 @@ sub_show() {
     esac
     #echo `_find_record $1`
     echo "$(_find_record $1)"
+}
+
+sub_view() {
+    _view_record $1
 }
 
 sub_get() {
