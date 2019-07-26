@@ -114,6 +114,8 @@ alias armp="ssh armdev-python"
 alias armpp="ssh mcuarm@armdev-python"
 alias armpa="ssh mcuarm@armdev-python"
 
+alias armw="ssh armweb-dev"
+alias armweb="ssh armweb-dev"
 alias armj="ssh armdev-java"
 alias armjj="ssh mcutomcat@armdev-java"
 alias armjt="ssh mcutomcat@armdev-java"
@@ -163,6 +165,8 @@ alias binls='ls /Users/mcu/bin; echo -e "$sepline" run listbin for -ltr'
 alias listbin="ls -ltr /Users/mcu/bin"
 export mybin="/Users/mcu/bin"
 alias mybin="cd $mybin"
+export tcls="/Users/mcu/tomcat7/webapps"
+alias tcls="ls -ltr /Users/mcu/tomcat7/webapps"
 alias tmp="ls -altr /tmp/ | tail"
 bin() {
     if [ -f $mybin/$1 ]; then vi $mybin/$1; fi
