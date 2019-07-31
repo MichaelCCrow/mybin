@@ -10,6 +10,8 @@ HISTCONTROL=ignoredups
 shopt -s histappend
 
 javahome="/Library/Java/JavaVirtualMachines/"
+#export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home"
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home"
 
 #get my aliases
 if [ -f ~/.bash_aliases ]; then
