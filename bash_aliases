@@ -177,6 +177,8 @@ bin() {
   alias tngm="cd $tngm"
   export tc="/Users/mcu/tomcat7"
   alias tc="cd $tc"
+  export t8="/usr/local/opt/tomcat@8/libexec/"
+  alias t8log="tail -f $t8/logs/*"
 
 export md="/metadata/ngee"
 
