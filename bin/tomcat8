@@ -1,0 +1,56 @@
+#!/bin/bash
+
+#ABOUT:
+# This is a custom tomcat shortcut service for 
+# starting, stopping, viewing the log, and status check.
+#:ABOUT
+
+tcatpath=/usr/local/opt/tomcat@8/libexec
+logpath=$tcatpath/logs/catalina.out
+
+watchlog() { tail -f $logpath; }
+grepstat() {
+    ps -ef | grep tomcat@8 | grep -v ssh | grep -v grep | grep -v tail | grep -v $0
+    if ! lsof -i :8080 -S
+    then echo "--- port 8080 inactive ---"
+    fi
+    if ! lsof -i :8081 -S
+    then echo "--- port 8081 inactive ---"
+    else echo "--- port 8081 is active ---"
+    fi
+}
+
+usage="usage: $0 start|stop|logs|status [-q]"
+
+if [[ $# > 2 || $# = 0 ]]
+    then echo $usage; exit
+fi
+
+q=false
+case $# in
+    2) if [ $2 = "-q" ]
+           then q=true
+           else echo $usage; exit
+       fi
+esac
+
+for i; do
+    case $i
+        in
+        start) if $q
+                   then bash $tcatpath/bin/startup.sh
+                   else bash $tcatpath/bin/startup.sh | watchlog
+               fi
+            shift;;
+        stop) if $q
+                  then bash $tcatpath/bin/shutdown.sh 
+                  else bash $tcatpath/bin/shutdown.sh | watchlog
+              fi
+            shift;;
+        logs) watchlog; shift;;
+        status) grepstat; shift;;
+        #status) ps -ef | grep tomcat; if ! lsof -i :8080 -S; then echo "--- port 8080 inactive ---"; fi; shift;;
+        -q) shift;;
+        *) echo Invalid command; echo $usage; exit;
+    esac
+done
