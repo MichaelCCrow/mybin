@@ -23,7 +23,7 @@ grepstat() {
     fi
 }
 
-usage="usage: $0 start|stop|logs|status [-q]"
+usage="usage: $0 start|stop|logs|status|restart(beta) [-q]"
 
 if [[ $# > 2 || $# = 0 ]]
     then echo $usage; exit
@@ -37,6 +37,15 @@ case $# in
        fi
 esac
 
+restartTomcat() {
+    bash $tcatpath/bin/shutdown.sh
+    sleep 5
+    if $q
+    then bash $tcatpath/bin/startup.sh
+    else bash $tcatpath/bin/startup.sh | watchlog
+    fi
+}
+
 for i; do
     case $i
         in
@@ -49,6 +58,8 @@ for i; do
                   then bash $tcatpath/bin/shutdown.sh 
                   else bash $tcatpath/bin/shutdown.sh | watchlog
               fi
+            shift;;
+        restart) restartTomcat
             shift;;
         logs) watchlog; shift;;
         status) grepstat; shift;;
