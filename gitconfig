@@ -22,6 +22,7 @@
     showmod = diff-tree --no-commit-id --name-only -r
     shomo = diff-tree --no-commit-id --name-only -r
 
+    lastcommit = "!git rev-parse HEAD | cut -c 1-8"
 
     newest = for-each-ref --sort=committerdate refs/heads/ --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(color:red)%(objectname:short)%(color:reset) - %(contents:subject) - %(authorname) (%(color:green)%(committerdate:relative)%(color:reset))'
     lg1 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
@@ -35,13 +36,14 @@
     aliases     = config --get-regexp alias
     showaliases = config --get-regexp alias
 	show-aliases = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
+    la = "!git config -l | grep alias | cut -c 7- | grep --color=always '^\\w*='"
+    #^.*\?="
 
     ####################
     ###### diffs #######
     ####################
     df = diff
     dfn = diff --name-only
-    diffn = diff --name-only
     dfe = diff -- . ':(exclude).idea/'
     dfj = "!f() { \
         if [[ $1 = *".jsp"* ]]; \
@@ -50,12 +52,22 @@
         fi; }; f"
     dj = diff "src/main/webapp/WEB-INF/pages"
 
+    dfnapp  = diff --name-only app/
+    dfnjava = diff --name-only src/main/java/
+    dfnres  = diff --name-only src/main/resources/
+
+    dfapp = diff app/
+    dfjava = diff src/main/java/
+    dfres = diff src/main/resources/
+
     ####################
     # simple shortcuts #
     ####################
 	co = checkout
-    br = branch
+    br = branch -a
     st = status -suno
+
+    c = "!f() { vi ~/.gitconfig; }; f"
 
     ####################
     ###### handy #######
@@ -65,8 +77,13 @@
 
     renameremote = remote set-url origin 
     committedfiles = diff-tree --no-commit-id --name-only -r
+    changes = "!git diff-tree --name-status -r $(git lastcommit)"
 
     showtags = tag -n9
+
+    branches = branch -a
+    brancha  = branch -a
+    cob = checkout -b
 
     ####################
     #### pre-commit ####
