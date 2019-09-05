@@ -23,7 +23,7 @@ sub_help(){
     echo "              [<[0-9]record_id>|open]"
     echo "    db        Performs database query on the record id and for the optionally given columns and/or table"
     echo "    dev|prod  Runs the following subcommands on esddrupal-dev or esddrupal-prod, respectively:"
-    echo "              [show|view|get|findtag]"
+    echo "              [show|view|get|findtag|pages|lp]"
     echo "              ([view] is the same as [get] but uses 'less' instead of 'vi')"
     echo "    baz       Run baz"
     echo ""
@@ -267,6 +267,12 @@ sub_prod() {
     }
     sub_prod_findtag() {
         ssh esddrupal-prod "$(typeset -f sub_findtag); sub_findtag $1"
+    }
+    sub_prod_pages() {
+        ssh esddrupal-prod "$(typeset -f sub_pages); sub_pages"
+    }
+    sub_prod_lp() {
+        sub_prod_pages
     }
     subc=$1
     case $subc in
