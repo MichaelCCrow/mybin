@@ -1,16 +1,14 @@
 #!/bin/bash
 if [ $# = 1 ]; then
-
-echo "dropping $1"
-read answer
-if [[ $answer =~ ^[Yy]$ || $answer =~ [yes] ]]; then
-
-    mysql -u ngeeadmin -pngee4db! -e "DROP DATABASE $1"
-    mysqldump -u ngeeadmin -pngee4db! NGEE_Arctic_v2 > dump.sql
-    mysqladmin -u ngeeadmin -pngee4db! create $1 
-    mysql -u ngeeadmin -pngee4db! $1 < dump.sql
-
-fi
-
-else echo "must provide database name to be created"
+    db="$1"
+    exists=false
+    #echo "if ! mysql -u ngeeadmin -pngee4db! -e "use $1""
+    if ! /usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! -e "use $db"
+    then echo "does not exist, cannot move forward"
+    else 
+        echo "the database exists, moving forward"
+        exists=true
+        /usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! -e "
+    fi
+else echo "Must provide database to copy"
 fi
