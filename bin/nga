@@ -193,7 +193,7 @@ _db_help() {
     echo "Usage:"
     echo "$ nga db <recordId> [column] [table]"
     echo
-    echo "Defaults: column='record_id, ome_status' -- table='record'"
+    echo "Defaults: column='record_id, ome_status' -- table='records'"
 }
 sub_db() {
     if [[ $# < 1 ]]; then
@@ -222,7 +222,10 @@ sub_db() {
         table="$3"
     else table="records"
     fi
-    /usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! NGEE_Arctic_v2 -Ee "SELECT record_id, $col FROM $table WHERE record_id = '$1'" 2>/dev/null
+    rid="$1"
+    #if [ $(echo -n $rid | wc -c) = 3 ]; then rid="NGA$1"; fi
+    if [ ${#rid} = 3 ]; then rid="NGA$1"; fi
+    /usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! NGEE_Arctic_v2 -Ee "SELECT record_id, $col FROM $table WHERE record_id = '$rid'" 2>/dev/null
 }
 
 sub_dev() {

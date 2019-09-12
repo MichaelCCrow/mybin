@@ -8,6 +8,7 @@ vibinx() { vibin $1; chmod +x /Users/mcu/bin/$1; }
 #sql
 alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic_v2"
 alias dumpdb="mysqldump -u ngeeadmin -pngee4db! NGEE_Arctic_v2 > dump.sql"
+alias mysqlprocesses="/usr/local/mysql/bin/mysqladmin -u ngeeadmin -pngee4db! -i 1 processlist"
 
 #postgres setup
 #export pglogfile="/usr/local/psql/logs/pg.log"
