@@ -226,10 +226,16 @@ alias omedir="cd $omedir"
 
 export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
 
+#Regex
+#select parameter portion of function (used when replacing with arrow functions in javascript)
+#https://regex101.com/r/uQtSMi/1
 
 #utility
 alias find-newest="find . -type f -printf "%A@,%t,%p\n" | sort -nr -t, -k1"
 alias show-largest="du -h | grep -E '^\d.*M'"
+
+# Open Chrome in insecure mode for testing
+alias openChromeInsecure="open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir='/tmp/chrome_dev_test' --disable-web-security"
 
 #serverstuff
 alias startnpm="screen -c test -S npm -dm npm run dev; sleep 2; if eval checkport 8889; then echo webpack/vue/npm server started on 8889; else echo failed to start server on port 8889; fi"
@@ -264,9 +270,11 @@ alias tut-pystring="open -a 'Google Chrome' https://www.tutorialspoint.com/pytho
 omesubmit() { python ~/Development/projects/ngeemetadata/src/test/python/submit.py $1 $2; } # $1)record_id $2)status<draft|submitted|accepted|approved>
 
 
-#Utility
+#NPM Utility
 alias dryprune="npm prune --dry-run --production=true --json | jq '.removed[].name'"
 
+#Curls
+alias dod:primary="curl https://pcm.arm.gov/pcmserver/dods/30ecor.b1/versions/2.2 | jq --color-output '.vars[] | select(.props|length > 0) | .atts[] | .value' | less -R"
 
 # Synergy
 alias synergys="/Applications/QuickSynergy.app/Contents/Resources/synergys"
