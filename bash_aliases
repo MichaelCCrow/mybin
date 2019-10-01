@@ -275,6 +275,8 @@ alias dryprune="npm prune --dry-run --production=true --json | jq '.removed[].na
 
 #Curls
 alias dod:primary="curl https://pcm.arm.gov/pcmserver/dods/30ecor.b1/versions/2.2 | jq --color-output '.vars[] | select(.props|length > 0) | .atts[] | .value' | less -R"
+export headerngee="X-TenantID: ngee"
+export hngee="X-TenantID: ngee"
 
 # Synergy
 alias synergys="/Applications/QuickSynergy.app/Contents/Resources/synergys"
