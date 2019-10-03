@@ -5439,3 +5439,8 @@ Branch master set up to track remote branch master from origin.
 [2019/09/25 15:00:01]:send:Users/mcu/.vimrc:Last Modified 2019/09/25-13:38:42
 [2019/09/26 15:00:01]:send:Users/mcu/.bash_aliases:Last Modified 2019/09/25-15:15:04
 [2019/10/01 15:00:02]:send:Users/mcu/.bash_aliases:Last Modified 2019/10/01-14:21:02
+[2019/10/03 15:00:00]:send:Users/mcu/bin:Last Modified 2019/10/03-12:13:30
+[2019/10/03 15:00:00]:send:Users/mcu/bin/logs:Last Modified 2019/10/03-12:13:30
+[2019/10/03 15:00:00]:send:Users/mcu/Development/scripts:Last Modified 2019/10/03-12:40:48
+[2019/10/03 15:00:01]:send:Users/mcu/Development/scripts/file_history_with_triggers.sql:Last Modified 2019/10/03-12:41:02
+[2019/10/03 15:00:01]:send:Users/mcu/Development/scripts/triggers_file_history.sql:Last Modified 2019/10/03-12:39:23
