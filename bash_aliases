@@ -287,3 +287,4 @@ alias quicksynergy="/Applications/QuickSynergy.app/Contents/MacOS/QuickSynergy"
 
 alias makexsl="xsltproc -o result.html src/main/resources/HTMLStylesheet.xsl /metadata/ngee/submitted/Test_Landing_Page_With_Full_Data_Answers.NGA536.xml; if [ -f result.html ]; then echo 'good to go'; else echo 'no bueno'; fi; open result.html"
 alias updatexsl="cp -v src/main/resources/HTMLStylesheet.xsl /var/lib/tomcat/webapps/ngeemetadata/HTMLStylesheet.xsl"
+alias msfaxsl="xsltproc -o result.html src/main/resources/MSFA_HTMLStylesheet.xsl /metadata/msfa/approved/*.SFA516.xml; if [ -f result.html ]; then echo 'good to go'; else echo 'no bueno'; fi; open result.html"

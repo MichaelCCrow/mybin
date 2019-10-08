@@ -10,22 +10,23 @@ sub_help(){
     echo
     echo -e "Usage: $ProgName <subcommand> [options]\n"
     echo "Subcommands:"
-    echo "    list      Lists latest files in draft, submitted, accepted, and approved"
-    echo "    show      Prints the full path to the record with the associated record id"
-    echo "    view      View file with associated record id with 'less'"
-    echo "    get       Get file with associated record id with 'vi'"
-    echo "    findtag   Greps for xml tag in approved record"
-    echo "    findtag [rid] Greps for xml tag in record with given record id"
-    echo "    findall   Find all occurences of a file with given record id, including hidden"
-    echo "    delete    Delete record from database"
-    echo "    listrids  Greps for record id regex on filenames"
-    echo "    rids      List all Record IDs in approved - optional arg to pretty print (columnize)"
-    echo "    lp|pages  List all landing pages - optional arg to open or just the record id to view"
-    echo "              [<[0-9]record_id>|open]"
     echo "    db        Performs database query on the record id and for the optionally given columns and/or table"
+   #echo "    delete    Delete record from database"
     echo "    dev|prod  Runs the following subcommands on esddrupal-dev or esddrupal-prod, respectively:"
     echo "              [show|view|get|findtag|pages|lp]"
     echo "              ([view] is the same as [get] but uses 'less' instead of 'vi')"
+    echo "    findtag   Greps for xml tag in approved records - optional record id as first arg"
+    echo "    findall   Find all occurences of a file with given record id, including hidden"
+    echo "    get       Get file with associated record id with 'vi'"
+    echo "    list      Lists latest files in draft, submitted, accepted, and approved"
+    echo "    listrids  Greps for record id regex on filenames"
+    echo "    lp|pages  List all landing pages - optional arg to open or just the record id to view"
+    echo "              [<[0-9]record_id>|open]"
+    echo "    pull      Copy record with given record id from production to local with scp. Assumption: record is approved."
+    echo "    rids      List all Record IDs in approved - optional arg to pretty print (columnize)"
+    echo "    show      Prints the full path to the record with the associated record id"
+    echo "    view      View file with associated record id with 'less'"
+
     echo "    baz       Run baz"
     echo ""
     echo "For help with each subcommand run:"
@@ -235,6 +236,29 @@ sub_db() {
     if [ ${#rid} = 3 ]; then rid="NGA$1"; fi
     /usr/local/mysql/bin/mysql -u ngeeadmin -pngee4db! NGEE_Arctic_v2 -Ee "SELECT record_id, $col FROM $table WHERE record_id = '$rid'" 2>/dev/null
 }
+
+sub_pull() {
+    if [[ $# < 1 ]]; then
+        sub_help
+        exit 1
+    fi
+    rid="$1"
+    if [ ${#rid} = 3 ]; then rid="NGA$1"; fi
+    
+    echo "Verifying record $rid exists on esddrupal-prod"
+    if ssh esddrupal-prod "[ -f /metadata/ngee/approved/*$rid*.xml ]"
+    then echo "Found it"
+    else echo "Record $rid does not exist on esddrupal-prod"
+        exit 1
+    fi
+    echo "Deleting local /metadata/ngee/approved/[$rid]"
+    cp -v /metadata/ngee/approved/*$rid*.xml /tmp/
+    rm -v /metadata/ngee/approved/*$rid*.xml
+    echo "Copying $1 from esddrupal-prod:/metadata/ngee/approved/"
+    scp esddrupal-prod:/metadata/ngee/approved/*$rid*.xml /metadata/ngee/approved/
+    echo "done"
+}
+
 
 sub_dev() {
     sub_dev_show() {
