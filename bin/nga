@@ -122,7 +122,7 @@ sub_findtag() {
     if [[ $# = 2 ]] && [[ ${#1} = 3 ]] && [[ $1 =~ ^[0-9]+$ ]]
     then mdir=$(sub_show $1) && tag=$2
     fi
-    grep -r --color=always "<$tag>" $mdir
+    grep -r --exclude='.*' --color=always "<$tag>" $mdir
     #grep -r --color=always "<$tag>" /metadata/ngee/approved/$record
 }
 
