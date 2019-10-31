@@ -31,6 +31,7 @@ alias today='export today="$(date)"; echo $today'
 #mysql
 alias mysql=/usr/local/mysql/bin/mysql
 alias mysqldump=/usr/local/mysql/bin/mysqldump
+alias sqlroot="/usr/local/mysql/bin/mysql -u root -plocalpw"
 
 #alias mysql=/usr/local/mariadb/server/bin/mariadb
 #alias mysqldump=/usr/local/mariadb/server/bin/mysqldump
