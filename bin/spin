@@ -1,0 +1,51 @@
+#!/bin/bash
+
+t=${1:-3000}
+s=${2:-moon}
+
+case $1 in
+    "-h" | "--help" | "help")
+        echo "Usage: "
+        echo "$(basename $0) # spins the moon for 3 seconds "
+        echo "$(basename $0) [<milliseconds>|<spinner>] [<spinner>]"
+        echo "$(basename $0) [list [-v]]"
+        exit 0
+esac
+
+# If the first arument is not a number, assume it is the name of the spinner
+if [[ ! $t =~ [0-9] ]]
+then 
+    s=$1
+    t=3000
+fi
+
+if [ ${1:-$t} = "list" ]
+then 
+    # Print everything in cli-spinners
+    if [ ${2:-$s} = "-v" ]
+    then node -e "
+        const cliSpinners = require('/usr/local/lib/node_modules/cli-spinners')
+        console.log(cliSpinners)
+    "
+    fi
+    
+    # Print only the available options for the spinner
+    node -e "
+    const cliSpinners = require('/usr/local/lib/node_modules/cli-spinners')
+    Object.keys(cliSpinners).forEach(k=>console.log(k))
+    "
+
+else # Spin
+    node -e "
+    const cliSpinners = require('/usr/local/lib/node_modules/cli-spinners')
+    const ora = require('/usr/local/lib/node_modules/ora')
+    const spinner = ora()
+
+    const options = Object.keys(cliSpinners)
+    if(!options.includes('$s')) console.log('$s is not an option\noptions:', options) //console.log('options: ', options.join(', '))
+    else spinner.spinner = cliSpinners.$s
+    spinner.start()
+    setTimeout(()=>spinner.stop(),$t)
+"
+fi
+
