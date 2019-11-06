@@ -36,7 +36,8 @@ then
     "
 
 else # Spin
-    node -e "
+    read -n 1 -p \
+    $(node -e "
     const cliSpinners = require('/usr/local/lib/node_modules/cli-spinners')
     const ora = require('/usr/local/lib/node_modules/ora')
     const spinner = ora()
@@ -46,6 +47,6 @@ else # Spin
     else spinner.spinner = cliSpinners.$s
     spinner.start()
     setTimeout(()=>spinner.stop(),$t)
-"
+    ")
 fi
 

@@ -56,7 +56,7 @@ title() { echo -e '\033k'$1'\033\\'; }
 
 #python
 alias py="/usr/bin/python2.7"
-alias py3="python3.6"
+alias py3="python3.8"
 alias ipy="ipython"
 alias ipy3="ipython3"
 #alias py3="/usr/local/bin/python3"
@@ -65,7 +65,7 @@ alias ipy3="ipython3"
 
 # Setting PATH for Python 3.5
 # The original version is saved in .bash_profile.pysave
-#PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
+#PATH="/Library/Frameworks/Python.framework/Versions/3.8/bin:${PATH}"
 pypath2="/Users/mcu/Library/Python/2.7/bin"
 pypath3="/Library/Frameworks/Python.framework/Versions/3.5/bin"
 #pypath3="/usr/local/bin/python3"
@@ -173,3 +173,24 @@ echo "bash profile reloaded"
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/Users/mcu/.sdkman"
 [[ -s "/Users/mcu/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/mcu/.sdkman/bin/sdkman-init.sh"
+
+# Setting PATH for Python 3.8
+# The original version is saved in .bash_profile.pysave
+PATH="/Library/Frameworks/Python.framework/Versions/3.8/bin:${PATH}"
+export PATH
+# added by Miniconda3 4.7.12 installer
+# >>> conda init >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$(CONDA_REPORT_ERRORS=false '/opt/miniconda3/bin/conda' shell.bash hook 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    \eval "$__conda_setup"
+else
+    if [ -f "/opt/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/opt/miniconda3/etc/profile.d/conda.sh"
+        CONDA_CHANGEPS1=false conda activate base
+    else
+        \export PATH="/opt/miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda init <<<
