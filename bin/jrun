@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [ $# = 1 ]; then
+    j="${1%.*}"
+    if -f $1.java; then
+        echo "it's a file"
+        #javac $j.java
+        #java $1
+    fi
+else echo "Usage: $0 <javafile>[.java]"
+fi

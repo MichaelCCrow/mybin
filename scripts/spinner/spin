@@ -1,7 +1,7 @@
 #!/bin/bash
 
 t=${1:-3000}
-s=${2:-dots}
+s=${2:-moon}
 
 case $1 in
     "-h" | "--help" | "help")
@@ -44,7 +44,7 @@ else # Spin
     const options = Object.keys(cliSpinners)
     if(!options.includes('$s')) console.log('$s is not an option\noptions:', options) //console.log('options: ', options.join(', '))
     else spinner.spinner = cliSpinners.$s
-    let keystroke = process.stdin
+    var keystroke = process.stdin
     spinner.start()
     keystroke.on('data', data => { // any key was pressed
         spinner.stop()
