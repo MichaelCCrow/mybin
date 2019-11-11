@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: Online Metadata Editor
+Implementation-Version: 2.1.2-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: mcu
+Implementation-Vendor-Id: ornl.ngee
+Spring-Boot-Version: 1.5.4.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: ornl.ngee.ome.OmeApplication
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.6.1
+Build-Jdk: 1.8.0_221
+Implementation-URL: http://projects.spring.io/spring-boot/omeapi/
+
