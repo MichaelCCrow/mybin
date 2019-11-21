@@ -136,6 +136,8 @@ alias ngeesolr="ssh ngeesolr"
 alias ngeesolrm="ssh mcumercury@ngeesolr"
 alias esdsolr="ssh esdsolr"
 alias esdsolrs="ssh mcusolr@esdsolr"
+alias esdsolrd="ssh esdsolr-dev"
+alias esdsolrdev="ssh esdsolr-dev"
 alias esdsolrdevs="ssh mcusolr@esdsolr-dev"
 
 alias merc="ssh mercury"
