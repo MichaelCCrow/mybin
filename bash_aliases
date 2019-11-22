@@ -236,6 +236,7 @@ export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
 #utility
 alias find-newest="find . -type f -printf "%A@,%t,%p\n" | sort -nr -t, -k1"
 alias show-largest="du -h | grep -E '^\d.*M'"
+alias grepp="grep --exclude='.*' --exclude='xml.' --exclude='.old'"
 
 # Open Chrome in insecure mode for testing
 alias openChromeInsecure="open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir='/tmp/chrome_dev_test' --disable-web-security"
