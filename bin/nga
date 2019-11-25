@@ -40,8 +40,9 @@ if [ $1 = "prod" ]; then
 fi
 
 _find_record() {
+    [[ ${#1} = 3 ]] && record="NGA$1" || record=$1
     ls -t `find /metadata/ngee/{draft,submitted,accepted,approved}/* -type f \
-        | grep "NGA$1" \
+        | grep "$record" \
         | grep -e 'xml.' -v` \
         | head -1
 }
