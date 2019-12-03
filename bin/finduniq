@@ -1,0 +1,15 @@
+#!/bin/bash
+
+if [[ $# < 3 ]]
+then echo "get out of here - needs an input"
+else
+    f1=/tmp/1.finduniq
+    f2=/tmp/2.finduniq
+    grep "$1" $2 > $f1
+    grep "$1" $3 > $f2
+    echo "---------------------------"
+    cat $f1 $f2 | sort | uniq -u
+    echo "---------------------------"
+    rm $f1 $f2
+fi
+
