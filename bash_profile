@@ -123,8 +123,10 @@ orange() {
 showcolors() {
     color=16
     while [ $color -lt 245 ]; do
-        echo -en "$color: \\033[38;5;${color}mhello\\033[48;5;${color}mworld\\033[0m"
-        if [[ $(( $color % 5)) = 0 ]]; then echo; fi
+        echo -en "$color: \\033[38;5;${color}mhello\\033[48;5;${color}mworld\\033[0m "
+        if [[ $(( $color % 5)) = 0 ]]; then echo
+        else echo -n "|"
+        fi
         ((color++))
     done
     echo
