@@ -4,6 +4,8 @@ alias kmm="open 'http://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpr
 
 vibin() { vi /Users/mcu/bin/$1; }
 vibinx() { vibin $1; chmod +x /Users/mcu/bin/$1; }
+catbin() { cat /Users/mcu/bin/$1; }
+lessbin() { less /Users/mcu/bin/$1; }
 
 #sql
 alias sql="mysql -u ngeeadmin -pngee4db! NGEE_Arctic_v2"
