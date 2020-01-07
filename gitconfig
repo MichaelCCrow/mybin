@@ -17,6 +17,7 @@
     filemodified = log -1
     filemod = log -1
     fm = log -1
+    fileadded = log --diff-filter=A --
 
     showmodified = diff-tree --no-commit-id --name-only -r
     showmod = diff-tree --no-commit-id --name-only -r
