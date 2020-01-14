@@ -25,6 +25,9 @@
 
     lastcommit = "!git rev-parse HEAD | cut -c 1-8"
 
+    totalcommits = "!git lgd | grep '*' | wc -l | tr -d ' '"
+    countcommits = "!git lgd | grep '*' | wc -l | tr -d ' '"
+
     newest = for-each-ref --sort=committerdate refs/heads/ --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(color:red)%(objectname:short)%(color:reset) - %(contents:subject) - %(authorname) (%(color:green)%(committerdate:relative)%(color:reset))'
     lg1 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
     lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
@@ -32,10 +35,10 @@
     ######(old)#########
     ### show aliases ###
     ####################
-	my-aliases   = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
+    my-aliases   = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ / | grep --color=always -E '^\\S+\\b'
     #aliases     = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
     aliases     = config --get-regexp alias
-    showaliases = config --get-regexp alias
+    showaliases = ! git config --get-regexp alias | grep --color=always -E '^\\S+\\b'
 	show-aliases = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
     la = "!git config -l | grep alias | cut -c 7- | grep --color=always '^\\w*='"
     #^.*\?="

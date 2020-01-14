@@ -5,7 +5,7 @@
 # args: appfolder_name [profile]
 #:ABOUT
 
-devdir=/usr/local/dev/projects
+devdir=/Users/mcu/Development/projects
 
 case $# in
     1) pprofile=""
