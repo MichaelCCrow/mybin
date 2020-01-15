@@ -11,33 +11,58 @@
     #### log stuff #####
     ####################
 	lgd = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset%n' --date=relative --branches
-	l2 = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset%n' --date=relative --branches --tags
+    #l2 = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset%n' --date=relative --branches --tags
 	lgdw = whatchanged --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset%n' --date=relative --branches
-
-    filemodified = log -1
-    filemod = log -1
-    fm = log -1
-    fileadded = log --diff-filter=A --
-
-    showmodified = diff-tree --no-commit-id --name-only -r
-    showmod = diff-tree --no-commit-id --name-only -r
-    shomo = diff-tree --no-commit-id --name-only -r
-
-    lastcommit = "!git rev-parse HEAD | cut -c 1-8"
-
-    totalcommits = "!git lgd | grep '*' | wc -l | tr -d ' '"
-    countcommits = "!git lgd | grep '*' | wc -l | tr -d ' '"
-
-    newest = for-each-ref --sort=committerdate refs/heads/ --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(color:red)%(objectname:short)%(color:reset) - %(contents:subject) - %(authorname) (%(color:green)%(committerdate:relative)%(color:reset))'
     lg1 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
     lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
 
-    ######(old)#########
+    
+    ##############################
+    #### show branch history #####
+    ##############################
+    sb = show-branch
+    showbranch = show-branch
+    showbranches = ! git show-branch --color=always | less -R
+
+
+    ####################
+    ### file history ###
+    ####################
+    filemodified = log -1
+    fm = log -1
+    fileadded = log --diff-filter=A --
+    
+    # all changes to a file
+    filechanged = log --oneline --graph --follow --
+    fc = log --oneline --graph --follow --
+    fcd = log --graph --follow --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset%n' --date=relative --branches --
+    filechanges = log --follow -p --
+    follow = log --follow -p --
+
+    
+    ########################################
+    #### show modified files in a commit ###
+    ########################################
+    showmodified = diff-tree --no-commit-id --name-only -r
+    showmo = diff-tree --no-commit-id --name-only -r
+    shomo = diff-tree --no-commit-id --name-only -r
+
+    # get the last commit hash
+    lastcommit = "!git rev-parse HEAD | cut -c 1-8"
+
+    # using the alias 'lgd', count the total number of commits in history
+    totalcommits = "!git lgd | grep '*' | wc -l | tr -d ' '"
+    countcommits = "!git lgd | grep '*' | wc -l | tr -d ' '"
+
+    # history of the newest branches, newest last
+    newest = for-each-ref --sort=committerdate refs/heads/ --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(color:red)%(objectname:short)%(color:reset) - %(contents:subject) - %(authorname) (%(color:green)%(committerdate:relative)%(color:reset))'
+
+    ####################
     ### show aliases ###
     ####################
     my-aliases   = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ / | grep --color=always -E '^\\S+\\b'
     #aliases     = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
-    aliases     = config --get-regexp alias
+    aliases     = ! git config --get-regexp alias | grep --color=always -E '^\\S+\\b'
     showaliases = ! git config --get-regexp alias | grep --color=always -E '^\\S+\\b'
 	show-aliases = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
     la = "!git config -l | grep alias | cut -c 7- | grep --color=always '^\\w*='"
