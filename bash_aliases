@@ -68,6 +68,32 @@ function get-mvn-version() {
     mvn -q -Dexec.executable=echo -Dexec.args='${project.version}' --non-recursive exec:exec
 }
 
+deployt() {
+  dest="armweb-dev"
+  if [ $# > 0 ]; then
+    if [[ $1 = "dev" ]]; then
+        dest="armweb-dev"
+        echo "ssh -M -S arm-ctrl-socket -fnNT -L 8080:localhost:8080 mcu@armweb-dev"
+    elif [[ $1 = "stage" ]]; then
+        dest="armweb-stage"
+        echo "ssh -M -S arm-ctrl-socket -fnNT -L 8080:localhost:8080 mcu@armweb-stage"
+    elif [[ $1 = "prod" ]]; then
+        echo "run you must tunnel to deploy to prod"
+        echo "ssh -M -S arm-ctrl-socket -fnNT -L 8080:localhost:8080 mcu@ui1b"
+        echo "then"
+        echo "ssh -S arm-ctrl-socket -O exit mcu@ui1b"
+    else "must give a profile"; return
+    fi
+    ssh -M -S arm-ctrl-socket -fnNT -L 8080:localhost:8080 mcu@$dest && \
+    mvn -P $1 ${@:2} tomcat7:redeploy && \
+    ssh -S arm-ctrl-socket -O exit mcu@$dest
+
+    echo "verifying connection was closed:"
+    ssh -S arm-ctrl-socket -O check mcu@$dest
+  else echo "profile required"
+  fi
+}
+
 
 sepline="\n-------------------------------------------------\n"
 
