@@ -1,0 +1,27 @@
+#!/bin/bash
+
+#tunnelid=$(lsof -i :8080 | grep -e "-L")
+
+tunnelid=$(ps -ef | grep -e 8080 | grep -e "-L" | grep -e "ssh" | awk '{print $2}')
+
+if [ -z "$tunnelid" ]; then 
+  if [ $# = 1 ]; then
+    if [ $1 = "-v" ]; then
+        echo 'No tunnel found using: $ ps -ef | grep -e 8080 | grep -e "-L" | grep -e "ssh"'
+    fi
+  fi
+  exit 1
+else 
+    echo $tunnelid
+fi
+
+if [ $# = 1 ]; then 
+  if [ $1 = "-v" ]; then
+    ps -ef | grep -e 8080 | grep -e "-L" | grep -e "ssh"
+  elif [ $1 = "-h" ]; then
+    echo "Use -v option to show more"
+  fi
+fi
+
+#echo $tunnelid | 
+#ps -ef 38429 | tr -d 'UID' | cut -b 1-5 | sed -n 2p

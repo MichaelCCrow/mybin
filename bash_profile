@@ -22,6 +22,10 @@ if [ -f ~/.bash_queries ]; then
     . ~/.bash_queries
 fi
 
+if [ -f ~/.bash_curls ]; then
+    . ~/.bash_curls
+fi
+
 #########################
 #### system aliases #####
 #########################
@@ -46,6 +50,7 @@ alias rbash=". ~/.bash_profile"
 alias bashpr="vi ~/.bash_profile"
 alias bashal="vi ~/.bash_aliases"
 alias bashq="vi ~/.bash_queries"
+alias bashc="vi ~/.bash_curls"
 alias vimrc="vi ~/.vimrc"
 alias grep="grep --color=auto"
 # Edit this file to add files to be recognized by vim as bash source files.

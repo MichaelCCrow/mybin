@@ -94,8 +94,23 @@ deployt() {
   fi
 }
 
+export armTunnelName="arm-ctrl-socket"
+defaultTunnelName="$armTunnelName"
+createtunnel() {
+    ssh -M -S "${1:-$defaultTunnelName}" -fnNT -L 8080:localhost:8080 "mcu@${2:-armweb-dev}"
+}
 
-sepline="\n-------------------------------------------------\n"
+closetunnel() {
+    if [ $# != 2 ]; then
+        echo "Usage: closetunnel [name] [server]"
+        echo "default: ssh -S "${1:-$defaultTunnelName}" -O exit "mcu@${2:-armweb-dev}""
+    fi
+    ssh -S "${1:-$defaultTunnelName}" -O exit "mcu@${2:-armweb-dev}"
+}
+
+
+
+export sepline="\n-------------------------------------------------\n"
 
 alias sublime="open -a Sublime\ Text"
 alias pycharm="open -a PyCharm"
@@ -264,6 +279,9 @@ export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
 #utility
 alias find-newest="find . -type f -printf "%A@,%t,%p\n" | sort -nr -t, -k1"
 alias show-largest="du -h | grep -E '^\d.*M'"
+biggestfiles() {
+    du -h ${1:-.} | grep -E "M\s"
+}
 alias grepp="grep --exclude='.*' --exclude='xml.' --exclude='.old'"
 
 # Open Chrome in insecure mode for testing
