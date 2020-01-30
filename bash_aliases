@@ -45,6 +45,8 @@ alias aar="screen -R"
 alias aals="screen -ls"
 alias scrls="screen -ls"
 alias screenrc="vi ~/.screenrc"
+alias logscreen="screen -c ~/.screenrc_logs -R logs"
+alias aalogs="screen -c ~/.screenrc_logs -R logs"
 
 #maven (custom script in bin)
 alias deployandtest="deploy local clean --full"
@@ -163,6 +165,8 @@ alias armpa="ssh mcuarm@armdev-python"
 
 alias armw="ssh armweb-dev"
 alias armweb="ssh armweb-dev"
+alias armwebd="ssh armweb-dev"
+alias armwebs="ssh armweb-stage"
 alias armj="ssh armdev-java"
 alias armjj="ssh mcutomcat@armdev-java"
 alias armjt="ssh mcutomcat@armdev-java"
@@ -206,9 +210,11 @@ alias s4b="ssh s4b"
 
 
 #lazy-nav ##############################################
+alias tree="tree -C"
 alias ll="ls -ltr"
 alias lla="ls -ltra"
 alias ltr="ls -ltr"
+alias ls:webapps="ls -ltr /Users/mcu/tomcat7/webapps"
 alias seebin='ls /Users/mcu/bin; echo -e "$sepline" run listbin for -ltr'
 alias lsbin='ls /Users/mcu/bin; echo -e "$sepline" run listbin for -ltr'
 alias binls='ls /Users/mcu/bin; echo -e "$sepline" run listbin for -ltr'
@@ -305,7 +311,7 @@ localurl() { open -a Google\ Chrome http://localhost:8080/$1; }
     alias updatecss="rsync -tv src/main/webapp/css/* $tngm/css/; ngm"
 
 #ssh keys
-newsshkey() {  cat ~/.ssh/id_rsa.pub | ssh $1 "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh/authorized_keys"; }
+newsshkey() {  cat ~/.ssh/id_rsa.pub | ssh $1 "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh/authorized_keys && chmod 700 ~/.ssh"; }
 newsshkey2() { cat ~/.ssh/id_rsa.pub | ssh $1 "cat >> ~/.ssh/authorized_keys"; }
 
 
