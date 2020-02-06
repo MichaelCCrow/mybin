@@ -21,6 +21,7 @@ alias mysqlerrorlogs="sudo tail -f -n 100000 /usr/local/mysql/data/mysqld.local.
 #alias pg="pg_ctl"
 #export pglogfile="/usr/local/psql/logs/pg.log"
 #alias pg:start="pg_ctl -D $PGDATA -l $pglogfile start"
+alias psql="/usr/local/bin/psql -p 6543"
 alias pg:start="pg_ctl -D /usr/local/psql/data -l /usr/local/psql/logs/pg.log start"
 alias pg:stop="pg_ctl -D $PGDATA -l $pglogfile stop"
 alias pg:restart="pg_ctl -D $PGDATA -l $pglogfile restart"
@@ -33,6 +34,10 @@ alias pg:restart="pg_ctl -D $PGDATA -l $pglogfile restart"
     alias pg:local="psql -U postgres arm_all"
     #alias pg:dev="psql -h armdev-pgdb -U $pguser arm_all"
     #alias pg:prod="psql -h armdb arm_all"
+alias pg:arm="psql -h armdbprod"
+alias pg:arm:websvc_user="psql -h armdbprod -U websvc_user arm_all"
+alias pg:armdev="psql -h armdbdev"
+alias pg:armdev:websvc_user="psql -h armdbdev -U websvc_user -p 6543 arm_all"
 
 #git
 alias cgit="vi ~/.gitconfig"
