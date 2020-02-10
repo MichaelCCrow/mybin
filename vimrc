@@ -42,6 +42,7 @@ au BufReadPost,BufNewFile *.py colorscheme srcery
 "au BufReadPost,BufNewFile *.py colorscheme molokaiyo
 au BufReadPost,BufNewFile *.html colorscheme srcery
 au BufReadPost,BufNewFile *.java colorscheme monokai
+au BufReadPost,BufNewFile *.kt colorscheme monokai
 au BufReadPost,BufNewFile *.pl colorscheme desert
 " au BufReadPost,BufNewFile *.php colorscheme monokai
 
@@ -79,7 +80,7 @@ hi CursorLine guibg=#D3D3D3 cterm=none
 "
 " Commenting blocks of code.
 " This specifies the comment character when specifying block comments.
-autocmd FileType c,cpp,java,scala let b:comment_leader = '//'
+autocmd FileType c,cpp,java,scala,kt let b:comment_leader = '//'
 autocmd FileType sh,ruby,python   let b:comment_leader = '#'
 autocmd FileType conf,fstab       let b:comment_leader = '#'
 "autocmd FileType tex              let b:comment_leader = '%'
