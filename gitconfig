@@ -57,8 +57,9 @@
     lastcommit = "!git rev-parse HEAD | cut -c 1-8"
 
     # using the alias 'lgd', count the total number of commits in history
-    totalcommits = "!git lgd | grep '*' | wc -l | tr -d ' '"
-    countcommits = "!git lgd | grep '*' | wc -l | tr -d ' '"
+    totalcommits = "!git log --oneline | wc -l"
+    countcommits = "!git log --oneline | wc -l"
+    #countcommits = "!git lgd | grep '*' | wc -l | tr -d ' '"
 
     # history of the newest branches, newest last
     newest = for-each-ref --sort=committerdate refs/heads/ --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(color:red)%(objectname:short)%(color:reset) - %(contents:subject) - %(authorname) (%(color:green)%(committerdate:relative)%(color:reset))'
