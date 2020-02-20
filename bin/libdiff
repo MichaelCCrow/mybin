@@ -1,0 +1,13 @@
+#!/bin/bash
+
+printlib () {
+    ssh mcutomcat@esddrupal-dev "ls lib/"
+    echo "-----^-remote-^----------------v-local-v-----"
+    ls /usr/local/tomcat/lib/ | col
+}
+liblist=/tmp/liblist.tmp.txt
+printlib > $liblist
+printlib | sort | uniq -u | tr '\n' '\0' | xargs -I{} -n 1 -0 grep -ne {} $liblist | sort -h | cut -d ':' -f2
+
+rm $liblist
+

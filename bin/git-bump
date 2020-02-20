@@ -12,21 +12,56 @@
 # Accepts one arg: [major|minor|patch]
 #:ABOUT
 
-incr=""
-
-if [[ $# != 1 || ! -f .bumpversion.cfg ]]
-then 
+printusage() {
     echo
     echo "##########################################################"
     echo "usage: $0 [major|minor|patch]"
     echo "##########################################################"
     echo
-    about $0
-    #echo "(Uses python package 'bumpversion')"
+    about $0 || echo "(Uses python package 'bumpversion')"
     #bumpversion
     echo
     #exit
+}
 
+installbumpversion() {
+    if [ ! `which bumpversion` ]
+    then
+        echo "Cannot find bumpversion"
+        echo "Attempting to install..."
+
+        python3 -m pip install bumpversion
+
+        if [ `which bumpversion` ]
+        then echo "Successfully installed bumpversion" && which bumpversion
+        else echo "Failed to install bumpversion. It is required for 'git bump' to function properly."
+             exit 1
+        fi
+    fi
+
+    ! which -s bumpversion && exit 1 # pip installing bumpversion failed
+
+    if [ ! -f .bumversion.cfg ]
+    then
+        defver="0.0.1"
+        mvnver=$(mvn -q -Dexec.executable=echo -Dexec.args='${project.version}' --non-recursive exec:exec | cut -d '-' -f1)
+        [ $mvnver != "" ] && defver=$mvnver
+        echo "Creating .bumpversion.cfg with version $defver"
+        echo "[bumpversion]" > .bumpversion.cfg
+        echo -e "current_version = $defver\n" >> .bumpversion.cfg
+    fi
+}
+
+[[ $# != 1 || ! -f .bumpversion.cfg ]] && printusage
+
+[ ! -f .bumpversion.cfg ] && installbumpversion # Verify bumpversion is installed
+
+incr=""
+
+if [[ $# != 1 ]] 
+then 
+
+    if which makemenu.sh && [ -f .bumpversion.cfg ]; then
     echo "Interactive mode? [Y/n] "
     read -t 5 answer
     if [[ $answer =~ ^[Yy]$ || $answer =~ [yes] ]]
@@ -44,27 +79,11 @@ then
         echo "-----------------------------------------"
         else exit
     fi
+    fi
 else incr=$1
 fi
 
 [ $incr = "" ] && exit 1
-
-### Verify bumpversion is installed ###
-if [ ! `which bumpversion` ]
-then
-    echo "Cannot find bumpversion"
-    echo "Attempting to install..."
-
-    python3 -m pip install bumpversion
-
-    if [ `which bumpversion` ]
-    then echo "Successfully installed bumpversion" && which bumpversion
-    else echo "Failed to install bumpversion. It is required for 'git bump' to function properly."
-         exit 1
-    fi
-fi
-
-! which -s bumpversion && exit 1
 
 curver=$(mvn -q -Dexec.executable=echo -Dexec.args='${project.version}' --non-recursive exec:exec)
 newver=$(grep current_version .bumpversion.cfg | cut -d '=' -f2 | tr -d ' ')

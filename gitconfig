@@ -40,12 +40,18 @@
     follow = log --follow -p --
 
     
-    ########################################
-    #### show modified files in a commit ###
-    ########################################
-    showmodified = diff-tree --no-commit-id --name-only -r
-    showmo = diff-tree --no-commit-id --name-only -r
-    shomo = diff-tree --no-commit-id --name-only -r
+    ###############################
+    #### show files in a commit ###
+    ###############################
+    showmodified  = diff-tree --no-commit-id --name-only -r
+    showmo        = diff-tree --no-commit-id --name-only -r
+    shomo         = diff-tree --no-commit-id --name-only -r
+    commitedfiles = diff-tree --no-commit-id --name-only -r
+    cf            = diff-tree --no-commit-id --name-only -r
+    filesincommit = diff-tree --no-commit-id --name-only -r
+    fic           = diff-tree --no-commit-id --name-only -r
+    changes = "!git diff-tree --name-status -r $(git lastcommit)" # changes in last commit
+
 
     # get the last commit hash
     lastcommit = "!git rev-parse HEAD | cut -c 1-8"
@@ -61,6 +67,7 @@
     ### show aliases ###
     ####################
     my-aliases   = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ / | grep --color=always -E '^\\S+\\b'
+    al = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ / | grep --color=always -E '^\\S+\\b'
     #aliases     = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
     aliases     = ! git config --get-regexp alias | grep --color=always -E '^\\S+\\b'
     showaliases = ! git config --get-regexp alias | grep --color=always -E '^\\S+\\b'
@@ -105,8 +112,6 @@
     undocommit = reset --soft HEAD~ #Only undoes the commit - does not affect the files.
 
     renameremote = remote set-url origin 
-    committedfiles = diff-tree --no-commit-id --name-only -r
-    changes = "!git diff-tree --name-status -r $(git lastcommit)"
 
     showtags = tag -n9
 
