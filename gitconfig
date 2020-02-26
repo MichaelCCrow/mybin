@@ -24,6 +24,11 @@
     showbranch = show-branch
     showbranches = ! git show-branch --color=always | less -R
 
+    ######################################################
+    ### show what changed in this file, in this commit ###
+    ### git show <commit|branch> <file>
+    ######################################################
+
 
     ####################
     ### file history ###
@@ -31,8 +36,9 @@
     filemodified = log -1
     fm = log -1
     fileadded = log --diff-filter=A --
-    
-    # all changes to a file
+    #############################
+    ### all changes to a file ###
+    #############################
     filechanged = log --oneline --graph --follow --
     fc = log --oneline --graph --follow --
     fcd = log --graph --follow --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset%n' --date=relative --branches --
@@ -50,6 +56,7 @@
     cf            = diff-tree --no-commit-id --name-only -r
     filesincommit = diff-tree --no-commit-id --name-only -r
     fic           = diff-tree --no-commit-id --name-only -r
+    lastchanges = "!git diff-tree --name-status -r $(git lastcommit)" # changes in last commit
     changes = "!git diff-tree --name-status -r $(git lastcommit)" # changes in last commit
 
 
@@ -64,6 +71,7 @@
     # history of the newest branches, newest last
     newest = for-each-ref --sort=committerdate refs/heads/ --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(color:red)%(objectname:short)%(color:reset) - %(contents:subject) - %(authorname) (%(color:green)%(committerdate:relative)%(color:reset))'
 
+
     ####################
     ### show aliases ###
     ####################
@@ -75,6 +83,7 @@
 	show-aliases = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
     la = "!git config -l | grep alias | cut -c 7- | grep --color=always '^\\w*='"
     #^.*\?="
+
 
     ####################
     ###### diffs #######
@@ -97,14 +106,17 @@
     dfjava = diff src/main/java/
     dfres = diff src/main/resources/
 
+
     ####################
     # simple shortcuts #
     ####################
 	co = checkout
     br = branch -a
     st = status -suno
+    statsu = status -suno
 
     c = "!f() { vi ~/.gitconfig; }; f"
+
 
     ####################
     ###### handy #######
