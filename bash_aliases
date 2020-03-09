@@ -279,6 +279,8 @@ alias pfd="cd $pfd"
 export omedir="/Users/mcu/Development/projects/ome"
 alias omedir="cd $omedir"
 
+export mcmbpro="10.159.193.223"
+
 ########################################################
 
 export jenkhome="/Users/mcu/Documents/Kitematic/jenkins/var/jenkins_home"
