@@ -132,6 +132,19 @@
     brancha  = branch -a
     cob = checkout -b
 
+
+    ###################
+    #### DANGEROUS ####
+    ###################
+    #echo 'filter-branch --force --index-filter 'git rm --cached --ignore-unmatch $1' --prune-empty --tag-name-filter cat -- --all'; }; f
+    deleteFilesFromGitHistory = "!f() { \
+        if [[ $# = 1 && -d $1 ]]; then \
+            filter-branch --force --index-filter \
+            'git rm --cached --ignore-unmatch $1' \
+            --prune-empty --tag-name-filter cat -- --all; \
+        else echo "filter-branch --force --index-filter 'git rm --cached --ignore-unmatch $1' --prune-empty --tag-name-filter cat -- --all"; \
+        fi; }; f"
+
     ####################
     #### pre-commit ####
     ####################

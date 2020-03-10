@@ -1,13 +1,33 @@
 #!/bin/bash
 
-printlib () {
+printlib() {
     ssh mcutomcat@esddrupal-dev "ls lib/"
     echo "-----^-remote-^----------------v-local-v-----"
     ls /usr/local/tomcat/lib/ | col
 }
+printlib2() {
+    remoteurl=$(echo $1 | cut -d ':' -f1)
+    remotedir=$(echo $1 | cut -d ':' -f2)
+    localdir=$2
+    ssh $remoteurl "ls $remotedir"
+    echo "-----^-remote-^----------------v-local-v-----"
+    ls $localdir | col
+}
 liblist=/tmp/liblist.tmp.txt
+
+if [ $# = 2 ]
+then
+echo "doing the new one"
+printlib2 $@ > $liblist
+printlib2 $@ | sort | uniq -u | tr '\n' '\0' | xargs -I{} -n 1 -0 grep -ne {} $liblist | sort -h | cut -d ':' -f2
+elif [ $# = 0 ]
+then
 printlib > $liblist
 printlib | sort | uniq -u | tr '\n' '\0' | xargs -I{} -n 1 -0 grep -ne {} $liblist | sort -h | cut -d ':' -f2
+else
+echo "Usage: $0 [ user@remote:dir/ ] [ local/dir/ ]"
+echo "Default: remote = mcutomcat@esddrupal-dev, local = /usr/local/tomcat/lib/"
+fi
 
 rm $liblist
 
