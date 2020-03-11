@@ -234,8 +234,8 @@ bin() {
 }
 
   #tomcat
-  export tngm="/Users/mcu/tomcat7/webapps/ngeemetadata"
-  alias tngm="cd $tngm"
+  #export tngm="/Users/mcu/tomcat7/webapps/ngeemetadata"
+  #alias tngm="cd $tngm"
   export tc="/Users/mcu/tomcat7"
   alias tc="cd $tc"
   export t8="/usr/local/opt/tomcat@8/libexec/"
@@ -243,9 +243,9 @@ bin() {
 
 export md="/metadata/ngee"
 
-export dev="/usr/local/dev"
+export dev="/Users/mcu/Development"
 alias dev="cd $dev"
-export devp="/usr/local/dev/projects"
+export devp="/Users/mcu/Development/projects"
 alias devp="cd $devp"
 export proj="/Users/mcu/Development/projects" #home dev
 alias proj="cd $proj"
@@ -256,8 +256,8 @@ alias hdev="cd $hdev"
 export devh="/Users/mcu/Development/projects" #home dev
 alias devh="cd $devpp"
 
-export resources="/Users/mcu/Development/resources"
-export res="/Users/mcu/Development/resources"
+#export resources="/Users/mcu/Development/resources"
+#export res="/Users/mcu/Development/resources"
 
 export myscripts="/usr/local/dev/scripts"
 alias myscripts="cd $myscripts"
