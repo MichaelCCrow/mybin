@@ -1,0 +1,132 @@
+.\" Manpage for custom git-bump script.
+.TH man 1 "22 July 2019" "1.0" "man page for nga script"
+.SH NAME
+nga \- utility script for managing and viewing NGEE records
+.SH SYNOPSIS
+.sp
+.nf
+nga db {\fBxml\fR|\fBraw\fR|\fBraw_fgdc\fR} \fIrecord_id\fR
+nga db xml \fIrecordid\fR [\fIcolumn\fR \fItable\fR]
+nga dbxml \fIrecordid\fR [\fIcolumn\fR \fItable\fR]
+nga dev|prod <show|view|get|findtag|pages|lp> \fIrecordid\fR
+nga findtag [\fIrecordid\fR] \fItag\fR
+nga findall \fIrecordid\fR
+nga get \fIrecordid\fR
+nga list \fIstatus\fR
+.RS 4
+Ex: nga list approved
+.RE
+nga listrids 
+nga lp|pages [\fIrecordid\fR|\fBopen\fR]
+nga pull \fIrecordid\fR
+nga rids [\-p | \-\-pretty | \-c | \-\-count]
+nga show \fIrecordid\fR
+nga view \fIrecordid\fR
+.fi
+.sp
+.SH DESCRIPTION
+Custom utility script for viewing, managing, and working with NGEE records.
+.SH COMMANDS
+.sp
+With no arguments, shows concise usage text.
+.PP
+.B db {\fBxml\fR|\fBraw\fR|\fBraw_fgdc\fR} \fIrecordid\fR [\fIcolumn\fR] [\fItable\fR]
+.RS 4
+Performs database query on the record id and for the optionally given columns and/or table
+\fIxml\fR is same as subcommand \fBdbxml\fR
+.sp
+Defaults:
+\fIcolumn\fR = 'ome_status'
+\fItable\fR = 'records'
+.RE
+.PP
+.B dbxml
+.RS 4
+View raw_fgdc xml in database using \fBless\fR
+[\fB-e\fR|\fB--vi\fR] - open with vi for syntax coloring
+Same as \fBdb xml\fR
+.RE
+.PP
+.BR dev ", " prod
+.RS 4
+\fBshow\fR|\fBview\fR|\fBget\fR|\fBfindtag\fR|\fBpages\fR|\fBlp\fR
+Runs the subcommand on esddrupal-dev or esddrupal-prod, respectively.
+([\fBview\fR] is the same as [\fBget\fR] but uses \fBless\fR instead of \fBvi\fR)
+.RE
+.PP
+.B findtag [\fIrecordid\fR] \fItag\fR
+.RS 4
+Greps for xml tag in approved records - optional record id as first arg.
+.RE
+.PP
+.B findall \fIrecordid\fR
+.RS 4
+Find all occurences of a file with given record id, including hidden.
+.RE
+.PP
+.B get \fIrecordid\fR
+.RS 4
+Get file with associated record id with 'vi'
+.RE
+.PP
+.B list \fIstatus\fR
+.RS 4
+Lists latest files in draft, submitted, accepted, and approved
+.RE
+.PP
+.B listrids
+.RS 4
+Greps for record id regex on filenames
+.RE
+.PP
+.B lp, pages [\fIrecordid\fR|\fBopen\fR]
+.RS 4
+List all landing pages - optional arg to open or just the record id to view
+.RE
+.PP
+.B pull \fIrecordid\fR
+.RS 4
+Copy record with given record id from production to local with scp.
+Assumption: record is approved.
+.RE
+.PP
+.B rids [\-p|\-\-pretty|\-c|\-\-count]
+.\"|\-col|\-cols|\-\-columns ) 
+.RS 4
+List all Record IDs in approved - optional arg to pretty print (columnize)
+.RE
+.B show \fIrecordid\fR
+.RS 4
+Prints the full path to the record with the associated record id
+.RE
+.PP
+.B view \fIrecordid\fR
+.RS 4
+View file with associated record id with \fIless\fR
+.RE
+.sp
+.SH EXAMPLES
+.sp
+.RS 4
+.ie n \{\
+\h'-04'\(bu\h'+03'\c
+.\}
+.el \{\
+.sp -1
+.IP \(bu 2.3
+.\}
+List all files in the accepted status, i.e. accepted folder
+.sp
+.if n \{\
+.RS 4
+.\}
+.nf
+$ nga list accepted
+NGA123 NGA124 NGA352
+.fi
+.if n \{\
+.RE
+.\}
+.sp
+.RE
+.sp
